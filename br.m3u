@@ -1,229 +1,281 @@
 #EXTM3U
-#EXTINF:-1, ANIMAL PLANET
-http://p5.giffy.be:8080/live/janet/janet1/80485.m3u8
-#EXTINF:-1, BABY TV (2)
-http://p5.giffy.be:8080/live/janet/janet1/80482.m3u8
-#EXTINF:-1, BAND
-http://p5.giffy.be:8080/live/janet/janet1/80481.m3u8
-#EXTINF:-1, BAND NEWS
-http://p5.giffy.be:8080/live/janet/janet1/80480.m3u8
-#EXTINF:-1, BAND SPORTS (2)
-http://p5.giffy.be:8080/live/janet/janet1/80479.m3u8
-#EXTINF:-1, BOOMERANG (2)
-http://p5.giffy.be:8080/live/janet/janet1/80477.m3u8
-#EXTINF:-1, CANAL BRASIL
-http://p5.giffy.be:8080/live/janet/janet1/80476.m3u8
-#EXTINF:-1, CANAL SONY
-http://p5.giffy.be:8080/live/janet/janet1/80475.m3u8
-#EXTINF:-1, CARTOON NETWORK
-http://p5.giffy.be:8080/live/janet/janet1/80474.m3u8
-#EXTINF:-1, CINEMAX
-http://p5.giffy.be:8080/live/janet/janet1/80473.m3u8
-#EXTINF:-1, COMBATE
-http://p5.giffy.be:8080/live/janet/janet1/80472.m3u8
-#EXTINF:-1, COMEDY CENTRAL
-http://p5.giffy.be:8080/live/janet/janet1/80471.m3u8
-#EXTINF:-1, DISCOVERY CHANNEL
-http://p5.giffy.be:8080/live/janet/janet1/80470.m3u8
-#EXTINF:-1, DISCOVERY CIVILIZATION
-http://p5.giffy.be:8080/live/janet/janet1/80469.m3u8
-#EXTINF:-1, DISCOVERY H&H
-http://p5.giffy.be:8080/live/janet/janet1/80468.m3u8
-#EXTINF:-1, DISCOVERY KIDS
-http://p5.giffy.be:8080/live/janet/janet1/80466.m3u8
-#EXTINF:-1, DISCOVERY KIDS (2)
-http://p5.giffy.be:8080/live/janet/janet1/80465.m3u8
-#EXTINF:-1, DISCOVERY SCIENCE
-http://p5.giffy.be:8080/live/janet/janet1/80464.m3u8
-#EXTINF:-1, DISCOVERY WORLD (2)
-http://p5.giffy.be:8080/live/janet/janet1/80462.m3u8
-#EXTINF:-1, DISNEY CHANNEL
-http://p5.giffy.be:8080/live/janet/janet1/80463.m3u8
-#EXTINF:-1, DISNEY JUNIOR
-http://p5.giffy.be:8080/live/janet/janet1/80467.m3u8
-#EXTINF:-1, DISNEY XD
-http://p5.giffy.be:8080/live/janet/janet1/80461.m3u8
-#EXTINF:-1, ESPN BRASIL
-http://p5.giffy.be:8080/live/janet/janet1/80458.m3u8
-#EXTINF:-1, ESPORTE INTERATIVO (2)
-http://p5.giffy.be:8080/live/janet/janet1/80456.m3u8
-#EXTINF:-1, FOX
-http://p5.giffy.be:8080/live/janet/janet1/80454.m3u8
-#EXTINF:-1, FOX PREMIUM 1 (2)
-http://p5.giffy.be:8080/live/janet/janet1/80453.m3u8
-#EXTINF:-1, FOX PREMIUM 2 (2)
-http://p5.giffy.be:8080/live/janet/janet1/80452.m3u8
-#EXTINF:-1, FOX SPORTS
-http://p5.giffy.be:8080/live/janet/janet1/80451.m3u8
-#EXTINF:-1, FOX SPORTS (2)
-http://p5.giffy.be:8080/live/janet/janet1/80448.m3u8
-#EXTINF:-1, FOX SPORTS 2
-http://p5.giffy.be:8080/live/janet/janet1/80450.m3u8
-#EXTINF:-1, FOX SPORTS 2 (2)
-http://p5.giffy.be:8080/live/janet/janet1/80449.m3u8
-#EXTINF:-1, FUTURA
-http://p5.giffy.be:8080/live/janet/janet1/80447.m3u8
-#EXTINF:-1, GLOBO BRASILIA
-http://p5.giffy.be:8080/live/janet/janet1/80445.m3u8
-#EXTINF:-1, GLOBO NEWS
-http://p5.giffy.be:8080/live/janet/janet1/80441.m3u8
-#EXTINF:-1, GLOBO NEWS (2)
-http://p5.giffy.be:8080/live/janet/janet1/80440.m3u8
-#EXTINF:-1, GLOBO NORDESTE
-http://p5.giffy.be:8080/live/janet/janet1/80438.m3u8
-#EXTINF:-1, GLOBO PREMIUM
-http://p5.giffy.be:8080/live/janet/janet1/80437.m3u8
-#EXTINF:-1, GLOBO RIBIER?O PRETO
-http://p5.giffy.be:8080/live/janet/janet1/80436.m3u8
-#EXTINF:-1, GLOBO RIBIER?O PRETO (2)
-http://p5.giffy.be:8080/live/janet/janet1/80489.m3u8
-#EXTINF:-1, GLOBO RJ
-http://p5.giffy.be:8080/live/janet/janet1/80435.m3u8
-#EXTINF:-1, GLOBO RJ (2)
-http://p5.giffy.be:8080/live/janet/janet1/80434.m3u8
-#EXTINF:-1, GLOBO SP
-http://p5.giffy.be:8080/live/janet/janet1/80433.m3u8
-#EXTINF:-1, GLOBO SP (b)
-http://p5.giffy.be:8080/live/janet/janet1/80432.m3u8
-#EXTINF:-1, GLOBOSAT (2)
-http://p5.giffy.be:8080/live/janet/janet1/80431.m3u8
-#EXTINF:-1, GLOOB
-http://p5.giffy.be:8080/live/janet/janet1/80430.m3u8
-#EXTINF:-1, GLOOB (2)
-http://p5.giffy.be:8080/live/janet/janet1/80429.m3u8
-#EXTINF:-1, HBO FAMILY
-http://p5.giffy.be:8080/live/janet/janet1/80425.m3u8
-#EXTINF:-1, HISTORY CHANNEL
-http://p5.giffy.be:8080/live/janet/janet1/80423.m3u8
-#EXTINF:-1, ID - INVESTIGA??O DISCOVERY
-http://p5.giffy.be:8080/live/janet/janet1/80488.m3u8
-#EXTINF:-1, ID - INVESTIGA??O DISCOVERY (2)
-http://p5.giffy.be:8080/live/janet/janet1/80422.m3u8
-#EXTINF:-1, LIFETIME
-http://p5.giffy.be:8080/live/janet/janet1/80421.m3u8
-#EXTINF:-1, MAIS GLOBOSAT
-http://p5.giffy.be:8080/live/janet/janet1/80420.m3u8
-#EXTINF:-1, MUSIC BOX BRAZIL
-http://p5.giffy.be:8080/live/janet/janet1/80418.m3u8
-#EXTINF:-1, NAT GEO KIDS
-http://p5.giffy.be:8080/live/janet/janet1/80416.m3u8
-#EXTINF:-1, NATGEO WILD
-http://p5.giffy.be:8080/live/janet/janet1/80415.m3u8
-#EXTINF:-1, NATGEO WILD (2)
-http://p5.giffy.be:8080/live/janet/janet1/80417.m3u8
-#EXTINF:-1, NATIONAL GEOGRAPHIC
-http://p5.giffy.be:8080/live/janet/janet1/80414.m3u8
-#EXTINF:-1, NICKELODEON
-http://p5.giffy.be:8080/live/janet/janet1/80412.m3u8
-#EXTINF:-1, PARAMOUNT
-http://p5.giffy.be:8080/live/janet/janet1/80411.m3u8
-#EXTINF:-1, PREMIERE CLUBES
-http://p5.giffy.be:8080/live/janet/janet1/80409.m3u8
-#EXTINF:-1, PREMIERE CLUBES (2)
-http://p5.giffy.be:8080/live/janet/janet1/80408.m3u8
-#EXTINF:-1, RBS TV PORTO ALEGRE
-http://p5.giffy.be:8080/live/janet/janet1/80407.m3u8
-#EXTINF:-1, RECORD
-http://p5.giffy.be:8080/live/janet/janet1/80406.m3u8
-#EXTINF:-1, RECORD (2)
-http://p5.giffy.be:8080/live/janet/janet1/80405.m3u8
-#EXTINF:-1, RECORD MG (2)
-http://p5.giffy.be:8080/live/janet/janet1/80443.m3u8
-#EXTINF:-1, RECORD NEWS
-http://p5.giffy.be:8080/live/janet/janet1/80404.m3u8
-#EXTINF:-1, RECORD NEWS (2)
-http://p5.giffy.be:8080/live/janet/janet1/80403.m3u8
-#EXTINF:-1, RECORD SP (2)
-http://p5.giffy.be:8080/live/janet/janet1/80402.m3u8
-#EXTINF:-1, REDE TV (2)
-http://p5.giffy.be:8080/live/janet/janet1/80401.m3u8
-#EXTINF:-1, SONY (2)
-http://p5.giffy.be:8080/live/janet/janet1/80392.m3u8
-#EXTINF:-1, SPACE
-http://p5.giffy.be:8080/live/janet/janet1/80399.m3u8
-#EXTINF:-1, SPORTV
-http://p5.giffy.be:8080/live/janet/janet1/80398.m3u8
-#EXTINF:-1, SPORTV (2)
-http://p5.giffy.be:8080/live/janet/janet1/80393.m3u8
-#EXTINF:-1, SPORTV 2
-http://p5.giffy.be:8080/live/janet/janet1/80397.m3u8
-#EXTINF:-1, SPORTV 2 (2)
-http://p5.giffy.be:8080/live/janet/janet1/80396.m3u8
-#EXTINF:-1, SPORTV 3
-http://p5.giffy.be:8080/live/janet/janet1/80395.m3u8
-#EXTINF:-1, SPORTV 3 (2)
-http://p5.giffy.be:8080/live/janet/janet1/80394.m3u8
-#EXTINF:-1, STUDIO UNIVERSAL (2)
-http://p5.giffy.be:8080/live/janet/janet1/80391.m3u8
-#EXTINF:-1, SYFY
-http://p5.giffy.be:8080/live/janet/janet1/80390.m3u8
-#EXTINF:-1, TELECINE ACTION
-http://p5.giffy.be:8080/live/janet/janet1/80387.m3u8
-#EXTINF:-1, TELECINE CULT
-http://p5.giffy.be:8080/live/janet/janet1/80386.m3u8
-#EXTINF:-1, TELECINE FUN
-http://p5.giffy.be:8080/live/janet/janet1/80385.m3u8
-#EXTINF:-1, TELECINE PIPOCA
-http://p5.giffy.be:8080/live/janet/janet1/80384.m3u8
-#EXTINF:-1, TELECINE PREMIUM
-http://p5.giffy.be:8080/live/janet/janet1/80383.m3u8
-#EXTINF:-1, TELECINE TOUCH
-http://p5.giffy.be:8080/live/janet/janet1/80382.m3u8
-#EXTINF:-1, UNIVERSAL CHANNEL
-http://p5.giffy.be:8080/live/janet/janet1/80377.m3u8
 #EXTINF:-1,A&E
-http://p5.giffy.be:8080/live/janet/janet1/80487.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/503.m3u8
 #EXTINF:-1,AMC
-http://p5.giffy.be:8080/live/janet/janet1/80486.m3u8
-#EXTINF:-1,ARTE 1
-http://p5.giffy.be:8080/live/janet/janet1/80484.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/502.m3u8
 #EXTINF:-1,AXN
-http://p5.giffy.be:8080/live/janet/janet1/80483.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/499.m3u8
+#EXTINF:-1,Animal Planet
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/501.m3u8
+#EXTINF:-1,Arte 1
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/500.m3u8
 #EXTINF:-1,BIS
-http://p5.giffy.be:8080/live/janet/janet1/80478.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/495.m3u8
+#EXTINF:-1,Baby TV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/498.m3u8
+#EXTINF:-1,Band News
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/497.m3u8
+#EXTINF:-1,Band Sports
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/496.m3u8
+#EXTINF:-1,Bandeirantes
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/380.m3u8
+#EXTINF:-1,Boa Vontade TV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/494.m3u8
+#EXTINF:-1,Boomerang
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/493.m3u8
+#EXTINF:-1,CNN Espanol
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/486.m3u8
+#EXTINF:-1,CNN Internacional
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/378.m3u8
+#EXTINF:-1,CNT
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/485.m3u8
+#EXTINF:-1,Canal Brasil
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/492.m3u8
+#EXTINF:-1,Canal Claro
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/491.m3u8
+#EXTINF:-1,Canal Nova
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/490.m3u8
+#EXTINF:-1,Canal Rural
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/489.m3u8
+#EXTINF:-1,Canal Sony
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/488.m3u8
+#EXTINF:-1,Cartoon Network
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/487.m3u8
+#EXTINF:-1,Cinemax
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/379.m3u8
+#EXTINF:-1,Combate
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/484.m3u8
+#EXTINF:-1,Comedy Central
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/483.m3u8
+#EXTINF:-1,Curta
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/482.m3u8
+#EXTINF:-1,DW (Deutsch )
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/376.m3u8
+#EXTINF:-1,Discovery Channel
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/481.m3u8
+#EXTINF:-1,Discovery H&H
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/480.m3u8
+#EXTINF:-1,Discovery Kids
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/377.m3u8
+#EXTINF:-1,Discovery Turbo
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/479.m3u8
+#EXTINF:-1,Disney
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/478.m3u8
+#EXTINF:-1,Disney Junior
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/477.m3u8
+#EXTINF:-1,Disney XD
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/476.m3u8
 #EXTINF:-1,E!
-http://p5.giffy.be:8080/live/janet/janet1/80460.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/475.m3u8
+#EXTINF:-1,CURTA 2
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/474.m3u8
+#EXTINF:-1,EI 2
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/473.m3u8
 #EXTINF:-1,ESPN
-http://p5.giffy.be:8080/live/janet/janet1/80459.m3u8
-#EXTINF:-1,ESPN SPORT (2)
-http://p5.giffy.be:8080/live/janet/janet1/80457.m3u8
-#EXTINF:-1,FISH TV
-http://p5.giffy.be:8080/live/janet/janet1/80455.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/472.m3u8
+#EXTINF:-1,ESPN Brasil
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/471.m3u8
+#EXTINF:-1,FOX
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/468.m3u8
 #EXTINF:-1,FX
-http://p5.giffy.be:8080/live/janet/janet1/80446.m3u8
-#EXTINF:-1,GLOBO MG (2)
-http://p5.giffy.be:8080/live/janet/janet1/80442.m3u8
-#EXTINF:-1,GLOBO MINAS (2)
-http://p5.giffy.be:8080/live/janet/janet1/80444.m3u8
-#EXTINF:-1,GLOBO NEWS (3)
-http://p5.giffy.be:8080/live/janet/janet1/80439.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/464.m3u8
+#EXTINF:-1,Fish TV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/470.m3u8
+#EXTINF:-1,Food Network
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/469.m3u8
+#EXTINF:-1,Fox Life
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/467.m3u8
+#EXTINF:-1,Fox Sports
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/466.m3u8
+#EXTINF:-1,Fox Sports 2
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/465.m3u8
+#EXTINF:-1,Futura
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/375.m3u8
 #EXTINF:-1,GNT
-http://p5.giffy.be:8080/live/janet/janet1/80428.m3u8
-#EXTINF:-1,GNT (2)
-http://p5.giffy.be:8080/live/janet/janet1/80427.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/460.m3u8
+#EXTINF:-1,Globo SP
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/463.m3u8
+#EXTINF:-1,GloboNews
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/462.m3u8
+#EXTINF:-1,Gloob
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/461.m3u8
 #EXTINF:-1,H2
-http://p5.giffy.be:8080/live/janet/janet1/80426.m3u8
-#EXTINF:-1,HBO ??
-http://p5.giffy.be:8080/live/janet/janet1/80424.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/459.m3u8
+#EXTINF:-1,HBO
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/458.m3u8
+#EXTINF:-1,HBO Family
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/457.m3u8
+#EXTINF:-1,HBO Plus
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/456.m3u8
+#EXTINF:-1,HBO Plus*e
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/455.m3u8
+#EXTINF:-1,HBO Signature
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/454.m3u8
+#EXTINF:-1,HBO2
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/453.m3u8
+#EXTINF:-1,I-SAT
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/452.m3u8
+#EXTINF:-1,ID - Investigation Discovery
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/451.m3u8
+#EXTINF:-1,Lifetime
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/450.m3u8
+#EXTINF:-1,MAX
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/448.m3u8
+#EXTINF:-1,MAX Prime
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/374.m3u8
+#EXTINF:-1,MAX Prime*e
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/447.m3u8
+#EXTINF:-1,MAX UP
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/446.m3u8
 #EXTINF:-1,MTV
-http://p5.giffy.be:8080/live/janet/janet1/80419.m3u8
-#EXTINF:-1,NICK JR
-http://p5.giffy.be:8080/live/janet/janet1/80413.m3u8
-#EXTINF:-1,PFC
-http://p5.giffy.be:8080/live/janet/janet1/80410.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/445.m3u8
+#EXTINF:-1,Mais Globosat
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/449.m3u8
+#EXTINF:-1,MegaPix
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/373.m3u8
+#EXTINF:-1,Multishow
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/444.m3u8
+#EXTINF:-1,Music Box Brazil
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/443.m3u8
+#EXTINF:-1,NHK
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/439.m3u8
+#EXTINF:-1,NatGeo Kids
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/442.m3u8
+#EXTINF:-1,NatGeo Wild
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/441.m3u8
+#EXTINF:-1,National Geographic
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/440.m3u8
+#EXTINF:-1,Nick Jr
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/438.m3u8
+#EXTINF:-1,Nickelodeon
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/437.m3u8
+#EXTINF:-1,OFF
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/436.m3u8
+#EXTINF:-1,Paramount
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/435.m3u8
+#EXTINF:-1,Play TV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/372.m3u8
+#EXTINF:-1,Polishop TV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/433.m3u8
+#EXTINF:-1,Premiere 2
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/432.m3u8
+#EXTINF:-1,Premiere 3
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/431.m3u8
+#EXTINF:-1,Premiere 4
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/430.m3u8
+#EXTINF:-1,Premiere 5
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/429.m3u8
+#EXTINF:-1,Premiere 6
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/428.m3u8
+#EXTINF:-1,Premiere 7
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/427.m3u8
+#EXTINF:-1,Premiere 8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/426.m3u8
+#EXTINF:-1,Premiere 9
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/425.m3u8
+#EXTINF:-1,Premiere Clubes
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/362.m3u8
+#EXTINF:-1,Prime Box Brazil
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/424.m3u8
+#EXTINF:-1,RAI
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/371.m3u8
+#EXTINF:-1,RBI
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/423.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/361.m3u8
+#EXTINF:-1,RECORDTV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/421.m3u8
+#EXTINF:-1,RIT
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/418.m3u8
+#EXTINF:-1,Record News
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/422.m3u8
+#EXTINF:-1,Rede Brasil
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/420.m3u8
+#EXTINF:-1,Rede TV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/370.m3u8
+#EXTINF:-1,Rede Vida
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/419.m3u8
 #EXTINF:-1,SBT
-http://p5.giffy.be:8080/live/janet/janet1/80400.m3u8
-#EXTINF:-1,TBS (2)
-http://p5.giffy.be:8080/live/janet/janet1/80389.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/360.m3u8
+#EXTINF:-1,SIC Internacional
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/369.m3u8
+#EXTINF:-1,Space
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/415.m3u8
+#EXTINF:-1,SporTV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/414.m3u8
+#EXTINF:-1,SporTV 2
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/413.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/412.m3u8
+#EXTINF:-1,SporTV 3
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/368.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/367.m3u8
+#EXTINF:-1,Studio Universal
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/411.m3u8
+#EXTINF:-1,SyFy
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/366.m3u8
+#EXTINF:-1,TBS
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/410.m3u8
 #EXTINF:-1,TCM
-http://p5.giffy.be:8080/live/janet/janet1/80388.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/409.m3u8
 #EXTINF:-1,TLC
-http://p5.giffy.be:8080/live/janet/janet1/80381.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/401.m3u8
 #EXTINF:-1,TNT
-http://p5.giffy.be:8080/live/janet/janet1/80380.m3u8
-#EXTINF:-1,TNT (2)
-http://p5.giffy.be:8080/live/janet/janet1/80379.m3u8
-#EXTINF:-1,TOONCAST (2)
-http://p5.giffy.be:8080/live/janet/janet1/80378.m3u8
-#EXTINF:-1,VH1 ??
-http://p5.giffy.be:8080/live/janet/janet1/80376.m3u8
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/400.m3u8
+#EXTINF:-1,TNT Series
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/399.m3u8
+#EXTINF:-1,TV Brasil
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/396.m3u8
+#EXTINF:-1,TV Cultura
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/394.m3u8
+#EXTINF:-1,TV Camara
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/395.m3u8
+#EXTINF:-1,TV Escola
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/393.m3u8
+#EXTINF:-1,TV Justila
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/392.m3u8
+#EXTINF:-1,TV Novo Tempo
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/364.m3u8
+#EXTINF:-1,TV RÆ tim bum
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/391.m3u8
+#EXTINF:-1,TV Senado
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/390.m3u8
+#EXTINF:-1,TV Tem Sao Jose do Rio Preto
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/389.m3u8
+#EXTINF:-1,TV Tribuna Santos
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/363.m3u8
+#EXTINF:-1,TV5 Monde
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/388.m3u8
+#EXTINF:-1,TVE
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/387.m3u8
+#EXTINF:-1,Telecine Action
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/408.m3u8
+#EXTINF:-1,Telecine Cult
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/407.m3u8
+#EXTINF:-1,Telecine Fun
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/406.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/405.m3u8
+#EXTINF:-1,Telecine Premium
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/404.m3u8
+#EXTINF:-1,Telecine Touch
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/403.m3u8
+#EXTINF:-1,Terra Viva
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/402.m3u8
+#EXTINF:-1,The History Channel
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/365.m3u8
+#EXTINF:-1,Tooncast
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/398.m3u8
+#EXTINF:-1,TruTV
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/397.m3u8
+#EXTINF:-1,Universal Channel
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/386.m3u8
+#EXTINF:-1,VH1 Megahits
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/385.m3u8
+#EXTINF:-1,Viva
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/384.m3u8
+#EXTINF:-1,Warner Channel
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/383.m3u8
+#EXTINF:-1,Woohoo
+http://x3iptv.com:57000/live/Borishuerta564/aRQK5qYkHp/382.m3u8
