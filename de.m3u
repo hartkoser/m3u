@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1,Kika
+#EXTINF:-1,DE: Kika
 http://5.254.66.150:25461/live/hamadi01/hamadi02/3426.m3u8
-#EXTINF:-1,SUPER.RTL HD
+#EXTINF:-1,DE: SUPER.RTL HD
 http://5.254.66.150:25461/live/hamadi01/hamadi02/3423.m3u8
-#EXTINF:-1,Boomerang
+#EXTINF:-1,DE: Boomerang
 http://5.254.66.150:25461/live/hamadi01/hamadi02/7214.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1,DE: Nickelodeon
 http://5.254.66.150:25461/live/hamadi01/hamadi02/3424.m3u8
-#EXTINF:-1,Disney XD
+#EXTINF:-1,DE: Disney XD
 http://5.254.66.150:25461/live/hamadi01/hamadi02/7210.m3u8
-#EXTINF:-1,Disney.Junior
+#EXTINF:-1,DE: Disney.Junior
 http://5.254.66.150:25461/live/hamadi01/hamadi02/3425.m3u8
-#EXTINF:-1,Disney Channel
+#EXTINF:-1,DE: Disney Channel
 http://5.254.66.150:25461/live/hamadi01/hamadi02/7212.m3u8
-#EXTINF:-1,Disney Cinemagic
+#EXTINF:-1,DE: Disney Cinemagic
 http://5.254.66.150:25461/live/hamadi01/hamadi02/7211.m3u8
-#EXTINF:-1,Cartoon Network
+#EXTINF:-1,DE: Cartoon Network
 http://5.254.66.150:25461/live/hamadi01/hamadi02/7213.m3u8
 #EXTINF:-1,Das Erste
 http://5.254.66.150:25461/live/hamadi01/hamadi02/3465.m3u8
