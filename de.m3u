@@ -1,187 +1,141 @@
 #EXTM3U
-#EXTINF:-1,DE: Kika
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3426.m3u8
-#EXTINF:-1,DE: SUPER.RTL HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3423.m3u8
-#EXTINF:-1,DE: Boomerang
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7214.m3u8
-#EXTINF:-1,DE: Nickelodeon
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3424.m3u8
-#EXTINF:-1,DE: Disney XD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7210.m3u8
-#EXTINF:-1,DE: Disney.Junior
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3425.m3u8
-#EXTINF:-1,DE: Disney Channel
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7212.m3u8
-#EXTINF:-1,DE: Disney Cinemagic
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7211.m3u8
-#EXTINF:-1,DE: Cartoon Network
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7213.m3u8
-#EXTINF:-1,Das Erste
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3465.m3u8
-#EXTINF:-1,ZDF
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3464.m3u8
-#EXTINF:-1,RTL HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3463.m3u8
-#EXTINF:-1,RTLII HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3462.m3u8
-#EXTINF:-1,SAT.1 HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3453.m3u8
-#EXTINF:-1,Pro7 HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3456.m3u8
-#EXTINF:-1,VOX HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3457.m3u8
-#EXTINF:-1,kabel eins HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3454.m3u8
-#EXTINF:-1,n tv HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3450.m3u8
-#EXTINF:-1,N24
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3451.m3u8
-#EXTINF:-1,3sat
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3449.m3u8
-#EXTINF:-1,Dmax'
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7119.m3u8
-#EXTINF:-1,ZEE one
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9128.m3u8
-#EXTINF:-1,Sky Cinema
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3447.m3u8
-#EXTINF:-1,Sky.Action
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3444.m3u8
-#EXTINF:-1,Sky.Cinema Hits
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3441.m3u8
-#EXTINF:-1,Sky.Cinema Family
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3442.m3u8
-#EXTINF:-1,Sky.Cinema Comedy
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3443.m3u8
-#EXTINF:-1,Sky.Cinema Emotion
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3438.m3u8
-#EXTINF:-1,Sky.Cinema Nostalgie
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3434.m3u8
-#EXTINF:-1,Sky Atlantic
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3440.m3u8
-#EXTINF:-1,Sky Krimi
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3437.m3u8
-#EXTINF:-1,RTL PLUS
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3458.m3u8
-#EXTINF:-1,RTL Passion
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3459.m3u8
-#EXTINF:-1,RTL Crime
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3460.m3u8
-#EXTINF:-1,RTL NITRO HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7117.m3u8
-#EXTINF:-1,RTL Living
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3461.m3u8
-#EXTINF:-1,SAT.1 GOLD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3452.m3u8
-#EXTINF:-1,Pro7 MAXX
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3455.m3u8
-#EXTINF:-1,SyFy.
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9468.m3u8
-#EXTINF:-1,SIXX-HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3430.m3u8
-#EXTINF:-1,TNT.Film
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3428.m3u8
-#EXTINF:-1,TNT-Serie
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3427.m3u8
-#EXTINF:-1,13th-Street
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3448.m3u8
-#EXTINF:-1,AXN
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3435.m3u8
-#EXTINF:-1,Anixe.
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3432.m3u8
-#EXTINF:-1,Fox.Serie
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3436.m3u8
-#EXTINF:-1,Kinowelt TV.
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3418.m3u8
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3433.m3u8
-#EXTINF:-1,Heimatkanal
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3419.m3u8
-#EXTINF:-1,ORF1
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3397.m3u8
-#EXTINF:-1,History HD.
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3417.m3u8
-#EXTINF:-1,National.Geographic
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3422.m3u8
-#EXTINF:-1,Nat Geo Wild'
-http://5.254.66.150:25461/live/hamadi01/hamadi02/8688.m3u8
-#EXTINF:-1,Discovery.Channel
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3421.m3u8
-#EXTINF:-1,Spiegel Geschichte
-http://5.254.66.150:25461/live/hamadi01/hamadi02/8425.m3u8
-#EXTINF:-1,Classica.
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9469.m3u8
-#EXTINF:-1,Sky Sport News. HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3439.m3u8
-#EXTINF:-1,Sky Sport Austria
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3398.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9129.m3u8
-#EXTINF:-1,Euro sport 2 HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9130.m3u8
-#EXTINF:-1,eurosport 2 Extra HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9199.m3u8
-#EXTINF:-1,SPORT 1 HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7118.m3u8
-#EXTINF:-1,Sky Sport.1
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3415.m3u8
-#EXTINF:-1,Sky Sport.2
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3414.m3u8
-#EXTINF:-1,sky sport.3
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9435.m3u8
-#EXTINF:-1,sky sport.4
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9436.m3u8
-#EXTINF:-1,sky sport.5
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9437.m3u8
-#EXTINF:-1,sky sport.6
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9438.m3u8
-#EXTINF:-1,sky sport.7
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9439.m3u8
-#EXTINF:-1,sky sport.8
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9440.m3u8
-#EXTINF:-1,sky sport.9
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9441.m3u8
-#EXTINF:-1,sky sport.10
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9442.m3u8
-#EXTINF:-1,Sky.Sport Bundesliga1
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3413.m3u8
-#EXTINF:-1,Sky Sport Bundesliga1 HD
-http://5.254.66.150:25461/live/hamadi01/hamadi02/8687.m3u8
-#EXTINF:-1,Sky.Sport .Bundesliga2
-http://5.254.66.150:25461/live/hamadi01/hamadi02/3412.m3u8
-#EXTINF:-1,sky bundesliga 3
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9443.m3u8
-#EXTINF:-1,sky bundesliga 4
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9444.m3u8
-#EXTINF:-1,sky bundesliga 5
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9445.m3u8
-#EXTINF:-1,sky bundesliga 6
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9446.m3u8
-#EXTINF:-1,sky bundesliga 7
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9447.m3u8
-#EXTINF:-1,sky bundesliga 8
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9448.m3u8
-#EXTINF:-1,sky bundesliga 9
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9449.m3u8
-#EXTINF:-1,sky bundesliga 10
-http://5.254.66.150:25461/live/hamadi01/hamadi02/9450.m3u8
-#EXTINF:-1,Sky Select 1
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7922.m3u8
-#EXTINF:-1,Sky Select 2
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7923.m3u8
-#EXTINF:-1,Sky Select 3
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7924.m3u8
-#EXTINF:-1,Sky Select 4
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7925.m3u8
-#EXTINF:-1,Sky Select 5
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7926.m3u8
-#EXTINF:-1,Sky Select 7
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7928.m3u8
-#EXTINF:-1,Sky Select 6
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7927.m3u8
-#EXTINF:-1,Sky Select 8
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7929.m3u8
-#EXTINF:-1,Sky Select 9
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7930.m3u8
-#EXTINF:-1,Sky Select 10
-http://5.254.66.150:25461/live/hamadi01/hamadi02/7931.m3u8
+#EXTINF:0,13th Street
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/355
+#EXTINF:0,3sat
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/354
+#EXTINF:0,A&E
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/358
+#EXTINF:0,Animal Planet HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/353
+#EXTINF:0,ARTE HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/352
+#EXTINF:0,Das Erste
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/351
+#EXTINF:0,Discovery ch
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/350
+#EXTINF:0,Disney Channel HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/349
+#EXTINF:0,Disney Cinemagic
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/348
+#EXTINF:0,Disney Junior
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/347
+#EXTINF:0,Disney XD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/346
+#EXTINF:0,Eurosport1 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/345
+#EXTINF:0,Eurosport2 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/344
+#EXTINF:0,Eurosport2 Xtra HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/343
+#EXTINF:0,Family TV
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/342
+#EXTINF:0,FOX HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/341
+#EXTINF:0,Goldstar TV
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/340
+#EXTINF:0,Heimatkanal
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/339
+#EXTINF:0,History HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/338
+#EXTINF:0,HR HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/337
+#EXTINF:0,Junior
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/336
+#EXTINF:0,Kabel 1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/335
+#EXTINF:0,Kabel 1 Doku
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/334
+#EXTINF:0,Kabel Eins HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/333
+#EXTINF:0,KiKA
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/332
+#EXTINF:0,N24
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/330
+#EXTINF:0,Nat Geo HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/357
+#EXTINF:0,Nat Geo Wild
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/329
+#EXTINF:0,Nickelodeon HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/328
+#EXTINF:0,ProSieben
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/327
+#EXTINF:0,ProSieben MAXX
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/326
+#EXTINF:0,RTL
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/325
+#EXTINF:0,RTL 2
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/321
+#EXTINF:0,RTL Crime
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/324
+#EXTINF:0,RTL Nitro
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/323
+#EXTINF:0,RTL Passion
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/322
+#EXTINF:0,Sat 1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/320
+#EXTINF:0,SAT 1 Gold
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/319
+#EXTINF:0,SIXX HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/318
+#EXTINF:0,Sky Action
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/317
+#EXTINF:0,Sky ARTS HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/316
+#EXTINF:0,Sky Atlantic
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/315
+#EXTINF:0,Sky Bundesliga 1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/314
+#EXTINF:0,Sky Cinama
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/313
+#EXTINF:0,Sky Cinema 1
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/312
+#EXTINF:0,Sky Cinema 24
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/311
+#EXTINF:0,Sky Cinema Family
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/310
+#EXTINF:0,Sky Cinema Hits
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/309
+#EXTINF:0,Sky Cinema Nostalgie
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/308
+#EXTINF:0,Sky Comedy
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/307
+#EXTINF:0,Sky Emotion
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/306
+#EXTINF:0,Sky Krimi
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/305
+#EXTINF:0,Sky Sport 1 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/304
+#EXTINF:0,Sky SPort 1 SD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/303
+#EXTINF:0,Sky Sport 2 HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/302
+#EXTINF:0,SKY SPORT 2 SD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/301
+#EXTINF:0,Sky Sport News
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/300
+#EXTINF:0,Spiegel Geschichte
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/299
+#EXTINF:0,SUPER RTL
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/297
+#EXTINF:0,SYFY
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/296
+#EXTINF:0,Syfy HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/356
+#EXTINF:0,TNT Comedy HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/295
+#EXTINF:0,TNT Film HD
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/294
+#EXTINF:0,TNT Serie
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/293
+#EXTINF:0,TOGGO plus
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/292
+#EXTINF:0,VOX
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/291
+#EXTINF:0,ZDF
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/290
+#EXTINF:0,ZDF Infokanal
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/289
+#EXTINF:0,ZDF Neo
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/288
+#EXTINF:0,Zee One
+http://master2.ipfox.online:25461/linda_8ZHVFj/HpbaKyJG/287
