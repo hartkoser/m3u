@@ -1,205 +1,195 @@
 #EXTM3U
-#EXTINF:-1,SKY ONE
-http://185.23.213.162:8789/besmir/12345/23405
-#EXTINF:-1,SKY TWO
-http://185.23.213.162:8789/besmir/12345/23404
-#EXTINF:-1,BBC 1 HD
-http://185.23.213.162:8789/besmir/12345/23403
-#EXTINF:-1,BBC 3
-http://185.23.213.162:8789/besmir/12345/28350
-#EXTINF:-1,BBC 4
-http://185.23.213.162:8789/besmir/12345/28351
-#EXTINF:-1,CHANNEL 4
-http://185.23.213.162:8789/besmir/12345/28355
-#EXTINF:-1,CHANNEL 5
-http://185.23.213.162:8789/besmir/12345/28356
-#EXTINF:-1,RTE ONE
-http://185.23.213.162:8789/besmir/12345/28352
-#EXTINF:-1,RTE TWO
-http://185.23.213.162:8789/besmir/12345/28353
-#EXTINF:-1,ITV1 HD
-http://185.23.213.162:8789/besmir/12345/23402
-#EXTINF:-1,ITV2 HD
-http://185.23.213.162:8789/besmir/12345/23401
-#EXTINF:-1,ITV3 HD
-http://185.23.213.162:8789/besmir/12345/23400
-#EXTINF:-1,ITV4
-http://185.23.213.162:8789/besmir/12345/23399
-#EXTINF:-1, LONDON LIVE
-http://185.23.213.162:8789/besmir/12345/28360
-#EXTINF:-1,GOLD
-http://185.23.213.162:8789/besmir/12345/28359
-#EXTINF:-1,WATCH
-http://185.23.213.162:8789/besmir/12345/28357
-#EXTINF:-1,E4
-http://185.23.213.162:8789/besmir/12345/28415
-#EXTINF:-1,3e
-http://185.23.213.162:8789/besmir/12345/23398
-#EXTINF:-1,ALIBI
-http://185.23.213.162:8789/besmir/12345/23397
-#EXTINF:-1,CBS ACTION
-http://185.23.213.162:8789/besmir/12345/23396
-#EXTINF:-1,CBS DRAMA
-http://185.23.213.162:8789/besmir/12345/23395
-#EXTINF:-1,CBS REALITY
-http://185.23.213.162:8789/besmir/12345/23394
-#EXTINF:-1,DAVE
-http://185.23.213.162:8789/besmir/12345/23393
-#EXTINF:-1,LIFETIME
-http://185.23.213.162:8789/besmir/12345/23390
-#EXTINF:-1,TLC
-http://185.23.213.162:8789/besmir/12345/23389
-#EXTINF:-1,SKY ATLANTIC
-http://185.23.213.162:8789/besmir/12345/23388
-#EXTINF:-1,SKY LIVING
-http://185.23.213.162:8789/besmir/12345/23387
-#EXTINF:-1,FOX
-http://185.23.213.162:8789/besmir/12345/23386
-#EXTINF:-1,ComedyCentral
-http://185.23.213.162:8789/besmir/12345/23385
-#EXTINF:-1,|UK|*****SKY SPORT*****|UK|
-http://185.23.213.162:8789/besmir/12345/23459
-#EXTINF:-1,SKY SPORT NEWS HD
-http://185.23.213.162:8789/besmir/12345/23458
-#EXTINF:-1,SKY SPORT PREMIERE LEAGUE
-http://185.23.213.162:8789/besmir/12345/23457
-#EXTINF:-1,SKY SPORT CRICKET
-http://185.23.213.162:8789/besmir/12345/23456
-#EXTINF:-1,SKY SPORT ACTION
-http://185.23.213.162:8789/besmir/12345/23455
-#EXTINF:-1,SKY SPORT GOLF HD
-http://185.23.213.162:8789/besmir/12345/23454
-#EXTINF:-1,SKY SPORT FOOTBALL HD
-http://185.23.213.162:8789/besmir/12345/23453
-#EXTINF:-1,BT SPORT HD
-http://185.23.213.162:8789/besmir/12345/23452
-#EXTINF:-1,BT SPORT2HD
-http://185.23.213.162:8789/besmir/12345/23451
-#EXTINF:-1,BT SPORT3FHD
-http://185.23.213.162:8789/besmir/12345/23450
-#EXTINF:-1,BTSPORT ESPN HD
-http://185.23.213.162:8789/besmir/12345/23449
-#EXTINF:-1,CHELSEA
-http://185.23.213.162:8789/besmir/12345/23446
-#EXTINF:-1,SKY SPORTF1
-http://185.23.213.162:8789/besmir/12345/23445
-#EXTINF:-1,EUROSPORT UK
-http://185.23.213.162:8789/besmir/12345/23444
-#EXTINF:-1,EUROSPORT2
-http://185.23.213.162:8789/besmir/12345/23443
-#EXTINF:-1,Setanta Sport 1
-http://185.23.213.162:8789/besmir/12345/23447
-#EXTINF:-1,SetantaSports Ireland
-http://185.23.213.162:8789/besmir/12345/23448
-#EXTINF:-1,PREMIER SPORTS
-http://185.23.213.162:8789/besmir/12345/23442
-#EXTINF:-1,MOTORS
-http://185.23.213.162:8789/besmir/12345/28358
-#EXTINF:-1,BIKE
-http://185.23.213.162:8789/besmir/12345/23441
-#EXTINF:-1,AT THE RACES
-http://185.23.213.162:8789/besmir/12345/23440
-#EXTINF:-1,FIGHTBOX
-http://185.23.213.162:8789/besmir/12345/23439
-#EXTINF:-1,|UK|*****SKY MOVIES*****|UK|
-http://185.23.213.162:8789/besmir/12345/23438
-#EXTINF:-1,5STAR
-http://185.23.213.162:8789/besmir/12345/23437
-#EXTINF:-1,SKY_PREMIERE
-http://185.23.213.162:8789/besmir/12345/23436
-#EXTINF:-1,SKY_Family HD
-http://185.23.213.162:8789/besmir/12345/23435
-#EXTINF:-1,SKY_Action
-http://185.23.213.162:8789/besmir/12345/23434
-#EXTINF:-1,SKY_Drama
-http://185.23.213.162:8789/besmir/12345/23433
-#EXTINF:-1,SKY THRILLER
-http://185.23.213.162:8789/besmir/12345/23432
-#EXTINF:-1,SKY_SciFi&Hor
-http://185.23.213.162:8789/besmir/12345/23431
-#EXTINF:-1,SKY_Select
-http://185.23.213.162:8789/besmir/12345/23430
-#EXTINF:-1,SKY_Comedy
-http://185.23.213.162:8789/besmir/12345/23429
-#EXTINF:-1,SKY_showcast
-http://185.23.213.162:8789/besmir/12345/23428
-#EXTINF:-1,Film4
-http://185.23.213.162:8789/besmir/12345/23427
-#EXTINF:-1,TCM
-http://185.23.213.162:8789/besmir/12345/28354
-#EXTINF:-1,Sony Movie Ch
-http://185.23.213.162:8789/besmir/12345/23426
-#EXTINF:-1,TRUE MOVIES
-http://185.23.213.162:8789/besmir/12345/23425
-#EXTINF:-1,RealLives
-http://185.23.213.162:8789/besmir/12345/23423
-#EXTINF:-1,Movies4Men
-http://185.23.213.162:8789/besmir/12345/23424
-#EXTINF:-1,|UK|*****SKY KIDS*****|UK|
-http://185.23.213.162:8789/besmir/12345/23421
-#EXTINF:-1, DISNEY CHANNEL
-http://185.23.213.162:8789/besmir/12345/23420
-#EXTINF:-1,DISNEY JUNIOR
-http://185.23.213.162:8789/besmir/12345/23419
-#EXTINF:-1,DISNEY XD
-http://185.23.213.162:8789/besmir/12345/23418
-#EXTINF:-1,Nickelodeon
-http://185.23.213.162:8789/besmir/12345/23417
-#EXTINF:-1, NICKELODEON JR
-http://185.23.213.162:8789/besmir/12345/23416
-#EXTINF:-1,Nick_Jr.2
-http://185.23.213.162:8789/besmir/12345/23415
-#EXTINF:-1,Nick_Jr.1
-http://185.23.213.162:8789/besmir/12345/23414
-#EXTINF:-1,NICKTOONS
-http://185.23.213.162:8789/besmir/12345/23413
-#EXTINF:-1,Nicktoon Ireland
-http://185.23.213.162:8789/besmir/12345/23412
-#EXTINF:-1,BOOMERANG
-http://185.23.213.162:8789/besmir/12345/23411
-#EXTINF:-1,CARTOON NET
-http://185.23.213.162:8789/besmir/12345/23410
-#EXTINF:-1,CARTOONITO
-http://185.23.213.162:8789/besmir/12345/23409
-#EXTINF:-1,BIABY
-http://185.23.213.162:8789/besmir/12345/23408
-#EXTINF:-1,TINY POP
-http://185.23.213.162:8789/besmir/12345/23407
-#EXTINF:-1,|UK|*****SKY CULTURE*****|UK|
-http://185.23.213.162:8789/besmir/12345/23384
-#EXTINF:-1,Nat Geo
-http://185.23.213.162:8789/besmir/12345/23383
-#EXTINF:-1,Nat GeoWild
-http://185.23.213.162:8789/besmir/12345/23382
-#EXTINF:-1,ANIMAL PLANET
-http://185.23.213.162:8789/besmir/12345/23381
-#EXTINF:-1,Discovery
-http://185.23.213.162:8789/besmir/12345/23380
-#EXTINF:-1,DMAX
-http://185.23.213.162:8789/besmir/12345/23379
-#EXTINF:-1,ID
-http://185.23.213.162:8789/besmir/12345/23378
-#EXTINF:-1,ID Xtra
-http://185.23.213.162:8789/besmir/12345/23377
-#EXTINF:-1,Discovery History
-http://185.23.213.162:8789/besmir/12345/23376
-#EXTINF:-1,DISCOVERY SHED
-http://185.23.213.162:8789/besmir/12345/23375
-#EXTINF:-1,DISCOVERY TURBO
-http://185.23.213.162:8789/besmir/12345/23374
-#EXTINF:-1,NatGeoWild
-http://185.23.213.162:8789/besmir/12345/23373
-#EXTINF:-1,Travel Channel
-http://185.23.213.162:8789/besmir/12345/23372
-#EXTINF:-1,History 1
-http://185.23.213.162:8789/besmir/12345/23371
-#EXTINF:-1,History 2
-http://185.23.213.162:8789/besmir/12345/23370
-#EXTINF:-1,|UK|*****SKY NEWS*****|UK|
-http://185.23.213.162:8789/besmir/12345/23369
+#EXTINF:-1,BBC One
+http://5.254.66.150:25461/mounir1/mounir1/3785
+#EXTINF:-1,BBC Two
+http://5.254.66.150:25461/mounir1/mounir1/3783
+#EXTINF:-1,BBC Three
+http://5.254.66.150:25461/mounir1/mounir1/3782
+#EXTINF:-1,BBC Four HD
+http://5.254.66.150:25461/mounir1/mounir1/6034
 #EXTINF:-1,BBC World News
-http://185.23.213.162:8789/besmir/12345/23368
-#EXTINF:-1,FOXNews
-http://185.23.213.162:8789/besmir/12345/23367
-#EXTINF:-1,ALJAZEERA ENG
-http://185.23.213.162:8789/besmir/12345/23366
+http://5.254.66.150:25461/mounir1/mounir1/3772
+#EXTINF:-1,BBC News.
+http://5.254.66.150:25461/mounir1/mounir1/3771
+#EXTINF:-1,BBC Alba
+http://5.254.66.150:25461/mounir1/mounir1/6035
+#EXTINF:-1,CNBC
+http://5.254.66.150:25461/mounir1/mounir1/3761
+#EXTINF:-1,CBBC HD
+http://5.254.66.150:25461/mounir1/mounir1/3781
+#EXTINF:-1,Euronews UK
+http://5.254.66.150:25461/mounir1/mounir1/3767
+#EXTINF:-1,ITV HD
+http://5.254.66.150:25461/mounir1/mounir1/6032
+#EXTINF:-1,ITV 2
+http://5.254.66.150:25461/mounir1/mounir1/6033
+#EXTINF:-1,ITV 3
+http://5.254.66.150:25461/mounir1/mounir1/3780
+#EXTINF:-1,ITV 4
+http://5.254.66.150:25461/mounir1/mounir1/3779
+#EXTINF:-1,ITV BE
+http://5.254.66.150:25461/mounir1/mounir1/3778
+#EXTINF:-1,ITV Encore
+http://5.254.66.150:25461/mounir1/mounir1/3777
+#EXTINF:-1,Channel 4
+http://5.254.66.150:25461/mounir1/mounir1/3776
+#EXTINF:-1,Channel 5
+http://5.254.66.150:25461/mounir1/mounir1/3775
+#EXTINF:-1,Channel 5 +1
+http://5.254.66.150:25461/mounir1/mounir1/3760
+#EXTINF:-1,More 4
+http://5.254.66.150:25461/mounir1/mounir1/3774
+#EXTINF:-1,E4
+http://5.254.66.150:25461/mounir1/mounir1/3773
+#EXTINF:-1,RTE ONE HD
+http://5.254.66.150:25461/mounir1/mounir1/3759
+#EXTINF:-1,Bloomberg
+http://5.254.66.150:25461/mounir1/mounir1/3763
+#EXTINF:-1,FOX News
+http://5.254.66.150:25461/mounir1/mounir1/3765
+#EXTINF:-1,CNN International
+http://5.254.66.150:25461/mounir1/mounir1/3769
+#EXTINF:-1,CGTN News
+http://5.254.66.150:25461/mounir1/mounir1/3764
+#EXTINF:-1,Gold
+http://5.254.66.150:25461/mounir1/mounir1/4818
+#EXTINF:-1,Good Food
+http://5.254.66.150:25461/mounir1/mounir1/4842
+#EXTINF:-1,Food Network
+http://5.254.66.150:25461/mounir1/mounir1/3736
+#EXTINF:-1,TCM.
+http://5.254.66.150:25461/mounir1/mounir1/3745
+#EXTINF:-1,CBS.Action
+http://5.254.66.150:25461/mounir1/mounir1/3743
+#EXTINF:-1,CBS Drama
+http://5.254.66.150:25461/mounir1/mounir1/3742
+#EXTINF:-1,CBS Reality
+http://5.254.66.150:25461/mounir1/mounir1/4862
+#EXTINF:-1,Film4
+http://5.254.66.150:25461/mounir1/mounir1/3744
+#EXTINF:-1,Comedy Central Extra
+http://5.254.66.150:25461/mounir1/mounir1/4841
+#EXTINF:-1,Crime & Investigation
+http://5.254.66.150:25461/mounir1/mounir1/4810
+#EXTINF:-1,Fox
+http://5.254.66.150:25461/mounir1/mounir1/4838
+#EXTINF:-1,Movies24
+http://5.254.66.150:25461/mounir1/mounir1/6036
+#EXTINF:-1,Movies4Men
+http://5.254.66.150:25461/mounir1/mounir1/6037
+#EXTINF:-1,Sky Cinema Premier HD
+http://5.254.66.150:25461/mounir1/mounir1/4852
+#EXTINF:-1,Sky Cinema Select HD
+http://5.254.66.150:25461/mounir1/mounir1/4850
+#EXTINF:-1,Sky Cinema Action HD
+http://5.254.66.150:25461/mounir1/mounir1/4853
+#EXTINF:-1,Sky Cinema Thriller HD
+http://5.254.66.150:25461/mounir1/mounir1/4860
+#EXTINF:-1,Sky Cinema Scifi & Horror HD
+http://5.254.66.150:25461/mounir1/mounir1/4858
+#EXTINF:-1,Sky Cinema Family HD
+http://5.254.66.150:25461/mounir1/mounir1/4855
+#EXTINF:-1,Sky Cinema Comedy HD
+http://5.254.66.150:25461/mounir1/mounir1/4859
+#EXTINF:-1,Sky Cinema Bourne HD
+http://5.254.66.150:25461/mounir1/mounir1/4856
+#EXTINF:-1,Sky Cinema Greats
+http://5.254.66.150:25461/mounir1/mounir1/4857
+#EXTINF:-1,Sky Cinema Disney HD
+http://5.254.66.150:25461/mounir1/mounir1/4861
+#EXTINF:-1,Horror Channel
+http://5.254.66.150:25461/mounir1/mounir1/3738
+#EXTINF:-1,Comedy Central
+http://5.254.66.150:25461/mounir1/mounir1/3733
+#EXTINF:-1,Sky One
+http://5.254.66.150:25461/mounir1/mounir1/4865
+#EXTINF:-1,Sky 2
+http://5.254.66.150:25461/mounir1/mounir1/4864
+#EXTINF:-1,Sky Arts
+http://5.254.66.150:25461/mounir1/mounir1/4863
+#EXTINF:-1,Sky.Atlantic
+http://5.254.66.150:25461/mounir1/mounir1/4851
+#EXTINF:-1,Sky Living
+http://5.254.66.150:25461/mounir1/mounir1/4854
+#EXTINF:-1,Capital TV
+http://5.254.66.150:25461/mounir1/mounir1/4741
+#EXTINF:-1,Tru TV
+http://5.254.66.150:25461/mounir1/mounir1/4840
+#EXTINF:-1,True Movies 1
+http://5.254.66.150:25461/mounir1/mounir1/3741
+#EXTINF:-1,True Entertainment
+http://5.254.66.150:25461/mounir1/mounir1/3739
+#EXTINF:-1,E!'
+http://5.254.66.150:25461/mounir1/mounir1/4867
+#EXTINF:-1,STV Central West
+http://5.254.66.150:25461/mounir1/mounir1/4820
+#EXTINF:-1,TG4
+http://5.254.66.150:25461/mounir1/mounir1/4821
+#EXTINF:-1,The Vault
+http://5.254.66.150:25461/mounir1/mounir1/4878
+#EXTINF:-1,Travel Channel
+http://5.254.66.150:25461/mounir1/mounir1/4808
+#EXTINF:-1,Universal Channel
+http://5.254.66.150:25461/mounir1/mounir1/4809
+#EXTINF:-1,Animal Planet.
+http://5.254.66.150:25461/mounir1/mounir1/4804
+#EXTINF:-1,Discovery History
+http://5.254.66.150:25461/mounir1/mounir1/4813
+#EXTINF:-1,Discovery.Investigation
+http://5.254.66.150:25461/mounir1/mounir1/4812
+#EXTINF:-1,Discovery Shed
+http://5.254.66.150:25461/mounir1/mounir1/4814
+#EXTINF:-1,Discovery Turbo
+http://5.254.66.150:25461/mounir1/mounir1/4811
+#EXTINF:-1,National Geo.graphic
+http://5.254.66.150:25461/mounir1/mounir1/4806
+#EXTINF:-1,National Geography Wild
+http://5.254.66.150:25461/mounir1/mounir1/4807
+#EXTINF:-1,Quest
+http://5.254.66.150:25461/mounir1/mounir1/3731
+#EXTINF:-1,Challenge
+http://5.254.66.150:25461/mounir1/mounir1/4756
+#EXTINF:-1,Channel Aka
+http://5.254.66.150:25461/mounir1/mounir1/4755
+#EXTINF:-1,Christmas Gold
+http://5.254.66.150:25461/mounir1/mounir1/4848
+#EXTINF:-1,Hum Europe
+http://5.254.66.150:25461/mounir1/mounir1/4798
+#EXTINF:-1,MUTV
+http://5.254.66.150:25461/mounir1/mounir1/4769
+#EXTINF:-1,My 5
+http://5.254.66.150:25461/mounir1/mounir1/4835
+#EXTINF:-1,NDTV 24x7
+http://5.254.66.150:25461/mounir1/mounir1/4797
+#EXTINF:-1,NHK
+http://5.254.66.150:25461/mounir1/mounir1/4739
+#EXTINF:-1,Pick
+http://5.254.66.150:25461/mounir1/mounir1/4866
+#EXTINF:-1,Prime TV
+http://5.254.66.150:25461/mounir1/mounir1/4751
+#EXTINF:-1,Really
+http://5.254.66.150:25461/mounir1/mounir1/4748
+#EXTINF:-1,Rishtey
+http://5.254.66.150:25461/mounir1/mounir1/4788
+#EXTINF:-1,RTE TWO HD
+http://5.254.66.150:25461/mounir1/mounir1/4823
+#EXTINF:-1,Dmax UK
+http://5.254.66.150:25461/mounir1/mounir1/3728
+#EXTINF:-1,Lifetime
+http://5.254.66.150:25461/mounir1/mounir1/3737
+#EXTINF:-1,4Seven
+http://5.254.66.150:25461/mounir1/mounir1/4837
+#EXTINF:-1,5 Star
+http://5.254.66.150:25461/mounir1/mounir1/4831
+#EXTINF:-1,Alibi
+http://5.254.66.150:25461/mounir1/mounir1/4839
+#EXTINF:-1,MTV Dance
+http://5.254.66.150:25461/mounir1/mounir1/4885
+#EXTINF:-1,MTV Hits
+http://5.254.66.150:25461/mounir1/mounir1/4882
+#EXTINF:-1,MTV.Base
+http://5.254.66.150:25461/mounir1/mounir1/4737
+#EXTINF:-1,MTV.
+http://5.254.66.150:25461/mounir1/mounir1/3729
+#EXTINF:-1,VH1
+http://5.254.66.150:25461/mounir1/mounir1/4877
