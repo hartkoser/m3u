@@ -1,39 +1,117 @@
 #EXTM3U
+#EXTINF:-1,ANIMAL PLANET
+http://194.88.107.101:6204/marwan/123/10579
+#EXTINF:-1,AXN Black
+http://194.88.107.101:6204/marwan/123/10578
+#EXTINF:-1,AXN White Poland
+http://194.88.107.101:6204/marwan/123/10577
+#EXTINF:-1,CBS Reality
+http://194.88.107.101:6204/marwan/123/10569
+#EXTINF:-1,COMEDY CENTRAL
+http://194.88.107.101:6204/marwan/123/10568
+#EXTINF:-1,Disco Polo Music
+http://194.88.107.101:6204/marwan/123/10567
+#EXTINF:-1,Discovery HD
+http://194.88.107.101:6204/marwan/123/10566
+#EXTINF:-1,Discovery Life
+http://194.88.107.101:6204/marwan/123/10565
+#EXTINF:-1,Discovery Life  Poland HD
+http://194.88.107.101:6204/marwan/123/10564
+#EXTINF:-1,DISCOVERY SCIENCE
+http://194.88.107.101:6204/marwan/123/10563
+#EXTINF:-1,Disney Channel HD
+http://194.88.107.101:6204/marwan/123/10562
+#EXTINF:-1,Disney XD
+http://194.88.107.101:6204/marwan/123/10561
+#EXTINF:-1,MTV Live HD
+http://194.88.107.101:6204/marwan/123/10528
+#EXTINF:-1,MTV POLSKA
+http://194.88.107.101:6204/marwan/123/10527
+#EXTINF:-1,MTV Polska HD
+http://194.88.107.101:6204/marwan/123/10526
+#EXTINF:-1,Nat Geo People HD
+http://194.88.107.101:6204/marwan/123/10525
+#EXTINF:-1,Nat Geo Wild
+http://194.88.107.101:6204/marwan/123/10524
+#EXTINF:-1,NATIONAL GEO
+http://194.88.107.101:6204/marwan/123/10523
+#EXTINF:-1,NATIONAL GEO HD
+http://194.88.107.101:6204/marwan/123/10522
+#EXTINF:-1,National Geographic Polska
+http://194.88.107.101:6204/marwan/123/10521
 #EXTINF:-1,Polsat
-http://5.254.66.150:25461/Richard2/Richard2/11053
+http://194.88.107.101:6204/marwan/123/10519
 #EXTINF:-1,Polsat 2
-http://5.254.66.150:25461/Richard2/Richard2/11052
+http://194.88.107.101:6204/marwan/123/10518
 #EXTINF:-1,Polsat Cafe
-http://5.254.66.150:25461/Richard2/Richard2/11051
-#EXTINF:-1,Polsat Film
-http://5.254.66.150:25461/Richard2/Richard2/11050
-#EXTINF:-1,Polsat News
-http://5.254.66.150:25461/Richard2/Richard2/11049
+http://194.88.107.101:6204/marwan/123/10517
+#EXTINF:-1,Polsat HD
+http://194.88.107.101:6204/marwan/123/10515
+#EXTINF:-1,Polsat Jim Jam
+http://194.88.107.101:6204/marwan/123/10514
+#EXTINF:-1,Polsat News HD
+http://194.88.107.101:6204/marwan/123/10513
 #EXTINF:-1,Polsat Play
-http://5.254.66.150:25461/Richard2/Richard2/11048
+http://194.88.107.101:6204/marwan/123/10512
+#EXTINF:-1,Polsat Play HD
+http://194.88.107.101:6204/marwan/123/10511
+#EXTINF:-1,Polsat Sport
+http://194.88.107.101:6204/marwan/123/10510
+#EXTINF:-1,Polsat Sport Extra HD
+http://194.88.107.101:6204/marwan/123/10509
+#EXTINF:-1,Polsat Sport HD
+http://194.88.107.101:6204/marwan/123/10508
+#EXTINF:-1,Polsat Sport News HD
+http://194.88.107.101:6204/marwan/123/10507
+#EXTINF:-1,POWER TV
+http://194.88.107.101:6204/marwan/123/10506
+#EXTINF:-1,SciFi Universal
+http://194.88.107.101:6204/marwan/123/10505
+#EXTINF:-1,Sundance HD
+http://194.88.107.101:6204/marwan/123/10504
+#EXTINF:-1,Super Polsat
+http://194.88.107.101:6204/marwan/123/10503
+#EXTINF:-1,TLC
+http://194.88.107.101:6204/marwan/123/10502
+#EXTINF:-1,TLC HD
+http://194.88.107.101:6204/marwan/123/10501
+#EXTINF:-1,TNT HD
+http://194.88.107.101:6204/marwan/123/10500
+#EXTINF:-1,TV Puls HD
+http://194.88.107.101:6204/marwan/123/10499
+#EXTINF:-1,TV4
+http://194.88.107.101:6204/marwan/123/10498
+#EXTINF:-1,TV4 HD
+http://194.88.107.101:6204/marwan/123/10497
+#EXTINF:-1,TV6 Polska
+http://194.88.107.101:6204/marwan/123/10496
 #EXTINF:-1,TVN
-http://5.254.66.150:25461/Richard2/Richard2/11044
+http://194.88.107.101:6204/marwan/123/10495
 #EXTINF:-1,TVN 24
-http://5.254.66.150:25461/Richard2/Richard2/11043
+http://194.88.107.101:6204/marwan/123/10494
+#EXTINF:-1,TVN Fabula
+http://194.88.107.101:6204/marwan/123/10493
 #EXTINF:-1,TVN Style
-http://5.254.66.150:25461/Richard2/Richard2/11042
+http://194.88.107.101:6204/marwan/123/10492
+#EXTINF:-1,TVN Style HD
+http://194.88.107.101:6204/marwan/123/10491
 #EXTINF:-1,TVN Turbo
-http://5.254.66.150:25461/Richard2/Richard2/11041
-#EXTINF:-1,TVP 1
-http://5.254.66.150:25461/Richard2/Richard2/11040
-#EXTINF:-1,TVP 2
-http://5.254.66.150:25461/Richard2/Richard2/11039
-#EXTINF:-1,TVP 3
-http://5.254.66.150:25461/Richard2/Richard2/11038
-#EXTINF:-1,TVP Sport
-http://5.254.66.150:25461/Richard2/Richard2/11037
-#EXTINF:-1,VIVA Polska
-http://5.254.66.150:25461/Richard2/Richard2/11036
-#EXTINF:-1,PL:Polsat Sport
-http://5.254.66.150:25461/Richard2/Richard2/11032
-#EXTINF:-1,PL:Polsat Sport EXTRA HD
-http://5.254.66.150:25461/Richard2/Richard2/11031
-#EXTINF:-1,PL:Polsat Sport fight
-http://5.254.66.150:25461/Richard2/Richard2/11030
-#EXTINF:-1,PL:Polsat Sport news
-http://5.254.66.150:25461/Richard2/Richard2/11029
+http://194.88.107.101:6204/marwan/123/10490
+#EXTINF:-1,TVP ABC
+http://194.88.107.101:6204/marwan/123/10489
+#EXTINF:-1,TVP Historia
+http://194.88.107.101:6204/marwan/123/10488
+#EXTINF:-1,VOX Music TV
+http://194.88.107.101:6204/marwan/123/10481
+#EXTINF:-1,TVP Kultura
+http://194.88.107.101:6204/marwan/123/10487
+#EXTINF:-1,TVP SERIALE
+http://194.88.107.101:6204/marwan/123/10486
+#EXTINF:-1,TVP1
+http://194.88.107.101:6204/marwan/123/10485
+#EXTINF:-1,TVP2 HD
+http://194.88.107.101:6204/marwan/123/10484
+#EXTINF:-1,TVP3
+http://194.88.107.101:6204/marwan/123/10483
+#EXTINF:-1,TVS
+http://194.88.107.101:6204/marwan/123/10482
