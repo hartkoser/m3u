@@ -1,377 +1,103 @@
 #EXTM3U
-#EXTINF:-1,BBC NEWS HQ L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/100
-#EXTINF:-1,BBC 1 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/109
-#EXTINF:-1,BBC 2 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/108
-#EXTINF:-1,CBBC L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/105
-#EXTINF:-1,BBC 4 L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/102
-#EXTINF:-1,ITV HQ
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/53
-#EXTINF:-1,ITV2 HQ
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/52
-#EXTINF:-1,ITV3 HQ
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/51
-#EXTINF:-1,ITV4 HQ
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/50
-#EXTINF:-1,Channel 4 L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/78
-#EXTINF:-1,Channel 5 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/77
-#EXTINF:-1,5 STAR L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/115
-#EXTINF:-1,5 USA L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/114
-#EXTINF:-1,Alibi
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/113
-#EXTINF:-1,BLOMBERG EU
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/95
-#EXTINF:-1,Box Nation HD GX
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/170
-#EXTINF:-1,BT Sport 1 HD Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/169
-#EXTINF:-1,BT Sport 1 HD
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/93
-#EXTINF:-1,BBC 1 H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/175
-#EXTINF:-1,BBC 1 Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/174
-#EXTINF:-1,BBC 2 Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/106
-#EXTINF:-1,CBBC  Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/103
-#EXTINF:-1,BBC 4 TYFN
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/173
-#EXTINF:-1,BBC Four HD
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/101
-#EXTINF:-1,BBC News HD G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/99
-#EXTINF:-1,BBC One HD
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/98
-#EXTINF:-1,BBC ONE TEST
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/172
-#EXTINF:-1,BBC Two HD
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/97
-#EXTINF:-1,BT Sport 1 G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/168
-#EXTINF:-1,BT Sport 2 G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/86
-#EXTINF:-1,BT SPORT 2 HQ ZLKF
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/88
-#EXTINF:-1,BT Sport 3 G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/84
-#EXTINF:-1,BT Sport 3 HD G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/85
-#EXTINF:-1,BT SPORT Extra GX
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/82
-#EXTINF:-1,BT Sports ESPN HD G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/81
-#EXTINF:-1,CBBC GX
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/80
-#EXTINF:-1,CBeebies / BBC 4
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/79
-#EXTINF:-1,CBS Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/165
-#EXTINF:-1,CHANNEL 4 HD H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/164
-#EXTINF:-1,Channel 4 Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/163
-#EXTINF:-1,CHANNEL 5 Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/162
-#EXTINF:-1,CNBC EU LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/76
-#EXTINF:-1,CNN INT TYF
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/75
-#EXTINF:-1,Crime Inv  1
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/74
-#EXTINF:-1,DAVE LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/73
-#EXTINF:-1,Disc.History GX
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/72
-#EXTINF:-1,Disc.Science G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/71
-#EXTINF:-1,Disc.Turbo J G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3
-#EXTINF:-1,Discovery
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2
-#EXTINF:-1,DISCOVERY CHANNEL H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/161
-#EXTINF:-1,DISCOVERY HISTORY H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/160
-#EXTINF:-1,DISCOVERY SCIENCE H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/159
-#EXTINF:-1,Eden  1
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/70
-#EXTINF:-1,EIR Sports 1 GX
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/69
-#EXTINF:-1,EIR Sports 2 GX
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/68
-#EXTINF:-1,ESPN 1 HD H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/158
-#EXTINF:-1,ESPN H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/157
-#EXTINF:-1,Euronews LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/66
-#EXTINF:-1,Film 4
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/156
-#EXTINF:-1,FOX NEWS
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/65
-#EXTINF:-1,FOX Z-G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/155
-#EXTINF:-1,Horse & Country LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/154
-#EXTINF:-1,ITV 1 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/63
-#EXTINF:-1,ITV 1 Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/62
-#EXTINF:-1,ITV 2 L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/61
-#EXTINF:-1,ITV 2 Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/60
-#EXTINF:-1,ITV 3 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/59
-#EXTINF:-1,ITV 3 Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/58
-#EXTINF:-1,ITV 4 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/57
-#EXTINF:-1,ITV BE LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/56
-#EXTINF:-1,Nat Geo Wild G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/149
-#EXTINF:-1,ALJAZERE ENG
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/112
-#EXTINF:-1,Animal Planet
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/111
-#EXTINF:-1,ANIMAL PLANET H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/176
-#EXTINF:-1,AT The Races
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/110
-#EXTINF:-1,National Geographic
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/46
-#EXTINF:-1,NATIONAL GEOGRAPHIC CHANNEL H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/148
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD ZL
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/147
-#EXTINF:-1,PICK LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/45
-#EXTINF:-1,PREMIER SPORTS YTFN
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/145
-#EXTINF:-1,Racing J
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/44
-#EXTINF:-1,Racing Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/43
-#EXTINF:-1,RTE 1
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/144
-#EXTINF:-1,RTE 1 FER
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/143
-#EXTINF:-1,RTE 2
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/142
-#EXTINF:-1,RTE 2 FER
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/141
-#EXTINF:-1,RTE ONE H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/140
-#EXTINF:-1,RTE1 H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/139
-#EXTINF:-1,RTE2 H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/138
-#EXTINF:-1,RTEjr
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/137
-#EXTINF:-1,SETANTA SPORTS TYFN
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/136
-#EXTINF:-1,SKY 1
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/135
-#EXTINF:-1,SKY 2
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/134
-#EXTINF:-1,Sky Action
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/42
-#EXTINF:-1,Sky Atlantic 1
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/41
-#EXTINF:-1,SKY BOX OFFICE
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/40
-#EXTINF:-1,Sky Cinema Comedy
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/39
-#EXTINF:-1,Sky Comedy
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/38
-#EXTINF:-1,Sky Disney
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/37
-#EXTINF:-1,SKY FAMILY
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/36
-#EXTINF:-1,SKY HISTORY H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/133
-#EXTINF:-1,Sky Living
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/35
-#EXTINF:-1,SKY LIVING H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/132
-#EXTINF:-1,SKY MOVIES ACTION AND ADVENTURE H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/131
-#EXTINF:-1,SKY MOVIES COMEDY H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/130
-#EXTINF:-1,WATCH
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/129
-#EXTINF:-1,SKY MOVIES FAMILY H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/128
-#EXTINF:-1,SKY MOVIES PREMIERE H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/127
-#EXTINF:-1,ROK LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/126
-#EXTINF:-1,SKY NEWS LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/34
-#EXTINF:-1,Sky Premiere
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/33
-#EXTINF:-1,SKY SPORT NEWS GX
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/32
-#EXTINF:-1,SKY SPORT NEWS Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/125
-#EXTINF:-1,Sky Sports 1
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/31
-#EXTINF:-1,Sky Sports 2
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/30
-#EXTINF:-1,Sky Sports 3
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/29
-#EXTINF:-1,Sky Sports 4
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/28
-#EXTINF:-1,Sky Sports 5
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/27
-#EXTINF:-1,SKY SPORTS 5 H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/124
-#EXTINF:-1,SKY SPORTS ACTION G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/26
-#EXTINF:-1,SKY SPORTS ACTION ZLK
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/123
-#EXTINF:-1,SKY SPORTS ARENA GX
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/25
-#EXTINF:-1,SKY SPORTS CRICKET G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/24
-#EXTINF:-1,SKY SPORTS CRICKET Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/23
-#EXTINF:-1,SKY SPORTS F1 G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/22
-#EXTINF:-1,SKY SPORTS F1 H
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/122
-#EXTINF:-1,SKY SPORTS F1 SD
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/121
-#EXTINF:-1,SKY SPORTS FOOTBALL G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/21
-#EXTINF:-1,SKY SPORTS GOLF G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/20
-#EXTINF:-1,SKY SPORTS GOLF ZLK
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/120
-#EXTINF:-1,SKY SPORTS MAIN EVENT G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/19
-#EXTINF:-1,SKY SPORTS MIX G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/18
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/17
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/16
-#EXTINF:-1,Sky Thriller
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/4
-#EXTINF:-1,SKYARTS
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/119
-#EXTINF:-1,Spike
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/15
-#EXTINF:-1,TCM
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/14
-#EXTINF:-1,TG 4
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/13
-#EXTINF:-1,TG 4 ZLKF
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/118
-#EXTINF:-1,TLC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/12
-#EXTINF:-1,Travel Channel LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/11
-#EXTINF:-1,SONY CRIME 1 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/10
-#EXTINF:-1,TRUE ENT  LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/9
-#EXTINF:-1,SONY CRIME 2 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/8
-#EXTINF:-1,TRUE CHRISTMAS LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/7
-#EXTINF:-1,UTV LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/6
-#EXTINF:-1,NHK WORLD TV
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/941
-#EXTINF:-1,BT Sport Extra 1 G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1561
-#EXTINF:-1,Comedy Central Extra G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1567
-#EXTINF:-1,Comedy Central G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1566
-#EXTINF:-1,Crime Investigation G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1568
-#EXTINF:-1,Discovery Home & Health G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1573
-#EXTINF:-1,Food Network LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1574
-#EXTINF:-1,Good Food G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1575
-#EXTINF:-1,Movies4Men +1 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1565
-#EXTINF:-1,MTV Rocks G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1572
-#EXTINF:-1,My5 G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1564
-#EXTINF:-1,Real Lives G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1576
-#EXTINF:-1,Sky Arts G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1579
-#EXTINF:-1,Sky Atlantic G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1570
-#EXTINF:-1,Sky Cinema Drama & Romance G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1569
-#EXTINF:-1,Sky Cinema Premiere  1 G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1571
-#EXTINF:-1,Sky Cinema Sci-Fi & Horror LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1563
-#EXTINF:-1,Sky Living G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1578
-#EXTINF:-1,TV3 G
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/1577
-#EXTINF:-1,FREESPORTS
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3210
-#EXTINF:-1,STV LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3211
-#EXTINF:-1,CHALLENGE UK LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3456
-#EXTINF:-1,MOTORS TV
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3482
-#EXTINF:-1,AMC MOVIE NIGHT
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3511
-#EXTINF:-1,CNN INT LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2113
-#EXTINF:-1,DMAX UK LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3513
-#EXTINF:-1,ITV BE ZLK
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2939
-#EXTINF:-1,MORE 4 LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2748
-#EXTINF:-1,MORE 4 +1
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3510
-#EXTINF:-1,PBS America
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3485
-#EXTINF:-1,Quest Red LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3514
-#EXTINF:-1,TOGETHER TV LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3494
-#EXTINF:-1,YESTERDAY LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2114
-#EXTINF:-1,SONY CHANNEL L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/834
-#EXTINF:-1,E4 UK L
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2119
-#EXTINF:-1,CBS JUSTICE LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2132
-#EXTINF:-1,CBS DRAMA LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2131
-#EXTINF:-1,CBS REALITY  LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2130
-#EXTINF:-1,ALIBI Z
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/2118
-#EXTINF:-1,QUEST LC
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3516
-#EXTINF:-1,EUROSPORT 1 J
-http://xcasting.mine.nu:29321/catchup/uB8IMf27GX/3517
+#EXTINF:0,Itv1
+http://force102.com:8080/murselabi/20022018/11209
+#EXTINF:0,Itv2
+http://force102.com:8080/murselabi/20022018/11210
+#EXTINF:0,Itv3
+http://force102.com:8080/murselabi/20022018/11211
+#EXTINF:0,Itv4
+http://force102.com:8080/murselabi/20022018/11212
+#EXTINF:0,Bbc1
+http://force102.com:8080/murselabi/20022018/11213
+#EXTINF:0,Bbc2
+http://force102.com:8080/murselabi/20022018/11214
+#EXTINF:0,Bbc3
+http://force102.com:8080/murselabi/20022018/11215
+#EXTINF:0,Btsport1
+http://force102.com:8080/murselabi/20022018/11257
+#EXTINF:0,Btsport2
+http://force102.com:8080/murselabi/20022018/11258
+#EXTINF:0,Btsport Espn
+http://force102.com:8080/murselabi/20022018/11259
+#EXTINF:0,Btsporteurope
+http://force102.com:8080/murselabi/20022018/11256
+#EXTINF:0,Rte One
+http://force102.com:8080/murselabi/20022018/11243
+#EXTINF:0,Rte Two
+http://force102.com:8080/murselabi/20022018/11242
+#EXTINF:0,Cbsaction
+http://force102.com:8080/murselabi/20022018/11218
+#EXTINF:0,Cbs Drama
+http://force102.com:8080/murselabi/20022018/11217
+#EXTINF:0,Cbs Reality
+http://force102.com:8080/murselabi/20022018/11216
+#EXTINF:0,Channel4
+http://force102.com:8080/murselabi/20022018/11219
+#EXTINF:0,Channel5
+http://force102.com:8080/murselabi/20022018/11220
+#EXTINF:0,Movies 4men
+http://force102.com:8080/murselabi/20022018/11235
+#EXTINF:0,Sky Movies Action
+http://force102.com:8080/murselabi/20022018/11238
+#EXTINF:0,Sky Movies Comedy
+http://force102.com:8080/murselabi/20022018/11237
+#EXTINF:0,Sky Movies Family Hd
+http://force102.com:8080/murselabi/20022018/11239
+#EXTINF:0,Sky Movies Premiere Hd
+http://force102.com:8080/murselabi/20022018/11241
+#EXTINF:0,Sky Movies Scifi / Horror Hd
+http://force102.com:8080/murselabi/20022018/11240
+#EXTINF:0,Sky Movies Drama Hd
+http://force102.com:8080/murselabi/20022018/11231
+#EXTINF:0,Sky Movies Select Hd
+http://force102.com:8080/murselabi/20022018/11230
+#EXTINF:0,Sky Movies Thriller
+http://force102.com:8080/murselabi/20022018/11229
+#EXTINF:0,Skyone Hd
+http://force102.com:8080/murselabi/20022018/11234
+#EXTINF:0,True Movies1 Hd
+http://force102.com:8080/murselabi/20022018/11233
+#EXTINF:0,Yesterday
+http://force102.com:8080/murselabi/20022018/11244
+#EXTINF:0,Comedy Central
+http://force102.com:8080/murselabi/20022018/11221
+#EXTINF:0,Discovery Science Hd
+http://force102.com:8080/murselabi/20022018/11226
+#EXTINF:0,Discovery Turbo Hd
+http://force102.com:8080/murselabi/20022018/11227
+#EXTINF:0,Discovery Channelhd
+http://force102.com:8080/murselabi/20022018/11224
+#EXTINF:0,Discovery Shed
+http://force102.com:8080/murselabi/20022018/11225
+#EXTINF:0,Disneychannel
+http://force102.com:8080/murselabi/20022018/11223
+#EXTINF:0,Disneyjunior
+http://force102.com:8080/murselabi/20022018/11222
+#EXTINF:0,Dmax.
+http://force102.com:8080/murselabi/20022018/11245
+#EXTINF:0,National Geographic
+http://force102.com:8080/murselabi/20022018/11228
+#EXTINF:0,Premier Sport
+http://force102.com:8080/murselabi/20022018/11260
+#EXTINF:0,Racing
+http://force102.com:8080/murselabi/20022018/11232
+#EXTINF:0,Eurosport1
+http://force102.com:8080/murselabi/20022018/11246
+#EXTINF:0,Eurosport 2
+http://force102.com:8080/murselabi/20022018/11247
+#EXTINF:0,Sky Sport News
+http://force102.com:8080/murselabi/20022018/11255
+#EXTINF:0,Sky Sport News
+http://force102.com:8080/murselabi/20022018/11254
+#EXTINF:0,Sky Sport Premier League
+http://force102.com:8080/murselabi/20022018/11252
+#EXTINF:0,Sky Sports Action
+http://force102.com:8080/murselabi/20022018/11248
+#EXTINF:0,Sky Sports Cricket
+http://force102.com:8080/murselabi/20022018/11249
+#EXTINF:0,Sky Sports F1
+http://force102.com:8080/murselabi/20022018/11253
+#EXTINF:0,Sky Sports Golf
+http://force102.com:8080/murselabi/20022018/11251
+#EXTINF:0,Sky Sports Main Event
+http://force102.com:8080/murselabi/20022018/11250
