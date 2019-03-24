@@ -225,6 +225,8 @@ http://sv4.vungtau.ml/live/vchannel5_low.m3u8
 http://iptv-nl3-qscdn.hdflixtv.com/VN-K+NS-HD/index.m3u8?token=dbab5718a75c1f4e4148390d2d7d5af9-1541429364-5be056f30ebc0599b32144c5
 
 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://lh3.googleusercontent.com/TCcZl-IXKvL20I51LKH1CxIMKnzxzEYCn5QQxHaCSPVxAfhMxt33a9hCyod7QbK49rYW" ,Bình Thuận
+http://202.43.109.142:1935/thbttv/bttv/chunklist_w650363958.m3u8
 #EXTINF:-1 tvg-logo="http://tv.vnn.vn/Images/tv/travinh%20.png" group-title="DIA PHUONG NAM BO",Tra Vinh SD
 http://123.30.191.202/hls/travinh.m3u8
 #EXTINF:-1 tvg-logo="http://tv.vnn.vn/Images/tv/travinh%20.png" group-title="DIA PHUONG NAM BO",Tra Vinh HD
