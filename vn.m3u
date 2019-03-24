@@ -260,6 +260,8 @@ rtmp://115.78.3.164/live/stv2
 http://tv.canthotv.vn/live/tv/tv.m3u8
 #EXTINF:-1 tvg-logo="http://www.thdt.vn/WebMedia/ChannelVideo/1/THDT_01%20copy.png" group-title="DIA PHUONG NAM BO",Dong Thap (THDT1)
 http://live.cdn.mobifonetv.vn/motv2/mythdt_hls.smil/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213221.png" ,Đồng Nai 1
+http://118.107.68.10:1935/live/smil:Dongnai1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://statics.tvviet.us/thumb/0x0/crop/Images//Channel/2017/12/29/OQYQMR5GNS.png" group-title="DIA PHUONG NAM BO",Dong Nai (DN1)
 http://118.107.68.10:1935/live/smil:Dongnai1.smil/chunklist_w366232911_b1264000_slVIE.m3u8
 #EXTINF:-1 tvg-logo="http://cphim.net/wp-content/uploads/2017/09/dn2.jpg" group-title="DIA PHUONG NAM BO",Dong Nai (DN2)
