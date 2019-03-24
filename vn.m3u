@@ -258,7 +258,7 @@ rtmp://115.78.3.164/live/stv1
 rtmp://115.78.3.164/live/stv2
 #EXTINF:-1 tvg-logo="http://canthotv.vn/wp-content/uploads/2018/02/logo-headerTHTPCT.png" group-title="DIA PHUONG NAM BO",Can Tho
 http://tv.canthotv.vn/live/tv/tv.m3u8
-#EXTINF:-1 tvg-logo="http://www.thdt.vn/WebMedia/ChannelVideo/1/THDT_01%20copy.png" group-title="DIA PHUONG NAM BO",Dong Thap (THDT1)
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/884627456770031616/Vq2Ban6r_400x400.jpg" group-title="DIA PHUONG NAM BO",Dong Thap (THDT1)
 http://live.cdn.mobifonetv.vn/motv2/mythdt_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG" tvg-logo="https://uphinhnhanh.com/images/2019/01/31/IMG_20190131_213221.png" ,Đồng Nai 1
 http://118.107.68.10:1935/live/smil:Dongnai1.smil/playlist.m3u8
