@@ -1,131 +1,315 @@
 #EXTM3U
-#EXTINF:0,ABC US
-http://m-iptv.net:6204/NABIL1/123/10440
-#EXTINF:60,A&E  US
-http://m-iptv.net:6204/NABIL1/123/10441
-#EXTINF:0,Animal Planet HD
-http://m-iptv.net:6204/NABIL1/123/10439
-#EXTINF:0,Bein Sports
-http://m-iptv.net:6204/NABIL1/123/10646
-#EXTINF:0,BET HD
-http://m-iptv.net:6204/NABIL1/123/10645
-#EXTINF:0,Bloomberg US
-http://m-iptv.net:6204/NABIL1/123/10436
-#EXTINF:0,Bravo HD
-http://m-iptv.net:6204/NABIL1/123/10435
-#EXTINF:0,Cartoon Network US
-http://m-iptv.net:6204/NABIL1/123/10434
-#EXTINF:0,CBS Sport HD
-http://m-iptv.net:6204/NABIL1/123/10433
-#EXTINF:0,CBS US
-http://m-iptv.net:6204/NABIL1/123/10432
-#EXTINF:0,CINEMAX HD
-http://m-iptv.net:6204/NABIL1/123/10431
-#EXTINF:0,CNBC US
-http://m-iptv.net:6204/NABIL1/123/10429
-#EXTINF:0,CNN US HD
-http://m-iptv.net:6204/NABIL1/123/10428
-#EXTINF:0,Discovery Channel US HD
-http://m-iptv.net:6204/NABIL1/123/10424
-#EXTINF:0,DISCOVERY FAMILY
-http://m-iptv.net:6204/NABIL1/123/10423
-#EXTINF:0,Discovery Investigation
-http://m-iptv.net:6204/NABIL1/123/10422
-#EXTINF:0,Discovery Science US HD
-http://m-iptv.net:6204/NABIL1/123/10421
-#EXTINF:0,Disney Channel US
-http://m-iptv.net:6204/NABIL1/123/10420
-#EXTINF:0,Disney Junior US
-http://m-iptv.net:6204/NABIL1/123/10419
-#EXTINF:0,Fox sport 1 HD
-http://m-iptv.net:6204/NABIL1/123/10416
-#EXTINF:0,Fox sport 2 HD
-http://m-iptv.net:6204/NABIL1/123/10415
-#EXTINF:0,FX HD
-http://m-iptv.net:6204/NABIL1/123/10414
-#EXTINF:0,GSN HD
-http://m-iptv.net:6204/NABIL1/123/10412
-#EXTINF:0,HBO Comedy HD
-http://m-iptv.net:6204/NABIL1/123/10411
-#EXTINF:0,HBO Signature
-http://m-iptv.net:6204/NABIL1/123/10410
-#EXTINF:0,HBO US HD
-http://m-iptv.net:6204/NABIL1/123/10409
-#EXTINF:0,HBO ZONE HD
-http://m-iptv.net:6204/NABIL1/123/10408
-#EXTINF:0,HGTV HD
-http://m-iptv.net:6204/NABIL1/123/10407
-#EXTINF:0,History
-http://m-iptv.net:6204/NABIL1/123/10406
-#EXTINF:0,History HD US
-http://m-iptv.net:6204/NABIL1/123/10405
-#EXTINF:0,Life Time HD
-http://m-iptv.net:6204/NABIL1/123/10404
-#EXTINF:0,Nat Geo Wild HD US
-http://m-iptv.net:6204/NABIL1/123/10402
-#EXTINF:0,NatGeo HD USA
-http://m-iptv.net:6204/NABIL1/123/10401
-#EXTINF:0,NBA HD
-http://m-iptv.net:6204/NABIL1/123/10400
-#EXTINF:0,NBC EAST HD
-http://m-iptv.net:6204/NABIL1/123/10399
-#EXTINF:0,NBCSN HD
-http://m-iptv.net:6204/NABIL1/123/10398
-#EXTINF:0,NEWS 12
-http://m-iptv.net:6204/NABIL1/123/10643
-#EXTINF:0,Nick Junior US
-http://m-iptv.net:6204/NABIL1/123/10397
-#EXTINF:0,Nick Toons US
-http://m-iptv.net:6204/NABIL1/123/10396
-#EXTINF:0,OWN HD
-http://m-iptv.net:6204/NABIL1/123/10395
-#EXTINF:0,PAC-12 Arizona HD
-http://m-iptv.net:6204/NABIL1/123/10642
-#EXTINF:0,PAC-12 Bay Area HD
-http://m-iptv.net:6204/NABIL1/123/10641
-#EXTINF:0,PAC-12 Los Angeles HD
-http://m-iptv.net:6204/NABIL1/123/10640
-#EXTINF:0,PAC-12 Mountain HD-
-http://m-iptv.net:6204/NABIL1/123/10639
-#EXTINF:0,PAC-12 Oregon HD
-http://m-iptv.net:6204/NABIL1/123/10638
-#EXTINF:0,SHOWTIME FAMILY ZONE
-http://m-iptv.net:6204/NABIL1/123/10393
-#EXTINF:0,SLICE HD
-http://m-iptv.net:6204/NABIL1/123/10392
-#EXTINF:0,Starz HD US
-http://m-iptv.net:6204/NABIL1/123/10390
-#EXTINF:0,STARZ KIDS & Family HD
-http://m-iptv.net:6204/NABIL1/123/10389
+#EXTINF:0,Film 4 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/680
+#EXTINF:0,E4 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/700
+#EXTINF:0,Crime and Investigation HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/716
+#EXTINF:0,E Network
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/691
+#EXTINF:0,Comedy Central HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/698
+#EXTINF:0,Disney XD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/714
 #EXTINF:0,Syfy HD
-http://m-iptv.net:6204/NABIL1/123/10388
-#EXTINF:0,SyFy HD USA
-http://m-iptv.net:6204/NABIL1/123/10387
-#EXTINF:0,TBS USA
-http://m-iptv.net:6204/NABIL1/123/10386
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/709
+#EXTINF:0,Disney Jr
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/690
+#EXTINF:0,Disney
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/713
+#EXTINF:0,TCM HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/692
+#EXTINF:0,Discovery HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/699
+#EXTINF:0,Animal Planet HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/678
+#EXTINF:0,Nat Geo Wild HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/715
 #EXTINF:0,TLC HD
-http://m-iptv.net:6204/NABIL1/123/10385
-#EXTINF:0,TNT US
-http://m-iptv.net:6204/NABIL1/123/10384
-#EXTINF:0,TRU TV HD
-http://m-iptv.net:6204/NABIL1/123/10383
-#EXTINF:0,TSN 1 HD
-http://m-iptv.net:6204/NABIL1/123/10636
-#EXTINF:0,TSN 2 HD
-http://m-iptv.net:6204/NABIL1/123/10635
-#EXTINF:0,TSN 3 HD
-http://m-iptv.net:6204/NABIL1/123/10634
-#EXTINF:0,TSN 4 HD
-http://m-iptv.net:6204/NABIL1/123/10633
-#EXTINF:0,TSN 5 HD
-http://m-iptv.net:6204/NABIL1/123/10632
-#EXTINF:0,TV Land HD
-http://m-iptv.net:6204/NABIL1/123/10382
-#EXTINF:0,Viceland TV
-http://m-iptv.net:6204/NABIL1/123/10379
-#EXTINF:0,WE HD
-http://m-iptv.net:6204/NABIL1/123/10378
-#EXTINF:0,Weather channel
-http://m-iptv.net:6204/NABIL1/123/10377
-#EXTINF:0,WWE HD
-http://m-iptv.net:6204/NABIL1/123/10376
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/703
+#EXTINF:0,AMC HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/706
+#EXTINF:0,ITV 4 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/717
+#EXTINF:0,ITV 3 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/718
+#EXTINF:0,ITV 1 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/720
+#EXTINF:0,Cartoon Network HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/705
+#EXTINF:0,Investigation Discovery
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/696
+#EXTINF:0,History HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/704
+#EXTINF:0,BBC 1 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/695
+#EXTINF:0,Universal HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/707
+#EXTINF:0,5 Star Max-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/790
+#EXTINF:0,CBS Action
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/685
+#EXTINF:0,CBS Drama
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/684
+#EXTINF:0,More 4 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/677
+#EXTINF:0,Nicktoons
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/687
+#EXTINF:0,Discovery Shed
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/683
+#EXTINF:0,BBC 4 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/693
+#EXTINF:0,BBC 2 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/694
+#EXTINF:0,Discovery Turbo
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/682
+#EXTINF:0,Nickelodeon
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/688
+#EXTINF:0,ITV 2 HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/719
+#EXTINF:0,A&E FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/724
+#EXTINF:0,A&E-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/854
+#EXTINF:0,ABC News-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/855
+#EXTINF:0,ABC-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/844
+#EXTINF:0,Action Max FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/726
+#EXTINF:0,Action Max HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/812
+#EXTINF:0,AMC HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/811
+#EXTINF:0,American Hero Channel HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/757
+#EXTINF:0,Animal Planet FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/756
+#EXTINF:0,Animal Planet-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/845
+#EXTINF:0,Bein Sports  FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/755
+#EXTINF:0,Bein Sports HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/778
+#EXTINF:0,BET HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/782
+#EXTINF:0,Bloomberg-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/846
+#EXTINF:0,Bravo FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/775
+#EXTINF:0,BT Sports 1 HD-GB
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/773
+#EXTINF:0,BT Sports 2 HD-GB
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/772
+#EXTINF:0,BT Sports 3 HD-GB
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/771
+#EXTINF:0,BT Sports ESPN HD-GB
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/763
+#EXTINF:0,Cartoon Network-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/847
+#EXTINF:0,CBS FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/729
+#EXTINF:0,CBS HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/823
+#EXTINF:0,CBS Sports Network HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/832
+#EXTINF:0,Cinemax FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/722
+#EXTINF:0,Cinemax HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/810
+#EXTINF:0,CNBC-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/792
+#EXTINF:0,CNN HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/822
+#EXTINF:0,Comedy Central-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/821
+#EXTINF:0,Crime Investigation Discovery FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/738
+#EXTINF:0,Crime Investigation Discovery HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/800
+#EXTINF:0,CW HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/848
+#EXTINF:0,Discovery HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/809
+#EXTINF:0,Discovery Science HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/849
+#EXTINF:0,Disney Channel FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/754
+#EXTINF:0,Disney HD
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/774
+#EXTINF:0,DIY Network FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/753
+#EXTINF:0,E!-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/850
+#EXTINF:0,Eir Sport 1-GB
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/760
+#EXTINF:0,Eir Sport 2-GB
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/759
+#EXTINF:0,EL Rey Network FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/752
+#EXTINF:0,ESPN 2 FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/751
+#EXTINF:0,ESPN 2 HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/838
+#EXTINF:0,ESPN Deportes-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/856
+#EXTINF:0,ESPN News HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/840
+#EXTINF:0,ESPN U HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/837
+#EXTINF:0,ESPN USA FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/750
+#EXTINF:0,ESPN USA HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/839
+#EXTINF:0,Fight Network-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/791
+#EXTINF:0,FOX Business Network  -US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/780
+#EXTINF:0,Fox Deportes-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/858
+#EXTINF:0,Fox HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/820
+#EXTINF:0,Fox News HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/808
+#EXTINF:0,Fox Sports 1 FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/749
+#EXTINF:0,Fox Sports 1 HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/836
+#EXTINF:0,Fox Sports 2 HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/835
+#EXTINF:0,FX-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/807
+#EXTINF:0,FXX FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/748
+#EXTINF:0,FXX-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/806
+#EXTINF:0,Golf FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/747
+#EXTINF:0,Golf HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/831
+#EXTINF:0,GSN FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/746
+#EXTINF:0,Hallmark Channel FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/745
+#EXTINF:0,HBO Comedy-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/805
+#EXTINF:0,HBO Family FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/743
+#EXTINF:0,HBO FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/744
+#EXTINF:0,HBO Signature FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/742
+#EXTINF:0,HBO Signature-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/804
+#EXTINF:0,HBO Zone FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/741
+#EXTINF:0,HBO Zone-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/803
+#EXTINF:0,HBO-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/802
+#EXTINF:0,HGTV-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/860
+#EXTINF:0,History FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/740
+#EXTINF:0,History-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/801
+#EXTINF:0,LifeTime FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/737
+#EXTINF:0,MLB Network HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/793
+#EXTINF:0,MoreMax HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/799
+#EXTINF:0,MSNBC FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/725
+#EXTINF:0,Nat Geo Wild FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/721
+#EXTINF:0,National Geographic-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/841
+#EXTINF:0,NBA HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/834
+#EXTINF:0,NBC Sports Network FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/735
+#EXTINF:0,NBC Sports Network HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/830
+#EXTINF:0,NBC-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/819
+#EXTINF:0,NEW ENGLAND SPORTS NETWORK HD -US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/783
+#EXTINF:0,NFL Channel HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/833
+#EXTINF:0,NFL Network FHD -US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/723
+#EXTINF:0,NHL Network HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/829
+#EXTINF:0,NickToons -US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/851
+#EXTINF:0,OWN FHD- US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/776
+#EXTINF:0,PAC-12 Arizona HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/789
+#EXTINF:0,PAC-12 Bay Area HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/788
+#EXTINF:0,PAC-12 Los Angeles HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/787
+#EXTINF:0,PAC-12 Mountain HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/786
+#EXTINF:0,PAC-12 Oregon HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/785
+#EXTINF:0,PAC-12 Washington HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/784
+#EXTINF:0,Paramount Network HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/798
+#EXTINF:0,Sports Net 360 HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/826
+#EXTINF:0,Sports Net One HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/818
+#EXTINF:0,Sports Net Ontario HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/825
+#EXTINF:0,Sports Net World HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/824
+#EXTINF:0,Starz Cinema HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/796
+#EXTINF:0,Starz Encore West FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/739
+#EXTINF:0,Starz HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/795
+#EXTINF:0,Syfy HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/852
+#EXTINF:0,TBS HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/842
+#EXTINF:0,Tennis Channel FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/731
+#EXTINF:0,Tennis Channel HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/828
+#EXTINF:0,TLC FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/730
+#EXTINF:0,TLC HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/857
+#EXTINF:0,TNT HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/843
+#EXTINF:0,TSN 1 HD-CA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/817
+#EXTINF:0,TSN 2 HD-CA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/816
+#EXTINF:0,TSN 3 HD-CA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/815
+#EXTINF:0,TSN 4 HD-CA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/814
+#EXTINF:0,TSN 5 HD-CA
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/813
+#EXTINF:0,UFC TV-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/779
+#EXTINF:0,USA Network-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/794
+#EXTINF:0,Velocity  FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/736
+#EXTINF:0,Viceland FHD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/727
+#EXTINF:0,Viceland-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/859
+#EXTINF:0,WEATHER CHANNEL -US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/781
+#EXTINF:0,Willow Cricket HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/853
+#EXTINF:0,WWE Network HD-US
+http://brina.world-tv.org:25461/marrakch/7sjKZBesup/827
