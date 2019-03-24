@@ -154,8 +154,8 @@ http://antvlive.ab5c6921.cdnviet.com/antvmobile/playlist.m3u8
 https://5952e4052a2e8.streamlock.net/live/_definst_/smil:thienviet.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/9284593-logo-quochoivn.png",QUOC HOI
 http://live.cdn.mobifonetv.vn/motv3/qhvn_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://api.tvplay.vn:9999/thumb/0x0/crop//Uploads/images/kenh/vovtv.jpg",VOV TV
-http://118.69.211.87:1935/vovtv/vovtv/chunklist_w1113785676.m3u8
+#EXTINF:-1 group-title="THỜI SỰ - CHÍNH TRỊ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQhD5JSMY-yA_zL3BO6Sox8kRF25ghdjbAS7Y_66UGIA26Gbysn" ,VOV Vietnam Journey HD
+http://vncdn.mediatech.vn/vovlive/tv1live.m3u8
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/1821327-logo-truyenhinh.png",QUOC PHONG VIET NAM
 http://125.212.132.219:1935/standard/smil:standard.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://startup.vitv.vn/Content/img/logo_shrink.png",VITV
