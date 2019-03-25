@@ -1,855 +1,1265 @@
 #EXTM3U
-#EXTINF:0,OSN_Animal_Planet_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/933
-#EXTINF:0,OSN_ALYOUM
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/934
-#EXTINF:0,OSN_Baby_TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/932
-#EXTINF:0,OSN_BBC_First_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/931
-#EXTINF:0,OSN_Comedy_Central_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/930
-#EXTINF:0,OSN_Discovery_Channel_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/929
-#EXTINF:0,OSN_Discovery_Family_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/928
-#EXTINF:0,OSN_Discovery_IDX_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/927
-#EXTINF:0,OSN_Discovery_Science_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/926
-#EXTINF:0,OSN_Disney_Channel_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/925
-#EXTINF:0,OSN_Disney_Junior
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/924
-#EXTINF:0,OSN_Disney_XD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/923
-#EXTINF:0,OSN_First_HBO_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/922
-#EXTINF:0,OSN_Food_Network_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/921
-#EXTINF:0,OSN_H2_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/920
-#EXTINF:0,OSN_History_Channel_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/919
-#EXTINF:0,OSN_ITV_Choice_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/918
-#EXTINF:0,OSN_Movies_Action_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/917
-#EXTINF:0,OSN_Movies_Action_HD_2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/916
-#EXTINF:0,OSN_Movies_Comedy_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/915
-#EXTINF:0,OSN_Movies_Family_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/914
-#EXTINF:0,OSN_Movies_First_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/913
-#EXTINF:0,OSN_Movies_First_HD_2h
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/912
-#EXTINF:0,OSN_Movies_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/911
-#EXTINF:0,OSN_Movies_Kids_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/910
-#EXTINF:0,OSN_Movies_Thriller_2h
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/909
-#EXTINF:0,OSN_Movies_Thriller_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/908
-#EXTINF:0,OSN_MUSALSALAT_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/907
-#EXTINF:0,OSN_MUSALSALAT_HD_2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/906
-#EXTINF:0,OSN_Nat_Geo_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/905
-#EXTINF:0,OSN_NAT_GEO_People_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/904
-#EXTINF:0,OSN_Nat_GEO_Wild_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/903
-#EXTINF:0,OSN_Nick_JR
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/902
-#EXTINF:0,OSN_Nickelodeon_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/901
-#EXTINF:0,OSN_OSN_Kid_Zone_TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/900
-#EXTINF:0,OSN_Paramount_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/899
-#EXTINF:0,OSN_Series_Comedy_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/898
-#EXTINF:0,OSN_Series_First_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/897
-#EXTINF:0,OSN_Series_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/896
-#EXTINF:0,OSN_Sports_3_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/895
-#EXTINF:0,OSN_Sports_4_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/894
-#EXTINF:0,OSN_Sports_5_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/893
-#EXTINF:0,OSN_Sports_Action_1_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/892
-#EXTINF:0,OSN_Sports_Action_2_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/891
-#EXTINF:0,OSN_Sports_Cricket_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/890
-#EXTINF:0,OSN_Star_Movie_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/889
-#EXTINF:0,OSN_Star_World_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/888
-#EXTINF:0,OSN_Sundance_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/887
-#EXTINF:0,OSN_Syfy_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/886
-#EXTINF:0,OSN_Ten_Cricket
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/885
-#EXTINF:0,OSN_TLC_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/884
-#EXTINF:0,OSN_Travel
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/883
-#EXTINF:0,OSN_Ya_Hala_Al_Oula_2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/882
-#EXTINF:0,OSN_Ya_Hala_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/881
-#EXTINF:0,OSN_Ya_Hala_Oula_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/880
-#EXTINF:0,OSN_Yahala_Cinema_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/879
-#EXTINF:0,beIN Sport 1 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/878
-#EXTINF:0,beIN Sport 2 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/877
-#EXTINF:0,beIN Sport 3 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/876
-#EXTINF:0,beIN Sport 4 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/875
-#EXTINF:0,beIN Sport 5 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/874
-#EXTINF:0,beIN Sport 6 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/873
-#EXTINF:0,beIN Sport 7 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/872
-#EXTINF:0,beIN Sport 8 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/871
-#EXTINF:0,beIN Sport 9 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/870
-#EXTINF:0,beIN Sport 10 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/869
-#EXTINF:0,Bein Sports HD1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/868
-#EXTINF:0,Bein Sports HD2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/867
-#EXTINF:0,Bein Sports HD3
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/866
-#EXTINF:0,Bein Sports HD4
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/865
-#EXTINF:0,Bein Sports HD5
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/864
-#EXTINF:0,Bein Sports HD6
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/863
-#EXTINF:0,Bein Sports HD7
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/862
-#EXTINF:0,Bein Sports HD8
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/861
-#EXTINF:0,BEIN SPORTS 1 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1243
-#EXTINF:0,BEIN SPORTS 1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1260
-#EXTINF:0,BEIN SPORTS 1 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1270
-#EXTINF:0,BEIN SPORTS 2 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1244
-#EXTINF:0,BEIN SPORTS 2 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1261
-#EXTINF:0,BEIN SPORTS 2 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1271
-#EXTINF:0,BEIN SPORTS 3 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1245
-#EXTINF:0,BEIN SPORTS 3 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1262
-#EXTINF:0,BEIN SPORTS 3 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1272
-#EXTINF:0,BEIN SPORTS 4 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1246
-#EXTINF:0,BEIN SPORTS 4 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1263
-#EXTINF:0,BEIN SPORTS 4 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1273
-#EXTINF:0,BEIN SPORTS 5 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1247
-#EXTINF:0,BEIN SPORTS 5 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1264
-#EXTINF:0,BEIN SPORTS 5 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1274
-#EXTINF:0,BEIN SPORTS 6 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1248
-#EXTINF:0,BEIN SPORTS 6 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1265
-#EXTINF:0,BEIN SPORTS 6 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1275
-#EXTINF:0,BEIN SPORTS 7 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1249
-#EXTINF:0,BEIN SPORTS 7 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1266
-#EXTINF:0,BEIN SPORTS 7 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1276
-#EXTINF:0,BEIN SPORTS 8 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1250
-#EXTINF:0,BEIN SPORTS 8 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1267
-#EXTINF:0,BEIN SPORTS 8 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1277
-#EXTINF:0,BEIN SPORTS 9 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1251
-#EXTINF:0,BEIN SPORTS 9 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1268
-#EXTINF:0,BEIN SPORTS 9 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1278
-#EXTINF:0,BEIN SPORTS 10 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1252
-#EXTINF:0,BEIN SPORTS 10 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1269
-#EXTINF:0,BEIN SPORTS 10 SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1279
-#EXTINF:0,BEIN SPORTS 11 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1253
-#EXTINF:0,BEIN SPORTS 12 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1254
-#EXTINF:0,BEIN SPORTS 13 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1255
-#EXTINF:0,BEIN SPORTS 14 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1256
-#EXTINF:0,BEIN SPORTS 15 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1257
-#EXTINF:0,BEIN SPORTS 16 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1258
-#EXTINF:0,BEIN SPORTS 17 FHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1259
-#EXTINF:0,AR: beIN Movies Hd1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1232
-#EXTINF:0,AR: beIN Movies Hd2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1231
-#EXTINF:0,AR: beIN Movies Hd3
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1230
-#EXTINF:0,AR: beIN Movies Hd4
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1229
-#EXTINF:0,AR:MBC 1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1228
-#EXTINF:0,AR:MBC 2 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1227
-#EXTINF:0,AR:MBC 3 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1226
-#EXTINF:0,AR:MBC 4 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1225
-#EXTINF:0,AR:MBC ACTION HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1224
-#EXTINF:0,AR:MBC MAX HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1223
-#EXTINF:0,Dawri Plus Hd1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1242
-#EXTINF:0,Dawri Plus Hd2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1241
-#EXTINF:0,Dawri Plus Hd3
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1240
-#EXTINF:0,AR: BeoutQ Sport 1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1239
-#EXTINF:0,AR: BeoutQ Sport 2 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1238
-#EXTINF:0,AR: BeoutQ Sport 3 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1237
-#EXTINF:0,AR: BeoutQ Sport 4 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1236
-#EXTINF:0,AR: BeoutQ Sport 5 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1235
-#EXTINF:0,AR: BeoutQ Sport 6 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1234
-#EXTINF:0,AR: BeoutQ Sport 7 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1233
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A1-bahrain international
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/229
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A1-bahrain quran
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/228
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A1-bahrain tv
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/227
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A1-ksa sport 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/226
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A1-oman tv
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/225
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A1-oman tv live
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/224
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A1-oman tv sport
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/223
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A1-qatar tv
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/222
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A2--almajd 01
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/221
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A2--almajd 02
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/220
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A2--almajd 03
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/219
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A2--almajd 08
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/218
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| A2--KTV quran
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/217
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Abu Dhabi TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/216
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| AD DRAMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/215
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| AD SPORT 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/214
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| AD Sport 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/213
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| AD-Sport 3
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/212
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| AJMAN TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/211
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| AL EMARAT TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/210
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| AL RAYYAN
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/209
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Al-Amaken Drama
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/208
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Al-Khalij TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/207
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Al-Maaly
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/206
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| AL.SHARJAH
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/205
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| almajd 04
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/204
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai One
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/203
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai Racin 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/202
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai Racing 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/201
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai Racing 3
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/200
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai Sports 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/199
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai Sports 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/198
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai Sports 3
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/197
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/196
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Dubai Zaman
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/195
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| FUJAIRAH TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/194
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| KTV 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/193
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| KTV 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/192
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| KTV al arabia
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/191
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| KTV ethraa
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/190
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| KTV s.plus
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/189
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| KTV sport
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/188
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Noor Dubai
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/187
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| ORIENT TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/186
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Qatar today
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/185
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Sama Dubai
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/184
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Saudi - Al-EKhbaria
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/183
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Saudi - Althaqafiah
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/182
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| SAUDI 24
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/181
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Saudi Al Haj
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/180
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| SAUDI ANTI-TERRORISM
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/179
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| SAUDI FAMILY
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/178
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Saudi Sport 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/177
-#EXTINF:0,[Abu.AD.SAUDI]:|AR| Saudi-1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/176
-#EXTINF:0,[ALGERIE]:AR--AL ANIS TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/300
-#EXTINF:0,[ALGERIE]:AR--Algerie 3
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/299
-#EXTINF:0,[ALGERIE]:AR--Algerie 4
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/298
-#EXTINF:0,[ALGERIE]:AR--Algerie 5
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/297
-#EXTINF:0,[ALGERIE]:AR--ALMAGHARIBIA 2 TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/296
-#EXTINF:0,[ALGERIE]:AR--ALMAGHARIBIA TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/295
-#EXTINF:0,[ALGERIE]:AR--Bahia TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/294
-#EXTINF:0,[ALGERIE]:AR--Beur TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/293
-#EXTINF:0,[ALGERIE]:AR--CANAL ALGERIE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/292
-#EXTINF:0,[ALGERIE]:AR--CHAMS TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/291
-#EXTINF:0,[ALGERIE]:AR--CNA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/290
-#EXTINF:0,[ALGERIE]:AR--Dzair News
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/289
-#EXTINF:0,[ALGERIE]:AR--Dzair TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/288
-#EXTINF:0,[ALGERIE]:AR--Echorouk cbc BENNA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/287
-#EXTINF:0,[ALGERIE]:AR--Echorouk NEWS
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/286
-#EXTINF:0,[ALGERIE]:AR--Echorouk TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/285
-#EXTINF:0,[ALGERIE]:AR--EL BILAD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/284
-#EXTINF:0,[ALGERIE]:AR--EL DJAWHARA TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/283
-#EXTINF:0,[ALGERIE]:AR--EL DJAZAIRIA TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/282
-#EXTINF:0,[ALGERIE]:AR--EL FADJR TV DZ
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/281
-#EXTINF:0,[ALGERIE]:AR--EL HEDDAF TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/280
-#EXTINF:0,[ALGERIE]:AR--ENNAHAR TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/279
-#EXTINF:0,[ALGERIE]:AR--Nay Algeria HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/278
-#EXTINF:0,[ALGERIE]:AR--NUMIDIA TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/277
-#EXTINF:0,[ALGERIE]:AR--PROGRAMME NATIONAL
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/276
-#EXTINF:0,[ALGERIE]:AR--Sahara TV Algeria
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/275
-#EXTINF:0,[ALGERIE]:AR--SamiraTV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/274
-#EXTINF:0,[ALGERIE]:AR2--A1-berbere jeunesse
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/273
-#EXTINF:0,[ALGERIE]:AR2--A1-berbere tv
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/271
-#EXTINF:0,[ARABIC]:|AR| GM ALWAN
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/3
-#EXTINF:0,[ARABIC]:|AR| GM Comedia
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/2
-#EXTINF:0,[ARABIC]:|AR| GM news
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1
-#EXTINF:0,[EGYPT]:|AR| Aghani Aghani TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/175
-#EXTINF:0,[EGYPT]:|AR| Al Ahly TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/174
-#EXTINF:0,[EGYPT]:|AR| AL BAIT BAITAK CINEMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/173
-#EXTINF:0,[EGYPT]:|AR| Al Basira
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/172
-#EXTINF:0,[EGYPT]:|AR| AL HAYAT CRISTIAN
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/171
-#EXTINF:0,[EGYPT]:|AR| Al Kahera Wal Nas
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/170
-#EXTINF:0,[EGYPT]:|AR| Al Kahera Wal Nas  2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/169
-#EXTINF:0,[EGYPT]:|AR| AL MASRAWIA AFLAM
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/168
-#EXTINF:0,[EGYPT]:|AR| AL masriya
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/167
-#EXTINF:0,[EGYPT]:|AR| AL SHASHA CINEMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/166
-#EXTINF:0,[EGYPT]:|AR| Al-Nahar Drama
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/165
-#EXTINF:0,[EGYPT]:|AR| Al-Nahar One
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/164
-#EXTINF:0,[EGYPT]:|AR| ALASKANDRIA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/163
-#EXTINF:0,[EGYPT]:|AR| AlHadath Alyoum
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/162
-#EXTINF:0,[EGYPT]:|AR| ALhayat
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/161
-#EXTINF:0,[EGYPT]:|AR| Alhayat 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/160
-#EXTINF:0,[EGYPT]:|AR| Alhayat Muslsalat
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/159
-#EXTINF:0,[EGYPT]:|AR| Alhayat We Alnas
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/158
-#EXTINF:0,[EGYPT]:|AR| ALKAHERA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/157
-#EXTINF:0,[EGYPT]:|AR| ALMASSAR AL OULA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/156
-#EXTINF:0,[EGYPT]:|AR| Alqanat 9
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/155
-#EXTINF:0,[EGYPT]:|AR| Arabica TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/154
-#EXTINF:0,[EGYPT]:|AR| ART Aflam 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/153
-#EXTINF:0,[EGYPT]:|AR| ART Aflam 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/152
-#EXTINF:0,[EGYPT]:|AR| ART HEKAYAT 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/151
-#EXTINF:0,[EGYPT]:|AR| ART HEKAYAT 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/150
-#EXTINF:0,[EGYPT]:|AR| Azhari
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/149
-#EXTINF:0,[EGYPT]:|AR| BELODY AFLAM
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/148
-#EXTINF:0,[EGYPT]:|AR| Cairo cinema
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/147
-#EXTINF:0,[EGYPT]:|AR| Cairo Drama
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/146
-#EXTINF:0,[EGYPT]:|AR| Cima
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/145
-#EXTINF:0,[EGYPT]:|AR| CIMA ALIBABA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/144
-#EXTINF:0,[EGYPT]:|AR| Cinema
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/143
-#EXTINF:0,[EGYPT]:|AR| CINEMA 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/142
-#EXTINF:0,[EGYPT]:|AR| CINEMA PRO
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/141
-#EXTINF:0,[EGYPT]:|AR| CINEMA.1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/140
-#EXTINF:0,[EGYPT]:|AR| CITRUSS.TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/139
-#EXTINF:0,[EGYPT]:|AR| dmc
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/138
-#EXTINF:0,[EGYPT]:|AR| dmc drama
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/137
-#EXTINF:0,[EGYPT]:|AR| dmc Kids
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/136
-#EXTINF:0,[EGYPT]:|AR| dmc masraheyat
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/135
-#EXTINF:0,[EGYPT]:|AR| dmc News
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/134
-#EXTINF:0,[EGYPT]:|AR| dmc Sports
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/133
-#EXTINF:0,[EGYPT]:|AR| Dream
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/132
-#EXTINF:0,[EGYPT]:|AR| Extra News
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/131
-#EXTINF:0,[EGYPT]:|AR| FAMILY DRAMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/130
-#EXTINF:0,[EGYPT]:|AR| FUNoon
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/129
-#EXTINF:0,[EGYPT]:|AR| Hawacom
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/128
-#EXTINF:0,[EGYPT]:|AR| HAWAS TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/127
-#EXTINF:0,[EGYPT]:|AR| Imagine Movies
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/126
-#EXTINF:0,[EGYPT]:|AR| LCD MOVIES
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/125
-#EXTINF:0,[EGYPT]:|AR| Mara7 TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/124
-#EXTINF:0,[EGYPT]:|AR| Maspero Zaman
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/123
-#EXTINF:0,[EGYPT]:|AR| Masr alhayah
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/122
-#EXTINF:0,[EGYPT]:|AR| Melody CINEMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/119
-#EXTINF:0,[EGYPT]:|AR| MELODY CLASSIC
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/118
-#EXTINF:0,[EGYPT]:|AR| ON  E
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/117
-#EXTINF:0,[EGYPT]:|AR| ON  Live
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/116
-#EXTINF:0,[EGYPT]:|AR| ON  Sport
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/115
-#EXTINF:0,[EGYPT]:|AR| ON Drama
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/114
-#EXTINF:0,[EGYPT]:|AR| Oscar TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/113
-#EXTINF:0,[EGYPT]:|AR| Panorama Drama
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/112
-#EXTINF:0,[EGYPT]:|AR| Panorama Drama 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/111
-#EXTINF:0,[EGYPT]:|AR| Panorama Film
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/110
-#EXTINF:0,[EGYPT]:|AR| Panorama Food
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/109
-#EXTINF:0,[EGYPT]:|AR| Sada El Balad
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/108
-#EXTINF:0,[EGYPT]:|AR| Sada ElBalad Drama
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/107
-#EXTINF:0,[EGYPT]:|AR| SALDAE TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/106
-#EXTINF:0,[EGYPT]:|AR| SHARO5AN HINDI
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/105
-#EXTINF:0,[EGYPT]:|AR| STAR CINEMA 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/104
-#EXTINF:0,[EGYPT]:|AR| STAR CINEMA 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/103
-#EXTINF:0,[EGYPT]:|AR| TOKTOK AFLAM
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/102
-#EXTINF:0,[EGYPT]:|AR| TOKTOK CIMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/101
-#EXTINF:0,[Kids]:|AR| Ajial
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/99
-#EXTINF:0,[Kids]:|AR| AR:Baraem.Europe
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/98
-#EXTINF:0,[Kids]:|AR| AR:FIX.FOXI
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/97
-#EXTINF:0,[Kids]:|AR| AR:GULLI.ARABIC
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/96
-#EXTINF:0,[Kids]:|AR| AR:JEEM.Europe
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/95
-#EXTINF:0,[Kids]:|AR| Atfal mawaheb
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/94
-#EXTINF:0,[Kids]:|AR| BABY CHANNEL
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/93
-#EXTINF:0,[Kids]:|AR| Cartoon Network Arabic
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/92
-#EXTINF:0,[Kids]:|AR| HodHod  TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/91
-#EXTINF:0,[Kids]:|AR| KARAMEESH
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/90
-#EXTINF:0,[Kids]:|AR| KOKKY TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/89
-#EXTINF:0,[Kids]:|AR| Majid Kids TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/88
-#EXTINF:0,[Kids]:|AR| MICKEY CHANNEL
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/87
-#EXTINF:0,[Kids]:|AR| MODY KIDS
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/86
-#EXTINF:0,[Kids]:|AR| Nat Geo Kids Abu Dhabi
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/85
-#EXTINF:0,[Kids]:|AR| SEMSEM
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/84
-#EXTINF:0,[Kids]:|AR| SPACETOON ARABIC
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/83
-#EXTINF:0,[Kids]:|AR| TAHA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/82
-#EXTINF:0,[Kids]:|AR| TOYOR AL JANAH
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/81
-#EXTINF:0,[Kids]:|AR| TOYOR BABY
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/80
-#EXTINF:0,[Lebanon]:|AR| AL JADEED
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/79
-#EXTINF:0,[Lebanon]:|AR| AL MINBAR TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/78
-#EXTINF:0,[Lebanon]:|AR| ALAAN TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/77
-#EXTINF:0,[Lebanon]:|AR| AR | AL MANAR
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/76
-#EXTINF:0,[Lebanon]:|AR| ETIHAD TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/75
-#EXTINF:0,[Lebanon]:|AR| Future TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/74
-#EXTINF:0,[Lebanon]:|AR| JAWNA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/73
-#EXTINF:0,[Lebanon]:|AR| LBC SAT
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/72
-#EXTINF:0,[Lebanon]:|AR| LDC
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/71
-#EXTINF:0,[Lebanon]:|AR| OTV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/69
-#EXTINF:0,[Libya.Sudan.MOURABITiN]:|AR| ALMOURABITOUNE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/68
-#EXTINF:0,[Libya.Sudan.MOURABITiN]:|AR| AR_ELMOURITANIA.2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/66
-#EXTINF:0,[Libya.Sudan.MOURABITiN]:|AR| Arriadia MOURITANIA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/67
-#EXTINF:0,[Maroc]:AR--2M Maroc
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/270
-#EXTINF:0,[Maroc]:AR--2M TNT
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/269
-#EXTINF:0,[Maroc]:AR--AflamTV.7.Maroc
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/268
-#EXTINF:0,[Maroc]:AR--Al Aoula HD TNT
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/267
-#EXTINF:0,[Maroc]:AR--Al Aoula Inter
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/266
-#EXTINF:0,[Maroc]:AR--AL AOULA LAYOUNE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/245
-#EXTINF:0,[Maroc]:AR--Al MAGHRIBIA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/265
-#EXTINF:0,[Maroc]:AR--AL MAGHRIBIA TNT
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/264
-#EXTINF:0,[Maroc]:AR--Al Ons TV Maroc
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/244
-#EXTINF:0,[Maroc]:AR--Arrabiaa
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/263
-#EXTINF:0,[Maroc]:AR--ARRYADIA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/262
-#EXTINF:0,[Maroc]:AR--ARRYADIA HD LIVE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/261
-#EXTINF:0,[Maroc]:AR--ARRYADIA TNT
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/260
-#EXTINF:0,[Maroc]:AR--Assadissa
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/259
-#EXTINF:0,[Maroc]:AR--CHADA TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/258
-#EXTINF:0,[Maroc]:AR--Gags TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/257
-#EXTINF:0,[Maroc]:AR--GM Aflam
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/256
-#EXTINF:0,[Maroc]:AR--GM Chaabi
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/255
-#EXTINF:0,[Maroc]:AR--GM katakit
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/254
-#EXTINF:0,[Maroc]:AR--GM Tamazight
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/252
-#EXTINF:0,[Maroc]:AR--GM techno
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/251
-#EXTINF:0,[Maroc]:AR--MEDI1 TNT
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/250
-#EXTINF:0,[Maroc]:AR--Medi1.TV.HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/249
-#EXTINF:0,[Maroc]:AR--Tamazight
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/248
-#EXTINF:0,[Maroc]:AR--TELE MAROC
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/247
-#EXTINF:0,[Maroc]:AR2-canal atlas
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/246
-#EXTINF:0,[MBC.Rotana]:|AR| B4U Aflam
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/65
-#EXTINF:0,[MBC.Rotana]:|AR| B4U Plus
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/64
-#EXTINF:0,[MBC.Rotana]:|AR| ZEE AFLAM
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/63
-#EXTINF:0,[MBC.Rotana]:|AR| ZEE ALWAN
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/62
-#EXTINF:0,[NEWS.doc]:|AR| A1-al jazeera
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/61
-#EXTINF:0,[NEWS.doc]:|AR| A1-al jazeera documentary
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/60
-#EXTINF:0,[NEWS.doc]:|AR| A1-al jazeera mubasher
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/59
-#EXTINF:0,[NEWS.doc]:|AR| AD Nat Geo
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/58
-#EXTINF:0,[NEWS.doc]:|AR| Al Arabiya
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/57
-#EXTINF:0,[NEWS.doc]:|AR| AL ARABY TV HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/56
-#EXTINF:0,[NEWS.doc]:|AR| Al Hadath
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/55
-#EXTINF:0,[NEWS.doc]:|AR| AL HIWAR HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/54
-#EXTINF:0,[NEWS.doc]:|AR| AL MAYADEEN TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/53
-#EXTINF:0,[NEWS.doc]:|AR| Al-Arabiya Alhadath
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/52
-#EXTINF:0,[NEWS.doc]:|AR| Alhurra
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/51
-#EXTINF:0,[NEWS.doc]:|AR| BBC Arabic
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/50
-#EXTINF:0,[NEWS.doc]:|AR| beIN SPORTS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/49
-#EXTINF:0,[NEWS.doc]:|AR| beIN SPORTS NEWS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/48
-#EXTINF:0,[NEWS.doc]:|AR| CNBC ARABIYA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/47
-#EXTINF:0,[NEWS.doc]:|AR| CNN
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/46
-#EXTINF:0,[NEWS.doc]:|AR| DW Arabia
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/45
-#EXTINF:0,[NEWS.doc]:|AR| France 24
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/44
-#EXTINF:0,[NEWS.doc]:|AR| Mehwer
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/43
-#EXTINF:0,[NEWS.doc]:|AR| Mekameleen.TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/42
-#EXTINF:0,[NEWS.doc]:|AR| QUEST ARABIYA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/41
-#EXTINF:0,[NEWS.doc]:|AR| RT Arab
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/40
-#EXTINF:0,[NEWS.doc]:|AR| Sky News Arabia
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/39
-#EXTINF:0,[NEWS.doc]:|AR| TRT_ELARABIYE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/38
-#EXTINF:0,[NEWS.doc]:|AR| TV5 Maghreb
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/37
-#EXTINF:0,[NEWS.doc]:|AR| UNRWA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/36
-#EXTINF:0,[Quran]:|AR| Ahel Al Quran
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/35
-#EXTINF:0,[Quran]:|AR| Al Nas
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/34
-#EXTINF:0,[Quran]:|AR| AL RAHMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/33
-#EXTINF:0,[Quran]:|AR| AL Resala
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/32
-#EXTINF:0,[Quran]:|AR| Al-Majd3
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/31
-#EXTINF:0,[Quran]:|AR| AlAfasy
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/30
-#EXTINF:0,[Quran]:|AR| Alerth-Alnbawi
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/29
-#EXTINF:0,[Quran]:|AR| ALISTIQAMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/28
-#EXTINF:0,[Quran]:|AR| AR_Hidayah-Albanian
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/27
-#EXTINF:0,[Quran]:|AR| AR_Hidayah-Bosnian
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/26
-#EXTINF:0,[Quran]:|AR| AR_Hidayah-English
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/25
-#EXTINF:0,[Quran]:|AR| AR_Hidayah-French
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/24
-#EXTINF:0,[Quran]:|AR| AR_Hidayah-German
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/23
-#EXTINF:0,[Quran]:|AR| AR_Hidayah-Persian
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/22
-#EXTINF:0,[Quran]:|AR| AR_Hidayah-Russian
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/21
-#EXTINF:0,[Quran]:|AR| AR_Hidayah-Spanish
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/20
-#EXTINF:0,[Quran]:|AR| BIN OTHAIMEEN
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/19
-#EXTINF:0,[Quran]:|AR| Iqraa
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/18
-#EXTINF:0,[Quran]:|AR| KAIFA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/17
-#EXTINF:0,[Quran]:|AR| Madinha For Sunnah
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/16
-#EXTINF:0,[Quran]:|AR| mahaba tv
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/15
-#EXTINF:0,[Quran]:|AR| Majd
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/14
-#EXTINF:0,[Quran]:|AR| Makkah live For Quran
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/13
-#EXTINF:0,[Quran]:|AR| Mecca
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/12
-#EXTINF:0,[Quran]:|AR| MOHAMMAD RASOUL ALLAH
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/11
-#EXTINF:0,[Quran]:|AR| Resalat ALIslam
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/10
-#EXTINF:0,[SYRIA.Palestin]:|AR| SAMA TV SYRIA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/9
-#EXTINF:0,[SYRIA.Palestin]:|AR| SYRIA AL EKHBARIYA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/8
-#EXTINF:0,[SYRIA.Palestin]:|AR| SYRIA DRAMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/7
-#EXTINF:0,[SYRIA.Palestin]:|AR| SYRIA PLUS
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/6
-#EXTINF:0,[SYRIA.Palestin]:|AR| SYRIA TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/5
-#EXTINF:0,[SYRIA.Palestin]:|AR| SYRIAN EDUCATION
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/4
-#EXTINF:0,[Tunisia]:AR--Al Insen TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/243
-#EXTINF:0,[Tunisia]:AR--AL JANOUBIA TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/242
-#EXTINF:0,[Tunisia]:AR--AL-MUSTAKILA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/241
-#EXTINF:0,[Tunisia]:AR--Attessia TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/240
-#EXTINF:0,[Tunisia]:AR--Carthage
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/239
-#EXTINF:0,[Tunisia]:AR--Elhiwar Ettounsi
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/238
-#EXTINF:0,[Tunisia]:AR--HANNIBAL TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/237
-#EXTINF:0,[Tunisia]:AR--M TUNISIA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/236
-#EXTINF:0,[Tunisia]:AR--Nessma
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/235
-#EXTINF:0,[Tunisia]:AR--Telvza TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/234
-#EXTINF:0,[Tunisia]:AR--Tunisia NAT 1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/233
-#EXTINF:0,[Tunisia]:AR--Tunisia Nat 2
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/232
-#EXTINF:0,[Tunisia]:AR--TUNISNA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/231
-#EXTINF:0,[Tunisia]:AR--ZAYTOONA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/230
-#EXTINF:0,AR: CBC
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1326
-#EXTINF:0,AR: CBC DRAMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1327
+#EXTINF:-1,Al Aoula Inter
+http://123orca.com:25461/live/Michael1/Michael1/2792.m3u8
+#EXTINF:-1,Al Maghribia
+http://123orca.com:25461/live/Michael1/Michael1/9316.m3u8
+#EXTINF:-1,Al Magharibia News
+http://123orca.com:25461/live/Michael1/Michael1/2758.m3u8
+#EXTINF:-1,Al Magharibia Two
+http://123orca.com:25461/live/Michael1/Michael1/2757.m3u8
+#EXTINF:-1,Maroc Tamazight
+http://123orca.com:25461/live/Michael1/Michael1/2786.m3u8
+#EXTINF:-1,Medi1 TV HD
+http://123orca.com:25461/live/Michael1/Michael1/2785.m3u8
+#EXTINF:-1,Arrabiaa
+http://123orca.com:25461/live/Michael1/Michael1/2789.m3u8
+#EXTINF:-1,Assadissa
+http://123orca.com:25461/live/Michael1/Michael1/2787.m3u8
+#EXTINF:-1,Tele Maroc
+http://123orca.com:25461/live/Michael1/Michael1/11402.m3u8
+#EXTINF:-1,2M Maroc
+http://123orca.com:25461/live/Michael1/Michael1/2791.m3u8
+#EXTINF:-1,Aflam7
+http://123orca.com:25461/live/Michael1/Michael1/7977.m3u8
+#EXTINF:-1,Canal Atlas
+http://123orca.com:25461/live/Michael1/Michael1/11149.m3u8
+#EXTINF:-1,GM Movies HD
+http://123orca.com:25461/live/Michael1/Michael1/8620.m3u8
+#EXTINF:-1,GM Comedia TV
+http://123orca.com:25461/live/Michael1/Michael1/8597.m3u8
+#EXTINF:-1,GM Alwan
+http://123orca.com:25461/live/Michael1/Michael1/8611.m3u8
+#EXTINF:-1,GM Muzicana
+http://123orca.com:25461/live/Michael1/Michael1/8606.m3u8
+#EXTINF:-1,GM Chaabi TV
+http://123orca.com:25461/live/Michael1/Michael1/8601.m3u8
+#EXTINF:-1,GM Music TV
+http://123orca.com:25461/live/Michael1/Michael1/8602.m3u8
+#EXTINF:-1,GM OFIVE
+http://123orca.com:25461/live/Michael1/Michael1/9254.m3u8
+#EXTINF:-1,GM Bizim TV
+http://123orca.com:25461/live/Michael1/Michael1/8617.m3u8
+#EXTINF:-1,CHADA
+http://123orca.com:25461/live/Michael1/Michael1/4405.m3u8
+#EXTINF:-1,Beur TV
+http://123orca.com:25461/live/Michael1/Michael1/2764.m3u8
+#EXTINF:-1,Arryadia Live HD
+http://123orca.com:25461/live/Michael1/Michael1/2790.m3u8
+#EXTINF:-1,Al Jazeera
+http://123orca.com:25461/live/Michael1/Michael1/2812.m3u8
+#EXTINF:-1,Al Arabiya
+http://123orca.com:25461/live/Michael1/Michael1/2811.m3u8
+#EXTINF:-1,Al Arabiya Al Hadath
+http://123orca.com:25461/live/Michael1/Michael1/2810.m3u8
+#EXTINF:-1,Sky News Arabia HD
+http://123orca.com:25461/live/Michael1/Michael1/2809.m3u8
+#EXTINF:-1,France 24 Arabic
+http://123orca.com:25461/live/Michael1/Michael1/11463.m3u8
+#EXTINF:-1,TV5 Monde style HD
+http://123orca.com:25461/live/Michael1/Michael1/20504.m3u8
+#EXTINF:-1,i24 News Arabic
+http://123orca.com:25461/live/Michael1/Michael1/20506.m3u8
+#EXTINF:-1,Al Sharq tv
+http://123orca.com:25461/live/Michael1/Michael1/6502.m3u8
+#EXTINF:-1,Al Alam
+http://123orca.com:25461/live/Michael1/Michael1/8734.m3u8
+#EXTINF:-1,RT Arab
+http://123orca.com:25461/live/Michael1/Michael1/4342.m3u8
+#EXTINF:-1,DW Arabic TV
+http://123orca.com:25461/live/Michael1/Michael1/2798.m3u8
+#EXTINF:-1,BBC Arabic
+http://123orca.com:25461/live/Michael1/Michael1/3078.m3u8
+#EXTINF:-1,Euro news
+http://123orca.com:25461/live/Michael1/Michael1/2800.m3u8
+#EXTINF:-1,Alqanat 9
+http://123orca.com:25461/live/Michael1/Michael1/12591.m3u8
+#EXTINF:-1,Alhurra
+http://123orca.com:25461/live/Michael1/Michael1/3038.m3u8
+#EXTINF:-1,Cnbc Arabia
+http://123orca.com:25461/live/Michael1/Michael1/4274.m3u8
+#EXTINF:-1,TRT Arabic
+http://123orca.com:25461/live/Michael1/Michael1/2796.m3u8
+#EXTINF:-1,Al Ekhbariya
+http://123orca.com:25461/live/Michael1/Michael1/4233.m3u8
+#EXTINF:-1,Al Ekhbariya Al Soriya
+http://123orca.com:25461/live/Michael1/Michael1/2801.m3u8
+#EXTINF:-1,Al Sharqiya News HD
+http://123orca.com:25461/live/Michael1/Michael1/2795.m3u8
+#EXTINF:-1,Al Jazeera English
+http://123orca.com:25461/live/Michael1/Michael1/2805.m3u8
+#EXTINF:-1,Al Jazeera Mubasher
+http://123orca.com:25461/live/Michael1/Michael1/2807.m3u8
+#EXTINF:-1,--------LIBYAN--------
+http://123orca.com:25461/live/Michael1/Michael1/2829.m3u8
+#EXTINF:-1,Libya TV
+http://123orca.com:25461/live/Michael1/Michael1/4312.m3u8
+#EXTINF:-1,Libya 24
+http://123orca.com:25461/live/Michael1/Michael1/4417.m3u8
+#EXTINF:-1,Aljamahiriya TV
+http://123orca.com:25461/live/Michael1/Michael1/9287.m3u8
+#EXTINF:-1,Libya Alhadath TV
+http://123orca.com:25461/live/Michael1/Michael1/9251.m3u8
+#EXTINF:-1,Libya Future
+http://123orca.com:25461/live/Michael1/Michael1/9268.m3u8
+#EXTINF:-1,Libya el watan
+http://123orca.com:25461/live/Michael1/Michael1/2827.m3u8
+#EXTINF:-1,Libya Al Ahrar TV
+http://123orca.com:25461/live/Michael1/Michael1/2828.m3u8
+#EXTINF:-1,Libya's Channel
+http://123orca.com:25461/live/Michael1/Michael1/4418.m3u8
+#EXTINF:-1,--------DOCUMENTAIRE--------
+http://123orca.com:25461/live/Michael1/Michael1/2835.m3u8
+#EXTINF:-1,Nat Geo Abu Dhabi
+http://123orca.com:25461/live/Michael1/Michael1/2834.m3u8
+#EXTINF:-1,Al Jazeera Documentary
+http://123orca.com:25461/live/Michael1/Michael1/2832.m3u8
+#EXTINF:-1,Quest Arabiya
+http://123orca.com:25461/live/Michael1/Michael1/2833.m3u8
+#EXTINF:-1,--------CUISINE--------
+http://123orca.com:25461/live/Michael1/Michael1/8581.m3u8
+#EXTINF:-1,Fatafeat
+http://123orca.com:25461/live/Michael1/Michael1/2928.m3u8
+#EXTINF:-1,Samira TV.
+http://123orca.com:25461/live/Michael1/Michael1/8582.m3u8
+#EXTINF:-1,CBC Sofra
+http://123orca.com:25461/live/Michael1/Michael1/2926.m3u8
+#EXTINF:-1,CBC BENNA
+http://123orca.com:25461/live/Michael1/Michael1/9372.m3u8
+#EXTINF:-1,beIN Gourmet HD
+http://123orca.com:25461/live/Michael1/Michael1/5199.m3u8
+#EXTINF:-1,Panorama Food
+http://123orca.com:25461/live/Michael1/Michael1/2901.m3u8
+#EXTINF:-1,--------FILM&SERIES--------
+http://123orca.com:25461/live/Michael1/Michael1/3001.m3u8
+#EXTINF:-1,MBC
+http://123orca.com:25461/live/Michael1/Michael1/2999.m3u8
+#EXTINF:-1,MBC 1 HD.
+http://123orca.com:25461/live/Michael1/Michael1/12995.m3u8
+#EXTINF:-1,MBC 4
+http://123orca.com:25461/live/Michael1/Michael1/2996.m3u8
+#EXTINF:-1,MBC 4 HD.
+http://123orca.com:25461/live/Michael1/Michael1/12996.m3u8
+#EXTINF:-1,MBC Bollywood
+http://123orca.com:25461/live/Michael1/Michael1/2985.m3u8
+#EXTINF:-1,MBC BOLLYWOOD HD.
+http://123orca.com:25461/live/Michael1/Michael1/12998.m3u8
+#EXTINF:-1,MBC Drama
+http://123orca.com:25461/live/Michael1/Michael1/2990.m3u8
+#EXTINF:-1,MBC Iraq HD
+http://123orca.com:25461/live/Michael1/Michael1/20440.m3u8
+#EXTINF:-1,MBC Iraq FHD
+http://123orca.com:25461/live/Michael1/Michael1/20439.m3u8
+#EXTINF:-1,MBC+ DRAMA HD.
+http://123orca.com:25461/live/Michael1/Michael1/12997.m3u8
+#EXTINF:-1,MBC+ VARIETY HD.
+http://123orca.com:25461/live/Michael1/Michael1/13019.m3u8
+#EXTINF:-1,MBC Masr
+http://123orca.com:25461/live/Michael1/Michael1/2987.m3u8
+#EXTINF:-1,MBC Masr2
+http://123orca.com:25461/live/Michael1/Michael1/2986.m3u8
+#EXTINF:-1,MBC 2
+http://123orca.com:25461/live/Michael1/Michael1/2998.m3u8
+#EXTINF:-1,MBC 2 HD.
+http://123orca.com:25461/live/Michael1/Michael1/12992.m3u8
+#EXTINF:-1,MBC MAX
+http://123orca.com:25461/live/Michael1/Michael1/2994.m3u8
+#EXTINF:-1,MBC MAX HD.
+http://123orca.com:25461/live/Michael1/Michael1/12993.m3u8
+#EXTINF:-1,MBC Action
+http://123orca.com:25461/live/Michael1/Michael1/2992.m3u8
+#EXTINF:-1,MBC ACTION HD.
+http://123orca.com:25461/live/Michael1/Michael1/12994.m3u8
+#EXTINF:-1,My Cinema HD.
+http://123orca.com:25461/live/Michael1/Michael1/13004.m3u8
+#EXTINF:-1,Star Movies HD.
+http://123orca.com:25461/live/Michael1/Michael1/13005.m3u8
+#EXTINF:-1,Star World' HD
+http://123orca.com:25461/live/Michael1/Michael1/13006.m3u8
+#EXTINF:-1,FX HD
+http://123orca.com:25461/live/Michael1/Michael1/13000.m3u8
+#EXTINF:-1,Fox Rewayat HD.
+http://123orca.com:25461/live/Michael1/Michael1/12999.m3u8
+#EXTINF:-1,Fox Crime' HD
+http://123orca.com:25461/live/Michael1/Michael1/13001.m3u8
+#EXTINF:-1,Fox Action Movies' HD
+http://123orca.com:25461/live/Michael1/Michael1/13002.m3u8
+#EXTINF:-1,Fox Family Movies HD.
+http://123orca.com:25461/live/Michael1/Michael1/13003.m3u8
+#EXTINF:-1,beIN Drama
+http://123orca.com:25461/live/Michael1/Michael1/6537.m3u8
+#EXTINF:-1,beIN Movies Premiere HD2
+http://123orca.com:25461/live/Michael1/Michael1/2965.m3u8
+#EXTINF:-1,beIN Movies Action 2 HD
+http://123orca.com:25461/live/Michael1/Michael1/2964.m3u8
+#EXTINF:-1,beIN Movies Drama HD3
+http://123orca.com:25461/live/Michael1/Michael1/2963.m3u8
+#EXTINF:-1,beIN Movies Family HD4
+http://123orca.com:25461/live/Michael1/Michael1/2962.m3u8
+#EXTINF:-1,BeIN Series HD 1
+http://123orca.com:25461/live/Michael1/Michael1/2959.m3u8
+#EXTINF:-1,BeIN Series HD 2
+http://123orca.com:25461/live/Michael1/Michael1/6529.m3u8
+#EXTINF:-1,beIN AMC
+http://123orca.com:25461/live/Michael1/Michael1/8797.m3u8
+#EXTINF:-1,beIN Fox Movies
+http://123orca.com:25461/live/Michael1/Michael1/8795.m3u8
+#EXTINF:-1,B4U Aflam
+http://123orca.com:25461/live/Michael1/Michael1/9349.m3u8
+#EXTINF:-1,B4U Plus.
+http://123orca.com:25461/live/Michael1/Michael1/7446.m3u8
+#EXTINF:-1,Zee Aflam
+http://123orca.com:25461/live/Michael1/Michael1/2863.m3u8
+#EXTINF:-1,Zee Alwan
+http://123orca.com:25461/live/Michael1/Michael1/2862.m3u8
+#EXTINF:-1,Belody Aflam
+http://123orca.com:25461/live/Michael1/Michael1/4266.m3u8
+#EXTINF:-1,Abu Dhabi TV HD
+http://123orca.com:25461/live/Michael1/Michael1/2871.m3u8
+#EXTINF:-1,Al Emarat TV HD
+http://123orca.com:25461/live/Michael1/Michael1/2869.m3u8
+#EXTINF:-1,AD Drama
+http://123orca.com:25461/live/Michael1/Michael1/2870.m3u8
+#EXTINF:-1,Dubai Tv
+http://123orca.com:25461/live/Michael1/Michael1/2868.m3u8
+#EXTINF:-1,Dubai One
+http://123orca.com:25461/live/Michael1/Michael1/2867.m3u8
+#EXTINF:-1,Dubai Zaman
+http://123orca.com:25461/live/Michael1/Michael1/2866.m3u8
+#EXTINF:-1,Sama Dubai
+http://123orca.com:25461/live/Michael1/Michael1/2865.m3u8
+#EXTINF:-1,Noor Dubai
+http://123orca.com:25461/live/Michael1/Michael1/2841.m3u8
+#EXTINF:-1,Rotana Aflam
+http://123orca.com:25461/live/Michael1/Michael1/2981.m3u8
+#EXTINF:-1,Rotana Aflam HD
+http://123orca.com:25461/live/Michael1/Michael1/8267.m3u8
+#EXTINF:-1,Rotana Cinema EGY
+http://123orca.com:25461/live/Michael1/Michael1/2983.m3u8
+#EXTINF:-1,Rotana Cinema KSA
+http://123orca.com:25461/live/Michael1/Michael1/2982.m3u8
+#EXTINF:-1,Rotana Cinema HD
+http://123orca.com:25461/live/Michael1/Michael1/2984.m3u8
+#EXTINF:-1,Rotana Classic
+http://123orca.com:25461/live/Michael1/Michael1/2971.m3u8
+#EXTINF:-1,Rotana Classic HD
+http://123orca.com:25461/live/Michael1/Michael1/2972.m3u8
+#EXTINF:-1,Rotana Masriya
+http://123orca.com:25461/live/Michael1/Michael1/2979.m3u8
+#EXTINF:-1,Rotana Masria HD
+http://123orca.com:25461/live/Michael1/Michael1/2980.m3u8
+#EXTINF:-1,ART Aflam 1
+http://123orca.com:25461/live/Michael1/Michael1/2970.m3u8
+#EXTINF:-1,ART Aflam 2
+http://123orca.com:25461/live/Michael1/Michael1/2969.m3u8
+#EXTINF:-1,ART Cinema
+http://123orca.com:25461/live/Michael1/Michael1/2968.m3u8
+#EXTINF:-1,Hekayat 1
+http://123orca.com:25461/live/Michael1/Michael1/3114.m3u8
+#EXTINF:-1,Hekayat 2
+http://123orca.com:25461/live/Michael1/Michael1/2966.m3u8
+#EXTINF:-1,Cima
+http://123orca.com:25461/live/Michael1/Michael1/2953.m3u8
+#EXTINF:-1,CIMA TUBE
+http://123orca.com:25461/live/Michael1/Michael1/2942.m3u8
+#EXTINF:-1,CIMA ALI BABA
+http://123orca.com:25461/live/Michael1/Michael1/2952.m3u8
+#EXTINF:-1,CINEMA 1
+http://123orca.com:25461/live/Michael1/Michael1/2944.m3u8
+#EXTINF:-1,CINEMA 2
+http://123orca.com:25461/live/Michael1/Michael1/2943.m3u8
+#EXTINF:-1,CINEMA PRO
+http://123orca.com:25461/live/Michael1/Michael1/2951.m3u8
+#EXTINF:-1,CINEMA TUBE
+http://123orca.com:25461/live/Michael1/Michael1/2940.m3u8
+#EXTINF:-1,LCD Aflam
+http://123orca.com:25461/live/Michael1/Michael1/6385.m3u8
+#EXTINF:-1,Apple Film
+http://123orca.com:25461/live/Michael1/Michael1/2947.m3u8
+#EXTINF:-1,Apple Cinema
+http://123orca.com:25461/live/Michael1/Michael1/2946.m3u8
+#EXTINF:-1,Apple Moslsalat
+http://123orca.com:25461/live/Michael1/Michael1/2948.m3u8
+#EXTINF:-1,Apple Hekayat
+http://123orca.com:25461/live/Michael1/Michael1/2949.m3u8
+#EXTINF:-1,Apple Today
+http://123orca.com:25461/live/Michael1/Michael1/2945.m3u8
+#EXTINF:-1,I CINEMA
+http://123orca.com:25461/live/Michael1/Michael1/2933.m3u8
+#EXTINF:-1,STAR CINEMA1
+http://123orca.com:25461/live/Michael1/Michael1/2958.m3u8
+#EXTINF:-1,STAR CINEMA2
+http://123orca.com:25461/live/Michael1/Michael1/2957.m3u8
+#EXTINF:-1,TOKTOK CIMA
+http://123orca.com:25461/live/Michael1/Michael1/2954.m3u8
+#EXTINF:-1,Panorama Film
+http://123orca.com:25461/live/Michael1/Michael1/2956.m3u8
+#EXTINF:-1,Panorama Cinema
+http://123orca.com:25461/live/Michael1/Michael1/2902.m3u8
+#EXTINF:-1,Panorama Drama2
+http://123orca.com:25461/live/Michael1/Michael1/2903.m3u8
+#EXTINF:-1,Panorama Drama
+http://123orca.com:25461/live/Michael1/Michael1/2904.m3u8
+#EXTINF:-1,Panorama Yom
+http://123orca.com:25461/live/Michael1/Michael1/4336.m3u8
+#EXTINF:-1,Al Sa3a Comedy
+http://123orca.com:25461/live/Michael1/Michael1/4422.m3u8
+#EXTINF:-1,CBC
+http://123orca.com:25461/live/Michael1/Michael1/2927.m3u8
+#EXTINF:-1,CBC eXtra
+http://123orca.com:25461/live/Michael1/Michael1/2925.m3u8
+#EXTINF:-1,CBC Drama
+http://123orca.com:25461/live/Michael1/Michael1/4270.m3u8
+#EXTINF:-1,ON Live HD
+http://123orca.com:25461/live/Michael1/Michael1/4427.m3u8
+#EXTINF:-1,ON Drama
+http://123orca.com:25461/live/Michael1/Michael1/2914.m3u8
+#EXTINF:-1,ON E HD
+http://123orca.com:25461/live/Michael1/Michael1/2915.m3u8
+#EXTINF:-1,DMC HD
+http://123orca.com:25461/live/Michael1/Michael1/2912.m3u8
+#EXTINF:-1,DMC Drama
+http://123orca.com:25461/live/Michael1/Michael1/2911.m3u8
+#EXTINF:-1,M Cinema TV
+http://123orca.com:25461/live/Michael1/Michael1/4314.m3u8
+#EXTINF:-1,M Classic
+http://123orca.com:25461/live/Michael1/Michael1/2843.m3u8
+#EXTINF:-1,Imagine Movies
+http://123orca.com:25461/live/Michael1/Michael1/2931.m3u8
+#EXTINF:-1,Toktok Aflam
+http://123orca.com:25461/live/Michael1/Michael1/2955.m3u8
+#EXTINF:-1,Cairo Drama
+http://123orca.com:25461/live/Michael1/Michael1/2921.m3u8
+#EXTINF:-1,Cairo cinema
+http://123orca.com:25461/live/Michael1/Michael1/2922.m3u8
+#EXTINF:-1,Al Shasha Cinema
+http://123orca.com:25461/live/Michael1/Michael1/2950.m3u8
+#EXTINF:-1,Al Masrawia Aflam
+http://123orca.com:25461/live/Michael1/Michael1/2930.m3u8
+#EXTINF:-1,Mosalsalat Tube
+http://123orca.com:25461/live/Michael1/Michael1/2842.m3u8
+#EXTINF:-1,Family Drama
+http://123orca.com:25461/live/Michael1/Michael1/9278.m3u8
+#EXTINF:-1,Maspero Zaman
+http://123orca.com:25461/live/Michael1/Michael1/9223.m3u8
+#EXTINF:-1,Dream 1
+http://123orca.com:25461/live/Michael1/Michael1/2906.m3u8
+#EXTINF:-1,Dream 2
+http://123orca.com:25461/live/Michael1/Michael1/2905.m3u8
+#EXTINF:-1,Nile Cinema
+http://123orca.com:25461/live/Michael1/Michael1/2897.m3u8
+#EXTINF:-1,Nile Comedy
+http://123orca.com:25461/live/Michael1/Michael1/2895.m3u8
+#EXTINF:-1,Nile Drama
+http://123orca.com:25461/live/Michael1/Michael1/2896.m3u8
+#EXTINF:-1,Nile Culture
+http://123orca.com:25461/live/Michael1/Michael1/2898.m3u8
+#EXTINF:-1,Nile Family
+http://123orca.com:25461/live/Michael1/Michael1/2899.m3u8
+#EXTINF:-1,Nile Life
+http://123orca.com:25461/live/Michael1/Michael1/4327.m3u8
+#EXTINF:-1,Nile News
+http://123orca.com:25461/live/Michael1/Michael1/4328.m3u8
+#EXTINF:-1,Al Araby
+http://123orca.com:25461/live/Michael1/Michael1/20498.m3u8
+#EXTINF:-1,Al Araby 2
+http://123orca.com:25461/live/Michael1/Michael1/20503.m3u8
+#EXTINF:-1,Mekameleen TV
+http://123orca.com:25461/live/Michael1/Michael1/7732.m3u8
+#EXTINF:-1,Al Hayat
+http://123orca.com:25461/live/Michael1/Michael1/2891.m3u8
+#EXTINF:-1,Al Hayat 2
+http://123orca.com:25461/live/Michael1/Michael1/2890.m3u8
+#EXTINF:-1,Alhayat Muslsalat
+http://123orca.com:25461/live/Michael1/Michael1/2889.m3u8
+#EXTINF:-1,Al Nahar Drama
+http://123orca.com:25461/live/Michael1/Michael1/2918.m3u8
+#EXTINF:-1,SCARE TV
+http://123orca.com:25461/live/Michael1/Michael1/9292.m3u8
+#EXTINF:-1,Sharo5an Hindi
+http://123orca.com:25461/live/Michael1/Michael1/9224.m3u8
+#EXTINF:-1,Alostora TV
+http://123orca.com:25461/live/Michael1/Michael1/9249.m3u8
+#EXTINF:-1,Mehwar TV
+http://123orca.com:25461/live/Michael1/Michael1/2876.m3u8
+#EXTINF:-1,Oula Masr
+http://123orca.com:25461/live/Michael1/Michael1/2908.m3u8
+#EXTINF:-1,AL masriya
+http://123orca.com:25461/live/Michael1/Michael1/4385.m3u8
+#EXTINF:-1,MASR ALHAYAH
+http://123orca.com:25461/live/Michael1/Michael1/2888.m3u8
+#EXTINF:-1,Al Kahera Wal Nas
+http://123orca.com:25461/live/Michael1/Michael1/2917.m3u8
+#EXTINF:-1,Al Kahera Wal Nas 2
+http://123orca.com:25461/live/Michael1/Michael1/2916.m3u8
+#EXTINF:-1,Sada El Balad
+http://123orca.com:25461/live/Michael1/Michael1/2893.m3u8
+#EXTINF:-1,Sada El Balad 2
+http://123orca.com:25461/live/Michael1/Michael1/14398.m3u8
+#EXTINF:-1,Sada El Balad Drama
+http://123orca.com:25461/live/Michael1/Michael1/2892.m3u8
+#EXTINF:-1,An Najah Nbc
+http://123orca.com:25461/live/Michael1/Michael1/9225.m3u8
+#EXTINF:-1,SBC
+http://123orca.com:25461/live/Michael1/Michael1/12789.m3u8
+#EXTINF:-1,Qatar TV
+http://123orca.com:25461/live/Michael1/Michael1/2839.m3u8
+#EXTINF:-1,KTV CH1 HD
+http://123orca.com:25461/live/Michael1/Michael1/2858.m3u8
+#EXTINF:-1,KTV CH2 HD
+http://123orca.com:25461/live/Michael1/Michael1/2856.m3u8
+#EXTINF:-1,KTV AL ARABI HD
+http://123orca.com:25461/live/Michael1/Michael1/2859.m3u8
+#EXTINF:-1,KTV ETHRAA HD
+http://123orca.com:25461/live/Michael1/Michael1/2855.m3u8
+#EXTINF:-1,KTV S.Plus HD
+http://123orca.com:25461/live/Michael1/Michael1/2854.m3u8
+#EXTINF:-1,Sudan.TV
+http://123orca.com:25461/live/Michael1/Michael1/3049.m3u8
+#EXTINF:-1,Sudania 24 HD
+http://123orca.com:25461/live/Michael1/Michael1/9334.m3u8
+#EXTINF:-1,Sudan Drama
+http://123orca.com:25461/live/Michael1/Michael1/9324.m3u8
+#EXTINF:-1,Sudan Om Dorman
+http://123orca.com:25461/live/Michael1/Michael1/11162.m3u8
+#EXTINF:-1,Sudan Khartoum
+http://123orca.com:25461/live/Michael1/Michael1/11159.m3u8
+#EXTINF:-1,Sudan Tayba
+http://123orca.com:25461/live/Michael1/Michael1/11164.m3u8
+#EXTINF:-1,Sudan Blue Nile
+http://123orca.com:25461/live/Michael1/Michael1/11160.m3u8
+#EXTINF:-1,Sudan Shorouk
+http://123orca.com:25461/live/Michael1/Michael1/11163.m3u8
+#EXTINF:-1,Sudan Monwaat
+http://123orca.com:25461/live/Michael1/Michael1/9339.m3u8
+#EXTINF:-1,Sudan Music
+http://123orca.com:25461/live/Michael1/Michael1/9322.m3u8
+#EXTINF:-1,Sudan Sport
+http://123orca.com:25461/live/Michael1/Michael1/9330.m3u8
+#EXTINF:-1,Sudan Dabanga
+http://123orca.com:25461/live/Michael1/Michael1/11161.m3u8
+#EXTINF:-1,Sudan Knowledge
+http://123orca.com:25461/live/Michael1/Michael1/11165.m3u8
+#EXTINF:-1,----------Lebanon.TV----------
+http://123orca.com:25461/live/Michael1/Michael1/12403.m3u8
+#EXTINF:-1,LBC
+http://123orca.com:25461/live/Michael1/Michael1/2885.m3u8
+#EXTINF:-1,LBCI Lebanon
+http://123orca.com:25461/live/Michael1/Michael1/13146.m3u8
+#EXTINF:-1,LBCI 2 Lebanon
+http://123orca.com:25461/live/Michael1/Michael1/13147.m3u8
+#EXTINF:-1,Future
+http://123orca.com:25461/live/Michael1/Michael1/2883.m3u8
+#EXTINF:-1,NBN
+http://123orca.com:25461/live/Michael1/Michael1/2880.m3u8
+#EXTINF:-1,LDC
+http://123orca.com:25461/live/Michael1/Michael1/2881.m3u8
+#EXTINF:-1,Al Mayadeen Tv
+http://123orca.com:25461/live/Michael1/Michael1/2877.m3u8
+#EXTINF:-1,AlRai
+http://123orca.com:25461/live/Michael1/Michael1/4401.m3u8
+#EXTINF:-1,Lebanon
+http://123orca.com:25461/live/Michael1/Michael1/2884.m3u8
+#EXTINF:-1,Heya TV
+http://123orca.com:25461/live/Michael1/Michael1/4290.m3u8
+#EXTINF:-1,Al Aan TV
+http://123orca.com:25461/live/Michael1/Michael1/9342.m3u8
+#EXTINF:-1,Ten
+http://123orca.com:25461/live/Michael1/Michael1/2909.m3u8
+#EXTINF:-1,AL Manar
+http://123orca.com:25461/live/Michael1/Michael1/2878.m3u8
+#EXTINF:-1,Citruss TV
+http://123orca.com:25461/live/Michael1/Michael1/4217.m3u8
+#EXTINF:-1,Al Jadeed TV
+http://123orca.com:25461/live/Michael1/Michael1/2879.m3u8
+#EXTINF:-1,OTV Lebanon
+http://123orca.com:25461/live/Michael1/Michael1/2882.m3u8
+#EXTINF:-1,MTV Lebanon
+http://123orca.com:25461/live/Michael1/Michael1/4424.m3u8
+#EXTINF:-1,Mtv Lebanon 2
+http://123orca.com:25461/live/Michael1/Michael1/5337.m3u8
+#EXTINF:-1,Mtv Lebanon 3
+http://123orca.com:25461/live/Michael1/Michael1/5338.m3u8
+#EXTINF:-1,ANB
+http://123orca.com:25461/live/Michael1/Michael1/20505.m3u8
+#EXTINF:-1,NOUR TV
+http://123orca.com:25461/live/Michael1/Michael1/2872.m3u8
+#EXTINF:-1,Nour Mariam
+http://123orca.com:25461/live/Michael1/Michael1/3026.m3u8
+#EXTINF:-1,Nour elkuds
+http://123orca.com:25461/live/Michael1/Michael1/4258.m3u8
+#EXTINF:-1,Nour El Keddisin
+http://123orca.com:25461/live/Michael1/Michael1/2875.m3u8
+#EXTINF:-1,Nour Music 2
+http://123orca.com:25461/live/Michael1/Michael1/2873.m3u8
+#EXTINF:-1,Nour Kids
+http://123orca.com:25461/live/Michael1/Michael1/3027.m3u8
+#EXTINF:-1,----------Syrian.TV----------
+http://123orca.com:25461/live/Michael1/Michael1/12404.m3u8
+#EXTINF:-1,Syrian Satellite Tv
+http://123orca.com:25461/live/Michael1/Michael1/9281.m3u8
+#EXTINF:-1,Syria News
+http://123orca.com:25461/live/Michael1/Michael1/11283.m3u8
+#EXTINF:-1,Syria Drama
+http://123orca.com:25461/live/Michael1/Michael1/2852.m3u8
+#EXTINF:-1,Syria Medical
+http://123orca.com:25461/live/Michael1/Michael1/12430.m3u8
+#EXTINF:-1,Orient
+http://123orca.com:25461/live/Michael1/Michael1/3062.m3u8
+#EXTINF:-1,LANA TV
+http://123orca.com:25461/live/Michael1/Michael1/11281.m3u8
+#EXTINF:-1,Sama TV
+http://123orca.com:25461/live/Michael1/Michael1/11282.m3u8
+#EXTINF:-1,SHAM TV
+http://123orca.com:25461/live/Michael1/Michael1/12429.m3u8
+#EXTINF:-1,Altaghier Tv
+http://123orca.com:25461/live/Michael1/Michael1/12412.m3u8
+#EXTINF:-1,NOUR EL SHAM
+http://123orca.com:25461/live/Michael1/Michael1/3053.m3u8
+#EXTINF:-1,Tunisia NAT 1
+http://123orca.com:25461/live/Michael1/Michael1/2752.m3u8
+#EXTINF:-1,Tunisia NAT 2
+http://123orca.com:25461/live/Michael1/Michael1/2751.m3u8
+#EXTINF:-1,Elhiwar ettounsi TV
+http://123orca.com:25461/live/Michael1/Michael1/2750.m3u8
+#EXTINF:-1,Attessia TV
+http://123orca.com:25461/live/Michael1/Michael1/2749.m3u8
+#EXTINF:-1,Nessma
+http://123orca.com:25461/live/Michael1/Michael1/2748.m3u8
+#EXTINF:-1,Hannibal
+http://123orca.com:25461/live/Michael1/Michael1/2747.m3u8
+#EXTINF:-1,M Tunisia
+http://123orca.com:25461/live/Michael1/Michael1/2743.m3u8
+#EXTINF:-1,Telvza TV
+http://123orca.com:25461/live/Michael1/Michael1/2746.m3u8
+#EXTINF:-1,Sahel tv
+http://123orca.com:25461/live/Michael1/Michael1/9084.m3u8
+#EXTINF:-1,Carthage TV
+http://123orca.com:25461/live/Michael1/Michael1/4375.m3u8
+#EXTINF:-1,Tunisna
+http://123orca.com:25461/live/Michael1/Michael1/2744.m3u8
+#EXTINF:-1,Al Insen TV
+http://123orca.com:25461/live/Michael1/Michael1/2740.m3u8
+#EXTINF:-1,Al Janoubia Tv
+http://123orca.com:25461/live/Michael1/Michael1/2745.m3u8
+#EXTINF:-1,Al Mustakillah
+http://123orca.com:25461/live/Michael1/Michael1/2742.m3u8
+#EXTINF:-1,Zitouna TV
+http://123orca.com:25461/live/Michael1/Michael1/2741.m3u8
+#EXTINF:-1,Tunisie immobilier TV
+http://123orca.com:25461/live/Michael1/Michael1/12690.m3u8
+#EXTINF:-1,HALA MOVIES
+http://123orca.com:25461/live/Michael1/Michael1/12611.m3u8
+#EXTINF:-1,HALA SERIES
+http://123orca.com:25461/live/Michael1/Michael1/12612.m3u8
+#EXTINF:-1,HALA DRAMA
+http://123orca.com:25461/live/Michael1/Michael1/12615.m3u8
+#EXTINF:-1,HALA TURK
+http://123orca.com:25461/live/Michael1/Michael1/12613.m3u8
+#EXTINF:-1,HALA BOLLYWOOD
+http://123orca.com:25461/live/Michael1/Michael1/12614.m3u8
+#EXTINF:-1,HALA MIX
+http://123orca.com:25461/live/Michael1/Michael1/12616.m3u8
+#EXTINF:-1,S7T Movies HD
+http://123orca.com:25461/live/Michael1/Michael1/8616.m3u8
+#EXTINF:-1,S7T Aflam HD
+http://123orca.com:25461/live/Michael1/Michael1/2802.m3u8
+#EXTINF:-1,S7T Series
+http://123orca.com:25461/live/Michael1/Michael1/9783.m3u8
+#EXTINF:-1,S7T Bollywood
+http://123orca.com:25461/live/Michael1/Michael1/8593.m3u8
+#EXTINF:-1,S7T Documentaire
+http://123orca.com:25461/live/Michael1/Michael1/2779.m3u8
+#EXTINF:-1,S7T Culture
+http://123orca.com:25461/live/Michael1/Michael1/8609.m3u8
+#EXTINF:-1,S7T Anime
+http://123orca.com:25461/live/Michael1/Michael1/2804.m3u8
+#EXTINF:-1,S7T Korean
+http://123orca.com:25461/live/Michael1/Michael1/8614.m3u8
+#EXTINF:-1,S7T Hits HD
+http://123orca.com:25461/live/Michael1/Michael1/8613.m3u8
+#EXTINF:-1,S7T Music HD
+http://123orca.com:25461/live/Michael1/Michael1/9359.m3u8
+#EXTINF:-1,S7T Sport HD
+http://123orca.com:25461/live/Michael1/Michael1/12779.m3u8
+#EXTINF:-1,--------TN TNT--------
+http://123orca.com:25461/live/Michael1/Michael1/5736.m3u8
+#EXTINF:-1,Tunisia Nat 1 TNT
+http://123orca.com:25461/live/Michael1/Michael1/5724.m3u8
+#EXTINF:-1,Tunisia Nat 2 TNT
+http://123orca.com:25461/live/Michael1/Michael1/5725.m3u8
+#EXTINF:-1,Elhiwar Ettounsi TNT
+http://123orca.com:25461/live/Michael1/Michael1/5726.m3u8
+#EXTINF:-1,Nessma TNT
+http://123orca.com:25461/live/Michael1/Michael1/5728.m3u8
+#EXTINF:-1,Hannibal TNT
+http://123orca.com:25461/live/Michael1/Michael1/5729.m3u8
+#EXTINF:-1,Attessia TNT
+http://123orca.com:25461/live/Michael1/Michael1/5727.m3u8
+#EXTINF:-1,Telvza TNT
+http://123orca.com:25461/live/Michael1/Michael1/5733.m3u8
+#EXTINF:-1,Al Janoubia TNT
+http://123orca.com:25461/live/Michael1/Michael1/5730.m3u8
+#EXTINF:-1,M Tunisia TNT
+http://123orca.com:25461/live/Michael1/Michael1/5734.m3u8
+#EXTINF:-1,Tunisna TNT
+http://123orca.com:25461/live/Michael1/Michael1/5731.m3u8
+#EXTINF:-1,Al Insen TNT
+http://123orca.com:25461/live/Michael1/Michael1/5735.m3u8
+#EXTINF:-1,Zitouna TNT
+http://123orca.com:25461/live/Michael1/Michael1/5732.m3u8
+#EXTINF:-1,--------ALGERIE--------
+http://123orca.com:25461/live/Michael1/Michael1/2782.m3u8
+#EXTINF:-1,Algeria tv
+http://123orca.com:25461/live/Michael1/Michael1/2781.m3u8
+#EXTINF:-1,Algerie 3
+http://123orca.com:25461/live/Michael1/Michael1/8619.m3u8
+#EXTINF:-1,Algerie 4
+http://123orca.com:25461/live/Michael1/Michael1/8612.m3u8
+#EXTINF:-1,Algerie 5
+http://123orca.com:25461/live/Michael1/Michael1/8608.m3u8
+#EXTINF:-1,Echorouk TV
+http://123orca.com:25461/live/Michael1/Michael1/2775.m3u8
+#EXTINF:-1,Numidia News
+http://123orca.com:25461/live/Michael1/Michael1/9782.m3u8
+#EXTINF:-1,Echorouk News
+http://123orca.com:25461/live/Michael1/Michael1/2774.m3u8
+#EXTINF:-1,Bahia TV
+http://123orca.com:25461/live/Michael1/Michael1/8599.m3u8
+#EXTINF:-1,Dzair News
+http://123orca.com:25461/live/Michael1/Michael1/2768.m3u8
+#EXTINF:-1,El Bilad TV
+http://123orca.com:25461/live/Michael1/Michael1/2765.m3u8
+#EXTINF:-1,Al Heddaf tv
+http://123orca.com:25461/live/Michael1/Michael1/12242.m3u8
+#EXTINF:-1,El Djazairia TV
+http://123orca.com:25461/live/Michael1/Michael1/2766.m3u8
+#EXTINF:-1,Ennahar TV DZ
+http://123orca.com:25461/live/Michael1/Michael1/2771.m3u8
+#EXTINF:-1,ENTV Algerie
+http://123orca.com:25461/live/Michael1/Michael1/2780.m3u8
+#EXTINF:-1,Berbere TV
+http://123orca.com:25461/live/Michael1/Michael1/2759.m3u8
+#EXTINF:-1,Berbere Jeunesse
+http://123orca.com:25461/live/Michael1/Michael1/8605.m3u8
+#EXTINF:-1,Berbere Music
+http://123orca.com:25461/live/Michael1/Michael1/9253.m3u8
+#EXTINF:-1,El Fadjr TV DZ
+http://123orca.com:25461/live/Michael1/Michael1/2763.m3u8
+#EXTINF:-1,----------Jordan.TV----------
+http://123orca.com:25461/live/Michael1/Michael1/12405.m3u8
+#EXTINF:-1,Jordan HD
+http://123orca.com:25461/live/Michael1/Michael1/3122.m3u8
+#EXTINF:-1,Noor Jordan
+http://123orca.com:25461/live/Michael1/Michael1/4330.m3u8
+#EXTINF:-1,A1 Jordan
+http://123orca.com:25461/live/Michael1/Michael1/3060.m3u8
+#EXTINF:-1,Jordan Now
+http://123orca.com:25461/live/Michael1/Michael1/12957.m3u8
+#EXTINF:-1,Jordan Amen
+http://123orca.com:25461/live/Michael1/Michael1/12425.m3u8
+#EXTINF:-1,Jordan Sama
+http://123orca.com:25461/live/Michael1/Michael1/12427.m3u8
+#EXTINF:-1,Jordan Manaseer
+http://123orca.com:25461/live/Michael1/Michael1/12426.m3u8
+#EXTINF:-1,ROYA HD
+http://123orca.com:25461/live/Michael1/Michael1/11166.m3u8
+#EXTINF:-1,Zweina Baladna
+http://123orca.com:25461/live/Michael1/Michael1/9310.m3u8
+#EXTINF:-1,Amman TV
+http://123orca.com:25461/live/Michael1/Michael1/5334.m3u8
+#EXTINF:-1,KAIFA TV
+http://123orca.com:25461/live/Michael1/Michael1/12411.m3u8
+#EXTINF:-1,Jordan Sport
+http://123orca.com:25461/live/Michael1/Michael1/3020.m3u8
+#EXTINF:-1,----------Palestine.TV----------
+http://123orca.com:25461/live/Michael1/Michael1/12407.m3u8
+#EXTINF:-1,Palestine Today
+http://123orca.com:25461/live/Michael1/Michael1/3052.m3u8
+#EXTINF:-1,Palestine live
+http://123orca.com:25461/live/Michael1/Michael1/3082.m3u8
+#EXTINF:-1,Palestine News
+http://123orca.com:25461/live/Michael1/Michael1/12428.m3u8
+#EXTINF:-1,Betlahem
+http://123orca.com:25461/live/Michael1/Michael1/20441.m3u8
+#EXTINF:-1,MUSAWA
+http://123orca.com:25461/live/Michael1/Michael1/12408.m3u8
+#EXTINF:-1,MAAN
+http://123orca.com:25461/live/Michael1/Michael1/12410.m3u8
+#EXTINF:-1,HONA ALQUDS
+http://123orca.com:25461/live/Michael1/Michael1/12409.m3u8
+#EXTINF:-1,Al Quds TV
+http://123orca.com:25461/live/Michael1/Michael1/4246.m3u8
+#EXTINF:-1,----------Iraq.TV----------
+http://123orca.com:25461/live/Michael1/Michael1/12406.m3u8
+#EXTINF:-1,Iraqi EDU
+http://123orca.com:25461/live/Michael1/Michael1/2844.m3u8
+#EXTINF:-1,Iraqia TV
+http://123orca.com:25461/live/Michael1/Michael1/4296.m3u8
+#EXTINF:-1,Baghdad TV
+http://123orca.com:25461/live/Michael1/Michael1/4264.m3u8
+#EXTINF:-1,AL Hurra Iraq
+http://123orca.com:25461/live/Michael1/Michael1/4383.m3u8
+#EXTINF:-1,Hona Baghdad
+http://123orca.com:25461/live/Michael1/Michael1/2850.m3u8
+#EXTINF:-1,Al Fallujah TV
+http://123orca.com:25461/live/Michael1/Michael1/4381.m3u8
+#EXTINF:-1,Al Mawsleya
+http://123orca.com:25461/live/Michael1/Michael1/4386.m3u8
+#EXTINF:-1,Al Sumaria TV
+http://123orca.com:25461/live/Michael1/Michael1/4390.m3u8
+#EXTINF:-1,AL Anbar
+http://123orca.com:25461/live/Michael1/Michael1/4391.m3u8
+#EXTINF:-1,Al Rafiden
+http://123orca.com:25461/live/Michael1/Michael1/4388.m3u8
+#EXTINF:-1,Karbala TV
+http://123orca.com:25461/live/Michael1/Michael1/4411.m3u8
+#EXTINF:-1,Al Ghadeer
+http://123orca.com:25461/live/Michael1/Michael1/9233.m3u8
+#EXTINF:-1,Alitejah TV
+http://123orca.com:25461/live/Michael1/Michael1/3036.m3u8
+#EXTINF:-1,Alforat TV
+http://123orca.com:25461/live/Michael1/Michael1/9288.m3u8
+#EXTINF:-1,Al Rasheed
+http://123orca.com:25461/live/Michael1/Michael1/4389.m3u8
+#EXTINF:-1,--------DIVERS--------
+http://123orca.com:25461/live/Michael1/Michael1/3088.m3u8
+#EXTINF:-1,Al Hiwar TV
+http://123orca.com:25461/live/Michael1/Michael1/9296.m3u8
+#EXTINF:-1,Ajman TV
+http://123orca.com:25461/live/Michael1/Michael1/4222.m3u8
+#EXTINF:-1,Al Ghad Al Mushreq
+http://123orca.com:25461/live/Michael1/Michael1/2851.m3u8
+#EXTINF:-1,Al Nahar One
+http://123orca.com:25461/live/Michael1/Michael1/4242.m3u8
+#EXTINF:-1,ALhayah ALaan
+http://123orca.com:25461/live/Michael1/Michael1/3040.m3u8
+#EXTINF:-1,Yemen Sama
+http://123orca.com:25461/live/Michael1/Michael1/3081.m3u8
+#EXTINF:-1,Neelain Sport
+http://123orca.com:25461/live/Michael1/Michael1/9325.m3u8
+#EXTINF:-1,Yemen Today
+http://123orca.com:25461/live/Michael1/Michael1/9280.m3u8
+#EXTINF:-1,Shabab TV
+http://123orca.com:25461/live/Michael1/Michael1/4435.m3u8
+#EXTINF:-1,Tanasoh TV
+http://123orca.com:25461/live/Michael1/Michael1/4363.m3u8
+#EXTINF:-1,Al Naeem TV
+http://123orca.com:25461/live/Michael1/Michael1/3046.m3u8
+#EXTINF:-1,Al Minbar TV
+http://123orca.com:25461/live/Michael1/Michael1/3033.m3u8
+#EXTINF:-1,Al Rayyan SD
+http://123orca.com:25461/live/Michael1/Michael1/3031.m3u8
+#EXTINF:-1,Afak
+http://123orca.com:25461/live/Michael1/Michael1/4376.m3u8
+#EXTINF:-1,AL Anwar
+http://123orca.com:25461/live/Michael1/Michael1/4225.m3u8
+#EXTINF:-1,Al Maaref
+http://123orca.com:25461/live/Michael1/Michael1/4238.m3u8
+#EXTINF:-1,--------MUSIC--------
+http://123orca.com:25461/live/Michael1/Michael1/3099.m3u8
+#EXTINF:-1,Rotana Clip
+http://123orca.com:25461/live/Michael1/Michael1/2977.m3u8
+#EXTINF:-1,Rotana Khalijiah
+http://123orca.com:25461/live/Michael1/Michael1/2973.m3u8
+#EXTINF:-1,Rotana Music HD
+http://123orca.com:25461/live/Michael1/Michael1/2976.m3u8
+#EXTINF:-1,Rotana Music
+http://123orca.com:25461/live/Michael1/Michael1/2975.m3u8
+#EXTINF:-1,Rotana Khaliji HD
+http://123orca.com:25461/live/Michael1/Michael1/2974.m3u8
+#EXTINF:-1,Mazzika
+http://123orca.com:25461/live/Michael1/Michael1/3096.m3u8
+#EXTINF:-1,Aghani Aghani TV
+http://123orca.com:25461/live/Michael1/Michael1/3093.m3u8
+#EXTINF:-1,Afrah TV
+http://123orca.com:25461/live/Michael1/Michael1/3059.m3u8
+#EXTINF:-1,Hawacom
+http://123orca.com:25461/live/Michael1/Michael1/3023.m3u8
+#EXTINF:-1,Mazazik Tv
+http://123orca.com:25461/live/Michael1/Michael1/4320.m3u8
+#EXTINF:-1,Music Alhanen
+http://123orca.com:25461/live/Michael1/Michael1/3092.m3u8
+#EXTINF:-1,FUNoon
+http://123orca.com:25461/live/Michael1/Michael1/9231.m3u8
+#EXTINF:-1,TATT7
+http://123orca.com:25461/live/Michael1/Michael1/9210.m3u8
+#EXTINF:-1,WANASAH
+http://123orca.com:25461/live/Michael1/Michael1/2861.m3u8
+#EXTINF:-1,--------ISLAMIC--------
+http://123orca.com:25461/live/Michael1/Michael1/3120.m3u8
+#EXTINF:-1,Al Majd 1
+http://123orca.com:25461/live/Michael1/Michael1/3119.m3u8
+#EXTINF:-1,Al Majd 2
+http://123orca.com:25461/live/Michael1/Michael1/3118.m3u8
+#EXTINF:-1,Al Majd Hadith
+http://123orca.com:25461/live/Michael1/Michael1/4392.m3u8
+#EXTINF:-1,Al Majd Scientific
+http://123orca.com:25461/live/Michael1/Michael1/14404.m3u8
+#EXTINF:-1,AlAfasy
+http://123orca.com:25461/live/Michael1/Michael1/3110.m3u8
+#EXTINF:-1,alnas
+http://123orca.com:25461/live/Michael1/Michael1/7950.m3u8
+#EXTINF:-1,Iqraa
+http://123orca.com:25461/live/Michael1/Michael1/3117.m3u8
+#EXTINF:-1,Makkah TV
+http://123orca.com:25461/live/Michael1/Michael1/9232.m3u8
+#EXTINF:-1,AL NADA TV
+http://123orca.com:25461/live/Michael1/Michael1/4394.m3u8
+#EXTINF:-1,Saudi 1
+http://123orca.com:25461/live/Michael1/Michael1/3116.m3u8
+#EXTINF:-1,Saudi 2
+http://123orca.com:25461/live/Michael1/Michael1/3115.m3u8
+#EXTINF:-1,Saudi Ch Quran
+http://123orca.com:25461/live/Michael1/Michael1/4351.m3u8
+#EXTINF:-1,Saudi Ch Sunnah
+http://123orca.com:25461/live/Michael1/Michael1/4352.m3u8
+#EXTINF:-1,Al Rahma
+http://123orca.com:25461/live/Michael1/Michael1/3109.m3u8
+#EXTINF:-1,Al Resala
+http://123orca.com:25461/live/Michael1/Michael1/3105.m3u8
+#EXTINF:-1,Azhari
+http://123orca.com:25461/live/Michael1/Michael1/3085.m3u8
+#EXTINF:-1,Alhayat We Alnas
+http://123orca.com:25461/live/Michael1/Michael1/3039.m3u8
+#EXTINF:-1,Al Erth Al Nabawi
+http://123orca.com:25461/live/Michael1/Michael1/9085.m3u8
+#EXTINF:-1,Tayba TV
+http://123orca.com:25461/live/Michael1/Michael1/9383.m3u8
+#EXTINF:-1,Al kawthar
+http://123orca.com:25461/live/Michael1/Michael1/3104.m3u8
+#EXTINF:-1,Al Anis TV
+http://123orca.com:25461/live/Michael1/Michael1/4224.m3u8
+#EXTINF:-1,Quran Tv
+http://123orca.com:25461/live/Michael1/Michael1/3019.m3u8
+#EXTINF:-1,Ahel Al Quran
+http://123orca.com:25461/live/Michael1/Michael1/4341.m3u8
+#EXTINF:-1,Al Malakoot Sat
+http://123orca.com:25461/live/Michael1/Michael1/4240.m3u8
+#EXTINF:-1,--------SPORT--------
+http://123orca.com:25461/live/Michael1/Michael1/3147.m3u8
+#EXTINF:-1,Alkass One HD
+http://123orca.com:25461/live/Michael1/Michael1/3146.m3u8
+#EXTINF:-1,Alkass Two HD
+http://123orca.com:25461/live/Michael1/Michael1/3145.m3u8
+#EXTINF:-1,AlKass Online
+http://123orca.com:25461/live/Michael1/Michael1/12774.m3u8
+#EXTINF:-1,Alkass Extra One HD
+http://123orca.com:25461/live/Michael1/Michael1/3143.m3u8
+#EXTINF:-1,Alkass Five HD
+http://123orca.com:25461/live/Michael1/Michael1/3142.m3u8
+#EXTINF:-1,Al Kass Six HD
+http://123orca.com:25461/live/Michael1/Michael1/20507.m3u8
+#EXTINF:-1,YAS Sports HD
+http://123orca.com:25461/live/Michael1/Michael1/4443.m3u8
+#EXTINF:-1,ON Sport
+http://123orca.com:25461/live/Michael1/Michael1/2913.m3u8
+#EXTINF:-1,KSA Sports 1
+http://123orca.com:25461/live/Michael1/Michael1/14407.m3u8
+#EXTINF:-1,KSA Sports 2
+http://123orca.com:25461/live/Michael1/Michael1/14408.m3u8
+#EXTINF:-1,KSA Sports Plus 1HD
+http://123orca.com:25461/live/Michael1/Michael1/14409.m3u8
+#EXTINF:-1,KSA Sports Plus 2HD
+http://123orca.com:25461/live/Michael1/Michael1/14410.m3u8
+#EXTINF:-1,Dawri Plus 1
+http://123orca.com:25461/live/Michael1/Michael1/3141.m3u8
+#EXTINF:-1,Dawri Plus 2
+http://123orca.com:25461/live/Michael1/Michael1/3140.m3u8
+#EXTINF:-1,Dawri Plus 3
+http://123orca.com:25461/live/Michael1/Michael1/3139.m3u8
+#EXTINF:-1,Dawri Plus 4
+http://123orca.com:25461/live/Michael1/Michael1/3138.m3u8
+#EXTINF:-1,Nile Sports
+http://123orca.com:25461/live/Michael1/Michael1/14397.m3u8
+#EXTINF:-1,AD Sport1
+http://123orca.com:25461/live/Michael1/Michael1/3137.m3u8
+#EXTINF:-1,AD Sport2
+http://123orca.com:25461/live/Michael1/Michael1/3135.m3u8
+#EXTINF:-1,AD Sport3
+http://123orca.com:25461/live/Michael1/Michael1/3134.m3u8
+#EXTINF:-1,AD Sport4
+http://123orca.com:25461/live/Michael1/Michael1/10367.m3u8
+#EXTINF:-1,AD Sport5
+http://123orca.com:25461/live/Michael1/Michael1/12773.m3u8
+#EXTINF:-1,DMC Sports
+http://123orca.com:25461/live/Michael1/Michael1/2910.m3u8
+#EXTINF:-1,KTV Sport HD
+http://123orca.com:25461/live/Michael1/Michael1/3123.m3u8
+#EXTINF:-1,Dubai Sport 1
+http://123orca.com:25461/live/Michael1/Michael1/3129.m3u8
+#EXTINF:-1,Dubai Sports 2
+http://123orca.com:25461/live/Michael1/Michael1/6383.m3u8
+#EXTINF:-1,Dubai Sports 3
+http://123orca.com:25461/live/Michael1/Michael1/3128.m3u8
+#EXTINF:-1,Dubai Racing 1
+http://123orca.com:25461/live/Michael1/Michael1/9059.m3u8
+#EXTINF:-1,Dubai Racing 2
+http://123orca.com:25461/live/Michael1/Michael1/6384.m3u8
+#EXTINF:-1,Dubai Racing 3
+http://123orca.com:25461/live/Michael1/Michael1/3126.m3u8
+#EXTINF:-1,--------beIN SPORTS--------
+http://123orca.com:25461/live/Michael1/Michael1/3168.m3u8
+#EXTINF:-1,beIN SPORTS HD1
+http://123orca.com:25461/live/Michael1/Michael1/12075.m3u8
+#EXTINF:-1,BeIN SPORTS SD1
+http://123orca.com:25461/live/Michael1/Michael1/12068.m3u8
+#EXTINF:-1,beIN SPORTS HD2
+http://123orca.com:25461/live/Michael1/Michael1/12076.m3u8
+#EXTINF:-1,BeIN SPORTS SD2
+http://123orca.com:25461/live/Michael1/Michael1/12067.m3u8
+#EXTINF:-1,beIN SPORTS HD3
+http://123orca.com:25461/live/Michael1/Michael1/3165.m3u8
+#EXTINF:-1,BeIN SPORTS SD3
+http://123orca.com:25461/live/Michael1/Michael1/11876.m3u8
+#EXTINF:-1,beIN SPORTS HD4
+http://123orca.com:25461/live/Michael1/Michael1/3164.m3u8
+#EXTINF:-1,BeIN SPORTS SD4
+http://123orca.com:25461/live/Michael1/Michael1/11875.m3u8
+#EXTINF:-1,beIN SPORTS HD5
+http://123orca.com:25461/live/Michael1/Michael1/3163.m3u8
+#EXTINF:-1,BeIN SPORTS SD5
+http://123orca.com:25461/live/Michael1/Michael1/11874.m3u8
+#EXTINF:-1,beIN SPORTS HD6
+http://123orca.com:25461/live/Michael1/Michael1/3162.m3u8
+#EXTINF:-1,BeIN SPORTS SD6
+http://123orca.com:25461/live/Michael1/Michael1/11873.m3u8
+#EXTINF:-1,beIN SPORTS HD7
+http://123orca.com:25461/live/Michael1/Michael1/3161.m3u8
+#EXTINF:-1,BeIN SPORTS SD7
+http://123orca.com:25461/live/Michael1/Michael1/11872.m3u8
+#EXTINF:-1,beIN SPORTS HD8
+http://123orca.com:25461/live/Michael1/Michael1/3160.m3u8
+#EXTINF:-1,BeIN SPORTS SD8
+http://123orca.com:25461/live/Michael1/Michael1/12694.m3u8
+#EXTINF:-1,beIN SPORTS HD9
+http://123orca.com:25461/live/Michael1/Michael1/3159.m3u8
+#EXTINF:-1,beIN SPORTS HD10
+http://123orca.com:25461/live/Michael1/Michael1/3158.m3u8
+#EXTINF:-1,beIN SPORTS NEWS HD
+http://123orca.com:25461/live/Michael1/Michael1/3150.m3u8
+#EXTINF:-1,beIN SPORTS HD11
+http://123orca.com:25461/live/Michael1/Michael1/3157.m3u8
+#EXTINF:-1,beIN SPORTS HD12
+http://123orca.com:25461/live/Michael1/Michael1/3156.m3u8
+#EXTINF:-1,beIN SPORTS HD13
+http://123orca.com:25461/live/Michael1/Michael1/14403.m3u8
+#EXTINF:-1,beIN SPORTS HD14
+http://123orca.com:25461/live/Michael1/Michael1/14402.m3u8
+#EXTINF:-1,beIN SPORTS HD15
+http://123orca.com:25461/live/Michael1/Michael1/14401.m3u8
+#EXTINF:-1,beIN SPORTS HD16
+http://123orca.com:25461/live/Michael1/Michael1/14400.m3u8
+#EXTINF:-1,beIN SPORTS 4k 1
+http://123orca.com:25461/live/Michael1/Michael1/11314.m3u8
+#EXTINF:-1,beIN SPORTS 4k 2
+http://123orca.com:25461/live/Michael1/Michael1/11315.m3u8
+#EXTINF:-1,beIN SPORTS 4k 3
+http://123orca.com:25461/live/Michael1/Michael1/11316.m3u8
+#EXTINF:-1,beIN SPORTS 4k 4
+http://123orca.com:25461/live/Michael1/Michael1/11317.m3u8
+#EXTINF:-1,beIN SPORTS 4k 5
+http://123orca.com:25461/live/Michael1/Michael1/11318.m3u8
+#EXTINF:-1,beIN SPORTS 4k 6
+http://123orca.com:25461/live/Michael1/Michael1/11319.m3u8
+#EXTINF:-1,beIN SPORTS 4k 7
+http://123orca.com:25461/live/Michael1/Michael1/11320.m3u8
+#EXTINF:-1,--------OSN--------
+http://123orca.com:25461/live/Michael1/Michael1/9119.m3u8
+#EXTINF:-1,OSN Movies HD
+http://123orca.com:25461/live/Michael1/Michael1/6375.m3u8
+#EXTINF:-1,OSN Movies First HD
+http://123orca.com:25461/live/Michael1/Michael1/6373.m3u8
+#EXTINF:-1,OSN Movies First HD 2H
+http://123orca.com:25461/live/Michael1/Michael1/6367.m3u8
+#EXTINF:-1,OSN Movies Action HD
+http://123orca.com:25461/live/Michael1/Michael1/6369.m3u8
+#EXTINF:-1,OSN Movies Action HD 2H
+http://123orca.com:25461/live/Michael1/Michael1/6365.m3u8
+#EXTINF:-1,OSN Movies Thriller HD
+http://123orca.com:25461/live/Michael1/Michael1/6371.m3u8
+#EXTINF:-1,OSN Movies Thriller 2H
+http://123orca.com:25461/live/Michael1/Michael1/6353.m3u8
+#EXTINF:-1,OSN Movies Comedy HD
+http://123orca.com:25461/live/Michael1/Michael1/6366.m3u8
+#EXTINF:-1,OSN Movies Kids HD
+http://123orca.com:25461/live/Michael1/Michael1/13075.m3u8
+#EXTINF:-1,OSN First HBO HD
+http://123orca.com:25461/live/Michael1/Michael1/6349.m3u8
+#EXTINF:-1,OSN Series HD
+http://123orca.com:25461/live/Michael1/Michael1/13076.m3u8
+#EXTINF:-1,OSN Series First HD
+http://123orca.com:25461/live/Michael1/Michael1/6352.m3u8
+#EXTINF:-1,OSN Series Comedy HD
+http://123orca.com:25461/live/Michael1/Michael1/6351.m3u8
+#EXTINF:-1,OSN Fine Living
+http://123orca.com:25461/live/Michael1/Michael1/6337.m3u8
+#EXTINF:-1,OSN YaHala HD
+http://123orca.com:25461/live/Michael1/Michael1/6363.m3u8
+#EXTINF:-1,OSN YaHala Oula HD
+http://123orca.com:25461/live/Michael1/Michael1/6362.m3u8
+#EXTINF:-1,OSN Yahala Cinema HD
+http://123orca.com:25461/live/Michael1/Michael1/6360.m3u8
+#EXTINF:-1,OSN CINEMA 1
+http://123orca.com:25461/live/Michael1/Michael1/6355.m3u8
+#EXTINF:-1,OSN CINEMA 2
+http://123orca.com:25461/live/Michael1/Michael1/6354.m3u8
+#EXTINF:-1,OSN Musalsalat  HD
+http://123orca.com:25461/live/Michael1/Michael1/6357.m3u8
+#EXTINF:-1,OSN ALYOUM
+http://123orca.com:25461/live/Michael1/Michael1/6359.m3u8
+#EXTINF:-1,OSN ALSAFWA
+http://123orca.com:25461/live/Michael1/Michael1/6358.m3u8
+#EXTINF:-1,OSN Syfy HD
+http://123orca.com:25461/live/Michael1/Michael1/6348.m3u8
+#EXTINF:-1,OSN Fann HD
+http://123orca.com:25461/live/Michael1/Michael1/14472.m3u8
+#EXTINF:-1,OSN Music Now HD
+http://123orca.com:25461/live/Michael1/Michael1/14473.m3u8
+#EXTINF:-1,OSN Go HD
+http://123orca.com:25461/live/Michael1/Michael1/13060.m3u8
+#EXTINF:-1,OSN Hindi HD
+http://123orca.com:25461/live/Michael1/Michael1/13061.m3u8
+#EXTINF:-1,OSN Play HD
+http://123orca.com:25461/live/Michael1/Michael1/13059.m3u8
+#EXTINF:-1,Showtime Action HD
+http://123orca.com:25461/live/Michael1/Michael1/13062.m3u8
+#EXTINF:-1,Showtime Premiere HD
+http://123orca.com:25461/live/Michael1/Michael1/13063.m3u8
+#EXTINF:-1,Starz Play
+http://123orca.com:25461/live/Michael1/Michael1/13058.m3u8
+#EXTINF:-1,WAVO HD
+http://123orca.com:25461/live/Michael1/Michael1/13064.m3u8
+#EXTINF:-1,NETFLIX عربي
+http://123orca.com:25461/live/Michael1/Michael1/13044.m3u8
+#EXTINF:-1,NETFLIX مسرحيات
+http://123orca.com:25461/live/Michael1/Michael1/13046.m3u8
+#EXTINF:-1,NETFLIX مسلسلات
+http://123orca.com:25461/live/Michael1/Michael1/13045.m3u8
+#EXTINF:-1,NETFLIX ACTION
+http://123orca.com:25461/live/Michael1/Michael1/13047.m3u8
+#EXTINF:-1,NETFLIX MOVIES
+http://123orca.com:25461/live/Michael1/Michael1/13056.m3u8
+#EXTINF:-1,NETFLIX BOX OFFICE
+http://123orca.com:25461/live/Michael1/Michael1/13049.m3u8
+#EXTINF:-1,NETFLIX HORROR
+http://123orca.com:25461/live/Michael1/Michael1/13053.m3u8
+#EXTINF:-1,NETFLIX SERIES
+http://123orca.com:25461/live/Michael1/Michael1/13057.m3u8
+#EXTINF:-1,NETFLIX DRAMA
+http://123orca.com:25461/live/Michael1/Michael1/13052.m3u8
+#EXTINF:-1,NETFLIX COMEDY
+http://123orca.com:25461/live/Michael1/Michael1/13051.m3u8
+#EXTINF:-1,NETFLIX BOLLYOOD
+http://123orca.com:25461/live/Michael1/Michael1/13048.m3u8
+#EXTINF:-1,NETFLIX CLASSICS
+http://123orca.com:25461/live/Michael1/Michael1/13050.m3u8
+#EXTINF:-1,NETFLIX KIDS
+http://123orca.com:25461/live/Michael1/Michael1/13054.m3u8
+#EXTINF:-1,NETFLIX THRILLER
+http://123orca.com:25461/live/Michael1/Michael1/13055.m3u8
+#EXTINF:-1,OXN Movies
+http://123orca.com:25461/live/Michael1/Michael1/12781.m3u8
+#EXTINF:-1,OXN Movies Action
+http://123orca.com:25461/live/Michael1/Michael1/12782.m3u8
+#EXTINF:-1,OXN Movies Cinema1
+http://123orca.com:25461/live/Michael1/Michael1/12783.m3u8
+#EXTINF:-1,OXN Movies First
+http://123orca.com:25461/live/Michael1/Michael1/12784.m3u8
+#EXTINF:-1,OXN Movies Go
+http://123orca.com:25461/live/Michael1/Michael1/12785.m3u8
+#EXTINF:-1,OXN Movies Puer
+http://123orca.com:25461/live/Michael1/Michael1/12787.m3u8
+#EXTINF:-1,OXN Movies Som3a
+http://123orca.com:25461/live/Michael1/Michael1/12788.m3u8
+#EXTINF:-1,OXN Movies Kids
+http://123orca.com:25461/live/Michael1/Michael1/12786.m3u8
+#EXTINF:-1,OSN Food Network HD
+http://123orca.com:25461/live/Michael1/Michael1/6336.m3u8
+#EXTINF:-1,OSN BBC Fisrt HD
+http://123orca.com:25461/live/Michael1/Michael1/6340.m3u8
+#EXTINF:-1,OSN H2 HD
+http://123orca.com:25461/live/Michael1/Michael1/6325.m3u8
+#EXTINF:-1,OSN E! Entertainment HD
+http://123orca.com:25461/live/Michael1/Michael1/6338.m3u8
+#EXTINF:-1,OSN History Channel HD
+http://123orca.com:25461/live/Michael1/Michael1/6326.m3u8
+#EXTINF:-1,OSN Crime & Investigation
+http://123orca.com:25461/live/Michael1/Michael1/6324.m3u8
+#EXTINF:-1,OSN Nat Geo HD
+http://123orca.com:25461/live/Michael1/Michael1/6334.m3u8
+#EXTINF:-1,OSN Nat GEO Wild HD
+http://123orca.com:25461/live/Michael1/Michael1/6333.m3u8
+#EXTINF:-1,OSN NAT GEO People HD
+http://123orca.com:25461/live/Michael1/Michael1/6332.m3u8
+#EXTINF:-1,OSN Animal Planet HD
+http://123orca.com:25461/live/Michael1/Michael1/6335.m3u8
+#EXTINF:-1,OSN Discovery Channel HD
+http://123orca.com:25461/live/Michael1/Michael1/6331.m3u8
+#EXTINF:-1,OSN Discovery Science HD
+http://123orca.com:25461/live/Michael1/Michael1/6330.m3u8
+#EXTINF:-1,OSN Discovery Family HD
+http://123orca.com:25461/live/Michael1/Michael1/13074.m3u8
+#EXTINF:-1,OSN Travel
+http://123orca.com:25461/live/Michael1/Michael1/6327.m3u8
+#EXTINF:-1,OSN KIds Zone HD
+http://123orca.com:25461/live/Michael1/Michael1/6328.m3u8
+#EXTINF:-1,OSN Nick JR
+http://123orca.com:25461/live/Michael1/Michael1/6319.m3u8
+#EXTINF:-1,OSN Disney XD
+http://123orca.com:25461/live/Michael1/Michael1/6321.m3u8
+#EXTINF:-1,OSN Disney Junior
+http://123orca.com:25461/live/Michael1/Michael1/6320.m3u8
+#EXTINF:-1,OSN Disney Channel HD
+http://123orca.com:25461/live/Michael1/Michael1/6322.m3u8
+#EXTINF:-1,OSN TLC HD
+http://123orca.com:25461/live/Michael1/Michael1/6343.m3u8
+#EXTINF:-1,OSN VH-1 HD
+http://123orca.com:25461/live/Michael1/Michael1/13068.m3u8
+#EXTINF:-1,OSN WWE Network
+http://123orca.com:25461/live/Michael1/Michael1/6312.m3u8
+#EXTINF:-1,OSN Fight Network HD
+http://123orca.com:25461/live/Michael1/Michael1/6313.m3u8
+#EXTINF:-1,OSN Sports Action 1 HD
+http://123orca.com:25461/live/Michael1/Michael1/14470.m3u8
+#EXTINF:-1,OSN Sports Action 2 HD
+http://123orca.com:25461/live/Michael1/Michael1/14471.m3u8
+#EXTINF:-1,OSN Sports 1 HD
+http://123orca.com:25461/live/Michael1/Michael1/13070.m3u8
+#EXTINF:-1,OSN Sports 2 HD
+http://123orca.com:25461/live/Michael1/Michael1/13071.m3u8
+#EXTINF:-1,OSN Sports 3 HD
+http://123orca.com:25461/live/Michael1/Michael1/13072.m3u8
+#EXTINF:-1,OSN Sports Cricket HD
+http://123orca.com:25461/live/Michael1/Michael1/6306.m3u8
+#EXTINF:-1,OSN Ten Cricket HD
+http://123orca.com:25461/live/Michael1/Michael1/13069.m3u8
+#EXTINF:-1,--------MyHD H264--------
+http://123orca.com:25461/live/Michael1/Michael1/11349.m3u8
+#EXTINF:-1,MBC 2 HD '
+http://123orca.com:25461/live/Michael1/Michael1/11332.m3u8
+#EXTINF:-1,MBC MAX HD '
+http://123orca.com:25461/live/Michael1/Michael1/11333.m3u8
+#EXTINF:-1,MBC ACTION HD '
+http://123orca.com:25461/live/Michael1/Michael1/11335.m3u8
+#EXTINF:-1,MBC 1 HD '
+http://123orca.com:25461/live/Michael1/Michael1/11352.m3u8
+#EXTINF:-1,MBC 4 HD '
+http://123orca.com:25461/live/Michael1/Michael1/11331.m3u8
+#EXTINF:-1,MBC+ DRAMA HD '
+http://123orca.com:25461/live/Michael1/Michael1/11336.m3u8
+#EXTINF:-1,MBC+ VARIETY HD'
+http://123orca.com:25461/live/Michael1/Michael1/13017.m3u8
+#EXTINF:-1,MBC BOLLYWOOD HD '
+http://123orca.com:25461/live/Michael1/Michael1/11334.m3u8
+#EXTINF:-1,Fox Rewayat HD '
+http://123orca.com:25461/live/Michael1/Michael1/11355.m3u8
+#EXTINF:-1,FX HD '
+http://123orca.com:25461/live/Michael1/Michael1/11354.m3u8
+#EXTINF:-1,Fox Crime HD '
+http://123orca.com:25461/live/Michael1/Michael1/11358.m3u8
+#EXTINF:-1,Fox Action Movies HD '
+http://123orca.com:25461/live/Michael1/Michael1/11359.m3u8
+#EXTINF:-1,Fox Family Movies HD '
+http://123orca.com:25461/live/Michael1/Michael1/11357.m3u8
+#EXTINF:-1,My Cinema HD '
+http://123orca.com:25461/live/Michael1/Michael1/11330.m3u8
+#EXTINF:-1,FilmBox HD '
+http://123orca.com:25461/live/Michael1/Michael1/11338.m3u8
+#EXTINF:-1,Star Movies HD '
+http://123orca.com:25461/live/Michael1/Michael1/11325.m3u8
+#EXTINF:-1,Star World HD'
+http://123orca.com:25461/live/Michael1/Michael1/12986.m3u8
+#EXTINF:-1,My Zen TV HD '
+http://123orca.com:25461/live/Michael1/Michael1/11329.m3u8
+#EXTINF:-1,FAST & FUN HD '
+http://123orca.com:25461/live/Michael1/Michael1/11340.m3u8
+#EXTINF:-1,My Sport 1 HD '
+http://123orca.com:25461/live/Michael1/Michael1/11362.m3u8
+#EXTINF:-1,Documentary Arabic '
+http://123orca.com:25461/live/Michael1/Michael1/11339.m3u8
+#EXTINF:-1,Docu box HD '
+http://123orca.com:25461/live/Michael1/Michael1/11342.m3u8
+#EXTINF:-1,Planet Earth HD '
+http://123orca.com:25461/live/Michael1/Michael1/11326.m3u8
+#EXTINF:-1,NAT GEO WILD HD '
+http://123orca.com:25461/live/Michael1/Michael1/11327.m3u8
+#EXTINF:-1,National Geographic HD '
+http://123orca.com:25461/live/Michael1/Michael1/11328.m3u8
+#EXTINF:-1,Discovery Science HD '
+http://123orca.com:25461/live/Michael1/Michael1/11361.m3u8
+#EXTINF:-1,ITV Choice HD '
+http://123orca.com:25461/live/Michael1/Michael1/11353.m3u8
+#EXTINF:-1,Baby TV HD'
+http://123orca.com:25461/live/Michael1/Michael1/12984.m3u8
+#EXTINF:-1,Laab Wa Jad HD'
+http://123orca.com:25461/live/Michael1/Michael1/12982.m3u8
+#EXTINF:-1,MBC 3 HD '
+http://123orca.com:25461/live/Michael1/Michael1/11351.m3u8
+#EXTINF:-1,Gulli Bil Arabie '
+http://123orca.com:25461/live/Michael1/Michael1/11337.m3u8
+#EXTINF:-1,Cinemachi kids HD '
+http://123orca.com:25461/live/Michael1/Michael1/11343.m3u8
+#EXTINF:-1,Fix & Foxi '
+http://123orca.com:25461/live/Michael1/Michael1/11356.m3u8
+#EXTINF:-1,TIJI '
+http://123orca.com:25461/live/Michael1/Michael1/11324.m3u8
+#EXTINF:-1,Duck TV '
+http://123orca.com:25461/live/Michael1/Michael1/11360.m3u8
+#EXTINF:-1,--------KIDS--------
+http://123orca.com:25461/live/Michael1/Michael1/6249.m3u8
+#EXTINF:-1,MBC 3
+http://123orca.com:25461/live/Michael1/Michael1/3014.m3u8
+#EXTINF:-1,MBC 3 HD
+http://123orca.com:25461/live/Michael1/Michael1/3013.m3u8
+#EXTINF:-1,Gulli Bil' Arabie
+http://123orca.com:25461/live/Michael1/Michael1/12988.m3u8
+#EXTINF:-1,Laab Wa' Jad HD
+http://123orca.com:25461/live/Michael1/Michael1/12991.m3u8
+#EXTINF:-1,Cartoon Network Arabic
+http://123orca.com:25461/live/Michael1/Michael1/6376.m3u8
+#EXTINF:-1,Cinemachi kids' HD
+http://123orca.com:25461/live/Michael1/Michael1/12987.m3u8
+#EXTINF:-1,Duck TV'
+http://123orca.com:25461/live/Michael1/Michael1/12989.m3u8
+#EXTINF:-1,TIJI'
+http://123orca.com:25461/live/Michael1/Michael1/12990.m3u8
+#EXTINF:-1,Fix Foxi
+http://123orca.com:25461/live/Michael1/Michael1/8174.m3u8
+#EXTINF:-1,Baby' TV HD
+http://123orca.com:25461/live/Michael1/Michael1/9283.m3u8
+#EXTINF:-1,beIN Baraem
+http://123orca.com:25461/live/Michael1/Michael1/3012.m3u8
+#EXTINF:-1,Bein Junior
+http://123orca.com:25461/live/Michael1/Michael1/2960.m3u8
+#EXTINF:-1,beIN DreamWorks
+http://123orca.com:25461/live/Michael1/Michael1/9495.m3u8
+#EXTINF:-1,Tom And Jerry
+http://123orca.com:25461/live/Michael1/Michael1/3017.m3u8
+#EXTINF:-1,Toyor Al Janah
+http://123orca.com:25461/live/Michael1/Michael1/3008.m3u8
+#EXTINF:-1,SpaceToon Arabic
+http://123orca.com:25461/live/Michael1/Michael1/3010.m3u8
+#EXTINF:-1,Toyor Baby
+http://123orca.com:25461/live/Michael1/Michael1/3009.m3u8
+#EXTINF:-1,Nat Geo KIDS
+http://123orca.com:25461/live/Michael1/Michael1/8268.m3u8
+#EXTINF:-1,HodHod TV
+http://123orca.com:25461/live/Michael1/Michael1/3005.m3u8
+#EXTINF:-1,Mickey Channel
+http://123orca.com:25461/live/Michael1/Michael1/3066.m3u8
+#EXTINF:-1,Majid Kids TV
+http://123orca.com:25461/live/Michael1/Michael1/3007.m3u8
+#EXTINF:-1,Mody Kids
+http://123orca.com:25461/live/Michael1/Michael1/4325.m3u8
+#EXTINF:-1,Jeem TV
+http://123orca.com:25461/live/Michael1/Michael1/3003.m3u8
+#EXTINF:-1,KOKKY TV
+http://123orca.com:25461/live/Michael1/Michael1/4412.m3u8
+#EXTINF:-1,TAHA
+http://123orca.com:25461/live/Michael1/Michael1/4362.m3u8
+#EXTINF:-1,KARAMEESH
+http://123orca.com:25461/live/Michael1/Michael1/3006.m3u8
+#EXTINF:-1,S7T Cartoon
+http://123orca.com:25461/live/Michael1/Michael1/8623.m3u8
+#EXTINF:-1,Ajial
+http://123orca.com:25461/live/Michael1/Michael1/4221.m3u8
