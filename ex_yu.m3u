@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:0,Top Channel
-http://163.172.211.229:8000/live/albwefdefjko/qsyVnmJ3ki123/28.ts
-#EXTINF:0,Klan TV
-http://163.172.211.229:8000/live/albwefdefjko/qsyVnmJ3ki123/27.ts
-#EXTINF:0,Klan plus
-http://163.172.211.229:8000/live/albwefdefjko/qsyVnmJ3ki123/86.ts
 #EXTINF:0,news 24
 http://163.172.211.229:8000/live/albwefdefjko/qsyVnmJ3ki123/75.ts
 #EXTINF:0,Report tv
