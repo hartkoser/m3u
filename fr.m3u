@@ -1,357 +1,415 @@
 #EXTM3U
-#EXTINF:0,13EME_RUE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/325
-#EXTINF:0,ACTION_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/358
-#EXTINF:0,Animaux_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/324
-#EXTINF:0,BeinSport1_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/349
-#EXTINF:0,BeinSport1_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/348
-#EXTINF:0,BeinSport2_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/347
-#EXTINF:0,BeinSport2_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/346
-#EXTINF:0,BeinSport3_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/345
-#EXTINF:0,BeinSport3_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/344
-#EXTINF:0,BOOMERANG
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/305
-#EXTINF:0,CANAL _ SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/389
-#EXTINF:0,CANAL CINEMA_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/388
-#EXTINF:0,CANAL CINEMA_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/387
-#EXTINF:0,CANAL DECALE_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/384
-#EXTINF:0,CANAL DECALE_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/383
-#EXTINF:0,CANAL FAMILY_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/386
-#EXTINF:0,CANAL FAMILY_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/385
-#EXTINF:0,CANAL SERIES_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/382
-#EXTINF:0,CANAL SERIES_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/381
-#EXTINF:0,CANAL SPORT_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/380
-#EXTINF:0,CANAL SPORT_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/379
-#EXTINF:0,CANAL_ HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/390
-#EXTINF:0,CANAL-J-HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/304
-#EXTINF:0,CHASSE&PECHE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/323
-#EXTINF:0,Cine _Emotion_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/375
-#EXTINF:0,Cine Classic_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/374
-#EXTINF:0,Cine Famiz_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/376
-#EXTINF:0,CINE FRISSON_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/377
-#EXTINF:0,CINE PREMIERE_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/378
-#EXTINF:0,CINE  CLUB HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1576
-#EXTINF:0,CINE FX HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1574
-#EXTINF:0,CINE POLAR HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1575
-#EXTINF:0,CRIME DISTRICT HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1565
-#EXTINF:0,COMEDIE HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/361
-#EXTINF:0,DISCOVERY_CHANNEL_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/339
-#EXTINF:0,DISCOVERY_CHANNEL_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/338
-#EXTINF:0,DISCOVERY_FAMILY_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/335
-#EXTINF:0,DISCOVERY_INVESTIGATION_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/334
-#EXTINF:0,DISCOVERY_SCIENCE_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/337
-#EXTINF:0,DISCOVERY_SCIENCE_SD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/336
-#EXTINF:0,Disney_Channel
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/310
-#EXTINF:0,DISNEY_CINEMA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/309
-#EXTINF:0,DISNEY_JUNIOR
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/311
-#EXTINF:0,DISNEY_XD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/312
-#EXTINF:0,E!_ENTERTAINMENT_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/363
-#EXTINF:0,EUROSPORT_2_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/318
-#EXTINF:0,EUROSPORT1_france
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/319
-#EXTINF:0,France_2HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/400
-#EXTINF:0,France_3HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/399
-#EXTINF:0,France_4HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/398
-#EXTINF:0,France_5HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/397
-#EXTINF:0,France_OHD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/396
-#EXTINF:0,GOLF
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/342
-#EXTINF:0,TF1 series
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/364
-#EXTINF:0,M6_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/394
-#EXTINF:0,mezzo
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/392
-#EXTINF:0,MY_CUISINE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/326
-#EXTINF:0,NAT_GEO_WILD_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/341
-#EXTINF:0,NATIONAL_GEO_CHANNEL_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/340
-#EXTINF:0,NICKELODEON
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/316
-#EXTINF:0,NICKELODEON_Junior
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/314
-#EXTINF:0,TFX
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/356
-#EXTINF:0,OCS_CHOC_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/370
-#EXTINF:0,OCS_CITY
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/371
-#EXTINF:0,OCS_GEANTS
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/372
-#EXTINF:0,OCS_MAX_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/373
-#EXTINF:0,PARAMOUNT_CHANNEL
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/368
-#EXTINF:0,PARAMOUNT_DECALE_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/367
-#EXTINF:0,PARIE_PRMIERE_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/365
-#EXTINF:0,Piwi HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/317
-#EXTINF:0,Planet _CI
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/327
-#EXTINF:0,PLANETE _AE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/332
-#EXTINF:0,Planete HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/328
-#EXTINF:0,BEIN SPORTS MAX 4
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1623
-#EXTINF:0,BEIN SPORTS MAX 5
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1622
-#EXTINF:0,BEIN SPORTS MAX 6
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1621
-#EXTINF:0,BEIN SPORTS MAX 7
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1620
-#EXTINF:0,BEIN SPORTS MAX 8
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1619
-#EXTINF:0,BEIN SPORTS MAX 9
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1618
-#EXTINF:0,BEIN SPORTS MAX 10
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1617
-#EXTINF:0,RMC Sport News HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1612
-#EXTINF:0,RMC Sport Access 1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1615
-#EXTINF:0,RMC Sport Access 2 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1614
-#EXTINF:0,RMC Sport Access 3 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1613
-#EXTINF:0,RMC_SPORT1_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/353
-#EXTINF:0,RCM_SPORT2_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/352
-#EXTINF:0,RMC_SPORT3_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/351
-#EXTINF:0,RMC Sport 4 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1616
-#EXTINF:0,RMC_SPORT5_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/350
-#EXTINF:0,RMC Sport Live 6 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1611
-#EXTINF:0,RMC Sport Live 7 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1610
-#EXTINF:0,RMC Sport Live 8 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1609
-#EXTINF:0,RMC Sport Live 9 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1608
-#EXTINF:0,RMC Sport Live 10 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1607
-#EXTINF:0,RMC Sport Live 11 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1606
-#EXTINF:0,RMC Sport Live 12 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1605
-#EXTINF:0,RMC Sport Live 13 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1604
-#EXTINF:0,RMC Sport Live 14 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1603
-#EXTINF:0,RMC Sport Live 15 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1602
-#EXTINF:0,RMC Sport Live 16 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1601
-#EXTINF:0,RTL9_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/357
-#EXTINF:0,Science_et_Vie TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/322
-#EXTINF:0,SEASONS
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/331
-#EXTINF:0,SERIE_CLUB_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/369
-#EXTINF:0,Syfy_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/362
-#EXTINF:0,TCM_CINEMA_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/360
-#EXTINF:0,TEVA_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/355
-#EXTINF:0,TF1_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/395
-#EXTINF:0,TiJi
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/303
-#EXTINF:0,TMC
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/359
-#EXTINF:0,TOONAMI
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/308
-#EXTINF:0,TOUTE_L'HISTOIRE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/330
-#EXTINF:0,Voyage_HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/329
-#EXTINF:0,6TER HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1588
-#EXTINF:0,AB MOTEURS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1567
-#EXTINF:0,AB1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1582
-#EXTINF:0,AB3 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1581
-#EXTINF:0,ALTICE STUDIO HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1573
-#EXTINF:0,ARTE HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1598
-#EXTINF:0,Baby TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1649
-#EXTINF:0,BFM PARIS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1555
-#EXTINF:0,BFM TV HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1593
-#EXTINF:0,BOING HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1656
-#EXTINF:0,BOOMERANG  1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1657
-#EXTINF:0,BRAVA
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1633
-#EXTINF:0,C8 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1597
-#EXTINF:0,CARTOON NETWORK HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1545
-#EXTINF:0,CHERIE 25 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1585
-#EXTINF:0,CNEWS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1592
-#EXTINF:0,COMEDIE  HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1570
-#EXTINF:0,CSTAR HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1591
-#EXTINF:0,DISNEY CHANNEL  1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1655
-#EXTINF:0,ELLE GIRL HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1571
-#EXTINF:0,EQUIDIA HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1625
-#EXTINF:0,EURONEWS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1559
-#EXTINF:0,FOOT  24/24 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1626
-#EXTINF:0,FRANCE 24 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1560
-#EXTINF:0,FRANCE INFO HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1583
-#EXTINF:0,GAME ONE  1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1549
-#EXTINF:0,GAME ONE HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1550
-#EXTINF:0,GINX
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1654
-#EXTINF:0,GOLF CHANNEL HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1624
-#EXTINF:0,GONG
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1652
-#EXTINF:0,GONG MAX
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1651
-#EXTINF:0,GULLI HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1590
-#EXTINF:0,HISTOIRE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1563
-#EXTINF:0,I24 NEWS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1556
-#EXTINF:0,INFOSPORT  HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1627
-#EXTINF:0,J-ONE HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1653
-#EXTINF:0,L' EQUIPE 21 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1589
-#EXTINF:0,LA CHAINE METEO
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1553
-#EXTINF:0,LCI HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1584
-#EXTINF:0,LCP 100%
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1557
-#EXTINF:0,LCP/PUBLIC SENAT
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1594
-#EXTINF:0,M6 BOUTIQUE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1562
-#EXTINF:0,MANGAS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1546
-#EXTINF:0,NICKELODEON  1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1548
-#EXTINF:0,NICKELODEON TEEN HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1547
-#EXTINF:0,PITCHOUN TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1650
-#EXTINF:0,POLAR  HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1579
-#EXTINF:0,RFM TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1640
-#EXTINF:0,RMC DECOUVERTE HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1586
-#EXTINF:0,RMC Story HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1587
-#EXTINF:0,RT FRANCE
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1569
-#EXTINF:0,SEASONS HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1564
-#EXTINF:0,SUNDANCE CHANNEL HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1572
-#EXTINF:0,TELETOON   HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1552
-#EXTINF:0,TELETOON  1 HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1551
-#EXTINF:0,TF1  1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1599
-#EXTINF:0,TMC  1
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1595
-#EXTINF:0,TRACE AFRICA HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1641
-#EXTINF:0,Trace Sport Star HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1600
-#EXTINF:0,TRACE TROPICAL HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1642
-#EXTINF:0,TRACE URBAN HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1643
-#EXTINF:0,TREK HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1568
-#EXTINF:0,TV BREIZH HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1577
-#EXTINF:0,TV5 MONDE HD
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1558
-#EXTINF:0,USHUAIA TV
-http://brina.world-tv.org:25461/marrakch/7sjKZBesup/1566
+#EXTINF:-1,TF1.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9416.m3u8
+#EXTINF:-1,TFX.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9419.m3u8
+#EXTINF:-1,TF1 Series Films.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9418.m3u8
+#EXTINF:-1,6TER.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9427.m3u8
+#EXTINF:-1,M6.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9417.m3u8
+#EXTINF:-1,W9.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9420.m3u8
+#EXTINF:-1,FRANCE 2.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9425.m3u8
+#EXTINF:-1,FRANCE 3.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9424.m3u8
+#EXTINF:-1,FRANCE 4.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9423.m3u8
+#EXTINF:-1,FRANCE 5.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9422.m3u8
+#EXTINF:-1,Cherie 25.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9426.m3u8
+#EXTINF:-1,NUMERO23.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9421.m3u8
+#EXTINF:-1,ORCA KIDS
+http://rb-group-server.com:25461/live/rachid123/rachid321/14682.m3u8
+#EXTINF:-1,Tiji
+http://rb-group-server.com:25461/live/rachid123/rachid321/5444.m3u8
+#EXTINF:-1,Piwi
+http://rb-group-server.com:25461/live/rachid123/rachid321/5443.m3u8
+#EXTINF:-1,Gulli
+http://rb-group-server.com:25461/live/rachid123/rachid321/5439.m3u8
+#EXTINF:-1,Mangas
+http://rb-group-server.com:25461/live/rachid123/rachid321/5438.m3u8
+#EXTINF:-1,Canal J
+http://rb-group-server.com:25461/live/rachid123/rachid321/5448.m3u8
+#EXTINF:-1,TéléTOON
+http://rb-group-server.com:25461/live/rachid123/rachid321/5445.m3u8
+#EXTINF:-1,Boomerang
+http://rb-group-server.com:25461/live/rachid123/rachid321/5446.m3u8
+#EXTINF:-1,Disney. Channel
+http://rb-group-server.com:25461/live/rachid123/rachid321/5437.m3u8
+#EXTINF:-1,Disney Junior
+http://rb-group-server.com:25461/live/rachid123/rachid321/5435.m3u8
+#EXTINF:-1,Disney Cinema
+http://rb-group-server.com:25461/live/rachid123/rachid321/5436.m3u8
+#EXTINF:-1,Disney XD
+http://rb-group-server.com:25461/live/rachid123/rachid321/5434.m3u8
+#EXTINF:-1,Cartoon Network'
+http://rb-group-server.com:25461/live/rachid123/rachid321/5449.m3u8
+#EXTINF:-1,Nickelodeon'
+http://rb-group-server.com:25461/live/rachid123/rachid321/5442.m3u8
+#EXTINF:-1,Nickelodeon Junior
+http://rb-group-server.com:25461/live/rachid123/rachid321/5441.m3u8
+#EXTINF:-1,Nickelodeon 4teen
+http://rb-group-server.com:25461/live/rachid123/rachid321/9486.m3u8
+#EXTINF:-1,FR:Toonami HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/7433.m3u8
+#EXTINF:-1,BOING
+http://rb-group-server.com:25461/live/rachid123/rachid321/5447.m3u8
+#EXTINF:-1,J ONE
+http://rb-group-server.com:25461/live/rachid123/rachid321/11311.m3u8
+#EXTINF:-1,Zouzous Tv
+http://rb-group-server.com:25461/live/rachid123/rachid321/7985.m3u8
+#EXTINF:-1,Game One
+http://rb-group-server.com:25461/live/rachid123/rachid321/5440.m3u8
+#EXTINF:-1,TF1
+http://rb-group-server.com:25461/live/rachid123/rachid321/5520.m3u8
+#EXTINF:-1,TF1 Series Films
+http://rb-group-server.com:25461/live/rachid123/rachid321/5502.m3u8
+#EXTINF:-1,TFX
+http://rb-group-server.com:25461/live/rachid123/rachid321/5510.m3u8
+#EXTINF:-1,M6
+http://rb-group-server.com:25461/live/rachid123/rachid321/5519.m3u8
+#EXTINF:-1,6TER
+http://rb-group-server.com:25461/live/rachid123/rachid321/5503.m3u8
+#EXTINF:-1,W9
+http://rb-group-server.com:25461/live/rachid123/rachid321/5512.m3u8
+#EXTINF:-1,C8
+http://rb-group-server.com:25461/live/rachid123/rachid321/5504.m3u8
+#EXTINF:-1,FRANCE 2
+http://rb-group-server.com:25461/live/rachid123/rachid321/5518.m3u8
+#EXTINF:-1,FRANCE 3
+http://rb-group-server.com:25461/live/rachid123/rachid321/5517.m3u8
+#EXTINF:-1,FRANCE 4
+http://rb-group-server.com:25461/live/rachid123/rachid321/5516.m3u8
+#EXTINF:-1,FRANCE 5
+http://rb-group-server.com:25461/live/rachid123/rachid321/5515.m3u8
+#EXTINF:-1,FRANCE O
+http://rb-group-server.com:25461/live/rachid123/rachid321/5514.m3u8
+#EXTINF:-1,FRANCE 24.
+http://rb-group-server.com:25461/live/rachid123/rachid321/9775.m3u8
+#EXTINF:-1,FRANCE INFO
+http://rb-group-server.com:25461/live/rachid123/rachid321/5513.m3u8
+#EXTINF:-1,Euronews
+http://rb-group-server.com:25461/live/rachid123/rachid321/3324.m3u8
+#EXTINF:-1,TV5 MONDE
+http://rb-group-server.com:25461/live/rachid123/rachid321/3325.m3u8
+#EXTINF:-1,CANAL NEWS
+http://rb-group-server.com:25461/live/rachid123/rachid321/5431.m3u8
+#EXTINF:-1,I24 NEWS
+http://rb-group-server.com:25461/live/rachid123/rachid321/10682.m3u8
+#EXTINF:-1,LCI
+http://rb-group-server.com:25461/live/rachid123/rachid321/9432.m3u8
+#EXTINF:-1,LCP
+http://rb-group-server.com:25461/live/rachid123/rachid321/3373.m3u8
+#EXTINF:-1,Arte
+http://rb-group-server.com:25461/live/rachid123/rachid321/5507.m3u8
+#EXTINF:-1,BFM TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/5432.m3u8
+#EXTINF:-1,BFM Business
+http://rb-group-server.com:25461/live/rachid123/rachid321/5433.m3u8
+#EXTINF:-1,Paris Premiere
+http://rb-group-server.com:25461/live/rachid123/rachid321/3320.m3u8
+#EXTINF:-1,13ème RUE
+http://rb-group-server.com:25461/live/rachid123/rachid321/5479.m3u8
+#EXTINF:-1,RMC Story
+http://rb-group-server.com:25461/live/rachid123/rachid321/5508.m3u8
+#EXTINF:-1,TV Breizh
+http://rb-group-server.com:25461/live/rachid123/rachid321/5419.m3u8
+#EXTINF:-1,Comédie
+http://rb-group-server.com:25461/live/rachid123/rachid321/5430.m3u8
+#EXTINF:-1,Elle Girl
+http://rb-group-server.com:25461/live/rachid123/rachid321/5428.m3u8
+#EXTINF:-1,Série Club
+http://rb-group-server.com:25461/live/rachid123/rachid321/5482.m3u8
+#EXTINF:-1,Syfy
+http://rb-group-server.com:25461/live/rachid123/rachid321/3316.m3u8
+#EXTINF:-1,Teva
+http://rb-group-server.com:25461/live/rachid123/rachid321/6282.m3u8
+#EXTINF:-1,Chérie 25
+http://rb-group-server.com:25461/live/rachid123/rachid321/5505.m3u8
+#EXTINF:-1,TMC
+http://rb-group-server.com:25461/live/rachid123/rachid321/5511.m3u8
+#EXTINF:-1,TCM Cinéma
+http://rb-group-server.com:25461/live/rachid123/rachid321/5477.m3u8
+#EXTINF:-1,MCM
+http://rb-group-server.com:25461/live/rachid123/rachid321/5427.m3u8
+#EXTINF:-1,NRJ12
+http://rb-group-server.com:25461/live/rachid123/rachid321/5509.m3u8
+#EXTINF:-1,Paramount Channel
+http://rb-group-server.com:25461/live/rachid123/rachid321/5484.m3u8
+#EXTINF:-1,WARNER TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/11308.m3u8
+#EXTINF:-1,ORCA ACTION
+http://rb-group-server.com:25461/live/rachid123/rachid321/14626.m3u8
+#EXTINF:-1,ORCA ACTION 2.
+http://rb-group-server.com:25461/live/rachid123/rachid321/17144.m3u8
+#EXTINF:-1,ORCA HORROR
+http://rb-group-server.com:25461/live/rachid123/rachid321/15471.m3u8
+#EXTINF:-1,Action
+http://rb-group-server.com:25461/live/rachid123/rachid321/5481.m3u8
+#EXTINF:-1,Canal+
+http://rb-group-server.com:25461/live/rachid123/rachid321/12071.m3u8
+#EXTINF:-1,Canal+ Cinéma
+http://rb-group-server.com:25461/live/rachid123/rachid321/12073.m3u8
+#EXTINF:-1,Canal+ Séries
+http://rb-group-server.com:25461/live/rachid123/rachid321/12066.m3u8
+#EXTINF:-1,Canal+ Décalé
+http://rb-group-server.com:25461/live/rachid123/rachid321/5495.m3u8
+#EXTINF:-1,Canal+ Family
+http://rb-group-server.com:25461/live/rachid123/rachid321/5494.m3u8
+#EXTINF:-1,Ciné+ Frisson
+http://rb-group-server.com:25461/live/rachid123/rachid321/5487.m3u8
+#EXTINF:-1,Ciné+ Emotion
+http://rb-group-server.com:25461/live/rachid123/rachid321/5489.m3u8
+#EXTINF:-1,Ciné+ Classic
+http://rb-group-server.com:25461/live/rachid123/rachid321/5491.m3u8
+#EXTINF:-1,Ciné+ Premier
+http://rb-group-server.com:25461/live/rachid123/rachid321/5492.m3u8
+#EXTINF:-1,Ciné+ Famiz
+http://rb-group-server.com:25461/live/rachid123/rachid321/5488.m3u8
+#EXTINF:-1,Cine Club
+http://rb-group-server.com:25461/live/rachid123/rachid321/8590.m3u8
+#EXTINF:-1,OCS City
+http://rb-group-server.com:25461/live/rachid123/rachid321/3347.m3u8
+#EXTINF:-1,OCS MAX
+http://rb-group-server.com:25461/live/rachid123/rachid321/3348.m3u8
+#EXTINF:-1,OCS CHOC
+http://rb-group-server.com:25461/live/rachid123/rachid321/3346.m3u8
+#EXTINF:-1,OCS Geants
+http://rb-group-server.com:25461/live/rachid123/rachid321/3345.m3u8
+#EXTINF:-1,SFR Action
+http://rb-group-server.com:25461/live/rachid123/rachid321/8705.m3u8
+#EXTINF:-1,SFR_Horror
+http://rb-group-server.com:25461/live/rachid123/rachid321/8708.m3u8
+#EXTINF:-1,SFR Comedy
+http://rb-group-server.com:25461/live/rachid123/rachid321/8706.m3u8
+#EXTINF:-1,SFR SCI-FI
+http://rb-group-server.com:25461/live/rachid123/rachid321/8707.m3u8
+#EXTINF:-1,altice STUDIO
+http://rb-group-server.com:25461/live/rachid123/rachid321/9470.m3u8
+#EXTINF:-1,Sundance TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/8712.m3u8
+#EXTINF:-1,TV8 Mont Blanc
+http://rb-group-server.com:25461/live/rachid123/rachid321/10681.m3u8
+#EXTINF:-1,Rouge TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/10672.m3u8
+#EXTINF:-1,CSTAR
+http://rb-group-server.com:25461/live/rachid123/rachid321/5506.m3u8
+#EXTINF:-1,ONE TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/10679.m3u8
+#EXTINF:-1,RT FRANCE
+http://rb-group-server.com:25461/live/rachid123/rachid321/11574.m3u8
+#EXTINF:-1,RTL9
+http://rb-group-server.com:25461/live/rachid123/rachid321/5478.m3u8
+#EXTINF:-1,AB1
+http://rb-group-server.com:25461/live/rachid123/rachid321/5480.m3u8
+#EXTINF:-1,Bet.
+http://rb-group-server.com:25461/live/rachid123/rachid321/10366.m3u8
+#EXTINF:-1,E!
+http://rb-group-server.com:25461/live/rachid123/rachid321/3274.m3u8
+#EXTINF:-1,My Cuisine
+http://rb-group-server.com:25461/live/rachid123/rachid321/9389.m3u8
+#EXTINF:-1,Ushuaïa
+http://rb-group-server.com:25461/live/rachid123/rachid321/5457.m3u8
+#EXTINF:-1,Animaux
+http://rb-group-server.com:25461/live/rachid123/rachid321/5455.m3u8
+#EXTINF:-1,Chasse et Peche
+http://rb-group-server.com:25461/live/rachid123/rachid321/3333.m3u8
+#EXTINF:-1,Seasons
+http://rb-group-server.com:25461/live/rachid123/rachid321/5456.m3u8
+#EXTINF:-1,Voyage
+http://rb-group-server.com:25461/live/rachid123/rachid321/5450.m3u8
+#EXTINF:-1,TREK
+http://rb-group-server.com:25461/live/rachid123/rachid321/5420.m3u8
+#EXTINF:-1,Planète+
+http://rb-group-server.com:25461/live/rachid123/rachid321/5462.m3u8
+#EXTINF:-1,Planète+ CI
+http://rb-group-server.com:25461/live/rachid123/rachid321/5460.m3u8
+#EXTINF:-1,Planète+ A&E
+http://rb-group-server.com:25461/live/rachid123/rachid321/5461.m3u8
+#EXTINF:-1,Science & Vie
+http://rb-group-server.com:25461/live/rachid123/rachid321/5454.m3u8
+#EXTINF:-1,RMC Découverte
+http://rb-group-server.com:25461/live/rachid123/rachid321/5501.m3u8
+#EXTINF:-1,Crime District
+http://rb-group-server.com:25461/live/rachid123/rachid321/9415.m3u8
+#EXTINF:-1,Histoire
+http://rb-group-server.com:25461/live/rachid123/rachid321/5453.m3u8
+#EXTINF:-1,Toute.l'histoire
+http://rb-group-server.com:25461/live/rachid123/rachid321/3330.m3u8
+#EXTINF:-1,Weo
+http://rb-group-server.com:25461/live/rachid123/rachid321/3315.m3u8
+#EXTINF:-1,Discovery
+http://rb-group-server.com:25461/live/rachid123/rachid321/5452.m3u8
+#EXTINF:-1,Discovery Science
+http://rb-group-server.com:25461/live/rachid123/rachid321/5451.m3u8
+#EXTINF:-1,Discovery Investigation
+http://rb-group-server.com:25461/live/rachid123/rachid321/3303.m3u8
+#EXTINF:-1,NatGeo Wild
+http://rb-group-server.com:25461/live/rachid123/rachid321/5459.m3u8
+#EXTINF:-1,National Geographic
+http://rb-group-server.com:25461/live/rachid123/rachid321/5458.m3u8
+#EXTINF:-1,Canal+ Sport
+http://rb-group-server.com:25461/live/rachid123/rachid321/12072.m3u8
+#EXTINF:-1,RMC Sport 1
+http://rb-group-server.com:25461/live/rachid123/rachid321/12069.m3u8
+#EXTINF:-1,RMC Sport 2
+http://rb-group-server.com:25461/live/rachid123/rachid321/5472.m3u8
+#EXTINF:-1,RMC Sport 3
+http://rb-group-server.com:25461/live/rachid123/rachid321/5471.m3u8
+#EXTINF:-1,RMC Sport 4
+http://rb-group-server.com:25461/live/rachid123/rachid321/5470.m3u8
+#EXTINF:-1,Bein Sport HD 1
+http://rb-group-server.com:25461/live/rachid123/rachid321/12070.m3u8
+#EXTINF:-1,Bein Sport HD 2
+http://rb-group-server.com:25461/live/rachid123/rachid321/12074.m3u8
+#EXTINF:-1,Bein Sport HD 3
+http://rb-group-server.com:25461/live/rachid123/rachid321/12065.m3u8
+#EXTINF:-1,beIN Sports max 4 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/3285.m3u8
+#EXTINF:-1,beIN Sports max 5 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/3284.m3u8
+#EXTINF:-1,beIN Sports max 6 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/3286.m3u8
+#EXTINF:-1,beIN Sports max 7 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/3283.m3u8
+#EXTINF:-1,beIN Sports max 8 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/3282.m3u8
+#EXTINF:-1,beIN Sports max 9 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11454.m3u8
+#EXTINF:-1,beIN Sports max 10 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11455.m3u8
+#EXTINF:-1,Infosport
+http://rb-group-server.com:25461/live/rachid123/rachid321/5466.m3u8
+#EXTINF:-1,Eurosport 1
+http://rb-group-server.com:25461/live/rachid123/rachid321/3277.m3u8
+#EXTINF:-1,Eurosport 2
+http://rb-group-server.com:25461/live/rachid123/rachid321/3276.m3u8
+#EXTINF:-1,OL TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/10361.m3u8
+#EXTINF:-1,Foot 24
+http://rb-group-server.com:25461/live/rachid123/rachid321/3278.m3u8
+#EXTINF:-1,BFM Sport
+http://rb-group-server.com:25461/live/rachid123/rachid321/10363.m3u8
+#EXTINF:-1,Equidia Live
+http://rb-group-server.com:25461/live/rachid123/rachid321/5467.m3u8
+#EXTINF:-1,L'équipe 21
+http://rb-group-server.com:25461/live/rachid123/rachid321/5465.m3u8
+#EXTINF:-1,AB Moteurs
+http://rb-group-server.com:25461/live/rachid123/rachid321/3335.m3u8
+#EXTINF:-1,Motorsport Tv.
+http://rb-group-server.com:25461/live/rachid123/rachid321/10674.m3u8
+#EXTINF:-1,Golf
+http://rb-group-server.com:25461/live/rachid123/rachid321/5464.m3u8
+#EXTINF:-1,Golf+
+http://rb-group-server.com:25461/live/rachid123/rachid321/10148.m3u8
+#EXTINF:-1,Golf+ HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/10360.m3u8
+#EXTINF:-1,LFM TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/10678.m3u8
+#EXTINF:-1,M6 MUSIC
+http://rb-group-server.com:25461/live/rachid123/rachid321/3290.m3u8
+#EXTINF:-1,VH1 Classic
+http://rb-group-server.com:25461/live/rachid123/rachid321/11306.m3u8
+#EXTINF:-1,Trace Urban
+http://rb-group-server.com:25461/live/rachid123/rachid321/5421.m3u8
+#EXTINF:-1,Trace Africa
+http://rb-group-server.com:25461/live/rachid123/rachid321/10364.m3u8
+#EXTINF:-1,Trace Tropical
+http://rb-group-server.com:25461/live/rachid123/rachid321/10365.m3u8
+#EXTINF:-1,NRJ TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/10676.m3u8
+#EXTINF:-1,TVM3
+http://rb-group-server.com:25461/live/rachid123/rachid321/10680.m3u8
+#EXTINF:-1,Brava tv
+http://rb-group-server.com:25461/live/rachid123/rachid321/10362.m3u8
+#EXTINF:-1,RFM TV
+http://rb-group-server.com:25461/live/rachid123/rachid321/10675.m3u8
+#EXTINF:-1,MTV HITS.
+http://rb-group-server.com:25461/live/rachid123/rachid321/10677.m3u8
+#EXTINF:-1,MTV FRANCE.
+http://rb-group-server.com:25461/live/rachid123/rachid321/5424.m3u8
+#EXTINF:-1,MCM  TOP
+http://rb-group-server.com:25461/live/rachid123/rachid321/5426.m3u8
+#EXTINF:-1,MEZZO LIVE.
+http://rb-group-server.com:25461/live/rachid123/rachid321/5425.m3u8
+#EXTINF:-1,A LA CARTE 1
+http://rb-group-server.com:25461/live/rachid123/rachid321/3273.m3u8
+#EXTINF:-1,A LA CARTE 2
+http://rb-group-server.com:25461/live/rachid123/rachid321/3272.m3u8
+#EXTINF:-1,A LA CARTE 3
+http://rb-group-server.com:25461/live/rachid123/rachid321/3271.m3u8
+#EXTINF:-1,A LA CARTE 4
+http://rb-group-server.com:25461/live/rachid123/rachid321/3270.m3u8
+#EXTINF:-1,A LA CARTE 5
+http://rb-group-server.com:25461/live/rachid123/rachid321/3269.m3u8
+#EXTINF:-1,A LA CARTE 6
+http://rb-group-server.com:25461/live/rachid123/rachid321/3268.m3u8
+#EXTINF:-1,A LA CARTE 7
+http://rb-group-server.com:25461/live/rachid123/rachid321/3267.m3u8
+#EXTINF:-1,--------SWISS--------
+http://rb-group-server.com:25461/live/rachid123/rachid321/6275.m3u8
+#EXTINF:-1,SRF 1
+http://rb-group-server.com:25461/live/rachid123/rachid321/3262.m3u8
+#EXTINF:-1,SRF 2
+http://rb-group-server.com:25461/live/rachid123/rachid321/6257.m3u8
+#EXTINF:-1,RTS Un
+http://rb-group-server.com:25461/live/rachid123/rachid321/5500.m3u8
+#EXTINF:-1,RTS Deux
+http://rb-group-server.com:25461/live/rachid123/rachid321/5499.m3u8
+#EXTINF:-1,+3 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6259.m3u8
+#EXTINF:-1,+4 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6260.m3u8
+#EXTINF:-1,+5 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6261.m3u8
+#EXTINF:-1,Swiss 1 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6258.m3u8
+#EXTINF:-1,Puls 8 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6262.m3u8
+#EXTINF:-1,TC Emotion HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6265.m3u8
+#EXTINF:-1,TC Cinema HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6266.m3u8
+#EXTINF:-1,TeleBielingue
+http://rb-group-server.com:25461/live/rachid123/rachid321/6268.m3u8
+#EXTINF:-1,TeleBärn
+http://rb-group-server.com:25461/live/rachid123/rachid321/6269.m3u8
+#EXTINF:-1,TELE ZURICH
+http://rb-group-server.com:25461/live/rachid123/rachid321/6270.m3u8
+#EXTINF:-1,Canal Alpha (Neuchâtel)
+http://rb-group-server.com:25461/live/rachid123/rachid321/6274.m3u8
+#EXTINF:-1,KANAL 9 (deutsch)
+http://rb-group-server.com:25461/live/rachid123/rachid321/6272.m3u8
+#EXTINF:-1,KANAL 9 (francais)
+http://rb-group-server.com:25461/live/rachid123/rachid321/6273.m3u8
+#EXTINF:-1,TV24 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6263.m3u8
+#EXTINF:-1,TV25 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/6264.m3u8
+#EXTINF:-1,TVO
+http://rb-group-server.com:25461/live/rachid123/rachid321/6267.m3u8
+#EXTINF:-1,MySports HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11256.m3u8
+#EXTINF:-1,MySports 1 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11247.m3u8
+#EXTINF:-1,MySports 2 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11248.m3u8
+#EXTINF:-1,MySports 3 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11249.m3u8
+#EXTINF:-1,MySports 4 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11250.m3u8
+#EXTINF:-1,MySports 5 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11251.m3u8
+#EXTINF:-1,MySports 6 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11252.m3u8
+#EXTINF:-1,MySports 7 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11253.m3u8
+#EXTINF:-1,MySports 8 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11254.m3u8
+#EXTINF:-1,MySports 9 HD
+http://rb-group-server.com:25461/live/rachid123/rachid321/11255.m3u8
