@@ -1,209 +1,103 @@
 #EXTM3U
-#EXTINF:-1,LA 1 HD
-http://185.23.213.162:8789/besmir/12345/23174
-#EXTINF:-1,LA1
-http://185.23.213.162:8789/besmir/12345/23173
-#EXTINF:-1,CLAN TVE
-http://185.23.213.162:8789/besmir/12345/23172
-#EXTINF:-1,LA2
-http://185.23.213.162:8789/besmir/12345/23171
-#EXTINF:-1,ANTENA 3HD
-http://185.23.213.162:8789/besmir/12345/23170
-#EXTINF:-1,ANTENA3
-http://185.23.213.162:8789/besmir/12345/23169
-#EXTINF:-1,CUATRO HD
-http://185.23.213.162:8789/besmir/12345/23168
-#EXTINF:-1,CUATRO
-http://185.23.213.162:8789/besmir/12345/23167
-#EXTINF:-1,TELECINCO HD
-http://185.23.213.162:8789/besmir/12345/23166
-#EXTINF:-1,TELECINCO
-http://185.23.213.162:8789/besmir/12345/23165
-#EXTINF:-1,TV GALICIA
-http://185.23.213.162:8789/besmir/12345/23161
-#EXTINF:-1,CANAL ANDALUCIA
-http://185.23.213.162:8789/besmir/12345/23160
-#EXTINF:-1,TV3 CATALUNYA
-http://185.23.213.162:8789/besmir/12345/23159
-#EXTINF:-1,|ES|*****NOTICIAS*****|ES|
-http://185.23.213.162:8789/besmir/12345/23158
-#EXTINF:-1,CANAL 24 HORAS
-http://185.23.213.162:8789/besmir/12345/23157
-#EXTINF:-1,FOXNEWS
-http://185.23.213.162:8789/besmir/12345/23156
-#EXTINF:-1,|ES|*****DEPORTES*****|ES|
-http://185.23.213.162:8789/besmir/12345/23155
-#EXTINF:-1,M DEPORTES 1 HD
-http://185.23.213.162:8789/besmir/12345/14065
-#EXTINF:-1,M DEPORTES 1
-http://185.23.213.162:8789/besmir/12345/14066
-#EXTINF:-1,M DEPORTES 2
-http://185.23.213.162:8789/besmir/12345/14064
-#EXTINF:-1,M DEPORTES 2 HD
-http://185.23.213.162:8789/besmir/12345/14062
-#EXTINF:-1,TOROS TV
-http://185.23.213.162:8789/besmir/12345/23154
-#EXTINF:-1,M GOL TV
-http://185.23.213.162:8789/besmir/12345/14082
-#EXTINF:-1,M FÚTBOL FHD
-http://185.23.213.162:8789/besmir/12345/14081
-#EXTINF:-1,M FÚTBOL
-http://185.23.213.162:8789/besmir/12345/14080
-#EXTINF:-1,M TELEDEPORTE
-http://185.23.213.162:8789/besmir/12345/14061
-#EXTINF:-1,M beINSPORT HD
-http://185.23.213.162:8789/besmir/12345/14076
-#EXTINF:-1,M beINSPORTS
-http://185.23.213.162:8789/besmir/12345/14077
-#EXTINF:-1,M beIN LALIGA
-http://185.23.213.162:8789/besmir/12345/14075
-#EXTINF:-1,M beIN LALIGA FHD
-http://185.23.213.162:8789/besmir/12345/14073
-#EXTINF:-1,M LALIGA TV BAR
-http://185.23.213.162:8789/besmir/12345/14072
-#EXTINF:-1,M LALIGA TV Bar HD
-http://185.23.213.162:8789/besmir/12345/14071
-#EXTINF:-1,M REAL MADRID TV
-http://185.23.213.162:8789/besmir/12345/14084
-#EXTINF:-1,M BARCA TV
-http://185.23.213.162:8789/besmir/12345/14085
-#EXTINF:-1,M EUROSPORT 1 FULLHD
-http://185.23.213.162:8789/besmir/12345/14060
-#EXTINF:-1,M EUROSPORT 1
-http://185.23.213.162:8789/besmir/12345/14059
-#EXTINF:-1,M PARTIDAZO HD
-http://185.23.213.162:8789/besmir/12345/14068
-#EXTINF:-1,M PARTIDAZO
-http://185.23.213.162:8789/besmir/12345/14069
-#EXTINF:-1,M FORMULA 1 FHD
-http://185.23.213.162:8789/besmir/12345/14053
-#EXTINF:-1,M FORMULA 1 HD
-http://185.23.213.162:8789/besmir/12345/14052
-#EXTINF:-1,M MOTOGP FHD
-http://185.23.213.162:8789/besmir/12345/14051
-#EXTINF:-1,M MOTOGP HD
-http://185.23.213.162:8789/besmir/12345/14050
-#EXTINF:-1,M GOLF HD
-http://185.23.213.162:8789/besmir/12345/14057
-#EXTINF:-1,|ES|*****CINE*****|ES|
-http://185.23.213.162:8789/besmir/12345/23153
-#EXTINF:-1,M ESTRENOS FHD
-http://185.23.213.162:8789/besmir/12345/23152
-#EXTINF:-1,M ESTRENOS
-http://185.23.213.162:8789/besmir/12345/23151
-#EXTINF:-1,M XTRA HD
-http://185.23.213.162:8789/besmir/12345/23150
-#EXTINF:-1,M ACCION FHD
-http://185.23.213.162:8789/besmir/12345/23149
-#EXTINF:-1,M ACCION
-http://185.23.213.162:8789/besmir/12345/23148
-#EXTINF:-1,M COMEDIA HD
-http://185.23.213.162:8789/besmir/12345/23147
-#EXTINF:-1,M Comedia
-http://185.23.213.162:8789/besmir/12345/23146
-#EXTINF:-1,M DCINE FHD
-http://185.23.213.162:8789/besmir/12345/23145
-#EXTINF:-1,LIFE TV
-http://185.23.213.162:8789/besmir/12345/23144
-#EXTINF:-1,M DCINE
-http://185.23.213.162:8789/besmir/12345/23143
-#EXTINF:-1,M DCINE ESPANOL
-http://185.23.213.162:8789/besmir/12345/23142
-#EXTINF:-1,M HOLLYWOOD HD
-http://185.23.213.162:8789/besmir/12345/23141
-#EXTINF:-1,TCM
-http://185.23.213.162:8789/besmir/12345/23140
-#EXTINF:-1,M TNT FHD
-http://185.23.213.162:8789/besmir/12345/23139
-#EXTINF:-1,|ES|*****ENTRETENIMIENTO*****|ES|
-http://185.23.213.162:8789/besmir/12345/23138
-#EXTINF:-1,M #0
-http://185.23.213.162:8789/besmir/12345/23137
-#EXTINF:-1,M SERIES
-http://185.23.213.162:8789/besmir/12345/23136
-#EXTINF:-1,M SERIES XTRA HD
-http://185.23.213.162:8789/besmir/12345/23135
-#EXTINF:-1,M COMEDY CENTRAL FHD
-http://185.23.213.162:8789/besmir/12345/23134
-#EXTINF:-1,COMEDYCENTRAL
-http://185.23.213.162:8789/besmir/12345/23133
-#EXTINF:-1,FDF
-http://185.23.213.162:8789/besmir/12345/23132
-#EXTINF:-1,A3SERIES
-http://185.23.213.162:8789/besmir/12345/23131
-#EXTINF:-1,FOX
-http://185.23.213.162:8789/besmir/12345/23130
-#EXTINF:-1,FOX LIFE
-http://185.23.213.162:8789/besmir/12345/23129
-#EXTINF:-1,M AMC FHD
-http://185.23.213.162:8789/besmir/12345/23128
-#EXTINF:-1,M AMC
-http://185.23.213.162:8789/besmir/12345/23127
-#EXTINF:-1,M AXN FHD
-http://185.23.213.162:8789/besmir/12345/23126
-#EXTINF:-1,M AXN
-http://185.23.213.162:8789/besmir/12345/23125
-#EXTINF:-1,M AXN WHITE FHD
-http://185.23.213.162:8789/besmir/12345/23124
-#EXTINF:-1,M SYFY FHD
-http://185.23.213.162:8789/besmir/12345/23123
-#EXTINF:-1,M CALLE13
-http://185.23.213.162:8789/besmir/12345/23122
-#EXTINF:-1,M ENERGY
-http://185.23.213.162:8789/besmir/12345/23121
-#EXTINF:-1,M COSMO
-http://185.23.213.162:8789/besmir/12345/23120
-#EXTINF:-1,MEGA TV HD
-http://185.23.213.162:8789/besmir/12345/23119
-#EXTINF:-1,M DECASA
-http://185.23.213.162:8789/besmir/12345/23118
-#EXTINF:-1,M NON STOP PEOPLE
-http://185.23.213.162:8789/besmir/12345/23117
-#EXTINF:-1,|ES|*****CULTURA*****|ES|
-http://185.23.213.162:8789/besmir/12345/23116
-#EXTINF:-1,ODISEA
-http://185.23.213.162:8789/besmir/12345/23115
-#EXTINF:-1,NATGEOGRAPHIC HD
-http://185.23.213.162:8789/besmir/12345/23114
-#EXTINF:-1,NATGEOWILD HD
-http://185.23.213.162:8789/besmir/12345/23113
-#EXTINF:-1,NAT GEO WILD
-http://185.23.213.162:8789/besmir/12345/23112
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://185.23.213.162:8789/besmir/12345/23110
-#EXTINF:-1,HISTORIA
-http://185.23.213.162:8789/besmir/12345/23109
-#EXTINF:-1,A&E
-http://185.23.213.162:8789/besmir/12345/23108
-#EXTINF:-1,CAZA Y PESCA HD
-http://185.23.213.162:8789/besmir/12345/23107
-#EXTINF:-1,IBERALIA TV
-http://185.23.213.162:8789/besmir/12345/23106
-#EXTINF:-1,VIAJAR HD
-http://185.23.213.162:8789/besmir/12345/23105
-#EXTINF:-1,CANAL COCINA
-http://185.23.213.162:8789/besmir/12345/23104
-#EXTINF:-1,|ES|****NINOS****|ES|
-http://185.23.213.162:8789/besmir/12345/24986
-#EXTINF:-1,NICKELODEON HD
-http://185.23.213.162:8789/besmir/12345/23102
-#EXTINF:-1,NICKELODEON ESP HD
-http://185.23.213.162:8789/besmir/12345/23101
-#EXTINF:-1,NICK JR
-http://185.23.213.162:8789/besmir/12345/23100
-#EXTINF:-1,DISNEY ESP XD
-http://185.23.213.162:8789/besmir/12345/23099
-#EXTINF:-1,DISNEY CHANNEL HD
-http://185.23.213.162:8789/besmir/12345/23098
-#EXTINF:-1,DISNEY JR
-http://185.23.213.162:8789/besmir/12345/23097
-#EXTINF:-1,DISNEY CHANNEL
-http://185.23.213.162:8789/besmir/12345/23096
-#EXTINF:-1,CANAL PANDA
-http://185.23.213.162:8789/besmir/12345/23095
-#EXTINF:-1,BOING ESP
-http://185.23.213.162:8789/besmir/12345/23094
-#EXTINF:-1,BABY ESP
-http://185.23.213.162:8789/besmir/12345/23093
-#EXTINF:-1,CANAL SUR
-http://185.23.213.162:8789/besmir/12345/36610
+#EXTINF:0,LA 1 HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14476
+#EXTINF:0,LA 2 HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14475
+#EXTINF:0,Antena 3 HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14478
+#EXTINF:0,Cuatro HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14473
+#EXTINF:0,La Sexta HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14474
+#EXTINF:0,Extremadura TV
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14456
+#EXTINF:0,Fox
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14427
+#EXTINF:0,Fox HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14428
+#EXTINF:0,Fox Life HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14426
+#EXTINF:0,Galicia TV
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14455
+#EXTINF:0,Syfy HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14424
+#EXTINF:0,TCM
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14423
+#EXTINF:0,Telecinco HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14472
+#EXTINF:0,A&E
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14443
+#EXTINF:0,AMC
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14432
+#EXTINF:0,AXN HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14431
+#EXTINF:0,AXN White HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14430
+#EXTINF:0,Boing
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14450
+#EXTINF:0,Caza y Pesca
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14442
+#EXTINF:0,Comedy Central
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14467
+#EXTINF:0,Comedy Central HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14468
+#EXTINF:0,Cosmo HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14466
+#EXTINF:0,Crimen   Investigacion
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14441
+#EXTINF:0,Discovery Channel
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14440
+#EXTINF:0,Disney Junior
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14448
+#EXTINF:0,Neox
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14446
+#EXTINF:0,Nick JR
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14444
+#EXTINF:0,Nickelodeon HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14445
+#EXTINF:0,24 Horas
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14469
+#EXTINF:0,CANAL TOROS
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/13908
+#EXTINF:0,Barca TV
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14399
+#EXTINF:0,Bein Sports HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14412
+#EXTINF:0,Bein Sports La Liga HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14411
+#EXTINF:0,Eurosport 1 HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14410
+#EXTINF:0,Historia
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14439
+#EXTINF:0,Mega
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14461
+#EXTINF:0,Movistar DCine HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14419
+#EXTINF:0,Movistar F1 HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14405
+#EXTINF:0,Movistar Golf
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14402
+#EXTINF:0,Movistar MotoGP HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14404
+#EXTINF:0,Movistar Series HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14417
+#EXTINF:0,Movistar Series Xtra HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14416
+#EXTINF:0,Movistar Xtra HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14415
+#EXTINF:0,National Geographic HD
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14438
+#EXTINF:0,Non Stop People
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14436
+#EXTINF:0,Nova
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14460
+#EXTINF:0,Odisea
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14435
+#EXTINF:0,Real Madrid TV
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14398
+#EXTINF:0,TNT
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14422
+#EXTINF:0,Viajar
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14434
+#EXTINF:0,CLAN TVE
+http://ip.bttv.be:8000/FVtbNp28vL/qhbvolbhrn/14400
