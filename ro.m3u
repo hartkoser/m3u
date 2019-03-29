@@ -1,43 +1,93 @@
 #EXTM3U
-#EXTINF:-1,Digi 24
-http://linux-app.tv:6204/RDWAN/123/9050
-#EXTINF:-1,Dolce Sport 1 HD
-http://linux-app.tv:6204/RDWAN/123/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://linux-app.tv:6204/RDWAN/123/9048
-#EXTINF:-1,HBO
-http://linux-app.tv:6204/RDWAN/123/9045
-#EXTINF:-1,Kanal D
-http://linux-app.tv:6204/RDWAN/123/9044
-#EXTINF:-1,Kiss TV
-http://linux-app.tv:6204/RDWAN/123/9043
-#EXTINF:-1,Na?ional TV
-http://linux-app.tv:6204/RDWAN/123/9041
-#EXTINF:-1,National Geographic Wild
-http://linux-app.tv:6204/RDWAN/123/9039
-#EXTINF:-1,Prima TV
-http://linux-app.tv:6204/RDWAN/123/9038
-#EXTINF:-1,Pro TV
-http://linux-app.tv:6204/RDWAN/123/9036
-#EXTINF:-1,Pro TV International
-http://linux-app.tv:6204/RDWAN/123/9035
-#EXTINF:-1,Realitatea TV
-http://linux-app.tv:6204/RDWAN/123/9034
-#EXTINF:-1,Romania TV
-http://linux-app.tv:6204/RDWAN/123/9033
-#EXTINF:-1,Taraf TV
-http://linux-app.tv:6204/RDWAN/123/9032
-#EXTINF:-1,1 Music Channel
-http://linux-app.tv:6204/RDWAN/123/9057
-#EXTINF:-1,Acasa Gold
-http://linux-app.tv:6204/RDWAN/123/9056
+#EXTINF:-1,TVR 1
+http://5.254.66.150:25461/live/adel2018/adel2018/11181.m3u8
+#EXTINF:-1,TVR 2
+http://5.254.66.150:25461/live/adel2018/adel2018/11180.m3u8
+#EXTINF:-1,TVR 3
+http://5.254.66.150:25461/live/adel2018/adel2018/11179.m3u8
+#EXTINF:-1,Viasat History.
+http://5.254.66.150:25461/live/adel2018/adel2018/11178.m3u8
+#EXTINF:-1,Viasat Nature
+http://5.254.66.150:25461/live/adel2018/adel2018/11177.m3u8
+#EXTINF:-1,TV 1000
+http://5.254.66.150:25461/live/adel2018/adel2018/11182.m3u8
+#EXTINF:-1,AXN Black
+http://5.254.66.150:25461/live/adel2018/adel2018/11219.m3u8
+#EXTINF:-1,AXN White.
+http://5.254.66.150:25461/live/adel2018/adel2018/11218.m3u8
+#EXTINF:-1,AXN.
+http://5.254.66.150:25461/live/adel2018/adel2018/11220.m3u8
 #EXTINF:-1,Acasa TV
-http://linux-app.tv:6204/RDWAN/123/5904
-#EXTINF:-1,Antena 1
-http://linux-app.tv:6204/RDWAN/123/9055
-#EXTINF:-1,Antena 3
-http://linux-app.tv:6204/RDWAN/123/9054
+http://5.254.66.150:25461/live/adel2018/adel2018/11224.m3u8
+#EXTINF:-1,B1
+http://5.254.66.150:25461/live/adel2018/adel2018/11217.m3u8
 #EXTINF:-1,Antena Stars
-http://linux-app.tv:6204/RDWAN/123/9053
-#EXTINF:-1,B1 TV
-http://linux-app.tv:6204/RDWAN/123/5798
+http://5.254.66.150:25461/live/adel2018/adel2018/11221.m3u8
+#EXTINF:-1,Antena 1
+http://5.254.66.150:25461/live/adel2018/adel2018/11223.m3u8
+#EXTINF:-1,Antena 3.
+http://5.254.66.150:25461/live/adel2018/adel2018/11222.m3u8
+#EXTINF:-1,HBO 1 HD
+http://5.254.66.150:25461/live/adel2018/adel2018/11200.m3u8
+#EXTINF:-1,HBO 2 HD
+http://5.254.66.150:25461/live/adel2018/adel2018/11199.m3u8
+#EXTINF:-1,HBO 3 HD
+http://5.254.66.150:25461/live/adel2018/adel2018/11198.m3u8
+#EXTINF:-1,Kanal D.
+http://5.254.66.150:25461/live/adel2018/adel2018/11196.m3u8
+#EXTINF:-1,KISS TV
+http://5.254.66.150:25461/live/adel2018/adel2018/11195.m3u8
+#EXTINF:-1,Look tv
+http://5.254.66.150:25461/live/adel2018/adel2018/11193.m3u8
+#EXTINF:-1,Look Plus
+http://5.254.66.150:25461/live/adel2018/adel2018/11194.m3u8
+#EXTINF:-1,Pro TV
+http://5.254.66.150:25461/live/adel2018/adel2018/11187.m3u8
+#EXTINF:-1,Pro Cinema
+http://5.254.66.150:25461/live/adel2018/adel2018/11186.m3u8
+#EXTINF:-1,Realitatea Tv
+http://5.254.66.150:25461/live/adel2018/adel2018/11185.m3u8
+#EXTINF:-1,Romania TV
+http://5.254.66.150:25461/live/adel2018/adel2018/11184.m3u8
+#EXTINF:-1,Cinemax 2
+http://5.254.66.150:25461/live/adel2018/adel2018/11215.m3u8
+#EXTINF:-1,Etno Tv
+http://5.254.66.150:25461/live/adel2018/adel2018/11204.m3u8
+#EXTINF:-1,Digi 24
+http://5.254.66.150:25461/live/adel2018/adel2018/11214.m3u8
+#EXTINF:-1,Digi Life
+http://5.254.66.150:25461/live/adel2018/adel2018/11211.m3u8
+#EXTINF:-1,Digi Film
+http://5.254.66.150:25461/live/adel2018/adel2018/11212.m3u8
+#EXTINF:-1,Digi World
+http://5.254.66.150:25461/live/adel2018/adel2018/11206.m3u8
+#EXTINF:-1,Digi Animal World
+http://5.254.66.150:25461/live/adel2018/adel2018/11213.m3u8
+#EXTINF:-1,Digi Sport 1
+http://5.254.66.150:25461/live/adel2018/adel2018/11210.m3u8
+#EXTINF:-1,Digi Sport 2
+http://5.254.66.150:25461/live/adel2018/adel2018/11209.m3u8
+#EXTINF:-1,Digi Sport 3
+http://5.254.66.150:25461/live/adel2018/adel2018/11208.m3u8
+#EXTINF:-1,Digi Sport 4
+http://5.254.66.150:25461/live/adel2018/adel2018/11207.m3u8
+#EXTINF:-1,Megamax
+http://5.254.66.150:25461/live/adel2018/adel2018/11192.m3u8
+#EXTINF:-1,Minimax
+http://5.254.66.150:25461/live/adel2018/adel2018/11191.m3u8
+#EXTINF:-1,Cartoon Network
+http://5.254.66.150:25461/live/adel2018/adel2018/11216.m3u8
+#EXTINF:-1,Disney_ Junior
+http://5.254.66.150:25461/live/adel2018/adel2018/11205.m3u8
+#EXTINF:-1,Nickelodeon
+http://5.254.66.150:25461/live/adel2018/adel2018/11188.m3u8
+#EXTINF:-1,History. Channel
+http://5.254.66.150:25461/live/adel2018/adel2018/11197.m3u8
+#EXTINF:-1,National. Geographic
+http://5.254.66.150:25461/live/adel2018/adel2018/11189.m3u8
+#EXTINF:-1,Sport.ro
+http://5.254.66.150:25461/live/adel2018/adel2018/11183.m3u8
+#EXTINF:-1,Eurosport
+http://5.254.66.150:25461/live/adel2018/adel2018/11203.m3u8
+#EXTINF:-1,Eurosport. 2
+http://5.254.66.150:25461/live/adel2018/adel2018/11202.m3u8
