@@ -1,222 +1,191 @@
 #EXTM3U
-#EXTINF:-1,Digi 24
-http://linux-app.tv:6204/RDWAN/123/9050
-#EXTINF:-1,Dolce Sport 1 HD
-http://linux-app.tv:6204/RDWAN/123/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://linux-app.tv:6204/RDWAN/123/9048
-#EXTINF:-1,HBO
-http://linux-app.tv:6204/RDWAN/123/9045
-#EXTINF:-1,Kanal D
-http://linux-app.tv:6204/RDWAN/123/9044
-#EXTINF:-1,Kiss TV
-http://linux-app.tv:6204/RDWAN/123/9043
-#EXTINF:-1,Na?ional TV
-http://linux-app.tv:6204/RDWAN/123/9041
-#EXTINF:-1,National Geographic Wild
-http://linux-app.tv:6204/RDWAN/123/9039
-#EXTINF:-1,Prima TV
-http://linux-app.tv:6204/RDWAN/123/9038
-#EXTINF:-1,Pro TV
-http://linux-app.tv:6204/RDWAN/123/9036
-#EXTINF:-1,Pro TV International
-http://linux-app.tv:6204/RDWAN/123/9035
-#EXTINF:-1,Realitatea TV
-http://linux-app.tv:6204/RDWAN/123/9034
-#EXTINF:-1,Romania TV
-http://linux-app.tv:6204/RDWAN/123/9033
-#EXTINF:-1,Taraf TV
-http://linux-app.tv:6204/RDWAN/123/9032
 #EXTINF:-1,1 Music Channel
-http://linux-app.tv:6204/RDWAN/123/9057
-#EXTINF:-1,Acasa Gold
-http://linux-app.tv:6204/RDWAN/123/9056
-#EXTINF:-1,Acasa TV
-http://linux-app.tv:6204/RDWAN/123/5904
-#EXTINF:-1,Antena 1
-http://linux-app.tv:6204/RDWAN/123/9055
-#EXTINF:-1,Antena 3
-http://linux-app.tv:6204/RDWAN/123/9054
-#EXTINF:-1,Antena Stars
-http://linux-app.tv:6204/RDWAN/123/9053
-#EXTINF:-1,B1 TV
-http://linux-app.tv:6204/RDWAN/123/5798
-
-#EXTINF:-1,RO: Digi Sport 1
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2968
-#EXTINF:-1,RO: Digi Sport 2
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2969
-#EXTINF:-1,RO: Digi Sport 4
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2941
-#EXTINF:-1,RO: Eurosport
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2929
-#EXTINF:-1,RO: Eurosport 2
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2961
-#EXTINF:-1,RO:Sport.ro
-http://bfc-ip.ddns.net:8000/8n6tWPPvQ4/wUzvM76duK/2927
-
-#EXTINF:-1,RO: Antena 1
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37638.ts
-#EXTINF:-1,RO: Antena 3
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37637.ts
-#EXTINF:-1,RO: Antena Stars
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37649.ts
-#EXTINF:-1,RO: AXN Romania
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37636.ts
-#EXTINF:-1,RO: AXN White
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37635.ts
-#EXTINF:-1,RO: B1
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37647.ts
-#EXTINF:-1,RO: Boomerang
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37634.ts
-#EXTINF:-1,RO: Cinemax
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37632.ts
-#EXTINF:-1,RO: Cinemax 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37633.ts
-#EXTINF:-1,RO: Digi 24
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37631.ts
-#EXTINF:-1,RO: Digi Animal World
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37630.ts
-#EXTINF:-1,RO: Digi Film
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37629.ts
-#EXTINF:-1,RO: Digi Life
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37628.ts
-#EXTINF:-1,RO: Digi Sport 1
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37627.ts
-#EXTINF:-1,RO: Digi Sport 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37626.ts
-#EXTINF:-1,RO: Digi Sport 3
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37625.ts
-#EXTINF:-1,RO: Digi Sport 4
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37624.ts
-#EXTINF:-1,RO: Digi World
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37623.ts
-#EXTINF:-1,RO: Disney Junior
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37622.ts
-#EXTINF:-1,RO: Etno TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37621.ts
-#EXTINF:-1,RO: Eurosport
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37620.ts
-#EXTINF:-1,RO: Eurosport 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37619.ts
-#EXTINF:-1,RO: Favorit TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37599.ts
-#EXTINF:-1,RO: Fishing & Hunting
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37618.ts
-#EXTINF:-1,RO: Happy Channel
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37646.ts
-#EXTINF:-1,RO: HBO 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37617.ts
-#EXTINF:-1,RO: HBO 3
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37651.ts
-#EXTINF:-1,RO: HBO Romania
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37650.ts
-#EXTINF:-1,RO: History Channel
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37616.ts
-#EXTINF:-1,RO: Kanal D
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37652.ts
-#EXTINF:-1,RO: Kiss TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37642.ts
-#EXTINF:-1,RO: Look TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37645.ts
-#EXTINF:-1,RO: Megamax
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37641.ts
-#EXTINF:-1,RO: Minimax
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37615.ts
-#EXTINF:-1,RO: Music Channel.Hu
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37614.ts
-#EXTINF:-1,RO: National TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37653.ts
-#EXTINF:-1,RO: Ngc
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37613.ts
-#EXTINF:-1,RO: Ngc Wild
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37612.ts
-#EXTINF:-1,RO: Nickelodeon
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37611.ts
-#EXTINF:-1,RO: Paramount Channel
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37610.ts
-#EXTINF:-1,RO: Prima TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37654.ts
-#EXTINF:-1,RO: Pro Cinema
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37609.ts
-#EXTINF:-1,RO: Pro TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37655.ts
-#EXTINF:-1,RO: Realitatea
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37644.ts
-#EXTINF:-1,RO: Romania TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37608.ts
-#EXTINF:-1,RO: Sport.Ro
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37607.ts
-#EXTINF:-1,RO: Taraf TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37643.ts
-#EXTINF:-1,RO: TNT
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37606.ts
-#EXTINF:-1,RO: Trinitas
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37605.ts
-#EXTINF:-1,RO: TV 1000
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37604.ts
-#EXTINF:-1,RO: TV5 MONDE
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37603.ts
-#EXTINF:-1,RO: TVR 1
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37656.ts
-#EXTINF:-1,RO: TVR 2
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37657.ts
-#EXTINF:-1,RO: TVR International
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37602.ts
-#EXTINF:-1,RO: U TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37658.ts
-#EXTINF:-1,RO: Viasat History
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37601.ts
-#EXTINF:-1,RO: Viasat Nature
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37600.ts
-#EXTINF:-1,RO: 1 Music Channel
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37640.ts
-#EXTINF:-1,RO: Acasa TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37648.ts
-#EXTINF:-1,RO: Agro TV
-http://pro.falconiptv.com:25461/live/0987654321/1234567890/37639.ts
-
-#EXTINF:-1,1 Music Channel
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9057
-#EXTINF:-1,Acasa Gold
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9056
-#EXTINF:-1,Acasa TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/5904
-#EXTINF:-1,Antena 1
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9055
-#EXTINF:-1,Antena 3
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9054
-#EXTINF:-1,Antena Stars
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9053
-#EXTINF:-1,B1 TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/5798
-#EXTINF:-1,CBS Reality
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9051
-#EXTINF:-1,Digi 24
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9050
-#EXTINF:-1,Dolce Sport 1 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9049
-#EXTINF:-1,Dolce Sport 2 HD
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9048
-#EXTINF:-1,HBO
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9045
-#EXTINF:-1,Kanal D
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9044
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/184564.m3u8
+#EXTINF:-1,Agro TV
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75025.m3u8
+#EXTINF:-1,AMC
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63031.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63030.m3u8
+#EXTINF:-1,ANTENA 1 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155447.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155448.m3u8
+#EXTINF:-1,ANTENA STARS HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134500.m3u8
+#EXTINF:-1,AXN BLACK
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/112894.m3u8
+#EXTINF:-1,AXN PREMIERA
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/90209.m3u8
+#EXTINF:-1,AXN White HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/90210.m3u8
+#EXTINF:-1,B1 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/98558.m3u8
+#EXTINF:-1,Boomerang
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63029.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63027.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63026.m3u8
+#EXTINF:-1,Cinemax HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63024.m3u8
+#EXTINF:-1,DIBI TV
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62992.m3u8
+#EXTINF:-1,Digi 24 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63016.m3u8
+#EXTINF:-1,Digi Animal World HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63015.m3u8
+#EXTINF:-1,Digi Film HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/184567.m3u8
+#EXTINF:-1,Digi Life HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63013.m3u8
+#EXTINF:-1,DIGI SPORT 1 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65872.m3u8
+#EXTINF:-1,DIGI SPORT 2 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65871.m3u8
+#EXTINF:-1,DIGI SPORT 3 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65870.m3u8
+#EXTINF:-1,DIGI SPORT 4 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/110982.m3u8
+#EXTINF:-1,Digi World HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63012.m3u8
+#EXTINF:-1,Discovery Channel
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63011.m3u8
+#EXTINF:-1,Discovery Science HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63010.m3u8
+#EXTINF:-1,Disney Channel
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63009.m3u8
+#EXTINF:-1,Disney Junior
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63008.m3u8
+#EXTINF:-1,Dolce Sport 3 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/176394.m3u8
+#EXTINF:-1,Etno Tv HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156195.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/145815.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62973.m3u8
+#EXTINF:-1,FAVORIT TV
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/90218.m3u8
+#EXTINF:-1,Film Now HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155777.m3u8
+#EXTINF:-1,Fishing & Hunting HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75030.m3u8
+#EXTINF:-1,Food Network HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/112954.m3u8
+#EXTINF:-1,HAPPY CHANNEL HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/98561.m3u8
+#EXTINF:-1,HBO 2 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63006.m3u8
+#EXTINF:-1,HBO 3 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63005.m3u8
+#EXTINF:-1,HBO HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63004.m3u8
+#EXTINF:-1,History Channel HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63001.m3u8
+#EXTINF:-1,Hit Music Channel
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133932.m3u8
+#EXTINF:-1,KANAL D HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155780.m3u8
 #EXTINF:-1,Kiss TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9043
-#EXTINF:-1,Na?ional TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9041
-#EXTINF:-1,National Geographic Wild
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9039
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62989.m3u8
+#EXTINF:-1,Look Plus
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75031.m3u8
+#EXTINF:-1,Look TV HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155781.m3u8
+#EXTINF:-1,MegaMax HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75033.m3u8
+#EXTINF:-1,Minimax HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156199.m3u8
+#EXTINF:-1,Music 1 Channel
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/98564.m3u8
+#EXTINF:-1,Music Channel
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192689.m3u8
+#EXTINF:-1,NAT GEO HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75035.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63000.m3u8
+#EXTINF:-1,National TV
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66907.m3u8
+#EXTINF:-1,Neptun TV
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75036.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62996.m3u8
+#EXTINF:-1,Nova Tv Brasov
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/140801.m3u8
+#EXTINF:-1,Paramount Channel
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62988.m3u8
+#EXTINF:-1,Prima Cool
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75037.m3u8
 #EXTINF:-1,Prima TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9038
-#EXTINF:-1,Pro TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9036
-#EXTINF:-1,Pro TV International
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9035
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/140802.m3u8
+#EXTINF:-1,Pro Cinema HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62995.m3u8
+#EXTINF:-1,PRO GOLD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/206450.m3u8
+#EXTINF:-1,Pro TV HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66902.m3u8
+#EXTINF:-1,PRO X HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62972.m3u8
+#EXTINF:-1,PRO2 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75024.m3u8
 #EXTINF:-1,Realitatea TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9034
-#EXTINF:-1,Romania TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9033
-#EXTINF:-1,Taraf TV
-http://m-iptv.net:6204/hH899BbbMi/uYgss7G9B9/9032
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/184575.m3u8
+#EXTINF:-1,Romania TV HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155782.m3u8
+#EXTINF:-1,STARS chef HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198010.m3u8
+#EXTINF:-1,SUPERTENNIS HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134687.m3u8
+#EXTINF:-1,Taraf HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66899.m3u8
+#EXTINF:-1,Tele Moldova Plus
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/98569.m3u8
+#EXTINF:-1,TELEKOM 3
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196345.m3u8
+#EXTINF:-1,Telekom Sport 1 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62979.m3u8
+#EXTINF:-1,Telekom Sport 2 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62978.m3u8
+#EXTINF:-1,TELEKOM SPORT 3 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89362.m3u8
+#EXTINF:-1,TELEKOM SPORT 4 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/113005.m3u8
+#EXTINF:-1,Telekom Sport 5 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62977.m3u8
+#EXTINF:-1,Telekom Sport 6 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62976.m3u8
+#EXTINF:-1,TELESHOP TV
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62987.m3u8
+#EXTINF:-1,TLC
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/113010.m3u8
+#EXTINF:-1,TNT HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/90215.m3u8
+#EXTINF:-1,Travel Mix
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155207.m3u8
+#EXTINF:-1,TRINITAS TV
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75039.m3u8
+#EXTINF:-1,TV 1000 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62993.m3u8
+#EXTINF:-1,TV Paprika
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155783.m3u8
+#EXTINF:-1,TV5 Monde HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/90214.m3u8
+#EXTINF:-1,TVR 1 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/146493.m3u8
+#EXTINF:-1,TVR 2 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155784.m3u8
+#EXTINF:-1,TVR 3 HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62983.m3u8
+#EXTINF:-1,TVR International
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/142401.m3u8
+#EXTINF:-1,U TV
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75040.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/98571.m3u8
+#EXTINF:-1,Viasat History
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/63003.m3u8
+#EXTINF:-1,Viasat Nature
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155785.m3u8
+#EXTINF:-1,ZU TV HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/113024.m3u8
