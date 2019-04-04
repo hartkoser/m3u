@@ -1,451 +1,485 @@
 #EXTM3U
 #EXTINF:-1,A&E HD
-http://landiptv.live:8080/live/marco/polo/66059.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66059.m3u8
+#EXTINF:-1,ALADIN 24HRS
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163969.m3u8
 #EXTINF:-1,All Sports
-http://landiptv.live:8080/live/marco/polo/66050.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66050.m3u8
 #EXTINF:-1,AMC FHD
-http://landiptv.live:8080/live/marco/polo/100805.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/100805.m3u8
 #EXTINF:-1,ANIMAL PLANET Brasil
-http://landiptv.live:8080/live/marco/polo/206328.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/206328.m3u8
 #EXTINF:-1,ANIMAL PLANET HD
-http://landiptv.live:8080/live/marco/polo/68999.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68999.m3u8
 #EXTINF:-1,Anime Cartoon
-http://landiptv.live:8080/live/marco/polo/66019.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66019.m3u8
 #EXTINF:-1,Aparceida
-http://landiptv.live:8080/live/marco/polo/159051.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/159051.m3u8
 #EXTINF:-1,ARTE 1 HD
-http://landiptv.live:8080/live/marco/polo/156983.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156983.m3u8
 #EXTINF:-1,AXN FHD
-http://landiptv.live:8080/live/marco/polo/66021.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66021.m3u8
 #EXTINF:-1,BABY TV HD
-http://landiptv.live:8080/live/marco/polo/157962.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157962.m3u8
 #EXTINF:-1,Band Campinas
-http://landiptv.live:8080/live/marco/polo/196241.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196241.m3u8
 #EXTINF:-1,BAND News HD
-http://landiptv.live:8080/live/marco/polo/66056.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66056.m3u8
 #EXTINF:-1,BAND PARANA
-http://landiptv.live:8080/live/marco/polo/124369.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124369.m3u8
 #EXTINF:-1,BAND SPORT HD
-http://landiptv.live:8080/live/marco/polo/66054.m3u8
-#EXTINF:-1,BBBO
-http://landiptv.live:8080/live/marco/polo/163991.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66054.m3u8
+#EXTINF:-1,BBB 2019 AQUECIMENTO
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163991.m3u8
 #EXTINF:-1,beIN SPORTS
-http://landiptv.live:8080/live/marco/polo/163992.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163992.m3u8
 #EXTINF:-1,BIS FHD
-http://landiptv.live:8080/live/marco/polo/95823.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/95823.m3u8
 #EXTINF:-1,BOB ESPONJA 24h
-http://landiptv.live:8080/live/marco/polo/124342.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124342.m3u8
 #EXTINF:-1,Boomerang FHD
-http://landiptv.live:8080/live/marco/polo/66065.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66065.m3u8
+#EXTINF:-1,CANAL 26
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134957.m3u8
 #EXTINF:-1,Canal Brasil
-http://landiptv.live:8080/live/marco/polo/156999.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156999.m3u8
 #EXTINF:-1,CANAL DO BOI
-http://landiptv.live:8080/live/marco/polo/93196.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93196.m3u8
 #EXTINF:-1,CANAL FUTEBOL
-http://landiptv.live:8080/live/marco/polo/124187.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124187.m3u8
 #EXTINF:-1,CANAL RURAL
-http://landiptv.live:8080/live/marco/polo/124371.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124371.m3u8
 #EXTINF:-1,Canal Sony HD
-http://landiptv.live:8080/live/marco/polo/157000.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157000.m3u8
 #EXTINF:-1,CANCAO NOVA
-http://landiptv.live:8080/live/marco/polo/148680.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/148680.m3u8
+#EXTINF:-1,CAPELINHA Fatima
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/135021.m3u8
 #EXTINF:-1,Cartoon Network FHD
-http://landiptv.live:8080/live/marco/polo/139121.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139121.m3u8
 #EXTINF:-1,CAVALHEIROS DO ZODIACOS
-http://landiptv.live:8080/live/marco/polo/163975.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163975.m3u8
 #EXTINF:-1,CAVERNA DO DRAGAO 24hrs
-http://landiptv.live:8080/live/marco/polo/163952.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163952.m3u8
 #EXTINF:-1,CHAVES 24h
-http://landiptv.live:8080/live/marco/polo/124354.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124354.m3u8
 #EXTINF:-1,Cine 1
-http://landiptv.live:8080/live/marco/polo/125480.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/125480.m3u8
 #EXTINF:-1,Cinemax FHD
-http://landiptv.live:8080/live/marco/polo/100801.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/100801.m3u8
 #EXTINF:-1,CNN INTERNACIONAL
-http://landiptv.live:8080/live/marco/polo/124193.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124193.m3u8
 #EXTINF:-1,Combate FHD
-http://landiptv.live:8080/live/marco/polo/156819.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156819.m3u8
 #EXTINF:-1,COMEDY CENTRAL HD
-http://landiptv.live:8080/live/marco/polo/163287.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163287.m3u8
 #EXTINF:-1,CURTA! HD
-http://landiptv.live:8080/live/marco/polo/123157.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/123157.m3u8
 #EXTINF:-1,Discovery Channel FHD
-http://landiptv.live:8080/live/marco/polo/157944.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157944.m3u8
 #EXTINF:-1,Discovery Civilization FHD
-http://landiptv.live:8080/live/marco/polo/66062.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66062.m3u8
 #EXTINF:-1,Discovery Home & Health HD
-http://landiptv.live:8080/live/marco/polo/146294.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/146294.m3u8
+#EXTINF:-1,Discovery ID
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175466.m3u8
 #EXTINF:-1,Discovery Kids FHD
-http://landiptv.live:8080/live/marco/polo/157961.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157961.m3u8
 #EXTINF:-1,Discovery Science FHD
-http://landiptv.live:8080/live/marco/polo/94188.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/94188.m3u8
 #EXTINF:-1,Discovery Theater FHD
-http://landiptv.live:8080/live/marco/polo/88099.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88099.m3u8
 #EXTINF:-1,Discovery Turbo FHD
-http://landiptv.live:8080/live/marco/polo/139128.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139128.m3u8
 #EXTINF:-1,Discovery World FHD
-http://landiptv.live:8080/live/marco/polo/100091.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/100091.m3u8
 #EXTINF:-1,Disney Channel FHD
-http://landiptv.live:8080/live/marco/polo/116367.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/116367.m3u8
 #EXTINF:-1,Disney Junior
-http://landiptv.live:8080/live/marco/polo/196318.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196318.m3u8
 #EXTINF:-1,DISNEY XD HD
-http://landiptv.live:8080/live/marco/polo/68980.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68980.m3u8
 #EXTINF:-1,DOIS HOMENS E MEIO 24HRS
-http://landiptv.live:8080/live/marco/polo/163976.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163976.m3u8
 #EXTINF:-1,DRAGON BALL 24h
-http://landiptv.live:8080/live/marco/polo/124344.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124344.m3u8
 #EXTINF:-1,DRAGON BALL SUPER 24hrs
-http://landiptv.live:8080/live/marco/polo/163955.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163955.m3u8
 #EXTINF:-1,E! HD
-http://landiptv.live:8080/live/marco/polo/88100.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88100.m3u8
+#EXTINF:-1,E! Maxx Brasil
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68978.m3u8
+#EXTINF:-1,EITB
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134955.m3u8
 #EXTINF:-1,ESPN + HD
-http://landiptv.live:8080/live/marco/polo/100804.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/100804.m3u8
 #EXTINF:-1,ESPN 2 HD
-http://landiptv.live:8080/live/marco/polo/130202.m3u8
-#EXTINF:-1,ESPN Brasil FHD
-http://landiptv.live:8080/live/marco/polo/68955.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/130202.m3u8
+#EXTINF:-1,Espn Brasil FHD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68955.m3u8
 #EXTINF:-1,ESPN EXTRA HD
-http://landiptv.live:8080/live/marco/polo/156829.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156829.m3u8
 #EXTINF:-1,ESPN FHD
-http://landiptv.live:8080/live/marco/polo/66036.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66036.m3u8
 #EXTINF:-1,EUROSPORT
-http://landiptv.live:8080/live/marco/polo/163853.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163853.m3u8
 #EXTINF:-1,FILM & ARTS
-http://landiptv.live:8080/live/marco/polo/163854.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163854.m3u8
 #EXTINF:-1,Fish TV HD
-http://landiptv.live:8080/live/marco/polo/68974.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68974.m3u8
 #EXTINF:-1,Food Network FHD
-http://landiptv.live:8080/live/marco/polo/88095.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88095.m3u8
 #EXTINF:-1,Fox HD
-http://landiptv.live:8080/live/marco/polo/196292.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196292.m3u8
 #EXTINF:-1,FOX LIFE HD
-http://landiptv.live:8080/live/marco/polo/156831.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156831.m3u8
 #EXTINF:-1,Fox Premium 1 FHD
-http://landiptv.live:8080/live/marco/polo/88101.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88101.m3u8
 #EXTINF:-1,FOX PREMIUM 2 HD
-http://landiptv.live:8080/live/marco/polo/163856.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163856.m3u8
 #EXTINF:-1,Fox Sport 2
-http://landiptv.live:8080/live/marco/polo/68970.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68970.m3u8
 #EXTINF:-1,FOX SPORTS 1 HD
-http://landiptv.live:8080/live/marco/polo/88071.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88071.m3u8
 #EXTINF:-1,FOX SPORTS HD
-http://landiptv.live:8080/live/marco/polo/156834.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156834.m3u8
 #EXTINF:-1,FOX USA
-http://landiptv.live:8080/live/marco/polo/124217.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124217.m3u8
 #EXTINF:-1,Futura HD
-http://landiptv.live:8080/live/marco/polo/66041.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66041.m3u8
 #EXTINF:-1,FX HD
-http://landiptv.live:8080/live/marco/polo/156832.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156832.m3u8
 #EXTINF:-1,GAZETA SP HD
-http://landiptv.live:8080/live/marco/polo/163863.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163863.m3u8
 #EXTINF:-1,Globo
-http://landiptv.live:8080/live/marco/polo/199296.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/199296.m3u8
 #EXTINF:-1,Globo Amazonas
-http://landiptv.live:8080/live/marco/polo/123089.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/123089.m3u8
 #EXTINF:-1,GLOBO BRASILIA HD
-http://landiptv.live:8080/live/marco/polo/112287.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/112287.m3u8
 #EXTINF:-1,Globo EPTV Campinas
-http://landiptv.live:8080/live/marco/polo/149694.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/149694.m3u8
+#EXTINF:-1,GLOBO EPTV RIBEIRAO PRETO HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/123093.m3u8
 #EXTINF:-1,Globo EPTV S
-http://landiptv.live:8080/live/marco/polo/123095.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/123095.m3u8
 #EXTINF:-1,Globo ES HD
-http://landiptv.live:8080/live/marco/polo/136658.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136658.m3u8
 #EXTINF:-1,GLOBO FORTALEZA
-http://landiptv.live:8080/live/marco/polo/124244.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124244.m3u8
 #EXTINF:-1,Globo Minas
-http://landiptv.live:8080/live/marco/polo/199306.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/199306.m3u8
 #EXTINF:-1,Globo NE
-http://landiptv.live:8080/live/marco/polo/136662.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136662.m3u8
 #EXTINF:-1,GLOBO NEWS HD
-http://landiptv.live:8080/live/marco/polo/156984.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156984.m3u8
 #EXTINF:-1,GLOBO NORDESTE HD
-http://landiptv.live:8080/live/marco/polo/109201.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/109201.m3u8
 #EXTINF:-1,GLOBO PARANA HD
-http://landiptv.live:8080/live/marco/polo/163866.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163866.m3u8
 #EXTINF:-1,GLOBO PORTUGAL
-http://landiptv.live:8080/live/marco/polo/124231.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124231.m3u8
 #EXTINF:-1,Globo Premium
-http://landiptv.live:8080/live/marco/polo/88051.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88051.m3u8
 #EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
-http://landiptv.live:8080/live/marco/polo/163872.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163872.m3u8
 #EXTINF:-1,GLOBO RJ HD
-http://landiptv.live:8080/live/marco/polo/110340.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/110340.m3u8
 #EXTINF:-1,GLOBO RN HD
-http://landiptv.live:8080/live/marco/polo/124245.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124245.m3u8
 #EXTINF:-1,Globo SP
-http://landiptv.live:8080/live/marco/polo/196249.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196249.m3u8
 #EXTINF:-1,GLOBO TV ANHANGUERA HD
-http://landiptv.live:8080/live/marco/polo/163980.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163980.m3u8
 #EXTINF:-1,Globo Tv Tem Bauru HD
-http://landiptv.live:8080/live/marco/polo/149697.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/149697.m3u8
 #EXTINF:-1,Globo Tv Verdes Mares Fortaleza
-http://landiptv.live:8080/live/marco/polo/139137.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139137.m3u8
 #EXTINF:-1,Globosat HD
-http://landiptv.live:8080/live/marco/polo/102991.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/102991.m3u8
 #EXTINF:-1,GLOOB HD
-http://landiptv.live:8080/live/marco/polo/156987.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156987.m3u8
 #EXTINF:-1,Gloobinho
-http://landiptv.live:8080/live/marco/polo/136680.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136680.m3u8
 #EXTINF:-1,GNT HD
-http://landiptv.live:8080/live/marco/polo/88049.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88049.m3u8
 #EXTINF:-1,GOSPEL CARTOON
-http://landiptv.live:8080/live/marco/polo/163954.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163954.m3u8
 #EXTINF:-1,H2 Brasil
-http://landiptv.live:8080/live/marco/polo/110344.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/110344.m3u8
 #EXTINF:-1,H2 HD
-http://landiptv.live:8080/live/marco/polo/139141.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139141.m3u8
 #EXTINF:-1,HBO 2 HD
-http://landiptv.live:8080/live/marco/polo/156835.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156835.m3u8
 #EXTINF:-1,HBO FAMILY HD
-http://landiptv.live:8080/live/marco/polo/156836.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156836.m3u8
 #EXTINF:-1,HBO HD
-http://landiptv.live:8080/live/marco/polo/156837.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156837.m3u8
 #EXTINF:-1,HBO PLUS E
-http://landiptv.live:8080/live/marco/polo/68962.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68962.m3u8
 #EXTINF:-1,HBO Signature FHD
-http://landiptv.live:8080/live/marco/polo/68961.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68961.m3u8
 #EXTINF:-1,History Channel HD
-http://landiptv.live:8080/live/marco/polo/66051.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66051.m3u8
 #EXTINF:-1,Hit TV
-http://landiptv.live:8080/live/marco/polo/136697.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136697.m3u8
 #EXTINF:-1,HOMEM ARANHA 24 hrs
-http://landiptv.live:8080/live/marco/polo/163968.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163968.m3u8
+#EXTINF:-1,HOT MUSIC
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124252.m3u8
 #EXTINF:-1,ID: Investigação Discovery HD
-http://landiptv.live:8080/live/marco/polo/149711.m3u8
-#EXTINF:-1,Investigation Disvovery
-http://landiptv.live:8080/live/marco/polo/175466.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/149711.m3u8
 #EXTINF:-1,Lifetime FHD
-http://landiptv.live:8080/live/marco/polo/66068.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66068.m3u8
 #EXTINF:-1,Mais Globo Sa
-http://landiptv.live:8080/live/marco/polo/114019.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/114019.m3u8
 #EXTINF:-1,Mana Sat
-http://landiptv.live:8080/live/marco/polo/66072.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66072.m3u8
 #EXTINF:-1,MASCARA 24 HRS
-http://landiptv.live:8080/live/marco/polo/163974.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163974.m3u8
 #EXTINF:-1,MASTER TV
-http://landiptv.live:8080/live/marco/polo/105229.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/105229.m3u8
 #EXTINF:-1,Max FHD
-http://landiptv.live:8080/live/marco/polo/139147.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139147.m3u8
 #EXTINF:-1,Max Prime HD
-http://landiptv.live:8080/live/marco/polo/157007.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157007.m3u8
 #EXTINF:-1,Max Up HD
-http://landiptv.live:8080/live/marco/polo/157008.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157008.m3u8
 #EXTINF:-1,Megapix FHD
-http://landiptv.live:8080/live/marco/polo/156842.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156842.m3u8
 #EXTINF:-1,MTV FHD
-http://landiptv.live:8080/live/marco/polo/104797.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/104797.m3u8
 #EXTINF:-1,MTV PORTUGAL
-http://landiptv.live:8080/live/marco/polo/124268.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124268.m3u8
 #EXTINF:-1,MULTISHOW HD
-http://landiptv.live:8080/live/marco/polo/156844.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156844.m3u8
 #EXTINF:-1,Music Box Brazil
-http://landiptv.live:8080/live/marco/polo/104799.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/104799.m3u8
 #EXTINF:-1,NAT GEO FHD
-http://landiptv.live:8080/live/marco/polo/66048.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66048.m3u8
 #EXTINF:-1,NAT GEO Kids FHD
-http://landiptv.live:8080/live/marco/polo/109218.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/109218.m3u8
 #EXTINF:-1,NATGEO WILD HD
-http://landiptv.live:8080/live/marco/polo/163892.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163892.m3u8
 #EXTINF:-1,NBR
-http://landiptv.live:8080/live/marco/polo/124375.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124375.m3u8
 #EXTINF:-1,NHK
-http://landiptv.live:8080/live/marco/polo/163894.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163894.m3u8
 #EXTINF:-1,Nick Junior HD
-http://landiptv.live:8080/live/marco/polo/100803.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/100803.m3u8
 #EXTINF:-1,Nickelodeon
-http://landiptv.live:8080/live/marco/polo/196323.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196323.m3u8
+#EXTINF:-1,O INSPETOR 24hrs
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163967.m3u8
 #EXTINF:-1,OFF HD
-http://landiptv.live:8080/live/marco/polo/104801.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/104801.m3u8
 #EXTINF:-1,OS SIMPSON 24hr
-http://landiptv.live:8080/live/marco/polo/163965.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163965.m3u8
 #EXTINF:-1,Paramount Channel FHD
-http://landiptv.live:8080/live/marco/polo/68947.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68947.m3u8
 #EXTINF:-1,PERNALONGA 24hrs
-http://landiptv.live:8080/live/marco/polo/163960.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163960.m3u8
 #EXTINF:-1,PFC 1 FHD
-http://landiptv.live:8080/live/marco/polo/136728.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136728.m3u8
 #EXTINF:-1,PFC 4 FHD
-http://landiptv.live:8080/live/marco/polo/136737.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136737.m3u8
 #EXTINF:-1,PFC 7 FHD
-http://landiptv.live:8080/live/marco/polo/136747.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136747.m3u8
 #EXTINF:-1,PFC HD
-http://landiptv.live:8080/live/marco/polo/88065.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88065.m3u8
 #EXTINF:-1,Phineas e Ferb 24h
-http://landiptv.live:8080/live/marco/polo/124353.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124353.m3u8
 #EXTINF:-1,PLAY TV
-http://landiptv.live:8080/live/marco/polo/68946.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68946.m3u8
 #EXTINF:-1,PREMIER 2 HD
-http://landiptv.live:8080/live/marco/polo/156993.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156993.m3u8
 #EXTINF:-1,PREMIER 3 HD
-http://landiptv.live:8080/live/marco/polo/68943.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68943.m3u8
 #EXTINF:-1,PREMIER 6 HD
-http://landiptv.live:8080/live/marco/polo/163900.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163900.m3u8
 #EXTINF:-1,PREMIER 7 HD
-http://landiptv.live:8080/live/marco/polo/68939.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68939.m3u8
 #EXTINF:-1,PREMIER 24HS HD
-http://landiptv.live:8080/live/marco/polo/124282.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124282.m3u8
 #EXTINF:-1,Premiere 1 HD
-http://landiptv.live:8080/live/marco/polo/104803.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/104803.m3u8
 #EXTINF:-1,Premiere 4 HD
-http://landiptv.live:8080/live/marco/polo/68942.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68942.m3u8
 #EXTINF:-1,Premiere 5 HD
-http://landiptv.live:8080/live/marco/polo/164324.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/164324.m3u8
 #EXTINF:-1,Premiere 8
-http://landiptv.live:8080/live/marco/polo/163902.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163902.m3u8
 #EXTINF:-1,Premiere 9
-http://landiptv.live:8080/live/marco/polo/196269.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196269.m3u8
 #EXTINF:-1,Premiere Clubes
-http://landiptv.live:8080/live/marco/polo/156848.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156848.m3u8
 #EXTINF:-1,Premiere Coubes HD
-http://landiptv.live:8080/live/marco/polo/199310.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/199310.m3u8
 #EXTINF:-1,PRIME BOX BRASIL
-http://landiptv.live:8080/live/marco/polo/124288.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124288.m3u8
 #EXTINF:-1,Proyecto 40
-http://landiptv.live:8080/live/marco/polo/135023.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/135023.m3u8
 #EXTINF:-1,RAMBO 24HRS
-http://landiptv.live:8080/live/marco/polo/163953.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163953.m3u8
 #EXTINF:-1,REAL MADRID TV
-http://landiptv.live:8080/live/marco/polo/124294.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124294.m3u8
 #EXTINF:-1,Record Campinas HD
-http://landiptv.live:8080/live/marco/polo/123123.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/123123.m3u8
 #EXTINF:-1,Record FHD
-http://landiptv.live:8080/live/marco/polo/68934.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68934.m3u8
 #EXTINF:-1,RECORD INTERNACIONAL
-http://landiptv.live:8080/live/marco/polo/124290.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124290.m3u8
 #EXTINF:-1,Record News FHD
-http://landiptv.live:8080/live/marco/polo/66031.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66031.m3u8
 #EXTINF:-1,Record SP HD
-http://landiptv.live:8080/live/marco/polo/109214.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/109214.m3u8
 #EXTINF:-1,REDE TV HD
-http://landiptv.live:8080/live/marco/polo/93190.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93190.m3u8
 #EXTINF:-1,SBT BRASIL
-http://landiptv.live:8080/live/marco/polo/111836.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/111836.m3u8
 #EXTINF:-1,SBT HD
-http://landiptv.live:8080/live/marco/polo/139151.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139151.m3u8
+#EXTINF:-1,SCOOBY DOO 24hrs
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163964.m3u8
+#EXTINF:-1,SIC
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163907.m3u8
 #EXTINF:-1,SKY CINEMA HD UNO
-http://landiptv.live:8080/live/marco/polo/66080.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66080.m3u8
 #EXTINF:-1,Sony FHD
-http://landiptv.live:8080/live/marco/polo/110357.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/110357.m3u8
 #EXTINF:-1,Space FHD
-http://landiptv.live:8080/live/marco/polo/139152.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139152.m3u8
 #EXTINF:-1,SPORTV 1 HD
-http://landiptv.live:8080/live/marco/polo/88062.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88062.m3u8
 #EXTINF:-1,SPORTV 2 HD
-http://landiptv.live:8080/live/marco/polo/139153.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139153.m3u8
 #EXTINF:-1,SPORTV 3 HD
-http://landiptv.live:8080/live/marco/polo/139154.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139154.m3u8
 #EXTINF:-1,SPORTV HD
-http://landiptv.live:8080/live/marco/polo/149745.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/149745.m3u8
 #EXTINF:-1,STB
-http://landiptv.live:8080/live/marco/polo/68909.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68909.m3u8
 #EXTINF:-1,Studio Universal HD
-http://landiptv.live:8080/live/marco/polo/157009.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157009.m3u8
+#EXTINF:-1,SUPER SHOCK 24HRS
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163971.m3u8
 #EXTINF:-1,SYFY HD
-http://landiptv.live:8080/live/marco/polo/156852.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156852.m3u8
+#EXTINF:-1,TARTARUGAS NINJAS 24HRS
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163951.m3u8
 #EXTINF:-1,TBS HD
-http://landiptv.live:8080/live/marco/polo/88081.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88081.m3u8
 #EXTINF:-1,TC Action FHD
-http://landiptv.live:8080/live/marco/polo/136774.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136774.m3u8
 #EXTINF:-1,TC Cult
-http://landiptv.live:8080/live/marco/polo/206439.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/206439.m3u8
 #EXTINF:-1,TC Fun FHD
-http://landiptv.live:8080/live/marco/polo/136780.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136780.m3u8
 #EXTINF:-1,TC Premium FHD
-http://landiptv.live:8080/live/marco/polo/136785.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136785.m3u8
 #EXTINF:-1,TCM
-http://landiptv.live:8080/live/marco/polo/157011.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157011.m3u8
 #EXTINF:-1,TELECINE ACTION HD
-http://landiptv.live:8080/live/marco/polo/157013.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157013.m3u8
 #EXTINF:-1,TELECINE CULT HD
-http://landiptv.live:8080/live/marco/polo/157014.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157014.m3u8
 #EXTINF:-1,TELECINE FUN HD
-http://landiptv.live:8080/live/marco/polo/156970.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156970.m3u8
 #EXTINF:-1,TELECINE PIPOCA HD
-http://landiptv.live:8080/live/marco/polo/156969.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/156969.m3u8
 #EXTINF:-1,TELECINE PREMIUM HD
-http://landiptv.live:8080/live/marco/polo/157016.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157016.m3u8
 #EXTINF:-1,TELECINE TOUCH HD
-http://landiptv.live:8080/live/marco/polo/157012.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157012.m3u8
 #EXTINF:-1,TERRA VIVA
-http://landiptv.live:8080/live/marco/polo/124379.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124379.m3u8
+#EXTINF:-1,TESOURO DA DISNEY 24hrs
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163959.m3u8
 #EXTINF:-1,THE HISTORY CHANNEL HD
-http://landiptv.live:8080/live/marco/polo/163882.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163882.m3u8
+#EXTINF:-1,THUNDERCATS 24hrs
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163972.m3u8
 #EXTINF:-1,TLC HD
-http://landiptv.live:8080/live/marco/polo/88079.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/88079.m3u8
 #EXTINF:-1,TNT FHD
-http://landiptv.live:8080/live/marco/polo/139155.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139155.m3u8
 #EXTINF:-1,TNT SERIES HD
-http://landiptv.live:8080/live/marco/polo/157018.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157018.m3u8
 #EXTINF:-1,Tom & Jerry 24h
-http://landiptv.live:8080/live/marco/polo/124357.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124357.m3u8
 #EXTINF:-1,TOONCAST HD
-http://landiptv.live:8080/live/marco/polo/163823.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163823.m3u8
 #EXTINF:-1,TRU TV
-http://landiptv.live:8080/live/marco/polo/163928.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163928.m3u8
 #EXTINF:-1,TV APARECIDA HD
-http://landiptv.live:8080/live/marco/polo/68905.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68905.m3u8
 #EXTINF:-1,TV BRASIL
-http://landiptv.live:8080/live/marco/polo/66028.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66028.m3u8
 #EXTINF:-1,TV CINE 1 HD
-http://landiptv.live:8080/live/marco/polo/124324.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124324.m3u8
 #EXTINF:-1,TV CINE 3 FHD
-http://landiptv.live:8080/live/marco/polo/124325.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124325.m3u8
 #EXTINF:-1,TV CINE 4 HD
-http://landiptv.live:8080/live/marco/polo/163934.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163934.m3u8
 #EXTINF:-1,TV Cultura HD
-http://landiptv.live:8080/live/marco/polo/123144.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/123144.m3u8
 #EXTINF:-1,TV Diario
-http://landiptv.live:8080/live/marco/polo/66076.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66076.m3u8
 #EXTINF:-1,TV Escola
-http://landiptv.live:8080/live/marco/polo/66018.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66018.m3u8
+#EXTINF:-1,TV Evangelizar
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/135006.m3u8
 #EXTINF:-1,TV Faap
-http://landiptv.live:8080/live/marco/polo/66058.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66058.m3u8
 #EXTINF:-1,Tv Gazeta
-http://landiptv.live:8080/live/marco/polo/139156.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139156.m3u8
 #EXTINF:-1,TV Geral
-http://landiptv.live:8080/live/marco/polo/95859.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/95859.m3u8
 #EXTINF:-1,TV GLOBO CAMPINAS
-http://landiptv.live:8080/live/marco/polo/124243.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124243.m3u8
 #EXTINF:-1,TV Globo HD
-http://landiptv.live:8080/live/marco/polo/89540.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89540.m3u8
 #EXTINF:-1,TV GLOBO PREMIUM HD
-http://landiptv.live:8080/live/marco/polo/66024.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66024.m3u8
 #EXTINF:-1,TV Ideal
-http://landiptv.live:8080/live/marco/polo/136799.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136799.m3u8
 #EXTINF:-1,TV JUSTICA H264
-http://landiptv.live:8080/live/marco/polo/163929.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163929.m3u8
 #EXTINF:-1,TV LIBERAL BELEM
-http://landiptv.live:8080/live/marco/polo/163871.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163871.m3u8
+#EXTINF:-1,TV MAN FRANCE
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/135025.m3u8
 #EXTINF:-1,TV NBR
-http://landiptv.live:8080/live/marco/polo/133582.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133582.m3u8
 #EXTINF:-1,TV NOVO TEMPO
-http://landiptv.live:8080/live/marco/polo/163932.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163932.m3u8
 #EXTINF:-1,TV RA TIM BUM
-http://landiptv.live:8080/live/marco/polo/124328.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124328.m3u8
 #EXTINF:-1,TV Record
-http://landiptv.live:8080/live/marco/polo/66023.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66023.m3u8
+#EXTINF:-1,TV Series HD
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/66022.m3u8
 #EXTINF:-1,TVE
-http://landiptv.live:8080/live/marco/polo/136630.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136630.m3u8
 #EXTINF:-1,TVN Brasil
-http://landiptv.live:8080/live/marco/polo/68828.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/68828.m3u8
 #EXTINF:-1,UM MALUCO NO PEDACO 24hrs
-http://landiptv.live:8080/live/marco/polo/163961.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163961.m3u8
 #EXTINF:-1,Universal Channel FHD
-http://landiptv.live:8080/live/marco/polo/157019.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157019.m3u8
 #EXTINF:-1,VH1
-http://landiptv.live:8080/live/marco/polo/163938.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163938.m3u8
 #EXTINF:-1,VH1 Mega Hits
-http://landiptv.live:8080/live/marco/polo/206449.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/206449.m3u8
 #EXTINF:-1,Viva FHD
-http://landiptv.live:8080/live/marco/polo/104817.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/104817.m3u8
 #EXTINF:-1,Warner Bros HD
-http://landiptv.live:8080/live/marco/polo/104818.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/104818.m3u8
 #EXTINF:-1,WEB TV MINAS
-http://landiptv.live:8080/live/marco/polo/175463.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175463.m3u8
 #EXTINF:-1,Woohoo Brasil
-http://landiptv.live:8080/live/marco/polo/163312.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163312.m3u8
 #EXTINF:-1,Woohoo HD
-http://landiptv.live:8080/live/marco/polo/146621.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/146621.m3u8
 #EXTINF:-1,ZOOMOO
-http://landiptv.live:8080/live/marco/polo/164348.m3u8
+http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/164348.m3u8
