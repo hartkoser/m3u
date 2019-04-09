@@ -1,175 +1,215 @@
 #EXTM3U
-#EXTINF:-1,TF1
-http://123orca.com:25461/live/ASTON58/ASTON58/5520.m3u8
-#EXTINF:-1,TF1 Series Films
-http://123orca.com:25461/live/ASTON58/ASTON58/5502.m3u8
-#EXTINF:-1,TFX
-http://123orca.com:25461/live/ASTON58/ASTON58/5510.m3u8
+#EXTINF:-1,TF1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8644.m3u8
+#EXTINF:-1,France 2
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8261.m3u8
+#EXTINF:-1,France 3
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8260.m3u8
+#EXTINF:-1,France 4 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8590.m3u8
+#EXTINF:-1,France 5
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8591.m3u8
+#EXTINF:-1,France O
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8592.m3u8
 #EXTINF:-1,M6
-http://123orca.com:25461/live/ASTON58/ASTON58/5519.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/2920.m3u8
 #EXTINF:-1,6TER
-http://123orca.com:25461/live/ASTON58/ASTON58/5503.m3u8
-#EXTINF:-1,W9
-http://123orca.com:25461/live/ASTON58/ASTON58/5512.m3u8
-#EXTINF:-1,TV5 MONDE
-http://123orca.com:25461/live/ASTON58/ASTON58/3325.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8649.m3u8
+#EXTINF:-1,6Ter HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9425.m3u8
+#EXTINF:-1,HD1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8648.m3u8
+#EXTINF:-1,Arte
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8593.m3u8
 #EXTINF:-1,Paris Premiere
-http://123orca.com:25461/live/ASTON58/ASTON58/3320.m3u8
-#EXTINF:-1,13ème RUE
-http://123orca.com:25461/live/ASTON58/ASTON58/5479.m3u8
-#EXTINF:-1,RMC Story
-http://123orca.com:25461/live/ASTON58/ASTON58/5508.m3u8
-#EXTINF:-1,TV Breizh
-http://123orca.com:25461/live/ASTON58/ASTON58/5419.m3u8
-#EXTINF:-1,Série Club
-http://123orca.com:25461/live/ASTON58/ASTON58/5482.m3u8
-#EXTINF:-1,Syfy
-http://123orca.com:25461/live/ASTON58/ASTON58/3316.m3u8
-#EXTINF:-1,Teva
-http://123orca.com:25461/live/ASTON58/ASTON58/6282.m3u8
-#EXTINF:-1,TMC
-http://123orca.com:25461/live/ASTON58/ASTON58/5511.m3u8
-#EXTINF:-1,TCM Cinéma
-http://123orca.com:25461/live/ASTON58/ASTON58/5477.m3u8
-#EXTINF:-1,Paramount Channel
-http://123orca.com:25461/live/ASTON58/ASTON58/5484.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8653.m3u8
+#EXTINF:-1,TV-breizh HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8654.m3u8
+#EXTINF:-1,RTS UN
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13073.m3u8
+#EXTINF:-1,RTS DEUX
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13074.m3u8
+#EXTINF:-1,I-Tele HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13078.m3u8
+#EXTINF:-1,13 Rue
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17601.m3u8
 #EXTINF:-1,Action
-http://123orca.com:25461/live/ASTON58/ASTON58/5481.m3u8
-#EXTINF:-1,ORCA ACTION
-http://123orca.com:25461/live/ASTON58/ASTON58/14626.m3u8
-#EXTINF:-1,ORCA ACTION 2.
-http://123orca.com:25461/live/ASTON58/ASTON58/17144.m3u8
-#EXTINF:-1,ORCA HORROR
-http://123orca.com:25461/live/ASTON58/ASTON58/15471.m3u8
-#EXTINF:-1,OCS City
-http://123orca.com:25461/live/ASTON58/ASTON58/3347.m3u8
-#EXTINF:-1,OCS MAX
-http://123orca.com:25461/live/ASTON58/ASTON58/3348.m3u8
-#EXTINF:-1,OCS CHOC
-http://123orca.com:25461/live/ASTON58/ASTON58/3346.m3u8
-#EXTINF:-1,OCS Geants
-http://123orca.com:25461/live/ASTON58/ASTON58/3345.m3u8
-#EXTINF:-1,SFR Action
-http://123orca.com:25461/live/ASTON58/ASTON58/8705.m3u8
-#EXTINF:-1,SFR_Horror
-http://123orca.com:25461/live/ASTON58/ASTON58/8708.m3u8
-#EXTINF:-1,SFR Comedy
-http://123orca.com:25461/live/ASTON58/ASTON58/8706.m3u8
-#EXTINF:-1,SFR SCI-FI
-http://123orca.com:25461/live/ASTON58/ASTON58/8707.m3u8
-#EXTINF:-1,Sundance TV
-http://123orca.com:25461/live/ASTON58/ASTON58/8712.m3u8
-#EXTINF:-1,RTL9
-http://123orca.com:25461/live/ASTON58/ASTON58/5478.m3u8
-#EXTINF:-1,AB1
-http://123orca.com:25461/live/ASTON58/ASTON58/5480.m3u8
-#EXTINF:-1,RMC Découverte
-http://123orca.com:25461/live/ASTON58/ASTON58/5501.m3u8
-#EXTINF:-1,Ushuaïa
-http://123orca.com:25461/live/ASTON58/ASTON58/5457.m3u8
-#EXTINF:-1,Seasons
-http://123orca.com:25461/live/ASTON58/ASTON58/5456.m3u8
-#EXTINF:-1,My Cuisine
-http://123orca.com:25461/live/ASTON58/ASTON58/9389.m3u8
-#EXTINF:-1,Voyage
-http://123orca.com:25461/live/ASTON58/ASTON58/5450.m3u8
-#EXTINF:-1,TREK
-http://123orca.com:25461/live/ASTON58/ASTON58/5420.m3u8
-#EXTINF:-1,Planète+
-http://123orca.com:25461/live/ASTON58/ASTON58/5462.m3u8
-#EXTINF:-1,Planète+ CI
-http://123orca.com:25461/live/ASTON58/ASTON58/5460.m3u8
-#EXTINF:-1,Planète+ A&E
-http://123orca.com:25461/live/ASTON58/ASTON58/5461.m3u8
-#EXTINF:-1,Science & Vie
-http://123orca.com:25461/live/ASTON58/ASTON58/5454.m3u8
-#EXTINF:-1,Toute.l'histoire
-http://123orca.com:25461/live/ASTON58/ASTON58/3330.m3u8
-#EXTINF:-1,NatGeo Wild
-http://123orca.com:25461/live/ASTON58/ASTON58/5459.m3u8
-#EXTINF:-1,National Geographic
-http://123orca.com:25461/live/ASTON58/ASTON58/5458.m3u8
-#EXTINF:-1,Weo
-http://123orca.com:25461/live/ASTON58/ASTON58/3315.m3u8
-#EXTINF:-1,RMC Sport 1
-http://123orca.com:25461/live/ASTON58/ASTON58/12069.m3u8
-#EXTINF:-1,RMC Sport 2
-http://123orca.com:25461/live/ASTON58/ASTON58/5472.m3u8
-#EXTINF:-1,RMC Sport 3
-http://123orca.com:25461/live/ASTON58/ASTON58/5471.m3u8
-#EXTINF:-1,RMC Sport 4
-http://123orca.com:25461/live/ASTON58/ASTON58/5470.m3u8
-#EXTINF:-1,AB Moteurs
-http://123orca.com:25461/live/ASTON58/ASTON58/3335.m3u8
-#EXTINF:-1,Trace Urban
-http://123orca.com:25461/live/ASTON58/ASTON58/5421.m3u8
-#EXTINF:-1,M6 MUSIC
-http://123orca.com:25461/live/ASTON58/ASTON58/3290.m3u8
-#EXTINF:-1,NRJ12
-http://123orca.com:25461/live/ASTON58/ASTON58/5509.m3u8
-#EXTINF:-1,MCM
-http://123orca.com:25461/live/ASTON58/ASTON58/5427.m3u8
-#EXTINF:-1,MCM  TOP
-http://123orca.com:25461/live/ASTON58/ASTON58/5426.m3u8
-#EXTINF:-1,MEZZO LIVE.
-http://123orca.com:25461/live/ASTON58/ASTON58/5425.m3u8
-#EXTINF:-1,MTV FRANCE.
-http://123orca.com:25461/live/ASTON58/ASTON58/5424.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8667.m3u8
+#EXTINF:-1,Ocs max
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9397.m3u8
+#EXTINF:-1,Ocs Choc HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9398.m3u8
+#EXTINF:-1,OCS City HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9450.m3u8
+#EXTINF:-1,OCS Géants HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9451.m3u8
+#EXTINF:-1,Canal +
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9444.m3u8
+#EXTINF:-1,Canal+ Cinema
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9419.m3u8
+#EXTINF:-1,Canal+ Series
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9417.m3u8
+#EXTINF:-1,CANAL  Décalé
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9454.m3u8
+#EXTINF:-1,Canal+ Family
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9445.m3u8
+#EXTINF:-1,CINE+ Famiz
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9448.m3u8
+#EXTINF:-1,Cine  Classic
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9414.m3u8
+#EXTINF:-1,CINE+  Emotion
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9449.m3u8
+#EXTINF:-1,CINE  FRISSON
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9446.m3u8
+#EXTINF:-1,Cine+ Premier
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9413.m3u8
+#EXTINF:-1,Cine Fx
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9412.m3u8
+#EXTINF:-1,Cine POLAR
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8665.m3u8
+#EXTINF:-1,Serie club
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9393.m3u8
+#EXTINF:-1,PARAMOUNT
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8664.m3u8
+#EXTINF:-1,COMEDIE + HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8662.m3u8
+#EXTINF:-1,Comedie+
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9447.m3u8
+#EXTINF:-1,Syfy
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8646.m3u8
+#EXTINF:-1,Serie Club
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8655.m3u8
 #EXTINF:-1,A LA CARTE 1
-http://123orca.com:25461/live/ASTON58/ASTON58/3273.m3u8
-#EXTINF:-1,A LA CARTE 2
-http://123orca.com:25461/live/ASTON58/ASTON58/3272.m3u8
-#EXTINF:-1,A LA CARTE 3
-http://123orca.com:25461/live/ASTON58/ASTON58/3271.m3u8
-#EXTINF:-1,A LA CARTE 4
-http://123orca.com:25461/live/ASTON58/ASTON58/3270.m3u8
-#EXTINF:-1,A LA CARTE 5
-http://123orca.com:25461/live/ASTON58/ASTON58/3269.m3u8
-#EXTINF:-1,A LA CARTE 6
-http://123orca.com:25461/live/ASTON58/ASTON58/3268.m3u8
-#EXTINF:-1,A LA CARTE 7
-http://123orca.com:25461/live/ASTON58/ASTON58/3267.m3u8
-#EXTINF:-1,SRF 1
-http://123orca.com:25461/live/ASTON58/ASTON58/3262.m3u8
-#EXTINF:-1,SRF 2
-http://123orca.com:25461/live/ASTON58/ASTON58/6257.m3u8
-#EXTINF:-1,RTS Un
-http://123orca.com:25461/live/ASTON58/ASTON58/5500.m3u8
-#EXTINF:-1,RTS Deux
-http://123orca.com:25461/live/ASTON58/ASTON58/5499.m3u8
-#EXTINF:-1,+3 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/6259.m3u8
-#EXTINF:-1,+4 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/6260.m3u8
-#EXTINF:-1,+5 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/6261.m3u8
-#EXTINF:-1,Swiss 1 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/6258.m3u8
-#EXTINF:-1,Puls 8 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/6262.m3u8
-#EXTINF:-1,TVO
-http://123orca.com:25461/live/ASTON58/ASTON58/6267.m3u8
-#EXTINF:-1,TC Emotion HD
-http://123orca.com:25461/live/ASTON58/ASTON58/6265.m3u8
-#EXTINF:-1,TC Cinema HD
-http://123orca.com:25461/live/ASTON58/ASTON58/6266.m3u8
-#EXTINF:-1,TeleBielingue
-http://123orca.com:25461/live/ASTON58/ASTON58/6268.m3u8
-#EXTINF:-1,TeleBärn
-http://123orca.com:25461/live/ASTON58/ASTON58/6269.m3u8
-#EXTINF:-1,TELE ZURICH
-http://123orca.com:25461/live/ASTON58/ASTON58/6270.m3u8
-#EXTINF:-1,TF1.
-http://123orca.com:25461/live/ASTON58/ASTON58/9416.m3u8
-#EXTINF:-1,TFX.
-http://123orca.com:25461/live/ASTON58/ASTON58/9419.m3u8
-#EXTINF:-1,TF1 Series Films.
-http://123orca.com:25461/live/ASTON58/ASTON58/9418.m3u8
-#EXTINF:-1,6TER.
-http://123orca.com:25461/live/ASTON58/ASTON58/9427.m3u8
-#EXTINF:-1,M6.
-http://123orca.com:25461/live/ASTON58/ASTON58/9417.m3u8
-#EXTINF:-1,W9.
-http://123orca.com:25461/live/ASTON58/ASTON58/9420.m3u8
-#EXTINF:-1,NUMERO23.
-http://123orca.com:25461/live/ASTON58/ASTON58/9421.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9455.m3u8
+#EXTINF:-1,A la Carte 2
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9456.m3u8
+#EXTINF:-1,A la Carte 3
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9457.m3u8
+#EXTINF:-1,A la Carte 4
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9458.m3u8
+#EXTINF:-1,A la Carte 5
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9459.m3u8
+#EXTINF:-1,A la Carte 6
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9460.m3u8
+#EXTINF:-1,A la Carte 7
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9461.m3u8
+#EXTINF:-1,A la Carte 9
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9463.m3u8
+#EXTINF:-1,A la Carte 10
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9464.m3u8
+#EXTINF:-1,AB1_HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8658.m3u8
+#EXTINF:-1,E! Entertainment
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9453.m3u8
+#EXTINF:-1,Tmc
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8666.m3u8
+#EXTINF:-1,NT1
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13076.m3u8
+#EXTINF:-1,NT1
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8650.m3u8
+#EXTINF:-1,Téva HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9428.m3u8
+#EXTINF:-1,W9
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8645.m3u8
+#EXTINF:-1,RTL9
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8647.m3u8
+#EXTINF:-1,NRJ12
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8651.m3u8
+#EXTINF:-1,NRJ 12
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9422.m3u8
+#EXTINF:-1,D8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8660.m3u8
+#EXTINF:-1,D17
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8661.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8656.m3u8
+#EXTINF:-1,AB3
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8659.m3u8
+#EXTINF:-1,13eme Rue
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8652.m3u8
+#EXTINF:-1,Canal+  Sport
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9416.m3u8
+#EXTINF:-1,Eurosport
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9407.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/14080.m3u8
+#EXTINF:-1,Eurosport 2 FHD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9406.m3u8
+#EXTINF:-1,Foot+24
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9405.m3u8
+#EXTINF:-1,SFR Sport 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13053.m3u8
+#EXTINF:-1,SFR Sport 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13054.m3u8
+#EXTINF:-1,SFR Sport 3 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13719.m3u8
+#EXTINF:-1,SFR Sport 5 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13720.m3u8
+#EXTINF:-1,RMC SPORTS 1
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26131.m3u8
+#EXTINF:-1,RMC SPORTS 2
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26130.m3u8
+#EXTINF:-1,RMC SPORTS 3
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26129.m3u8
+#EXTINF:-1,RMC SPORTS 4 FHD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26128.m3u8
+#EXTINF:-1,Equida Live
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13703.m3u8
+#EXTINF:-1,Infosport+
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9404.m3u8
+#EXTINF:-1,CHASSE & PECHE
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9452.m3u8
+#EXTINF:-1,Discovery
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9411.m3u8
+#EXTINF:-1,Discovery science
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9410.m3u8
+#EXTINF:-1,National geo wild
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9400.m3u8
+#EXTINF:-1,National geographic
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9399.m3u8
+#EXTINF:-1,Planete+ CI
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9395.m3u8
+#EXTINF:-1,Science&Vie TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9442.m3u8
+#EXTINF:-1,Histoire
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9426.m3u8
+#EXTINF:-1,Animaux
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9420.m3u8
+#EXTINF:-1,RMC DECOUVERTE
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9440.m3u8
+#EXTINF:-1,Toute l'histoire
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9427.m3u8
+#EXTINF:-1,USHUAIA TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9441.m3u8
+#EXTINF:-1,M6 Music
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9429.m3u8
+#EXTINF:-1,BOOMERANG
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9437.m3u8
+#EXTINF:-1,Cartoon Network
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9415.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9435.m3u8
+#EXTINF:-1,DISNEY CHANNEL  HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9436.m3u8
+#EXTINF:-1,Disney Cinema
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9430.m3u8
+#EXTINF:-1,Disney junior
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9409.m3u8
+#EXTINF:-1,Mangas
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9401.m3u8
+#EXTINF:-1,TELETOON + HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9431.m3u8
+#EXTINF:-1,GULLI
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9433.m3u8
+#EXTINF:-1,Cherie 25
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9421.m3u8
+#EXTINF:-1,BFM TV HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9438.m3u8
+#EXTINF:-1,Euronews
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9408.m3u8
+#EXTINF:-1,L'EQUIPE 21 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9465.m3u8
+#EXTINF:-1,LCI
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9439.m3u8
+#EXTINF:-1,PIWI+
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/9432.m3u8
