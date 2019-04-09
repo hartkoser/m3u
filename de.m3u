@@ -1,187 +1,395 @@
 #EXTM3U
-#EXTINF:-1,RTL HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3463.m3u8
-#EXTINF:-1,RTLII HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3462.m3u8
-#EXTINF:-1,SAT.1 HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3453.m3u8
-#EXTINF:-1,Pro7 HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3456.m3u8
-#EXTINF:-1,VOX HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3457.m3u8
-#EXTINF:-1,kabel eins HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3454.m3u8
-#EXTINF:-1,n tv HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3450.m3u8
-#EXTINF:-1,N24
-http://123orca.com:25461/live/aziz2004/aziz2004/3451.m3u8
-#EXTINF:-1,3sat
-http://123orca.com:25461/live/aziz2004/aziz2004/3449.m3u8
+#EXTINF:-1,Kabel Eins HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15559.m3u8
+#EXTINF:-1,Kabel Eins
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7131.m3u8
+#EXTINF:-1,Kabel Eins Classics
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18772.m3u8
+#EXTINF:-1,Kabel Eins Doku
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15346.m3u8
+#EXTINF:-1,DAS ERSTE HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18780.m3u8
 #EXTINF:-1,Das Erste
-http://123orca.com:25461/live/aziz2004/aziz2004/3465.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/2135.m3u8
 #EXTINF:-1,ZDF
-http://123orca.com:25461/live/aziz2004/aziz2004/3464.m3u8
-#EXTINF:-1,Dmax'
-http://123orca.com:25461/live/aziz2004/aziz2004/7119.m3u8
-#EXTINF:-1,ZEE one
-http://123orca.com:25461/live/aziz2004/aziz2004/9128.m3u8
-#EXTINF:-1,Sky Cinema
-http://123orca.com:25461/live/aziz2004/aziz2004/3447.m3u8
-#EXTINF:-1,Sky.Action
-http://123orca.com:25461/live/aziz2004/aziz2004/3444.m3u8
-#EXTINF:-1,Sky.Cinema Hits
-http://123orca.com:25461/live/aziz2004/aziz2004/3441.m3u8
-#EXTINF:-1,Sky.Cinema Family
-http://123orca.com:25461/live/aziz2004/aziz2004/3442.m3u8
-#EXTINF:-1,Sky.Cinema Comedy
-http://123orca.com:25461/live/aziz2004/aziz2004/3443.m3u8
-#EXTINF:-1,Sky.Cinema Emotion
-http://123orca.com:25461/live/aziz2004/aziz2004/3438.m3u8
-#EXTINF:-1,Sky.Cinema Nostalgie
-http://123orca.com:25461/live/aziz2004/aziz2004/3434.m3u8
-#EXTINF:-1,Sky Atlantic
-http://123orca.com:25461/live/aziz2004/aziz2004/3440.m3u8
-#EXTINF:-1,Sky Krimi
-http://123orca.com:25461/live/aziz2004/aziz2004/3437.m3u8
-#EXTINF:-1,RTL PLUS
-http://123orca.com:25461/live/aziz2004/aziz2004/3458.m3u8
-#EXTINF:-1,RTL Passion
-http://123orca.com:25461/live/aziz2004/aziz2004/3459.m3u8
-#EXTINF:-1,RTL Crime
-http://123orca.com:25461/live/aziz2004/aziz2004/3460.m3u8
-#EXTINF:-1,RTL NITRO HD
-http://123orca.com:25461/live/aziz2004/aziz2004/7117.m3u8
-#EXTINF:-1,RTL Living
-http://123orca.com:25461/live/aziz2004/aziz2004/3461.m3u8
-#EXTINF:-1,SAT.1 GOLD
-http://123orca.com:25461/live/aziz2004/aziz2004/3452.m3u8
-#EXTINF:-1,Pro7 MAXX
-http://123orca.com:25461/live/aziz2004/aziz2004/3455.m3u8
-#EXTINF:-1,SyFy.
-http://123orca.com:25461/live/aziz2004/aziz2004/9468.m3u8
-#EXTINF:-1,SIXX-HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3430.m3u8
-#EXTINF:-1,TNT.Film
-http://123orca.com:25461/live/aziz2004/aziz2004/3428.m3u8
-#EXTINF:-1,TNT-Serie
-http://123orca.com:25461/live/aziz2004/aziz2004/3427.m3u8
-#EXTINF:-1,13th-Street
-http://123orca.com:25461/live/aziz2004/aziz2004/3448.m3u8
-#EXTINF:-1,AXN
-http://123orca.com:25461/live/aziz2004/aziz2004/3435.m3u8
-#EXTINF:-1,Anixe.
-http://123orca.com:25461/live/aziz2004/aziz2004/3432.m3u8
-#EXTINF:-1,Fox.Serie
-http://123orca.com:25461/live/aziz2004/aziz2004/3436.m3u8
-#EXTINF:-1,Kinowelt TV.
-http://123orca.com:25461/live/aziz2004/aziz2004/3418.m3u8
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3433.m3u8
-#EXTINF:-1,Heimatkanal
-http://123orca.com:25461/live/aziz2004/aziz2004/3419.m3u8
-#EXTINF:-1,ORF1
-http://123orca.com:25461/live/aziz2004/aziz2004/3397.m3u8
-#EXTINF:-1,History HD.
-http://123orca.com:25461/live/aziz2004/aziz2004/3417.m3u8
-#EXTINF:-1,National.Geographic
-http://123orca.com:25461/live/aziz2004/aziz2004/3422.m3u8
-#EXTINF:-1,Nat Geo Wild'
-http://123orca.com:25461/live/aziz2004/aziz2004/8688.m3u8
-#EXTINF:-1,Discovery.Channel
-http://123orca.com:25461/live/aziz2004/aziz2004/3421.m3u8
-#EXTINF:-1,Spiegel Geschichte
-http://123orca.com:25461/live/aziz2004/aziz2004/8425.m3u8
-#EXTINF:-1,Classica.
-http://123orca.com:25461/live/aziz2004/aziz2004/9469.m3u8
-#EXTINF:-1,Sky Sport News. HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3439.m3u8
-#EXTINF:-1,Sky Sport Austria
-http://123orca.com:25461/live/aziz2004/aziz2004/3398.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://123orca.com:25461/live/aziz2004/aziz2004/9129.m3u8
-#EXTINF:-1,Euro sport 2 HD
-http://123orca.com:25461/live/aziz2004/aziz2004/9130.m3u8
-#EXTINF:-1,eurosport 2 Extra HD
-http://123orca.com:25461/live/aziz2004/aziz2004/9199.m3u8
-#EXTINF:-1,SPORT 1 HD
-http://123orca.com:25461/live/aziz2004/aziz2004/7118.m3u8
-#EXTINF:-1,Sky Sport.1
-http://123orca.com:25461/live/aziz2004/aziz2004/3415.m3u8
-#EXTINF:-1,Sky Sport.2
-http://123orca.com:25461/live/aziz2004/aziz2004/3414.m3u8
-#EXTINF:-1,sky sport.3
-http://123orca.com:25461/live/aziz2004/aziz2004/9435.m3u8
-#EXTINF:-1,sky sport.4
-http://123orca.com:25461/live/aziz2004/aziz2004/9436.m3u8
-#EXTINF:-1,sky sport.5
-http://123orca.com:25461/live/aziz2004/aziz2004/9437.m3u8
-#EXTINF:-1,sky sport.6
-http://123orca.com:25461/live/aziz2004/aziz2004/9438.m3u8
-#EXTINF:-1,sky sport.7
-http://123orca.com:25461/live/aziz2004/aziz2004/9439.m3u8
-#EXTINF:-1,sky sport.8
-http://123orca.com:25461/live/aziz2004/aziz2004/9440.m3u8
-#EXTINF:-1,sky sport.9
-http://123orca.com:25461/live/aziz2004/aziz2004/9441.m3u8
-#EXTINF:-1,sky sport.10
-http://123orca.com:25461/live/aziz2004/aziz2004/9442.m3u8
-#EXTINF:-1,Sky.Sport Bundesliga1
-http://123orca.com:25461/live/aziz2004/aziz2004/3413.m3u8
-#EXTINF:-1,Sky Sport Bundesliga1 HD
-http://123orca.com:25461/live/aziz2004/aziz2004/8687.m3u8
-#EXTINF:-1,Sky.Sport .Bundesliga2
-http://123orca.com:25461/live/aziz2004/aziz2004/3412.m3u8
-#EXTINF:-1,sky bundesliga 3
-http://123orca.com:25461/live/aziz2004/aziz2004/9443.m3u8
-#EXTINF:-1,sky bundesliga 4
-http://123orca.com:25461/live/aziz2004/aziz2004/9444.m3u8
-#EXTINF:-1,sky bundesliga 5
-http://123orca.com:25461/live/aziz2004/aziz2004/9445.m3u8
-#EXTINF:-1,sky bundesliga 6
-http://123orca.com:25461/live/aziz2004/aziz2004/9446.m3u8
-#EXTINF:-1,sky bundesliga 7
-http://123orca.com:25461/live/aziz2004/aziz2004/9447.m3u8
-#EXTINF:-1,sky bundesliga 8
-http://123orca.com:25461/live/aziz2004/aziz2004/9448.m3u8
-#EXTINF:-1,sky bundesliga 9
-http://123orca.com:25461/live/aziz2004/aziz2004/9449.m3u8
-#EXTINF:-1,sky bundesliga 10
-http://123orca.com:25461/live/aziz2004/aziz2004/9450.m3u8
-#EXTINF:-1,Sky Select 1
-http://123orca.com:25461/live/aziz2004/aziz2004/7922.m3u8
-#EXTINF:-1,Sky Select 2
-http://123orca.com:25461/live/aziz2004/aziz2004/7923.m3u8
-#EXTINF:-1,Sky Select 3
-http://123orca.com:25461/live/aziz2004/aziz2004/7924.m3u8
-#EXTINF:-1,Sky Select 4
-http://123orca.com:25461/live/aziz2004/aziz2004/7925.m3u8
-#EXTINF:-1,Sky Select 5
-http://123orca.com:25461/live/aziz2004/aziz2004/7926.m3u8
-#EXTINF:-1,Sky Select 7
-http://123orca.com:25461/live/aziz2004/aziz2004/7928.m3u8
-#EXTINF:-1,Sky Select 6
-http://123orca.com:25461/live/aziz2004/aziz2004/7927.m3u8
-#EXTINF:-1,Sky Select 8
-http://123orca.com:25461/live/aziz2004/aziz2004/7929.m3u8
-#EXTINF:-1,Sky Select 9
-http://123orca.com:25461/live/aziz2004/aziz2004/7930.m3u8
-#EXTINF:-1,Sky Select 10
-http://123orca.com:25461/live/aziz2004/aziz2004/7931.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7124.m3u8
+#EXTINF:-1,3Sat
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7470.m3u8
+#EXTINF:-1,Kika-HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7424.m3u8
 #EXTINF:-1,Kika
-http://123orca.com:25461/live/aziz2004/aziz2004/3426.m3u8
-#EXTINF:-1,SUPER.RTL HD
-http://123orca.com:25461/live/aziz2004/aziz2004/3423.m3u8
-#EXTINF:-1,Boomerang
-http://123orca.com:25461/live/aziz2004/aziz2004/7214.m3u8
-#EXTINF:-1,Nickelodeon
-http://123orca.com:25461/live/aziz2004/aziz2004/3424.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18771.m3u8
+#EXTINF:-1,Ndr
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7419.m3u8
+#EXTINF:-1,Phoenix HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18764.m3u8
+#EXTINF:-1,Phoenix
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7420.m3u8
+#EXTINF:-1,SWR HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7460.m3u8
+#EXTINF:-1,Arte
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7418.m3u8
+#EXTINF:-1,ANIXE HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18782.m3u8
+#EXTINF:-1,ANIXE
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7469.m3u8
+#EXTINF:-1,ZDF neo
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7457.m3u8
+#EXTINF:-1,ZDF Info
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18744.m3u8
+#EXTINF:-1,Servus TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7438.m3u8
+#EXTINF:-1,Pro Sieben HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18762.m3u8
+#EXTINF:-1,Pro Sieben
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7448.m3u8
+#EXTINF:-1,PRO7 MAXX HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18763.m3u8
+#EXTINF:-1,Pro 7 MAXX
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7414.m3u8
+#EXTINF:-1,RTL Television
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15352.m3u8
+#EXTINF:-1,RTL HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7125.m3u8
+#EXTINF:-1,RTL Plus
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13020.m3u8
+#EXTINF:-1,SUPER RTL HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7140.m3u8
+#EXTINF:-1,Super RTL
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18748.m3u8
+#EXTINF:-1,SAT 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18757.m3u8
+#EXTINF:-1,SAT 1
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7463.m3u8
+#EXTINF:-1,SAT 1 GOLD HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18756.m3u8
+#EXTINF:-1,Sat 1 Gold
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7412.m3u8
+#EXTINF:-1,SAT 1 Emotions
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18758.m3u8
+#EXTINF:-1,RTL Nitro
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7409.m3u8
+#EXTINF:-1,RTL 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18760.m3u8
+#EXTINF:-1,RTL 2
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7408.m3u8
+#EXTINF:-1,N-tv
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7464.m3u8
+#EXTINF:-1,A&E
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15354.m3u8
+#EXTINF:-1,E! Entertainment HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15341.m3u8
+#EXTINF:-1,Zee One
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15340.m3u8
+#EXTINF:-1,Family TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15350.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15348.m3u8
+#EXTINF:-1,MDR
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7465.m3u8
+#EXTINF:-1,ARD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7468.m3u8
+#EXTINF:-1,Goldstar TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13015.m3u8
+#EXTINF:-1,ORF 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7130.m3u8
+#EXTINF:-1,ORF 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7129.m3u8
+#EXTINF:-1,N24
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7105.m3u8
+#EXTINF:-1,N24 Doku
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18770.m3u8
+#EXTINF:-1,INTV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/2134.m3u8
+#EXTINF:-1,13th Street
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7443.m3u8
+#EXTINF:-1,AXN HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7466.m3u8
+#EXTINF:-1,Blue Movie
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18781.m3u8
+#EXTINF:-1,Fox Serie
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7171.m3u8
+#EXTINF:-1,Heimatkanal
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7452.m3u8
+#EXTINF:-1,MGM HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7187.m3u8
+#EXTINF:-1,KinoWelt TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7450.m3u8
+#EXTINF:-1,RomanceTV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7451.m3u8
+#EXTINF:-1,RTL Crime HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15580.m3u8
+#EXTINF:-1,RTL Crime
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7461.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15567.m3u8
+#EXTINF:-1,Sky Atlantic
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7152.m3u8
+#EXTINF:-1,RTL Passion
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7128.m3u8
+#EXTINF:-1,SKY 3D
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7456.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15566.m3u8
+#EXTINF:-1,Sky Action HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15589.m3u8
+#EXTINF:-1,Sky Cinema Action
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7153.m3u8
+#EXTINF:-1,Sky Cinema HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15576.m3u8
+#EXTINF:-1,Sky Cinema
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7151.m3u8
+#EXTINF:-1,Sky Cinema +1
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7150.m3u8
+#EXTINF:-1,Sky Cinema +1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15578.m3u8
+#EXTINF:-1,Sky Cinema +24 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7149.m3u8
+#EXTINF:-1,Sky Cinema Comedy
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7148.m3u8
+#EXTINF:-1,Sky Hits HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15573.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18752.m3u8
+#EXTINF:-1, Sky Cinema Hits
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7440.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18753.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15353.m3u8
+#EXTINF:-1,Sky Nostalgie
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7144.m3u8
+#EXTINF:-1,Sky Krimi
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7145.m3u8
+#EXTINF:-1,Sky Hits
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7146.m3u8
+#EXTINF:-1,Sky Emotion
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7147.m3u8
+#EXTINF:-1,Syfy HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7139.m3u8
+#EXTINF:-1,Syfy
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18747.m3u8
+#EXTINF:-1,TNT Film HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7137.m3u8
+#EXTINF:-1,TNT Film
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15574.m3u8
+#EXTINF:-1,TNT Series HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15565.m3u8
+#EXTINF:-1,TNT Serie
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7136.m3u8
+#EXTINF:-1,Sky Select
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18751.m3u8
+#EXTINF:-1,Sky Select 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7104.m3u8
+#EXTINF:-1,Sky Select 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7103.m3u8
+#EXTINF:-1,Sky Select 3 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7102.m3u8
+#EXTINF:-1,Sky Select 4 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7101.m3u8
+#EXTINF:-1,Sky Select 5 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7100.m3u8
+#EXTINF:-1,Sky Select 6 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7099.m3u8
+#EXTINF:-1,Sky Select 7 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7098.m3u8
+#EXTINF:-1,FOX HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7172.m3u8
+#EXTINF:-1,Universal HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15347.m3u8
+#EXTINF:-1,VOX HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18745.m3u8
+#EXTINF:-1,VOX
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7458.m3u8
+#EXTINF:-1,Dazn 1 BAR FHD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21044.m3u8
+#EXTINF:-1,Dazn 2 BAR FHD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21045.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15560.m3u8
+#EXTINF:-1,Motorvision TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13017.m3u8
+#EXTINF:-1,Sky Sport News
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7111.m3u8
+#EXTINF:-1,ORF Sport+ HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/14041.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15562.m3u8
+#EXTINF:-1,Sky Sport Austria
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15349.m3u8
+#EXTINF:-1,Sport 1  HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7108.m3u8
+#EXTINF:-1,Sport1  HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15564.m3u8
+#EXTINF:-1,SPORT +1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7109.m3u8
+#EXTINF:-1,Sport1 US HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15587.m3u8
+#EXTINF:-1,Sport 1 US HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7119.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15556.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7115.m3u8
+#EXTINF:-1,Sky Sport 1
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7116.m3u8
+#EXTINF:-1,Sky Sport 2
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7113.m3u8
+#EXTINF:-1,Sky Sport 3 (Match Time)
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13036.m3u8
+#EXTINF:-1,Sky Sport 4 (Match Time)
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13035.m3u8
+#EXTINF:-1,Sky Sport 5 (match time)
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13034.m3u8
+#EXTINF:-1,Sky Sport 6 (match time)
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13033.m3u8
+#EXTINF:-1,Sky Sport 7 (match time)
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13032.m3u8
+#EXTINF:-1,Sky Sport 8 match time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13031.m3u8
+#EXTINF:-1,Sky Sport 9 (match time)
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13029.m3u8
+#EXTINF:-1,Sky Sport 10 (match time)
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13030.m3u8
+#EXTINF:-1,Sky Sport 11
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13037.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/16980.m3u8
+#EXTINF:-1,Sky Bundesliga 1
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7123.m3u8
+#EXTINF:-1,Sky Bundesliga 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17033.m3u8
+#EXTINF:-1,Sky Bundesliga 2 Match Time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7122.m3u8
+#EXTINF:-1,Sky Bundesliga 3 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17034.m3u8
+#EXTINF:-1,Sky Bundesliga 3 Match Time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7121.m3u8
+#EXTINF:-1,Sky Bundesliga 4 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17035.m3u8
+#EXTINF:-1,Sky Bundesliga 4 Match Time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/12551.m3u8
+#EXTINF:-1,Sky Bundesliga 5 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17036.m3u8
+#EXTINF:-1,Sky Bundesliga 5 Match Time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7120.m3u8
+#EXTINF:-1,Sky Bundesliga 6 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17037.m3u8
+#EXTINF:-1,Sky Bundesliga 6 Match Time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13026.m3u8
+#EXTINF:-1,Sky Bundesliga 7 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17038.m3u8
+#EXTINF:-1,Sky Bundesliga 7 Match Time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13028.m3u8
+#EXTINF:-1,Sky Bundesliga 8 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17041.m3u8
+#EXTINF:-1,Sky Bundesliga 8 Match Time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13025.m3u8
+#EXTINF:-1,Sky Bundesliga 9 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17040.m3u8
+#EXTINF:-1,Sky Bundesliga 9 Match Time
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13027.m3u8
+#EXTINF:-1,Sky Bundesliga 10 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17039.m3u8
+#EXTINF:-1,Sky Bundesliga 10
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13038.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7107.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15342.m3u8
+#EXTINF:-1,EUROSPORT 2 HD XTRA
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18775.m3u8
+#EXTINF:-1,SPORTDIGITAL HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7471.m3u8
+#EXTINF:-1,Sky 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15593.m3u8
+#EXTINF:-1,Spiegel Geschichte HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15563.m3u8
+#EXTINF:-1,Spiegel Geschichte
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7141.m3u8
+#EXTINF:-1,RTL Living HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7162.m3u8
+#EXTINF:-1,RTL Living
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18759.m3u8
+#EXTINF:-1,Discovery Channel
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7176.m3u8
+#EXTINF:-1,Nat Geo HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15569.m3u8
+#EXTINF:-1,Nat Geographic
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7164.m3u8
+#EXTINF:-1,Nat Geo Wild  HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15581.m3u8
+#EXTINF:-1,NatGeo Wild
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7163.m3u8
+#EXTINF:-1,HISTORY HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7106.m3u8
+#EXTINF:-1,DMAX HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18777.m3u8
+#EXTINF:-1,Dmax
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7417.m3u8
+#EXTINF:-1,Sky Arts HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15344.m3u8
+#EXTINF:-1,TLC
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7427.m3u8
+#EXTINF:-1,13th Street HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15572.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15584.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7134.m3u8
+#EXTINF:-1,Classica Deutschland
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7135.m3u8
+#EXTINF:-1, VEVO
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7436.m3u8
+#EXTINF:-1, M2O Music
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7423.m3u8
+#EXTINF:-1,Jukebox
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15343.m3u8
+#EXTINF:-1,Junior
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/13018.m3u8
 #EXTINF:-1,Disney XD
-http://123orca.com:25461/live/aziz2004/aziz2004/7210.m3u8
-#EXTINF:-1,Disney.Junior
-http://123orca.com:25461/live/aziz2004/aziz2004/3425.m3u8
-#EXTINF:-1,Disney Channel
-http://123orca.com:25461/live/aziz2004/aziz2004/7212.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7453.m3u8
+#EXTINF:-1,Disney Junior
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7175.m3u8
 #EXTINF:-1,Disney Cinemagic
-http://123orca.com:25461/live/aziz2004/aziz2004/7211.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7133.m3u8
+#EXTINF:-1,Disney Junior HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18778.m3u8
+#EXTINF:-1,Disney Channel HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18779.m3u8
+#EXTINF:-1,Disney Channel
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/7173.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18769.m3u8
+#EXTINF:-1,Toggo Plus
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15345.m3u8
+#EXTINF:-1,Boomerang
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15351.m3u8
 #EXTINF:-1,Cartoon Network
-http://123orca.com:25461/live/aziz2004/aziz2004/7213.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15356.m3u8
+#EXTINF:-1,Disney Cinemagic HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/15571.m3u8
+#EXTINF:-1,123 TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18783.m3u8
+#EXTINF:-1,DW
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18776.m3u8
+#EXTINF:-1,EWTN
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18774.m3u8
+#EXTINF:-1,Genius Plus
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18773.m3u8
+#EXTINF:-1,Nitro
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18768.m3u8
+#EXTINF:-1,Nitro HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18767.m3u8
+#EXTINF:-1,NTV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18766.m3u8
+#EXTINF:-1,One
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18765.m3u8
+#EXTINF:-1,SIXX
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18755.m3u8
+#EXTINF:-1,Sophia TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18750.m3u8
+#EXTINF:-1,SPARHANDY TV
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18749.m3u8
+#EXTINF:-1,TELE 5 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/18746.m3u8

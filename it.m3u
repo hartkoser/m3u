@@ -1,177 +1,195 @@
 #EXTM3U
-#EXTINF:-1,Rai1
-http://123orca.com:25461/live/ASTON58/ASTON58/3497.m3u8
-#EXTINF:-1,Rai2
-http://123orca.com:25461/live/ASTON58/ASTON58/3496.m3u8
-#EXTINF:-1,Rai3
-http://123orca.com:25461/live/ASTON58/ASTON58/3495.m3u8
-#EXTINF:-1,Rai4
-http://123orca.com:25461/live/ASTON58/ASTON58/3494.m3u8
-#EXTINF:-1,Rai5
-http://123orca.com:25461/live/ASTON58/ASTON58/3493.m3u8
-#EXTINF:-1,Rai movie
-http://123orca.com:25461/live/ASTON58/ASTON58/3503.m3u8
-#EXTINF:-1,Rai Premium
-http://123orca.com:25461/live/ASTON58/ASTON58/3501.m3u8
-#EXTINF:-1,Rai News 24
-http://123orca.com:25461/live/ASTON58/ASTON58/3502.m3u8
-#EXTINF:-1,Rai YoYo
-http://123orca.com:25461/live/ASTON58/ASTON58/3535.m3u8
-#EXTINF:-1,Rai Gulp
-http://123orca.com:25461/live/ASTON58/ASTON58/3517.m3u8
-#EXTINF:-1,RSi LA1
-http://123orca.com:25461/live/ASTON58/ASTON58/3518.m3u8
-#EXTINF:-1,RSi LA2
-http://123orca.com:25461/live/ASTON58/ASTON58/3519.m3u8
-#EXTINF:-1,Italia1
-http://123orca.com:25461/live/ASTON58/ASTON58/3477.m3u8
-#EXTINF:-1,Italia2
-http://123orca.com:25461/live/ASTON58/ASTON58/3508.m3u8
-#EXTINF:-1,Rete 4
-http://123orca.com:25461/live/ASTON58/ASTON58/3481.m3u8
-#EXTINF:-1,Canale 5
-http://123orca.com:25461/live/ASTON58/ASTON58/3514.m3u8
-#EXTINF:-1,LA7
-http://123orca.com:25461/live/ASTON58/ASTON58/3469.m3u8
-#EXTINF:-1,Sky TG24HD
-http://123orca.com:25461/live/ASTON58/ASTON58/9414.m3u8
-#EXTINF:-1,Mediaset Extra 1 GF
-http://123orca.com:25461/live/ASTON58/ASTON58/3475.m3u8
-#EXTINF:-1,Sky Cinema 1
-http://123orca.com:25461/live/ASTON58/ASTON58/3582.m3u8
+#EXTINF:-1,Rai 1 Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4429.m3u8
+#EXTINF:-1,Rai 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21435.m3u8
+#EXTINF:-1,Rai 1 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21597.m3u8
+#EXTINF:-1,Rai 2 Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4428.m3u8
+#EXTINF:-1,Rai 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21434.m3u8
+#EXTINF:-1,Rai 2 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21596.m3u8
+#EXTINF:-1,Rai 3 Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4427.m3u8
+#EXTINF:-1,Rai 3 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21433.m3u8
+#EXTINF:-1,Rai 3 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21595.m3u8
+#EXTINF:-1,Rete 4 Full-HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21669.m3u8
+#EXTINF:-1,Rete 4 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4422.m3u8
+#EXTINF:-1,Rete 4 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21594.m3u8
+#EXTINF:-1,Canale 5 Full-HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21710.m3u8
+#EXTINF:-1,Canale 5 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4471.m3u8
+#EXTINF:-1,Canale 5 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21600.m3u8
+#EXTINF:-1,Italia 1 Full-HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21688.m3u8
+#EXTINF:-1,Italia 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4464.m3u8
+#EXTINF:-1,Italia 1 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21599.m3u8
+#EXTINF:-1,La 7 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4463.m3u8
+#EXTINF:-1,Tv 8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4460.m3u8
+#EXTINF:-1,Nove HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17661.m3u8
+#EXTINF:-1,RSI La1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4421.m3u8
+#EXTINF:-1,RSI La2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4420.m3u8
+#EXTINF:-1,SKY Cinema Uno  24 Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26166.m3u8
+#EXTINF:-1,SKY Cinema Uno  24 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26165.m3u8
+#EXTINF:-1,SKY Cinema Uno  24 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26164.m3u8
+#EXTINF:-1,Sky Cinema +1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17660.m3u8
+#EXTINF:-1,Sky Cinema +24 Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21408.m3u8
 #EXTINF:-1,Sky Cinema +24 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3572.m3u8
-#EXTINF:-1,Sky Cinema Comedy
-http://123orca.com:25461/live/ASTON58/ASTON58/3576.m3u8
-#EXTINF:-1,Sky Cinema Passion
-http://123orca.com:25461/live/ASTON58/ASTON58/3581.m3u8
-#EXTINF:-1,Sky Cinema Classic
-http://123orca.com:25461/live/ASTON58/ASTON58/3575.m3u8
-#EXTINF:-1,Sky Cinema Family
-http://123orca.com:25461/live/ASTON58/ASTON58/3578.m3u8
-#EXTINF:-1,Sky Cinema Max
-http://123orca.com:25461/live/ASTON58/ASTON58/3580.m3u8
-#EXTINF:-1,Sky Cinema Cult
-http://123orca.com:25461/live/ASTON58/ASTON58/3577.m3u8
-#EXTINF:-1,Sky Cinema Hits
-http://123orca.com:25461/live/ASTON58/ASTON58/3579.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3489.m3u8
-#EXTINF:-1,Sky Uno
-http://123orca.com:25461/live/ASTON58/ASTON58/3531.m3u8
-#EXTINF:-1,Fox HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3522.m3u8
-#EXTINF:-1,Fox Crime
-http://123orca.com:25461/live/ASTON58/ASTON58/3486.m3u8
-#EXTINF:-1,Fox Comedy
-http://123orca.com:25461/live/ASTON58/ASTON58/3487.m3u8
-#EXTINF:-1,Fox Life HD.
-http://123orca.com:25461/live/ASTON58/ASTON58/3485.m3u8
-#EXTINF:-1,Premium Cinema
-http://123orca.com:25461/live/ASTON58/ASTON58/3555.m3u8
-#EXTINF:-1,Premium Cinema +24
-http://123orca.com:25461/live/ASTON58/ASTON58/3557.m3u8
-#EXTINF:-1,Premium Cinema 2
-http://123orca.com:25461/live/ASTON58/ASTON58/3556.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17375.m3u8
+#EXTINF:-1,Sky Cinema +24 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21407.m3u8
+#EXTINF:-1,Sky Cinema 1 Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21406.m3u8
+#EXTINF:-1,Sky Cinema 1 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4413.m3u8
+#EXTINF:-1,Sky Cinema 1 SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21405.m3u8
+#EXTINF:-1,SKY Cinema Due   24 Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26163.m3u8
+#EXTINF:-1,SKY Cinema Due   24 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26162.m3u8
+#EXTINF:-1,SKY Cinema Due Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26158.m3u8
+#EXTINF:-1,SKY Cinema Due HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26157.m3u8
+#EXTINF:-1,SKY Cinema Due SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26156.m3u8
+#EXTINF:-1,SKY Cinema Action Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26161.m3u8
+#EXTINF:-1,SKY Cinema Action HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26160.m3u8
+#EXTINF:-1,SKY Cinema Action SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26159.m3u8
+#EXTINF:-1,SKY Cinema Collection Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26155.m3u8
+#EXTINF:-1,SKY Cinema Collection HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26154.m3u8
+#EXTINF:-1,SKY Cinema Collection SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26153.m3u8
+#EXTINF:-1,SKY Cinema Drama Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26168.m3u8
+#EXTINF:-1,SKY Cinema Drama HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26167.m3u8
+#EXTINF:-1,SKY Cinema Romance Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26171.m3u8
+#EXTINF:-1,SKY Cinema Romance HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26170.m3u8
+#EXTINF:-1,SKY Cinema Romance SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26169.m3u8
+#EXTINF:-1,SKY CINEMA Suspense FULL HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21666.m3u8
+#EXTINF:-1,Sky Cinema Suspense HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21665.m3u8
+#EXTINF:-1,SKY Cinema Suspense SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26172.m3u8
+#EXTINF:-1,Sky Cinema Classic HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17653.m3u8
+#EXTINF:-1,Sky Cinema Classic SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21404.m3u8
+#EXTINF:-1,Sky Cinema Comedy Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21403.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17656.m3u8
+#EXTINF:-1,Sky Cinema CULT FULL HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21339.m3u8
+#EXTINF:-1,Sky Cinema Comedy SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21402.m3u8
+#EXTINF:-1,Sky Cinema Cult HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17654.m3u8
+#EXTINF:-1,Sky Cinema Cult SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21401.m3u8
+#EXTINF:-1,Sky Cinema Family Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21400.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17659.m3u8
+#EXTINF:-1,Sky Cinema Family SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21399.m3u8
+#EXTINF:-1,Sky Cinema Hits Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21398.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17376.m3u8
+#EXTINF:-1,Sky Cinema Hits SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21397.m3u8
+#EXTINF:-1,SKY CINEMA MAX FULL HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21668.m3u8
+#EXTINF:-1,Sky Cinema Max HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17377.m3u8
+#EXTINF:-1,Sky Cinema Max SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21393.m3u8
+#EXTINF:-1,SKY CINEMA PASSION FULL HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21667.m3u8
+#EXTINF:-1,Sky Cinema Passion HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17657.m3u8
+#EXTINF:-1,Sky Cinema Passion SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21392.m3u8
+#EXTINF:-1,Cine Sony
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21707.m3u8
+#EXTINF:-1,Iris SD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4465.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8493.m3u8
+#EXTINF:-1,Premium 20 FULL HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21340.m3u8
+#EXTINF:-1,Premium Action  +24
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4458.m3u8
+#EXTINF:-1,Premium Action Full-HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21677.m3u8
 #EXTINF:-1,Premium Action HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4502.m3u8
-#EXTINF:-1,Premium Action 24
-http://123orca.com:25461/live/ASTON58/ASTON58/3558.m3u8
-#EXTINF:-1,Premium Crime
-http://123orca.com:25461/live/ASTON58/ASTON58/3562.m3u8
-#EXTINF:-1,Premium Comedy
-http://123orca.com:25461/live/ASTON58/ASTON58/3560.m3u8
-#EXTINF:-1,Premium Emotion
-http://123orca.com:25461/live/ASTON58/ASTON58/3566.m3u8
-#EXTINF:-1,Premium Energy
-http://123orca.com:25461/live/ASTON58/ASTON58/3567.m3u8
-#EXTINF:-1,Premium Stories
-http://123orca.com:25461/live/ASTON58/ASTON58/3571.m3u8
-#EXTINF:-1,Premium Joi
-http://123orca.com:25461/live/ASTON58/ASTON58/3568.m3u8
-#EXTINF:-1,La5
-http://123orca.com:25461/live/ASTON58/ASTON58/9484.m3u8
-#EXTINF:-1,Real.Time
-http://123orca.com:25461/live/ASTON58/ASTON58/3516.m3u8
-#EXTINF:-1,Caccia
-http://123orca.com:25461/live/ASTON58/ASTON58/3513.m3u8
-#EXTINF:-1,Pesca
-http://123orca.com:25461/live/ASTON58/ASTON58/3534.m3u8
-#EXTINF:-1,Animal .Planet
-http://123orca.com:25461/live/ASTON58/ASTON58/3523.m3u8
-#EXTINF:-1,Nat Geo Wild HD.
-http://123orca.com:25461/live/ASTON58/ASTON58/3482.m3u8
-#EXTINF:-1,National Geographic HD.
-http://123orca.com:25461/live/ASTON58/ASTON58/3511.m3u8
-#EXTINF:-1,Discovery Channel HD.
-http://123orca.com:25461/live/ASTON58/ASTON58/3491.m3u8
-#EXTINF:-1,Discovery .Science
-http://123orca.com:25461/live/ASTON58/ASTON58/3490.m3u8
-#EXTINF:-1,Discovery .Travel and Living
-http://123orca.com:25461/live/ASTON58/ASTON58/3507.m3u8
-#EXTINF:-1,History
-http://123orca.com:25461/live/ASTON58/ASTON58/3471.m3u8
-#EXTINF:-1,Cielo
-http://123orca.com:25461/live/ASTON58/ASTON58/3515.m3u8
-#EXTINF:-1,Iris
-http://123orca.com:25461/live/ASTON58/ASTON58/3470.m3u8
-#EXTINF:-1,Rai Sport + HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3500.m3u8
-#EXTINF:-1,Sport Italia
-http://123orca.com:25461/live/ASTON58/ASTON58/3532.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4520.m3u8
-#EXTINF:-1,Sky Calcio 1
-http://123orca.com:25461/live/ASTON58/ASTON58/3479.m3u8
-#EXTINF:-1,Sky Calcio 2
-http://123orca.com:25461/live/ASTON58/ASTON58/11456.m3u8
-#EXTINF:-1,Sky Calcio 3
-http://123orca.com:25461/live/ASTON58/ASTON58/11457.m3u8
-#EXTINF:-1,Sky.Sport24
-http://123orca.com:25461/live/ASTON58/ASTON58/3478.m3u8
-#EXTINF:-1,Sky Sport MotoGP
-http://123orca.com:25461/live/ASTON58/ASTON58/3528.m3u8
-#EXTINF:-1,Super Tennis
-http://123orca.com:25461/live/ASTON58/ASTON58/3533.m3u8
-#EXTINF:-1,FOX' SPORTS
-http://123orca.com:25461/live/ASTON58/ASTON58/3484.m3u8
-#EXTINF:-1,Sky Supercalcio
-http://123orca.com:25461/live/ASTON58/ASTON58/3530.m3u8
-#EXTINF:-1,DAZN SPORT 1 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3551.m3u8
-#EXTINF:-1,DAZN SPORT 2 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3550.m3u8
-#EXTINF:-1,DAZN SPORT 5 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3549.m3u8
-#EXTINF:-1,DAZN SPORT 3 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3553.m3u8
-#EXTINF:-1,DAZN SPORT 4 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3559.m3u8
-#EXTINF:-1,Sky Primafila 1 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4503.m3u8
-#EXTINF:-1,Sky Primafila 2 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4504.m3u8
-#EXTINF:-1,Sky Primafila 3 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4505.m3u8
-#EXTINF:-1,Sky Primafila 4 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4506.m3u8
-#EXTINF:-1,Sky Primafila 5 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4509.m3u8
-#EXTINF:-1,Sky Primafila 6 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4510.m3u8
-#EXTINF:-1,Sky Primafila 7 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4511.m3u8
-#EXTINF:-1,Sky Primafila 8 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4512.m3u8
-#EXTINF:-1,Sky Primafila 9 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4513.m3u8
-#EXTINF:-1,Sky Primafila 10 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4515.m3u8
-#EXTINF:-1,Sky Primafila 11 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4517.m3u8
-#EXTINF:-1,Sky Primafila 12 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/4518.m3u8
-#EXTINF:-1,Sky Primafila 13 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3547.m3u8
-#EXTINF:-1,Sky Primafila 16 HD
-http://123orca.com:25461/live/ASTON58/ASTON58/3544.m3u8
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4457.m3u8
+#EXTINF:-1,Premium Cinema +24 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4446.m3u8
+#EXTINF:-1,Premium Cinema 2  +24
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4445.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4444.m3u8
+#EXTINF:-1,Premium Cinema Comedy Full-HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21675.m3u8
+#EXTINF:-1,Premium Cinema Comedy HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4443.m3u8
+#EXTINF:-1,Premium Cinema Emotion
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4434.m3u8
+#EXTINF:-1,Premium Cinema Enegy +24
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17869.m3u8
+#EXTINF:-1,Premium Cinema Energy Full-HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21674.m3u8
+#EXTINF:-1,Premium Cinema Energy HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4442.m3u8
+#EXTINF:-1,Premium Cinema Full-HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21673.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4441.m3u8
+#EXTINF:-1,Premium Emotion Full HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21671.m3u8
+#EXTINF:-1,Premium Joy HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4432.m3u8
+#EXTINF:-1,Premium Joy plus 24
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21324.m3u8
+#EXTINF:-1,Premium Stories HD
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4430.m3u8
+#EXTINF:-1,Premium Stories plus 24
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21321.m3u8
+#EXTINF:-1,Rai Movie
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4425.m3u8
+#EXTINF:-1,Studio Universal
+http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4349.m3u8
