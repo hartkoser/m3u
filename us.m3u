@@ -1,113 +1,253 @@
 #EXTM3U
-#EXTINF:-1,A&E  US
-http://194.88.107.101:6204/live/waell/123/10441.m3u8
-#EXTINF:-1,ABC US
-http://194.88.107.101:6204/live/waell/123/10440.m3u8
-#EXTINF:-1,CNBC US
-http://194.88.107.101:6204/live/waell/123/10429.m3u8
-#EXTINF:-1,CNN US HD
-http://194.88.107.101:6204/live/waell/123/10428.m3u8
-#EXTINF:-1,MTV HD US
-http://194.88.107.101:6204/live/waell/123/10403.m3u8
-#EXTINF:-1,Starz HD US
-http://194.88.107.101:6204/live/waell/123/10390.m3u8
-#EXTINF:-1,SyFy HD USA
-http://194.88.107.101:6204/live/waell/123/10387.m3u8
-#EXTINF:-1,TBS USA
-http://194.88.107.101:6204/live/waell/123/10386.m3u8
-#EXTINF:-1,TNT US
-http://194.88.107.101:6204/live/waell/123/10384.m3u8
-#EXTINF:-1,VH1 HD US
-http://194.88.107.101:6204/live/waell/123/10380.m3u8
-#EXTINF:-1,History HD US
-http://194.88.107.101:6204/live/waell/123/10405.m3u8
-#EXTINF:-1,Nat Geo Wild HD US
-http://194.88.107.101:6204/live/waell/123/10402.m3u8
-#EXTINF:-1,NatGeo HD USA
-http://194.88.107.101:6204/live/waell/123/10401.m3u8
-#EXTINF:-1,Discovery Channel US HD
-http://194.88.107.101:6204/live/waell/123/10424.m3u8
-#EXTINF:-1,Discovery Science US HD
-http://194.88.107.101:6204/live/waell/123/10421.m3u8
-#EXTINF:-1,Bloomberg US
-http://194.88.107.101:6204/live/waell/123/10436.m3u8
-#EXTINF:-1,Cartoon Network US
-http://194.88.107.101:6204/live/waell/123/10434.m3u8
-#EXTINF:-1,Disney Channel US
-http://194.88.107.101:6204/live/waell/123/10420.m3u8
-#EXTINF:-1,Disney Junior US
-http://194.88.107.101:6204/live/waell/123/10419.m3u8
-#EXTINF:-1,Nick Junior US
-http://194.88.107.101:6204/live/waell/123/10397.m3u8
-#EXTINF:-1,Nick Toons US
-http://194.88.107.101:6204/live/waell/123/10396.m3u8
-#EXTINF:-1,CBS Sport HD
-http://194.88.107.101:6204/live/waell/123/10433.m3u8
-#EXTINF:-1,CBS US
-http://194.88.107.101:6204/live/waell/123/10432.m3u8
-#EXTINF:-1,HBO Comedy HD
-http://194.88.107.101:6204/live/waell/123/10411.m3u8
-#EXTINF:-1,HBO Signature
-http://194.88.107.101:6204/live/waell/123/10410.m3u8
-#EXTINF:-1,HBO US HD
-http://194.88.107.101:6204/live/waell/123/10409.m3u8
-#EXTINF:-1,HBO ZONE HD
-http://194.88.107.101:6204/live/waell/123/10408.m3u8
-#EXTINF:-1,Animal Planet HD
-http://194.88.107.101:6204/live/waell/123/10439.m3u8
-#EXTINF:-1,BET HD
-http://194.88.107.101:6204/live/waell/123/10645.m3u8
-#EXTINF:-1,Bravo HD
-http://194.88.107.101:6204/live/waell/123/10435.m3u8
-#EXTINF:-1,CINEMAX HD
-http://194.88.107.101:6204/live/waell/123/10431.m3u8
-#EXTINF:-1,DISCOVERY FAMILY
-http://194.88.107.101:6204/live/waell/123/10423.m3u8
-#EXTINF:-1,Discovery Investigation
-http://194.88.107.101:6204/live/waell/123/10422.m3u8
-#EXTINF:-1,Fox sport 1 HD
-http://194.88.107.101:6204/live/waell/123/10416.m3u8
-#EXTINF:-1,Fox sport 2 HD
-http://194.88.107.101:6204/live/waell/123/10415.m3u8
-#EXTINF:-1,FX HD
-http://194.88.107.101:6204/live/waell/123/10414.m3u8
-#EXTINF:-1,GSN HD
-http://194.88.107.101:6204/live/waell/123/10412.m3u8
-#EXTINF:-1,HGTV HD
-http://194.88.107.101:6204/live/waell/123/10407.m3u8
-#EXTINF:-1,History
-http://194.88.107.101:6204/live/waell/123/10406.m3u8
-#EXTINF:-1,Life Time HD
-http://194.88.107.101:6204/live/waell/123/10404.m3u8
-#EXTINF:-1,NBA HD
-http://194.88.107.101:6204/live/waell/123/10400.m3u8
-#EXTINF:-1,NBC EAST HD
-http://194.88.107.101:6204/live/waell/123/10399.m3u8
-#EXTINF:-1,NBCSN HD
-http://194.88.107.101:6204/live/waell/123/10398.m3u8
-#EXTINF:-1,NEWS 12
-http://194.88.107.101:6204/live/waell/123/10643.m3u8
-#EXTINF:-1,OWN HD
-http://194.88.107.101:6204/live/waell/123/10395.m3u8
-#EXTINF:-1,SHOWTIME FAMILY ZONE
-http://194.88.107.101:6204/live/waell/123/10393.m3u8
-#EXTINF:-1,SLICE HD
-http://194.88.107.101:6204/live/waell/123/10392.m3u8
-#EXTINF:-1,Syfy HD
-http://194.88.107.101:6204/live/waell/123/10388.m3u8
-#EXTINF:-1,STARZ KIDS & Family HD
-http://194.88.107.101:6204/live/waell/123/10389.m3u8
-#EXTINF:-1,TLC HD
-http://194.88.107.101:6204/live/waell/123/10385.m3u8
-#EXTINF:-1,TRU TV HD
-http://194.88.107.101:6204/live/waell/123/10383.m3u8
-#EXTINF:-1,TV Land HD
-http://194.88.107.101:6204/live/waell/123/10382.m3u8
-#EXTINF:-1,Viceland TV
-http://194.88.107.101:6204/live/waell/123/10379.m3u8
-#EXTINF:-1,WE HD
-http://194.88.107.101:6204/live/waell/123/10378.m3u8
-#EXTINF:-1,Weather channel
-http://194.88.107.101:6204/live/waell/123/10377.m3u8
-#EXTINF:-1,WWE HD
-http://194.88.107.101:6204/live/waell/123/10376.m3u8
+#EXTINF:0,A&E
+http://fullpremiumvip.com:8000/edmur17/edmur17/14099
+#EXTINF:0,ABC NY
+http://fullpremiumvip.com:8000/edmur17/edmur17/14063
+#EXTINF:0,Action Max
+http://fullpremiumvip.com:8000/edmur17/edmur17/13998
+#EXTINF:0,AFN Movie
+http://fullpremiumvip.com:8000/edmur17/edmur17/14069
+#EXTINF:0,AFN News
+http://fullpremiumvip.com:8000/edmur17/edmur17/14068
+#EXTINF:0,AFN Prime Atlantic
+http://fullpremiumvip.com:8000/edmur17/edmur17/14072
+#EXTINF:0,AFN Prime Pacific
+http://fullpremiumvip.com:8000/edmur17/edmur17/14071
+#EXTINF:0,AFN Pulse
+http://fullpremiumvip.com:8000/edmur17/edmur17/14070
+#EXTINF:0,AFN Spectrum
+http://fullpremiumvip.com:8000/edmur17/edmur17/14067
+#EXTINF:0,AFN Sports
+http://fullpremiumvip.com:8000/edmur17/edmur17/14066
+#EXTINF:0,AFN Sports 2
+http://fullpremiumvip.com:8000/edmur17/edmur17/14065
+#EXTINF:0,AMC
+http://fullpremiumvip.com:8000/edmur17/edmur17/14098
+#EXTINF:0,AMG TV
+http://fullpremiumvip.com:8000/edmur17/edmur17/14037
+#EXTINF:0,Animal Planet
+http://fullpremiumvip.com:8000/edmur17/edmur17/14007
+#EXTINF:0,Bet Her
+http://fullpremiumvip.com:8000/edmur17/edmur17/14097
+#EXTINF:0,Bloomberg
+http://fullpremiumvip.com:8000/edmur17/edmur17/14080
+#EXTINF:0,Bravo
+http://fullpremiumvip.com:8000/edmur17/edmur17/14018
+#EXTINF:0,BTN Sport
+http://fullpremiumvip.com:8000/edmur17/edmur17/14019
+#EXTINF:0,BTN
+http://fullpremiumvip.com:8000/edmur17/edmur17/14047
+#EXTINF:0,Cartoon Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/14021
+#EXTINF:0,CBS
+http://fullpremiumvip.com:8000/edmur17/edmur17/14020
+#EXTINF:0,CBS Sports Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/14079
+#EXTINF:0,Cinemax West
+http://fullpremiumvip.com:8000/edmur17/edmur17/14051
+#EXTINF:0,Cinemax 5 Starmax
+http://fullpremiumvip.com:8000/edmur17/edmur17/14048
+#EXTINF:0,Cinemax East
+http://fullpremiumvip.com:8000/edmur17/edmur17/14049
+#EXTINF:0,Cinemax Moremax
+http://fullpremiumvip.com:8000/edmur17/edmur17/14050
+#EXTINF:0,CNBC
+http://fullpremiumvip.com:8000/edmur17/edmur17/14096
+#EXTINF:0,CNN
+http://fullpremiumvip.com:8000/edmur17/edmur17/14055
+#EXTINF:0,Comedy Central
+http://fullpremiumvip.com:8000/edmur17/edmur17/14017
+#EXTINF:0,Crime and Investigation
+http://fullpremiumvip.com:8000/edmur17/edmur17/14014
+#EXTINF:0,CW
+http://fullpremiumvip.com:8000/edmur17/edmur17/14095
+#EXTINF:0,Discovery
+http://fullpremiumvip.com:8000/edmur17/edmur17/14056
+#EXTINF:0,Discovery Science
+http://fullpremiumvip.com:8000/edmur17/edmur17/14022
+#EXTINF:0,Discovery Velocity
+http://fullpremiumvip.com:8000/edmur17/edmur17/14012
+#EXTINF:0,Disney Channel
+http://fullpremiumvip.com:8000/edmur17/edmur17/13982
+#EXTINF:0,DIY Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/13981
+#EXTINF:0,El Rey Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/13980
+#EXTINF:0,ESPN
+http://fullpremiumvip.com:8000/edmur17/edmur17/14077
+#EXTINF:0,ESPN 2
+http://fullpremiumvip.com:8000/edmur17/edmur17/14076
+#EXTINF:0,ESPN News
+http://fullpremiumvip.com:8000/edmur17/edmur17/14075
+#EXTINF:0,ESPN U
+http://fullpremiumvip.com:8000/edmur17/edmur17/14073
+#EXTINF:0,Fight Box
+http://fullpremiumvip.com:8000/edmur17/edmur17/13983
+#EXTINF:0,Food Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/14089
+#EXTINF:0,FOX Atlanta
+http://fullpremiumvip.com:8000/edmur17/edmur17/14088
+#EXTINF:0,Fox News
+http://fullpremiumvip.com:8000/edmur17/edmur17/14083
+#EXTINF:0,Fox Sports 1
+http://fullpremiumvip.com:8000/edmur17/edmur17/14087
+#EXTINF:0,Fox Sports 2
+http://fullpremiumvip.com:8000/edmur17/edmur17/14086
+#EXTINF:0,Fox Sports 506
+http://fullpremiumvip.com:8000/edmur17/edmur17/14084
+#EXTINF:0,FreeForm
+http://fullpremiumvip.com:8000/edmur17/edmur17/14090
+#EXTINF:0,FX
+http://fullpremiumvip.com:8000/edmur17/edmur17/14082
+#EXTINF:0,FXX
+http://fullpremiumvip.com:8000/edmur17/edmur17/14081
+#EXTINF:0,USA || Galavision
+http://fullpremiumvip.com:8000/edmur17/edmur17/7655
+#EXTINF:0,Hallmark
+http://fullpremiumvip.com:8000/edmur17/edmur17/14023
+#EXTINF:0,HBO
+http://fullpremiumvip.com:8000/edmur17/edmur17/14061
+#EXTINF:0,HBO Comedy
+http://fullpremiumvip.com:8000/edmur17/edmur17/14058
+#EXTINF:0,HBO Signature
+http://fullpremiumvip.com:8000/edmur17/edmur17/14059
+#EXTINF:0,HBO Pacific
+http://fullpremiumvip.com:8000/edmur17/edmur17/14060
+#EXTINF:0,HGTV
+http://fullpremiumvip.com:8000/edmur17/edmur17/14011
+#EXTINF:0,HIFI
+http://fullpremiumvip.com:8000/edmur17/edmur17/14024
+#EXTINF:0,History
+http://fullpremiumvip.com:8000/edmur17/edmur17/14015
+#EXTINF:0,HLN
+http://fullpremiumvip.com:8000/edmur17/edmur17/14040
+#EXTINF:0,IFC
+http://fullpremiumvip.com:8000/edmur17/edmur17/13979
+#EXTINF:0,Investigation Discovery
+http://fullpremiumvip.com:8000/edmur17/edmur17/13978
+#EXTINF:0,Lifetime
+http://fullpremiumvip.com:8000/edmur17/edmur17/14025
+#EXTINF:0,MLB Live
+http://fullpremiumvip.com:8000/edmur17/edmur17/13996
+#EXTINF:0,MLB Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/13997
+#EXTINF:0,MSNBC
+http://fullpremiumvip.com:8000/edmur17/edmur17/14041
+#EXTINF:0,National Geographic
+http://fullpremiumvip.com:8000/edmur17/edmur17/14016
+#EXTINF:0,NBA TV
+http://fullpremiumvip.com:8000/edmur17/edmur17/14042
+#EXTINF:0,NBC
+http://fullpremiumvip.com:8000/edmur17/edmur17/14094
+#EXTINF:0,NBC Golf
+http://fullpremiumvip.com:8000/edmur17/edmur17/14093
+#EXTINF:0,NBC Sport Bay Area
+http://fullpremiumvip.com:8000/edmur17/edmur17/14092
+#EXTINF:0,NFL Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/14054
+#EXTINF:0,NHL Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/14005
+#EXTINF:0,Nickelodeon
+http://fullpremiumvip.com:8000/edmur17/edmur17/14009
+#EXTINF:0,Own
+http://fullpremiumvip.com:8000/edmur17/edmur17/14026
+#EXTINF:0,PAC Arizona
+http://fullpremiumvip.com:8000/edmur17/edmur17/13995
+#EXTINF:0,PAC Bay Area
+http://fullpremiumvip.com:8000/edmur17/edmur17/13994
+#EXTINF:0,PAC Los Angeles
+http://fullpremiumvip.com:8000/edmur17/edmur17/13993
+#EXTINF:0,PAC Mountain
+http://fullpremiumvip.com:8000/edmur17/edmur17/13992
+#EXTINF:0,PAC Oregon
+http://fullpremiumvip.com:8000/edmur17/edmur17/13991
+#EXTINF:0,PAC Washington
+http://fullpremiumvip.com:8000/edmur17/edmur17/13990
+#EXTINF:0,Reelz
+http://fullpremiumvip.com:8000/edmur17/edmur17/13977
+#EXTINF:0,Showcase
+http://fullpremiumvip.com:8000/edmur17/edmur17/14027
+#EXTINF:0,Showtime
+http://fullpremiumvip.com:8000/edmur17/edmur17/14064
+#EXTINF:0,Spike
+http://fullpremiumvip.com:8000/edmur17/edmur17/14028
+#EXTINF:0,Sport1
+http://fullpremiumvip.com:8000/edmur17/edmur17/14053
+#EXTINF:0,Sports Net 360
+http://fullpremiumvip.com:8000/edmur17/edmur17/14052
+#EXTINF:0,Sports Net Pacific
+http://fullpremiumvip.com:8000/edmur17/edmur17/13989
+#EXTINF:0,Sports Net West
+http://fullpremiumvip.com:8000/edmur17/edmur17/13988
+#EXTINF:0,Sportsnet One
+http://fullpremiumvip.com:8000/edmur17/edmur17/14030
+#EXTINF:0,SportsNet World
+http://fullpremiumvip.com:8000/edmur17/edmur17/14029
+#EXTINF:0,Starz Cinema
+http://fullpremiumvip.com:8000/edmur17/edmur17/14034
+#EXTINF:0,Starz Comedy
+http://fullpremiumvip.com:8000/edmur17/edmur17/14035
+#EXTINF:0,Starz East
+http://fullpremiumvip.com:8000/edmur17/edmur17/14031
+#EXTINF:0,Starz Edge
+http://fullpremiumvip.com:8000/edmur17/edmur17/14033
+#EXTINF:0,Starz Encore
+http://fullpremiumvip.com:8000/edmur17/edmur17/14032
+#EXTINF:0,Starz TV
+http://fullpremiumvip.com:8000/edmur17/edmur17/14036
+#EXTINF:0,Starz West
+http://fullpremiumvip.com:8000/edmur17/edmur17/14044
+#EXTINF:0,SyFy
+http://fullpremiumvip.com:8000/edmur17/edmur17/13985
+#EXTINF:0,TBS
+http://fullpremiumvip.com:8000/edmur17/edmur17/14045
+#EXTINF:0,USA || Telemundo 47 NY
+http://fullpremiumvip.com:8000/edmur17/edmur17/14188
+#EXTINF:0,USA || Telemundo 51
+http://fullpremiumvip.com:8000/edmur17/edmur17/7722
+#EXTINF:0,USA || Telemundo 52
+http://fullpremiumvip.com:8000/edmur17/edmur17/7711
+#EXTINF:0,USA || Telemundo Phoenix
+http://fullpremiumvip.com:8000/edmur17/edmur17/7635
+#EXTINF:0,Tennis Channel
+http://fullpremiumvip.com:8000/edmur17/edmur17/14004
+#EXTINF:0,TLC
+http://fullpremiumvip.com:8000/edmur17/edmur17/14062
+#EXTINF:0,TNT
+http://fullpremiumvip.com:8000/edmur17/edmur17/14006
+#EXTINF:0,Travel Channel
+http://fullpremiumvip.com:8000/edmur17/edmur17/14046
+#EXTINF:0,USA Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/14038
+#EXTINF:0,Viceland
+http://fullpremiumvip.com:8000/edmur17/edmur17/14010
+#EXTINF:0,YES CHANNEL
+http://fullpremiumvip.com:8000/edmur17/edmur17/20114
+#EXTINF:0,Willow Cricket
+http://fullpremiumvip.com:8000/edmur17/edmur17/13986
+#EXTINF:0,World Fashion Channel
+http://fullpremiumvip.com:8000/edmur17/edmur17/14078
+#EXTINF:0,WWE Network
+http://fullpremiumvip.com:8000/edmur17/edmur17/14057
+#EXTINF:0,USA: CBS
+http://fullpremiumvip.com:8000/edmur17/edmur17/201
+#EXTINF:0,USA: Fox Sports 1
+http://fullpremiumvip.com:8000/edmur17/edmur17/13646
+#EXTINF:0,USA: Fox Sports 2
+http://fullpremiumvip.com:8000/edmur17/edmur17/13645
+#EXTINF:0,USA: NBC Golf
+http://fullpremiumvip.com:8000/edmur17/edmur17/13643
+#EXTINF:0,USA: TBS
+http://fullpremiumvip.com:8000/edmur17/edmur17/13644
+#EXTINF:0,USA: TSN 1
+http://fullpremiumvip.com:8000/edmur17/edmur17/13651
+#EXTINF:0,USA: TSN 2
+http://fullpremiumvip.com:8000/edmur17/edmur17/13650
+#EXTINF:0,USA: TSN 3
+http://fullpremiumvip.com:8000/edmur17/edmur17/13649
+#EXTINF:0,USA: TSN 4
+http://fullpremiumvip.com:8000/edmur17/edmur17/13648
+#EXTINF:0,USA: TSN 5
+http://fullpremiumvip.com:8000/edmur17/edmur17/13647
+#EXTINF:0,360 North
+http://fullpremiumvip.com:8000/edmur17/edmur17/14100
