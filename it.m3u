@@ -1,195 +1,99 @@
 #EXTM3U
-#EXTINF:-1,Rai 1 Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4429.m3u8
-#EXTINF:-1,Rai 1 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21435.m3u8
-#EXTINF:-1,Rai 1 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21597.m3u8
-#EXTINF:-1,Rai 2 Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4428.m3u8
-#EXTINF:-1,Rai 2 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21434.m3u8
-#EXTINF:-1,Rai 2 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21596.m3u8
-#EXTINF:-1,Rai 3 Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4427.m3u8
-#EXTINF:-1,Rai 3 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21433.m3u8
-#EXTINF:-1,Rai 3 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21595.m3u8
-#EXTINF:-1,Rete 4 Full-HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21669.m3u8
-#EXTINF:-1,Rete 4 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4422.m3u8
-#EXTINF:-1,Rete 4 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21594.m3u8
-#EXTINF:-1,Canale 5 Full-HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21710.m3u8
-#EXTINF:-1,Canale 5 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4471.m3u8
-#EXTINF:-1,Canale 5 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21600.m3u8
-#EXTINF:-1,Italia 1 Full-HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21688.m3u8
-#EXTINF:-1,Italia 1 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4464.m3u8
-#EXTINF:-1,Italia 1 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21599.m3u8
-#EXTINF:-1,La 7 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4463.m3u8
-#EXTINF:-1,Tv 8
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4460.m3u8
-#EXTINF:-1,Nove HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17661.m3u8
-#EXTINF:-1,RSI La1 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4421.m3u8
-#EXTINF:-1,RSI La2 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4420.m3u8
-#EXTINF:-1,SKY Cinema Uno  24 Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26166.m3u8
-#EXTINF:-1,SKY Cinema Uno  24 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26165.m3u8
-#EXTINF:-1,SKY Cinema Uno  24 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26164.m3u8
-#EXTINF:-1,Sky Cinema +1 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17660.m3u8
-#EXTINF:-1,Sky Cinema +24 Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21408.m3u8
-#EXTINF:-1,Sky Cinema +24 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17375.m3u8
-#EXTINF:-1,Sky Cinema +24 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21407.m3u8
-#EXTINF:-1,Sky Cinema 1 Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21406.m3u8
+#EXTINF:-1,RAI 1 HD
+http://194.88.107.101:6204/live/waell/123/9447.m3u8
+#EXTINF:-1,RAI 2 HD
+http://194.88.107.101:6204/live/waell/123/9446.m3u8
+#EXTINF:-1,RAI 3 HD
+http://194.88.107.101:6204/live/waell/123/9445.m3u8
+#EXTINF:-1,RAI 4 HD
+http://194.88.107.101:6204/live/waell/123/9444.m3u8
+#EXTINF:-1,RAI 5
+http://194.88.107.101:6204/live/waell/123/9443.m3u8
+#EXTINF:-1,Rai News 24
+http://194.88.107.101:6204/live/waell/123/9442.m3u8
 #EXTINF:-1,Sky Cinema 1 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4413.m3u8
-#EXTINF:-1,Sky Cinema 1 SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21405.m3u8
-#EXTINF:-1,SKY Cinema Due   24 Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26163.m3u8
-#EXTINF:-1,SKY Cinema Due   24 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26162.m3u8
-#EXTINF:-1,SKY Cinema Due Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26158.m3u8
-#EXTINF:-1,SKY Cinema Due HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26157.m3u8
-#EXTINF:-1,SKY Cinema Due SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26156.m3u8
-#EXTINF:-1,SKY Cinema Action Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26161.m3u8
-#EXTINF:-1,SKY Cinema Action HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26160.m3u8
-#EXTINF:-1,SKY Cinema Action SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26159.m3u8
-#EXTINF:-1,SKY Cinema Collection Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26155.m3u8
-#EXTINF:-1,SKY Cinema Collection HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26154.m3u8
-#EXTINF:-1,SKY Cinema Collection SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26153.m3u8
-#EXTINF:-1,SKY Cinema Drama Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26168.m3u8
-#EXTINF:-1,SKY Cinema Drama HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26167.m3u8
-#EXTINF:-1,SKY Cinema Romance Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26171.m3u8
-#EXTINF:-1,SKY Cinema Romance HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26170.m3u8
-#EXTINF:-1,SKY Cinema Romance SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26169.m3u8
-#EXTINF:-1,SKY CINEMA Suspense FULL HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21666.m3u8
-#EXTINF:-1,Sky Cinema Suspense HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21665.m3u8
-#EXTINF:-1,SKY Cinema Suspense SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/26172.m3u8
-#EXTINF:-1,Sky Cinema Classic HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17653.m3u8
-#EXTINF:-1,Sky Cinema Classic SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21404.m3u8
-#EXTINF:-1,Sky Cinema Comedy Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21403.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17656.m3u8
-#EXTINF:-1,Sky Cinema CULT FULL HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21339.m3u8
-#EXTINF:-1,Sky Cinema Comedy SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21402.m3u8
-#EXTINF:-1,Sky Cinema Cult HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17654.m3u8
-#EXTINF:-1,Sky Cinema Cult SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21401.m3u8
-#EXTINF:-1,Sky Cinema Family Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21400.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17659.m3u8
-#EXTINF:-1,Sky Cinema Family SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21399.m3u8
-#EXTINF:-1,Sky Cinema Hits Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21398.m3u8
+http://194.88.107.101:6204/live/waell/123/9434.m3u8
+#EXTINF:-1,Sky Cinema  24 HD
+http://194.88.107.101:6204/live/waell/123/9435.m3u8
 #EXTINF:-1,Sky Cinema Hits HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17376.m3u8
-#EXTINF:-1,Sky Cinema Hits SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21397.m3u8
-#EXTINF:-1,SKY CINEMA MAX FULL HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21668.m3u8
+http://194.88.107.101:6204/live/waell/123/9428.m3u8
 #EXTINF:-1,Sky Cinema Max HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17377.m3u8
-#EXTINF:-1,Sky Cinema Max SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21393.m3u8
-#EXTINF:-1,SKY CINEMA PASSION FULL HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21667.m3u8
-#EXTINF:-1,Sky Cinema Passion HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17657.m3u8
-#EXTINF:-1,Sky Cinema Passion SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21392.m3u8
-#EXTINF:-1,Cine Sony
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21707.m3u8
-#EXTINF:-1,Iris SD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4465.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/8493.m3u8
-#EXTINF:-1,Premium 20 FULL HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21340.m3u8
-#EXTINF:-1,Premium Action  +24
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4458.m3u8
-#EXTINF:-1,Premium Action Full-HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21677.m3u8
+http://194.88.107.101:6204/live/waell/123/9427.m3u8
+#EXTINF:-1,Sky Cinema Cult HD
+http://194.88.107.101:6204/live/waell/123/9430.m3u8
+#EXTINF:-1,Sky Cinema Atlantic HD
+http://194.88.107.101:6204/live/waell/123/9433.m3u8
+#EXTINF:-1,Sky Cinema Classic HD
+http://194.88.107.101:6204/live/waell/123/9432.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://194.88.107.101:6204/live/waell/123/9431.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://194.88.107.101:6204/live/waell/123/9429.m3u8
+#EXTINF:-1,SKY Cinema Passion HD
+http://194.88.107.101:6204/live/waell/123/9426.m3u8
 #EXTINF:-1,Premium Action HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4457.m3u8
-#EXTINF:-1,Premium Cinema +24 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4446.m3u8
-#EXTINF:-1,Premium Cinema 2  +24
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4445.m3u8
-#EXTINF:-1,Premium Cinema 2 HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4444.m3u8
-#EXTINF:-1,Premium Cinema Comedy Full-HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21675.m3u8
-#EXTINF:-1,Premium Cinema Comedy HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4443.m3u8
-#EXTINF:-1,Premium Cinema Emotion
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4434.m3u8
-#EXTINF:-1,Premium Cinema Enegy +24
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/17869.m3u8
-#EXTINF:-1,Premium Cinema Energy Full-HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21674.m3u8
-#EXTINF:-1,Premium Cinema Energy HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4442.m3u8
-#EXTINF:-1,Premium Cinema Full-HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21673.m3u8
+http://194.88.107.101:6204/live/waell/123/9459.m3u8
+#EXTINF:-1,Premium Cinema Energy
+http://194.88.107.101:6204/live/waell/123/9456.m3u8
 #EXTINF:-1,Premium Cinema HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4441.m3u8
-#EXTINF:-1,Premium Emotion Full HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21671.m3u8
-#EXTINF:-1,Premium Joy HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4432.m3u8
-#EXTINF:-1,Premium Joy plus 24
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21324.m3u8
+http://194.88.107.101:6204/live/waell/123/9455.m3u8
+#EXTINF:-1,Premium Crime HD
+http://194.88.107.101:6204/live/waell/123/9454.m3u8
+#EXTINF:-1,Premium Emotion HD
+http://194.88.107.101:6204/live/waell/123/9453.m3u8
 #EXTINF:-1,Premium Stories HD
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4430.m3u8
-#EXTINF:-1,Premium Stories plus 24
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/21321.m3u8
-#EXTINF:-1,Rai Movie
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4425.m3u8
-#EXTINF:-1,Studio Universal
-http://tv.iptvsensation.org:6500/live/bOnF0iIF8B/oZh7QEuIjd/4349.m3u8
+http://194.88.107.101:6204/live/waell/123/9448.m3u8
+#EXTINF:-1,Fox Crime HD
+http://194.88.107.101:6204/live/waell/123/9462.m3u8
+#EXTINF:-1,Fox HD
+http://194.88.107.101:6204/live/waell/123/9461.m3u8
+#EXTINF:-1,Fox Life HD
+http://194.88.107.101:6204/live/waell/123/9460.m3u8
+#EXTINF:-1,Sky Uno HD
+http://194.88.107.101:6204/live/waell/123/9417.m3u8
+#EXTINF:-1,Sky Sport MotoGP HD
+http://194.88.107.101:6204/live/waell/123/9420.m3u8
+#EXTINF:-1,Sky Calcio 1 HD
+http://194.88.107.101:6204/live/waell/123/9439.m3u8
+#EXTINF:-1,Sky Calcio 2 HD
+http://194.88.107.101:6204/live/waell/123/9438.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://194.88.107.101:6204/live/waell/123/9437.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://194.88.107.101:6204/live/waell/123/9436.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://194.88.107.101:6204/live/waell/123/9421.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://194.88.107.101:6204/live/waell/123/9425.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://194.88.107.101:6204/live/waell/123/9424.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://194.88.107.101:6204/live/waell/123/9422.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://194.88.107.101:6204/live/waell/123/9423.m3u8
+#EXTINF:-1,Eurosport
+http://194.88.107.101:6204/live/waell/123/9464.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://194.88.107.101:6204/live/waell/123/9463.m3u8
+#EXTINF:-1,Premium Calcio
+http://194.88.107.101:6204/live/waell/123/9458.m3u8
+#EXTINF:-1,Premium Calcio 2 HD
+http://194.88.107.101:6204/live/waell/123/9457.m3u8
+#EXTINF:-1,Premium Fox Sport HD
+http://194.88.107.101:6204/live/waell/123/9452.m3u8
+#EXTINF:-1,Premium Sport 2
+http://194.88.107.101:6204/live/waell/123/9451.m3u8
+#EXTINF:-1,Premium Sport HD
+http://194.88.107.101:6204/live/waell/123/9450.m3u8
+#EXTINF:-1,Premium Sport HD 2
+http://194.88.107.101:6204/live/waell/123/9449.m3u8
+#EXTINF:-1,Rai Sports 1
+http://194.88.107.101:6204/live/waell/123/9441.m3u8
+#EXTINF:-1,Rai Sports 2
+http://194.88.107.101:6204/live/waell/123/9440.m3u8
+#EXTINF:-1,Sky Supercalcio
+http://194.88.107.101:6204/live/waell/123/9419.m3u8
+#EXTINF:-1,Sky Supertennis
+http://194.88.107.101:6204/live/waell/123/9418.m3u8
+#EXTINF:-1,Sport Italia
+http://194.88.107.101:6204/live/waell/123/9416.m3u8

@@ -1,115 +1,85 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://212.8.248.71:8000/live/aprile/aprile123/18239.m3u8
-#EXTINF:-1,ACASA TV
-http://212.8.248.71:8000/live/aprile/aprile123/18238.m3u8
-#EXTINF:-1,AMC
-http://212.8.248.71:8000/live/aprile/aprile123/18237.m3u8
-#EXTINF:-1,Animal Planet
-http://212.8.248.71:8000/live/aprile/aprile123/18236.m3u8
 #EXTINF:-1,Antena 1
-http://212.8.248.71:8000/live/aprile/aprile123/18235.m3u8
-#EXTINF:-1,Boomerang
-http://212.8.248.71:8000/live/aprile/aprile123/18234.m3u8
-#EXTINF:-1,Canal D HD
-http://212.8.248.71:8000/live/aprile/aprile123/18233.m3u8
-#EXTINF:-1,Cartoon Network
-http://212.8.248.71:8000/live/aprile/aprile123/18232.m3u8
-#EXTINF:-1,Cinemax 2
-http://212.8.248.71:8000/live/aprile/aprile123/18231.m3u8
-#EXTINF:-1,Cinemax HD RO
-http://212.8.248.71:8000/live/aprile/aprile123/18230.m3u8
-#EXTINF:-1,Cinemax/Megamax RO
-http://212.8.248.71:8000/live/aprile/aprile123/18229.m3u8
-#EXTINF:-1,Crime & Investigation
-http://212.8.248.71:8000/live/aprile/aprile123/18228.m3u8
-#EXTINF:-1,DIBI TV (Music) Balkan
-http://212.8.248.71:8000/live/aprile/aprile123/18227.m3u8
+http://194.88.107.101:6204/live/waell/123/9055.m3u8
+#EXTINF:-1,Antena 3
+http://194.88.107.101:6204/live/waell/123/9054.m3u8
+#EXTINF:-1,Antena Stars
+http://194.88.107.101:6204/live/waell/123/9053.m3u8
+#EXTINF:-1,Kanal D
+http://194.88.107.101:6204/live/waell/123/9044.m3u8
+#EXTINF:-1,Acasa TV
+http://194.88.107.101:6204/live/waell/123/5904.m3u8
+#EXTINF:-1,Acasa Gold
+http://194.88.107.101:6204/live/waell/123/9056.m3u8
+#EXTINF:-1,B1 TV
+http://194.88.107.101:6204/live/waell/123/5798.m3u8
+#EXTINF:-1,Romania TV
+http://194.88.107.101:6204/live/waell/123/9033.m3u8
+#EXTINF:-1,Prima TV
+http://194.88.107.101:6204/live/waell/123/9038.m3u8
+#EXTINF:-1,Pro TV
+http://194.88.107.101:6204/live/waell/123/9036.m3u8
+#EXTINF:-1,Pro TV International
+http://194.88.107.101:6204/live/waell/123/9035.m3u8
+#EXTINF:-1,Realitatea TV
+http://194.88.107.101:6204/live/waell/123/9034.m3u8
+#EXTINF:-1,Na?ional TV
+http://194.88.107.101:6204/live/waell/123/9041.m3u8
+#EXTINF:-1,CBS Reality
+http://194.88.107.101:6204/live/waell/123/9051.m3u8
 #EXTINF:-1,Digi 24
-http://212.8.248.71:8000/live/aprile/aprile123/18226.m3u8
-#EXTINF:-1,DIGI 24 Craiova
-http://212.8.248.71:8000/live/aprile/aprile123/18225.m3u8
-#EXTINF:-1,DIGI 24 Galati
-http://212.8.248.71:8000/live/aprile/aprile123/18224.m3u8
-#EXTINF:-1,Digi Animal World
-http://212.8.248.71:8000/live/aprile/aprile123/18223.m3u8
-#EXTINF:-1,Digi Film
-http://212.8.248.71:8000/live/aprile/aprile123/18222.m3u8
-#EXTINF:-1,Digi Life
-http://212.8.248.71:8000/live/aprile/aprile123/18221.m3u8
-#EXTINF:-1,DIGI Sport 1
-http://212.8.248.71:8000/live/aprile/aprile123/18220.m3u8
-#EXTINF:-1,DIGI Sport 2
-http://212.8.248.71:8000/live/aprile/aprile123/18219.m3u8
-#EXTINF:-1,DIGI Sport 3
-http://212.8.248.71:8000/live/aprile/aprile123/18218.m3u8
-#EXTINF:-1,Digi Sport 4
-http://212.8.248.71:8000/live/aprile/aprile123/18217.m3u8
-#EXTINF:-1,DIGI SPORTS 1
-http://212.8.248.71:8000/live/aprile/aprile123/18216.m3u8
-#EXTINF:-1,DIGI SPORTS 2
-http://212.8.248.71:8000/live/aprile/aprile123/18215.m3u8
-#EXTINF:-1,DIGI SPORTS 3
-http://212.8.248.71:8000/live/aprile/aprile123/18214.m3u8
-#EXTINF:-1,DIGI SPORTS 4
-http://212.8.248.71:8000/live/aprile/aprile123/18213.m3u8
-#EXTINF:-1,Digi World
-http://212.8.248.71:8000/live/aprile/aprile123/18212.m3u8
-#EXTINF:-1,Discovery channel
-http://212.8.248.71:8000/live/aprile/aprile123/18211.m3u8
-#EXTINF:-1,Discovery science
-http://212.8.248.71:8000/live/aprile/aprile123/18210.m3u8
-#EXTINF:-1,Disney Channel
-http://212.8.248.71:8000/live/aprile/aprile123/18209.m3u8
-#EXTINF:-1,Disney Junior
-http://212.8.248.71:8000/live/aprile/aprile123/18208.m3u8
+http://194.88.107.101:6204/live/waell/123/9050.m3u8
+#EXTINF:-1,HBO
+http://194.88.107.101:6204/live/waell/123/9045.m3u8
+#EXTINF:-1,Kiss TV
+http://194.88.107.101:6204/live/waell/123/9043.m3u8
+#EXTINF:-1,Taraf TV
+http://194.88.107.101:6204/live/waell/123/9032.m3u8
+#EXTINF:-1,1 Music Channel
+http://194.88.107.101:6204/live/waell/123/9057.m3u8
+#EXTINF:-1,National Geographic Wild
+http://194.88.107.101:6204/live/waell/123/9039.m3u8
 #EXTINF:-1,Dolce Sport 1 HD
-http://212.8.248.71:8000/live/aprile/aprile123/18207.m3u8
-#EXTINF:-1,DOLCE SPORT2 HD
-http://212.8.248.71:8000/live/aprile/aprile123/18206.m3u8
-#EXTINF:-1,ETNO TV HD
-http://212.8.248.71:8000/live/aprile/aprile123/18205.m3u8
-#EXTINF:-1,Eurosport
-http://212.8.248.71:8000/live/aprile/aprile123/18204.m3u8
-#EXTINF:-1,Eurosport 1 HD RO
-http://212.8.248.71:8000/live/aprile/aprile123/18203.m3u8
-#EXTINF:-1,Eurosport 2
-http://212.8.248.71:8000/live/aprile/aprile123/18202.m3u8
-#EXTINF:-1,Happy Channel
-http://212.8.248.71:8000/live/aprile/aprile123/18201.m3u8
-#EXTINF:-1,HBO 2
-http://212.8.248.71:8000/live/aprile/aprile123/18200.m3u8
-#EXTINF:-1,HBO 3
-http://212.8.248.71:8000/live/aprile/aprile123/18199.m3u8
-#EXTINF:-1,HBO Romania
-http://212.8.248.71:8000/live/aprile/aprile123/18198.m3u8
-#EXTINF:-1,History Channel
-http://212.8.248.71:8000/live/aprile/aprile123/18197.m3u8
-#EXTINF:-1,MTV
-http://212.8.248.71:8000/live/aprile/aprile123/18196.m3u8
-#EXTINF:-1,MUSIC HITS '17 (music only -  numai muzica)
-http://212.8.248.71:8000/live/aprile/aprile123/18195.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://212.8.248.71:8000/live/aprile/aprile123/18194.m3u8
-#EXTINF:-1,National 24
-http://212.8.248.71:8000/live/aprile/aprile123/18193.m3u8
-#EXTINF:-1,National Geographic
-http://212.8.248.71:8000/live/aprile/aprile123/18192.m3u8
-#EXTINF:-1,National TV
-http://212.8.248.71:8000/live/aprile/aprile123/18191.m3u8
-#EXTINF:-1,Nickelodeon
-http://212.8.248.71:8000/live/aprile/aprile123/18190.m3u8
-#EXTINF:-1,PRO CINEMA
-http://212.8.248.71:8000/live/aprile/aprile123/18189.m3u8
-#EXTINF:-1,PRO TV HD
-http://212.8.248.71:8000/live/aprile/aprile123/18188.m3u8
-#EXTINF:-1,Romania Tv
-http://212.8.248.71:8000/live/aprile/aprile123/18187.m3u8
-#EXTINF:-1,Sport RO
-http://212.8.248.71:8000/live/aprile/aprile123/18186.m3u8
-#EXTINF:-1,TV 1000 HD
-http://212.8.248.71:8000/live/aprile/aprile123/18185.m3u8
-#EXTINF:-1,Viasat History
-http://212.8.248.71:8000/live/aprile/aprile123/18184.m3u8
-#EXTINF:-1,Viasat Nature
-http://212.8.248.71:8000/live/aprile/aprile123/18183.m3u8
+http://194.88.107.101:6204/live/waell/123/9049.m3u8
+#EXTINF:-1,Dolce Sport 2 HD
+http://194.88.107.101:6204/live/waell/123/9048.m3u8
+#EXTINF:-1,1 HD
+http://194.88.107.101:6204/live/waell/123/16254.m3u8
+#EXTINF:-1,Bucuresti TV
+http://194.88.107.101:6204/live/waell/123/16253.m3u8
+#EXTINF:-1,Columnta TV
+http://194.88.107.101:6204/live/waell/123/16252.m3u8
+#EXTINF:-1,DIASPORA TV
+http://194.88.107.101:6204/live/waell/123/16251.m3u8
+#EXTINF:-1,DIBI TV HD
+http://194.88.107.101:6204/live/waell/123/16250.m3u8
+#EXTINF:-1,ETNIC TV
+http://194.88.107.101:6204/live/waell/123/16249.m3u8
+#EXTINF:-1,ETNO TV
+http://194.88.107.101:6204/live/waell/123/16248.m3u8
+#EXTINF:-1,MIORITA TV
+http://194.88.107.101:6204/live/waell/123/16247.m3u8
+#EXTINF:-1,Pro TV backup
+http://194.88.107.101:6204/live/waell/123/16246.m3u8
+#EXTINF:-1,Romania TV backup
+http://194.88.107.101:6204/live/waell/123/16245.m3u8
+#EXTINF:-1,TEZAUR TV
+http://194.88.107.101:6204/live/waell/123/16244.m3u8
+#EXTINF:-1,Traditii TV
+http://194.88.107.101:6204/live/waell/123/16243.m3u8
+#EXTINF:-1,Travel Mix
+http://194.88.107.101:6204/live/waell/123/16242.m3u8
+#EXTINF:-1,TV H
+http://194.88.107.101:6204/live/waell/123/16241.m3u8
+#EXTINF:-1,TVR HD
+http://194.88.107.101:6204/live/waell/123/16240.m3u8
+#EXTINF:-1,TVR1 HD
+http://194.88.107.101:6204/live/waell/123/16239.m3u8
+#EXTINF:-1,TVR2 HD
+http://194.88.107.101:6204/live/waell/123/16238.m3u8
+#EXTINF:-1,TVR3 HD
+http://194.88.107.101:6204/live/waell/123/16237.m3u8
+#EXTINF:-1,UTV
+http://194.88.107.101:6204/live/waell/123/16236.m3u8
+#EXTINF:-1,VPTV
+http://194.88.107.101:6204/live/waell/123/16235.m3u8
