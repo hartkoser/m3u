@@ -1,289 +1,55 @@
 #EXTM3U
-#EXTINF:-1,OMROEP Fryslân Televisie [VIP]
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/141808.m3u8
-#EXTINF:-1,100%NL
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198195.m3u8
-#EXTINF:-1,192TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74953.m3u8
-#EXTINF:-1,24 Kitchen
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160206.m3u8
-#EXTINF:-1,538 TV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196613.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158131.m3u8
-#EXTINF:-1,AT5
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133206.m3u8
-#EXTINF:-1,BABY TV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157767.m3u8
-#EXTINF:-1,Boomerang HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158132.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157768.m3u8
-#EXTINF:-1,CAZ
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/130795.m3u8
-#EXTINF:-1,Comedy Central Extra
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75003.m3u8
-#EXTINF:-1,Comedy Central Family
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75004.m3u8
-#EXTINF:-1,Comedy Central HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74960.m3u8
-#EXTINF:-1,Crime & Investigation HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75005.m3u8
-#EXTINF:-1,Den Haag TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160211.m3u8
-#EXTINF:-1,deventerrtv
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196615.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74961.m3u8
-#EXTINF:-1,Discovery ID FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74971.m3u8
-#EXTINF:-1,Discovery Science FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93824.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175816.m3u8
-#EXTINF:-1,Discovery World HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93823.m3u8
-#EXTINF:-1,Disney Channel
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75008.m3u8
-#EXTINF:-1,Disney Junior
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/157769.m3u8
-#EXTINF:-1,Disney XD HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/115845.m3u8
-#EXTINF:-1,Djazz TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160213.m3u8
-#EXTINF:-1,DUCK TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/130798.m3u8
-#EXTINF:-1,E! HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89194.m3u8
-#EXTINF:-1,EDGE Sport TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/130799.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139514.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74964.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158140.m3u8
-#EXTINF:-1,Extreme Sports Channel
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/64236.m3u8
-#EXTINF:-1,FASHION TV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/97324.m3u8
-#EXTINF:-1,Film 1 SPOTLIGHT
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133807.m3u8
-#EXTINF:-1,Film Action HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133163.m3u8
-#EXTINF:-1,Film Action VIASAT
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/87642.m3u8
-#EXTINF:-1,Film Drama HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75011.m3u8
-#EXTINF:-1,Film Europe HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/113757.m3u8
-#EXTINF:-1,Film Family HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196609.m3u8
-#EXTINF:-1,Film Premiere FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/87645.m3u8
-#EXTINF:-1,Film1 Family FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74966.m3u8
-#EXTINF:-1,Fine Living HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/127860.m3u8
-#EXTINF:-1,Food Network FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/103196.m3u8
-#EXTINF:-1,Fox Channel HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133145.m3u8
-#EXTINF:-1,FOX SPORT 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65203.m3u8
-#EXTINF:-1,FOX SPORT 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65202.m3u8
-#EXTINF:-1,FOX SPORT 3 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/64221.m3u8
-#EXTINF:-1,FOX SPORT 4 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65200.m3u8
-#EXTINF:-1,FOX SPORT 5 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65199.m3u8
-#EXTINF:-1,FOX SPORT 6 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133170.m3u8
-#EXTINF:-1,FOX SPORTS 1 EREDIVISIE HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/197760.m3u8
-#EXTINF:-1,FOX SPORTS 2 INTERNATIONAL
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93527.m3u8
-#EXTINF:-1,FOX SPORTS 3 EREDIVISIE
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93526.m3u8
-#EXTINF:-1,FOX SPORTS 4 INTERNATIONAL
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93525.m3u8
-#EXTINF:-1,FOX SPORTS 5 EREDIVISIE HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93524.m3u8
-#EXTINF:-1,FOX SPORTS 6 INTERNATIONAL
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/106249.m3u8
-#EXTINF:-1,FOX SPORTS EDL 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96865.m3u8
-#EXTINF:-1,FOX SPORTS EDL 3 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96866.m3u8
-#EXTINF:-1,Golf HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/64232.m3u8
-#EXTINF:-1,HBO 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/87653.m3u8
+#EXTINF:-1,13th Street NL
+http://212.8.248.71:8000/live/aprile/aprile123/18481.m3u8
+#EXTINF:-1,Extreme Sports
+http://212.8.248.71:8000/live/aprile/aprile123/18480.m3u8
+#EXTINF:-1,Film 1 Action HD
+http://212.8.248.71:8000/live/aprile/aprile123/18479.m3u8
+#EXTINF:-1,Film 1 Comedy and Kids
+http://212.8.248.71:8000/live/aprile/aprile123/18478.m3u8
+#EXTINF:-1,Film 1 Premiere HD
+http://212.8.248.71:8000/live/aprile/aprile123/18477.m3u8
+#EXTINF:-1,Fox Sport 3
+http://212.8.248.71:8000/live/aprile/aprile123/18476.m3u8
+#EXTINF:-1,Fox Sports 1
+http://212.8.248.71:8000/live/aprile/aprile123/18475.m3u8
+#EXTINF:-1,Fox Sports 2
+http://212.8.248.71:8000/live/aprile/aprile123/18474.m3u8
+#EXTINF:-1,Golf_HD
+http://212.8.248.71:8000/live/aprile/aprile123/18473.m3u8
 #EXTINF:-1,HBO 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/64224.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18472.m3u8
+#EXTINF:-1,HBO 3
+http://212.8.248.71:8000/live/aprile/aprile123/18471.m3u8
 #EXTINF:-1,HBO 3 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/64222.m3u8
-#EXTINF:-1,History Chanel HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158146.m3u8
-#EXTINF:-1,Horse & Country TV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/118931.m3u8
-#EXTINF:-1,JimJam
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/163582.m3u8
-#EXTINF:-1,Ketnet Junior
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136195.m3u8
-#EXTINF:-1,L1mburg
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93843.m3u8
-#EXTINF:-1,Mezzo
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93820.m3u8
-#EXTINF:-1,Motors TV(FUEL)
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96870.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18470.m3u8
+#EXTINF:-1,HBO HD
+http://212.8.248.71:8000/live/aprile/aprile123/18469.m3u8
 #EXTINF:-1,MTV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192756.m3u8
-#EXTINF:-1,MTV Brand New HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/97316.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93818.m3u8
-#EXTINF:-1,Mtv Music
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/137493.m3u8
-#EXTINF:-1,NAT GEO HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74978.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158148.m3u8
-#EXTINF:-1,NET 5 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133143.m3u8
-#EXTINF:-1,Nick Hits
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/135737.m3u8
-#EXTINF:-1,Nick Junior HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133198.m3u8
-#EXTINF:-1,Nick Music HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74981.m3u8
-#EXTINF:-1,Nick toons HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158917.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133199.m3u8
-#EXTINF:-1,NPO 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133133.m3u8
-#EXTINF:-1,NPO 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133134.m3u8
-#EXTINF:-1,NPO 3 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133135.m3u8
-#EXTINF:-1,NPO CULTURA
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175521.m3u8
-#EXTINF:-1,NPO EXTRA
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158151.m3u8
-#EXTINF:-1,Npo Nieuws
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136186.m3u8
-#EXTINF:-1,NPO Politiek
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158889.m3u8
-#EXTINF:-1,NPO Zapp Xtra
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/113762.m3u8
-#EXTINF:-1,OMROEP BRABANT HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196619.m3u8
-#EXTINF:-1,OMROEP Echt-Susteren HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196617.m3u8
-#EXTINF:-1,OMROEP Fryslân
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93851.m3u8
-#EXTINF:-1,OMROEP Gelderland HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74987.m3u8
-#EXTINF:-1,OMROEP West
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74999.m3u8
-#EXTINF:-1,OMROEP ZeeLand HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93850.m3u8
-#EXTINF:-1,ONS
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/139328.m3u8
-#EXTINF:-1,Pebble TV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96877.m3u8
-#EXTINF:-1,RTL 4 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133136.m3u8
-#EXTINF:-1,RTL 5 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133137.m3u8
-#EXTINF:-1,RTL 7 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133139.m3u8
-#EXTINF:-1,RTL 8 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133140.m3u8
-#EXTINF:-1,RTL Crime HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133148.m3u8
-#EXTINF:-1,RTL Lounge HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158891.m3u8
-#EXTINF:-1,RTL Telekids HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75020.m3u8
-#EXTINF:-1,RTL Z HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75009.m3u8
-#EXTINF:-1,RTV 7
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/98031.m3u8
-#EXTINF:-1,RTV Dordrecht
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/198617.m3u8
-#EXTINF:-1,RTV Drenthe HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74992.m3u8
-#EXTINF:-1,RTV Noord
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93844.m3u8
-#EXTINF:-1,RTV OOST
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89212.m3u8
-#EXTINF:-1,RTV Rijnmond
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/127927.m3u8
-#EXTINF:-1,RTV Slingeland
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/130805.m3u8
-#EXTINF:-1,RTV Utrecht
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/136239.m3u8
-#EXTINF:-1,SBS 6 FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74993.m3u8
-#EXTINF:-1,SBS 9 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/74994.m3u8
-#EXTINF:-1,Shorts TV FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75021.m3u8
-#EXTINF:-1,Spike HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133146.m3u8
-#EXTINF:-1,Sport 1 Voetbal
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93105.m3u8
-#EXTINF:-1,Sport1 Golf
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93102.m3u8
-#EXTINF:-1,Sport1 Racing
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93103.m3u8
-#EXTINF:-1,Sport1 Select
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93104.m3u8
-#EXTINF:-1,Stingray Lite TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/127886.m3u8
-#EXTINF:-1,Syfy
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75022.m3u8
-#EXTINF:-1,TLC HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133157.m3u8
-#EXTINF:-1,TRAVEL XP HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158156.m3u8
-#EXTINF:-1,TV 538
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/75023.m3u8
-#EXTINF:-1,TV Ellef HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/196623.m3u8
-#EXTINF:-1,TV Oranje
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158158.m3u8
-#EXTINF:-1,Veronica TV/DISNEY XD HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/87663.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/97331.m3u8
-#EXTINF:-1,Viceland FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/97317.m3u8
-#EXTINF:-1,XITE HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133189.m3u8
-#EXTINF:-1,ZDF HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/97319.m3u8
-#EXTINF:-1,Ziggo Docu
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/142796.m3u8
-#EXTINF:-1,Ziggo Extra 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/146540.m3u8
-#EXTINF:-1,Ziggo Select
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/111045.m3u8
-#EXTINF:-1,Ziggo Sport EXTRA 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/106528.m3u8
-#EXTINF:-1,Ziggo Sport EXTRA 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/133177.m3u8
-#EXTINF:-1,Ziggo Sport GOLF HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/111044.m3u8
-#EXTINF:-1,Ziggo Sport Racing HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65189.m3u8
-#EXTINF:-1,Ziggo Sport Select FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/126486.m3u8
-#EXTINF:-1,Ziggo Sport VOETBAL HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65193.m3u8
-#EXTINF:-1,Ziggo TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/135742.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18468.m3u8
+#EXTINF:-1,MTV Music 24 NL
+http://212.8.248.71:8000/live/aprile/aprile123/18467.m3u8
+#EXTINF:-1,National Geographic
+http://212.8.248.71:8000/live/aprile/aprile123/18466.m3u8
+#EXTINF:-1,Nick Music
+http://212.8.248.71:8000/live/aprile/aprile123/18465.m3u8
+#EXTINF:-1,NPO 1
+http://212.8.248.71:8000/live/aprile/aprile123/18464.m3u8
+#EXTINF:-1,NPO 2
+http://212.8.248.71:8000/live/aprile/aprile123/18463.m3u8
+#EXTINF:-1,NPO3
+http://212.8.248.71:8000/live/aprile/aprile123/18462.m3u8
+#EXTINF:-1,Rtl 4
+http://212.8.248.71:8000/live/aprile/aprile123/18461.m3u8
+#EXTINF:-1,RTL 5
+http://212.8.248.71:8000/live/aprile/aprile123/18460.m3u8
+#EXTINF:-1,RTL 7
+http://212.8.248.71:8000/live/aprile/aprile123/18459.m3u8
+#EXTINF:-1,RTL4_HD
+http://212.8.248.71:8000/live/aprile/aprile123/18458.m3u8
+#EXTINF:-1,RTL7 HD
+http://212.8.248.71:8000/live/aprile/aprile123/18457.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1
+http://212.8.248.71:8000/live/aprile/aprile123/18456.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2
+http://212.8.248.71:8000/live/aprile/aprile123/18455.m3u8
