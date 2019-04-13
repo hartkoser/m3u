@@ -1,591 +1,499 @@
 #EXTM3U
-#EXTINF:-1,24 KITCHEN
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65251.m3u8
-#EXTINF:-1,24 Vesti
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65252.m3u8
-#EXTINF:-1,A1 Balcan
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65250.m3u8
-#EXTINF:-1,A1 ISLAM
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65402.m3u8
-#EXTINF:-1,AL JAZEERA
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65254.m3u8
-#EXTINF:-1,Alfa
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65255.m3u8
-#EXTINF:-1,Alfa Sarajevo
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175223.m3u8
-#EXTINF:-1,Alternativa TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124463.m3u8
-#EXTINF:-1,AMC
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96070.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65392.m3u8
-#EXTINF:-1,Arena Sport 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93783.m3u8
-#EXTINF:-1,Arena Sport 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65360.m3u8
-#EXTINF:-1,Arena Sport 3 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65365.m3u8
-#EXTINF:-1,Arena Sport 4 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/93786.m3u8
-#EXTINF:-1,Arena Sport 5 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65363.m3u8
-#EXTINF:-1,Arena Sport 6 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134396.m3u8
-#EXTINF:-1,ATLAS TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89479.m3u8
-#EXTINF:-1,ATV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65253.m3u8
-#EXTINF:-1,AURORA TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155829.m3u8
-#EXTINF:-1,AXN HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65458.m3u8
-#EXTINF:-1,AXN Spin
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96072.m3u8
-#EXTINF:-1,B 92
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65409.m3u8
-#EXTINF:-1,Baby TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175251.m3u8
-#EXTINF:-1,Balkanika TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65383.m3u8
-#EXTINF:-1,Banovina TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96073.m3u8
-#EXTINF:-1,BH Live
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96075.m3u8
-#EXTINF:-1,BHT
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/168541.m3u8
-#EXTINF:-1,BHT 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65406.m3u8
-#EXTINF:-1,BN Music
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65412.m3u8
-#EXTINF:-1,BN TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175817.m3u8
-#EXTINF:-1,Bosna TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160902.m3u8
-#EXTINF:-1,Bosnatv1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192655.m3u8
-#EXTINF:-1,CINEMAX 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65462.m3u8
-#EXTINF:-1,CINEMAX 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65461.m3u8
-#EXTINF:-1,Cinemax HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65463.m3u8
-#EXTINF:-1,CINESTAR ACTION TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65459.m3u8
-#EXTINF:-1,Cinestar Fantasy HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65298.m3u8
-#EXTINF:-1,Cinestar Premier 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155841.m3u8
-#EXTINF:-1,Cinestar Premier 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155843.m3u8
-#EXTINF:-1,CINESTAR TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/78442.m3u8
-#EXTINF:-1,CMC
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65393.m3u8
-#EXTINF:-1,Comedy Central
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65261.m3u8
-#EXTINF:-1,Crime & Investigation HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65262.m3u8
-#EXTINF:-1,Da Vinci Learning
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65263.m3u8
-#EXTINF:-1,Discovery Channel
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65273.m3u8
-#EXTINF:-1,Discovery ID
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/128914.m3u8
-#EXTINF:-1,Discovery Turbo Xtra
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134403.m3u8
-#EXTINF:-1,DIVA
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155855.m3u8
-#EXTINF:-1,DM Sat
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65414.m3u8
-#EXTINF:-1,Dma TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153140.m3u8
-#EXTINF:-1,DOCUBOX
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/154022.m3u8
-#EXTINF:-1,Doma TV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65415.m3u8
-#EXTINF:-1,DUGA TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65416.m3u8
-#EXTINF:-1,E! HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65389.m3u8
-#EXTINF:-1,ERA TV MK
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65265.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65447.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65448.m3u8
-#EXTINF:-1,Face TV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65266.m3u8
-#EXTINF:-1,Federalna TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65395.m3u8
-#EXTINF:-1,Fight box
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65267.m3u8
-#EXTINF:-1,Fight Channel
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160877.m3u8
-#EXTINF:-1,FILM BOX
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65456.m3u8
-#EXTINF:-1,Film box Plus
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96083.m3u8
-#EXTINF:-1,Filmbox Extra
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160878.m3u8
-#EXTINF:-1,Fox Crime HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65468.m3u8
-#EXTINF:-1,Fox HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65471.m3u8
-#EXTINF:-1,Fox Life HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65469.m3u8
-#EXTINF:-1,Fox Movies HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65470.m3u8
-#EXTINF:-1,FTV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175225.m3u8
-#EXTINF:-1,Glas Drine
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160879.m3u8
-#EXTINF:-1,Glas Drive TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96084.m3u8
-#EXTINF:-1,GRAND 2 TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65297.m3u8
-#EXTINF:-1,Grand TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65396.m3u8
-#EXTINF:-1,Happy TV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65269.m3u8
-#EXTINF:-1,HAPPY TV PAROVI LIVE
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134409.m3u8
-#EXTINF:-1,HAYAT FOLK
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65400.m3u8
-#EXTINF:-1,Hayat HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153143.m3u8
-#EXTINF:-1,HAYAT MUSIC
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65398.m3u8
-#EXTINF:-1,Hayat ovci
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65397.m3u8
-#EXTINF:-1,HAYAT PLUS
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65399.m3u8
-#EXTINF:-1,HAYAT-TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/146031.m3u8
-#EXTINF:-1,HBO 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/184745.m3u8
-#EXTINF:-1,HBO 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65452.m3u8
-#EXTINF:-1,HBO 3 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65450.m3u8
-#EXTINF:-1,HBO Comedy
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65455.m3u8
-#EXTINF:-1,HBO HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65376.m3u8
-#EXTINF:-1,History 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65271.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65243.m3u8
-#EXTINF:-1,HIT TELEVIZIJA
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155830.m3u8
-#EXTINF:-1,HNTV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65272.m3u8
-#EXTINF:-1,HRT 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65444.m3u8
-#EXTINF:-1,HRT 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65245.m3u8
-#EXTINF:-1,HRT 3
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65246.m3u8
-#EXTINF:-1,HRT 4
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65244.m3u8
-#EXTINF:-1,HRT 5
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/117256.m3u8
-#EXTINF:-1,ID Discovery
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/126327.m3u8
-#EXTINF:-1,ID JTV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160886.m3u8
-#EXTINF:-1,IDJ TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155831.m3u8
-#EXTINF:-1,Igman TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96089.m3u8
-#EXTINF:-1,Islam Channel
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65404.m3u8
-#EXTINF:-1,Istok TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65274.m3u8
-#EXTINF:-1,Izvorna TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65275.m3u8
-#EXTINF:-1,JSC
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/181831.m3u8
-#EXTINF:-1,Jugoton TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65276.m3u8
-#EXTINF:-1,K3
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124452.m3u8
-#EXTINF:-1,Kanal 5
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65287.m3u8
-#EXTINF:-1,KANAL 5 Plus
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155889.m3u8
-#EXTINF:-1,Kanal 6
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175226.m3u8
-#EXTINF:-1,KCN 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65289.m3u8
-#EXTINF:-1,KCN 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65290.m3u8
-#EXTINF:-1,KCN 3
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65291.m3u8
-#EXTINF:-1,KINO TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192670.m3u8
+#EXTINF:-1,BALKANIKA
+http://212.8.248.71:8000/live/aprile/aprile123/19085.m3u8
 #EXTINF:-1,Klasik TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160887.m3u8
-#EXTINF:-1,Klassik TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65405.m3u8
-#EXTINF:-1,KREATOR TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192671.m3u8
-#EXTINF:-1,LOV I RIBOLOV HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65391.m3u8
-#EXTINF:-1,M1 Film
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/117259.m3u8
-#EXTINF:-1,Mini MAX
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65293.m3u8
-#EXTINF:-1,Mini Ultra TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175240.m3u8
-#EXTINF:-1,Moje Bugonjo
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175227.m3u8
-#EXTINF:-1,MRT 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65299.m3u8
-#EXTINF:-1,MRT 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153293.m3u8
-#EXTINF:-1,MTV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160890.m3u8
-#EXTINF:-1,mtv Igman
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65301.m3u8
-#EXTINF:-1,N1 Bosna
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175239.m3u8
-#EXTINF:-1,N1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65302.m3u8
-#EXTINF:-1,N1 Srbia
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/142837.m3u8
-#EXTINF:-1,NARODNI TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192673.m3u8
-#EXTINF:-1,NAT GEO
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65387.m3u8
-#EXTINF:-1,NAT GEO Wild HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65303.m3u8
-#EXTINF:-1,Nick Junior
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192674.m3u8
-#EXTINF:-1,Nickelodon
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65296.m3u8
-#EXTINF:-1,NOVA BH
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65247.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/19084.m3u8
+#EXTINF:-1,24 KITCHEN
+http://212.8.248.71:8000/live/aprile/aprile123/19083.m3u8
+#EXTINF:-1,24 Vesti (local)
+http://212.8.248.71:8000/live/aprile/aprile123/19082.m3u8
+#EXTINF:-1,A TV
+http://212.8.248.71:8000/live/aprile/aprile123/19081.m3u8
+#EXTINF:-1,A1 - BALKAN
+http://212.8.248.71:8000/live/aprile/aprile123/19080.m3u8
+#EXTINF:-1,A1 ISLAM
+http://212.8.248.71:8000/live/aprile/aprile123/19079.m3u8
+#EXTINF:-1,AL JAZEERA
+http://212.8.248.71:8000/live/aprile/aprile123/19078.m3u8
+#EXTINF:-1,Al Jazeera Balkan
+http://212.8.248.71:8000/live/aprile/aprile123/19077.m3u8
+#EXTINF:-1,Alfa (local)
+http://212.8.248.71:8000/live/aprile/aprile123/19076.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://212.8.248.71:8000/live/aprile/aprile123/19075.m3u8
+#EXTINF:-1,Arena Sport 1 HR
+http://212.8.248.71:8000/live/aprile/aprile123/19074.m3u8
+#EXTINF:-1,Arena Sport 1 SRB
+http://212.8.248.71:8000/live/aprile/aprile123/19073.m3u8
+#EXTINF:-1,ARENA SPORT 1 SRB (local)
+http://212.8.248.71:8000/live/aprile/aprile123/19072.m3u8
+#EXTINF:-1,Arena Sport 2 HR
+http://212.8.248.71:8000/live/aprile/aprile123/19071.m3u8
+#EXTINF:-1,Arena Sport 2 SRB
+http://212.8.248.71:8000/live/aprile/aprile123/19070.m3u8
+#EXTINF:-1,ARENA SPORT 2 SRB (local)
+http://212.8.248.71:8000/live/aprile/aprile123/19069.m3u8
+#EXTINF:-1,Arena Sport 3 HR
+http://212.8.248.71:8000/live/aprile/aprile123/19068.m3u8
+#EXTINF:-1,Arena Sport 3 SRB
+http://212.8.248.71:8000/live/aprile/aprile123/19067.m3u8
+#EXTINF:-1,ARENA SPORT 3 SRB (reserve)
+http://212.8.248.71:8000/live/aprile/aprile123/19066.m3u8
+#EXTINF:-1,Arena Sport 4 HR
+http://212.8.248.71:8000/live/aprile/aprile123/19065.m3u8
+#EXTINF:-1,Arena Sport 4 SRB
+http://212.8.248.71:8000/live/aprile/aprile123/19064.m3u8
+#EXTINF:-1,ARENA SPORT 4 SRB (reserve)
+http://212.8.248.71:8000/live/aprile/aprile123/19063.m3u8
+#EXTINF:-1,Arena Sport 5 HR
+http://212.8.248.71:8000/live/aprile/aprile123/19062.m3u8
+#EXTINF:-1,Arena Sport 5 SRB
+http://212.8.248.71:8000/live/aprile/aprile123/19061.m3u8
+#EXTINF:-1,ARENA SPORT 5 SRB (reserve)
+http://212.8.248.71:8000/live/aprile/aprile123/19060.m3u8
+#EXTINF:-1,ARENA SPORT 6 HR
+http://212.8.248.71:8000/live/aprile/aprile123/19059.m3u8
+#EXTINF:-1,ATLAS TV
+http://212.8.248.71:8000/live/aprile/aprile123/19058.m3u8
+#EXTINF:-1,AXN Adria
+http://212.8.248.71:8000/live/aprile/aprile123/19057.m3u8
+#EXTINF:-1,B 92
+http://212.8.248.71:8000/live/aprile/aprile123/19056.m3u8
+#EXTINF:-1,B92
+http://212.8.248.71:8000/live/aprile/aprile123/19055.m3u8
+#EXTINF:-1,B92 (local)
+http://212.8.248.71:8000/live/aprile/aprile123/19054.m3u8
+#EXTINF:-1,B92 Info
+http://212.8.248.71:8000/live/aprile/aprile123/19053.m3u8
+#EXTINF:-1,Belle Amie
+http://212.8.248.71:8000/live/aprile/aprile123/19052.m3u8
+#EXTINF:-1,BHT
+http://212.8.248.71:8000/live/aprile/aprile123/19051.m3u8
+#EXTINF:-1,BHT 1
+http://212.8.248.71:8000/live/aprile/aprile123/19050.m3u8
+#EXTINF:-1,BN
+http://212.8.248.71:8000/live/aprile/aprile123/19049.m3u8
+#EXTINF:-1,BN Music
+http://212.8.248.71:8000/live/aprile/aprile123/19048.m3u8
+#EXTINF:-1,Bosna TV 1
+http://212.8.248.71:8000/live/aprile/aprile123/19047.m3u8
+#EXTINF:-1,Cinemax HD
+http://212.8.248.71:8000/live/aprile/aprile123/19046.m3u8
+#EXTINF:-1,Cinestar Action
+http://212.8.248.71:8000/live/aprile/aprile123/19045.m3u8
+#EXTINF:-1,Cinestar Fantasy HD
+http://212.8.248.71:8000/live/aprile/aprile123/19044.m3u8
+#EXTINF:-1,Cinestar Premier 1
+http://212.8.248.71:8000/live/aprile/aprile123/19043.m3u8
+#EXTINF:-1,Cinestar Premier 2
+http://212.8.248.71:8000/live/aprile/aprile123/19042.m3u8
+#EXTINF:-1,Cinestar Premiere 1
+http://212.8.248.71:8000/live/aprile/aprile123/19041.m3u8
+#EXTINF:-1,Cinestar Premiere 2
+http://212.8.248.71:8000/live/aprile/aprile123/19040.m3u8
+#EXTINF:-1,CMC
+http://212.8.248.71:8000/live/aprile/aprile123/19039.m3u8
+#EXTINF:-1,Comedy Central
+http://212.8.248.71:8000/live/aprile/aprile123/19038.m3u8
+#EXTINF:-1,Crime & Investigation
+http://212.8.248.71:8000/live/aprile/aprile123/19037.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://212.8.248.71:8000/live/aprile/aprile123/19036.m3u8
+#EXTINF:-1,Discovery Serbia
+http://212.8.248.71:8000/live/aprile/aprile123/19035.m3u8
+#EXTINF:-1,DM Sat
+http://212.8.248.71:8000/live/aprile/aprile123/19034.m3u8
+#EXTINF:-1,Docubox
+http://212.8.248.71:8000/live/aprile/aprile123/19033.m3u8
+#EXTINF:-1,Doma TV
+http://212.8.248.71:8000/live/aprile/aprile123/19032.m3u8
+#EXTINF:-1,DOMA-TV
+http://212.8.248.71:8000/live/aprile/aprile123/19031.m3u8
+#EXTINF:-1,DUGA TV
+http://212.8.248.71:8000/live/aprile/aprile123/19030.m3u8
+#EXTINF:-1,E!
+http://212.8.248.71:8000/live/aprile/aprile123/19029.m3u8
+#EXTINF:-1,ERA TV MK
+http://212.8.248.71:8000/live/aprile/aprile123/19028.m3u8
+#EXTINF:-1,Eurosport 1
+http://212.8.248.71:8000/live/aprile/aprile123/19027.m3u8
+#EXTINF:-1,Eurosport 2
+http://212.8.248.71:8000/live/aprile/aprile123/19026.m3u8
+#EXTINF:-1,FACE TV
+http://212.8.248.71:8000/live/aprile/aprile123/19025.m3u8
+#EXTINF:-1,Federalna TV
+http://212.8.248.71:8000/live/aprile/aprile123/19024.m3u8
+#EXTINF:-1,Fightbox
+http://212.8.248.71:8000/live/aprile/aprile123/19023.m3u8
+#EXTINF:-1,FILMBOX
+http://212.8.248.71:8000/live/aprile/aprile123/19022.m3u8
+#EXTINF:-1,FilmBox Extra
+http://212.8.248.71:8000/live/aprile/aprile123/19021.m3u8
+#EXTINF:-1,FOX
+http://212.8.248.71:8000/live/aprile/aprile123/19020.m3u8
+#EXTINF:-1,Fox Crime
+http://212.8.248.71:8000/live/aprile/aprile123/19019.m3u8
+#EXTINF:-1,Fox Life
+http://212.8.248.71:8000/live/aprile/aprile123/19018.m3u8
+#EXTINF:-1,Fox Movies
+http://212.8.248.71:8000/live/aprile/aprile123/19017.m3u8
+#EXTINF:-1,GRAND 2 TV
+http://212.8.248.71:8000/live/aprile/aprile123/19016.m3u8
+#EXTINF:-1,Grand TV
+http://212.8.248.71:8000/live/aprile/aprile123/19015.m3u8
+#EXTINF:-1,Happy
+http://212.8.248.71:8000/live/aprile/aprile123/19014.m3u8
+#EXTINF:-1,Happy (local)
+http://212.8.248.71:8000/live/aprile/aprile123/19013.m3u8
+#EXTINF:-1,Hayat Folk
+http://212.8.248.71:8000/live/aprile/aprile123/19012.m3u8
+#EXTINF:-1,Hayat HD
+http://212.8.248.71:8000/live/aprile/aprile123/19011.m3u8
+#EXTINF:-1,HAYAT MUSIC
+http://212.8.248.71:8000/live/aprile/aprile123/19010.m3u8
+#EXTINF:-1,HAYAT PLUS
+http://212.8.248.71:8000/live/aprile/aprile123/19009.m3u8
+#EXTINF:-1,Hayatovci
+http://212.8.248.71:8000/live/aprile/aprile123/19008.m3u8
+#EXTINF:-1,HBO 2
+http://212.8.248.71:8000/live/aprile/aprile123/19007.m3u8
+#EXTINF:-1,HBO 2 SLO
+http://212.8.248.71:8000/live/aprile/aprile123/19006.m3u8
+#EXTINF:-1,HBO 3
+http://212.8.248.71:8000/live/aprile/aprile123/19005.m3u8
+#EXTINF:-1,HBO ADRIA
+http://212.8.248.71:8000/live/aprile/aprile123/19004.m3u8
+#EXTINF:-1,HBO Comedy
+http://212.8.248.71:8000/live/aprile/aprile123/19003.m3u8
+#EXTINF:-1,HBO HD
+http://212.8.248.71:8000/live/aprile/aprile123/19002.m3u8
+#EXTINF:-1,HBO HD 2
+http://212.8.248.71:8000/live/aprile/aprile123/19001.m3u8
+#EXTINF:-1,History 2
+http://212.8.248.71:8000/live/aprile/aprile123/19000.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://212.8.248.71:8000/live/aprile/aprile123/18999.m3u8
+#EXTINF:-1,HNTV
+http://212.8.248.71:8000/live/aprile/aprile123/18998.m3u8
+#EXTINF:-1,HRT 1
+http://212.8.248.71:8000/live/aprile/aprile123/18997.m3u8
+#EXTINF:-1,HRT 2
+http://212.8.248.71:8000/live/aprile/aprile123/18996.m3u8
+#EXTINF:-1,HRT 3
+http://212.8.248.71:8000/live/aprile/aprile123/18995.m3u8
+#EXTINF:-1,HRT 4
+http://212.8.248.71:8000/live/aprile/aprile123/18994.m3u8
+#EXTINF:-1,ID Discovery
+http://212.8.248.71:8000/live/aprile/aprile123/18993.m3u8
+#EXTINF:-1,Islam Channel
+http://212.8.248.71:8000/live/aprile/aprile123/18992.m3u8
+#EXTINF:-1,Istok TV
+http://212.8.248.71:8000/live/aprile/aprile123/18991.m3u8
+#EXTINF:-1,Izvorna TV
+http://212.8.248.71:8000/live/aprile/aprile123/18990.m3u8
+#EXTINF:-1,Jugoton TV
+http://212.8.248.71:8000/live/aprile/aprile123/18989.m3u8
+#EXTINF:-1,Kanal 5 (local) MK
+http://212.8.248.71:8000/live/aprile/aprile123/18988.m3u8
+#EXTINF:-1,KANAL 5 Plus MK
+http://212.8.248.71:8000/live/aprile/aprile123/18987.m3u8
+#EXTINF:-1,KCN 1
+http://212.8.248.71:8000/live/aprile/aprile123/18986.m3u8
+#EXTINF:-1,KCN 2
+http://212.8.248.71:8000/live/aprile/aprile123/18985.m3u8
+#EXTINF:-1,KCN 3
+http://212.8.248.71:8000/live/aprile/aprile123/18984.m3u8
+#EXTINF:-1,KLASIK TV
+http://212.8.248.71:8000/live/aprile/aprile123/18983.m3u8
+#EXTINF:-1,KSPORT NOVI FILM 1
+http://212.8.248.71:8000/live/aprile/aprile123/18982.m3u8
+#EXTINF:-1,LOV I RIBOLOV
+http://212.8.248.71:8000/live/aprile/aprile123/18981.m3u8
+#EXTINF:-1,MGM
+http://212.8.248.71:8000/live/aprile/aprile123/18980.m3u8
+#EXTINF:-1,Mim TV
+http://212.8.248.71:8000/live/aprile/aprile123/18979.m3u8
+#EXTINF:-1,Mini TV
+http://212.8.248.71:8000/live/aprile/aprile123/18978.m3u8
+#EXTINF:-1,Mini TV HR
+http://212.8.248.71:8000/live/aprile/aprile123/18977.m3u8
+#EXTINF:-1,Minimax
+http://212.8.248.71:8000/live/aprile/aprile123/18976.m3u8
+#EXTINF:-1,MRT 1 (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18975.m3u8
+#EXTINF:-1,MRTV 3 MK
+http://212.8.248.71:8000/live/aprile/aprile123/18974.m3u8
+#EXTINF:-1,MTV Adria
+http://212.8.248.71:8000/live/aprile/aprile123/18973.m3u8
+#EXTINF:-1,MTV Igman
+http://212.8.248.71:8000/live/aprile/aprile123/18972.m3u8
+#EXTINF:-1,N1
+http://212.8.248.71:8000/live/aprile/aprile123/18971.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://212.8.248.71:8000/live/aprile/aprile123/18970.m3u8
+#EXTINF:-1,National Geographic
+http://212.8.248.71:8000/live/aprile/aprile123/18969.m3u8
+#EXTINF:-1,Nickelodeon
+http://212.8.248.71:8000/live/aprile/aprile123/18968.m3u8
+#EXTINF:-1,NICKELODEON (HR)
+http://212.8.248.71:8000/live/aprile/aprile123/18967.m3u8
 #EXTINF:-1,Nova HR
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153139.m3u8
-#EXTINF:-1,NOVA WORLD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/94385.m3u8
-#EXTINF:-1,NOVI FILM 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65241.m3u8
-#EXTINF:-1,NTV 101 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155832.m3u8
-#EXTINF:-1,NTV IC Kakanj
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155833.m3u8
-#EXTINF:-1,Nva RS
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153136.m3u8
-#EXTINF:-1,O2 TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65418.m3u8
-#EXTINF:-1,OBN TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65413.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18966.m3u8
+#EXTINF:-1,Nova RS
+http://212.8.248.71:8000/live/aprile/aprile123/18965.m3u8
+#EXTINF:-1,NOVA TV HR
+http://212.8.248.71:8000/live/aprile/aprile123/18964.m3u8
+#EXTINF:-1,OBN
+http://212.8.248.71:8000/live/aprile/aprile123/18963.m3u8
 #EXTINF:-1,ORLANDO KIDS
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155888.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18962.m3u8
 #EXTINF:-1,Otv Valentino
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65305.m3u8
-#EXTINF:-1,Parovi 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175229.m3u8
-#EXTINF:-1,Parovi 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175230.m3u8
-#EXTINF:-1,Partizan HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65260.m3u8
-#EXTINF:-1,Pikaboo
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155822.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18961.m3u8
 #EXTINF:-1,Pink
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65307.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18960.m3u8
 #EXTINF:-1,Pink & Roll
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65306.m3u8
-#EXTINF:-1,PINK 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/62062.m3u8
-#EXTINF:-1,Pink 3
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153148.m3u8
-#EXTINF:-1,Pink Actin
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153150.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18959.m3u8
+#EXTINF:-1,PINK 1
+http://212.8.248.71:8000/live/aprile/aprile123/18958.m3u8
+#EXTINF:-1,PINK 1 (reserve)
+http://212.8.248.71:8000/live/aprile/aprile123/18957.m3u8
+#EXTINF:-1,PINK 3
+http://212.8.248.71:8000/live/aprile/aprile123/18956.m3u8
+#EXTINF:-1,PINK 3.
+http://212.8.248.71:8000/live/aprile/aprile123/18955.m3u8
 #EXTINF:-1,Pink Action
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160895.m3u8
-#EXTINF:-1,Pink BIH
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89488.m3u8
-#EXTINF:-1,PINK CLASSIC
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89489.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18954.m3u8
+#EXTINF:-1,Pink BH
+http://212.8.248.71:8000/live/aprile/aprile123/18953.m3u8
 #EXTINF:-1,Pink Comedy
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65495.m3u8
-#EXTINF:-1,Pink Crime & Mistery
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65489.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18952.m3u8
 #EXTINF:-1,Pink Crime & Mystery
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175257.m3u8
-#EXTINF:-1,pink Extra
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65498.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18951.m3u8
+#EXTINF:-1,Pink Crime&Mystery
+http://212.8.248.71:8000/live/aprile/aprile123/18950.m3u8
+#EXTINF:-1,Pink Extra
+http://212.8.248.71:8000/live/aprile/aprile123/18949.m3u8
 #EXTINF:-1,Pink Film
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65491.m3u8
-#EXTINF:-1,Pink Folk 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65473.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18948.m3u8
+#EXTINF:-1,Pink Folk
+http://212.8.248.71:8000/live/aprile/aprile123/18947.m3u8
 #EXTINF:-1,Pink Folk 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155837.m3u8
-#EXTINF:-1,Pink HaHa
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/94237.m3u8
-#EXTINF:-1,Pink Hits 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134419.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18946.m3u8
 #EXTINF:-1,Pink Hits 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65474.m3u8
-#EXTINF:-1,Pink Horor
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160897.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18945.m3u8
 #EXTINF:-1,Pink Horror
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65484.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18944.m3u8
 #EXTINF:-1,Pink Kids
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65446.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18943.m3u8
 #EXTINF:-1,Pink Koncert
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65478.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18942.m3u8
 #EXTINF:-1,Pink Kuvar
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153157.m3u8
-#EXTINF:-1,Pink LoL
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/94238.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18941.m3u8
 #EXTINF:-1,Pink M
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65508.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18940.m3u8
 #EXTINF:-1,Pink Movies
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65493.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18939.m3u8
 #EXTINF:-1,Pink Music
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65476.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18938.m3u8
 #EXTINF:-1,Pink Music 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65475.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18937.m3u8
 #EXTINF:-1,Pink Pedia
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65480.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18936.m3u8
+#EXTINF:-1,Pink Plus
+http://212.8.248.71:8000/live/aprile/aprile123/18935.m3u8
 #EXTINF:-1,Pink Plus TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65310.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18934.m3u8
 #EXTINF:-1,Pink Premium
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65494.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18933.m3u8
 #EXTINF:-1,Pink Reality
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65240.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18932.m3u8
 #EXTINF:-1,Pink Romance
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65486.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18931.m3u8
 #EXTINF:-1,Pink Sci-Fi & Fantasy
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65487.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18930.m3u8
+#EXTINF:-1,Pink Sci-Fi&Fantasy
+http://212.8.248.71:8000/live/aprile/aprile123/18929.m3u8
 #EXTINF:-1,Pink Serije
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65482.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18928.m3u8
 #EXTINF:-1,Pink Show
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65477.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18927.m3u8
 #EXTINF:-1,Pink Soap
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65483.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18926.m3u8
 #EXTINF:-1,Pink Super Kids
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65445.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18925.m3u8
 #EXTINF:-1,Pink Thriller
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153151.m3u8
-#EXTINF:-1,PINK TILLER
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192676.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18924.m3u8
 #EXTINF:-1,Pink Western
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/147257.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18923.m3u8
 #EXTINF:-1,Pink World
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65481.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18922.m3u8
 #EXTINF:-1,Pink Zabava
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65497.m3u8
-#EXTINF:-1,Planet TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65281.m3u8
-#EXTINF:-1,Planeta tv
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175237.m3u8
-#EXTINF:-1,PNK THRILLER
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/181834.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18921.m3u8
+#EXTINF:-1,PINK2
+http://212.8.248.71:8000/live/aprile/aprile123/18920.m3u8
+#EXTINF:-1,PINK2.
+http://212.8.248.71:8000/live/aprile/aprile123/18919.m3u8
+#EXTINF:-1,Podgorica 777 TV
+http://212.8.248.71:8000/live/aprile/aprile123/18918.m3u8
 #EXTINF:-1,Pop Brio
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65308.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18917.m3u8
 #EXTINF:-1,Pop Oto
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65309.m3u8
-#EXTINF:-1,POP TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/176405.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18916.m3u8
 #EXTINF:-1,Posavina TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65427.m3u8
-#EXTINF:-1,Prva Max
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153133.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18915.m3u8
+#EXTINF:-1,Prva
+http://212.8.248.71:8000/live/aprile/aprile123/18914.m3u8
+#EXTINF:-1,Prva (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18913.m3u8
+#EXTINF:-1,Prva hercegovacka
+http://212.8.248.71:8000/live/aprile/aprile123/18912.m3u8
 #EXTINF:-1,Prva Plus
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65428.m3u8
-#EXTINF:-1,Prva TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65432.m3u8
-#EXTINF:-1,Prva World TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65410.m3u8
-#EXTINF:-1,PTC Catelit
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65280.m3u8
-#EXTINF:-1,Roma TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65333.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18911.m3u8
+#EXTINF:-1,Roma Tv
+http://212.8.248.71:8000/live/aprile/aprile123/18910.m3u8
 #EXTINF:-1,RT Vojvodina 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65312.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18909.m3u8
+#EXTINF:-1,RT Vojvodina 1 (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18908.m3u8
+#EXTINF:-1,RTCG
+http://212.8.248.71:8000/live/aprile/aprile123/18907.m3u8
+#EXTINF:-1,RTCG 1
+http://212.8.248.71:8000/live/aprile/aprile123/18906.m3u8
 #EXTINF:-1,RTCG 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155871.m3u8
-#EXTINF:-1,RTCG SAT
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65380.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18905.m3u8
+#EXTINF:-1,RTL
+http://212.8.248.71:8000/live/aprile/aprile123/18904.m3u8
 #EXTINF:-1,RTL 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65249.m3u8
-#EXTINF:-1,RTL 2 HR
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124456.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18903.m3u8
 #EXTINF:-1,RTL CRIME
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65421.m3u8
-#EXTINF:-1,RTL HR
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65424.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18902.m3u8
 #EXTINF:-1,RTL KOCKICA
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65422.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18901.m3u8
 #EXTINF:-1,RTL Living
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65420.m3u8
-#EXTINF:-1,RTL Pasion
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134426.m3u8
-#EXTINF:-1,RTL PASSION
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158284.m3u8
-#EXTINF:-1,RTL Televizija
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/117258.m3u8
-#EXTINF:-1,RTL TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65248.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18900.m3u8
 #EXTINF:-1,RTRS
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65433.m3u8
-#EXTINF:-1,RTRS Plus
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96104.m3u8
-#EXTINF:-1,RTS 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65436.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18899.m3u8
+#EXTINF:-1,RTS 1
+http://212.8.248.71:8000/live/aprile/aprile123/18898.m3u8
+#EXTINF:-1,RTS 1 (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18897.m3u8
 #EXTINF:-1,RTS 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65438.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18896.m3u8
+#EXTINF:-1,RTS 2 (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18895.m3u8
 #EXTINF:-1,RTS 3
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155850.m3u8
-#EXTINF:-1,Rts1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192651.m3u8
-#EXTINF:-1,Rts2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192653.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18894.m3u8
+#EXTINF:-1,RTS HD
+http://212.8.248.71:8000/live/aprile/aprile123/18893.m3u8
 #EXTINF:-1,RTV Novi Pazar
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/149020.m3u8
-#EXTINF:-1,Rtv1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134427.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18892.m3u8
+#EXTINF:-1,RTV USK
+http://212.8.248.71:8000/live/aprile/aprile123/18891.m3u8
+#EXTINF:-1,RTV Zenica
+http://212.8.248.71:8000/live/aprile/aprile123/18890.m3u8
 #EXTINF:-1,Sandzak TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65316.m3u8
-#EXTINF:-1,Scifi
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134428.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18889.m3u8
 #EXTINF:-1,Shutel TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65317.m3u8
-#EXTINF:-1,Sitel
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65318.m3u8
-#EXTINF:-1,Sitel 3
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175235.m3u8
-#EXTINF:-1,Slavonska TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/117274.m3u8
-#EXTINF:-1,Slovenia 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65320.m3u8
-#EXTINF:-1,Sobraniski Kanal
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65321.m3u8
-#EXTINF:-1,SOS
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65322.m3u8
-#EXTINF:-1,SPORT CLUB 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134429.m3u8
-#EXTINF:-1,SPORT CLUB 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134430.m3u8
-#EXTINF:-1,SPORT CLUB 4 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134435.m3u8
-#EXTINF:-1,SPORT CLUB 5 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134436.m3u8
-#EXTINF:-1,SPORT CLUB 6 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134437.m3u8
-#EXTINF:-1,Sport Klub 1 (CRO)
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89494.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18888.m3u8
+#EXTINF:-1,Sitel (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18887.m3u8
+#EXTINF:-1,SITEL 3 (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18886.m3u8
+#EXTINF:-1,Slovenia TV 1 HD
+http://212.8.248.71:8000/live/aprile/aprile123/18885.m3u8
+#EXTINF:-1,Sobraniski Kanal (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18884.m3u8
+#EXTINF:-1,SOS (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18883.m3u8
+#EXTINF:-1,SPORT KLUB 1
+http://212.8.248.71:8000/live/aprile/aprile123/18882.m3u8
 #EXTINF:-1,SPORT KLUB 1 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65342.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18881.m3u8
+#EXTINF:-1,Sport Klub 1 HR
+http://212.8.248.71:8000/live/aprile/aprile123/18880.m3u8
+#EXTINF:-1,SPORT KLUB 2
+http://212.8.248.71:8000/live/aprile/aprile123/18879.m3u8
 #EXTINF:-1,SPORT KLUB 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65341.m3u8
-#EXTINF:-1,Sport Klub 3 (CRO)
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/89496.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18878.m3u8
+#EXTINF:-1,Sport Klub 2 HR
+http://212.8.248.71:8000/live/aprile/aprile123/18877.m3u8
+#EXTINF:-1,SPORT KLUB 3
+http://212.8.248.71:8000/live/aprile/aprile123/18876.m3u8
 #EXTINF:-1,SPORT KLUB 3 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65340.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18875.m3u8
+#EXTINF:-1,Sport Klub 3 HR
+http://212.8.248.71:8000/live/aprile/aprile123/18874.m3u8
 #EXTINF:-1,SPORT KLUB 4
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/158290.m3u8
-#EXTINF:-1,SPORT KLUB 5 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65351.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18873.m3u8
+#EXTINF:-1,SPORT KLUB 5
+http://212.8.248.71:8000/live/aprile/aprile123/18872.m3u8
 #EXTINF:-1,SPORT KLUB 6
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65350.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18871.m3u8
+#EXTINF:-1,SPORT TV 1 HD SLO
+http://212.8.248.71:8000/live/aprile/aprile123/18870.m3u8
+#EXTINF:-1,SPORT TV 2 HD SLO
+http://212.8.248.71:8000/live/aprile/aprile123/18869.m3u8
+#EXTINF:-1,SPORT TV 3 HD SLO
+http://212.8.248.71:8000/live/aprile/aprile123/18868.m3u8
+#EXTINF:-1,Sportal TV HD
+http://212.8.248.71:8000/live/aprile/aprile123/18867.m3u8
+#EXTINF:-1,SPORTKLUB 1 HD SLO
+http://212.8.248.71:8000/live/aprile/aprile123/18866.m3u8
 #EXTINF:-1,SPORTKLUB 2 HD SLO
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/126328.m3u8
-#EXTINF:-1,Sportskatv
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/134438.m3u8
-#EXTINF:-1,SS Kanal
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/153137.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18865.m3u8
+#EXTINF:-1,SPORTKLUB 3 HD SLO
+http://212.8.248.71:8000/live/aprile/aprile123/18864.m3u8
+#EXTINF:-1,Studentska TV
+http://212.8.248.71:8000/live/aprile/aprile123/18863.m3u8
 #EXTINF:-1,Studio B
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96108.m3u8
-#EXTINF:-1,Super Kids
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160909.m3u8
-#EXTINF:-1,Super Sport 2 HD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/109489.m3u8
-#EXTINF:-1,T 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160884.m3u8
-#EXTINF:-1,T 2
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/184729.m3u8
-#EXTINF:-1,T 3
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160885.m3u8
-#EXTINF:-1,T 4
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/184730.m3u8
-#EXTINF:-1,Telma FHD
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65325.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18862.m3u8
+#EXTINF:-1,Taraf Tv
+http://212.8.248.71:8000/live/aprile/aprile123/18861.m3u8
+#EXTINF:-1,Telma (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18860.m3u8
 #EXTINF:-1,TK Tuzla
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65326.m3u8
-#EXTINF:-1,TLC
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160910.m3u8
-#EXTINF:-1,TNT KIDS
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155823.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18859.m3u8
+#EXTINF:-1,TLC (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18858.m3u8
 #EXTINF:-1,TOP Sound
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65278.m3u8
-#EXTINF:-1,TOP TV
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/117265.m3u8
-#EXTINF:-1,Travel Channel
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/96112.m3u8
-#EXTINF:-1,TRING SPORT NEWS
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/111647.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18857.m3u8
+#EXTINF:-1,TV  VIJESTI
+http://212.8.248.71:8000/live/aprile/aprile123/18856.m3u8
 #EXTINF:-1,TV 1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65417.m3u8
-#EXTINF:-1,TV 3 SLO
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65329.m3u8
-#EXTINF:-1,TV 5
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65277.m3u8
-#EXTINF:-1,TV 5 HD ISLAM
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155882.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18855.m3u8
 #EXTINF:-1,TV 1000
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65328.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18854.m3u8
+#EXTINF:-1,TV 3 SLO
+http://212.8.248.71:8000/live/aprile/aprile123/18853.m3u8
+#EXTINF:-1,TV 5
+http://212.8.248.71:8000/live/aprile/aprile123/18852.m3u8
 #EXTINF:-1,TV Banovina
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65331.m3u8
-#EXTINF:-1,TV Cinestar
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160914.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18851.m3u8
 #EXTINF:-1,TV Glas Drine
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65334.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18850.m3u8
 #EXTINF:-1,TV Hram
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65335.m3u8
-#EXTINF:-1,TV Jugoton
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160917.m3u8
-#EXTINF:-1,Tv Kakanj
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/175232.m3u8
-#EXTINF:-1,TV Kumanovo
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160918.m3u8
-#EXTINF:-1,TV Mini
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160919.m3u8
-#EXTINF:-1,TV Nasha
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65368.m3u8
-#EXTINF:-1,TV Novi Pazar
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160920.m3u8
-#EXTINF:-1,Tv Osjecka
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160921.m3u8
-#EXTINF:-1,TV Sarajevo
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65259.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18849.m3u8
+#EXTINF:-1,TV Kanal Plus MK
+http://212.8.248.71:8000/live/aprile/aprile123/18848.m3u8
+#EXTINF:-1,TV Nasha  (local)
+http://212.8.248.71:8000/live/aprile/aprile123/18847.m3u8
+#EXTINF:-1,TV Nova MK
+http://212.8.248.71:8000/live/aprile/aprile123/18846.m3u8
+#EXTINF:-1,TV Palma Plus Jagodina
+http://212.8.248.71:8000/live/aprile/aprile123/18845.m3u8
 #EXTINF:-1,TV Sehara
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65372.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18844.m3u8
 #EXTINF:-1,TV Slon
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65378.m3u8
-#EXTINF:-1,TV Sonce
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65373.m3u8
-#EXTINF:-1,TV1 Mreza
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/124462.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18843.m3u8
+#EXTINF:-1,TV Sonce MK
+http://212.8.248.71:8000/live/aprile/aprile123/18842.m3u8
 #EXTINF:-1,TVSA Sarajevo
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65371.m3u8
-#EXTINF:-1,Valentino Tv
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/192652.m3u8
-#EXTINF:-1,VAVOM
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65304.m3u8
-#EXTINF:-1,Vavoom
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/155824.m3u8
-#EXTINF:-1,VH1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/160926.m3u8
-#EXTINF:-1,VIASAT EXPLORER
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/154035.m3u8
-#EXTINF:-1,VIASAT HISTORY
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/154036.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18841.m3u8
+#EXTINF:-1,Ultra TV (Kids)
+http://212.8.248.71:8000/live/aprile/aprile123/18840.m3u8
 #EXTINF:-1,Viasat nature
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65375.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18839.m3u8
+#EXTINF:-1,VIP HD
+http://212.8.248.71:8000/live/aprile/aprile123/18838.m3u8
 #EXTINF:-1,Z1
-http://31.220.1.190:8080/live/iRCcIIWu4M/MzHdwFdqzD/65377.m3u8
+http://212.8.248.71:8000/live/aprile/aprile123/18837.m3u8
