@@ -1,51 +1,359 @@
 #EXTM3U
+#EXTINF:-1,13 Ulica FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78869.m3u8
+#EXTINF:-1,4FUN TV
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/151170.m3u8
+#EXTINF:-1,Ale Kino
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210456.m3u8
+#EXTINF:-1,Ale Kino+ HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/98572.m3u8
+#EXTINF:-1,Amazing
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210457.m3u8
+#EXTINF:-1,AMC HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107732.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78460.m3u8
+#EXTINF:-1,ATM ROZRYWKA TV
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78908.m3u8
+#EXTINF:-1,AXN Black HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74115.m3u8
 #EXTINF:-1,AXN HD
-http://212.8.248.71:8000/live/aprile/aprile123/18353.m3u8
-#EXTINF:-1,Canal   Film HD
-http://212.8.248.71:8000/live/aprile/aprile123/18352.m3u8
-#EXTINF:-1,Canal Discovery HD
-http://212.8.248.71:8000/live/aprile/aprile123/18351.m3u8
-#EXTINF:-1,Canal Plus HD Seriale
-http://212.8.248.71:8000/live/aprile/aprile123/18350.m3u8
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69536.m3u8
+#EXTINF:-1,AXN SPIN HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123488.m3u8
+#EXTINF:-1,AXN White HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74116.m3u8
+#EXTINF:-1,BBC
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210506.m3u8
+#EXTINF:-1,BBC Earth HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74118.m3u8
+#EXTINF:-1,Boomerang HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78462.m3u8
+#EXTINF:-1,Canal Discovery
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210469.m3u8
+#EXTINF:-1,Canal Family
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/196795.m3u8
+#EXTINF:-1,Canal Film
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210470.m3u8
+#EXTINF:-1,Canal Seriale
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210471.m3u8
+#EXTINF:-1,Canal Sport
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/192868.m3u8
+#EXTINF:-1,Canal Sport 2 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/192869.m3u8
+#EXTINF:-1,Canal+ Discovery HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74122.m3u8
+#EXTINF:-1,CANAL+ FAMILY HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/151183.m3u8
+#EXTINF:-1,CANAL+ FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69548.m3u8
+#EXTINF:-1,CANAL+ FILM FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69547.m3u8
+#EXTINF:-1,Canal+ Seriale FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69545.m3u8
+#EXTINF:-1,CANAL+ SPORT 2 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/102841.m3u8
+#EXTINF:-1,CANAL+ SPORT FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74120.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74126.m3u8
+#EXTINF:-1,CBS ACTION
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/151185.m3u8
+#EXTINF:-1,CBS EUROPA HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123501.m3u8
+#EXTINF:-1,CBS REALITY HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74127.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/151186.m3u8
+#EXTINF:-1,CINEMAX HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74128.m3u8
+#EXTINF:-1,Comedy Central FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74130.m3u8
+#EXTINF:-1,Crime and Investigation
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78916.m3u8
 #EXTINF:-1,Da Vinci Learning
-http://212.8.248.71:8000/live/aprile/aprile123/18349.m3u8
-#EXTINF:-1,Extreme Sports
-http://212.8.248.71:8000/live/aprile/aprile123/18348.m3u8
-#EXTINF:-1,FILMBOX
-http://212.8.248.71:8000/live/aprile/aprile123/18347.m3u8
-#EXTINF:-1,FilmBox Premium
-http://212.8.248.71:8000/live/aprile/aprile123/18346.m3u8
-#EXTINF:-1,HBO 2HD
-http://212.8.248.71:8000/live/aprile/aprile123/18345.m3u8
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69551.m3u8
+#EXTINF:-1,DISCO POLO MUSIC
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157823.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78471.m3u8
+#EXTINF:-1,Discovery HISTORIA
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/124826.m3u8
+#EXTINF:-1,Discovery Life FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123511.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78920.m3u8
+#EXTINF:-1,Discovery Turbo Xtra HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78470.m3u8
+#EXTINF:-1,Disney Channel FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78880.m3u8
+#EXTINF:-1,DISNEY JR
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78469.m3u8
+#EXTINF:-1,Disney XD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78921.m3u8
+#EXTINF:-1,DOMO+ FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/152884.m3u8
+#EXTINF:-1,DTX FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/117580.m3u8
+#EXTINF:-1,E! FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/151201.m3u8
+#EXTINF:-1,Eleven Extra HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/140730.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/143427.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/151195.m3u8
+#EXTINF:-1,Eleven Sports 3
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210475.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/197914.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74131.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74132.m3u8
+#EXTINF:-1,EUROSPORT FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78475.m3u8
+#EXTINF:-1,Extreme Sports FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69533.m3u8
+#EXTINF:-1,Fightbox FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78485.m3u8
+#EXTINF:-1,Filmbox
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210484.m3u8
+#EXTINF:-1,FILMBOX ACTION HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74134.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/117581.m3u8
+#EXTINF:-1,Filmbox Extra FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78496.m3u8
+#EXTINF:-1,FILMBOX FAMILY FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74135.m3u8
+#EXTINF:-1,FILMBOX PREMIUM HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69537.m3u8
+#EXTINF:-1,FOKUS TV
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157806.m3u8
+#EXTINF:-1,FOX Comedy FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107740.m3u8
+#EXTINF:-1,FOX FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/121149.m3u8
+#EXTINF:-1,Futbol 1 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/115558.m3u8
+#EXTINF:-1,Futbol 2 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/115559.m3u8
+#EXTINF:-1,GOLF CHANNEL HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123534.m3u8
+#EXTINF:-1,H2 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123535.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74139.m3u8
+#EXTINF:-1,HBO 3 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74140.m3u8
 #EXTINF:-1,HBO HD
-http://212.8.248.71:8000/live/aprile/aprile123/18344.m3u8
-#EXTINF:-1,Kino Polska
-http://212.8.248.71:8000/live/aprile/aprile123/18343.m3u8
-#EXTINF:-1,MiniMini HD
-http://212.8.248.71:8000/live/aprile/aprile123/18342.m3u8
-#EXTINF:-1,Nat Geo
-http://212.8.248.71:8000/live/aprile/aprile123/18341.m3u8
-#EXTINF:-1,Polsat 2
-http://212.8.248.71:8000/live/aprile/aprile123/18340.m3u8
-#EXTINF:-1,Polsat Cafe
-http://212.8.248.71:8000/live/aprile/aprile123/18339.m3u8
-#EXTINF:-1,Polsat Film
-http://212.8.248.71:8000/live/aprile/aprile123/18338.m3u8
-#EXTINF:-1,Polsat HD
-http://212.8.248.71:8000/live/aprile/aprile123/18337.m3u8
-#EXTINF:-1,Polsat News
-http://212.8.248.71:8000/live/aprile/aprile123/18336.m3u8
-#EXTINF:-1,Polsat Play
-http://212.8.248.71:8000/live/aprile/aprile123/18335.m3u8
-#EXTINF:-1,TVN 24
-http://212.8.248.71:8000/live/aprile/aprile123/18334.m3u8
-#EXTINF:-1,TVN Style
-http://212.8.248.71:8000/live/aprile/aprile123/18333.m3u8
-#EXTINF:-1,TVP 1 HD
-http://212.8.248.71:8000/live/aprile/aprile123/18332.m3u8
-#EXTINF:-1,TVP 2 HD
-http://212.8.248.71:8000/live/aprile/aprile123/18331.m3u8
-#EXTINF:-1,TVP Polonia
-http://212.8.248.71:8000/live/aprile/aprile123/18330.m3u8
-#EXTINF:-1,Universal HD
-http://212.8.248.71:8000/live/aprile/aprile123/18329.m3u8
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74138.m3u8
+#EXTINF:-1,HGTV FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123539.m3u8
+#EXTINF:-1,HIP HOP TV
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/117586.m3u8
+#EXTINF:-1,HISTORY CHANNEL HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/151212.m3u8
+#EXTINF:-1,ID HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/144505.m3u8
+#EXTINF:-1,Jim Jam HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78501.m3u8
+#EXTINF:-1,Kino Polska HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69538.m3u8
+#EXTINF:-1,KINO TV FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74133.m3u8
+#EXTINF:-1,Kuchnia FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/98590.m3u8
+#EXTINF:-1,Lifetime FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/79970.m3u8
+#EXTINF:-1,METRO
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123548.m3u8
+#EXTINF:-1,MiniMini FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/143451.m3u8
+#EXTINF:-1,MOTORWIZJA
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123551.m3u8
+#EXTINF:-1,MTV LIVE HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123553.m3u8
+#EXTINF:-1,MTV MUSIC
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157820.m3u8
+#EXTINF:-1,MTV Polska FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/127075.m3u8
+#EXTINF:-1,MTV ROCK
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157821.m3u8
+#EXTINF:-1,Music VOX
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210514.m3u8
+#EXTINF:-1,Music VOX Olds Cool
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210515.m3u8
+#EXTINF:-1,NAT GEO FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69535.m3u8
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123555.m3u8
+#EXTINF:-1,NAT GEO Wild FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69534.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69543.m3u8
+#EXTINF:-1,NICKTOONS HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157816.m3u8
+#EXTINF:-1,NOWA TV HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123560.m3u8
+#EXTINF:-1,NSport Plus HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74144.m3u8
+#EXTINF:-1,OLSAT CAFE
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/135378.m3u8
+#EXTINF:-1,Paramount Channel FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69553.m3u8
+#EXTINF:-1,Planete FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/122876.m3u8
+#EXTINF:-1,PLANETE+ HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157841.m3u8
+#EXTINF:-1,Polo TV HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/121153.m3u8
+#EXTINF:-1,POLONIA 1
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157790.m3u8
+#EXTINF:-1,POLSAT 1 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74145.m3u8
+#EXTINF:-1,POLSAT 2 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69558.m3u8
+#EXTINF:-1,Polsat Cafe FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69554.m3u8
+#EXTINF:-1,Polsat Doku HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/102838.m3u8
+#EXTINF:-1,Polsat FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69559.m3u8
+#EXTINF:-1,Polsat Film FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69555.m3u8
+#EXTINF:-1,Polsat Music FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107736.m3u8
+#EXTINF:-1,Polsat News 2
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210462.m3u8
+#EXTINF:-1,Polsat News FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69556.m3u8
+#EXTINF:-1,Polsat Play FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69557.m3u8
+#EXTINF:-1,POLSAT RODZINA
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157799.m3u8
+#EXTINF:-1,POLSAT ROMANS
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74147.m3u8
+#EXTINF:-1,Polsat Sport Extra FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74149.m3u8
+#EXTINF:-1,Polsat Sport FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74148.m3u8
+#EXTINF:-1,POLSAT Sport Fight FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78076.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74150.m3u8
+#EXTINF:-1,POLSAT Viasat Explore FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78893.m3u8
+#EXTINF:-1,Polsat Viasat History FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78894.m3u8
+#EXTINF:-1,Polsat Viasat Nature HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78895.m3u8
+#EXTINF:-1,POWER TV
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123580.m3u8
+#EXTINF:-1,PULS 2
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123581.m3u8
+#EXTINF:-1,Record News
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/122885.m3u8
+#EXTINF:-1,SCI Discovery Science HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78896.m3u8
+#EXTINF:-1,SCIFI HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78897.m3u8
+#EXTINF:-1,SciFi Universal
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/207366.m3u8
+#EXTINF:-1,Seriale TV
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157828.m3u8
+#EXTINF:-1,Sport klub HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/149033.m3u8
+#EXTINF:-1,Stars TV HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/117591.m3u8
+#EXTINF:-1,Stop klatka TV
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78478.m3u8
+#EXTINF:-1,Sundance FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78898.m3u8
+#EXTINF:-1,SUPER POLSAT
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157793.m3u8
+#EXTINF:-1,Teletoon+ HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/117593.m3u8
+#EXTINF:-1,TLC FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78479.m3u8
+#EXTINF:-1,TNT FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74170.m3u8
+#EXTINF:-1,Travel Channel HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78900.m3u8
+#EXTINF:-1,Trwam
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210489.m3u8
+#EXTINF:-1,TTV FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123594.m3u8
+#EXTINF:-1,TV 4 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74171.m3u8
+#EXTINF:-1,TV 6 POLSKA
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107727.m3u8
+#EXTINF:-1,TV ASTA HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/122887.m3u8
+#EXTINF:-1,TV Puls 2
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/102828.m3u8
+#EXTINF:-1,TV Puls FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78902.m3u8
+#EXTINF:-1,TV Republika HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/117597.m3u8
+#EXTINF:-1,TV6
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210492.m3u8
+#EXTINF:-1,TVN 7 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/97428.m3u8
+#EXTINF:-1,TVN 24 BIS HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123608.m3u8
+#EXTINF:-1,TVN 24 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69549.m3u8
+#EXTINF:-1,TVN Fabula FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78494.m3u8
+#EXTINF:-1,TVN FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74174.m3u8
+#EXTINF:-1,TVN Style FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69550.m3u8
+#EXTINF:-1,TVN Turbo FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74151.m3u8
+#EXTINF:-1,TVP 1 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69567.m3u8
+#EXTINF:-1,TVP 2 FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69566.m3u8
+#EXTINF:-1,TVP 3 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74152.m3u8
+#EXTINF:-1,TVP abc HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/102830.m3u8
+#EXTINF:-1,TVP Historiy HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69560.m3u8
+#EXTINF:-1,TVP Info FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74153.m3u8
+#EXTINF:-1,TVP KULTURA HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157850.m3u8
+#EXTINF:-1,TVP Polonia HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69561.m3u8
+#EXTINF:-1,TVP ROZRYWKA
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107725.m3u8
+#EXTINF:-1,TVP SERIALE HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74178.m3u8
+#EXTINF:-1,TVP Sport FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74155.m3u8
+#EXTINF:-1,TVS HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107728.m3u8
+#EXTINF:-1,UNIRESAT HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157858.m3u8
+#EXTINF:-1,Universal FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/69552.m3u8
+#EXTINF:-1,VH1
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123624.m3u8
+#EXTINF:-1,VOD 202
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107753.m3u8
+#EXTINF:-1,VOD 206
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107755.m3u8
+#EXTINF:-1,VOD 207
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123626.m3u8
+#EXTINF:-1,VOD 208
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107756.m3u8
+#EXTINF:-1,Vtk
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/122894.m3u8
+#EXTINF:-1,WP
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78842.m3u8
+#EXTINF:-1,ZOOM TV
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123631.m3u8
