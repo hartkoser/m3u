@@ -1,387 +1,85 @@
 #EXTM3U
-#EXTINF:-1,#0 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88901.m3u8
-#EXTINF:-1,7 RM HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/149125.m3u8
-#EXTINF:-1,13 TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/109645.m3u8
-#EXTINF:-1,24 Horas HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88902.m3u8
-#EXTINF:-1,40 TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/104550.m3u8
-#EXTINF:-1,A&E
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81341.m3u8
-#EXTINF:-1,A3 SERIES HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99711.m3u8
-#EXTINF:-1,Alquiler 1 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88903.m3u8
-#EXTINF:-1,Alquiler 2 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88904.m3u8
-#EXTINF:-1,Alquiler 3 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88905.m3u8
-#EXTINF:-1,Alquiler 4 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88906.m3u8
-#EXTINF:-1,Alquiler 5 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88907.m3u8
-#EXTINF:-1,Alquiler 6 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88908.m3u8
-#EXTINF:-1,Alquiler 7 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107629.m3u8
-#EXTINF:-1,Alquiler 9 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107630.m3u8
-#EXTINF:-1,AMC FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88178.m3u8
-#EXTINF:-1,Andalucia TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70852.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/175995.m3u8
-#EXTINF:-1,ANTENA 3 FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64213.m3u8
-#EXTINF:-1,ARAGON TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/113068.m3u8
-#EXTINF:-1,AtreSeries FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/116180.m3u8
-#EXTINF:-1,AXN HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78536.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64211.m3u8
+#EXTINF:-1,AMC
+http://163.172.82.81:50100/live/Stark/Stark/5097.m3u8
+#EXTINF:-1,AXN White HD
+http://163.172.82.81:50100/live/Stark/Stark/5111.m3u8
+#EXTINF:-1,Azteca Honduras
+http://163.172.82.81:50100/live/Stark/Stark/5110.m3u8
+#EXTINF:-1,Azteca Noticias
+http://163.172.82.81:50100/live/Stark/Stark/5109.m3u8
 #EXTINF:-1,Azteca Trece
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/94139.m3u8
+http://163.172.82.81:50100/live/Stark/Stark/5108.m3u8
 #EXTINF:-1,BABY TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/75231.m3u8
-#EXTINF:-1,BARCA TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81344.m3u8
-#EXTINF:-1,BE MAD FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99710.m3u8
-#EXTINF:-1,beIN Sports HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210554.m3u8
-#EXTINF:-1,beIN Sports LaLiga HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64208.m3u8
-#EXTINF:-1,beIN Sports Ñ HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/116125.m3u8
-#EXTINF:-1,Blaze
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/130541.m3u8
-#EXTINF:-1,BOING
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78540.m3u8
-#EXTINF:-1,BOX OFFICE 1
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159110.m3u8
-#EXTINF:-1,BOX OFFICE 2
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159111.m3u8
-#EXTINF:-1,BOX OFFICE 3
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159112.m3u8
-#EXTINF:-1,BOX OFFICE 4
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159113.m3u8
-#EXTINF:-1,BOX OFFICE 5
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159114.m3u8
-#EXTINF:-1,BOX OFFICE 6
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159115.m3u8
-#EXTINF:-1,BOX OFFICE 7
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159116.m3u8
-#EXTINF:-1,BOX OFFICE 8
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159117.m3u8
-#EXTINF:-1,BOX OFFICE 10
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159119.m3u8
-#EXTINF:-1,C COMEDIA HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/192832.m3u8
-#EXTINF:-1,C Deportes
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/192824.m3u8
-#EXTINF:-1,C ESTRENOS
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159393.m3u8
-#EXTINF:-1,C TOROS HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/92622.m3u8
-#EXTINF:-1,CALLE 13 FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64206.m3u8
-#EXTINF:-1,CANAL 24 HORAS FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107610.m3u8
-#EXTINF:-1,Canal 3/24
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/131987.m3u8
-#EXTINF:-1,CANAL COCINA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78542.m3u8
-#EXTINF:-1,Canal Comedia
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/125606.m3u8
-#EXTINF:-1,Canal DCINE HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/163434.m3u8
-#EXTINF:-1,CANAL DE CASA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78543.m3u8
-#EXTINF:-1,CANAL DE HISTORIA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107639.m3u8
-#EXTINF:-1,Canal de las Estrellas
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/92746.m3u8
-#EXTINF:-1,CANAL DEPORTES 1 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210555.m3u8
-#EXTINF:-1,Canal DEPORTES 2 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/163458.m3u8
-#EXTINF:-1,Canal DEPORTES HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/163459.m3u8
-#EXTINF:-1,CANAL EXTREMADURA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/119474.m3u8
-#EXTINF:-1,Canal FUTBOL HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/91954.m3u8
-#EXTINF:-1,Canal Golf
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/104523.m3u8
-#EXTINF:-1,Canal Historia
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/168961.m3u8
-#EXTINF:-1,CANAL HOLLYWOOD HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107631.m3u8
-#EXTINF:-1,Canal Odisea HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/97487.m3u8
-#EXTINF:-1,CANAL ORBE 21
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/134604.m3u8
-#EXTINF:-1,CANAL PANDA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107634.m3u8
-#EXTINF:-1,CANAL SUR A
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81410.m3u8
-#EXTINF:-1,Canal TP HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/197875.m3u8
-#EXTINF:-1,Cartoon Network
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/94143.m3u8
-#EXTINF:-1,CAZA Y PESCA FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/88183.m3u8
-#EXTINF:-1,CINE ESPANOL HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/104531.m3u8
-#EXTINF:-1,CLAN FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81364.m3u8
-#EXTINF:-1,Classica
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107329.m3u8
-#EXTINF:-1,CNN Espanol
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/101301.m3u8
-#EXTINF:-1,COCINA HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/154774.m3u8
-#EXTINF:-1,COSMO FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64199.m3u8
-#EXTINF:-1,CRIMEN & INVESTIGACION
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70860.m3u8
-#EXTINF:-1,CUATRO FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78546.m3u8
-#EXTINF:-1,DECASA TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99733.m3u8
-#EXTINF:-1,Discovery CHANNEL HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81418.m3u8
-#EXTINF:-1,Discovery DMAX
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/197082.m3u8
-#EXTINF:-1,Discovery SHOWCASE
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/197083.m3u8
-#EXTINF:-1,DISNEY CHANEL HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70885.m3u8
-#EXTINF:-1,Disney Junior
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/75232.m3u8
-#EXTINF:-1,Disney XD HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78548.m3u8
-#EXTINF:-1,Divinity HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81421.m3u8
-#EXTINF:-1,DKISS
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/109618.m3u8
-#EXTINF:-1,DMax
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/196332.m3u8
-#EXTINF:-1,ENERGY HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78549.m3u8
-#EXTINF:-1,Esperanza TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/131982.m3u8
-#EXTINF:-1,EURONEWS
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107641.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81427.m3u8
-#EXTINF:-1,EUROSPORT HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/156351.m3u8
-#EXTINF:-1,Extremadura HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/116161.m3u8
-#EXTINF:-1,FDF HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/97478.m3u8
-#EXTINF:-1,Fox Channel HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64190.m3u8
-#EXTINF:-1,FOX LIFE FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64189.m3u8
-#EXTINF:-1,GALICIA TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/100377.m3u8
-#EXTINF:-1,GOL TV HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70912.m3u8
-#EXTINF:-1,GOLF HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/101647.m3u8
-#EXTINF:-1,HISTORY CHANNEL
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/141463.m3u8
-#EXTINF:-1,HOLLYWOOD FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64187.m3u8
-#EXTINF:-1,IBERALIA TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81433.m3u8
-#EXTINF:-1,LA 1 FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/144232.m3u8
-#EXTINF:-1,LA 2 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/156293.m3u8
-#EXTINF:-1,LA CUATRO HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/149110.m3u8
-#EXTINF:-1,LA SEXTA FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64184.m3u8
-#EXTINF:-1,LaLiga 123 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/140470.m3u8
-#EXTINF:-1,LaLiga HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70911.m3u8
-#EXTINF:-1,LIGA 123 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/149123.m3u8
-#EXTINF:-1,LIGA DE CAMPEONES FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/209757.m3u8
+http://163.172.82.81:50100/live/Stark/Stark/5096.m3u8
+#EXTINF:-1,BeinSports-HD
+http://163.172.82.81:50100/live/Stark/Stark/1481.m3u8
+#EXTINF:-1,Crime & Investigation
+http://163.172.82.81:50100/live/Stark/Stark/5107.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://163.172.82.81:50100/live/Stark/Stark/5106.m3u8
+#EXTINF:-1,Disney Channel HD
+http://163.172.82.81:50100/live/Stark/Stark/5105.m3u8
+#EXTINF:-1,Disney Junior HD
+http://163.172.82.81:50100/live/Stark/Stark/5104.m3u8
+#EXTINF:-1,Disney XD
+http://163.172.82.81:50100/live/Stark/Stark/5103.m3u8
+#EXTINF:-1,EuroSport-1-HD
+http://163.172.82.81:50100/live/Stark/Stark/1586.m3u8
+#EXTINF:-1,EuroSport-2-HD
+http://163.172.82.81:50100/live/Stark/Stark/5101.m3u8
+#EXTINF:-1,FOX Life HD
+http://163.172.82.81:50100/live/Stark/Stark/5100.m3u8
+#EXTINF:-1,LA-2-HD
+http://163.172.82.81:50100/live/Stark/Stark/5120.m3u8
+#EXTINF:-1,LA-Sexta-HD
+http://163.172.82.81:50100/live/Stark/Stark/454.m3u8
+#EXTINF:-1,LA7
+http://163.172.82.81:50100/live/Stark/Stark/5095.m3u8
 #EXTINF:-1,MEGA HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70862.m3u8
-#EXTINF:-1,MELILLA TV
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99717.m3u8
-#EXTINF:-1,MEZZO LIVE FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107646.m3u8
-#EXTINF:-1,Movistar 0# FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159367.m3u8
-#EXTINF:-1,Movistar ACCION FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70880.m3u8
-#EXTINF:-1,Movistar CINE N
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/87425.m3u8
-#EXTINF:-1,Movistar CineDoc&Roll HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70877.m3u8
-#EXTINF:-1,Movistar COCINA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/146410.m3u8
-#EXTINF:-1,Movistar COMEDIA FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157051.m3u8
-#EXTINF:-1,Movistar COMEDY CENTRAL
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/102299.m3u8
-#EXTINF:-1,Movistar DCINE HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/199116.m3u8
-#EXTINF:-1,Movistar DEPORTES 2
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70903.m3u8
-#EXTINF:-1,Movistar DEPORTES FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77771.m3u8
-#EXTINF:-1,Movistar DISNEY
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/123977.m3u8
-#EXTINF:-1,Movistar DRAMA HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/149101.m3u8
-#EXTINF:-1,Movistar ESTRENOS 2
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/113800.m3u8
-#EXTINF:-1,Movistar ESTRENOS FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/144234.m3u8
-#EXTINF:-1,Movistar F1 FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/102304.m3u8
-#EXTINF:-1,Movistar FORMULA 1 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70900.m3u8
-#EXTINF:-1,Movistar FUTBOLL FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157097.m3u8
-#EXTINF:-1,Movistar GOLF FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70902.m3u8
-#EXTINF:-1,Movistar LIGA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/129567.m3u8
-#EXTINF:-1,Movistar Liga de Campeones FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/130309.m3u8
-#EXTINF:-1,Movistar MotoGP HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/156593.m3u8
-#EXTINF:-1,Movistar PARTIDAZO FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/156375.m3u8
-#EXTINF:-1,Movistar SERIES FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70869.m3u8
-#EXTINF:-1,Movistar Series Mania FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70876.m3u8
-#EXTINF:-1,Movistar TOROS HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/207994.m3u8
-#EXTINF:-1,Movistar VAMOS FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/156423.m3u8
-#EXTINF:-1,Movistar XTRA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/208007.m3u8
-#EXTINF:-1,MTV ESPAÑA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/109646.m3u8
-#EXTINF:-1,MULTIDEPORTE
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/109658.m3u8
-#EXTINF:-1,N Cuatro HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70893.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78561.m3u8
-#EXTINF:-1,NAT GEO WILD FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78560.m3u8
-#EXTINF:-1,NEOX HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70866.m3u8
-#EXTINF:-1,Nick Junior
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99558.m3u8
-#EXTINF:-1,NICK.jr
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99553.m3u8
-#EXTINF:-1,nickelodeon FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78562.m3u8
-#EXTINF:-1,NOVA HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78563.m3u8
-#EXTINF:-1,ODISSEIA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70863.m3u8
-#EXTINF:-1,Onda Azul Malaga
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/168965.m3u8
-#EXTINF:-1,PANDA
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81470.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70872.m3u8
-#EXTINF:-1,Real Madrid TV HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/141501.m3u8
-#EXTINF:-1,Sevilla Channel
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70855.m3u8
-#EXTINF:-1,SKY NET SPORTS 2
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/94098.m3u8
-#EXTINF:-1,SKYNET SPORTS 1
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/142067.m3u8
-#EXTINF:-1,SOMOS
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/209751.m3u8
-#EXTINF:-1,SUNDANCE FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/157064.m3u8
-#EXTINF:-1,SYFY FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/156333.m3u8
-#EXTINF:-1,TAQUILLA 2 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70849.m3u8
-#EXTINF:-1,TAQUILLA 3 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70848.m3u8
-#EXTINF:-1,TAQUILLA 4 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70847.m3u8
-#EXTINF:-1,TAQUILLA 5 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70846.m3u8
-#EXTINF:-1,TAQUILLA 6 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70845.m3u8
-#EXTINF:-1,TAQUILLA 7 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70844.m3u8
-#EXTINF:-1,Taquilla 8 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70843.m3u8
-#EXTINF:-1,TAQUILLA 9 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70842.m3u8
-#EXTINF:-1,TAQUILLA 10 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70841.m3u8
-#EXTINF:-1,TCM FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/156335.m3u8
-#EXTINF:-1,TELECINCO FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64160.m3u8
-#EXTINF:-1,TELEDEPORTE FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77767.m3u8
-#EXTINF:-1,TELEMADRID FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78567.m3u8
-#EXTINF:-1,Telemax HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/114742.m3u8
-#EXTINF:-1,TEN
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/119361.m3u8
-#EXTINF:-1,TNT FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/78569.m3u8
-#EXTINF:-1,TOROS HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99560.m3u8
-#EXTINF:-1,TV Galicia
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/81380.m3u8
-#EXTINF:-1,TV3 24H HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/107611.m3u8
-#EXTINF:-1,TV3 Catalynia HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70896.m3u8
-#EXTINF:-1,TVE 24H
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/146441.m3u8
-#EXTINF:-1,TVE HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/112345.m3u8
-#EXTINF:-1,TVE Internacional
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/141513.m3u8
-#EXTINF:-1,TVE LA 1 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/70898.m3u8
-#EXTINF:-1,Univision Deportes HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/68463.m3u8
-#EXTINF:-1,Univision New York HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/68689.m3u8
-#EXTINF:-1,Univision West
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/116154.m3u8
-#EXTINF:-1,Vamos FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/141391.m3u8
-#EXTINF:-1,VH1
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/101044.m3u8
-#EXTINF:-1,VIAJAR FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/64157.m3u8
-#EXTINF:-1,Warner Bros HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/184557.m3u8
-#EXTINF:-1,XTRM
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99561.m3u8
+http://163.172.82.81:50100/live/Stark/Stark/5098.m3u8
+#EXTINF:-1,MoviStar Deporte 2
+http://163.172.82.81:50100/live/Stark/Stark/5116.m3u8
+#EXTINF:-1,MoviStar Odisea
+http://163.172.82.81:50100/live/Stark/Stark/5119.m3u8
+#EXTINF:-1,MoviStar SERIES EXTRA
+http://163.172.82.81:50100/live/Stark/Stark/5099.m3u8
+#EXTINF:-1,MoviStar Series HD
+http://163.172.82.81:50100/live/Stark/Stark/5118.m3u8
+#EXTINF:-1,MoviStar Toros
+http://163.172.82.81:50100/live/Stark/Stark/5117.m3u8
+#EXTINF:-1,MoviStar-0#-HD
+http://163.172.82.81:50100/live/Stark/Stark/2798.m3u8
+#EXTINF:-1,MoviStar-Accion-HD
+http://163.172.82.81:50100/live/Stark/Stark/1588.m3u8
+#EXTINF:-1,MoviStar-Comedia-HD
+http://163.172.82.81:50100/live/Stark/Stark/1589.m3u8
+#EXTINF:-1,MoviStar-Dcine-HD
+http://163.172.82.81:50100/live/Stark/Stark/1590.m3u8
+#EXTINF:-1,MoviStar-Deportes-1-HD
+http://163.172.82.81:50100/live/Stark/Stark/2797.m3u8
+#EXTINF:-1,MoviStar-Estrenos-HD
+http://163.172.82.81:50100/live/Stark/Stark/1592.m3u8
+#EXTINF:-1,MoviStar-F1-HD
+http://163.172.82.81:50100/live/Stark/Stark/2796.m3u8
+#EXTINF:-1,MoviStar-Futbol-HD
+http://163.172.82.81:50100/live/Stark/Stark/446.m3u8
+#EXTINF:-1,MoviStar-Golf-HD
+http://163.172.82.81:50100/live/Stark/Stark/1593.m3u8
+#EXTINF:-1,MoviStar-Ligo-HD
+http://163.172.82.81:50100/live/Stark/Stark/544.m3u8
+#EXTINF:-1,MoviStar-Motogp-HD
+http://163.172.82.81:50100/live/Stark/Stark/1484.m3u8
+#EXTINF:-1,National Geographic
+http://163.172.82.81:50100/live/Stark/Stark/5093.m3u8
+#EXTINF:-1,National Geographic Wild
+http://163.172.82.81:50100/live/Stark/Stark/5092.m3u8
+#EXTINF:-1,Paramount Channel Es HD
+http://163.172.82.81:50100/live/Stark/Stark/5113.m3u8
+#EXTINF:-1,TCM
+http://163.172.82.81:50100/live/Stark/Stark/5112.m3u8
+#EXTINF:-1,Telecinco
+http://163.172.82.81:50100/live/Stark/Stark/5114.m3u8
+#EXTINF:-1,Teledeporte
+http://163.172.82.81:50100/live/Stark/Stark/2801.m3u8
+#EXTINF:-1,TNT
+http://163.172.82.81:50100/live/Stark/Stark/5121.m3u8
