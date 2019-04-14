@@ -1,163 +1,265 @@
 #EXTM3U
-#EXTINF:-1,ABC-HD
-http://163.172.82.81:50100/live/Stark/Stark/2094.m3u8
-#EXTINF:-1,ABC-News
-http://163.172.82.81:50100/live/Stark/Stark/1326.m3u8
-#EXTINF:-1,AMC-HD
-http://163.172.82.81:50100/live/Stark/Stark/2096.m3u8
-#EXTINF:-1,Animal-Planet-HD
-http://163.172.82.81:50100/live/Stark/Stark/2097.m3u8
-#EXTINF:-1,BBC-WORLD-NEWS
-http://163.172.82.81:50100/live/Stark/Stark/2634.m3u8
-#EXTINF:-1,BeinSport-HD
-http://163.172.82.81:50100/live/Stark/Stark/1465.m3u8
-#EXTINF:-1,BLOOMBERG-TV
-http://163.172.82.81:50100/live/Stark/Stark/2663.m3u8
-#EXTINF:-1,Bravo-HD
-http://163.172.82.81:50100/live/Stark/Stark/2093.m3u8
-#EXTINF:-1,BT-Sport-ESPN-HD
-http://163.172.82.81:50100/live/Stark/Stark/2341.m3u8
-#EXTINF:-1,C-SPAN-1-HD
-http://163.172.82.81:50100/live/Stark/Stark/2646.m3u8
-#EXTINF:-1,C-SPAN-2-HD
-http://163.172.82.81:50100/live/Stark/Stark/2645.m3u8
-#EXTINF:-1,C-SPAN-3-HD
-http://163.172.82.81:50100/live/Stark/Stark/2644.m3u8
-#EXTINF:-1,CBN-News-HD
-http://163.172.82.81:50100/live/Stark/Stark/1450.m3u8
-#EXTINF:-1,CBS Sports HD
-http://163.172.82.81:50100/live/Stark/Stark/4029.m3u8
-#EXTINF:-1,CBSN-News
-http://163.172.82.81:50100/live/Stark/Stark/2649.m3u8
-#EXTINF:-1,CineMax-East-HD
-http://163.172.82.81:50100/live/Stark/Stark/1453.m3u8
-#EXTINF:-1,CNBC HD
-http://163.172.82.81:50100/live/Stark/Stark/5231.m3u8
-#EXTINF:-1,CNN-HD
-http://163.172.82.81:50100/live/Stark/Stark/1291.m3u8
-#EXTINF:-1,Comedy-Central-HD
-http://163.172.82.81:50100/live/Stark/Stark/2100.m3u8
-#EXTINF:-1,Crime-&-Investigation-HD
-http://163.172.82.81:50100/live/Stark/Stark/2339.m3u8
-#EXTINF:-1,CW-HD
-http://163.172.82.81:50100/live/Stark/Stark/2101.m3u8
-#EXTINF:-1,DISCOVERY VELOCITY
-http://163.172.82.81:50100/live/Stark/Stark/5230.m3u8
-#EXTINF:-1,Discovery-Channel-HD
-http://163.172.82.81:50100/live/Stark/Stark/2340.m3u8
-#EXTINF:-1,Discovery-Science-HD
-http://163.172.82.81:50100/live/Stark/Stark/1290.m3u8
-#EXTINF:-1,Discovery-ShowCase-HD
-http://163.172.82.81:50100/live/Stark/Stark/3159.m3u8
-#EXTINF:-1,ESPN_News_HD
-http://163.172.82.81:50100/live/Stark/Stark/2636.m3u8
-#EXTINF:-1,ESPN_U_HD
-http://163.172.82.81:50100/live/Stark/Stark/2656.m3u8
-#EXTINF:-1,ESPN-2
-http://163.172.82.81:50100/live/Stark/Stark/5228.m3u8
-#EXTINF:-1,ESPN-HD
-http://163.172.82.81:50100/live/Stark/Stark/1297.m3u8
-#EXTINF:-1,Fight Sports HD
-http://163.172.82.81:50100/live/Stark/Stark/4027.m3u8
-#EXTINF:-1,Fight-Sport-1
-http://163.172.82.81:50100/live/Stark/Stark/2653.m3u8
-#EXTINF:-1,Food-Network-HD
-http://163.172.82.81:50100/live/Stark/Stark/2329.m3u8
-#EXTINF:-1,Fox-News-HD
-http://163.172.82.81:50100/live/Stark/Stark/1645.m3u8
-#EXTINF:-1,FS1-Fox-Sports-1-HD
-http://163.172.82.81:50100/live/Stark/Stark/1288.m3u8
-#EXTINF:-1,FS1-Fox-Sports-2-HD
-http://163.172.82.81:50100/live/Stark/Stark/1323.m3u8
-#EXTINF:-1,FX-HD
-http://163.172.82.81:50100/live/Stark/Stark/2654.m3u8
+#EXTINF:-1,Sports-Net
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2279.m3u8
+#EXTINF:-1,MelloTV
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2281.m3u8
+#EXTINF:-1,USA Network HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1096.m3u8
+#EXTINF:-1,STARZ EDGE HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1097.m3u8
+#EXTINF:-1,SPIKE HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1092.m3u8
+#EXTINF:-1,NICKELODEN HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1076.m3u8
+#EXTINF:-1,National Geographic
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1095.m3u8
+#EXTINF:-1,HIFI
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1105.m3u8
 #EXTINF:-1,HALLMARK
-http://163.172.82.81:50100/live/Stark/Stark/2655.m3u8
-#EXTINF:-1,HBO-HD
-http://163.172.82.81:50100/live/Stark/Stark/1441.m3u8
-#EXTINF:-1,HBO-Zone-HD
-http://163.172.82.81:50100/live/Stark/Stark/1443.m3u8
-#EXTINF:-1,HGTV-HD
-http://163.172.82.81:50100/live/Stark/Stark/1500.m3u8
-#EXTINF:-1,History
-http://163.172.82.81:50100/live/Stark/Stark/2670.m3u8
-#EXTINF:-1,MLB-HD
-http://163.172.82.81:50100/live/Stark/Stark/2657.m3u8
-#EXTINF:-1,MOTORSPORT TV
-http://163.172.82.81:50100/live/Stark/Stark/4026.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://163.172.82.81:50100/live/Stark/Stark/5237.m3u8
-#EXTINF:-1,Nat-Geo-HD
-http://163.172.82.81:50100/live/Stark/Stark/1286.m3u8
-#EXTINF:-1,NBA
-http://163.172.82.81:50100/live/Stark/Stark/1499.m3u8
-#EXTINF:-1,NBC SPORT HD
-http://163.172.82.81:50100/live/Stark/Stark/4025.m3u8
-#EXTINF:-1,NBC-Golf-HD
-http://163.172.82.81:50100/live/Stark/Stark/1325.m3u8
-#EXTINF:-1,NBC-HD
-http://163.172.82.81:50100/live/Stark/Stark/2089.m3u8
-#EXTINF:-1,NBCSN-HD
-http://163.172.82.81:50100/live/Stark/Stark/2659.m3u8
-#EXTINF:-1,NFL-Network-HD
-http://163.172.82.81:50100/live/Stark/Stark/2342.m3u8
-#EXTINF:-1,OWN
-http://163.172.82.81:50100/live/Stark/Stark/2894.m3u8
-#EXTINF:-1,PBS-HD
-http://163.172.82.81:50100/live/Stark/Stark/2088.m3u8
-#EXTINF:-1,ShowTime-1-HD
-http://163.172.82.81:50100/live/Stark/Stark/1804.m3u8
-#EXTINF:-1,ShowTime-2-HD
-http://163.172.82.81:50100/live/Stark/Stark/1445.m3u8
-#EXTINF:-1,SPIKE-HD
-http://163.172.82.81:50100/live/Stark/Stark/2345.m3u8
-#EXTINF:-1,Sports Net 360 HD
-http://163.172.82.81:50100/live/Stark/Stark/4016.m3u8
-#EXTINF:-1,SPORTSMAN CHANNEL HD
-http://163.172.82.81:50100/live/Stark/Stark/4014.m3u8
-#EXTINF:-1,SportsNet-One-HD
-http://163.172.82.81:50100/live/Stark/Stark/1281.m3u8
-#EXTINF:-1,SportsNet-Ontorio-HD
-http://163.172.82.81:50100/live/Stark/Stark/1493.m3u8
-#EXTINF:-1,Starz-Cinema-HD
-http://163.172.82.81:50100/live/Stark/Stark/1437.m3u8
-#EXTINF:-1,Starz-Comedy-HD
-http://163.172.82.81:50100/live/Stark/Stark/1803.m3u8
-#EXTINF:-1,Starz-East
-http://163.172.82.81:50100/live/Stark/Stark/2660.m3u8
-#EXTINF:-1,Starz-Edge-HD
-http://163.172.82.81:50100/live/Stark/Stark/1436.m3u8
-#EXTINF:-1,Starz-Encore-HD
-http://163.172.82.81:50100/live/Stark/Stark/1802.m3u8
-#EXTINF:-1,Starz-West
-http://163.172.82.81:50100/live/Stark/Stark/2662.m3u8
-#EXTINF:-1,Syfy-HD
-http://163.172.82.81:50100/live/Stark/Stark/2092.m3u8
-#EXTINF:-1,TBS-HD
-http://163.172.82.81:50100/live/Stark/Stark/1452.m3u8
-#EXTINF:-1,The-Weather-Channel
-http://163.172.82.81:50100/live/Stark/Stark/2643.m3u8
-#EXTINF:-1,TLC-HD
-http://163.172.82.81:50100/live/Stark/Stark/2087.m3u8
-#EXTINF:-1,TNT
-http://163.172.82.81:50100/live/Stark/Stark/2666.m3u8
-#EXTINF:-1,Travel-Channel-HD
-http://163.172.82.81:50100/live/Stark/Stark/1292.m3u8
-#EXTINF:-1,TRU-TV
-http://163.172.82.81:50100/live/Stark/Stark/3030.m3u8
-#EXTINF:-1,Tsn-Sport-1-HD
-http://163.172.82.81:50100/live/Stark/Stark/635.m3u8
-#EXTINF:-1,Tsn-Sport-2-HD
-http://163.172.82.81:50100/live/Stark/Stark/636.m3u8
-#EXTINF:-1,Tsn-Sport-3-HD
-http://163.172.82.81:50100/live/Stark/Stark/637.m3u8
-#EXTINF:-1,Tsn-Sport-4-HD
-http://163.172.82.81:50100/live/Stark/Stark/638.m3u8
-#EXTINF:-1,Tsn-Sport-5-HD
-http://163.172.82.81:50100/live/Stark/Stark/639.m3u8
-#EXTINF:-1,USA-Network
-http://163.172.82.81:50100/live/Stark/Stark/2667.m3u8
-#EXTINF:-1,Willow-Cricket-HD
-http://163.172.82.81:50100/live/Stark/Stark/2335.m3u8
-#EXTINF:-1,WWE-Network-HD
-http://163.172.82.81:50100/live/Stark/Stark/2337.m3u8
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1098.m3u8
+#EXTINF:-1,H2
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1099.m3u8
+#EXTINF:-1,FX HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1075.m3u8
+#EXTINF:-1,FOXX HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1078.m3u8
+#EXTINF:-1,Food Network HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1079.m3u8
+#EXTINF:-1,DIY Network
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1100.m3u8
+#EXTINF:-1,Discovery Science HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1080.m3u8
+#EXTINF:-1,Cinemax East
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1101.m3u8
+#EXTINF:-1,Cinemax ActionMax East
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1102.m3u8
+#EXTINF:-1,Cinemax 5 StarMax
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1103.m3u8
+#EXTINF:-1,Bein Sports USA HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/1104.m3u8
+#EXTINF:-1,FIGHT SPORT
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2277.m3u8
+#EXTINF:-1,CA | TSN 5*
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/96.m3u8
+#EXTINF:-1,TSN 4 HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/95.m3u8
+#EXTINF:-1,TSN 3*
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/94.m3u8
+#EXTINF:-1,CA | TSN 2
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/93.m3u8
+#EXTINF:-1,TSN 1
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/92.m3u8
+#EXTINF:-1,Sportsnet 360 HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/97.m3u8
+#EXTINF:-1,TBS HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/138.m3u8
+#EXTINF:-1,SEC Network
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3244.m3u8
+#EXTINF:-1,NHL Network(1)
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3474.m3u8
+#EXTINF:-1,MSNBC HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3245.m3u8
+#EXTINF:-1,MLB Network
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3477.m3u8
+#EXTINF:-1,Fox SPORTS 506 HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4009.m3u8
+#EXTINF:-1,FOX 43
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4008.m3u8
+#EXTINF:-1,ESPN 2
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/121.m3u8
+#EXTINF:-1,CNN HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/142.m3u8
+#EXTINF:-1,CINEMAX ACTION HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4010.m3u8
+#EXTINF:-1,C-Span 3
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4999.m3u8
+#EXTINF:-1,C-Span 2
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4998.m3u8
+#EXTINF:-1,C-Span 1
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/4997.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/132.m3u8
+#EXTINF:-1,NICKELODEN HD(1)
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/891.m3u8
+#EXTINF:-1,NFL Network 1
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5724.m3u8
+#EXTINF:-1,Bloomberg Europe
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5763.m3u8
+#EXTINF:-1,BNN
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5801.m3u8
+#EXTINF:-1,Boomerang
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5762.m3u8
+#EXTINF:-1,Cinemax East HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5795.m3u8
+#EXTINF:-1,Cinemax MoreMax
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5796.m3u8
+#EXTINF:-1,CW11
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5768.m3u8
+#EXTINF:-1,Discovery HD Showcase
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5761.m3u8
+#EXTINF:-1,Fine Living
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5759.m3u8
+#EXTINF:-1,FUEL HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5758.m3u8
+#EXTINF:-1,HGTV HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5794.m3u8
+#EXTINF:-1,MTV Rocks
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5757.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5756.m3u8
+#EXTINF:-1,Smile Of A Child
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5755.m3u8
+#EXTINF:-1,VH1 Classic
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5754.m3u8
+#EXTINF:-1,NBC
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/6621.m3u8
+#EXTINF:-1,Bloomberg TV
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/6978.m3u8
+#EXTINF:-1,CAPITAL TV
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7152.m3u8
+#EXTINF:-1,MY9 TV
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7156.m3u8
+#EXTINF:-1,Nursery Rhymes (Baby Songs)
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7158.m3u8
+#EXTINF:-1,THE FLORIDA CHANNEL
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7146.m3u8
+#EXTINF:-1,WEATHERNATION
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7150.m3u8
+#EXTINF:-1,WGN News Chicago
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7151.m3u8
+#EXTINF:-1,Yes Network
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7149.m3u8
+#EXTINF:-1,YTV
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7148.m3u8
+#EXTINF:-1,CNN US HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7254.m3u8
+#EXTINF:-1,ESPN News US HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7255.m3u8
+#EXTINF:-1,ESPN U HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7256.m3u8
+#EXTINF:-1,ION Television East HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7257.m3u8
+#EXTINF:-1,Lifetime Movie Network HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7259.m3u8
+#EXTINF:-1,MSG HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7253.m3u8
+#EXTINF:-1,WGN America HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/7260.m3u8
+#EXTINF:-1,WWE HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2.m3u8
+#EXTINF:-1,TLC HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/86.m3u8
+#EXTINF:-1,PAC-12 Washington
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/397.m3u8
+#EXTINF:-1,PAC-12 Oregon
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/395.m3u8
+#EXTINF:-1,PAC-12 Los Angeles
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/394.m3u8
+#EXTINF:-1,PAC-12 Bay Area
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/393.m3u8
+#EXTINF:-1,PAC-12 Arizona
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/392.m3u8
+#EXTINF:-1,NFL Network HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/90.m3u8
+#EXTINF:-1,NBCSNHD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/98.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/13.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/14.m3u8
+#EXTINF:-1,ESPN
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/189.m3u8
+#EXTINF:-1,A&E HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/50.m3u8
+#EXTINF:-1,TNT HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/122.m3u8
+#EXTINF:-1,SYFY HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/124.m3u8
+#EXTINF:-1,USA Network
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/892.m3u8
+#EXTINF:-1,NBC Golf
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3485.m3u8
+#EXTINF:-1,Investigation Discovery
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3486.m3u8
+#EXTINF:-1,HISTORY HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/895.m3u8
+#EXTINF:-1,FOX NEWS HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/127.m3u8
+#EXTINF:-1,ESPN HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/129.m3u8
+#EXTINF:-1,CW HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/140.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/141.m3u8
+#EXTINF:-1,CBS
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/131.m3u8
+#EXTINF:-1,BRAVO HD(1)
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/128.m3u8
+#EXTINF:-1,ABC NEWS HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/135.m3u8
+#EXTINF:-1,ABC HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/136.m3u8
+#EXTINF:-1,Tennis Channel HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2453.m3u8
+#EXTINF:-1,Starz Encore
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3487.m3u8
+#EXTINF:-1,Starz Etas
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3488.m3u8
+#EXTINF:-1,Starz Comedy
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3489.m3u8
+#EXTINF:-1,Starz Cinema
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3490.m3u8
+#EXTINF:-1,Showtime West
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3491.m3u8
+#EXTINF:-1,SHOWTIME HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3492.m3u8
+#EXTINF:-1,Showtime 2
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3493.m3u8
+#EXTINF:-1,  NBA TV HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3484.m3u8
+#EXTINF:-1,HBO Zone
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2454.m3u8
+#EXTINF:-1,HBO Signature
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2458.m3u8
+#EXTINF:-1,HBO HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2455.m3u8
+#EXTINF:-1,HBO East
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2456.m3u8
+#EXTINF:-1,HBO Comedy
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2457.m3u8
+#EXTINF:-1,FXX
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2452.m3u8
+#EXTINF:-1,Fight HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3632.m3u8
+#EXTINF:-1,USA: DW
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2901.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/139.m3u8
+#EXTINF:-1,CNBC
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3246.m3u8
+#EXTINF:-1,CBSN HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2222.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/15.m3u8
+#EXTINF:-1,BYU TV
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/164.m3u8
+#EXTINF:-1,AMC HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/179.m3u8
+#EXTINF:-1,NFL Network 1080i
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5726.m3u8
+#EXTINF:-1,NFL REDZONE SD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/5725.m3u8
+#EXTINF:-1,Fox HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/6965.m3u8
+#EXTINF:-1,CA : sportsnet world hd
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3058.m3u8
+#EXTINF:-1,CA: Sportsnet West HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2449.m3u8
+#EXTINF:-1,CA : Sportsnet One HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2450.m3u8
+#EXTINF:-1,CA: sportsnet 360 hd(1)
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3057.m3u8
+#EXTINF:-1,CA: Sportnet Ontario HD
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/2451.m3u8
+#EXTINF:-1,CA: Fox news
+http://iptvfree1.com:6969/live/live:iptvplanet/M6MaPB7VUJ/3013.m3u8
