@@ -1,121 +1,171 @@
 #EXTM3U
-#EXTINF:-1,Acasa Gold
-http://tv.teledunet.com:25461/live/koko123/koko123/4813.m3u8
-#EXTINF:-1,Acasa TV
-http://tv.teledunet.com:25461/live/koko123/koko123/4814.m3u8
+#EXTINF:-1, Agro TV
+http://mylatinotv.com:25461/live/dante123/dante123/15476.m3u8
+#EXTINF:-1, Bollywood TV
+http://mylatinotv.com:25461/live/dante123/dante123/15475.m3u8
+#EXTINF:-1, TVR 3
+http://mylatinotv.com:25461/live/dante123/dante123/15534.m3u8
+#EXTINF:-1,ACASA TV
+http://mylatinotv.com:25461/live/dante123/dante123/15531.m3u8
+#EXTINF:-1,Acasa Tv HD
+http://mylatinotv.com:25461/live/dante123/dante123/15530.m3u8
+#EXTINF:-1,AMC Romania
+http://mylatinotv.com:25461/live/dante123/dante123/15528.m3u8
 #EXTINF:-1,Antena 1
-http://tv.teledunet.com:25461/live/koko123/koko123/4820.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15503.m3u8
+#EXTINF:-1,ANTENA 3
+http://mylatinotv.com:25461/live/dante123/dante123/15533.m3u8
 #EXTINF:-1,Antena Stars
-http://tv.teledunet.com:25461/live/koko123/koko123/4819.m3u8
-#EXTINF:-1,AXN Black
-http://tv.teledunet.com:25461/live/koko123/koko123/4810.m3u8
-#EXTINF:-1,AXN Romania
-http://tv.teledunet.com:25461/live/koko123/koko123/4811.m3u8
-#EXTINF:-1,AXN White
-http://tv.teledunet.com:25461/live/koko123/koko123/4812.m3u8
-#EXTINF:-1,B1
-http://tv.teledunet.com:25461/live/koko123/koko123/4792.m3u8
-#EXTINF:-1,Cinemax
-http://tv.teledunet.com:25461/live/koko123/koko123/4809.m3u8
-#EXTINF:-1,Cinemax 2
-http://tv.teledunet.com:25461/live/koko123/koko123/4808.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15532.m3u8
+#EXTINF:-1,AXN
+http://mylatinotv.com:25461/live/dante123/dante123/15527.m3u8
+#EXTINF:-1,AXN RO
+http://mylatinotv.com:25461/live/dante123/dante123/15526.m3u8
+#EXTINF:-1,AXN WHITE
+http://mylatinotv.com:25461/live/dante123/dante123/15525.m3u8
+#EXTINF:-1,Bucuresti 1 TV
+http://mylatinotv.com:25461/live/dante123/dante123/15505.m3u8
+#EXTINF:-1,Cartoon Network Eastern Europe
+http://mylatinotv.com:25461/live/dante123/dante123/15462.m3u8
+#EXTINF:-1,CBS Reality
+http://mylatinotv.com:25461/live/dante123/dante123/15474.m3u8
+#EXTINF:-1,Cinemax 2 Europe
+http://mylatinotv.com:25461/live/dante123/dante123/15473.m3u8
+#EXTINF:-1,Credo TV
+http://mylatinotv.com:25461/live/dante123/dante123/15472.m3u8
 #EXTINF:-1,Digi 24
-http://tv.teledunet.com:25461/live/koko123/koko123/4784.m3u8
-#EXTINF:-1,Digi 24 Craiova
-http://tv.teledunet.com:25461/live/koko123/koko123/4824.m3u8
-#EXTINF:-1,Digi Film
-http://tv.teledunet.com:25461/live/koko123/koko123/4826.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15517.m3u8
+#EXTINF:-1,Digi Animal World
+http://mylatinotv.com:25461/live/dante123/dante123/15518.m3u8
+#EXTINF:-1,DIGI FILIM
+http://mylatinotv.com:25461/live/dante123/dante123/15521.m3u8
 #EXTINF:-1,Digi Life
-http://tv.teledunet.com:25461/live/koko123/koko123/4825.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15519.m3u8
 #EXTINF:-1,Digi Sport 1
-http://tv.teledunet.com:25461/live/koko123/koko123/4832.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15455.m3u8
 #EXTINF:-1,Digi Sport 2
-http://tv.teledunet.com:25461/live/koko123/koko123/4831.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15454.m3u8
 #EXTINF:-1,Digi Sport 3
-http://tv.teledunet.com:25461/live/koko123/koko123/4830.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15453.m3u8
 #EXTINF:-1,Digi Sport 4
-http://tv.teledunet.com:25461/live/koko123/koko123/4829.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15452.m3u8
 #EXTINF:-1,Digi World
-http://tv.teledunet.com:25461/live/koko123/koko123/4827.m3u8
-#EXTINF:-1,Digi World RO
-http://tv.teledunet.com:25461/live/koko123/koko123/4828.m3u8
-#EXTINF:-1,Discovery HD
-http://tv.teledunet.com:25461/live/koko123/koko123/4802.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15520.m3u8
+#EXTINF:-1,Discovery Channel Romania
+http://mylatinotv.com:25461/live/dante123/dante123/15465.m3u8
 #EXTINF:-1,Disney Junior
-http://tv.teledunet.com:25461/live/koko123/koko123/4797.m3u8
-#EXTINF:-1,Dolce Sport 1 HD
-http://tv.teledunet.com:25461/live/koko123/koko123/4834.m3u8
-#EXTINF:-1,Dolce Sport 2 HD
-http://tv.teledunet.com:25461/live/koko123/koko123/4833.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15460.m3u8
+#EXTINF:-1,Diva Universal Romania
+http://mylatinotv.com:25461/live/dante123/dante123/15466.m3u8
 #EXTINF:-1,Etno TV
-http://tv.teledunet.com:25461/live/koko123/koko123/4795.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15471.m3u8
 #EXTINF:-1,Eurosport
-http://tv.teledunet.com:25461/live/koko123/koko123/4823.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15457.m3u8
 #EXTINF:-1,Eurosport 2
-http://tv.teledunet.com:25461/live/koko123/koko123/4822.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15456.m3u8
+#EXTINF:-1,FAVORIT TV
+http://mylatinotv.com:25461/live/dante123/dante123/15508.m3u8
 #EXTINF:-1,Film Cafe
-http://tv.teledunet.com:25461/live/koko123/koko123/4815.m3u8
-#EXTINF:-1,Fishing & Hunting
-http://tv.teledunet.com:25461/live/koko123/koko123/4818.m3u8
-#EXTINF:-1,HBO 1
-http://tv.teledunet.com:25461/live/koko123/koko123/4807.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15507.m3u8
+#EXTINF:-1,Fine Living Network
+http://mylatinotv.com:25461/live/dante123/dante123/15504.m3u8
+#EXTINF:-1,Fishing and Hunting
+http://mylatinotv.com:25461/live/dante123/dante123/15506.m3u8
+#EXTINF:-1,Happy Channel
+http://mylatinotv.com:25461/live/dante123/dante123/15514.m3u8
 #EXTINF:-1,HBO 2
-http://tv.teledunet.com:25461/live/koko123/koko123/4806.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15523.m3u8
 #EXTINF:-1,HBO 3
-http://tv.teledunet.com:25461/live/koko123/koko123/4805.m3u8
-#EXTINF:-1,History HD
-http://tv.teledunet.com:25461/live/koko123/koko123/4800.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15522.m3u8
+#EXTINF:-1,HBO 3 Central Europe
+http://mylatinotv.com:25461/live/dante123/dante123/15470.m3u8
+#EXTINF:-1,HBO Romania
+http://mylatinotv.com:25461/live/dante123/dante123/15524.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://mylatinotv.com:25461/live/dante123/dante123/15509.m3u8
+#EXTINF:-1,HORA TV
+http://mylatinotv.com:25461/live/dante123/dante123/15510.m3u8
+#EXTINF:-1,INTERMEDIA SUCEAVA
+http://mylatinotv.com:25461/live/dante123/dante123/15511.m3u8
+#EXTINF:-1,JimJam EMEA
+http://mylatinotv.com:25461/live/dante123/dante123/15469.m3u8
 #EXTINF:-1,Kanal D
-http://tv.teledunet.com:25461/live/koko123/koko123/4789.m3u8
-#EXTINF:-1,Look Sport TV
-http://tv.teledunet.com:25461/live/koko123/koko123/4775.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15529.m3u8
+#EXTINF:-1,KISS TV
+http://mylatinotv.com:25461/live/dante123/dante123/15516.m3u8
+#EXTINF:-1,Look Plus
+http://mylatinotv.com:25461/live/dante123/dante123/15515.m3u8
+#EXTINF:-1,Look Tv
+http://mylatinotv.com:25461/live/dante123/dante123/15513.m3u8
 #EXTINF:-1,Megamax
-http://tv.teledunet.com:25461/live/koko123/koko123/4796.m3u8
-#EXTINF:-1,Mooz HD
-http://tv.teledunet.com:25461/live/koko123/koko123/4780.m3u8
-#EXTINF:-1,Music Channe hu
-http://tv.teledunet.com:25461/live/koko123/koko123/4781.m3u8
-#EXTINF:-1,National Geographic
-http://tv.teledunet.com:25461/live/koko123/koko123/4801.m3u8
-#EXTINF:-1,National TV
-http://tv.teledunet.com:25461/live/koko123/koko123/4799.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15512.m3u8
+#EXTINF:-1,Minimax
+http://mylatinotv.com:25461/live/dante123/dante123/15461.m3u8
+#EXTINF:-1,MiniMax Romania
+http://mylatinotv.com:25461/live/dante123/dante123/15484.m3u8
+#EXTINF:-1,N24 Plus
+http://mylatinotv.com:25461/live/dante123/dante123/15501.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://mylatinotv.com:25461/live/dante123/dante123/15496.m3u8
+#EXTINF:-1,Nat Geo Wild SD
+http://mylatinotv.com:25461/live/dante123/dante123/15500.m3u8
+#EXTINF:-1,National Tv
+http://mylatinotv.com:25461/live/dante123/dante123/15488.m3u8
+#EXTINF:-1,Nick Jr
+http://mylatinotv.com:25461/live/dante123/dante123/15458.m3u8
 #EXTINF:-1,Nickelodeon
-http://tv.teledunet.com:25461/live/koko123/koko123/4798.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15459.m3u8
 #EXTINF:-1,Paramount Channel
-http://tv.teledunet.com:25461/live/koko123/koko123/4803.m3u8
-#EXTINF:-1,Prima
-http://tv.teledunet.com:25461/live/koko123/koko123/4793.m3u8
-#EXTINF:-1,Pro Cinema
-http://tv.teledunet.com:25461/live/koko123/koko123/4790.m3u8
-#EXTINF:-1,PRO X
-http://tv.teledunet.com:25461/live/koko123/koko123/4777.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15499.m3u8
+#EXTINF:-1,Prima Tv
+http://mylatinotv.com:25461/live/dante123/dante123/15487.m3u8
+#EXTINF:-1,Pro 2
+http://mylatinotv.com:25461/live/dante123/dante123/15468.m3u8
+#EXTINF:-1,Pro Gold
+http://mylatinotv.com:25461/live/dante123/dante123/15494.m3u8
+#EXTINF:-1,Pro X
+http://mylatinotv.com:25461/live/dante123/dante123/15493.m3u8
+#EXTINF:-1,ProCinema
+http://mylatinotv.com:25461/live/dante123/dante123/15492.m3u8
 #EXTINF:-1,ProTV
-http://tv.teledunet.com:25461/live/koko123/koko123/4791.m3u8
-#EXTINF:-1,Realtaea TV
-http://tv.teledunet.com:25461/live/koko123/koko123/4778.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15495.m3u8
+#EXTINF:-1,ProTV International
+http://mylatinotv.com:25461/live/dante123/dante123/15498.m3u8
+#EXTINF:-1,Realitatea Tv
+http://mylatinotv.com:25461/live/dante123/dante123/15497.m3u8
+#EXTINF:-1,ROMANIA TV
+http://mylatinotv.com:25461/live/dante123/dante123/15485.m3u8
+#EXTINF:-1,RTV (Romania)
+http://mylatinotv.com:25461/live/dante123/dante123/15467.m3u8
+#EXTINF:-1,SOMAX TV
+http://mylatinotv.com:25461/live/dante123/dante123/15491.m3u8
 #EXTINF:-1,Sport.ro
-http://tv.teledunet.com:25461/live/koko123/koko123/4821.m3u8
-#EXTINF:-1,TeleMoldovaPlus
-http://tv.teledunet.com:25461/live/koko123/koko123/4779.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15502.m3u8
+#EXTINF:-1,Taraf HD
+http://mylatinotv.com:25461/live/dante123/dante123/15483.m3u8
+#EXTINF:-1,Taraf Tv
+http://mylatinotv.com:25461/live/dante123/dante123/15482.m3u8
+#EXTINF:-1,TLC
+http://mylatinotv.com:25461/live/dante123/dante123/15490.m3u8
 #EXTINF:-1,TNT
-http://tv.teledunet.com:25461/live/koko123/koko123/4804.m3u8
-#EXTINF:-1,Travel Mix
-http://tv.teledunet.com:25461/live/koko123/koko123/4776.m3u8
-#EXTINF:-1,TV 1000
-http://tv.teledunet.com:25461/live/koko123/koko123/4794.m3u8
-#EXTINF:-1,TVR
-http://tv.teledunet.com:25461/live/koko123/koko123/4788.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15489.m3u8
+#EXTINF:-1,Trinitas tv
+http://mylatinotv.com:25461/live/dante123/dante123/15481.m3u8
+#EXTINF:-1,TV   Suceava
+http://mylatinotv.com:25461/live/dante123/dante123/15486.m3u8
+#EXTINF:-1,Tv 1000
+http://mylatinotv.com:25461/live/dante123/dante123/15480.m3u8
+#EXTINF:-1,Tv Paprika
+http://mylatinotv.com:25461/live/dante123/dante123/15479.m3u8
 #EXTINF:-1,TVR 1
-http://tv.teledunet.com:25461/live/koko123/koko123/4787.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15536.m3u8
 #EXTINF:-1,TVR 2
-http://tv.teledunet.com:25461/live/koko123/koko123/4786.m3u8
-#EXTINF:-1,TVR 3
-http://tv.teledunet.com:25461/live/koko123/koko123/4785.m3u8
-#EXTINF:-1,U TV
-http://tv.teledunet.com:25461/live/koko123/koko123/4783.m3u8
-#EXTINF:-1,Universal HD
-http://tv.teledunet.com:25461/live/koko123/koko123/4782.m3u8
-#EXTINF:-1,Viasat History
-http://tv.teledunet.com:25461/live/koko123/koko123/4816.m3u8
-#EXTINF:-1,Viasat Nature
-http://tv.teledunet.com:25461/live/koko123/koko123/4817.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15535.m3u8
+#EXTINF:-1,TVR HD
+http://mylatinotv.com:25461/live/dante123/dante123/15477.m3u8
+#EXTINF:-1,Viasat Explore
+http://mylatinotv.com:25461/live/dante123/dante123/15464.m3u8
+#EXTINF:-1,Viasat Nature HD
+http://mylatinotv.com:25461/live/dante123/dante123/15463.m3u8
+#EXTINF:-1,Zu tv
+http://mylatinotv.com:25461/live/dante123/dante123/15478.m3u8

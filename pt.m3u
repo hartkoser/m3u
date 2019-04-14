@@ -1,247 +1,223 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7762.m3u8
-#EXTINF:-1,RTP 2
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7761.m3u8
-#EXTINF:-1,RTP 3
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7803.m3u8
-#EXTINF:-1,RTP Memoria
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7807.m3u8
-#EXTINF:-1,RTP Ãfrica
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7805.m3u8
-#EXTINF:-1,RTP Madeira
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7806.m3u8
-#EXTINF:-1,RTP Acores
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7804.m3u8
-#EXTINF:-1,SIC HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7760.m3u8
-#EXTINF:-1,SIC
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15376.m3u8
-#EXTINF:-1,SIC Radical
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15380.m3u8
-#EXTINF:-1,SIC Caras
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15377.m3u8
-#EXTINF:-1,SIC Mulher
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15379.m3u8
-#EXTINF:-1,Tvi 24
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7752.m3u8
-#EXTINF:-1,TVI
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7744.m3u8
-#EXTINF:-1,TVI FICCAO
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7751.m3u8
-#EXTINF:-1,Porto Canal
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7763.m3u8
-#EXTINF:-1,TPA Angola
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7808.m3u8
-#EXTINF:-1,TV Globo Premium
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7818.m3u8
-#EXTINF:-1,Cancao Nova
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15381.m3u8
-#EXTINF:-1,FTV
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15372.m3u8
-#EXTINF:-1,Fuel TV
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15373.m3u8
-#EXTINF:-1,Globo
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15362.m3u8
-#EXTINF:-1,Globo Premium
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15374.m3u8
-#EXTINF:-1,TVE Internacional
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15382.m3u8
-#EXTINF:-1,MOV
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7766.m3u8
-#EXTINF:-1,=====  Desporto =====
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/13830.m3u8
-#EXTINF:-1,Eleven Sport 1 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21586.m3u8
-#EXTINF:-1,Eleven Sport 2 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21585.m3u8
-#EXTINF:-1,Eleven Sport 3 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21584.m3u8
-#EXTINF:-1,Eleven Sport 4 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21583.m3u8
-#EXTINF:-1,Eleven Sport 5 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21582.m3u8
-#EXTINF:-1,Eleven Sport 6 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21581.m3u8
-#EXTINF:-1,SPORT TV +
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15368.m3u8
-#EXTINF:-1,SPORT TV + HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7816.m3u8
-#EXTINF:-1,SPORTTV 1 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7758.m3u8
-#EXTINF:-1,SPORTTV 1 SD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8469.m3u8
-#EXTINF:-1,SPORTTV 2 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7746.m3u8
-#EXTINF:-1,SPORTTV 2 SD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8470.m3u8
-#EXTINF:-1,SPORTTV 3 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7757.m3u8
-#EXTINF:-1,SPORTTV 3 SD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8471.m3u8
-#EXTINF:-1,SPORTTV 4 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7756.m3u8
-#EXTINF:-1,SPORTTV 5 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7745.m3u8
-#EXTINF:-1,EUROSPORT NEWS
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7769.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7743.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7739.m3u8
-#EXTINF:-1,EuroSport 2 XTRA HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15339.m3u8
-#EXTINF:-1,BTV 1 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7742.m3u8
-#EXTINF:-1,SPORTING TV
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7759.m3u8
-#EXTINF:-1,Motors TV HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7822.m3u8
-#EXTINF:-1,PFC
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7764.m3u8
-#EXTINF:-1,Caca & Pesca
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7833.m3u8
-#EXTINF:-1,ABOLA TV
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7771.m3u8
-#EXTINF:-1,Kombat Sport
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/18298.m3u8
-#EXTINF:-1,NBA TV
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/18297.m3u8
-#EXTINF:-1,====== Documentários ======
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/13828.m3u8
-#EXTINF:-1,National Geographic HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8406.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7821.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15360.m3u8
-#EXTINF:-1,Discovery Channel
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/13858.m3u8
-#EXTINF:-1,Odisseia
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7765.m3u8
-#EXTINF:-1,Travel Channel HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8407.m3u8
-#EXTINF:-1,Historia
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15363.m3u8
-#EXTINF:-1,Canal Historia
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7832.m3u8
-#EXTINF:-1,===== Infantil =====
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/13832.m3u8
-#EXTINF:-1,CANAL PANDA
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7815.m3u8
-#EXTINF:-1,Nickelodeon
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7812.m3u8
-#EXTINF:-1,Baby First
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15358.m3u8
-#EXTINF:-1,Baby Tv
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15359.m3u8
-#EXTINF:-1,Biggs
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15370.m3u8
-#EXTINF:-1,Panda Biggs
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7811.m3u8
-#EXTINF:-1,SIC Kids HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7810.m3u8
-#EXTINF:-1,SIC K
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15378.m3u8
-#EXTINF:-1,Cartoon NetWork
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7814.m3u8
-#EXTINF:-1,Disney Channel
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7813.m3u8
-#EXTINF:-1,Disney Junior
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7747.m3u8
-#EXTINF:-1,=====  Filmes e Séries =====
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/13836.m3u8
-#EXTINF:-1,TVCINE 1 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7809.m3u8
-#EXTINF:-1,TVCINE 2 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7755.m3u8
-#EXTINF:-1,TVCINE 3 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7754.m3u8
-#EXTINF:-1,TVCINE 4 HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7753.m3u8
-#EXTINF:-1,Hollywood HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7767.m3u8
-#EXTINF:-1,AMC
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15357.m3u8
-#EXTINF:-1,FOX Movies
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7824.m3u8
+#EXTINF:-1, TV SERIES
+http://mylatinotv.com:25461/live/dante123/dante123/15609.m3u8
+#EXTINF:-1,24 KITCHEN HD
+http://mylatinotv.com:25461/live/dante123/dante123/15584.m3u8
+#EXTINF:-1,A BOLA TV
+http://mylatinotv.com:25461/live/dante123/dante123/15612.m3u8
+#EXTINF:-1,Afro Music Channel
+http://mylatinotv.com:25461/live/dante123/dante123/15555.m3u8
+#EXTINF:-1,AMC HD
+http://mylatinotv.com:25461/live/dante123/dante123/15616.m3u8
+#EXTINF:-1,AXN Black HD
+http://mylatinotv.com:25461/live/dante123/dante123/15620.m3u8
 #EXTINF:-1,AXN HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7830.m3u8
-#EXTINF:-1,AXN WHITE
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7748.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15994.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7749.m3u8
-#EXTINF:-1,CINEMUNDO
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7740.m3u8
-#EXTINF:-1,FOX Crime HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7826.m3u8
-#EXTINF:-1,FOX HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7768.m3u8
-#EXTINF:-1,Fox Life HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7825.m3u8
-#EXTINF:-1,FOX COMEDY
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8473.m3u8
-#EXTINF:-1,FX
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7823.m3u8
-#EXTINF:-1,TVC Series HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15993.m3u8
-#EXTINF:-1,SyFy
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7819.m3u8
-#EXTINF:-1,===== Entretenimento =====
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/13831.m3u8
-#EXTINF:-1,A&E
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7837.m3u8
-#EXTINF:-1,E! Entertaunment
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7828.m3u8
-#EXTINF:-1,TVI REALITY
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8494.m3u8
-#EXTINF:-1,TLC
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15369.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15621.m3u8
+#EXTINF:-1,AXN White HD
+http://mylatinotv.com:25461/live/dante123/dante123/15619.m3u8
+#EXTINF:-1,Baby First TV
+http://mylatinotv.com:25461/live/dante123/dante123/15554.m3u8
+#EXTINF:-1,BabyTV
+http://mylatinotv.com:25461/live/dante123/dante123/15553.m3u8
+#EXTINF:-1,BENFICA 1
+http://mylatinotv.com:25461/live/dante123/dante123/15570.m3u8
+#EXTINF:-1,Bloomberg
+http://mylatinotv.com:25461/live/dante123/dante123/15552.m3u8
+#EXTINF:-1,Caça e Pesca
+http://mylatinotv.com:25461/live/dante123/dante123/15587.m3u8
+#EXTINF:-1,Caçavision
+http://mylatinotv.com:25461/live/dante123/dante123/15586.m3u8
+#EXTINF:-1,Canal Odisseia
+http://mylatinotv.com:25461/live/dante123/dante123/15551.m3u8
+#EXTINF:-1,CANAL PANDA
+http://mylatinotv.com:25461/live/dante123/dante123/15596.m3u8
+#EXTINF:-1,Canal Q
+http://mylatinotv.com:25461/live/dante123/dante123/15615.m3u8
+#EXTINF:-1,Cartoon Network
+http://mylatinotv.com:25461/live/dante123/dante123/15593.m3u8
 #EXTINF:-1,CBS Reality
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7831.m3u8
-#EXTINF:-1,Crime Investigation
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/18299.m3u8
-#EXTINF:-1,Dog TV FHD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/18296.m3u8
-#EXTINF:-1,Fine Living FHD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/18294.m3u8
-#EXTINF:-1,Food Network HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/18295.m3u8
-#EXTINF:-1,TVI Reality Mosaico
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21437.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 1
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21441.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 2
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21439.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 3
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21440.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 4
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/21438.m3u8
-#EXTINF:-1,MCM Pop
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15365.m3u8
-#EXTINF:-1,MCM Top
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15366.m3u8
-#EXTINF:-1,Motorvision
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15364.m3u8
-#EXTINF:-1,MTV Portugal
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15367.m3u8
-#EXTINF:-1,Afro Music
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7750.m3u8
-#EXTINF:-1,===== Lifestyle =====
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/13835.m3u8
-#EXTINF:-1,24 Kitchen HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8408.m3u8
-#EXTINF:-1,===== Informação =====
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/13833.m3u8
-#EXTINF:-1,Record News
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15375.m3u8
-#EXTINF:-1,SIC Noticias HD
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/8409.m3u8
-#EXTINF:-1,SIC Noticias
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7820.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15608.m3u8
+#EXTINF:-1,CHELSEA TV
+http://mylatinotv.com:25461/live/dante123/dante123/15569.m3u8
+#EXTINF:-1,Cinemundo
+http://mylatinotv.com:25461/live/dante123/dante123/15604.m3u8
+#EXTINF:-1,CINEMUNDO HD
+http://mylatinotv.com:25461/live/dante123/dante123/15603.m3u8
 #EXTINF:-1,CMTV
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/7829.m3u8
-#EXTINF:-1,EUroNews
-http://tv.iptvsensation.org:6500/live/v7cEyu35Bt/X5IaaEu6Js/15361.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/15613.m3u8
+#EXTINF:-1,CMTV HD
+http://mylatinotv.com:25461/live/dante123/dante123/15614.m3u8
+#EXTINF:-1,Crime  Investigation TV
+http://mylatinotv.com:25461/live/dante123/dante123/15585.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://mylatinotv.com:25461/live/dante123/dante123/15589.m3u8
+#EXTINF:-1,DISCOVERY HD SHOWCASE
+http://mylatinotv.com:25461/live/dante123/dante123/15588.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://mylatinotv.com:25461/live/dante123/dante123/15594.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://mylatinotv.com:25461/live/dante123/dante123/15595.m3u8
+#EXTINF:-1,Dog TV FHD
+http://mylatinotv.com:25461/live/dante123/dante123/15583.m3u8
+#EXTINF:-1,E! Entertainment
+http://mylatinotv.com:25461/live/dante123/dante123/15607.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15575.m3u8
+#EXTINF:-1,Eurosport 2
+http://mylatinotv.com:25461/live/dante123/dante123/15574.m3u8
+#EXTINF:-1,Fashion TV
+http://mylatinotv.com:25461/live/dante123/dante123/15550.m3u8
+#EXTINF:-1,Fight Network
+http://mylatinotv.com:25461/live/dante123/dante123/15606.m3u8
+#EXTINF:-1,Fine Living Network
+http://mylatinotv.com:25461/live/dante123/dante123/15549.m3u8
+#EXTINF:-1,FOX Comedy
+http://mylatinotv.com:25461/live/dante123/dante123/15622.m3u8
+#EXTINF:-1,Fox Crime
+http://mylatinotv.com:25461/live/dante123/dante123/15628.m3u8
+#EXTINF:-1,FOX Crime HD
+http://mylatinotv.com:25461/live/dante123/dante123/15629.m3u8
+#EXTINF:-1,FOX HD
+http://mylatinotv.com:25461/live/dante123/dante123/15630.m3u8
+#EXTINF:-1,FOX LIFE
+http://mylatinotv.com:25461/live/dante123/dante123/15626.m3u8
+#EXTINF:-1,FOX Life HD
+http://mylatinotv.com:25461/live/dante123/dante123/15627.m3u8
+#EXTINF:-1,FOX MOVIES
+http://mylatinotv.com:25461/live/dante123/dante123/15624.m3u8
+#EXTINF:-1,FOX Movies HD
+http://mylatinotv.com:25461/live/dante123/dante123/15625.m3u8
+#EXTINF:-1,FOX News
+http://mylatinotv.com:25461/live/dante123/dante123/15623.m3u8
+#EXTINF:-1,Fuel TV
+http://mylatinotv.com:25461/live/dante123/dante123/15611.m3u8
+#EXTINF:-1,Globo Portugal
+http://mylatinotv.com:25461/live/dante123/dante123/15631.m3u8
+#EXTINF:-1,GLOBO PREMIUM
+http://mylatinotv.com:25461/live/dante123/dante123/15632.m3u8
+#EXTINF:-1,Histoire
+http://mylatinotv.com:25461/live/dante123/dante123/15548.m3u8
+#EXTINF:-1,HISTORIA
+http://mylatinotv.com:25461/live/dante123/dante123/15582.m3u8
+#EXTINF:-1,Hollywood
+http://mylatinotv.com:25461/live/dante123/dante123/15602.m3u8
+#EXTINF:-1,Hollywood HD
+http://mylatinotv.com:25461/live/dante123/dante123/15601.m3u8
+#EXTINF:-1,iConcerts HD
+http://mylatinotv.com:25461/live/dante123/dante123/15563.m3u8
+#EXTINF:-1,JimJam
+http://mylatinotv.com:25461/live/dante123/dante123/15561.m3u8
+#EXTINF:-1,Kombat Sport
+http://mylatinotv.com:25461/live/dante123/dante123/15566.m3u8
+#EXTINF:-1,LOCALVISAO TV HD
+http://mylatinotv.com:25461/live/dante123/dante123/15605.m3u8
+#EXTINF:-1,MCM Pop
+http://mylatinotv.com:25461/live/dante123/dante123/15560.m3u8
+#EXTINF:-1,MCM TOP
+http://mylatinotv.com:25461/live/dante123/dante123/15559.m3u8
+#EXTINF:-1,MCS Extreme
+http://mylatinotv.com:25461/live/dante123/dante123/15558.m3u8
+#EXTINF:-1,MCS Lifestyle
+http://mylatinotv.com:25461/live/dante123/dante123/15557.m3u8
+#EXTINF:-1,MEZZO
+http://mylatinotv.com:25461/live/dante123/dante123/15547.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://mylatinotv.com:25461/live/dante123/dante123/15556.m3u8
+#EXTINF:-1,Motors TV
+http://mylatinotv.com:25461/live/dante123/dante123/15565.m3u8
+#EXTINF:-1,Motorvision
+http://mylatinotv.com:25461/live/dante123/dante123/15564.m3u8
+#EXTINF:-1,MTV Portugal
+http://mylatinotv.com:25461/live/dante123/dante123/15546.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://mylatinotv.com:25461/live/dante123/dante123/15590.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://mylatinotv.com:25461/live/dante123/dante123/15591.m3u8
+#EXTINF:-1,National Geographic HD
+http://mylatinotv.com:25461/live/dante123/dante123/15592.m3u8
+#EXTINF:-1,NBA TV
+http://mylatinotv.com:25461/live/dante123/dante123/15568.m3u8
+#EXTINF:-1,Nickelodeon
+http://mylatinotv.com:25461/live/dante123/dante123/15545.m3u8
+#EXTINF:-1,PFC Internacional
+http://mylatinotv.com:25461/live/dante123/dante123/15567.m3u8
+#EXTINF:-1,PORTO CANAL
+http://mylatinotv.com:25461/live/dante123/dante123/15571.m3u8
+#EXTINF:-1,Real Madrid TV
+http://mylatinotv.com:25461/live/dante123/dante123/15562.m3u8
+#EXTINF:-1,RTP 1
+http://mylatinotv.com:25461/live/dante123/dante123/15647.m3u8
+#EXTINF:-1,RTP 2
+http://mylatinotv.com:25461/live/dante123/dante123/15646.m3u8
+#EXTINF:-1,RTP 3
+http://mylatinotv.com:25461/live/dante123/dante123/15645.m3u8
+#EXTINF:-1,RTP ACORES
+http://mylatinotv.com:25461/live/dante123/dante123/15644.m3u8
+#EXTINF:-1,RTP Africa
+http://mylatinotv.com:25461/live/dante123/dante123/15544.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://mylatinotv.com:25461/live/dante123/dante123/15643.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://mylatinotv.com:25461/live/dante123/dante123/15642.m3u8
+#EXTINF:-1,RTPi
+http://mylatinotv.com:25461/live/dante123/dante123/15648.m3u8
+#EXTINF:-1,SIC
+http://mylatinotv.com:25461/live/dante123/dante123/15641.m3u8
+#EXTINF:-1,SIC Caras
+http://mylatinotv.com:25461/live/dante123/dante123/15636.m3u8
+#EXTINF:-1,SIC K
+http://mylatinotv.com:25461/live/dante123/dante123/15640.m3u8
+#EXTINF:-1,SIC MULHER
+http://mylatinotv.com:25461/live/dante123/dante123/15637.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://mylatinotv.com:25461/live/dante123/dante123/15639.m3u8
+#EXTINF:-1,SIC RADICAL
+http://mylatinotv.com:25461/live/dante123/dante123/15638.m3u8
+#EXTINF:-1,SPORT TV
+http://mylatinotv.com:25461/live/dante123/dante123/15581.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15580.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15579.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15578.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15577.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15576.m3u8
+#EXTINF:-1,SPORTING TV
+http://mylatinotv.com:25461/live/dante123/dante123/15572.m3u8
+#EXTINF:-1,SYFY
+http://mylatinotv.com:25461/live/dante123/dante123/15617.m3u8
+#EXTINF:-1,TLC
+http://mylatinotv.com:25461/live/dante123/dante123/15543.m3u8
+#EXTINF:-1,TOROS TV
+http://mylatinotv.com:25461/live/dante123/dante123/15573.m3u8
+#EXTINF:-1,TRACE URBAN
+http://mylatinotv.com:25461/live/dante123/dante123/15542.m3u8
+#EXTINF:-1,Travel Channel
+http://mylatinotv.com:25461/live/dante123/dante123/15541.m3u8
+#EXTINF:-1,TV Canção Nova
+http://mylatinotv.com:25461/live/dante123/dante123/15540.m3u8
+#EXTINF:-1,TV RECORD
+http://mylatinotv.com:25461/live/dante123/dante123/15633.m3u8
+#EXTINF:-1,TVC 1 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15600.m3u8
+#EXTINF:-1,TVC 2 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15599.m3u8
+#EXTINF:-1,TVC 3 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15598.m3u8
+#EXTINF:-1,TVC 4 HD
+http://mylatinotv.com:25461/live/dante123/dante123/15597.m3u8
+#EXTINF:-1,TVI
+http://mylatinotv.com:25461/live/dante123/dante123/15635.m3u8
+#EXTINF:-1,TVI 24
+http://mylatinotv.com:25461/live/dante123/dante123/15634.m3u8
+#EXTINF:-1,TVI Ficção
+http://mylatinotv.com:25461/live/dante123/dante123/15618.m3u8
+#EXTINF:-1,TVI Reality
+http://mylatinotv.com:25461/live/dante123/dante123/15610.m3u8
+#EXTINF:-1,VH1
+http://mylatinotv.com:25461/live/dante123/dante123/15539.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://mylatinotv.com:25461/live/dante123/dante123/15538.m3u8
