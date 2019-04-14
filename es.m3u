@@ -1,85 +1,663 @@
 #EXTM3U
+#EXTINF:-1,LA 1
+http://mylatinotv.com:25461/live/dante123/dante123/34300.m3u8
+#EXTINF:-1,LA 1 FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34299.m3u8
+#EXTINF:-1,LA 2
+http://mylatinotv.com:25461/live/dante123/dante123/34298.m3u8
+#EXTINF:-1,La 2 FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34297.m3u8
+#EXTINF:-1,ANTENA 3
+http://mylatinotv.com:25461/live/dante123/dante123/34296.m3u8
+#EXTINF:-1,ANTENA 3 FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34295.m3u8
+#EXTINF:-1,LA CUATRO
+http://mylatinotv.com:25461/live/dante123/dante123/34294.m3u8
+#EXTINF:-1,LA CUATRO FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34293.m3u8
+#EXTINF:-1,TELECINCO
+http://mylatinotv.com:25461/live/dante123/dante123/34292.m3u8
+#EXTINF:-1,TELECINCO FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34291.m3u8
+#EXTINF:-1,LA SEXTA
+http://mylatinotv.com:25461/live/dante123/dante123/34290.m3u8
+#EXTINF:-1,LA SEXTA  FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34289.m3u8
+#EXTINF:-1,13 TV
+http://mylatinotv.com:25461/live/dante123/dante123/34235.m3u8
+#EXTINF:-1,24 HORAS
+http://mylatinotv.com:25461/live/dante123/dante123/34234.m3u8
+#EXTINF:-1,7RM FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34233.m3u8
+#EXTINF:-1,8Tv
+http://mylatinotv.com:25461/live/dante123/dante123/34232.m3u8
+#EXTINF:-1,A3SERIES
+http://mylatinotv.com:25461/live/dante123/dante123/34231.m3u8
 #EXTINF:-1,AMC
-http://163.172.82.81:50100/live/Stark/Stark/5097.m3u8
-#EXTINF:-1,AXN White HD
-http://163.172.82.81:50100/live/Stark/Stark/5111.m3u8
-#EXTINF:-1,Azteca Honduras
-http://163.172.82.81:50100/live/Stark/Stark/5110.m3u8
-#EXTINF:-1,Azteca Noticias
-http://163.172.82.81:50100/live/Stark/Stark/5109.m3u8
-#EXTINF:-1,Azteca Trece
-http://163.172.82.81:50100/live/Stark/Stark/5108.m3u8
-#EXTINF:-1,BABY TV
-http://163.172.82.81:50100/live/Stark/Stark/5096.m3u8
-#EXTINF:-1,BeinSports-HD
-http://163.172.82.81:50100/live/Stark/Stark/1481.m3u8
-#EXTINF:-1,Crime & Investigation
-http://163.172.82.81:50100/live/Stark/Stark/5107.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://163.172.82.81:50100/live/Stark/Stark/5106.m3u8
-#EXTINF:-1,Disney Channel HD
-http://163.172.82.81:50100/live/Stark/Stark/5105.m3u8
-#EXTINF:-1,Disney Junior HD
-http://163.172.82.81:50100/live/Stark/Stark/5104.m3u8
-#EXTINF:-1,Disney XD
-http://163.172.82.81:50100/live/Stark/Stark/5103.m3u8
-#EXTINF:-1,EuroSport-1-HD
-http://163.172.82.81:50100/live/Stark/Stark/1586.m3u8
-#EXTINF:-1,EuroSport-2-HD
-http://163.172.82.81:50100/live/Stark/Stark/5101.m3u8
-#EXTINF:-1,FOX Life HD
-http://163.172.82.81:50100/live/Stark/Stark/5100.m3u8
-#EXTINF:-1,LA-2-HD
-http://163.172.82.81:50100/live/Stark/Stark/5120.m3u8
-#EXTINF:-1,LA-Sexta-HD
-http://163.172.82.81:50100/live/Stark/Stark/454.m3u8
-#EXTINF:-1,LA7
-http://163.172.82.81:50100/live/Stark/Stark/5095.m3u8
-#EXTINF:-1,MEGA HD
-http://163.172.82.81:50100/live/Stark/Stark/5098.m3u8
-#EXTINF:-1,MoviStar Deporte 2
-http://163.172.82.81:50100/live/Stark/Stark/5116.m3u8
-#EXTINF:-1,MoviStar Odisea
-http://163.172.82.81:50100/live/Stark/Stark/5119.m3u8
-#EXTINF:-1,MoviStar SERIES EXTRA
-http://163.172.82.81:50100/live/Stark/Stark/5099.m3u8
-#EXTINF:-1,MoviStar Series HD
-http://163.172.82.81:50100/live/Stark/Stark/5118.m3u8
-#EXTINF:-1,MoviStar Toros
-http://163.172.82.81:50100/live/Stark/Stark/5117.m3u8
-#EXTINF:-1,MoviStar-0#-HD
-http://163.172.82.81:50100/live/Stark/Stark/2798.m3u8
-#EXTINF:-1,MoviStar-Accion-HD
-http://163.172.82.81:50100/live/Stark/Stark/1588.m3u8
-#EXTINF:-1,MoviStar-Comedia-HD
-http://163.172.82.81:50100/live/Stark/Stark/1589.m3u8
-#EXTINF:-1,MoviStar-Dcine-HD
-http://163.172.82.81:50100/live/Stark/Stark/1590.m3u8
-#EXTINF:-1,MoviStar-Deportes-1-HD
-http://163.172.82.81:50100/live/Stark/Stark/2797.m3u8
-#EXTINF:-1,MoviStar-Estrenos-HD
-http://163.172.82.81:50100/live/Stark/Stark/1592.m3u8
-#EXTINF:-1,MoviStar-F1-HD
-http://163.172.82.81:50100/live/Stark/Stark/2796.m3u8
-#EXTINF:-1,MoviStar-Futbol-HD
-http://163.172.82.81:50100/live/Stark/Stark/446.m3u8
-#EXTINF:-1,MoviStar-Golf-HD
-http://163.172.82.81:50100/live/Stark/Stark/1593.m3u8
-#EXTINF:-1,MoviStar-Ligo-HD
-http://163.172.82.81:50100/live/Stark/Stark/544.m3u8
-#EXTINF:-1,MoviStar-Motogp-HD
-http://163.172.82.81:50100/live/Stark/Stark/1484.m3u8
-#EXTINF:-1,National Geographic
-http://163.172.82.81:50100/live/Stark/Stark/5093.m3u8
-#EXTINF:-1,National Geographic Wild
-http://163.172.82.81:50100/live/Stark/Stark/5092.m3u8
-#EXTINF:-1,Paramount Channel Es HD
-http://163.172.82.81:50100/live/Stark/Stark/5113.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/34230.m3u8
+#EXTINF:-1,AMC FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34229.m3u8
+#EXTINF:-1,ANDALUCIA TV
+http://mylatinotv.com:25461/live/dante123/dante123/34228.m3u8
+#EXTINF:-1,ARAGON TV
+http://mylatinotv.com:25461/live/dante123/dante123/34227.m3u8
+#EXTINF:-1,AXN
+http://mylatinotv.com:25461/live/dante123/dante123/34226.m3u8
+#EXTINF:-1,AXN  WHITE
+http://mylatinotv.com:25461/live/dante123/dante123/34225.m3u8
+#EXTINF:-1,AXN  WHITE FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34224.m3u8
+#EXTINF:-1,AXN FULL HD
+http://mylatinotv.com:25461/live/dante123/dante123/34223.m3u8
+#EXTINF:-1,BABY  TV
+http://mylatinotv.com:25461/live/dante123/dante123/34222.m3u8
+#EXTINF:-1,BARCA TV
+http://mylatinotv.com:25461/live/dante123/dante123/34221.m3u8
+#EXTINF:-1,BE MAD FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34220.m3u8
+#EXTINF:-1,BLAZE
+http://mylatinotv.com:25461/live/dante123/dante123/34219.m3u8
+#EXTINF:-1,BOING
+http://mylatinotv.com:25461/live/dante123/dante123/34237.m3u8
+#EXTINF:-1,CALLE 13
+http://mylatinotv.com:25461/live/dante123/dante123/34218.m3u8
+#EXTINF:-1,CALLE 13 FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34217.m3u8
+#EXTINF:-1,CANAL ORBE21
+http://mylatinotv.com:25461/live/dante123/dante123/34216.m3u8
+#EXTINF:-1,CANAL SUR FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34215.m3u8
+#EXTINF:-1,CAZA  Y PESCA
+http://mylatinotv.com:25461/live/dante123/dante123/34214.m3u8
+#EXTINF:-1,CI
+http://mylatinotv.com:25461/live/dante123/dante123/34212.m3u8
+#EXTINF:-1,CLAN
+http://mylatinotv.com:25461/live/dante123/dante123/34211.m3u8
+#EXTINF:-1,CLAN HD
+http://mylatinotv.com:25461/live/dante123/dante123/34210.m3u8
+#EXTINF:-1,CLASSICA
+http://mylatinotv.com:25461/live/dante123/dante123/34382.m3u8
+#EXTINF:-1,CMM HD
+http://mylatinotv.com:25461/live/dante123/dante123/34209.m3u8
+#EXTINF:-1,COCINA
+http://mylatinotv.com:25461/live/dante123/dante123/34208.m3u8
+#EXTINF:-1,COCINA FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34207.m3u8
+#EXTINF:-1,COMEDY  CENTRAL
+http://mylatinotv.com:25461/live/dante123/dante123/34206.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://mylatinotv.com:25461/live/dante123/dante123/34205.m3u8
+#EXTINF:-1,COSMOPOLITAN  FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34204.m3u8
+#EXTINF:-1,COSMOS
+http://mylatinotv.com:25461/live/dante123/dante123/34203.m3u8
+#EXTINF:-1,DARK
+http://mylatinotv.com:25461/live/dante123/dante123/34202.m3u8
+#EXTINF:-1,DECASA
+http://mylatinotv.com:25461/live/dante123/dante123/34201.m3u8
+#EXTINF:-1,DISCOVERY  CHANNEL
+http://mylatinotv.com:25461/live/dante123/dante123/34200.m3u8
+#EXTINF:-1,DISNEY  JUNIOR
+http://mylatinotv.com:25461/live/dante123/dante123/34199.m3u8
+#EXTINF:-1,DISNEY  XD
+http://mylatinotv.com:25461/live/dante123/dante123/34198.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://mylatinotv.com:25461/live/dante123/dante123/34197.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://mylatinotv.com:25461/live/dante123/dante123/34196.m3u8
+#EXTINF:-1,DIVINITY
+http://mylatinotv.com:25461/live/dante123/dante123/34195.m3u8
+#EXTINF:-1,DKISS
+http://mylatinotv.com:25461/live/dante123/dante123/34194.m3u8
+#EXTINF:-1,DMAX
+http://mylatinotv.com:25461/live/dante123/dante123/34193.m3u8
+#EXTINF:-1,ENERGY
+http://mylatinotv.com:25461/live/dante123/dante123/34192.m3u8
+#EXTINF:-1,ETB 1
+http://mylatinotv.com:25461/live/dante123/dante123/34191.m3u8
+#EXTINF:-1,EXTREMADURA TV
+http://mylatinotv.com:25461/live/dante123/dante123/34190.m3u8
+#EXTINF:-1,FDF
+http://mylatinotv.com:25461/live/dante123/dante123/34189.m3u8
+#EXTINF:-1,FOX
+http://mylatinotv.com:25461/live/dante123/dante123/34188.m3u8
+#EXTINF:-1,FOX FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34187.m3u8
+#EXTINF:-1,FOX LIFE
+http://mylatinotv.com:25461/live/dante123/dante123/34186.m3u8
+#EXTINF:-1,FOX LIFE FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34185.m3u8
+#EXTINF:-1,HIT TV
+http://mylatinotv.com:25461/live/dante123/dante123/34184.m3u8
+#EXTINF:-1,HISTORIA
+http://mylatinotv.com:25461/live/dante123/dante123/34375.m3u8
+#EXTINF:-1,HISTORIA FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34374.m3u8
+#EXTINF:-1,Iberalia
+http://mylatinotv.com:25461/live/dante123/dante123/34373.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://mylatinotv.com:25461/live/dante123/dante123/34183.m3u8
+#EXTINF:-1,HOLLYWOOD FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34238.m3u8
+#EXTINF:-1,INTERECONOMIA
+http://mylatinotv.com:25461/live/dante123/dante123/34182.m3u8
+#EXTINF:-1,LA OTRA
+http://mylatinotv.com:25461/live/dante123/dante123/34181.m3u8
+#EXTINF:-1,MEGA
+http://mylatinotv.com:25461/live/dante123/dante123/34180.m3u8
+#EXTINF:-1,MEZZO LIVE
+http://mylatinotv.com:25461/live/dante123/dante123/34179.m3u8
+#EXTINF:-1,MEZZO LIVE FULL HD
+http://mylatinotv.com:25461/live/dante123/dante123/34178.m3u8
+#EXTINF:-1,MOVISTAR  0#
+http://mylatinotv.com:25461/live/dante123/dante123/34288.m3u8
+#EXTINF:-1,MOVISTAR 0# FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34285.m3u8
+#EXTINF:-1,MOVISTAR 0# HD
+http://mylatinotv.com:25461/live/dante123/dante123/34284.m3u8
+#EXTINF:-1,MOVISTAR  ACCION
+http://mylatinotv.com:25461/live/dante123/dante123/34287.m3u8
+#EXTINF:-1,MOVISTAR ACCION FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34283.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD
+http://mylatinotv.com:25461/live/dante123/dante123/34282.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://mylatinotv.com:25461/live/dante123/dante123/34281.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34280.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://mylatinotv.com:25461/live/dante123/dante123/34279.m3u8
+#EXTINF:-1,MOVISTAR DCINE  Ñ
+http://mylatinotv.com:25461/live/dante123/dante123/34278.m3u8
+#EXTINF:-1,MOVISTAR DCINE FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34277.m3u8
+#EXTINF:-1,MOVISTAR  DISNEY
+http://mylatinotv.com:25461/live/dante123/dante123/34286.m3u8
+#EXTINF:-1,MOVISTAR ESPORTS
+http://mylatinotv.com:25461/live/dante123/dante123/34276.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://mylatinotv.com:25461/live/dante123/dante123/34275.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34274.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS HD
+http://mylatinotv.com:25461/live/dante123/dante123/34273.m3u8
+#EXTINF:-1,MOVISTAR SERIES
+http://mylatinotv.com:25461/live/dante123/dante123/34272.m3u8
+#EXTINF:-1,MOVISTAR SERIES FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34271.m3u8
+#EXTINF:-1,MOVISTAR SERIES XTRA
+http://mylatinotv.com:25461/live/dante123/dante123/34270.m3u8
+#EXTINF:-1,MOVISTAR SERIES XTRA FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34269.m3u8
+#EXTINF:-1,MOVISTAR XTRA
+http://mylatinotv.com:25461/live/dante123/dante123/34268.m3u8
+#EXTINF:-1,MOVISTAR XTRA FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34267.m3u8
+#EXTINF:-1,MTV
+http://mylatinotv.com:25461/live/dante123/dante123/34266.m3u8
+#EXTINF:-1,NAT GEO
+http://mylatinotv.com:25461/live/dante123/dante123/34265.m3u8
+#EXTINF:-1,NAT GEO  WILD
+http://mylatinotv.com:25461/live/dante123/dante123/34264.m3u8
+#EXTINF:-1,NAT GEO FULLHD
+http://mylatinotv.com:25461/live/dante123/dante123/34263.m3u8
+#EXTINF:-1,NAT GEO WILD FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34262.m3u8
+#EXTINF:-1,NEOX
+http://mylatinotv.com:25461/live/dante123/dante123/34261.m3u8
+#EXTINF:-1,NICK JR
+http://mylatinotv.com:25461/live/dante123/dante123/34260.m3u8
+#EXTINF:-1,NICKELODEON
+http://mylatinotv.com:25461/live/dante123/dante123/34259.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://mylatinotv.com:25461/live/dante123/dante123/34258.m3u8
+#EXTINF:-1,NOVA
+http://mylatinotv.com:25461/live/dante123/dante123/34236.m3u8
+#EXTINF:-1,ODISEA
+http://mylatinotv.com:25461/live/dante123/dante123/34257.m3u8
+#EXTINF:-1,PANDA
+http://mylatinotv.com:25461/live/dante123/dante123/34256.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://mylatinotv.com:25461/live/dante123/dante123/34255.m3u8
+#EXTINF:-1,SOL Music
+http://mylatinotv.com:25461/live/dante123/dante123/34254.m3u8
+#EXTINF:-1,SOMOS
+http://mylatinotv.com:25461/live/dante123/dante123/34253.m3u8
+#EXTINF:-1,SUNDANCE
+http://mylatinotv.com:25461/live/dante123/dante123/34252.m3u8
+#EXTINF:-1,SUNDANCE FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34251.m3u8
+#EXTINF:-1,SYFY
+http://mylatinotv.com:25461/live/dante123/dante123/34250.m3u8
+#EXTINF:-1,SYFY FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34249.m3u8
 #EXTINF:-1,TCM
-http://163.172.82.81:50100/live/Stark/Stark/5112.m3u8
-#EXTINF:-1,Telecinco
-http://163.172.82.81:50100/live/Stark/Stark/5114.m3u8
-#EXTINF:-1,Teledeporte
-http://163.172.82.81:50100/live/Stark/Stark/2801.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/34248.m3u8
+#EXTINF:-1,TCM FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34247.m3u8
+#EXTINF:-1,TELEMADRID FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34246.m3u8
+#EXTINF:-1,TEN
+http://mylatinotv.com:25461/live/dante123/dante123/34245.m3u8
 #EXTINF:-1,TNT
-http://163.172.82.81:50100/live/Stark/Stark/5121.m3u8
+http://mylatinotv.com:25461/live/dante123/dante123/34244.m3u8
+#EXTINF:-1,TNT FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34243.m3u8
+#EXTINF:-1,TV 13
+http://mylatinotv.com:25461/live/dante123/dante123/34242.m3u8
+#EXTINF:-1,Viajar
+http://mylatinotv.com:25461/live/dante123/dante123/34241.m3u8
+#EXTINF:-1,VIAJAR FULLHD
+http://mylatinotv.com:25461/live/dante123/dante123/34240.m3u8
+#EXTINF:-1,XTRM
+http://mylatinotv.com:25461/live/dante123/dante123/34239.m3u8
+#EXTINF:-1,AUTO  Inter Almeria
+http://mylatinotv.com:25461/live/dante123/dante123/73689.m3u8
+#EXTINF:-1,AUTO 324 noticias
+http://mylatinotv.com:25461/live/dante123/dante123/73688.m3u8
+#EXTINF:-1,AUTO ARAGON TV
+http://mylatinotv.com:25461/live/dante123/dante123/73687.m3u8
+#EXTINF:-1,AUTO canal 33 catalan
+http://mylatinotv.com:25461/live/dante123/dante123/73686.m3u8
+#EXTINF:-1,AUTO Canal 4 Mancha Centro
+http://mylatinotv.com:25461/live/dante123/dante123/73685.m3u8
+#EXTINF:-1,AUTO Canal 4 Tenerife
+http://mylatinotv.com:25461/live/dante123/dante123/73684.m3u8
+#EXTINF:-1,AUTO Canal 45 TV
+http://mylatinotv.com:25461/live/dante123/dante123/73683.m3u8
+#EXTINF:-1,AUTO Canal Andalucia Cocina TV
+http://mylatinotv.com:25461/live/dante123/dante123/73682.m3u8
+#EXTINF:-1,AUTO Canal Andalucia Flamenco TV
+http://mylatinotv.com:25461/live/dante123/dante123/73681.m3u8
+#EXTINF:-1,AUTO Canal Andalucia Turismo TV
+http://mylatinotv.com:25461/live/dante123/dante123/73680.m3u8
+#EXTINF:-1,AUTO Canal Costa
+http://mylatinotv.com:25461/live/dante123/dante123/73679.m3u8
+#EXTINF:-1,AUTO Canal Do
+http://mylatinotv.com:25461/live/dante123/dante123/73678.m3u8
+#EXTINF:-1,AUTO Canal Malaga
+http://mylatinotv.com:25461/live/dante123/dante123/73677.m3u8
+#EXTINF:-1,AUTO CANAL ORBE21
+http://mylatinotv.com:25461/live/dante123/dante123/73676.m3u8
+#EXTINF:-1,AUTO Canal Parlamento
+http://mylatinotv.com:25461/live/dante123/dante123/73675.m3u8
+#EXTINF:-1,AUTO La Tele TV
+http://mylatinotv.com:25461/live/dante123/dante123/73674.m3u8
+#EXTINF:-1,AUTO Lancelot TV
+http://mylatinotv.com:25461/live/dante123/dante123/73673.m3u8
+#EXTINF:-1,AUTO Lebrija TV
+http://mylatinotv.com:25461/live/dante123/dante123/73672.m3u8
+#EXTINF:-1,13 TV
+http://mylatinotv.com:25461/live/dante123/dante123/73704.m3u8
+#EXTINF:-1,7RM FHD
+http://mylatinotv.com:25461/live/dante123/dante123/73703.m3u8
+#EXTINF:-1,CANAL ORBE21
+http://mylatinotv.com:25461/live/dante123/dante123/73695.m3u8
+#EXTINF:-1,CANAL SUR FHD
+http://mylatinotv.com:25461/live/dante123/dante123/73702.m3u8
+#EXTINF:-1,CLASSICA
+http://mylatinotv.com:25461/live/dante123/dante123/73692.m3u8
+#EXTINF:-1,CMM HD
+http://mylatinotv.com:25461/live/dante123/dante123/73701.m3u8
+#EXTINF:-1,ETB 1
+http://mylatinotv.com:25461/live/dante123/dante123/73700.m3u8
+#EXTINF:-1,EXTREMADURA TV
+http://mylatinotv.com:25461/live/dante123/dante123/73699.m3u8
+#EXTINF:-1,Extreme EMEA
+http://mylatinotv.com:25461/live/dante123/dante123/73693.m3u8
+#EXTINF:-1,FOX NEWS
+http://mylatinotv.com:25461/live/dante123/dante123/73694.m3u8
+#EXTINF:-1,INTERECONOMIA
+http://mylatinotv.com:25461/live/dante123/dante123/73697.m3u8
+#EXTINF:-1,LA OTRA
+http://mylatinotv.com:25461/live/dante123/dante123/73698.m3u8
+#EXTINF:-1,TELEMADRID FHD
+http://mylatinotv.com:25461/live/dante123/dante123/73696.m3u8
+#EXTINF:-1,TV3
+http://mylatinotv.com:25461/live/dante123/dante123/73691.m3u8
+#EXTINF:-1,TV3 Càmeres
+http://mylatinotv.com:25461/live/dante123/dante123/73690.m3u8
+#EXTINF:-1,BEIN LALIGA
+http://mylatinotv.com:25461/live/dante123/dante123/34387.m3u8
+#EXTINF:-1,BEIN LALIGA HD
+http://mylatinotv.com:25461/live/dante123/dante123/34397.m3u8
+#EXTINF:-1,BEIN LALIGA FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34396.m3u8
+#EXTINF:-1,BEIN LALIGA 1
+http://mylatinotv.com:25461/live/dante123/dante123/34386.m3u8
+#EXTINF:-1,BEIN LALIGA 1 HD
+http://mylatinotv.com:25461/live/dante123/dante123/34395.m3u8
+#EXTINF:-1,BEIN  LALIGA 2
+http://mylatinotv.com:25461/live/dante123/dante123/34388.m3u8
+#EXTINF:-1,BEIN LALIGA 2 FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34394.m3u8
+#EXTINF:-1,BEIN  LALIGA 3
+http://mylatinotv.com:25461/live/dante123/dante123/34391.m3u8
+#EXTINF:-1,BEIN  LALIGA 4
+http://mylatinotv.com:25461/live/dante123/dante123/34390.m3u8
+#EXTINF:-1,BEIN LALIGA 5
+http://mylatinotv.com:25461/live/dante123/dante123/34389.m3u8
+#EXTINF:-1,BEIN LALIGA 6
+http://mylatinotv.com:25461/live/dante123/dante123/34385.m3u8
+#EXTINF:-1,BEIN LALIGA 7
+http://mylatinotv.com:25461/live/dante123/dante123/34384.m3u8
+#EXTINF:-1,BEIN LALIGA 8
+http://mylatinotv.com:25461/live/dante123/dante123/34383.m3u8
+#EXTINF:-1,CAZA Y PESCA HD
+http://mylatinotv.com:25461/live/dante123/dante123/34213.m3u8
+#EXTINF:-1,EUROSPORT  ES
+http://mylatinotv.com:25461/live/dante123/dante123/34379.m3u8
+#EXTINF:-1,EUROSPORT 1 FULL HD
+http://mylatinotv.com:25461/live/dante123/dante123/34378.m3u8
+#EXTINF:-1,Eurosport  2
+http://mylatinotv.com:25461/live/dante123/dante123/34380.m3u8
+#EXTINF:-1,ESPORT 3
+http://mylatinotv.com:25461/live/dante123/dante123/34381.m3u8
+#EXTINF:-1,Extreme EMEA
+http://mylatinotv.com:25461/live/dante123/dante123/34377.m3u8
+#EXTINF:-1,GOL TV
+http://mylatinotv.com:25461/live/dante123/dante123/34376.m3u8
+#EXTINF:-1,LA LIGATV BAR 1
+http://mylatinotv.com:25461/live/dante123/dante123/34393.m3u8
+#EXTINF:-1,LIGA 123 FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34372.m3u8
+#EXTINF:-1,LIGA 123 HD
+http://mylatinotv.com:25461/live/dante123/dante123/34371.m3u8
+#EXTINF:-1,LIGA 123 MULTI 1
+http://mylatinotv.com:25461/live/dante123/dante123/34370.m3u8
+#EXTINF:-1,LIGA 123 MULTI 2
+http://mylatinotv.com:25461/live/dante123/dante123/34369.m3u8
+#EXTINF:-1,LIGA 123 MULTI 3
+http://mylatinotv.com:25461/live/dante123/dante123/34368.m3u8
+#EXTINF:-1,LIGA 123 SD
+http://mylatinotv.com:25461/live/dante123/dante123/34367.m3u8
+#EXTINF:-1,LIGA CAMPEONES
+http://mylatinotv.com:25461/live/dante123/dante123/34366.m3u8
+#EXTINF:-1,LIGA CAMPEONES 2 HD
+http://mylatinotv.com:25461/live/dante123/dante123/34365.m3u8
+#EXTINF:-1,LIGA CAMPEONES HD
+http://mylatinotv.com:25461/live/dante123/dante123/34364.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES 1 España
+http://mylatinotv.com:25461/live/dante123/dante123/34363.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES 1 HD
+http://mylatinotv.com:25461/live/dante123/dante123/34362.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES 2  España
+http://mylatinotv.com:25461/live/dante123/dante123/34361.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES 3  España
+http://mylatinotv.com:25461/live/dante123/dante123/34360.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES 5  España
+http://mylatinotv.com:25461/live/dante123/dante123/34359.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES 6  España
+http://mylatinotv.com:25461/live/dante123/dante123/34358.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES 7  España
+http://mylatinotv.com:25461/live/dante123/dante123/34357.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES 8 ESPAÑA
+http://mylatinotv.com:25461/live/dante123/dante123/34356.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34355.m3u8
+#EXTINF:-1,LIGA DE CAMPEONES4  España
+http://mylatinotv.com:25461/live/dante123/dante123/34354.m3u8
+#EXTINF:-1,LIGA TV HD
+http://mylatinotv.com:25461/live/dante123/dante123/34353.m3u8
+#EXTINF:-1,LIGATV FULL HD
+http://mylatinotv.com:25461/live/dante123/dante123/34352.m3u8
+#EXTINF:-1,LIGATV SD
+http://mylatinotv.com:25461/live/dante123/dante123/34351.m3u8
+#EXTINF:-1,ES-SP-VIP DAZN MOTO GP FULLHD
+http://mylatinotv.com:25461/live/dante123/dante123/73705.m3u8
+#EXTINF:-1,MOVISTAR  DEPORTE
+http://mylatinotv.com:25461/live/dante123/dante123/34350.m3u8
+#EXTINF:-1,MOVISTAR  DEPORTE 2
+http://mylatinotv.com:25461/live/dante123/dante123/34349.m3u8
+#EXTINF:-1,MOVISTAR  FUTBOL
+http://mylatinotv.com:25461/live/dante123/dante123/34348.m3u8
+#EXTINF:-1,MOVISTAR  GOLF
+http://mylatinotv.com:25461/live/dante123/dante123/34347.m3u8
+#EXTINF:-1,MOVISTAR  MOTO GP
+http://mylatinotv.com:25461/live/dante123/dante123/34346.m3u8
+#EXTINF:-1,MOVISTAR  TOROS TV
+http://mylatinotv.com:25461/live/dante123/dante123/34345.m3u8
+#EXTINF:-1,MOVISTAR DEPORTE 1 FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34344.m3u8
+#EXTINF:-1,MOVISTAR DEPORTE 2 HD
+http://mylatinotv.com:25461/live/dante123/dante123/34343.m3u8
+#EXTINF:-1,MOVISTAR DEPORTE HD
+http://mylatinotv.com:25461/live/dante123/dante123/34342.m3u8
+#EXTINF:-1,MOVISTAR F1 FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34341.m3u8
+#EXTINF:-1,MOVISTAR F1 HD
+http://mylatinotv.com:25461/live/dante123/dante123/34340.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL HD
+http://mylatinotv.com:25461/live/dante123/dante123/34339.m3u8
+#EXTINF:-1,MOVISTAR FUTBOLL FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34338.m3u8
+#EXTINF:-1,MOVISTAR GOLF FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34337.m3u8
+#EXTINF:-1,MOVISTAR MOTO GP FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34336.m3u8
+#EXTINF:-1,MOVISTAR MOTO GP HD
+http://mylatinotv.com:25461/live/dante123/dante123/34335.m3u8
+#EXTINF:-1,MOVISTAR PARTIDAZOS ( SOLO EVENTOS )
+http://mylatinotv.com:25461/live/dante123/dante123/34334.m3u8
+#EXTINF:-1,MOVISTAR PARTIDAZOS FULLHD ( SOLO EVENTOS )
+http://mylatinotv.com:25461/live/dante123/dante123/34333.m3u8
+#EXTINF:-1,MOVISTAR TOROS HD
+http://mylatinotv.com:25461/live/dante123/dante123/34332.m3u8
+#EXTINF:-1,MOVISTAR  #Vamos
+http://mylatinotv.com:25461/live/dante123/dante123/60493.m3u8
+#EXTINF:-1,MOVISTAR VAMOS FHD
+http://mylatinotv.com:25461/live/dante123/dante123/60495.m3u8
+#EXTINF:-1,MOVISTAR VAMOS HD
+http://mylatinotv.com:25461/live/dante123/dante123/60494.m3u8
+#EXTINF:-1,MULTI DEPORTE  2
+http://mylatinotv.com:25461/live/dante123/dante123/34331.m3u8
+#EXTINF:-1,MULTIDEPORTE
+http://mylatinotv.com:25461/live/dante123/dante123/34330.m3u8
+#EXTINF:-1,MULTIDEPORTE  1
+http://mylatinotv.com:25461/live/dante123/dante123/34329.m3u8
+#EXTINF:-1,MULTIDEPORTE  3
+http://mylatinotv.com:25461/live/dante123/dante123/34328.m3u8
+#EXTINF:-1,MULTIDEPORTE  4
+http://mylatinotv.com:25461/live/dante123/dante123/34327.m3u8
+#EXTINF:-1,MULTIDEPORTE  5
+http://mylatinotv.com:25461/live/dante123/dante123/34326.m3u8
+#EXTINF:-1,MULTIDEPORTE  6
+http://mylatinotv.com:25461/live/dante123/dante123/34325.m3u8
+#EXTINF:-1,MULTIDEPORTE  7
+http://mylatinotv.com:25461/live/dante123/dante123/34324.m3u8
+#EXTINF:-1,MULTIFUTBOL  1
+http://mylatinotv.com:25461/live/dante123/dante123/34323.m3u8
+#EXTINF:-1,MULTIFUTBOL  2
+http://mylatinotv.com:25461/live/dante123/dante123/34322.m3u8
+#EXTINF:-1,MULTIFUTBOL  3
+http://mylatinotv.com:25461/live/dante123/dante123/34321.m3u8
+#EXTINF:-1,MULTIFUTBOL  4
+http://mylatinotv.com:25461/live/dante123/dante123/34320.m3u8
+#EXTINF:-1,MULTIFUTBOL  5
+http://mylatinotv.com:25461/live/dante123/dante123/34319.m3u8
+#EXTINF:-1,MULTIFUTBOL  6
+http://mylatinotv.com:25461/live/dante123/dante123/34318.m3u8
+#EXTINF:-1,MULTIFUTBOL  7
+http://mylatinotv.com:25461/live/dante123/dante123/34317.m3u8
+#EXTINF:-1,MULTIFUTBOL  8
+http://mylatinotv.com:25461/live/dante123/dante123/34316.m3u8
+#EXTINF:-1,Partidazo HD ( SOLO EVENTOS )
+http://mylatinotv.com:25461/live/dante123/dante123/34392.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://mylatinotv.com:25461/live/dante123/dante123/34315.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://mylatinotv.com:25461/live/dante123/dante123/34314.m3u8
+#EXTINF:-1,TELEDEPORTE FHD
+http://mylatinotv.com:25461/live/dante123/dante123/34313.m3u8
+#EXTINF:-1,****España****
+http://mylatinotv.com:25461/live/dante123/dante123/14185.m3u8
+#EXTINF:-1,LA 1 HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14680.m3u8
+#EXTINF:-1,LA 1 ES
+http://mylatinotv.com:25461/live/dante123/dante123/14130.m3u8
+#EXTINF:-1,LA 2 ES
+http://mylatinotv.com:25461/live/dante123/dante123/14129.m3u8
+#EXTINF:-1,ANTENA 3 HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14679.m3u8
+#EXTINF:-1,ANTENA 3 ES
+http://mylatinotv.com:25461/live/dante123/dante123/14180.m3u8
+#EXTINF:-1,CUATRO HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14678.m3u8
+#EXTINF:-1,CUATRO ES
+http://mylatinotv.com:25461/live/dante123/dante123/14137.m3u8
+#EXTINF:-1,TELECINCO HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14677.m3u8
+#EXTINF:-1,TELECINCO ES
+http://mylatinotv.com:25461/live/dante123/dante123/14120.m3u8
+#EXTINF:-1,LA SEXTA HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14676.m3u8
+#EXTINF:-1,LA SEXTA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14128.m3u8
+#EXTINF:-1,TV3 CAT ES
+http://mylatinotv.com:25461/live/dante123/dante123/14681.m3u8
+#EXTINF:-1,13 TV ES
+http://mylatinotv.com:25461/live/dante123/dante123/14675.m3u8
+#EXTINF:-1,#0 ES
+http://mylatinotv.com:25461/live/dante123/dante123/14184.m3u8
+#EXTINF:-1,24 HORAS ES
+http://mylatinotv.com:25461/live/dante123/dante123/14183.m3u8
+#EXTINF:-1,A&E ES
+http://mylatinotv.com:25461/live/dante123/dante123/14182.m3u8
+#EXTINF:-1,AMC ES
+http://mylatinotv.com:25461/live/dante123/dante123/14181.m3u8
+#EXTINF:-1,ARAGON TV ES
+http://mylatinotv.com:25461/live/dante123/dante123/14179.m3u8
+#EXTINF:-1,Arirang TV ES
+http://mylatinotv.com:25461/live/dante123/dante123/14141.m3u8
+#EXTINF:-1,AMC HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14707.m3u8
+#EXTINF:-1,AXN HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14706.m3u8
+#EXTINF:-1,AXN HD ES 2
+http://mylatinotv.com:25461/live/dante123/dante123/18706.m3u8
+#EXTINF:-1,AXN ES
+http://mylatinotv.com:25461/live/dante123/dante123/14178.m3u8
+#EXTINF:-1,AXN WHITE ES
+http://mylatinotv.com:25461/live/dante123/dante123/14177.m3u8
+#EXTINF:-1,BABY TV ES
+http://mylatinotv.com:25461/live/dante123/dante123/14140.m3u8
+#EXTINF:-1,BOING ES
+http://mylatinotv.com:25461/live/dante123/dante123/14139.m3u8
+#EXTINF:-1,CALLE 13 ES
+http://mylatinotv.com:25461/live/dante123/dante123/14176.m3u8
+#EXTINF:-1,CANAL COCINA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14175.m3u8
+#EXTINF:-1,CANAL DECASA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14174.m3u8
+#EXTINF:-1,CANAL ODISEA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14173.m3u8
+#EXTINF:-1,CANAL PANDA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14172.m3u8
+#EXTINF:-1,CANAL SUR A. ES
+http://mylatinotv.com:25461/live/dante123/dante123/14171.m3u8
+#EXTINF:-1,CLAN  TVE ES
+http://mylatinotv.com:25461/live/dante123/dante123/14138.m3u8
+#EXTINF:-1,CLASSICA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14170.m3u8
+#EXTINF:-1,COMEDY CENTRAL ES
+http://mylatinotv.com:25461/live/dante123/dante123/14169.m3u8
+#EXTINF:-1,COSMO ES
+http://mylatinotv.com:25461/live/dante123/dante123/14168.m3u8
+#EXTINF:-1,CRIMEN INVES ES
+http://mylatinotv.com:25461/live/dante123/dante123/14167.m3u8
+#EXTINF:-1,Discovery Max Es
+http://mylatinotv.com:25461/live/dante123/dante123/14136.m3u8
+#EXTINF:-1,DISCOVERY ES
+http://mylatinotv.com:25461/live/dante123/dante123/14166.m3u8
+#EXTINF:-1,DISNEY CH. ES
+http://mylatinotv.com:25461/live/dante123/dante123/14165.m3u8
+#EXTINF:-1,DISNEY JR ES
+http://mylatinotv.com:25461/live/dante123/dante123/14164.m3u8
+#EXTINF:-1,DISNEY XD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14163.m3u8
+#EXTINF:-1,DIVINITY ES
+http://mylatinotv.com:25461/live/dante123/dante123/14135.m3u8
+#EXTINF:-1,ENERGY ES
+http://mylatinotv.com:25461/live/dante123/dante123/14134.m3u8
+#EXTINF:-1,FDF ES
+http://mylatinotv.com:25461/live/dante123/dante123/14133.m3u8
+#EXTINF:-1,A3 Series ES
+http://mylatinotv.com:25461/live/dante123/dante123/19581.m3u8
+#EXTINF:-1,A3 SeriesES
+http://mylatinotv.com:25461/live/dante123/dante123/16531.m3u8
+#EXTINF:-1,FOX HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14704.m3u8
+#EXTINF:-1,FOX ES
+http://mylatinotv.com:25461/live/dante123/dante123/14162.m3u8
+#EXTINF:-1,FOX LIFE ES
+http://mylatinotv.com:25461/live/dante123/dante123/14161.m3u8
+#EXTINF:-1,FOX NEWS ES
+http://mylatinotv.com:25461/live/dante123/dante123/14132.m3u8
+#EXTINF:-1,HISTORIA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14160.m3u8
+#EXTINF:-1,HOLLYWOOD HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14703.m3u8
+#EXTINF:-1,HOLLYWOOD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14131.m3u8
+#EXTINF:-1,IBERALIA TV ES
+http://mylatinotv.com:25461/live/dante123/dante123/14159.m3u8
+#EXTINF:-1,Mega ES
+http://mylatinotv.com:25461/live/dante123/dante123/14673.m3u8
+#EXTINF:-1,M ACCION HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14702.m3u8
+#EXTINF:-1,M. ACCI©N ES
+http://mylatinotv.com:25461/live/dante123/dante123/14158.m3u8
+#EXTINF:-1,M. Cine Espaæol ES
+http://mylatinotv.com:25461/live/dante123/dante123/14157.m3u8
+#EXTINF:-1,M COMEDIA HD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14699.m3u8
+#EXTINF:-1,M. COMEDIA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14156.m3u8
+#EXTINF:-1,M DCINE HD  ES
+http://mylatinotv.com:25461/live/dante123/dante123/14701.m3u8
+#EXTINF:-1,M. DCINE ES
+http://mylatinotv.com:25461/live/dante123/dante123/14155.m3u8
+#EXTINF:-1,M. DISNEY ES
+http://mylatinotv.com:25461/live/dante123/dante123/14127.m3u8
+#EXTINF:-1,M. ESTRENOS ES
+http://mylatinotv.com:25461/live/dante123/dante123/14154.m3u8
+#EXTINF:-1,Movistar Seriemania ES
+http://mylatinotv.com:25461/live/dante123/dante123/29139.m3u8
+#EXTINF:-1,M. SERIES ES
+http://mylatinotv.com:25461/live/dante123/dante123/14153.m3u8
+#EXTINF:-1,M. SERIES XTRA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14152.m3u8
+#EXTINF:-1,M. XTRA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14126.m3u8
+#EXTINF:-1,MTV ESPA¹A ES
+http://mylatinotv.com:25461/live/dante123/dante123/14125.m3u8
+#EXTINF:-1,MTV ROCKS ES
+http://mylatinotv.com:25461/live/dante123/dante123/14124.m3u8
+#EXTINF:-1,NAT GEO WILD ES
+http://mylatinotv.com:25461/live/dante123/dante123/14123.m3u8
+#EXTINF:-1,NAT GEOGRAPH ES
+http://mylatinotv.com:25461/live/dante123/dante123/14151.m3u8
+#EXTINF:-1,NEOX ES
+http://mylatinotv.com:25461/live/dante123/dante123/14150.m3u8
+#EXTINF:-1,NICK JR ES
+http://mylatinotv.com:25461/live/dante123/dante123/14149.m3u8
+#EXTINF:-1,NICKELODEON Iberia ES
+http://mylatinotv.com:25461/live/dante123/dante123/14122.m3u8
+#EXTINF:-1,NONSTOPEOPLE ES
+http://mylatinotv.com:25461/live/dante123/dante123/14148.m3u8
+#EXTINF:-1,NOVA ES
+http://mylatinotv.com:25461/live/dante123/dante123/14147.m3u8
+#EXTINF:-1,PARAMOUNT ES
+http://mylatinotv.com:25461/live/dante123/dante123/14146.m3u8
+#EXTINF:-1,RT Esp ES
+http://mylatinotv.com:25461/live/dante123/dante123/14121.m3u8
+#EXTINF:-1,SUNDANCE ES
+http://mylatinotv.com:25461/live/dante123/dante123/14145.m3u8
+#EXTINF:-1,SYFY ES
+http://mylatinotv.com:25461/live/dante123/dante123/14144.m3u8
+#EXTINF:-1,TCM ES
+http://mylatinotv.com:25461/live/dante123/dante123/14143.m3u8
+#EXTINF:-1,TNT ES
+http://mylatinotv.com:25461/live/dante123/dante123/14119.m3u8
+#EXTINF:-1,VIAJAR ES
+http://mylatinotv.com:25461/live/dante123/dante123/14142.m3u8
