@@ -1,39 +1,100 @@
 #EXTM3U
-#EXTINF:-1,ABC HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4699.m3u8
-#EXTINF:-1,AMC
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4691.m3u8
-#EXTINF:-1,CW 11 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4693.m3u8
-#EXTINF:-1,TLC
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4684.m3u8
-#EXTINF:-1,TBS
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4690.m3u8
-#EXTINF:-1,CBS Action
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4695.m3u8
-#EXTINF:-1,CBS News
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4694.m3u8
-#EXTINF:-1,USA Network
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4698.m3u8
-#EXTINF:-1,Viceland HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4687.m3u8
-#EXTINF:-1,The Weather Channel
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4681.m3u8
-#EXTINF:-1,NBC (EAST)
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4697.m3u8
-#EXTINF:-1,Bravo HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4688.m3u8
-#EXTINF:-1,CNBC HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4686.m3u8
+#EXTINF:-1,CBS HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3359.m3u8
+#EXTINF:-1,AFN-SPORTS-2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3374.m3u8
+#EXTINF:-1,Sportsnet 360 HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3366.m3u8
+#EXTINF:-1,CBS-DRAMA
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3400.m3u8
+#EXTINF:-1,Discovery_HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3399.m3u8
+#EXTINF:-1,Fashion-One
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3397.m3u8
+#EXTINF:-1,Food-Network
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3396.m3u8
+#EXTINF:-1,H2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3395.m3u8
+#EXTINF:-1,HALLMARK
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3394.m3u8
+#EXTINF:-1,HBO
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3390.m3u8
+#EXTINF:-1,HBO-COMEDY
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3393.m3u8
+#EXTINF:-1,HBO-SIGNATURE
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3392.m3u8
+#EXTINF:-1,HBO-ZONE
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3391.m3u8
+#EXTINF:-1,HSN-1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3388.m3u8
+#EXTINF:-1,HSN-2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3389.m3u8
+#EXTINF:-1,MelloTV
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3387.m3u8
+#EXTINF:-1,Nasa-TVHD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3386.m3u8
+#EXTINF:-1,PAG-HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3385.m3u8
+#EXTINF:-1,Pocker-Central
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3380.m3u8
+#EXTINF:-1,RT-America_HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3384.m3u8
+#EXTINF:-1,Sports-Net
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3375.m3u8
+#EXTINF:-1,The-Florida-Channel
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3383.m3u8
+#EXTINF:-1,Travel-Channe_HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3382.m3u8
+#EXTINF:-1,TSN-2HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3376.m3u8
+#EXTINF:-1,TSN-3HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3377.m3u8
+#EXTINF:-1,TSN-4HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3378.m3u8
+#EXTINF:-1,TSN-5HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3379.m3u8
+#EXTINF:-1,UC-TV
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3381.m3u8
+#EXTINF:-1,USA-Network
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3360.m3u8
+#EXTINF:-1,Versus-NBA_HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3373.m3u8
+#EXTINF:-1,USA :ESPN HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3398.m3u8
+#EXTINF:-1, ABS-CBN News Channel
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3356.m3u8
+#EXTINF:-1, Fox Sports 506 HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3364.m3u8
+#EXTINF:-1, NBA TV
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3365.m3u8
+#EXTINF:-1, NFL Network
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3371.m3u8
+#EXTINF:-1,5USA
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3363.m3u8
+#EXTINF:-1,BET
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3357.m3u8
+#EXTINF:-1,BOSTON-CITY
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3352.m3u8
+#EXTINF:-1,CBS-NEWS
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3355.m3u8
 #EXTINF:-1,CNN
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4692.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4685.m3u8
-#EXTINF:-1,Fox News
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4696.m3u8
-#EXTINF:-1,NFL Network HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4683.m3u8
-#EXTINF:-1,SPIKE TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4689.m3u8
-#EXTINF:-1,WWE Network
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/4680.m3u8
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3354.m3u8
+#EXTINF:-1,E4-HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3362.m3u8
+#EXTINF:-1,FIGHT-NETWORK
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3368.m3u8
+#EXTINF:-1,FIGHT-SPORT
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3367.m3u8
+#EXTINF:-1,FOX-HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3358.m3u8
+#EXTINF:-1,FOX-NEWS
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3353.m3u8
+#EXTINF:-1,FOX_SPORTS-1-HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3331.m3u8
+#EXTINF:-1,FOX_SPORTS_2-HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3332.m3u8
+#EXTINF:-1,PAC12_1_HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3372.m3u8
+#EXTINF:-1,showtime
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3361.m3u8
+
