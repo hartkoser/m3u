@@ -1,325 +1,110 @@
 #EXTM3U
-#EXTINF:-1,BeinSport_1_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/58
-#EXTINF:-1,BeinSport_2_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/59
-#EXTINF:-1,BeinSport_3_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/60
-#EXTINF:-1,BeinSport_4_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/61
-#EXTINF:-1,BeinSport_5_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/62
-#EXTINF:-1,BeinSport_6_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/63
-#EXTINF:-1,BeinSport_7_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/64
-#EXTINF:-1,BeinSport_8_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/65
-#EXTINF:-1,BeinSport_9_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/66
-#EXTINF:-1,BeinSport_10_HD_FULL_3
-http://163.172.82.81:50100/Stark/Stark/67
-#EXTINF:-1,FR=BeinSport_1_HD
-http://163.172.82.81:50100/Stark/Stark/771
-#EXTINF:-1,FR=BeinSport_2_HD
-http://163.172.82.81:50100/Stark/Stark/772
-#EXTINF:-1,FR=BeinSport_3_HD
-http://163.172.82.81:50100/Stark/Stark/773
-#EXTINF:-1,OSN-AD-Sports-2-HD
-http://163.172.82.81:50100/Stark/Stark/205
-#EXTINF:-1,OSN-AD-Sports-1-HD
-http://163.172.82.81:50100/Stark/Stark/204
-#EXTINF:-1,AR=MBC-PRO-Sport-3
-http://163.172.82.81:50100/Stark/Stark/90
-#EXTINF:-1,AR=MBC-PRO-Sport-2
-http://163.172.82.81:50100/Stark/Stark/89
-#EXTINF:-1,AR=MBC-PRO-Sport-1
-http://163.172.82.81:50100/Stark/Stark/88
-#EXTINF:-1,AR=Saudi-Sport-1
-http://163.172.82.81:50100/Stark/Stark/166
-#EXTINF:-1,AR=Alkass-Four-Sport-HD
-http://163.172.82.81:50100/Stark/Stark/127
-#EXTINF:-1,AR=Alkass-Three-Sport-HD
-http://163.172.82.81:50100/Stark/Stark/249
-#EXTINF:-1,AR=Alkass-Two-Sport-HD
-http://163.172.82.81:50100/Stark/Stark/147
-#EXTINF:-1,AR=Alkass-One-Sport-HD
-http://163.172.82.81:50100/Stark/Stark/146
-#EXTINF:-1,AR=ON-Sport-HD
-http://163.172.82.81:50100/Stark/Stark/2466
-#EXTINF:-1,AL: Eurosport 1 HD
-http://163.172.82.81:50100/Stark/Stark/3925
-#EXTINF:-1,AL: Eurosport 2 HD
-http://163.172.82.81:50100/Stark/Stark/3924
-#EXTINF:-1,AL: Extreme Sports
-http://163.172.82.81:50100/Stark/Stark/3923
-#EXTINF:-1,AL: Motorsport TV HD
-http://163.172.82.81:50100/Stark/Stark/3921
-#EXTINF:-1,AL: Tring Sport 4 HD
-http://163.172.82.81:50100/Stark/Stark/3919
-#EXTINF:-1,AL=Kujtesa_Sport_1_HD
-http://163.172.82.81:50100/Stark/Stark/3229
-#EXTINF:-1,AL=Kujtesa_Sport_4_HD
-http://163.172.82.81:50100/Stark/Stark/3226
-#EXTINF:-1,AL=Super-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/689
-#EXTINF:-1,AL=Super-Sport-3-HD
-http://163.172.82.81:50100/Stark/Stark/688
-#EXTINF:-1,AL=Super-Sport-4-HD
-http://163.172.82.81:50100/Stark/Stark/691
-#EXTINF:-1,AL=Super-Sport-5-HD
-http://163.172.82.81:50100/Stark/Stark/2620
-#EXTINF:-1,AL=Tele_Sport_HD
-http://163.172.82.81:50100/Stark/Stark/3225
-#EXTINF:-1,BE=Voo Sport World 3 HD
-http://163.172.82.81:50100/Stark/Stark/3900
-#EXTINF:-1,BE=VOO SPORTS/FOOT
-http://163.172.82.81:50100/Stark/Stark/3901
-#EXTINF:-1,BE=VOO_Sport_1_HD
-http://163.172.82.81:50100/Stark/Stark/3245
-#EXTINF:-1,BE=VOO_Sport_2_HD
-http://163.172.82.81:50100/Stark/Stark/3246
-#EXTINF:-1,CA: FIGHT NETWORK HD
-http://163.172.82.81:50100/Stark/Stark/3492
-#EXTINF:-1,CA: SPORTSNET 360 HD
-http://163.172.82.81:50100/Stark/Stark/3479
-#EXTINF:-1,CA: Sportsnet One
-http://163.172.82.81:50100/Stark/Stark/3477
-#EXTINF:-1,CA: SportsNet Ontario HD
-http://163.172.82.81:50100/Stark/Stark/3474
-#EXTINF:-1,CA: SportsNet Pacific FHD
-http://163.172.82.81:50100/Stark/Stark/3473
-#EXTINF:-1,CA: SportsNet WORLD HD
-http://163.172.82.81:50100/Stark/Stark/3471
-#EXTINF:-1,DE=Arena-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/600
-#EXTINF:-1,DE=Arena-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/599
-#EXTINF:-1,DE=Arena-Sport-3-HD
-http://163.172.82.81:50100/Stark/Stark/598
-#EXTINF:-1,DE=Arena-Sport-4-HD
-http://163.172.82.81:50100/Stark/Stark/597
-#EXTINF:-1,DE=Arena-Sport-5-HD
-http://163.172.82.81:50100/Stark/Stark/596
-#EXTINF:-1,DE=Sky-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/285
-#EXTINF:-1,DE=Sky-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/286
-#EXTINF:-1,DE=Sky-Sport-Austria-HD
-http://163.172.82.81:50100/Stark/Stark/1140
-#EXTINF:-1,DE=Sky-Sport-Bundesliga-1-HD
-http://163.172.82.81:50100/Stark/Stark/785
-#EXTINF:-1,DE=Sky-Sport-News-HD
-http://163.172.82.81:50100/Stark/Stark/291
-#EXTINF:-1,FR=BeinSport_1_SD
-http://163.172.82.81:50100/Stark/Stark/992
-#EXTINF:-1,FR=BeinSport_2_SD
-http://163.172.82.81:50100/Stark/Stark/993
-#EXTINF:-1,FR=BeinSport_3_SD
-http://163.172.82.81:50100/Stark/Stark/994
-#EXTINF:-1,FR=BeinSport-Max-10-HD
-http://163.172.82.81:50100/Stark/Stark/2820
-#EXTINF:-1,FR=BeinSport-Max-4-HD
-http://163.172.82.81:50100/Stark/Stark/2826
-#EXTINF:-1,FR=BeinSport-Max-5-HD
-http://163.172.82.81:50100/Stark/Stark/2825
-#EXTINF:-1,FR=BeinSport-Max-6-HD
-http://163.172.82.81:50100/Stark/Stark/2824
-#EXTINF:-1,FR=BeinSport-Max-7-HD
-http://163.172.82.81:50100/Stark/Stark/2823
-#EXTINF:-1,FR=BeinSport-Max-8-HD
-http://163.172.82.81:50100/Stark/Stark/2822
-#EXTINF:-1,FR=BeinSport-Max-9-HD
-http://163.172.82.81:50100/Stark/Stark/2821
-#EXTINF:-1,FR=Canal-Sport-HD
-http://163.172.82.81:50100/Stark/Stark/300
-#EXTINF:-1,FR=EuroSport-1-HD
-http://163.172.82.81:50100/Stark/Stark/1148
-#EXTINF:-1,FR=EuroSport-2-HD
-http://163.172.82.81:50100/Stark/Stark/1149
-#EXTINF:-1,FR=InfoSport-HD
-http://163.172.82.81:50100/Stark/Stark/2847
-#EXTINF:-1,FR=L'EQUIPE-21
-http://163.172.82.81:50100/Stark/Stark/2833
-#EXTINF:-1,FR=SFR-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/2819
-#EXTINF:-1,FR=SFR-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/2818
-#EXTINF:-1,FR=SFR-Sport-3-HD
-http://163.172.82.81:50100/Stark/Stark/2817
-#EXTINF:-1,IT=RAI-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/755
-#EXTINF:-1,IT=RAI-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/756
-#EXTINF:-1,IT=Sky-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/278
-#EXTINF:-1,IT=Sky-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/476
-#EXTINF:-1,IT=Sky-Sport-24-HD
-http://163.172.82.81:50100/Stark/Stark/280
-#EXTINF:-1,IT=Sky-Sport-3-HD
-http://163.172.82.81:50100/Stark/Stark/279
-#EXTINF:-1,IT=Sky-UNO-HD
-http://163.172.82.81:50100/Stark/Stark/463
-#EXTINF:-1,Kosova=Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/1081
-#EXTINF:-1,NL=Fox-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/395
-#EXTINF:-1,NL=Fox-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/750
-#EXTINF:-1,NL=Fox-Sport-3-HD
-http://163.172.82.81:50100/Stark/Stark/751
-#EXTINF:-1,NL=Fox-Sport-4-HD
-http://163.172.82.81:50100/Stark/Stark/752
-#EXTINF:-1,NL=Fox-Sport-5-HD
-http://163.172.82.81:50100/Stark/Stark/753
-#EXTINF:-1,NL=Fox-Sport-6-HD
-http://163.172.82.81:50100/Stark/Stark/2570
-#EXTINF:-1,NL=Ziggo-Sport-Golf-HD
-http://163.172.82.81:50100/Stark/Stark/410
-#EXTINF:-1,NL=Ziggo-Sport-Racing
-http://163.172.82.81:50100/Stark/Stark/2568
-#EXTINF:-1,NL=Ziggo-Sport-Select-HD
-http://163.172.82.81:50100/Stark/Stark/1328
-#EXTINF:-1,NL=Ziggo-Sport-Vortbal-HD
-http://163.172.82.81:50100/Stark/Stark/1327
-#EXTINF:-1,NO: C More Sport
-http://163.172.82.81:50100/Stark/Stark/3960
-#EXTINF:-1,NO: Eurosport HD
-http://163.172.82.81:50100/Stark/Stark/3959
-#EXTINF:-1,NO: Eurosport Pluss 2 HD
-http://163.172.82.81:50100/Stark/Stark/3956
-#EXTINF:-1,NO: Eurosport Pluss 3 HD
-http://163.172.82.81:50100/Stark/Stark/3955
-#EXTINF:-1,NO: Eurosport Pluss 4 HD
-http://163.172.82.81:50100/Stark/Stark/3954
-#EXTINF:-1,NO: TV2 Sport
-http://163.172.82.81:50100/Stark/Stark/3953
-#EXTINF:-1,NO: TV3 Sport 1
-http://163.172.82.81:50100/Stark/Stark/3951
-#EXTINF:-1,NO: Viasat Sport
-http://163.172.82.81:50100/Stark/Stark/3950
-#EXTINF:-1,PL=TVP-Sport-HD
-http://163.172.82.81:50100/Stark/Stark/2220
-#EXTINF:-1,PT: beIN Sports
-http://163.172.82.81:50100/Stark/Stark/3973
-#EXTINF:-1,PT: Eurosport 1 HD
-http://163.172.82.81:50100/Stark/Stark/3971
-#EXTINF:-1,PT: Eurosport 2 HD
-http://163.172.82.81:50100/Stark/Stark/3970
-#EXTINF:-1,RO: Telekom Sport 1 HD
-http://163.172.82.81:50100/Stark/Stark/3967
-#EXTINF:-1,RO: Telekom Sport 2 HD
-http://163.172.82.81:50100/Stark/Stark/3966
-#EXTINF:-1,RO: Telekom Sport 5 HD
-http://163.172.82.81:50100/Stark/Stark/3965
-#EXTINF:-1,RO: Telekom Sport 6 HD
-http://163.172.82.81:50100/Stark/Stark/3964
-#EXTINF:-1,RO=Digi-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/537
-#EXTINF:-1,RO=Digi-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/568
-#EXTINF:-1,RO=Digi-Sport-3-HD
-http://163.172.82.81:50100/Stark/Stark/572
-#EXTINF:-1,SER=Sport-Klub-1-HD
-http://163.172.82.81:50100/Stark/Stark/1075
-#EXTINF:-1,SER=Sport-Klub-2-HD
-http://163.172.82.81:50100/Stark/Stark/1074
-#EXTINF:-1,SER=Sport-Klub-3-HD
-http://163.172.82.81:50100/Stark/Stark/1073
-#EXTINF:-1,SER=Sport-Klub-4-HD
-http://163.172.82.81:50100/Stark/Stark/1423
-#EXTINF:-1,SER=Sport-Klub-5-HD
-http://163.172.82.81:50100/Stark/Stark/1424
-#EXTINF:-1,SER=Sport-Klub-6-HD
-http://163.172.82.81:50100/Stark/Stark/1425
-#EXTINF:-1,TR=BeinSports-1-HD
-http://163.172.82.81:50100/Stark/Stark/2166
-#EXTINF:-1,TR=BeinSports-2-HD
-http://163.172.82.81:50100/Stark/Stark/2167
-#EXTINF:-1,TR=BeinSports-3-HD
-http://163.172.82.81:50100/Stark/Stark/2168
-#EXTINF:-1,TR=Smart-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/1093
-#EXTINF:-1,TR=Smart-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/1094
-#EXTINF:-1,TR=Tivibu-Sport-1
-http://163.172.82.81:50100/Stark/Stark/2282
-#EXTINF:-1,TR=Tivibu-Sport-2
-http://163.172.82.81:50100/Stark/Stark/2281
-#EXTINF:-1,TR=Tivibu-Sport-3
-http://163.172.82.81:50100/Stark/Stark/2280
-#EXTINF:-1,TR=Tivibu-Sport-4
-http://163.172.82.81:50100/Stark/Stark/2279
-#EXTINF:-1,UK=BT-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/424
-#EXTINF:-1,UK=BT-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/421
-#EXTINF:-1,UK=BT-Sport-ESPN-HD
-http://163.172.82.81:50100/Stark/Stark/2264
-#EXTINF:-1,UK=BT-Sport-Extra-1
-http://163.172.82.81:50100/Stark/Stark/2270
-#EXTINF:-1,UK=BT-Sport-Extra-2
-http://163.172.82.81:50100/Stark/Stark/2269
-#EXTINF:-1,UK=BT-Sport-Extra-3
-http://163.172.82.81:50100/Stark/Stark/2268
-#EXTINF:-1,UK=Eir-Sport-1
-http://163.172.82.81:50100/Stark/Stark/2263
-#EXTINF:-1,UK=EuroSport 1-HD
-http://163.172.82.81:50100/Stark/Stark/721
-#EXTINF:-1,UK=EuroSport-2-HD
-http://163.172.82.81:50100/Stark/Stark/722
-#EXTINF:-1,UK=Setanta-Sports-HD
-http://163.172.82.81:50100/Stark/Stark/723
-#EXTINF:-1,UK=Sky_Sports_Action_HD
-http://163.172.82.81:50100/Stark/Stark/270
-#EXTINF:-1,UK=Sky_Sports_Arena_HD
-http://163.172.82.81:50100/Stark/Stark/871
-#EXTINF:-1,UK=Sky_Sports_Cricket_HD
-http://163.172.82.81:50100/Stark/Stark/269
-#EXTINF:-1,UK=Sky_Sports_F1_HD
-http://163.172.82.81:50100/Stark/Stark/422
-#EXTINF:-1,UK=Sky_Sports_Football_HD
-http://163.172.82.81:50100/Stark/Stark/803
-#EXTINF:-1,UK=Sky_Sports_Golf_HD
-http://163.172.82.81:50100/Stark/Stark/425
-#EXTINF:-1,UK=Sky_Sports_Main_Event_HD
-http://163.172.82.81:50100/Stark/Stark/268
-#EXTINF:-1,UK=Sky_Sports_Mix_HD
-http://163.172.82.81:50100/Stark/Stark/2261
-#EXTINF:-1,UK=Sky_Sports_News_HD
-http://163.172.82.81:50100/Stark/Stark/802
-#EXTINF:-1,UK=Sky_Sports_Premier_League_HD
-http://163.172.82.81:50100/Stark/Stark/271
-#EXTINF:-1,UK=SkyNet-Sports-1
-http://163.172.82.81:50100/Stark/Stark/2277
-#EXTINF:-1,UK=SkyNet-Sports-2
-http://163.172.82.81:50100/Stark/Stark/2276
-#EXTINF:-1,UK=SkyNet-Sports-3
-http://163.172.82.81:50100/Stark/Stark/2278
-#EXTINF:-1,UK=SkyNet-Sports-4
-http://163.172.82.81:50100/Stark/Stark/2275
-#EXTINF:-1,UK=SkyNet-Sports-5
-http://163.172.82.81:50100/Stark/Stark/2274
-#EXTINF:-1,UK=SkyNet-Sports-6
-http://163.172.82.81:50100/Stark/Stark/2273
-#EXTINF:-1,USA=Fight Sports HD
-http://163.172.82.81:50100/Stark/Stark/4027
-#EXTINF:-1,USA=Fight-Sport-1
-http://163.172.82.81:50100/Stark/Stark/2653
-#EXTINF:-1,USA=FS1-Fox-Sports-1-HD
-http://163.172.82.81:50100/Stark/Stark/1288
-#EXTINF:-1,USA=FS1-Fox-Sports-2-HD
-http://163.172.82.81:50100/Stark/Stark/1323
-#EXTINF:-1,USA=Tsn-Sport-1-HD
-http://163.172.82.81:50100/Stark/Stark/635
-#EXTINF:-1,USA=Tsn-Sport-2-HD
-http://163.172.82.81:50100/Stark/Stark/636
-#EXTINF:-1,USA=Tsn-Sport-3-HD
-http://163.172.82.81:50100/Stark/Stark/637
-#EXTINF:-1,USA=Tsn-Sport-4-HD
-http://163.172.82.81:50100/Stark/Stark/638
-#EXTINF:-1,USA=Tsn-Sport-5-HD
-http://163.172.82.81:50100/Stark/Stark/639
-#EXTINF:-1,USA=WWE-Network-HD
-http://163.172.82.81:50100/Stark/Stark/2337
+#EXTINF:0,beinsports1ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports1ar-3g/chunks.m3u8
+#EXTINF:0,beinsports2ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports2ar-3g/chunks.m3u8
+#EXTINF:0,beinsports2ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports2ar-3g/chunks.m3u8
+#EXTINF:0,beinsports3ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports3ar-3g/chunks.m3u8
+#EXTINF:0,beinsports4ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports4ar-3g/chunks.m3u8
+#EXTINF:0,beinsports5ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports5ar-3g/chunks.m3u8
+#EXTINF:0,beinsports6ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports6ar-3g/chunks.m3u8
+#EXTINF:0,beinsports7ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports7ar-3g/chunks.m3u8
+#EXTINF:0,beinsports8ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports8ar-3g/chunks.m3u8
+#EXTINF:0,beinsports9ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports2ar-9g/chunks.m3u8
+#EXTINF:0,beinsports10ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports10ar-9g/chunks.m3u8
+#EXTINF:0,beinsports11ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports11ar-9g/chunks.m3u8
+#EXTINF:0,beinsports12ar-3g
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports12ar-9g/chunks.m3u8
+#EXTINF:0,beinsports1-576
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports1ar-576/chunks.m3u8
+#EXTINF:0,beinsports2-576
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports2ar-576/chunks.m3u8
+#EXTINF:0,beinsports3-576
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports3ar-576/chunks.m3u8
+#EXTINF:0,beinsports4-576
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports4ar-576/chunks.m3u8
+#EXTINF:0,beinsports5-576
+#EXTVLCOPT:http-user-agent=freeapppsss
+http://194.88.104.169:8081/free1/beinsports5ar-576/chunks.m3u8
+
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD9 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=72.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD8 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=71.ts 
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD7 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=70.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD6 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=69.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD5 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=68.ts 
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD4 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=67.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD3
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=66.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD2
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=65.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport SD1 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=64.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD9 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=81.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD8 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=80.ts 
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD7
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=79.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD6
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=78.ts 
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD5 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=77.ts 
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD4 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=76.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD3 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=75.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD2 
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=74.ts
+#EXTVLCOPT:http-user-agent=yacine00
+#EXTINF:-1,OIPTV Sport HD1
+http://mymouse-001-site1.ctempurl.com/sport/sporty.php?ch=73.ts
