@@ -97,4 +97,5 @@ http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3332.m3u8
 http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3372.m3u8
 #EXTINF:-1,showtime
 http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3361.m3u8
-
+#EXTINF:-1,WWE-US
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3370.m3u8
