@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1,CINEMAX 5 STAR MAX HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74927.m3u8
+#EXTINF:-1,Cinemax Action 2 HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77698.m3u8
+#EXTINF:-1,Cinemax Action East HD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210565.m3u8
+#EXTINF:-1,CINEMAX ACTION FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/65085.m3u8
+#EXTINF:-1,CINEMAX ACTION MAX
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159963.m3u8
+#EXTINF:-1,CINEMAX ACTOIN EAST
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/76560.m3u8
+#EXTINF:-1,CINEMAX MOREMAX FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74853.m3u8
+#EXTINF:-1,CINEMAX OUTER MAX FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77166.m3u8
+#EXTINF:-1,CINEMAX THRILLER FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/103708.m3u8
+#EXTINF:-1,Cinemax West FHD
+http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/102021.m3u8
 #EXTINF:-1,5 Star Max HD
 http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/156230.m3u8
 #EXTINF:-1,5 USA
@@ -319,26 +339,6 @@ http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77622.m3u8
 http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77621.m3u8
 #EXTINF:-1,Cinema 40 PPV
 http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77620.m3u8
-#EXTINF:-1,CINEMAX 5 STAR MAX HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74927.m3u8
-#EXTINF:-1,Cinemax Action 2 HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77698.m3u8
-#EXTINF:-1,Cinemax Action East HD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/210565.m3u8
-#EXTINF:-1,CINEMAX ACTION FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/65085.m3u8
-#EXTINF:-1,CINEMAX ACTION MAX
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/159963.m3u8
-#EXTINF:-1,CINEMAX ACTOIN EAST
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/76560.m3u8
-#EXTINF:-1,CINEMAX MOREMAX FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/74853.m3u8
-#EXTINF:-1,CINEMAX OUTER MAX FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/77166.m3u8
-#EXTINF:-1,CINEMAX THRILLER FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/103708.m3u8
-#EXTINF:-1,Cinemax West FHD
-http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/102021.m3u8
 #EXTINF:-1,CNBS HD
 http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/99867.m3u8
 #EXTINF:-1,CNN en Español
