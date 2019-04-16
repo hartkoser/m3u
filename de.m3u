@@ -1,479 +1,367 @@
 #EXTM3U
-#EXTINF:-1,3sat HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19139.m3u8
-#EXTINF:-1,A&E FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19065.m3u8
-#EXTINF:-1,A&E HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18948.m3u8
-#EXTINF:-1,Animal Planet FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19063.m3u8
-#EXTINF:-1,Animal Planet HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19064.m3u8
-#EXTINF:-1,Anixe HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19137.m3u8
-#EXTINF:-1,Ard
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19185.m3u8
-#EXTINF:-1,Arte
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19152.m3u8
-#EXTINF:-1,Arte HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19151.m3u8
-#EXTINF:-1,Astro TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18975.m3u8
-#EXTINF:-1,Augsburg TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18974.m3u8
-#EXTINF:-1,Auto Motor Sport FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19124.m3u8
-#EXTINF:-1,13th Street FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19001.m3u8
+#EXTINF:-1,13th Street
+http://ares.dominium.tv:6923/live/adrian/1234/30828.m3u8
 #EXTINF:-1,13th Street HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18949.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30827.m3u8
+#EXTINF:-1,3Sat HD
+http://ares.dominium.tv:6923/live/adrian/1234/30826.m3u8
+#EXTINF:-1,Animal Planet
+http://ares.dominium.tv:6923/live/adrian/1234/30825.m3u8
+#EXTINF:-1,Animal Planet HD
+http://ares.dominium.tv:6923/live/adrian/1234/30824.m3u8
+#EXTINF:-1,Anixe HD
+http://ares.dominium.tv:6923/live/adrian/1234/30823.m3u8
+#EXTINF:-1,Anixe HD Series
+http://ares.dominium.tv:6923/live/adrian/1234/30822.m3u8
+#EXTINF:-1,Arte HD
+http://ares.dominium.tv:6923/live/adrian/1234/30821.m3u8
+#EXTINF:-1,ATV HD
+http://ares.dominium.tv:6923/live/adrian/1234/30820.m3u8
+#EXTINF:-1,Auto Motor Sport HD
+http://ares.dominium.tv:6923/live/adrian/1234/30819.m3u8
 #EXTINF:-1,AXN
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18999.m3u8
-#EXTINF:-1,AXN FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19000.m3u8
-#EXTINF:-1,Baby TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19052.m3u8
-#EXTINF:-1,Bayern TV FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19123.m3u8
-#EXTINF:-1,Boomerang
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19051.m3u8
-#EXTINF:-1,BR
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19145.m3u8
-#EXTINF:-1,Cartoon Network FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19050.m3u8
-#EXTINF:-1,Classica HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19032.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30818.m3u8
+#EXTINF:-1,AXN HD
+http://ares.dominium.tv:6923/live/adrian/1234/30817.m3u8
+#EXTINF:-1,Boomerang HD
+http://ares.dominium.tv:6923/live/adrian/1234/30816.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://ares.dominium.tv:6923/live/adrian/1234/30815.m3u8
 #EXTINF:-1,Das Erste
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19184.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30814.m3u8
 #EXTINF:-1,Das Erste HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19136.m3u8
-#EXTINF:-1,Deluxe Music
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19035.m3u8
-#EXTINF:-1,Deutsches Musik Fernsehen
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19034.m3u8
-#EXTINF:-1,Discovery
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19068.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19066.m3u8
-#EXTINF:-1,Discovey FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19067.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19049.m3u8
-#EXTINF:-1,Disney Cinema Magic
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19047.m3u8
-#EXTINF:-1,Disney Cinemagic FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19048.m3u8
-#EXTINF:-1,Disney Junior
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19046.m3u8
-#EXTINF:-1,Disney Junior FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19045.m3u8
-#EXTINF:-1,Disney XD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19044.m3u8
-#EXTINF:-1,Dmax FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19154.m3u8
-#EXTINF:-1,E! Entertainment
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18955.m3u8
-#EXTINF:-1,E! Entertainment FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18954.m3u8
-#EXTINF:-1,E! FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18956.m3u8
-#EXTINF:-1,Euronews
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19079.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30813.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://ares.dominium.tv:6923/live/adrian/1234/30812.m3u8
+#EXTINF:-1,Discovery Channel
+http://ares.dominium.tv:6923/live/adrian/1234/30811.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://ares.dominium.tv:6923/live/adrian/1234/30810.m3u8
+#EXTINF:-1,Disney Channel HD
+http://ares.dominium.tv:6923/live/adrian/1234/30809.m3u8
+#EXTINF:-1,Disney Cinemagic HD
+http://ares.dominium.tv:6923/live/adrian/1234/30808.m3u8
+#EXTINF:-1,Disney Junior HD
+http://ares.dominium.tv:6923/live/adrian/1234/30807.m3u8
+#EXTINF:-1,Disney XD HD
+http://ares.dominium.tv:6923/live/adrian/1234/30806.m3u8
+#EXTINF:-1,Dmax HD
+http://ares.dominium.tv:6923/live/adrian/1234/30805.m3u8
+#EXTINF:-1,E! HD
+http://ares.dominium.tv:6923/live/adrian/1234/30804.m3u8
 #EXTINF:-1,Eurosport 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19122.m3u8
-#EXTINF:-1,Eurosport 2 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19121.m3u8
-#EXTINF:-1,Eurosport 2 Xtra FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19119.m3u8
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19120.m3u8
-#EXTINF:-1,Eurosport FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19088.m3u8
-#EXTINF:-1,Eurosport Player 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19087.m3u8
-#EXTINF:-1,Eurosport Player 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19086.m3u8
-#EXTINF:-1,Eurosport Player 3 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19085.m3u8
-#EXTINF:-1,Eurosport Player 4 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19084.m3u8
-#EXTINF:-1,Eurosport Player 5 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19083.m3u8
-#EXTINF:-1,Eurosport Player 6 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19082.m3u8
-#EXTINF:-1,Eurosport Player 7 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19081.m3u8
-#EXTINF:-1,Family TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18973.m3u8
-#EXTINF:-1,Fox FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18997.m3u8
-#EXTINF:-1,Fox HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18998.m3u8
-#EXTINF:-1,Fox Serie
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18978.m3u8
-#EXTINF:-1,Franken Fernsehen
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18972.m3u8
-#EXTINF:-1,Goldstar TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18971.m3u8
-#EXTINF:-1,History Channel FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19071.m3u8
-#EXTINF:-1,Home Shopping Europe
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18970.m3u8
-#EXTINF:-1,HR Fernsehen
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19148.m3u8
-#EXTINF:-1,HR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19149.m3u8
-#EXTINF:-1,INTV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18969.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30803.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30802.m3u8
+#EXTINF:-1,Eurosport 2 HD XTRA
+http://ares.dominium.tv:6923/live/adrian/1234/30801.m3u8
+#EXTINF:-1,Film Club 1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30800.m3u8
+#EXTINF:-1,Film Club 2 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30799.m3u8
+#EXTINF:-1,Film Club 3 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30798.m3u8
+#EXTINF:-1,Film Club 4 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30797.m3u8
+#EXTINF:-1,Film Club 5 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30796.m3u8
+#EXTINF:-1,FOX
+http://ares.dominium.tv:6923/live/adrian/1234/30795.m3u8
+#EXTINF:-1,FOX HD
+http://ares.dominium.tv:6923/live/adrian/1234/30794.m3u8
+#EXTINF:-1,GO TV
+http://ares.dominium.tv:6923/live/adrian/1234/30793.m3u8
+#EXTINF:-1,Heimat Kanal HD
+http://ares.dominium.tv:6923/live/adrian/1234/30792.m3u8
+#EXTINF:-1,History Channel
+http://ares.dominium.tv:6923/live/adrian/1234/30791.m3u8
+#EXTINF:-1,History Channel HD
+http://ares.dominium.tv:6923/live/adrian/1234/30790.m3u8
 #EXTINF:-1,Jukebox
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19036.m3u8
-#EXTINF:-1,Junior
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19043.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30789.m3u8
+#EXTINF:-1,Junior HD
+http://ares.dominium.tv:6923/live/adrian/1234/30788.m3u8
+#EXTINF:-1,Kabel 1
+http://ares.dominium.tv:6923/live/adrian/1234/30787.m3u8
+#EXTINF:-1,Kabel 1  HD
+http://ares.dominium.tv:6923/live/adrian/1234/30786.m3u8
 #EXTINF:-1,Kabel 1 Classic HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19157.m3u8
-#EXTINF:-1,Kabel 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19173.m3u8
-#EXTINF:-1,Kabel Eins Doku
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19072.m3u8
-#EXTINF:-1,Kabel Eins Journal
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18968.m3u8
-#EXTINF:-1,Kika HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19054.m3u8
-#EXTINF:-1,Kinowelt
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18977.m3u8
-#EXTINF:-1,Kronehit FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19038.m3u8
-#EXTINF:-1,MDR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19135.m3u8
-#EXTINF:-1,MDR S-Anhalt HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19144.m3u8
-#EXTINF:-1,MDR Sachsen HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19143.m3u8
-#EXTINF:-1,Mediaspar
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18967.m3u8
-#EXTINF:-1,MGM
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18947.m3u8
-#EXTINF:-1,Motorvision TV FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19118.m3u8
-#EXTINF:-1,Munchen TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18966.m3u8
-#EXTINF:-1,Music Box
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19037.m3u8
-#EXTINF:-1,N-TV FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19076.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30785.m3u8
+#EXTINF:-1,Kabel 1 Doku HD
+http://ares.dominium.tv:6923/live/adrian/1234/30784.m3u8
+#EXTINF:-1,KIKA HD
+http://ares.dominium.tv:6923/live/adrian/1234/30783.m3u8
+#EXTINF:-1,Kinowelt TV HD
+http://ares.dominium.tv:6923/live/adrian/1234/30782.m3u8
+#EXTINF:-1,Krone Hit HD
+http://ares.dominium.tv:6923/live/adrian/1234/30781.m3u8
+#EXTINF:-1,Motorvision HD
+http://ares.dominium.tv:6923/live/adrian/1234/30780.m3u8
+#EXTINF:-1,MTV Germany HD
+http://ares.dominium.tv:6923/live/adrian/1234/30779.m3u8
+#EXTINF:-1,N-TV
+http://ares.dominium.tv:6923/live/adrian/1234/30778.m3u8
 #EXTINF:-1,N-TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19077.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30777.m3u8
 #EXTINF:-1,N24
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19078.m3u8
-#EXTINF:-1,Nat Geo HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19061.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30776.m3u8
+#EXTINF:-1,N24 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30775.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://ares.dominium.tv:6923/live/adrian/1234/30774.m3u8
 #EXTINF:-1,Nat Geo Wild
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19058.m3u8
-#EXTINF:-1,Nat Geo wild FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19060.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19059.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30773.m3u8
+#EXTINF:-1,Nat Geo Wild  HD
+http://ares.dominium.tv:6923/live/adrian/1234/30772.m3u8
+#EXTINF:-1,National Geographic
+http://ares.dominium.tv:6923/live/adrian/1234/30771.m3u8
 #EXTINF:-1,National Geographic HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19062.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30770.m3u8
 #EXTINF:-1,NDR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19150.m3u8
-#EXTINF:-1,Nickelodeon
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19042.m3u8
-#EXTINF:-1,One HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18965.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30769.m3u8
+#EXTINF:-1,Nick HD
+http://ares.dominium.tv:6923/live/adrian/1234/30768.m3u8
+#EXTINF:-1,Nick JR HD
+http://ares.dominium.tv:6923/live/adrian/1234/30767.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://ares.dominium.tv:6923/live/adrian/1234/30766.m3u8
+#EXTINF:-1,Nickelodeon Schweiz HD
+http://ares.dominium.tv:6923/live/adrian/1234/30765.m3u8
+#EXTINF:-1,ORF 1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30764.m3u8
+#EXTINF:-1,ORF 2 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30763.m3u8
+#EXTINF:-1,ORF 3 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30762.m3u8
+#EXTINF:-1,ORF Sport   HD
+http://ares.dominium.tv:6923/live/adrian/1234/30761.m3u8
 #EXTINF:-1,Phoenix HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19075.m3u8
-#EXTINF:-1,Pro 7 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19174.m3u8
-#EXTINF:-1,Pro 7 Fun FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19161.m3u8
-#EXTINF:-1,Pro 7 Fun HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19133.m3u8
-#EXTINF:-1,Pro 7 Max FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19159.m3u8
-#EXTINF:-1,Pro Sieben FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19177.m3u8
-#EXTINF:-1,Pro Sieben Fun HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19160.m3u8
-#EXTINF:-1,Pro Sieben HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19134.m3u8
-#EXTINF:-1,Pro Sieben Maxx FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19158.m3u8
-#EXTINF:-1,Pro Sieben Maxx HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19132.m3u8
-#EXTINF:-1,QVC Beuaty & Style
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18964.m3u8
-#EXTINF:-1,QVC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18963.m3u8
-#EXTINF:-1,RBB Berlin
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19147.m3u8
-#EXTINF:-1,RBB Brandenburg HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19146.m3u8
-#EXTINF:-1,RD HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19138.m3u8
-#EXTINF:-1,RFO
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18962.m3u8
-#EXTINF:-1,Romance TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18961.m3u8
-#EXTINF:-1,RTL 2 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19171.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30760.m3u8
+#EXTINF:-1,PLANET HD
+http://ares.dominium.tv:6923/live/adrian/1234/30759.m3u8
+#EXTINF:-1,Pro 7
+http://ares.dominium.tv:6923/live/adrian/1234/30758.m3u8
+#EXTINF:-1,Pro 7 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30757.m3u8
+#EXTINF:-1,Pro 7 Maxx
+http://ares.dominium.tv:6923/live/adrian/1234/30756.m3u8
+#EXTINF:-1,Pro 7 Maxx HD
+http://ares.dominium.tv:6923/live/adrian/1234/30755.m3u8
+#EXTINF:-1,Pro7 Fun HD
+http://ares.dominium.tv:6923/live/adrian/1234/30754.m3u8
+#EXTINF:-1,Programmübersicht Sky Select
+http://ares.dominium.tv:6923/live/adrian/1234/30753.m3u8
+#EXTINF:-1,Romance TV HD
+http://ares.dominium.tv:6923/live/adrian/1234/30752.m3u8
+#EXTINF:-1,RTL
+http://ares.dominium.tv:6923/live/adrian/1234/30751.m3u8
 #EXTINF:-1,RTL Crime
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19165.m3u8
-#EXTINF:-1,RTL Crime FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19166.m3u8
-#EXTINF:-1,RTL FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19179.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30750.m3u8
 #EXTINF:-1,RTL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19180.m3u8
-#EXTINF:-1,RTL II You
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19172.m3u8
-#EXTINF:-1,RTL Living
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19164.m3u8
-#EXTINF:-1,RTL Nitro FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19169.m3u8
-#EXTINF:-1,RTL Nitro HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19170.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30749.m3u8
+#EXTINF:-1,RTL II
+http://ares.dominium.tv:6923/live/adrian/1234/30748.m3u8
+#EXTINF:-1,RTL II HD
+http://ares.dominium.tv:6923/live/adrian/1234/30747.m3u8
+#EXTINF:-1,RTL Living HD
+http://ares.dominium.tv:6923/live/adrian/1234/30746.m3u8
+#EXTINF:-1,RTL NITRO HD
+http://ares.dominium.tv:6923/live/adrian/1234/30745.m3u8
 #EXTINF:-1,RTL Passion
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19168.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30744.m3u8
 #EXTINF:-1,RTL Plus
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19167.m3u8
-#EXTINF:-1,Sat.1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19178.m3u8
-#EXTINF:-1,Sat1 Emotion
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19163.m3u8
-#EXTINF:-1,Sat1 Gold FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19162.m3u8
-#EXTINF:-1,Servus TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19153.m3u8
-#EXTINF:-1,Silverline
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18996.m3u8
-#EXTINF:-1,Sixx FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19156.m3u8
-#EXTINF:-1,Sky 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18976.m3u8
-#EXTINF:-1,Sky 13TH Street HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19002.m3u8
-#EXTINF:-1,Sky 3D FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18984.m3u8
-#EXTINF:-1,Sky Action
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18982.m3u8
-#EXTINF:-1,Sky Action HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18983.m3u8
-#EXTINF:-1,Sky Arts FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18952.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30743.m3u8
+#EXTINF:-1,RTL You HD
+http://ares.dominium.tv:6923/live/adrian/1234/30742.m3u8
+#EXTINF:-1,Sat 1
+http://ares.dominium.tv:6923/live/adrian/1234/30741.m3u8
+#EXTINF:-1,Sat 1  HD
+http://ares.dominium.tv:6923/live/adrian/1234/30740.m3u8
+#EXTINF:-1,Sat 1 Emotions HD
+http://ares.dominium.tv:6923/live/adrian/1234/30739.m3u8
+#EXTINF:-1,Sat 1 Gold
+http://ares.dominium.tv:6923/live/adrian/1234/30738.m3u8
+#EXTINF:-1,SilverLine Movie
+http://ares.dominium.tv:6923/live/adrian/1234/30737.m3u8
+#EXTINF:-1,Sixx
+http://ares.dominium.tv:6923/live/adrian/1234/30736.m3u8
+#EXTINF:-1,SIXX HD
+http://ares.dominium.tv:6923/live/adrian/1234/30735.m3u8
+#EXTINF:-1,Sky 1
+http://ares.dominium.tv:6923/live/adrian/1234/30734.m3u8
+#EXTINF:-1,Sky 1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30733.m3u8
 #EXTINF:-1,Sky Arts HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18953.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30732.m3u8
 #EXTINF:-1,Sky Atlantic
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19005.m3u8
-#EXTINF:-1,Sky Atlantic  1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19003.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30731.m3u8
+#EXTINF:-1,Sky Atlantic   1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30730.m3u8
 #EXTINF:-1,Sky Atlantic HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19004.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30729.m3u8
+#EXTINF:-1,Sky Cinema
+http://ares.dominium.tv:6923/live/adrian/1234/30728.m3u8
+#EXTINF:-1,Sky Cinema  1
+http://ares.dominium.tv:6923/live/adrian/1234/30727.m3u8
 #EXTINF:-1,Sky Cinema  1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18981.m3u8
-#EXTINF:-1,Sky Cinema  24 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18980.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30726.m3u8
+#EXTINF:-1,Sky Cinema  24
+http://ares.dominium.tv:6923/live/adrian/1234/30725.m3u8
 #EXTINF:-1,Sky Cinema  24 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19026.m3u8
-#EXTINF:-1,Sky Cinema 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19028.m3u8
-#EXTINF:-1,Sky Cinema 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19029.m3u8
-#EXTINF:-1,Sky Cinema 24 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19027.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30724.m3u8
 #EXTINF:-1,Sky Cinema Action
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19024.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30723.m3u8
 #EXTINF:-1,Sky Cinema Action HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19025.m3u8
-#EXTINF:-1,Sky Cinema Comedy
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19023.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30722.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://ares.dominium.tv:6923/live/adrian/1234/30721.m3u8
 #EXTINF:-1,Sky Cinema Emotion
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19017.m3u8
-#EXTINF:-1,Sky Cinema Family FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19019.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30720.m3u8
+#EXTINF:-1,Sky Cinema Emotion HD
+http://ares.dominium.tv:6923/live/adrian/1234/30719.m3u8
 #EXTINF:-1,Sky Cinema Family HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19018.m3u8
-#EXTINF:-1,Sky Cinema FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19031.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30718.m3u8
 #EXTINF:-1,Sky Cinema HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19030.m3u8
-#EXTINF:-1,Sky Cinema Hits  FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19020.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30717.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://ares.dominium.tv:6923/live/adrian/1234/30716.m3u8
 #EXTINF:-1,Sky Cinema Hits HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19021.m3u8
-#EXTINF:-1,Sky Cinema Nostalgie
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19015.m3u8
-#EXTINF:-1,Sky Classica
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19033.m3u8
-#EXTINF:-1,Sky Comedy
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19022.m3u8
-#EXTINF:-1,Sky Emotion
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19016.m3u8
-#EXTINF:-1,Sky Heimat Kanal
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18950.m3u8
-#EXTINF:-1,Sky Hits FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18979.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30715.m3u8
+#EXTINF:-1,Sky Cinema Nostalgie HD
+http://ares.dominium.tv:6923/live/adrian/1234/30714.m3u8
+#EXTINF:-1,Sky DMAX
+http://ares.dominium.tv:6923/live/adrian/1234/30713.m3u8
 #EXTINF:-1,Sky Krimi
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18990.m3u8
-#EXTINF:-1,Sky Nostalgie
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19014.m3u8
-#EXTINF:-1,Sky Select 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19013.m3u8
-#EXTINF:-1,Sky Select 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19012.m3u8
-#EXTINF:-1,Sky Select 3 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19011.m3u8
-#EXTINF:-1,Sky Select 4 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19010.m3u8
-#EXTINF:-1,Sky Select 5 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19009.m3u8
-#EXTINF:-1,Sky Select 6 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19008.m3u8
-#EXTINF:-1,Sky Select 7 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19007.m3u8
-#EXTINF:-1,Sky Select 8
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19006.m3u8
-#EXTINF:-1,Sky Silverline
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18995.m3u8
-#EXTINF:-1,Sky Sport 01 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19131.m3u8
-#EXTINF:-1,Sky Sport 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19101.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30712.m3u8
+#EXTINF:-1,Sky Select Live 1 (Planet der Affen-Survival)
+http://ares.dominium.tv:6923/live/adrian/1234/30711.m3u8
+#EXTINF:-1,Sky Select Live 10 (Wonder Woman)
+http://ares.dominium.tv:6923/live/adrian/1234/30710.m3u8
+#EXTINF:-1,Sky Select Live 11 (The Boss Baby)
+http://ares.dominium.tv:6923/live/adrian/1234/30709.m3u8
+#EXTINF:-1,Sky Select Live 12 (Vier gegen die Bank)
+http://ares.dominium.tv:6923/live/adrian/1234/30708.m3u8
+#EXTINF:-1,Sky Select Live 2 (Der Dunkle Turm)
+http://ares.dominium.tv:6923/live/adrian/1234/30707.m3u8
+#EXTINF:-1,Sky Select Live 3 (Dunkirk)
+http://ares.dominium.tv:6923/live/adrian/1234/30706.m3u8
+#EXTINF:-1,Sky Select Live 4 (Baby Driver)
+http://ares.dominium.tv:6923/live/adrian/1234/30705.m3u8
+#EXTINF:-1,Sky Select Live 5 (Emoji-Der Film)
+http://ares.dominium.tv:6923/live/adrian/1234/30704.m3u8
+#EXTINF:-1,Sky Select Live 6 (Spider-Man Homecoming)
+http://ares.dominium.tv:6923/live/adrian/1234/30703.m3u8
+#EXTINF:-1,Sky Select Live 7 (King Arthur-Legend of the Sword)
+http://ares.dominium.tv:6923/live/adrian/1234/30702.m3u8
+#EXTINF:-1,Sky Select Live 8 (Valerian-Die Stadt der tausend Planeten)
+http://ares.dominium.tv:6923/live/adrian/1234/30701.m3u8
+#EXTINF:-1,Sky Select Live 9 (Ich-Einfach unverbesserlich 3)
+http://ares.dominium.tv:6923/live/adrian/1234/30700.m3u8
+#EXTINF:-1,Sky Sport 1
+http://ares.dominium.tv:6923/live/adrian/1234/30699.m3u8
 #EXTINF:-1,Sky Sport 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19130.m3u8
-#EXTINF:-1,Sky Sport 10 (only at games)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19090.m3u8
-#EXTINF:-1,Sky Sport 11 HD (During the Games Only)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19089.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30698.m3u8
+#EXTINF:-1,Sky Sport 10 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30697.m3u8
 #EXTINF:-1,Sky Sport 2
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19129.m3u8
-#EXTINF:-1,Sky Sport 2 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19128.m3u8
-#EXTINF:-1,Sky Sport 3 (only at games)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19100.m3u8
-#EXTINF:-1,Sky Sport 3 FHD (Match Time)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19099.m3u8
-#EXTINF:-1,Sky Sport 4 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19097.m3u8
-#EXTINF:-1,Sky Sport 4 HD (Live Event)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19098.m3u8
-#EXTINF:-1,Sky Sport 5 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19095.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30696.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30695.m3u8
+#EXTINF:-1,Sky Sport 3 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30694.m3u8
+#EXTINF:-1,Sky Sport 4 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30693.m3u8
 #EXTINF:-1,Sky Sport 5 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19096.m3u8
-#EXTINF:-1,Sky Sport 6 (only at games) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19094.m3u8
-#EXTINF:-1,Sky SPort 7 (only at games) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19093.m3u8
-#EXTINF:-1,Sky Sport 8 (only at games) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19092.m3u8
-#EXTINF:-1,Sky Sport 9 (only at games) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19091.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19115.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19114.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 10 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19102.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 (Match Time)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19113.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19112.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19111.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 FHD (Live Event)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19110.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19109.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19108.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 FHD (Live Event)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19107.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 6
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19106.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 7 (Match Time)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19105.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 8 FHD (Match Time)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19104.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 9
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19103.m3u8
-#EXTINF:-1,Sky Sport News FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19126.m3u8
-#EXTINF:-1,Sky Sports News HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19127.m3u8
-#EXTINF:-1,Sonnenklar TV FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18960.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30692.m3u8
+#EXTINF:-1,Sky Sport 6 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30691.m3u8
+#EXTINF:-1,Sky Sport 7 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30690.m3u8
+#EXTINF:-1,Sky Sport 8 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30689.m3u8
+#EXTINF:-1,Sky Sport 9 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30688.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://ares.dominium.tv:6923/live/adrian/1234/30687.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30686.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 SD
+http://ares.dominium.tv:6923/live/adrian/1234/30685.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 10 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30684.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 2 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30683.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 2 SD
+http://ares.dominium.tv:6923/live/adrian/1234/30682.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 3 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30681.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 3 SD
+http://ares.dominium.tv:6923/live/adrian/1234/30680.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 4 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30679.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 4 SD
+http://ares.dominium.tv:6923/live/adrian/1234/30678.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30677.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5 SD
+http://ares.dominium.tv:6923/live/adrian/1234/30676.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 6 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30675.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 7 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30674.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 8 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30673.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 9 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30672.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://ares.dominium.tv:6923/live/adrian/1234/30671.m3u8
+#EXTINF:-1,Sonnenklar TV HD
+http://ares.dominium.tv:6923/live/adrian/1234/30670.m3u8
 #EXTINF:-1,Sony HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18994.m3u8
-#EXTINF:-1,Spiegel Geschichte
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19070.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30669.m3u8
+#EXTINF:-1,Spiegel Geschichte HD
+http://ares.dominium.tv:6923/live/adrian/1234/30668.m3u8
+#EXTINF:-1,Spiegel TV Wissen
+http://ares.dominium.tv:6923/live/adrian/1234/30667.m3u8
 #EXTINF:-1,Spiegel TV Wissen HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19069.m3u8
-#EXTINF:-1,Sport Digital
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19125.m3u8
-#EXTINF:-1,Sport Digital FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19080.m3u8
-#EXTINF:-1,Sport1
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19116.m3u8
-#EXTINF:-1,Sport1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19117.m3u8
-#EXTINF:-1,Sport1 US FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19041.m3u8
-#EXTINF:-1,Sport1 US HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19040.m3u8
-#EXTINF:-1,SR Fernsehen HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19142.m3u8
-#EXTINF:-1,SRF 1
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18959.m3u8
-#EXTINF:-1,Super RTL FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19055.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30666.m3u8
+#EXTINF:-1,SPORT 1  HD
+http://ares.dominium.tv:6923/live/adrian/1234/30665.m3u8
+#EXTINF:-1,SPORT 1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30664.m3u8
+#EXTINF:-1,Sportdigital HD
+http://ares.dominium.tv:6923/live/adrian/1234/30663.m3u8
 #EXTINF:-1,Super RTL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19056.m3u8
-#EXTINF:-1,SWR
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19141.m3u8
-#EXTINF:-1,Syfy
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18993.m3u8
-#EXTINF:-1,Syfy  HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18992.m3u8
-#EXTINF:-1,Syfy FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18991.m3u8
-#EXTINF:-1,Tagesschau 24
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19074.m3u8
-#EXTINF:-1,Tele 5 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19155.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30662.m3u8
+#EXTINF:-1,SYFY
+http://ares.dominium.tv:6923/live/adrian/1234/30661.m3u8
+#EXTINF:-1,Tele 5 tv HD
+http://ares.dominium.tv:6923/live/adrian/1234/30660.m3u8
 #EXTINF:-1,TLC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18951.m3u8
-#EXTINF:-1,TNT Comedy FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18989.m3u8
-#EXTINF:-1,TNT Film FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18988.m3u8
-#EXTINF:-1,TNT Serie FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18986.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30659.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://ares.dominium.tv:6923/live/adrian/1234/30658.m3u8
+#EXTINF:-1,TNT Film HD
+http://ares.dominium.tv:6923/live/adrian/1234/30657.m3u8
 #EXTINF:-1,TNT Serie HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18987.m3u8
-#EXTINF:-1,Toggo Plus
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19053.m3u8
-#EXTINF:-1,Travel Channel
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19057.m3u8
-#EXTINF:-1,Universal FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18985.m3u8
-#EXTINF:-1,Viva Comedy Central
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19039.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30656.m3u8
+#EXTINF:-1,Universal Channel HD
+http://ares.dominium.tv:6923/live/adrian/1234/30655.m3u8
+#EXTINF:-1,VIVA / COMEDY CENTRAL HD
+http://ares.dominium.tv:6923/live/adrian/1234/30654.m3u8
 #EXTINF:-1,VOX
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19176.m3u8
-#EXTINF:-1,VOX FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19175.m3u8
-#EXTINF:-1,Wdr HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19140.m3u8
-#EXTINF:-1,Weltr Wunder
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18958.m3u8
-#EXTINF:-1,ZDF
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19182.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30653.m3u8
+#EXTINF:-1,VOX  HD
+http://ares.dominium.tv:6923/live/adrian/1234/30652.m3u8
+#EXTINF:-1,WDR HD
+http://ares.dominium.tv:6923/live/adrian/1234/30651.m3u8
+#EXTINF:-1,Welt Der Wunder
+http://ares.dominium.tv:6923/live/adrian/1234/30650.m3u8
+#EXTINF:-1,XITE Base
+http://ares.dominium.tv:6923/live/adrian/1234/30649.m3u8
 #EXTINF:-1,ZDF HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19183.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30648.m3u8
 #EXTINF:-1,ZDF Info HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19073.m3u8
-#EXTINF:-1,ZDF Neo HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19181.m3u8
-#EXTINF:-1,Zee One FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18957.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30647.m3u8
+#EXTINF:-1,Zee one HD
+http://ares.dominium.tv:6923/live/adrian/1234/30646.m3u8
