@@ -1,409 +1,229 @@
 #EXTM3U
-#EXTINF:-1,Rai 1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/378.m3u8
-#EXTINF:-1,Rai 2 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/377.m3u8
-#EXTINF:-1,Rai 3 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/376.m3u8
-#EXTINF:-1,Rete 4 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/375.m3u8
-#EXTINF:-1,Canale 5 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/374.m3u8
-#EXTINF:-1,Italia 1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/373.m3u8
+#EXTINF:-1,Sky.primafila1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1242.m3u8
+#EXTINF:-1,Sky.primafila2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1243.m3u8
+#EXTINF:-1,Sky.primafila3
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1244.m3u8
+#EXTINF:-1,Sky.primafila4
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1245.m3u8
+#EXTINF:-1,Sky.primafila5
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1246.m3u8
+#EXTINF:-1,Sky.primafila6
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1247.m3u8
+#EXTINF:-1,Sky.primafila7
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1248.m3u8
+#EXTINF:-1,Sky.primafila8
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1249.m3u8
+#EXTINF:-1,Sky.primafila.9
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1250.m3u8
+#EXTINF:-1,Sky.primafila10
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1251.m3u8
+#EXTINF:-1,Sky.Sport1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/295.m3u8
+#EXTINF:-1,Sky.Sport2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/296.m3u8
+#EXTINF:-1,Sky.Sport3
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2708.m3u8
+#EXTINF:-1,Sky.Sport24
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/298.m3u8
+#EXTINF:-1,Sky.Calcio1HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1938.m3u8
+#EXTINF:-1,Sky.Calcio2HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1937.m3u8
+#EXTINF:-1,Sky.Calcio3HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1936.m3u8
+#EXTINF:-1,Sky.Calcio4HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1935.m3u8
+#EXTINF:-1,Sky.Calcio5HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1934.m3u8
+#EXTINF:-1,Sky.Calcio6HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1933.m3u8
+#EXTINF:-1,Sky.Calcio8HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1932.m3u8
+#EXTINF:-1,Premium.Sport.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1912.m3u8
+#EXTINF:-1,Premium-Calcio-HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1792.m3u8
+#EXTINF:-1,Premium/Calcio1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1801.m3u8
+#EXTINF:-1,Premium/Calcio2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1802.m3u8
+#EXTINF:-1,Premium/Calcio3
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1803.m3u8
+#EXTINF:-1,Premium/Calcio4
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1804.m3u8
+#EXTINF:-1,Premium/Calcio5
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1805.m3u8
+#EXTINF:-1,Premium/Calcio6
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1806.m3u8
+#EXTINF:-1,Premium/Calcio7
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1807.m3u8
+#EXTINF:-1,Premium.Calcio
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1330.m3u8
+#EXTINF:-1,Premium.EuroSport1.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1329.m3u8
+#EXTINF:-1,Fox.Sports
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1357.m3u8
+#EXTINF:-1,EuroSport1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2709.m3u8
+#EXTINF:-1,EuroSport2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2710.m3u8
+#EXTINF:-1,Sport_F1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2833.m3u8
+#EXTINF:-1,Sport.Italia
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1928.m3u8
+#EXTINF:-1,Sky/Moto/GP:HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2707.m3u8
+#EXTINF:-1,Sky.F1.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1356.m3u8
+#EXTINF:-1,SKY.F1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1771.m3u8
+#EXTINF:-1,SkySport_MotoGp
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2832.m3u8
+#EXTINF:-1,Premium.Emotion
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1178.m3u8
+#EXTINF:-1,Premium.CinemaHD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1176.m3u8
+#EXTINF:-1,Premium.Cinema.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1916.m3u8
+#EXTINF:-1,Premium.Cinema.Comedy
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1177.m3u8
+#EXTINF:-1,Premium.Cinema-Energy
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1134.m3u8
+#EXTINF:-1,Premium.Studio.Universal
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1188.m3u8
+#EXTINF:-1,Premium.Comedy
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1915.m3u8
+#EXTINF:-1, Premium/Stories24
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1813.m3u8
+#EXTINF:-1, PREMIUM JOy
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1773.m3u8
+#EXTINF:-1,Dea.Junior
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1180.m3u8
+#EXTINF:-1,Premium.Disney.Channel
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1182.m3u8
+#EXTINF:-1,Premium.Action.24
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1184.m3u8
+#EXTINF:-1,Premium.Cinema.Comedy
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/243.m3u8
+#EXTINF:-1,Premium.Action.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/240.m3u8
+#EXTINF:-1,Premium.Crime.+24
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1175.m3u8
+#EXTINF:-1,Premium.Crime.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1914.m3u8
+#EXTINF:-1,Premium.Crime+24
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1179.m3u8
+#EXTINF:-1,Premium.Car.Net
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1187.m3u8
+#EXTINF:-1,Discovery.Science
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1913.m3u8
+#EXTINF:-1,IT_Sky.Cinema.Hits.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/105.m3u8
+#EXTINF:-1,Sky.Discovery.Channel.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1324.m3u8
+#EXTINF:-1,Sky.Cinema.Passion.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/262.m3u8
+#EXTINF:-1,Sky.Cinema.Comedy.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1909.m3u8
+#EXTINF:-1,Sky.Cinema.+24.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1927.m3u8
+#EXTINF:-1,SKY.Cinema.UNO
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1322.m3u8
+#EXTINF:-1, Premium Cinema 2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1917.m3u8
+#EXTINF:-1,IT : Sky Uno HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10626.m3u8
+#EXTINF:-1,Sky.Classic.HD-
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/304.m3u8
+#EXTINF:-1,Sky.Cinema.Max
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1141.m3u8
+#EXTINF:-1,Sky.Cinema.Hits
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1140.m3u8
+#EXTINF:-1,Sky.Cinema.Family
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1142.m3u8
+#EXTINF:-1,Sky.Cinema.Cult
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/302.m3u8
+#EXTINF:-1,Sky.Atlantic
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/305.m3u8
+#EXTINF:-1,Sky-Cinema-Cult
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1143.m3u8
+#EXTINF:-1,Italia1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4222.m3u8
 #EXTINF:-1,La5
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/372.m3u8
-#EXTINF:-1,La7
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/371.m3u8
-#EXTINF:-1,La7d
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5569.m3u8
-#EXTINF:-1,Rai 4 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/370.m3u8
-#EXTINF:-1,Rai 5 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/369.m3u8
-#EXTINF:-1,Rai Gulp HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/368.m3u8
-#EXTINF:-1,Rai Scuola HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5557.m3u8
-#EXTINF:-1,Rai Movie HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/367.m3u8
-#EXTINF:-1,Rai News 24 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/366.m3u8
-#EXTINF:-1,Rai Premium HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/365.m3u8
-#EXTINF:-1,Rai Sport + HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/363.m3u8
-#EXTINF:-1,Rai Storia HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/364.m3u8
-#EXTINF:-1,Rai Yoyo HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/362.m3u8
-#EXTINF:-1,Mediaset 20
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/361.m3u8
-#EXTINF:-1,Iris
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/360.m3u8
-#EXTINF:-1,Italia 2
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/359.m3u8
-#EXTINF:-1,TV2000
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/358.m3u8
-#EXTINF:-1,Mediaset Extra 1 GF
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/357.m3u8
-#EXTINF:-1,Mediaset Extra 2 GF
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/356.m3u8
-#EXTINF:-1,EuroNews
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/355.m3u8
-#EXTINF:-1,TgCom 24
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/354.m3u8
-#EXTINF:-1,Sky TG24 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/353.m3u8
-#EXTINF:-1,RSI LA 1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/453.m3u8
-#EXTINF:-1,RSI LA 2 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/452.m3u8
-#EXTINF:-1,Sky Cinema Uno HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/351.m3u8
-#EXTINF:-1,Sky Cinema Uno  +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/350.m3u8
-#EXTINF:-1,Sky Cinema Uno +24 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/349.m3u8
-#EXTINF:-1,Sky Cinema Due HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7269.m3u8
-#EXTINF:-1,Sky Cinema Due +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7183.m3u8
-#EXTINF:-1,Sky Cinema Due +24 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7275.m3u8
-#EXTINF:-1,Sky Cinema Drama HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/348.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/347.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/346.m3u8
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/341.m3u8
-#EXTINF:-1,Sky Cinema Cult HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/345.m3u8
-#EXTINF:-1,Sky Cinema Suspense HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/344.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/343.m3u8
-#EXTINF:-1,Sky Cinema Action +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/342.m3u8
-#EXTINF:-1,Sky Cinema Romance HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/340.m3u8
-#EXTINF:-1,Sky Cinema Romance +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7184.m3u8
-#EXTINF:-1,Sky Cinema Collection HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7276.m3u8
-#EXTINF:-1,Sky Atlantic SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/338.m3u8
-#EXTINF:-1,Sky Atlantic +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/339.m3u8
-#EXTINF:-1,Cielo HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/337.m3u8
-#EXTINF:-1,Dmax HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/336.m3u8
-#EXTINF:-1,Gambero Rosso HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/335.m3u8
-#EXTINF:-1,Real Time HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/334.m3u8
-#EXTINF:-1,Sky MTV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/333.m3u8
-#EXTINF:-1,Sky 3D
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/332.m3u8
-#EXTINF:-1,Sky Arte HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/331.m3u8
-#EXTINF:-1,Sky Uno HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/329.m3u8
-#EXTINF:-1,Sky Uno +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/330.m3u8
-#EXTINF:-1,Fox HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/324.m3u8
-#EXTINF:-1,Fox Life HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/323.m3u8
-#EXTINF:-1,Fox Crime HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/325.m3u8
-#EXTINF:-1,Fox Comedy HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/326.m3u8
-#EXTINF:-1,Fox Animation HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/327.m3u8
-#EXTINF:-1,Cine Sony
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/322.m3u8
-#EXTINF:-1,Spike
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/321.m3u8
-#EXTINF:-1,Primafila 1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/319.m3u8
-#EXTINF:-1,Primafila 2 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/318.m3u8
-#EXTINF:-1,Primafila 3 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/317.m3u8
-#EXTINF:-1,Primafila 4 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/316.m3u8
-#EXTINF:-1,Primafila 5 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/315.m3u8
-#EXTINF:-1,Primafila 6 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/314.m3u8
-#EXTINF:-1,Primafila 7 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/313.m3u8
-#EXTINF:-1,Primafila 8 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/312.m3u8
-#EXTINF:-1,Primafila 9 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/311.m3u8
-#EXTINF:-1,Primafila 10 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/310.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/306.m3u8
-#EXTINF:-1,Sky Sport F1 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/305.m3u8
-#EXTINF:-1,Sky Sport Uno FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/304.m3u8
-#EXTINF:-1,Sky Sport Arena FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/303.m3u8
-#EXTINF:-1,Sky Sport Football FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/301.m3u8
-#EXTINF:-1,Sky Sport Seria A FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/302.m3u8
-#EXTINF:-1,Sky Sport MotoGP FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/300.m3u8
-#EXTINF:-1,Sky Sport NBA HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/299.m3u8
-#EXTINF:-1,Sky Calcio 1 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/297.m3u8
-#EXTINF:-1,Sky Calcio 2 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/296.m3u8
-#EXTINF:-1,Sky Calcio 3 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/295.m3u8
-#EXTINF:-1,Sky Calcio 4 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/294.m3u8
-#EXTINF:-1,Sky Calcio 5 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/293.m3u8
-#EXTINF:-1,Sky Calcio 6 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/292.m3u8
-#EXTINF:-1,Sky Calcio 7 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/291.m3u8
-#EXTINF:-1,Sky Calcio 8 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/290.m3u8
-#EXTINF:-1,Sky Calcio 9 FHD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/289.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/286.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/285.m3u8
-#EXTINF:-1,Sky Sport F1 SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/284.m3u8
-#EXTINF:-1,Sky Sport Uno SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/283.m3u8
-#EXTINF:-1,Sky Sport Seria A SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/279.m3u8
-#EXTINF:-1,Sky Sport Arena SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/282.m3u8
-#EXTINF:-1,Sky Sport Football SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/278.m3u8
-#EXTINF:-1,Sky Sport Golf SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/281.m3u8
-#EXTINF:-1,Sky Calcio 1 SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/277.m3u8
-#EXTINF:-1,Sky Calcio 2 SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/276.m3u8
-#EXTINF:-1,Sky Calcio 3 SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/275.m3u8
-#EXTINF:-1,Sky Calcio 4 SD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/274.m3u8
-#EXTINF:-1,DAZN SPORT 1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/273.m3u8
-#EXTINF:-1,DAZN SPORT 2 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/272.m3u8
-#EXTINF:-1,DAZN SPORT 3 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/271.m3u8
-#EXTINF:-1,DAZN SPORT 4 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/270.m3u8
-#EXTINF:-1,Top Calcio 24
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/269.m3u8
-#EXTINF:-1,Motor Trend
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/3612.m3u8
-#EXTINF:-1,AutoMotor TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/268.m3u8
-#EXTINF:-1,Bike Channel
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/267.m3u8
-#EXTINF:-1,Inter Channel
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/266.m3u8
-#EXTINF:-1,Milan Channel
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/263.m3u8
-#EXTINF:-1,Roma Channel
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/264.m3u8
-#EXTINF:-1,Torino Channel
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/262.m3u8
-#EXTINF:-1,Lazio Style
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/265.m3u8
-#EXTINF:-1,Zelig Sport
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/181.m3u8
-#EXTINF:-1,Sport Italia
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/261.m3u8
-#EXTINF:-1,Super Tennis HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/260.m3u8
-#EXTINF:-1,MTV Next HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/258.m3u8
-#EXTINF:-1,Radio Italia Tv .
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/257.m3u8
-#EXTINF:-1,Pop Italy
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/256.m3u8
-#EXTINF:-1,VH1 Italia
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/255.m3u8
-#EXTINF:-1,RTL 102.5
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/254.m3u8
-#EXTINF:-1, Radio Monte Carlo TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/252.m3u8
-#EXTINF:-1,Radio Capital TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/245.m3u8
-#EXTINF:-1,Radio Linea N*1
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/244.m3u8
-#EXTINF:-1,Radio Zeta
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/242.m3u8
-#EXTINF:-1,Radionorba Tv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/243.m3u8
-#EXTINF:-1,DeejayTv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/250.m3u8
-#EXTINF:-1,Hit Music Channel
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/249.m3u8
-#EXTINF:-1,NRJ HITS
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/246.m3u8
-#EXTINF:-1,M2o Tv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/248.m3u8
-#EXTINF:-1,MUSICA LATINA
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/247.m3u8
-#EXTINF:-1,Radio Fresccia
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5566.m3u8
-#EXTINF:-1,BRIDGE DANCE TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/251.m3u8
-#EXTINF:-1,Virgin Tv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/177.m3u8
-#EXTINF:-1,Baby Tv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/240.m3u8
-#EXTINF:-1,K2
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/239.m3u8
-#EXTINF:-1,Super!
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5567.m3u8
-#EXTINF:-1,Nickelodeon
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/238.m3u8
-#EXTINF:-1,Cartoon Network
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/237.m3u8
-#EXTINF:-1,Boomerang
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5715.m3u8
-#EXTINF:-1,MAN-GA
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5714.m3u8
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4221.m3u8
+#EXTINF:-1,Rai.1.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1350.m3u8
+#EXTINF:-1,Rai2.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1351.m3u8
+#EXTINF:-1,Rai:3
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1349.m3u8
+#EXTINF:-1,RAI4
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2547.m3u8
+#EXTINF:-1,RAI5
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2310.m3u8
+#EXTINF:-1,Rai.Sport1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1352.m3u8
+#EXTINF:-1,Rai.Sport2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1353.m3u8
+#EXTINF:-1,Rai:YoYo
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1348.m3u8
+#EXTINF:-1,RAI.PREMIUM
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2546.m3u8
+#EXTINF:-1, RAI MOVIE
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2545.m3u8
+#EXTINF:-1,RSI.La.1.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1910.m3u8
+#EXTINF:-1,RSI.La2
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1908.m3u8
+#EXTINF:-1,ITALIA.1
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1186.m3u8
+#EXTINF:-1,Sky.CANAL5
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1931.m3u8
+#EXTINF:-1,CANALE5
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1185.m3u8
+#EXTINF:-1,Top.Crime
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1354.m3u8
+#EXTINF:-1,Teleticino
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1919.m3u8
+#EXTINF:-1,SKY.UNO
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1770.m3u8
+#EXTINF:-1,Sky.Fox.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1355.m3u8
+#EXTINF:-1,SKY.Cielo
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1321.m3u8
+#EXTINF:-1,Rete.4
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1911.m3u8
+#EXTINF:-1,Mediaset/Extra
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1812.m3u8
+#EXTINF:-1,La.7HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1923.m3u8
+#EXTINF:-1,Fox.Comedy.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1922.m3u8
+#EXTINF:-1,Disney.XD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1924.m3u8
+#EXTINF:-1,CARTOON.NETWORK
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1926.m3u8
 #EXTINF:-1,Boing
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/236.m3u8
-#EXTINF:-1,Dea Junior
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/235.m3u8
-#EXTINF:-1,Dea Kids
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/234.m3u8
-#EXTINF:-1,Disney Channel HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/233.m3u8
-#EXTINF:-1,Disney Junior
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/232.m3u8
-#EXTINF:-1,Disney XD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/231.m3u8
-#EXTINF:-1,Fresbee
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/230.m3u8
-#EXTINF:-1,Cartoonito
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/229.m3u8
-#EXTINF:-1,Focus
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/227.m3u8
-#EXTINF:-1,Pesca
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/226.m3u8
-#EXTINF:-1,Caccia
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/225.m3u8
-#EXTINF:-1,Comedy Central
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/224.m3u8
-#EXTINF:-1,Laeffe
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/223.m3u8
-#EXTINF:-1,Lei
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/222.m3u8
-#EXTINF:-1,Marcopolo
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/221.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/220.m3u8
-#EXTINF:-1,Top Crime
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/218.m3u8
-#EXTINF:-1,TV8
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/217.m3u8
-#EXTINF:-1,Alpha
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5556.m3u8
-#EXTINF:-1,Alice
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7190.m3u8
-#EXTINF:-1,Premium Cinema  24 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/213.m3u8
-#EXTINF:-1,Premium Cinema Action HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/212.m3u8
-#EXTINF:-1,Premium Cinema Action +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7177.m3u8
-#EXTINF:-1,Premium Cinema Crime HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/211.m3u8
-#EXTINF:-1,Premium Cinema Crime +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7180.m3u8
-#EXTINF:-1,Premium Cinema Emotion HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/210.m3u8
-#EXTINF:-1,Premium Cinema Emotion +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7181.m3u8
-#EXTINF:-1,Premium Cinema Energy HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/209.m3u8
-#EXTINF:-1,Premium Cinema Energy +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7182.m3u8
-#EXTINF:-1,Premium Cinema HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/215.m3u8
-#EXTINF:-1,Premium Cinema +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7178.m3u8
-#EXTINF:-1,Premium Comedy HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/214.m3u8
-#EXTINF:-1,Premium Comedy +1 HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7179.m3u8
-#EXTINF:-1,Premium Action
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/207.m3u8
-#EXTINF:-1,Premium Cinema
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/208.m3u8
-#EXTINF:-1,Premium Comedy
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/205.m3u8
-#EXTINF:-1,Premium Crime
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/206.m3u8
-#EXTINF:-1,Premium Emotion
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/203.m3u8
-#EXTINF:-1,Premium Energy
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/204.m3u8
-#EXTINF:-1,Premium Joi
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/202.m3u8
-#EXTINF:-1,Premium Stories
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/201.m3u8
-#EXTINF:-1,NASA Live - Earth From Space
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/191.m3u8
-#EXTINF:-1,Animal Planet
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/190.m3u8
-#EXTINF:-1,Discovery HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/188.m3u8
-#EXTINF:-1,Discovery Sci HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/187.m3u8
-#EXTINF:-1,Discovery T&L HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/186.m3u8
-#EXTINF:-1,CI Crime   Inv HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/189.m3u8
-#EXTINF:-1,History HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/185.m3u8
-#EXTINF:-1,Nat Geo HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/184.m3u8
-#EXTINF:-1,NatGeo People HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/183.m3u8
-#EXTINF:-1,National Geo Wild HD
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/182.m3u8
-#EXTINF:-1,Nove
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/6045.m3u8
-#EXTINF:-1,Pop Economy
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5565.m3u8
-#EXTINF:-1,Giallo
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5561.m3u8
-#EXTINF:-1,CaseDesigni
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5568.m3u8
-#EXTINF:-1,Italian Fishing TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/7274.m3u8
-#EXTINF:-1,Tele Sondrio News
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/180.m3u8
-#EXTINF:-1,TG Norba 24
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/179.m3u8
-#EXTINF:-1,Venere Tv 2
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/178.m3u8
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1811.m3u8
+#EXTINF:-1,IT.Sky.TG.24
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/158.m3u8
+#EXTINF:-1,IT.Sky.Fox.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/151.m3u8
+#EXTINF:-1,IT.Sky.Fox.Crime.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/152.m3u8
+#EXTINF:-1,FOX.AnimationHD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1241.m3u8
+#EXTINF:-1,Discovery.World
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1138.m3u8
+#EXTINF:-1,National.Geo.HD.WILD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1918.m3u8
+#EXTINF:-1,NAT.GEO.POEPLE.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1326.m3u8
+#EXTINF:-1,Discovery.Travel
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1325.m3u8
+#EXTINF:-1,Discovery.Sci.HD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1925.m3u8
+#EXTINF:-1,Sky.Nat.Geo.WildHD
+http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1323.m3u8
