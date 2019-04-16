@@ -1,32 +1,22 @@
 #EXTM3U
-#EXTINF:-1,1 OPT 1 
-http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r1.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,43 KANAL 
 http://sochi-strk.ru:1936/strk/43Kanal.stream/playlist.m3u8
 #EXTINF:-1,7 TV 
 http://78.40.108.218/7channel/index.m3u8
 #EXTINF:-1,ACASA TV 
 http://hls.protv.md/acasatv/acasatv.m3u8
-#EXTINF:-1,AFONTOVO TV 
-http://stream.afontovo.ru/afontovo.m3u8
 #EXTINF:-1,ASTRAKHAN 24 
 http://streaming.astrakhan.ru/astrakhan24/index.m3u8
 #EXTINF:-1,ATV ULAN UDJE 
 http://atv.stream-1.burnet.ru/atv/studio/playlist.m3u8
 #EXTINF:-1,BOUTIQUE TV OPT 1 
 http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
-#EXTINF:-1,BUM TV 
-http://live-bumtv.cdnvideo.ru/bumtv-live/smil:bumtv.smil/playlist.m3u8
 #EXTINF:-1,CP INFO 
 http://109.68.40.67/life/magnolia.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE 
 http://live02-cdn.tv.ti.ru/dtv/id248_NBN_SG--DiscoveryScienceHD/04/plst.m3u8
-#EXTINF:-1,DOMASHNIY TV 
-http://tvsever.ru:1936/live/adm2/playlist.m3u8
 #EXTINF:-1,FASHION HD
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1,HARDLIFE TV 
-http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
 #EXTINF:-1,IMPACT 
 http://206.190.141.27:1935/live/impact/playlist.m3u8
 #EXTINF:-1,INGUSHETIYA TV 
@@ -39,26 +29,16 @@ http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 http://serv24.vintera.tv:8081/kaledoskop/kaledoskop/playlist.m3u8
 #EXTINF:-1,KAZAKH TV 
 http://kazakhtvru.ultraiptv.com/live_en/playlist1/index.m3u8
-#EXTINF:-1,KIEV TV 
-http://kyivtv.cdnvideo.ru/kyivtv/kyivtv.sdp/playlist.ts
 #EXTINF:-1,KINOMENU HD
 http://62.76.26.81:8081/hdmedia/menu/playlist.m3u8
-#EXTINF:-1,KONNYJ MIR 
-http://cdn-01.bonus-tv.ru:8080/konnyimir_edge/index.m3u8
 #EXTINF:-1,KRASNODAR TV 
 http://live-tvkrasnodar.cdnvideo.ru/tvkrasnodar/tvkrasnodar.sdp/playlist.m3u8
 #EXTINF:-1,KRATU TV 
 http://212.113.32.169:8080/Apple/2/index.m3u8
-#EXTINF:-1,KRIK TV 
-http://cdn-01.bonus-tv.ru:8080/kriktv_edge/index.m3u8
-#EXTINF:-1,KRYM 24 
-http://vid.techbee.pro:8080/crimea24/index.m3u8
 #EXTINF:-1,KULTURA 
 http://api.tv.ipnet.ua/api/v1/manifest/1311962540.m3u8
 #EXTINF:-1,MAKS 24 
 http://live.maksmedia.cdnvideo.ru/maksmedia/maksmedia.sdp/playlist.m3u8
-#EXTINF:-1,MEDIA HD
-http://62.76.26.81:8081/hdmedia/hdmedia_pay/playlist.m3u8
 #EXTINF:-1,MEDIA 3D HD
 http://62.76.26.81:8081/hdmedia/hdmedia_3d/playlist.m3u8
 #EXTINF:-1,METEO TV 
