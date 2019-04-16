@@ -1,267 +1,69 @@
 #EXTM3U
-#EXTINF:-1,RTL4
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/499.m3u8
-#EXTINF:-1,RTL5.HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1414.m3u8
-#EXTINF:-1,RTL7.HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1098.m3u8
-#EXTINF:-1,RTL8.HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1099.m3u8
-#EXTINF:-1,NPO1
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/496.m3u8
-#EXTINF:-1,NPO2
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/497.m3u8
-#EXTINF:-1,NPO3
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1601.m3u8
-#EXTINF:-1,HBO HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1411.m3u8
-#EXTINF:-1,HBO2
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1412.m3u8
-#EXTINF:-1,HBO3
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1413.m3u8
-#EXTINF:-1,Film1.Sundance
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1611.m3u8
-#EXTINF:-1,Film1.Comedy.and.Kids
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1610.m3u8
-#EXTINF:-1,Film1-PremiereHD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1608.m3u8
-#EXTINF:-1,Film1-ActionHD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1609.m3u8
-#EXTINF:-1,National.Geographic.Channel HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1607.m3u8
-#EXTINF:-1,DISCOVERY.CHANNEL
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1606.m3u8
-#EXTINF:-1,Veronica/Disney.XD.HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1602.m3u8
-#EXTINF:-1,SYFY
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1614.m3u8
-#EXTINF:-1,Sport1-Voetbal
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1409.m3u8
-#EXTINF:-1,SBS.7HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2213.m3u8
-#EXTINF:-1,SBS.6HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2212.m3u8
-#EXTINF:-1,RTV.Rijnmond
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2226.m3u8
-#EXTINF:-1,RTV.Drenthe
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2227.m3u8
-#EXTINF:-1,RTL.Z
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2228.m3u8
-#EXTINF:-1,RTL.Lounge
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2229.m3u8
-#EXTINF:-1,NPO.Zapp.Xtra/NPO.Best
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2231.m3u8
-#EXTINF:-1,Nat.Geo.Wild.NL
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2214.m3u8
-#EXTINF:-1,FOX.SPORTS.1
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2218.m3u8
-#EXTINF:-1,FOX.LIFE
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1613.m3u8
-#EXTINF:-1,FOX.HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2217.m3u8
-#EXTINF:-1,FOX
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1612.m3u8
-#EXTINF:-1,Edge.Sport HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2224.m3u8
-#EXTINF:-1,E!.entertainement.HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2225.m3u8
-#EXTINF:-1,Disney.Junior
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2207.m3u8
-#EXTINF:-1,DISNEY.CHANELLE
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1604.m3u8
-#EXTINF:-1,Nicktoons
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2232.m3u8
-#EXTINF:-1,Nickelodeon
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1605.m3u8
-#EXTINF:-1,L.N:DisneyXD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3853.m3u8
-#EXTINF:-1,L.CAR.NET
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3854.m3u8
-#EXTINF:-1,DisneyChanne
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3852.m3u8
-#EXTINF:-1,DISCOVERY.CHANNEL.
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2208.m3u8
-#EXTINF:-1,Cartoon.Network
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1603.m3u8
-#EXTINF:-1,Cartoon.Network.KIDS
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4405.m3u8
-#EXTINF:-1,24.Kitchen.HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2223.m3u8
-#EXTINF:-1,.Nick/SMusic
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4411.m3u8
-#EXTINF:-1,Disney Channel.HD.KIDS
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4406.m3u8
-#EXTINF:-1,Disney.Channel.KIDS
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4409.m3u8
-#EXTINF:-1,Disney.Junior.KIDS
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4407.m3u8
-#EXTINF:-1,JimJam.KIDS
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4410.m3u8
-#EXTINF:-1,Nick.Jr.KIDS
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4408.m3u8
-#EXTINF:-1,NICK.TOONS.KIDS
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4412.m3u8
-#EXTINF:-1,Nickelodeon.KIDS
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/4413.m3u8
-#EXTINF:-1,Crime&lnvestigation
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2209.m3u8
-#EXTINF:-1,Comedy.Central.extra
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2210.m3u8
-#EXTINF:-1,Comedy.Central
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2211.m3u8
-#EXTINF:-1,13TH.STREET
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1615.m3u8
-#EXTINF:-1,NET5.HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1100.m3u8
-#EXTINF:-1,Eurosport
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2215.m3u8
-#EXTINF:-1,Eurosport2
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2216.m3u8
-#EXTINF:-1,Sport -1-SelectHD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1410.m3u8
-#EXTINF:-1,Ziggo.Sport.Voetbal
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/2219.m3u8
-#EXTINF:-1,Ziggo_Sport_eXtra1
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3850.m3u8
-#EXTINF:-1,Ziggo_Sport_eXtra2
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3851.m3u8
-#EXTINF:-1,Ziggo_Sport_Golf
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3849.m3u8
-#EXTINF:-1,Ziggo_Sport_Racing
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3848.m3u8
-#EXTINF:-1,L.Ziggo_Sport_Select_-_NL
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/3847.m3u8
-#EXTINF:-1,Fox.Sports1.EredivisieHD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1616.m3u8
-#EXTINF:-1,Fox.Sports2.International
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1617.m3u8
-#EXTINF:-1,Fox.Sports3.Eredivisie
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1618.m3u8
-#EXTINF:-1,Fox.Sports4.Internationaal
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1619.m3u8
-#EXTINF:-1,Fox.Sports5.Eredivisie
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1620.m3u8
-#EXTINF:-1,Fox.Sports6.Internationaal
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/1621.m3u8
-#EXTINF:-1,BBC First HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10599.m3u8
-#EXTINF:-1,BBC One HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10598.m3u8
-#EXTINF:-1,BBC Two HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10597.m3u8
-#EXTINF:-1,Canvas HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10596.m3u8
-#EXTINF:-1,DanceTrippin HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10595.m3u8
-#EXTINF:-1,Discovery HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10594.m3u8
-#EXTINF:-1,Discovery Science HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10593.m3u8
-#EXTINF:-1,Disney Channel HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10592.m3u8
-#EXTINF:-1,E! HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10591.m3u8
-#EXTINF:-1,één HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10590.m3u8
-#EXTINF:-1,Eurosport 1 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10589.m3u8
-#EXTINF:-1,Eurosport 2 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10588.m3u8
-#EXTINF:-1,Film1 Action HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10587.m3u8
-#EXTINF:-1,Film1 Drama HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10586.m3u8
-#EXTINF:-1,Film1 Family HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10585.m3u8
-#EXTINF:-1,Film1 Premiere HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10584.m3u8
-#EXTINF:-1,Fine Living HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10583.m3u8
-#EXTINF:-1,Food Network HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10582.m3u8
-#EXTINF:-1,FOX HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10581.m3u8
-#EXTINF:-1,FOX Sports 1 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10580.m3u8
-#EXTINF:-1,FOX Sports 2 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10579.m3u8
-#EXTINF:-1,FOX Sports 3 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10578.m3u8
-#EXTINF:-1,FOX Sports 4 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10577.m3u8
-#EXTINF:-1,FOX Sports 5 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10576.m3u8
-#EXTINF:-1,FOX Sports 6 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10575.m3u8
-#EXTINF:-1,HISTORY HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10574.m3u8
-#EXTINF:-1,ID HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10573.m3u8
-#EXTINF:-1,Motor Sport HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10572.m3u8
-#EXTINF:-1,MTV HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10571.m3u8
-#EXTINF:-1,MTV Live HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10570.m3u8
-#EXTINF:-1,Nat Geo Wild HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10569.m3u8
-#EXTINF:-1,National Geographic Channel HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10568.m3u8
-#EXTINF:-1,Net5 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10567.m3u8
-#EXTINF:-1,Nickelodeon HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10566.m3u8
-#EXTINF:-1,Npo 1 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10565.m3u8
-#EXTINF:-1,Npo 2 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10564.m3u8
-#EXTINF:-1,Npo 3 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10563.m3u8
-#EXTINF:-1,RTL 4 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10562.m3u8
-#EXTINF:-1,RTL 5 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10561.m3u8
-#EXTINF:-1,RTL 7 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10560.m3u8
-#EXTINF:-1,RTL 8 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10559.m3u8
-#EXTINF:-1,RTL Crime HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10558.m3u8
-#EXTINF:-1,RTL Lounge HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10557.m3u8
-#EXTINF:-1,RTL Telekids HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10556.m3u8
-#EXTINF:-1,SBS6 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10555.m3u8
-#EXTINF:-1,SBS9 HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10554.m3u8
-#EXTINF:-1,Spike HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10553.m3u8
-#EXTINF:-1,Travel Channel HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10552.m3u8
-#EXTINF:-1,Veronica HD / Disney XD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10551.m3u8
-#EXTINF:-1,Viceland HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10550.m3u8
-#EXTINF:-1,AMC HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10601.m3u8
-#EXTINF:-1,Animal Planet HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10600.m3u8
-#EXTINF:-1,XITE HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10549.m3u8
-#EXTINF:-1,Ziggo Sport Golf HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10548.m3u8
-#EXTINF:-1,Ziggo Sport HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10547.m3u8
-#EXTINF:-1,Ziggo Sport Racing HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10546.m3u8
+#EXTINF:-1,NPO 1HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5156.m3u8
+#EXTINF:-1,NPO 2HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5155.m3u8
+#EXTINF:-1,NPO 3 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5154.m3u8
+#EXTINF:-1,RTL4 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5153.m3u8
+#EXTINF:-1,RTL5 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5152.m3u8
+#EXTINF:-1,SBS6 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5151.m3u8
+#EXTINF:-1,RTL7 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5150.m3u8
+#EXTINF:-1,RTL 8 Telekids
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5149.m3u8
+#EXTINF:-1,SBS 9
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5148.m3u8
+#EXTINF:-1,RTL Z
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5147.m3u8
+#EXTINF:-1,RTL LOUNGE
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5146.m3u8
+#EXTINF:-1,Net 5 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5145.m3u8
+#EXTINF:-1,NPO Politiek
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5144.m3u8
+#EXTINF:-1,FOX HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5143.m3u8
+#EXTINF:-1,Film FAMILY
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5142.m3u8
+#EXTINF:-1,Film DRAMA
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5141.m3u8
+#EXTINF:-1,Film Action
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5140.m3u8
+#EXTINF:-1,Comedy Central
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5138.m3u8
+#EXTINF:-1,Comedy Central Extra.
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5139.m3u8
+#EXTINF:-1,Crime & Investigation
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5137.m3u8
+#EXTINF:-1,National Geographic HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5134.m3u8
+#EXTINF:-1,Disney Channel HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5133.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5125.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5124.m3u8
+#EXTINF:-1,Fox Sports 3 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5123.m3u8
+#EXTINF:-1,Fox Sports 4 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5122.m3u8
+#EXTINF:-1,Fox Sports 5 Hd
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5121.m3u8
+#EXTINF:-1,Fox Sports 6 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5120.m3u8
+#EXTINF:-1,Ziggo Sport eXtra 1
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5128.m3u8
+#EXTINF:-1,Ziggo Sport eXtra 2
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5127.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5131.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5130.m3u8
 #EXTINF:-1,Ziggo Sport Select HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10545.m3u8
-#EXTINF:-1,Ziggo Sport Select HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10544.m3u8
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5126.m3u8
 #EXTINF:-1,Ziggo Sport Voetbal HD
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10543.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10542.m3u8
-#EXTINF:-1,Ziggo TV HD HEVC
-http://iptv4u.electro-clair.tech:80/live/ip251arb/251ip/10541.m3u8
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5129.m3u8
