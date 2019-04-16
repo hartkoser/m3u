@@ -1,89 +1,167 @@
-#EXTM3U 
-#EXTINF:-1,RTP 1 SD
-http://37.59.41.145:5050/live/admin/dreemedia/105.ts
-#EXTINF:-1,RTP 1
-http://37.59.41.145:5050/live/admin/dreemedia/58.ts
-#EXTINF:-1,RTP 2
-http://37.59.41.145:5050/live/admin/dreemedia/59.ts
-#EXTINF:-1,RTP 3
-http://37.59.41.145:5050/live/admin/dreemedia/60.ts
-#EXTINF:-1,RTP MADEIRA
-http://37.59.41.145:5050/live/admin/dreemedia/64.ts
-#EXTINF:-1,RTP INTERNACIONAL
-http://37.59.41.145:5050/live/admin/dreemedia/65.ts
-#EXTINF:-1,RTP AFRICA
-http://37.59.41.145:5050/live/admin/dreemedia/66.ts
-#EXTINF:-1,RTP ACORES
-http://37.59.41.145:5050/live/admin/dreemedia/67.ts
-#EXTINF:-1,RTP MEMORIA
-http://37.59.41.145:5050/live/admin/dreemedia/63.ts
-#EXTINF:-1,RTP MEMORIA
-http://37.59.41.145:5050/live/admin/dreemedia/62.ts
-#EXTINF:-1,TVI24
-http://37.59.41.145:5050/live/admin/dreemedia/61.ts
-#EXTINF:-1,VH1 CLASSIC
-http://37.59.41.145:5050/live/admin/dreemedia/85.ts
-#EXTINF:-1,TV5 MONDE
-http://37.59.41.145:5050/live/admin/dreemedia/71.ts
-#EXTINF:-1,TV GALICIA
-http://37.59.41.145:5050/live/admin/dreemedia/70.ts
-#EXTINF:-1,SBT HD
-http://37.59.41.145:5050/live/admin/dreemedia/75.ts
-#EXTINF:-1,SBT
-http://37.59.41.145:5050/live/admin/dreemedia/74.ts
-#EXTINF:-1,REDE TV! HD
-http://37.59.41.145:5050/live/admin/dreemedia/73.ts
-#EXTINF:-1,REDE TV!
-http://37.59.41.145:5050/live/admin/dreemedia/72.ts
-#EXTINF:-1,RECORD NEWS
-http://37.59.41.145:5050/live/admin/dreemedia/82.ts
-#EXTINF:-1,REAL MADRID TV HD SD
-http://37.59.41.145:5050/live/admin/dreemedia/101.ts
-#EXTINF:-1,REAL MADRID TV HD
-http://37.59.41.145:5050/live/admin/dreemedia/102.ts
-#EXTINF:-1,REAL MADRID TV
-http://37.59.41.145:5050/live/admin/dreemedia/103.ts
-#EXTINF:-1,RAI NEWS 24
-http://37.59.41.145:5050/live/admin/dreemedia/92.ts
-#EXTINF:-1,MEZZO LIVE HD
-http://37.59.41.145:5050/live/admin/dreemedia/96.ts
-#EXTINF:-1,MACAU TV
-http://37.59.41.145:5050/live/admin/dreemedia/86.ts
-#EXTINF:-1,KURIAKOS TV
-http://37.59.41.145:5050/live/admin/dreemedia/97.ts
-#EXTINF:-1,KURIAKOS MUSIC
-http://37.59.41.145:5050/live/admin/dreemedia/98.ts
-#EXTINF:-1,KURIAKOS KIDS
-http://37.59.41.145:5050/live/admin/dreemedia/99.ts
-#EXTINF:-1,KURIAKOS CINE
-http://37.59.41.145:5050/live/admin/dreemedia/100.ts
-#EXTINF:-1,FATIMA TV
-http://37.59.41.145:5050/live/admin/dreemedia/83.ts
-#EXTINF:-1,DW (ENGLISH)
-http://37.59.41.145:5050/live/admin/dreemedia/87.ts
-#EXTINF:-1,DJING SUMMER VIBES
-http://37.59.41.145:5050/live/admin/dreemedia/81.ts
-#EXTINF:-1,DJING IBIZA
-http://37.59.41.145:5050/live/admin/dreemedia/80.ts
-#EXTINF:-1,DJING HITS
-http://37.59.41.145:5050/live/admin/dreemedia/79.ts
-#EXTINF:-1,DJING ELECTRO ROCK
-http://37.59.41.145:5050/live/admin/dreemedia/78.ts
-#EXTINF:-1,DJING DANCE FLOOR MUSIC
-http://37.59.41.145:5050/live/admin/dreemedia/77.ts
-#EXTINF:-1,DJING CLASSICS
-http://37.59.41.145:5050/live/admin/dreemedia/76.ts
-#EXTINF:-1,CBSN 
-http://37.59.41.145:5050/live/admin/dreemedia/88.ts
-#EXTINF:-1,CANÇÃO NOVA
-http://37.59.41.145:5050/live/admin/dreemedia/69.ts
-#EXTINF:-1,CANAL PARLAMENTO
-http://37.59.41.145:5050/live/admin/dreemedia/84.ts
-#EXTINF:-1,CACAVISION
-http://37.59.41.145:5050/live/admin/dreemedia/68.ts
+#EXTM3U
+#EXTINF:-1,A&E
+http://212.8.243.9:80/saleem/1234/2214
+#EXTINF:-1,AXN
+http://212.8.243.9:80/saleem/1234/2692
+#EXTINF:-1,AXN Black
+http://212.8.243.9:80/saleem/1234/2690
+#EXTINF:-1,RTP Cores
+http://212.8.243.9:80/saleem/1234/2210
+#EXTINF:-1,RTP Memoria
+http://212.8.243.9:80/saleem/1234/2208
+#EXTINF:-1,Sic
+http://212.8.243.9:80/saleem/1234/4710
+#EXTINF:-1,Sic Caras
+http://212.8.243.9:80/saleem/1234/4575
+#EXTINF:-1,Sic Mulher
+http://212.8.243.9:80/saleem/1234/4576
+#EXTINF:-1,ID HD
+http://212.8.243.9:80/saleem/1234/2686
+#EXTINF:-1,24 KITCHEN HD
+http://212.8.243.9:80/saleem/1234/24984
+#EXTINF:-1,A BOLA TV
+http://212.8.243.9:80/saleem/1234/24983
+#EXTINF:-1,AFRO MUSIC CHANNEL
+http://212.8.243.9:80/saleem/1234/24981
+#EXTINF:-1,AMC FHD
+http://212.8.243.9:80/saleem/1234/24980
+#EXTINF:-1,AXN White HD
+http://212.8.243.9:80/saleem/1234/24976
+#EXTINF:-1,BABY TV
+http://212.8.243.9:80/saleem/1234/24974
+#EXTINF:-1,Benfica TV HD
+http://212.8.243.9:80/saleem/1234/24972
+#EXTINF:-1,BIGGS
+http://212.8.243.9:80/saleem/1234/24969
 #EXTINF:-1,BLOOMBERG
-http://37.59.41.145:5050/live/admin/dreemedia/89.ts
-#EXTINF:-1,AR TV
-http://37.59.41.145:5050/live/admin/dreemedia/90.ts
-#EXTINF:-1,AL JAZEERA
-http://37.59.41.145:5050/live/admin/dreemedia/91.ts
+http://212.8.243.9:80/saleem/1234/24967
+#EXTINF:-1,BTV HD
+http://212.8.243.9:80/saleem/1234/24966
+#EXTINF:-1,CACA E PESCA
+http://212.8.243.9:80/saleem/1234/24962
+#EXTINF:-1,CANAL TOROS
+http://212.8.243.9:80/saleem/1234/24952
+#EXTINF:-1,Canalo Nova
+http://212.8.243.9:80/saleem/1234/24951
+#EXTINF:-1,Casa E Pesca
+http://212.8.243.9:80/saleem/1234/24945
+#EXTINF:-1,CBS REALITY
+http://212.8.243.9:80/saleem/1234/24943
+#EXTINF:-1,CBSN
+http://212.8.243.9:80/saleem/1234/24942
+#EXTINF:-1,Chelsea TV HD
+http://212.8.243.9:80/saleem/1234/24941
+#EXTINF:-1,Cine Mundo HD
+http://212.8.243.9:80/saleem/1234/24934
+#EXTINF:-1,CMTV HD
+http://212.8.243.9:80/saleem/1234/24932
+#EXTINF:-1,Crimen & Investigation
+http://212.8.243.9:80/saleem/1234/24930
+#EXTINF:-1,Discovery Channel HD
+http://212.8.243.9:80/saleem/1234/24929
+#EXTINF:-1,Discovery HD Showcase
+http://212.8.243.9:80/saleem/1234/24927
+#EXTINF:-1,Disney Channel HD
+http://212.8.243.9:80/saleem/1234/24926
+#EXTINF:-1,Disney JR
+http://212.8.243.9:80/saleem/1234/24925
+#EXTINF:-1,E! Entertainment HD
+http://212.8.243.9:80/saleem/1234/24923
+#EXTINF:-1,FASHION TV
+http://212.8.243.9:80/saleem/1234/24909
+#EXTINF:-1,Fox Comedy HD
+http://212.8.243.9:80/saleem/1234/24906
+#EXTINF:-1,FOX HD
+http://212.8.243.9:80/saleem/1234/24904
+#EXTINF:-1,Fox Life HD
+http://212.8.243.9:80/saleem/1234/24903
+#EXTINF:-1,Fox Movies HD
+http://212.8.243.9:80/saleem/1234/24902
+#EXTINF:-1,Fuel TV HD
+http://212.8.243.9:80/saleem/1234/24901
+#EXTINF:-1,GLOBO HD
+http://212.8.243.9:80/saleem/1234/24899
+#EXTINF:-1,Globo Now HD
+http://212.8.243.9:80/saleem/1234/24898
+#EXTINF:-1,Historia HD
+http://212.8.243.9:80/saleem/1234/24896
+#EXTINF:-1,Hollywood HD
+http://212.8.243.9:80/saleem/1234/24894
+#EXTINF:-1,JIM JAM
+http://212.8.243.9:80/saleem/1234/24893
+#EXTINF:-1,Kombat Sports
+http://212.8.243.9:80/saleem/1234/24891
+#EXTINF:-1,Localvisao
+http://212.8.243.9:80/saleem/1234/24889
+#EXTINF:-1,MACAU TV
+http://212.8.243.9:80/saleem/1234/24888
+#EXTINF:-1,Motorvision HD
+http://212.8.243.9:80/saleem/1234/24883
+#EXTINF:-1,MOTOVISION
+http://212.8.243.9:80/saleem/1234/24882
+#EXTINF:-1,MTV
+http://212.8.243.9:80/saleem/1234/24880
+#EXTINF:-1,My cuisine
+http://212.8.243.9:80/saleem/1234/24877
+#EXTINF:-1,NAT GEO HD
+http://212.8.243.9:80/saleem/1234/24876
+#EXTINF:-1,Nat Geo Wild HD
+http://212.8.243.9:80/saleem/1234/24875
+#EXTINF:-1,NBA HD
+http://212.8.243.9:80/saleem/1234/24874
+#EXTINF:-1,Niclelodeon HD
+http://212.8.243.9:80/saleem/1234/24872
+#EXTINF:-1,PANDA BIGGS
+http://212.8.243.9:80/saleem/1234/24870
+#EXTINF:-1,PANDA HD
+http://212.8.243.9:80/saleem/1234/24869
+#EXTINF:-1,PFC HD
+http://212.8.243.9:80/saleem/1234/24868
+#EXTINF:-1,PORTO
+http://212.8.243.9:80/saleem/1234/24866
+#EXTINF:-1,Real Madrid TV
+http://212.8.243.9:80/saleem/1234/24861
+#EXTINF:-1,RTP 1 FHD
+http://212.8.243.9:80/saleem/1234/24857
+#EXTINF:-1,RTP 2 HD
+http://212.8.243.9:80/saleem/1234/24856
+#EXTINF:-1,RTP 3 HD
+http://212.8.243.9:80/saleem/1234/24855
+#EXTINF:-1,RTP Ã§ores
+http://212.8.243.9:80/saleem/1234/24846
+#EXTINF:-1,RTP ÁFRICA HD
+http://212.8.243.9:80/saleem/1234/24847
+#EXTINF:-1,RTP International
+http://212.8.243.9:80/saleem/1234/24851
+#EXTINF:-1,RTP Madeira
+http://212.8.243.9:80/saleem/1234/24850
+#EXTINF:-1,SyFy HD
+http://212.8.243.9:80/saleem/1234/24819
+#EXTINF:-1,TLC EUROPE
+http://212.8.243.9:80/saleem/1234/24817
+#EXTINF:-1,Trace
+http://212.8.243.9:80/saleem/1234/24812
+#EXTINF:-1,Travel Channel FHD
+http://212.8.243.9:80/saleem/1234/24810
+#EXTINF:-1,TV Galicia
+http://212.8.243.9:80/saleem/1234/24809
+#EXTINF:-1,TV GLOBO PREMIUM
+http://212.8.243.9:80/saleem/1234/24807
+#EXTINF:-1,TV Kujawy
+http://212.8.243.9:80/saleem/1234/24806
+#EXTINF:-1,TV RECORD HD
+http://212.8.243.9:80/saleem/1234/24804
+#EXTINF:-1,TVC Series HD
+http://212.8.243.9:80/saleem/1234/24798
+#EXTINF:-1,TVCINE HD
+http://212.8.243.9:80/saleem/1234/24793
+#EXTINF:-1,TVI 24 HD
+http://212.8.243.9:80/saleem/1234/24790
+#EXTINF:-1,TVI FHD
+http://212.8.243.9:80/saleem/1234/24788
+#EXTINF:-1,TVI Ficcao HD
+http://212.8.243.9:80/saleem/1234/24787
+#EXTINF:-1,TVI Reality HD
+http://212.8.243.9:80/saleem/1234/24784
+#EXTINF:-1,VH1 Classic
+http://212.8.243.9:80/saleem/1234/24782
