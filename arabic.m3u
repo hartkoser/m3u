@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:-1,Bein Movies 1 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/776.m3u8
+#EXTINF:-1,Bein Movies 2 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/775.m3u8
+#EXTINF:-1,Bein Movies 3 HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/774.m3u8
+#EXTINF:-1,MBC
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5084.m3u8
+#EXTINF:-1,MBC 2
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5083.m3u8
+#EXTINF:-1,MBC 3
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5082.m3u8
+#EXTINF:-1,MBC 4
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5081.m3u8
+#EXTINF:-1,MBC Action
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5079.m3u8
+#EXTINF:-1,MBC Bollywood
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5078.m3u8
+#EXTINF:-1,MBC Drama
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5077.m3u8
+#EXTINF:-1,MBC Masr
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5076.m3u8
+#EXTINF:-1,MBC Masr2
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5075.m3u8
+#EXTINF:-1,MBC MAX
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5080.m3u8
+#EXTINF:-1,Rotana Cinema HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5073.m3u8
+#EXTINF:-1,Rotana Classic HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5072.m3u8
+#EXTINF:-1,Rotana Clip
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5069.m3u8
+#EXTINF:-1,Rotana Khalijiah
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5068.m3u8
+#EXTINF:-1,Rotana Masria HD
+http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/5071.m3u8
 #EXTINF:-1,beIN BABY TV
 http://landiptv.live:8080/live/Ublfrind/vipuser5t65y/120713.m3u8
 #EXTINF:-1,beIN Baraem HD
