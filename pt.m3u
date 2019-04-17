@@ -1,167 +1,279 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://212.8.243.9:80/saleem/1234/2214
-#EXTINF:-1,AXN
-http://212.8.243.9:80/saleem/1234/2692
-#EXTINF:-1,AXN Black
-http://212.8.243.9:80/saleem/1234/2690
-#EXTINF:-1,RTP Cores
-http://212.8.243.9:80/saleem/1234/2210
-#EXTINF:-1,RTP Memoria
-http://212.8.243.9:80/saleem/1234/2208
-#EXTINF:-1,Sic
-http://212.8.243.9:80/saleem/1234/4710
-#EXTINF:-1,Sic Caras
-http://212.8.243.9:80/saleem/1234/4575
-#EXTINF:-1,Sic Mulher
-http://212.8.243.9:80/saleem/1234/4576
-#EXTINF:-1,ID HD
-http://212.8.243.9:80/saleem/1234/2686
-#EXTINF:-1,24 KITCHEN HD
-http://212.8.243.9:80/saleem/1234/24984
-#EXTINF:-1,A BOLA TV
-http://212.8.243.9:80/saleem/1234/24983
-#EXTINF:-1,AFRO MUSIC CHANNEL
-http://212.8.243.9:80/saleem/1234/24981
-#EXTINF:-1,AMC FHD
-http://212.8.243.9:80/saleem/1234/24980
-#EXTINF:-1,AXN White HD
-http://212.8.243.9:80/saleem/1234/24976
-#EXTINF:-1,BABY TV
-http://212.8.243.9:80/saleem/1234/24974
-#EXTINF:-1,Benfica TV HD
-http://212.8.243.9:80/saleem/1234/24972
-#EXTINF:-1,BIGGS
-http://212.8.243.9:80/saleem/1234/24969
-#EXTINF:-1,BLOOMBERG
-http://212.8.243.9:80/saleem/1234/24967
-#EXTINF:-1,BTV HD
-http://212.8.243.9:80/saleem/1234/24966
-#EXTINF:-1,CACA E PESCA
-http://212.8.243.9:80/saleem/1234/24962
-#EXTINF:-1,CANAL TOROS
-http://212.8.243.9:80/saleem/1234/24952
-#EXTINF:-1,Canalo Nova
-http://212.8.243.9:80/saleem/1234/24951
-#EXTINF:-1,Casa E Pesca
-http://212.8.243.9:80/saleem/1234/24945
-#EXTINF:-1,CBS REALITY
-http://212.8.243.9:80/saleem/1234/24943
-#EXTINF:-1,CBSN
-http://212.8.243.9:80/saleem/1234/24942
-#EXTINF:-1,Chelsea TV HD
-http://212.8.243.9:80/saleem/1234/24941
-#EXTINF:-1,Cine Mundo HD
-http://212.8.243.9:80/saleem/1234/24934
-#EXTINF:-1,CMTV HD
-http://212.8.243.9:80/saleem/1234/24932
-#EXTINF:-1,Crimen & Investigation
-http://212.8.243.9:80/saleem/1234/24930
-#EXTINF:-1,Discovery Channel HD
-http://212.8.243.9:80/saleem/1234/24929
-#EXTINF:-1,Discovery HD Showcase
-http://212.8.243.9:80/saleem/1234/24927
-#EXTINF:-1,Disney Channel HD
-http://212.8.243.9:80/saleem/1234/24926
-#EXTINF:-1,Disney JR
-http://212.8.243.9:80/saleem/1234/24925
-#EXTINF:-1,E! Entertainment HD
-http://212.8.243.9:80/saleem/1234/24923
-#EXTINF:-1,FASHION TV
-http://212.8.243.9:80/saleem/1234/24909
-#EXTINF:-1,Fox Comedy HD
-http://212.8.243.9:80/saleem/1234/24906
-#EXTINF:-1,FOX HD
-http://212.8.243.9:80/saleem/1234/24904
-#EXTINF:-1,Fox Life HD
-http://212.8.243.9:80/saleem/1234/24903
-#EXTINF:-1,Fox Movies HD
-http://212.8.243.9:80/saleem/1234/24902
-#EXTINF:-1,Fuel TV HD
-http://212.8.243.9:80/saleem/1234/24901
-#EXTINF:-1,GLOBO HD
-http://212.8.243.9:80/saleem/1234/24899
-#EXTINF:-1,Globo Now HD
-http://212.8.243.9:80/saleem/1234/24898
-#EXTINF:-1,Historia HD
-http://212.8.243.9:80/saleem/1234/24896
+#EXTINF:-1,FOX MOVIES HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/3847.m3u8
+#EXTINF:-1,FOX Movies
+http://iptv.mecccam.com:8010/live/Martins/Martins/818.m3u8
+#EXTINF:-1,CMTV
+http://iptv.mecccam.com:8010/live/Martins/Martins/8456.m3u8
+#EXTINF:-1,CINEMUNDO
+http://iptv.mecccam.com:8010/live/Martins/Martins/1452.m3u8
+#EXTINF:-1,AMC
+http://iptv.mecccam.com:8010/live/Martins/Martins/6834.m3u8
+#EXTINF:-1,AMC HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1453.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1129.m3u8
+#EXTINF:-1,BBC Entertainment
+http://iptv.mecccam.com:8010/live/Martins/Martins/6837.m3u8
+#EXTINF:-1,BBC World News
+http://iptv.mecccam.com:8010/live/Martins/Martins/6838.m3u8
+#EXTINF:-1,Biggs
+http://iptv.mecccam.com:8010/live/Martins/Martins/6839.m3u8
+#EXTINF:-1,Blaze
+http://iptv.mecccam.com:8010/live/Martins/Martins/6840.m3u8
+#EXTINF:-1,Bloomberg
+http://iptv.mecccam.com:8010/live/Martins/Martins/6841.m3u8
+#EXTINF:-1,Calavision
+http://iptv.mecccam.com:8010/live/Martins/Martins/6842.m3u8
+#EXTINF:-1,Canlao Nova
+http://iptv.mecccam.com:8010/live/Martins/Martins/6843.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptv.mecccam.com:8010/live/Martins/Martins/6844.m3u8
+#EXTINF:-1,CNBC Europe
+http://iptv.mecccam.com:8010/live/Martins/Martins/6845.m3u8
+#EXTINF:-1,CNN
+http://iptv.mecccam.com:8010/live/Martins/Martins/6846.m3u8
+#EXTINF:-1,Eurochannel
+http://iptv.mecccam.com:8010/live/Martins/Martins/6847.m3u8
+#EXTINF:-1,FOX News
+http://iptv.mecccam.com:8010/live/Martins/Martins/6849.m3u8
+#EXTINF:-1,Globo
+http://iptv.mecccam.com:8010/live/Martins/Martins/6851.m3u8
+#EXTINF:-1,Globo Now
+http://iptv.mecccam.com:8010/live/Martins/Martins/6852.m3u8
+#EXTINF:-1,Histðria
+http://iptv.mecccam.com:8010/live/Martins/Martins/6853.m3u8
 #EXTINF:-1,Hollywood HD
-http://212.8.243.9:80/saleem/1234/24894
-#EXTINF:-1,JIM JAM
-http://212.8.243.9:80/saleem/1234/24893
-#EXTINF:-1,Kombat Sports
-http://212.8.243.9:80/saleem/1234/24891
-#EXTINF:-1,Localvisao
-http://212.8.243.9:80/saleem/1234/24889
-#EXTINF:-1,MACAU TV
-http://212.8.243.9:80/saleem/1234/24888
-#EXTINF:-1,Motorvision HD
-http://212.8.243.9:80/saleem/1234/24883
-#EXTINF:-1,MOTOVISION
-http://212.8.243.9:80/saleem/1234/24882
-#EXTINF:-1,MTV
-http://212.8.243.9:80/saleem/1234/24880
-#EXTINF:-1,My cuisine
-http://212.8.243.9:80/saleem/1234/24877
-#EXTINF:-1,NAT GEO HD
-http://212.8.243.9:80/saleem/1234/24876
-#EXTINF:-1,Nat Geo Wild HD
-http://212.8.243.9:80/saleem/1234/24875
-#EXTINF:-1,NBA HD
-http://212.8.243.9:80/saleem/1234/24874
-#EXTINF:-1,Niclelodeon HD
-http://212.8.243.9:80/saleem/1234/24872
-#EXTINF:-1,PANDA BIGGS
-http://212.8.243.9:80/saleem/1234/24870
-#EXTINF:-1,PANDA HD
-http://212.8.243.9:80/saleem/1234/24869
-#EXTINF:-1,PFC HD
-http://212.8.243.9:80/saleem/1234/24868
-#EXTINF:-1,PORTO
-http://212.8.243.9:80/saleem/1234/24866
+http://iptv.mecccam.com:8010/live/Martins/Martins/6854.m3u8
+#EXTINF:-1,Mezzo
+http://iptv.mecccam.com:8010/live/Martins/Martins/6856.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://iptv.mecccam.com:8010/live/Martins/Martins/6858.m3u8
+#EXTINF:-1,National Geographic HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/6859.m3u8
+#EXTINF:-1,Nick Jr.
+http://iptv.mecccam.com:8010/live/Martins/Martins/6860.m3u8
 #EXTINF:-1,Real Madrid TV
-http://212.8.243.9:80/saleem/1234/24861
-#EXTINF:-1,RTP 1 FHD
-http://212.8.243.9:80/saleem/1234/24857
+http://iptv.mecccam.com:8010/live/Martins/Martins/6861.m3u8
+#EXTINF:-1,TVSeries
+http://iptv.mecccam.com:8010/live/Martins/Martins/6862.m3u8
+#EXTINF:-1,SIC
+http://iptv.mecccam.com:8010/live/Martins/Martins/6823.m3u8
+#EXTINF:-1,TVI HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/6822.m3u8
+#EXTINF:-1,RTP 1
+http://iptv.mecccam.com:8010/live/Martins/Martins/806.m3u8
+#EXTINF:-1,RTP 1 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/6825.m3u8
+#EXTINF:-1,RTP 2
+http://iptv.mecccam.com:8010/live/Martins/Martins/805.m3u8
 #EXTINF:-1,RTP 2 HD
-http://212.8.243.9:80/saleem/1234/24856
-#EXTINF:-1,RTP 3 HD
-http://212.8.243.9:80/saleem/1234/24855
-#EXTINF:-1,RTP Ã§ores
-http://212.8.243.9:80/saleem/1234/24846
-#EXTINF:-1,RTP ÁFRICA HD
-http://212.8.243.9:80/saleem/1234/24847
-#EXTINF:-1,RTP International
-http://212.8.243.9:80/saleem/1234/24851
-#EXTINF:-1,RTP Madeira
-http://212.8.243.9:80/saleem/1234/24850
-#EXTINF:-1,SyFy HD
-http://212.8.243.9:80/saleem/1234/24819
-#EXTINF:-1,TLC EUROPE
-http://212.8.243.9:80/saleem/1234/24817
-#EXTINF:-1,Trace
-http://212.8.243.9:80/saleem/1234/24812
-#EXTINF:-1,Travel Channel FHD
-http://212.8.243.9:80/saleem/1234/24810
-#EXTINF:-1,TV Galicia
-http://212.8.243.9:80/saleem/1234/24809
-#EXTINF:-1,TV GLOBO PREMIUM
-http://212.8.243.9:80/saleem/1234/24807
-#EXTINF:-1,TV Kujawy
-http://212.8.243.9:80/saleem/1234/24806
-#EXTINF:-1,TV RECORD HD
-http://212.8.243.9:80/saleem/1234/24804
-#EXTINF:-1,TVC Series HD
-http://212.8.243.9:80/saleem/1234/24798
-#EXTINF:-1,TVCINE HD
-http://212.8.243.9:80/saleem/1234/24793
-#EXTINF:-1,TVI 24 HD
-http://212.8.243.9:80/saleem/1234/24790
-#EXTINF:-1,TVI FHD
-http://212.8.243.9:80/saleem/1234/24788
-#EXTINF:-1,TVI Ficcao HD
-http://212.8.243.9:80/saleem/1234/24787
-#EXTINF:-1,TVI Reality HD
-http://212.8.243.9:80/saleem/1234/24784
+http://iptv.mecccam.com:8010/live/Martins/Martins/6824.m3u8
+#EXTINF:-1,RTP 3
+http://iptv.mecccam.com:8010/live/Martins/Martins/1108.m3u8
+#EXTINF:-1,RTP AÇORES
+http://iptv.mecccam.com:8010/live/Martins/Martins/1434.m3u8
+#EXTINF:-1,RTP ÁFRICA
+http://iptv.mecccam.com:8010/live/Martins/Martins/1433.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://iptv.mecccam.com:8010/live/Martins/Martins/1116.m3u8
+#EXTINF:-1,RTP MEMÓRIA
+http://iptv.mecccam.com:8010/live/Martins/Martins/1435.m3u8
+#EXTINF:-1,SIC HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/800.m3u8
+#EXTINF:-1,SIC CARAS
+http://iptv.mecccam.com:8010/live/Martins/Martins/2881.m3u8
+#EXTINF:-1,SIC MULHER
+http://iptv.mecccam.com:8010/live/Martins/Martins/1430.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://iptv.mecccam.com:8010/live/Martins/Martins/1126.m3u8
+#EXTINF:-1,SIC RADICAL
+http://iptv.mecccam.com:8010/live/Martins/Martins/1127.m3u8
+#EXTINF:-1,A BOLA TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/1446.m3u8
+#EXTINF:-1,TVI
+http://iptv.mecccam.com:8010/live/Martins/Martins/1427.m3u8
+#EXTINF:-1,TVI 24
+http://iptv.mecccam.com:8010/live/Martins/Martins/1428.m3u8
+#EXTINF:-1,TVI Ficção
+http://iptv.mecccam.com:8010/live/Martins/Martins/3444.m3u8
+#EXTINF:-1,TVI REALITY
+http://iptv.mecccam.com:8010/live/Martins/Martins/1457.m3u8
+#EXTINF:-1,24 KITCHEN FHD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1458.m3u8
+#EXTINF:-1,AXN HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1109.m3u8
+#EXTINF:-1,A&E
+http://iptv.mecccam.com:8010/live/Martins/Martins/1459.m3u8
+#EXTINF:-1,AFRO MUSIC
+http://iptv.mecccam.com:8010/live/Martins/Martins/2759.m3u8
+#EXTINF:-1,AXN Black HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1438.m3u8
+#EXTINF:-1,AXN WHITE
+http://iptv.mecccam.com:8010/live/Martins/Martins/1110.m3u8
+#EXTINF:-1,CANAL HISTÓRIA
+http://iptv.mecccam.com:8010/live/Martins/Martins/1464.m3u8
+#EXTINF:-1,CASA & PESCA
+http://iptv.mecccam.com:8010/live/Martins/Martins/1467.m3u8
+#EXTINF:-1,CBS REALITY
+http://iptv.mecccam.com:8010/live/Martins/Martins/2884.m3u8
+#EXTINF:-1,TV GLOBO
+http://iptv.mecccam.com:8010/live/Martins/Martins/3034.m3u8
+#EXTINF:-1,CM TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/1429.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://iptv.mecccam.com:8010/live/Martins/Martins/1460.m3u8
+#EXTINF:-1,Discovery HD Showcase
+http://iptv.mecccam.com:8010/live/Martins/Martins/1461.m3u8
+#EXTINF:-1,E! Entertainment
+http://iptv.mecccam.com:8010/live/Martins/Martins/1456.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://iptv.mecccam.com:8010/live/Martins/Martins/1462.m3u8
+#EXTINF:-1,Travel Channel HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/2879.m3u8
+#EXTINF:-1,TLC
+http://iptv.mecccam.com:8010/live/Martins/Martins/1455.m3u8
+#EXTINF:-1,ODISSEA
+http://iptv.mecccam.com:8010/live/Martins/Martins/1465.m3u8
+#EXTINF:-1,Fox Comedy
+http://iptv.mecccam.com:8010/live/Martins/Martins/1454.m3u8
+#EXTINF:-1,FOX Crime
+http://iptv.mecccam.com:8010/live/Martins/Martins/1117.m3u8
+#EXTINF:-1,FOX Life HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1118.m3u8
+#EXTINF:-1,FOX TV HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1119.m3u8
+#EXTINF:-1,FUEL TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/2882.m3u8
+#EXTINF:-1,GLOBO PREMIUM
+http://iptv.mecccam.com:8010/live/Martins/Martins/2763.m3u8
+#EXTINF:-1,PFC
+http://iptv.mecccam.com:8010/live/Martins/Martins/1448.m3u8
+#EXTINF:-1,PORTO CANAL
+http://iptv.mecccam.com:8010/live/Martins/Martins/1121.m3u8
+#EXTINF:-1,FOX Crime HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/3691.m3u8
+#EXTINF:-1,SYFY
+http://iptv.mecccam.com:8010/live/Martins/Martins/1128.m3u8
+#EXTINF:-1,TV RECORD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1439.m3u8
+#EXTINF:-1,TV series HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1451.m3u8
+#EXTINF:-1,BABY TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/1445.m3u8
+#EXTINF:-1,CANAL PANDA
+http://iptv.mecccam.com:8010/live/Martins/Martins/1444.m3u8
+#EXTINF:-1,Sic kids
+http://iptv.mecccam.com:8010/live/Martins/Martins/3701.m3u8
+#EXTINF:-1,CANAL Q
+http://iptv.mecccam.com:8010/live/Martins/Martins/1440.m3u8
+#EXTINF:-1,Jim Jam
+http://iptv.mecccam.com:8010/live/Martins/Martins/2829.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://iptv.mecccam.com:8010/live/Martins/Martins/1441.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://iptv.mecccam.com:8010/live/Martins/Martins/1442.m3u8
+#EXTINF:-1,NICKELODEON
+http://iptv.mecccam.com:8010/live/Martins/Martins/1443.m3u8
+#EXTINF:-1,MTV Base
+http://iptv.mecccam.com:8010/live/Martins/Martins/2825.m3u8
+#EXTINF:-1,MCM Pop
+http://iptv.mecccam.com:8010/live/Martins/Martins/3323.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://iptv.mecccam.com:8010/live/Martins/Martins/2757.m3u8
+#EXTINF:-1,VH1
+http://iptv.mecccam.com:8010/live/Martins/Martins/1470.m3u8
 #EXTINF:-1,VH1 Classic
-http://212.8.243.9:80/saleem/1234/24782
+http://iptv.mecccam.com:8010/live/Martins/Martins/2816.m3u8
+#EXTINF:-1,Eleven Sports 1 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/5604.m3u8
+#EXTINF:-1,Eleven Sports 2 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/5603.m3u8
+#EXTINF:-1,Eleven Sports 3 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/5602.m3u8
+#EXTINF:-1,Eleven Sports 4 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/5601.m3u8
+#EXTINF:-1,Eleven Sports 5 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/5600.m3u8
+#EXTINF:-1,Eleven Sports 6 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/5599.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/799.m3u8
+#EXTINF:-1,SPORT TV 1 FHD
+http://iptv.mecccam.com:8010/live/Martins/Martins/3698.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/798.m3u8
+#EXTINF:-1,SPORT TV 2 FHD
+http://iptv.mecccam.com:8010/live/Martins/Martins/3700.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/797.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/796.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/1658.m3u8
+#EXTINF:-1,SPORT TV 1
+http://iptv.mecccam.com:8010/live/Martins/Martins/3237.m3u8
+#EXTINF:-1,SPORT TV 2
+http://iptv.mecccam.com:8010/live/Martins/Martins/3236.m3u8
+#EXTINF:-1,SPORT TV 3
+http://iptv.mecccam.com:8010/live/Martins/Martins/3235.m3u8
+#EXTINF:-1,SPORT TV 4
+http://iptv.mecccam.com:8010/live/Martins/Martins/3234.m3u8
+#EXTINF:-1,SPORT TV 5
+http://iptv.mecccam.com:8010/live/Martins/Martins/3233.m3u8
+#EXTINF:-1,SPORT TV+
+http://iptv.mecccam.com:8010/live/Martins/Martins/1449.m3u8
+#EXTINF:-1,BENFICA TV 1
+http://iptv.mecccam.com:8010/live/Martins/Martins/1111.m3u8
+#EXTINF:-1,BENFICA TV 1  FHD
+http://iptv.mecccam.com:8010/live/Martins/Martins/3247.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://iptv.mecccam.com:8010/live/Martins/Martins/1115.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/6848.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://iptv.mecccam.com:8010/live/Martins/Martins/2762.m3u8
+#EXTINF:-1,NBA TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/7720.m3u8
+#EXTINF:-1,Sport TV NBA
+http://iptv.mecccam.com:8010/live/Martins/Martins/7717.m3u8
+#EXTINF:-1,Sporting TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/793.m3u8
+#EXTINF:-1,Eleven Sports 1 FHD
+http://iptv.mecccam.com:8010/live/Martins/Martins/6895.m3u8
+#EXTINF:-1,Eleven Sports 1 SD
+http://iptv.mecccam.com:8010/live/Martins/Martins/6897.m3u8
+#EXTINF:-1,Eleven Sports 2 FHD
+http://iptv.mecccam.com:8010/live/Martins/Martins/6892.m3u8
+#EXTINF:-1,Eleven Sports 3 SD
+http://iptv.mecccam.com:8010/live/Martins/Martins/7741.m3u8
+#EXTINF:-1,Eleven Sports 4 SD
+http://iptv.mecccam.com:8010/live/Martins/Martins/7740.m3u8
+#EXTINF:-1,Eleven Sports 5 SD
+http://iptv.mecccam.com:8010/live/Martins/Martins/7739.m3u8
+#EXTINF:-1,Eleven Sports 6 SD
+http://iptv.mecccam.com:8010/live/Martins/Martins/7738.m3u8
+#EXTINF:-1,Eleven Sports 2 SD
+http://iptv.mecccam.com:8010/live/Martins/Martins/6894.m3u8
+#EXTINF:-1,Kombat Sport
+http://iptv.mecccam.com:8010/live/Martins/Martins/2819.m3u8
+#EXTINF:-1,TOUROS TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/1468.m3u8
+#EXTINF:-1,Motorvision
+http://iptv.mecccam.com:8010/live/Martins/Martins/2826.m3u8
+#EXTINF:-1,TVCine 1 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/785.m3u8
+#EXTINF:-1,TVCine 2 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/784.m3u8
+#EXTINF:-1,TVCine 3 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/790.m3u8
+#EXTINF:-1,TVCine 4 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/789.m3u8
+#EXTINF:-1,TVCine 1
+http://iptv.mecccam.com:8010/live/Martins/Martins/7714.m3u8
+#EXTINF:-1,TVCine 2
+http://iptv.mecccam.com:8010/live/Martins/Martins/7713.m3u8
+#EXTINF:-1,TVCine 3
+http://iptv.mecccam.com:8010/live/Martins/Martins/7712.m3u8
+#EXTINF:-1,TVCine 4
+http://iptv.mecccam.com:8010/live/Martins/Martins/7711.m3u8

@@ -1,101 +1,187 @@
 #EXTM3U
+#EXTINF:-1,360 North
+http://iptv.mecccam.com:8010/live/Martins/Martins/8214.m3u8
+#EXTINF:-1,ABC News HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8213.m3u8
+#EXTINF:-1,AFN SPORTS
+http://iptv.mecccam.com:8010/live/Martins/Martins/8210.m3u8
+#EXTINF:-1,AFN SPORTS 2
+http://iptv.mecccam.com:8010/live/Martins/Martins/8209.m3u8
+#EXTINF:-1,AMC HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8207.m3u8
+#EXTINF:-1,Animal Planet
+http://iptv.mecccam.com:8010/live/Martins/Martins/8205.m3u8
+#EXTINF:-1,Bein Sports USA HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8204.m3u8
+#EXTINF:-1,Beto TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/8203.m3u8
+#EXTINF:-1,Bloomberg
+http://iptv.mecccam.com:8010/live/Martins/Martins/8202.m3u8
+#EXTINF:-1,Boston City TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/8201.m3u8
+#EXTINF:-1,Bravo HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8200.m3u8
+#EXTINF:-1,BTN Sports
+http://iptv.mecccam.com:8010/live/Martins/Martins/8239.m3u8
+#EXTINF:-1,BYU Sports TV HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8199.m3u8
+#EXTINF:-1,C-Span1
+http://iptv.mecccam.com:8010/live/Martins/Martins/8198.m3u8
 #EXTINF:-1,CBS HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3359
-#EXTINF:-1,AFN-SPORTS-2
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3374
-#EXTINF:-1,Sportsnet 360 HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3366
-#EXTINF:-1,CBS-DRAMA
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3400
-#EXTINF:-1,Discovery_HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3399
-#EXTINF:-1,Fashion-One
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3397
-#EXTINF:-1,Food-Network
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3396
+http://iptv.mecccam.com:8010/live/Martins/Martins/8197.m3u8
+#EXTINF:-1,CBS News HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8196.m3u8
+#EXTINF:-1,CBSN HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8195.m3u8
+#EXTINF:-1,CNBC
+http://iptv.mecccam.com:8010/live/Martins/Martins/8194.m3u8
+#EXTINF:-1,CNN HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8192.m3u8
+#EXTINF:-1,Comedy Central HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8191.m3u8
+#EXTINF:-1,E!
+http://iptv.mecccam.com:8010/live/Martins/Martins/8189.m3u8
+#EXTINF:-1,ESPN News HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8238.m3u8
+#EXTINF:-1,Fight Network
+http://iptv.mecccam.com:8010/live/Martins/Martins/8188.m3u8
+#EXTINF:-1,Fight Sport
+http://iptv.mecccam.com:8010/live/Martins/Martins/8237.m3u8
+#EXTINF:-1,Food Network
+http://iptv.mecccam.com:8010/live/Martins/Martins/8187.m3u8
+#EXTINF:-1,Fox 59 News
+http://iptv.mecccam.com:8010/live/Martins/Martins/8186.m3u8
+#EXTINF:-1,Fox HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8185.m3u8
+#EXTINF:-1,Fox Sports 506 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8184.m3u8
+#EXTINF:-1,FX HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8183.m3u8
 #EXTINF:-1,H2
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3395
-#EXTINF:-1,HALLMARK
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3394
-#EXTINF:-1,HBO
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3390
-#EXTINF:-1,HBO-COMEDY
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3393
-#EXTINF:-1,HBO-SIGNATURE
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3392
-#EXTINF:-1,HBO-ZONE
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3391
-#EXTINF:-1,HSN-1
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3388
-#EXTINF:-1,HSN-2
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3389
-#EXTINF:-1,MelloTV
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3387
-#EXTINF:-1,Nasa-TVHD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3386
-#EXTINF:-1,PAG-HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3385
-#EXTINF:-1,Pocker-Central
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3380
-#EXTINF:-1,RT-America_HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3384
-#EXTINF:-1,Sports-Net
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3375
-#EXTINF:-1,The-Florida-Channel
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3383
-#EXTINF:-1,Travel-Channe_HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3382
-#EXTINF:-1,TSN-2HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3376
-#EXTINF:-1,TSN-3HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3377
-#EXTINF:-1,TSN-4HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3378
-#EXTINF:-1,TSN-5HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3379
-#EXTINF:-1,UC-TV
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3381
-#EXTINF:-1,USA-Network
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3360
-#EXTINF:-1,Versus-NBA_HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3373
-#EXTINF:-1,USA :ESPN HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3398
-#EXTINF:-1, ABS-CBN News Channel
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3356
-#EXTINF:-1, Fox Sports 506 HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3364
-#EXTINF:-1, NBA TV
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3365
-#EXTINF:-1, NFL Network
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3371
-#EXTINF:-1,5USA
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3363
-#EXTINF:-1,BET
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3357
-#EXTINF:-1,BOSTON-CITY
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3352
-#EXTINF:-1,CBS-NEWS
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3355
-#EXTINF:-1,CNN
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3354
-#EXTINF:-1,E4-HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3362
-#EXTINF:-1,FIGHT-NETWORK
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3368
-#EXTINF:-1,FIGHT-SPORT
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3367
-#EXTINF:-1,FOX-HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3358
-#EXTINF:-1,FOX-NEWS
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3353
-#EXTINF:-1,FOX_SPORTS-1-HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3331
-#EXTINF:-1,FOX_SPORTS_2-HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3332
-#EXTINF:-1,PAC12_1_HD
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3372
-#EXTINF:-1,showtime
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3361
-#EXTINF:-1,WWE-US
-http://iptv4u.electro-clair.tech:80/ip251arb/251ip/3370
+http://iptv.mecccam.com:8010/live/Martins/Martins/8179.m3u8
+#EXTINF:-1,Hallmark
+http://iptv.mecccam.com:8010/live/Martins/Martins/8178.m3u8
+#EXTINF:-1,HBO Comedy
+http://iptv.mecccam.com:8010/live/Martins/Martins/8177.m3u8
+#EXTINF:-1,HBO Family
+http://iptv.mecccam.com:8010/live/Martins/Martins/8176.m3u8
+#EXTINF:-1,HBO HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8175.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://iptv.mecccam.com:8010/live/Martins/Martins/8174.m3u8
+#EXTINF:-1,HBO ZONE
+http://iptv.mecccam.com:8010/live/Martins/Martins/8173.m3u8
+#EXTINF:-1,HGTV
+http://iptv.mecccam.com:8010/live/Martins/Martins/8172.m3u8
+#EXTINF:-1,HIFI
+http://iptv.mecccam.com:8010/live/Martins/Martins/8171.m3u8
+#EXTINF:-1,HSN 1
+http://iptv.mecccam.com:8010/live/Martins/Martins/8170.m3u8
+#EXTINF:-1,HSN 2
+http://iptv.mecccam.com:8010/live/Martins/Martins/8169.m3u8
+#EXTINF:-1,KTVU News
+http://iptv.mecccam.com:8010/live/Martins/Martins/8168.m3u8
+#EXTINF:-1,LIFETIME HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8167.m3u8
+#EXTINF:-1,Max West
+http://iptv.mecccam.com:8010/live/Martins/Martins/8166.m3u8
+#EXTINF:-1,Mello TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/8165.m3u8
+#EXTINF:-1,MLB Network
+http://iptv.mecccam.com:8010/live/Martins/Martins/8236.m3u8
+#EXTINF:-1,Motor Sports 7 HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8163.m3u8
+#EXTINF:-1,MSG
+http://iptv.mecccam.com:8010/live/Martins/Martins/8235.m3u8
+#EXTINF:-1,MSNBC HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8234.m3u8
+#EXTINF:-1,Nasa TV HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8161.m3u8
+#EXTINF:-1,NBA HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8160.m3u8
+#EXTINF:-1,NBC Golf HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8159.m3u8
+#EXTINF:-1,NBC HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8158.m3u8
+#EXTINF:-1,NBC Sports Network HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8231.m3u8
+#EXTINF:-1,News 12
+http://iptv.mecccam.com:8010/live/Martins/Martins/8157.m3u8
+#EXTINF:-1,NFL Network US 1080i
+http://iptv.mecccam.com:8010/live/Martins/Martins/8230.m3u8
+#EXTINF:-1,NHL HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8233.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8156.m3u8
+#EXTINF:-1,O.W.N HD (oprah winfrey network)
+http://iptv.mecccam.com:8010/live/Martins/Martins/8155.m3u8
+#EXTINF:-1,Pac12 Area HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8229.m3u8
+#EXTINF:-1,Pac12 Arizona HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8228.m3u8
+#EXTINF:-1,Pac12 Los Angeles HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8227.m3u8
+#EXTINF:-1,Pac12 Mountain HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8226.m3u8
+#EXTINF:-1,Pac12 Network HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8225.m3u8
+#EXTINF:-1,Pac12 Oregon HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8224.m3u8
+#EXTINF:-1,Pac12 Washington HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8223.m3u8
+#EXTINF:-1,PAG HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8154.m3u8
+#EXTINF:-1,PBS HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8153.m3u8
+#EXTINF:-1,Pocker Central
+http://iptv.mecccam.com:8010/live/Martins/Martins/8152.m3u8
+#EXTINF:-1,Poker Central US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8222.m3u8
+#EXTINF:-1,Showtime 2
+http://iptv.mecccam.com:8010/live/Martins/Martins/8148.m3u8
+#EXTINF:-1,Showtime HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8147.m3u8
+#EXTINF:-1,Showtime West
+http://iptv.mecccam.com:8010/live/Martins/Martins/8146.m3u8
+#EXTINF:-1,Sport 1 HD US
+http://iptv.mecccam.com:8010/live/Martins/Martins/8221.m3u8
+#EXTINF:-1,Syfy HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8144.m3u8
+#EXTINF:-1,TBS HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8143.m3u8
+#EXTINF:-1,Tech Channel
+http://iptv.mecccam.com:8010/live/Martins/Martins/8142.m3u8
+#EXTINF:-1,Ten Cricket
+http://iptv.mecccam.com:8010/live/Martins/Martins/8141.m3u8
+#EXTINF:-1,Tennis Channel
+http://iptv.mecccam.com:8010/live/Martins/Martins/8232.m3u8
+#EXTINF:-1,The Florida Channel
+http://iptv.mecccam.com:8010/live/Martins/Martins/8140.m3u8
+#EXTINF:-1,TLC
+http://iptv.mecccam.com:8010/live/Martins/Martins/8139.m3u8
+#EXTINF:-1,TNT HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8138.m3u8
+#EXTINF:-1,Toonami Aftermath
+http://iptv.mecccam.com:8010/live/Martins/Martins/8137.m3u8
+#EXTINF:-1,Discouvery HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8136.m3u8
+#EXTINF:-1,TV Land
+http://iptv.mecccam.com:8010/live/Martins/Martins/8135.m3u8
+#EXTINF:-1,UC TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/8134.m3u8
+#EXTINF:-1,USA Network
+http://iptv.mecccam.com:8010/live/Martins/Martins/8133.m3u8
+#EXTINF:-1,Versus NBA HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8132.m3u8
+#EXTINF:-1,WE TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/8131.m3u8
+#EXTINF:-1,Weather Channel
+http://iptv.mecccam.com:8010/live/Martins/Martins/8130.m3u8
+#EXTINF:-1,WGN News Chicago
+http://iptv.mecccam.com:8010/live/Martins/Martins/8129.m3u8
+#EXTINF:-1,Willow Cricket HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8128.m3u8
+#EXTINF:-1,World Fashion HD
+http://iptv.mecccam.com:8010/live/Martins/Martins/8127.m3u8
+#EXTINF:-1,WXYZ TV
+http://iptv.mecccam.com:8010/live/Martins/Martins/8126.m3u8
