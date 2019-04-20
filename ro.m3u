@@ -1,61 +1,313 @@
 #EXTM3U
-#EXTINF:-1,TVR 1
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1459.m3u8
-#EXTINF:-1,TVR 2
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1458.m3u8
-#EXTINF:-1,TVR 3
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1477.m3u8
-#EXTINF:-1,Antena 1
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1471.m3u8
-#EXTINF:-1,Boomerang
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1482.m3u8
-#EXTINF:-1,Pro TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1464.m3u8
-#EXTINF:-1,Procinema
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1463.m3u8
+#EXTINF:-1,MY: Astro Arena [VIP]
+http://31.220.1.190:8080/live/Jessica/Jessica1/141646.m3u8
+#EXTINF:-1,Acasa HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/209570.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63030.m3u8
+#EXTINF:-1,Antena 1 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/155447.m3u8
+#EXTINF:-1,Antena 3 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/155448.m3u8
+#EXTINF:-1,Antena International
+http://31.220.1.190:8080/live/Jessica/Jessica1/211007.m3u8
+#EXTINF:-1,Antena Star HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/134500.m3u8
+#EXTINF:-1,AXN HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/90209.m3u8
+#EXTINF:-1,AXN Spin
+http://31.220.1.190:8080/live/Jessica/Jessica1/211001.m3u8
+#EXTINF:-1,Balkanika
+http://31.220.1.190:8080/live/Jessica/Jessica1/211024.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63026.m3u8
+#EXTINF:-1,Cinemax HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63024.m3u8
+#EXTINF:-1,Comedy Central
+http://31.220.1.190:8080/live/Jessica/Jessica1/211003.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://31.220.1.190:8080/live/Jessica/Jessica1/112916.m3u8
+#EXTINF:-1,Digi 24 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63016.m3u8
+#EXTINF:-1,Digi ANIMAL WORLD HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63015.m3u8
+#EXTINF:-1,Digi FILM HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210989.m3u8
+#EXTINF:-1,Digi Sport 1 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210972.m3u8
+#EXTINF:-1,Digi Sport 1 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/65872.m3u8
+#EXTINF:-1,Digi Sport 2 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210974.m3u8
+#EXTINF:-1,Digi Sport 3 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210975.m3u8
+#EXTINF:-1,Digi Sport 3 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/65870.m3u8
+#EXTINF:-1,Digi Sport 4 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210977.m3u8
+#EXTINF:-1,Digi WORLD HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63012.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/112928.m3u8
+#EXTINF:-1,Discovery World
+http://31.220.1.190:8080/live/Jessica/Jessica1/208957.m3u8
+#EXTINF:-1,Diva
+http://31.220.1.190:8080/live/Jessica/Jessica1/211004.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62973.m3u8
+#EXTINF:-1,Extreme Sport
+http://31.220.1.190:8080/live/Jessica/Jessica1/210985.m3u8
+#EXTINF:-1,Fashion TV HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/208959.m3u8
+#EXTINF:-1,Film Box
+http://31.220.1.190:8080/live/Jessica/Jessica1/210991.m3u8
+#EXTINF:-1,Film Box Extra HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210992.m3u8
+#EXTINF:-1,Film Caf
+http://31.220.1.190:8080/live/Jessica/Jessica1/210993.m3u8
+#EXTINF:-1,Film Mania
+http://31.220.1.190:8080/live/Jessica/Jessica1/208960.m3u8
+#EXTINF:-1,Filmbox Family
+http://31.220.1.190:8080/live/Jessica/Jessica1/210994.m3u8
+#EXTINF:-1,FilmBox Plus INT
+http://31.220.1.190:8080/live/Jessica/Jessica1/210995.m3u8
+#EXTINF:-1,FilmBox Premium
+http://31.220.1.190:8080/live/Jessica/Jessica1/112952.m3u8
+#EXTINF:-1,HBO 1
+http://31.220.1.190:8080/live/Jessica/Jessica1/210997.m3u8
+#EXTINF:-1,HBO 2 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63006.m3u8
+#EXTINF:-1,HBO 3 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63005.m3u8
+#EXTINF:-1,HBO HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63004.m3u8
+#EXTINF:-1,Impact TV HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/208962.m3u8
+#EXTINF:-1,Investigation Disvovery
+http://31.220.1.190:8080/live/Jessica/Jessica1/211028.m3u8
+#EXTINF:-1,JimJam
+http://31.220.1.190:8080/live/Jessica/Jessica1/112968.m3u8
+#EXTINF:-1,JimJam EMEA
+http://31.220.1.190:8080/live/Jessica/Jessica1/208963.m3u8
+#EXTINF:-1,Kanal D HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/155780.m3u8
+#EXTINF:-1,Mooz
+http://31.220.1.190:8080/live/Jessica/Jessica1/211039.m3u8
+#EXTINF:-1,Mooz HITS
+http://31.220.1.190:8080/live/Jessica/Jessica1/211038.m3u8
+#EXTINF:-1,MTV Dance
+http://31.220.1.190:8080/live/Jessica/Jessica1/112977.m3u8
+#EXTINF:-1,MTV Hits
+http://31.220.1.190:8080/live/Jessica/Jessica1/112978.m3u8
+#EXTINF:-1,Music Channel
+http://31.220.1.190:8080/live/Jessica/Jessica1/211040.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63000.m3u8
+#EXTINF:-1,PRO 2 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/75024.m3u8
+#EXTINF:-1,PRO TV International
+http://31.220.1.190:8080/live/Jessica/Jessica1/211012.m3u8
 #EXTINF:-1,Realitatea Tv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1472.m3u8
-#EXTINF:-1,Romania TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1462.m3u8
-#EXTINF:-1,Sport
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1461.m3u8
-#EXTINF:-1,TLC
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1484.m3u8
-#EXTINF:-1,TV Paprika
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1483.m3u8
-#EXTINF:-1,Digi 24
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1481.m3u8
-#EXTINF:-1,Digi film
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1480.m3u8
+http://31.220.1.190:8080/live/Jessica/Jessica1/211019.m3u8
+#EXTINF:-1,Somax TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/112998.m3u8
+#EXTINF:-1,Sundance TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/145812.m3u8
+#EXTINF:-1,TELEKOM SPORT 5 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210978.m3u8
+#EXTINF:-1,TELEKOM SPORT 6 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210980.m3u8
+#EXTINF:-1,The Voice
+http://31.220.1.190:8080/live/Jessica/Jessica1/211041.m3u8
+#EXTINF:-1,Travel Mix
+http://31.220.1.190:8080/live/Jessica/Jessica1/211034.m3u8
+#EXTINF:-1,Tv
+http://31.220.1.190:8080/live/Jessica/Jessica1/211020.m3u8
+#EXTINF:-1,TV SudEst
+http://31.220.1.190:8080/live/Jessica/Jessica1/211018.m3u8
+#EXTINF:-1,TVR Cluj
+http://31.220.1.190:8080/live/Jessica/Jessica1/207679.m3u8
+#EXTINF:-1,TVR Craiova
+http://31.220.1.190:8080/live/Jessica/Jessica1/207680.m3u8
+#EXTINF:-1,TVR Iasi
+http://31.220.1.190:8080/live/Jessica/Jessica1/207681.m3u8
+#EXTINF:-1,TVR Int
+http://31.220.1.190:8080/live/Jessica/Jessica1/211016.m3u8
+#EXTINF:-1,TVR International
+http://31.220.1.190:8080/live/Jessica/Jessica1/208976.m3u8
+#EXTINF:-1,TVR Moldova
+http://31.220.1.190:8080/live/Jessica/Jessica1/211017.m3u8
+#EXTINF:-1,TVR Tg Mures
+http://31.220.1.190:8080/live/Jessica/Jessica1/207682.m3u8
+#EXTINF:-1,TVR Timisoara
+http://31.220.1.190:8080/live/Jessica/Jessica1/207683.m3u8
+#EXTINF:-1,Viasat Explore
+http://31.220.1.190:8080/live/Jessica/Jessica1/207661.m3u8
+#EXTINF:-1,Viasat HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/211031.m3u8
+#EXTINF:-1,Viasat History FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63003.m3u8
+#EXTINF:-1,1 Music Channel
+http://31.220.1.190:8080/live/Jessica/Jessica1/184564.m3u8
+#EXTINF:-1,Agro TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/75025.m3u8
+#EXTINF:-1,AMC
+http://31.220.1.190:8080/live/Jessica/Jessica1/63031.m3u8
+#EXTINF:-1,Arena Sport 1
+http://31.220.1.190:8080/live/Jessica/Jessica1/210031.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210032.m3u8
+#EXTINF:-1,Arena Sport 3 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210033.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/210917.m3u8
+#EXTINF:-1,Arenat 4
+http://31.220.1.190:8080/live/Jessica/Jessica1/210034.m3u8
+#EXTINF:-1,Auto Motor Sport FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/207647.m3u8
+#EXTINF:-1,AXN BLACK
+http://31.220.1.190:8080/live/Jessica/Jessica1/112894.m3u8
+#EXTINF:-1,AXN White HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/90210.m3u8
+#EXTINF:-1,B1 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/98558.m3u8
+#EXTINF:-1,BBC Earth HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/112899.m3u8
+#EXTINF:-1,Boomerang
+http://31.220.1.190:8080/live/Jessica/Jessica1/63029.m3u8
+#EXTINF:-1,Canal D
+http://31.220.1.190:8080/live/Jessica/Jessica1/155207.m3u8
+#EXTINF:-1,Cartoon Network
+http://31.220.1.190:8080/live/Jessica/Jessica1/63027.m3u8
+#EXTINF:-1,DIBI TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/62992.m3u8
+#EXTINF:-1,Digi Film NOW HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/155777.m3u8
 #EXTINF:-1,Digi Life
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1470.m3u8
-#EXTINF:-1,DIGI SPORT 1
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1456.m3u8
-#EXTINF:-1,DIGI SPORT 3
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1454.m3u8
-#EXTINF:-1,DIGI SPORT 4
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1453.m3u8
-#EXTINF:-1,Etno Tv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1479.m3u8
-#EXTINF:-1,Favorit Tv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1478.m3u8
-#EXTINF:-1,Kanal D
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1468.m3u8
-#EXTINF:-1,KISS TV
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1476.m3u8
-#EXTINF:-1,Megamax
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1467.m3u8
-#EXTINF:-1,Minimax
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1474.m3u8
-#EXTINF:-1,Nickelodeon
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1473.m3u8
+http://31.220.1.190:8080/live/Jessica/Jessica1/63013.m3u8
+#EXTINF:-1,Digi Sport 2 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/65871.m3u8
+#EXTINF:-1,DIGI SPORT 4 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/110982.m3u8
+#EXTINF:-1,Discovery Channel
+http://31.220.1.190:8080/live/Jessica/Jessica1/63011.m3u8
+#EXTINF:-1,Discovery Science HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/63010.m3u8
+#EXTINF:-1,Disney Channel
+http://31.220.1.190:8080/live/Jessica/Jessica1/63009.m3u8
 #EXTINF:-1,Disney Junior
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1469.m3u8
-#EXTINF:-1,National Geo Wild
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1466.m3u8
-#EXTINF:-1,National Geographic
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1465.m3u8
-#EXTINF:-1,Viasat History
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1475.m3u8
-#EXTINF:-1,RO:Taraf Tv
-http://hd.iptv-passion.com:2095/live/8gVEZwhtic/orbE5eWXq7/1460.m3u8
+http://31.220.1.190:8080/live/Jessica/Jessica1/63008.m3u8
+#EXTINF:-1,Etno Tv HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/156195.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/145815.m3u8
+#EXTINF:-1,FAVORIT TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/90218.m3u8
+#EXTINF:-1,Film Cafe
+http://31.220.1.190:8080/live/Jessica/Jessica1/160927.m3u8
+#EXTINF:-1,Fishing & Hunting HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/75030.m3u8
+#EXTINF:-1,Fix & Foxi
+http://31.220.1.190:8080/live/Jessica/Jessica1/208961.m3u8
+#EXTINF:-1,Food Network HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/112954.m3u8
+#EXTINF:-1,HAPPY CHANNEL HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/98561.m3u8
+#EXTINF:-1,History Channel
+http://31.220.1.190:8080/live/Jessica/Jessica1/63001.m3u8
+#EXTINF:-1,Hit Music
+http://31.220.1.190:8080/live/Jessica/Jessica1/133932.m3u8
+#EXTINF:-1,KISS TV HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62989.m3u8
+#EXTINF:-1,Look Plus HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/75031.m3u8
+#EXTINF:-1,Look Sport TV FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/155781.m3u8
+#EXTINF:-1,MegaMax HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/75033.m3u8
+#EXTINF:-1,Minimax
+http://31.220.1.190:8080/live/Jessica/Jessica1/156199.m3u8
+#EXTINF:-1,Music 1 Channel
+http://31.220.1.190:8080/live/Jessica/Jessica1/192689.m3u8
+#EXTINF:-1,NAT GEO
+http://31.220.1.190:8080/live/Jessica/Jessica1/75035.m3u8
+#EXTINF:-1,National TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/66907.m3u8
+#EXTINF:-1,Neptun TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/75036.m3u8
+#EXTINF:-1,Nick Junior
+http://31.220.1.190:8080/live/Jessica/Jessica1/118377.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62996.m3u8
+#EXTINF:-1,Paramount Channel
+http://31.220.1.190:8080/live/Jessica/Jessica1/62988.m3u8
+#EXTINF:-1,Prima Cool
+http://31.220.1.190:8080/live/Jessica/Jessica1/75037.m3u8
+#EXTINF:-1,Prima Love
+http://31.220.1.190:8080/live/Jessica/Jessica1/209598.m3u8
+#EXTINF:-1,Prima TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/140802.m3u8
+#EXTINF:-1,Pro Cinema HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62995.m3u8
+#EXTINF:-1,PRO GOLD
+http://31.220.1.190:8080/live/Jessica/Jessica1/206450.m3u8
+#EXTINF:-1,PRO TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/66902.m3u8
+#EXTINF:-1,PRO X HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62972.m3u8
+#EXTINF:-1,Realite TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/184575.m3u8
+#EXTINF:-1,RO TVR 3
+http://31.220.1.190:8080/live/Jessica/Jessica1/210894.m3u8
+#EXTINF:-1,Romania TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/155782.m3u8
+#EXTINF:-1,STARS
+http://31.220.1.190:8080/live/Jessica/Jessica1/198010.m3u8
+#EXTINF:-1,SUPERTENNIS HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/134687.m3u8
+#EXTINF:-1,Taraf
+http://31.220.1.190:8080/live/Jessica/Jessica1/66899.m3u8
+#EXTINF:-1,Tele Moldova Plus
+http://31.220.1.190:8080/live/Jessica/Jessica1/98569.m3u8
+#EXTINF:-1,TELEKOM SPORT 1 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62979.m3u8
+#EXTINF:-1,TELEKOM SPORT 2 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62978.m3u8
+#EXTINF:-1,TELEKOM SPORT 3 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/89362.m3u8
+#EXTINF:-1,TELEKOM SPORT 4 FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/113005.m3u8
+#EXTINF:-1,TELESHOP TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/62987.m3u8
+#EXTINF:-1,The Fishing & Hunting
+http://31.220.1.190:8080/live/Jessica/Jessica1/124898.m3u8
+#EXTINF:-1,TLC
+http://31.220.1.190:8080/live/Jessica/Jessica1/113010.m3u8
+#EXTINF:-1,TNT
+http://31.220.1.190:8080/live/Jessica/Jessica1/90215.m3u8
+#EXTINF:-1,Travel Channel FHD
+http://31.220.1.190:8080/live/Jessica/Jessica1/113012.m3u8
+#EXTINF:-1,TRINITAS TV
+http://31.220.1.190:8080/live/Jessica/Jessica1/75039.m3u8
+#EXTINF:-1,TV 1000 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62993.m3u8
+#EXTINF:-1,TV Paprika
+http://31.220.1.190:8080/live/Jessica/Jessica1/155783.m3u8
+#EXTINF:-1,TV5 Monde
+http://31.220.1.190:8080/live/Jessica/Jessica1/90214.m3u8
+#EXTINF:-1,TVR 1 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/146493.m3u8
+#EXTINF:-1,TVR 2 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/155784.m3u8
+#EXTINF:-1,TVR 3 HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/62983.m3u8
+#EXTINF:-1,TVR HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/160928.m3u8
+#EXTINF:-1,UTV HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/75040.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://31.220.1.190:8080/live/Jessica/Jessica1/98571.m3u8
+#EXTINF:-1,Viasat Nature
+http://31.220.1.190:8080/live/Jessica/Jessica1/155785.m3u8
+#EXTINF:-1,ZU TV HD
+http://31.220.1.190:8080/live/Jessica/Jessica1/113024.m3u8
