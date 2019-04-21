@@ -15,7 +15,5 @@ http://139.59.166.48:8081/live/live3/playlist.m3u8
 http://cdn1.galaxyott.com/api/a3b34c0871dc2fd51eec5559b68f709d?chn=/secure/streamer/vbolero/playlist.m3u8
 #EXTINF:-1, 1 Music Channel
 http://92.249.129.152/stream/1music.m3u8
-#EXTINF:-1, ALEX BERLIN (Urban Music)
-http://alex-stream.rosebud-media.de:1935/live/alexlivetv.smil/hasbahca.m3u8?bitrate=800
 #EXTINF:0, dream TV HD
 http://live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
