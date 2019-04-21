@@ -1,367 +1,237 @@
 #EXTM3U
-#EXTINF:-1,13th Street
-http://ares.dominium.tv:6923/live/vin/1234/30828.m3u8
-#EXTINF:-1,13th Street HD
-http://ares.dominium.tv:6923/live/vin/1234/30827.m3u8
-#EXTINF:-1,3Sat HD
-http://ares.dominium.tv:6923/live/vin/1234/30826.m3u8
-#EXTINF:-1,Animal Planet
-http://ares.dominium.tv:6923/live/vin/1234/30825.m3u8
-#EXTINF:-1,Animal Planet HD
-http://ares.dominium.tv:6923/live/vin/1234/30824.m3u8
-#EXTINF:-1,Anixe HD
-http://ares.dominium.tv:6923/live/vin/1234/30823.m3u8
-#EXTINF:-1,Anixe HD Series
-http://ares.dominium.tv:6923/live/vin/1234/30822.m3u8
-#EXTINF:-1,Arte HD
-http://ares.dominium.tv:6923/live/vin/1234/30821.m3u8
-#EXTINF:-1,ATV HD
-http://ares.dominium.tv:6923/live/vin/1234/30820.m3u8
-#EXTINF:-1,Auto Motor Sport HD
-http://ares.dominium.tv:6923/live/vin/1234/30819.m3u8
-#EXTINF:-1,AXN
-http://ares.dominium.tv:6923/live/vin/1234/30818.m3u8
-#EXTINF:-1,AXN HD
-http://ares.dominium.tv:6923/live/vin/1234/30817.m3u8
-#EXTINF:-1,Boomerang HD
-http://ares.dominium.tv:6923/live/vin/1234/30816.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://ares.dominium.tv:6923/live/vin/1234/30815.m3u8
-#EXTINF:-1,Das Erste
-http://ares.dominium.tv:6923/live/vin/1234/30814.m3u8
-#EXTINF:-1,Das Erste HD
-http://ares.dominium.tv:6923/live/vin/1234/30813.m3u8
-#EXTINF:-1,Deluxe Music HD
-http://ares.dominium.tv:6923/live/vin/1234/30812.m3u8
-#EXTINF:-1,Discovery Channel
-http://ares.dominium.tv:6923/live/vin/1234/30811.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://ares.dominium.tv:6923/live/vin/1234/30810.m3u8
-#EXTINF:-1,Disney Channel HD
-http://ares.dominium.tv:6923/live/vin/1234/30809.m3u8
-#EXTINF:-1,Disney Cinemagic HD
-http://ares.dominium.tv:6923/live/vin/1234/30808.m3u8
-#EXTINF:-1,Disney Junior HD
-http://ares.dominium.tv:6923/live/vin/1234/30807.m3u8
-#EXTINF:-1,Disney XD HD
-http://ares.dominium.tv:6923/live/vin/1234/30806.m3u8
-#EXTINF:-1,Dmax HD
-http://ares.dominium.tv:6923/live/vin/1234/30805.m3u8
-#EXTINF:-1,E! HD
-http://ares.dominium.tv:6923/live/vin/1234/30804.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30803.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://ares.dominium.tv:6923/live/vin/1234/30802.m3u8
-#EXTINF:-1,Eurosport 2 HD XTRA
-http://ares.dominium.tv:6923/live/vin/1234/30801.m3u8
-#EXTINF:-1,Film Club 1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30800.m3u8
-#EXTINF:-1,Film Club 2 HD
-http://ares.dominium.tv:6923/live/vin/1234/30799.m3u8
-#EXTINF:-1,Film Club 3 HD
-http://ares.dominium.tv:6923/live/vin/1234/30798.m3u8
-#EXTINF:-1,Film Club 4 HD
-http://ares.dominium.tv:6923/live/vin/1234/30797.m3u8
-#EXTINF:-1,Film Club 5 HD
-http://ares.dominium.tv:6923/live/vin/1234/30796.m3u8
-#EXTINF:-1,FOX
-http://ares.dominium.tv:6923/live/vin/1234/30795.m3u8
-#EXTINF:-1,FOX HD
-http://ares.dominium.tv:6923/live/vin/1234/30794.m3u8
-#EXTINF:-1,GO TV
-http://ares.dominium.tv:6923/live/vin/1234/30793.m3u8
-#EXTINF:-1,Heimat Kanal HD
-http://ares.dominium.tv:6923/live/vin/1234/30792.m3u8
-#EXTINF:-1,History Channel
-http://ares.dominium.tv:6923/live/vin/1234/30791.m3u8
-#EXTINF:-1,History Channel HD
-http://ares.dominium.tv:6923/live/vin/1234/30790.m3u8
-#EXTINF:-1,Jukebox
-http://ares.dominium.tv:6923/live/vin/1234/30789.m3u8
-#EXTINF:-1,Junior HD
-http://ares.dominium.tv:6923/live/vin/1234/30788.m3u8
-#EXTINF:-1,Kabel 1
-http://ares.dominium.tv:6923/live/vin/1234/30787.m3u8
-#EXTINF:-1,Kabel 1  HD
-http://ares.dominium.tv:6923/live/vin/1234/30786.m3u8
-#EXTINF:-1,Kabel 1 Classic HD
-http://ares.dominium.tv:6923/live/vin/1234/30785.m3u8
-#EXTINF:-1,Kabel 1 Doku HD
-http://ares.dominium.tv:6923/live/vin/1234/30784.m3u8
-#EXTINF:-1,KIKA HD
-http://ares.dominium.tv:6923/live/vin/1234/30783.m3u8
-#EXTINF:-1,Kinowelt TV HD
-http://ares.dominium.tv:6923/live/vin/1234/30782.m3u8
-#EXTINF:-1,Krone Hit HD
-http://ares.dominium.tv:6923/live/vin/1234/30781.m3u8
-#EXTINF:-1,Motorvision HD
-http://ares.dominium.tv:6923/live/vin/1234/30780.m3u8
-#EXTINF:-1,MTV Germany HD
-http://ares.dominium.tv:6923/live/vin/1234/30779.m3u8
-#EXTINF:-1,N-TV
-http://ares.dominium.tv:6923/live/vin/1234/30778.m3u8
-#EXTINF:-1,N-TV HD
-http://ares.dominium.tv:6923/live/vin/1234/30777.m3u8
-#EXTINF:-1,N24
-http://ares.dominium.tv:6923/live/vin/1234/30776.m3u8
-#EXTINF:-1,N24 HD
-http://ares.dominium.tv:6923/live/vin/1234/30775.m3u8
-#EXTINF:-1,Nat Geo People HD
-http://ares.dominium.tv:6923/live/vin/1234/30774.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://ares.dominium.tv:6923/live/vin/1234/30773.m3u8
-#EXTINF:-1,Nat Geo Wild  HD
-http://ares.dominium.tv:6923/live/vin/1234/30772.m3u8
-#EXTINF:-1,National Geographic
-http://ares.dominium.tv:6923/live/vin/1234/30771.m3u8
-#EXTINF:-1,National Geographic HD
-http://ares.dominium.tv:6923/live/vin/1234/30770.m3u8
-#EXTINF:-1,NDR HD
-http://ares.dominium.tv:6923/live/vin/1234/30769.m3u8
-#EXTINF:-1,Nick HD
-http://ares.dominium.tv:6923/live/vin/1234/30768.m3u8
-#EXTINF:-1,Nick JR HD
-http://ares.dominium.tv:6923/live/vin/1234/30767.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://ares.dominium.tv:6923/live/vin/1234/30766.m3u8
-#EXTINF:-1,Nickelodeon Schweiz HD
-http://ares.dominium.tv:6923/live/vin/1234/30765.m3u8
-#EXTINF:-1,ORF 1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30764.m3u8
-#EXTINF:-1,ORF 2 HD
-http://ares.dominium.tv:6923/live/vin/1234/30763.m3u8
-#EXTINF:-1,ORF 3 HD
-http://ares.dominium.tv:6923/live/vin/1234/30762.m3u8
-#EXTINF:-1,ORF Sport   HD
-http://ares.dominium.tv:6923/live/vin/1234/30761.m3u8
-#EXTINF:-1,Phoenix HD
-http://ares.dominium.tv:6923/live/vin/1234/30760.m3u8
-#EXTINF:-1,PLANET HD
-http://ares.dominium.tv:6923/live/vin/1234/30759.m3u8
-#EXTINF:-1,Pro 7
-http://ares.dominium.tv:6923/live/vin/1234/30758.m3u8
-#EXTINF:-1,Pro 7 HD
-http://ares.dominium.tv:6923/live/vin/1234/30757.m3u8
-#EXTINF:-1,Pro 7 Maxx
-http://ares.dominium.tv:6923/live/vin/1234/30756.m3u8
-#EXTINF:-1,Pro 7 Maxx HD
-http://ares.dominium.tv:6923/live/vin/1234/30755.m3u8
-#EXTINF:-1,Pro7 Fun HD
-http://ares.dominium.tv:6923/live/vin/1234/30754.m3u8
-#EXTINF:-1,Programmübersicht Sky Select
-http://ares.dominium.tv:6923/live/vin/1234/30753.m3u8
-#EXTINF:-1,Romance TV HD
-http://ares.dominium.tv:6923/live/vin/1234/30752.m3u8
-#EXTINF:-1,RTL
-http://ares.dominium.tv:6923/live/vin/1234/30751.m3u8
-#EXTINF:-1,RTL Crime
-http://ares.dominium.tv:6923/live/vin/1234/30750.m3u8
-#EXTINF:-1,RTL HD
-http://ares.dominium.tv:6923/live/vin/1234/30749.m3u8
-#EXTINF:-1,RTL II
-http://ares.dominium.tv:6923/live/vin/1234/30748.m3u8
-#EXTINF:-1,RTL II HD
-http://ares.dominium.tv:6923/live/vin/1234/30747.m3u8
-#EXTINF:-1,RTL Living HD
-http://ares.dominium.tv:6923/live/vin/1234/30746.m3u8
-#EXTINF:-1,RTL NITRO HD
-http://ares.dominium.tv:6923/live/vin/1234/30745.m3u8
-#EXTINF:-1,RTL Passion
-http://ares.dominium.tv:6923/live/vin/1234/30744.m3u8
-#EXTINF:-1,RTL Plus
-http://ares.dominium.tv:6923/live/vin/1234/30743.m3u8
-#EXTINF:-1,RTL You HD
-http://ares.dominium.tv:6923/live/vin/1234/30742.m3u8
-#EXTINF:-1,Sat 1
-http://ares.dominium.tv:6923/live/vin/1234/30741.m3u8
-#EXTINF:-1,Sat 1  HD
-http://ares.dominium.tv:6923/live/vin/1234/30740.m3u8
-#EXTINF:-1,Sat 1 Emotions HD
-http://ares.dominium.tv:6923/live/vin/1234/30739.m3u8
-#EXTINF:-1,Sat 1 Gold
-http://ares.dominium.tv:6923/live/vin/1234/30738.m3u8
-#EXTINF:-1,SilverLine Movie
-http://ares.dominium.tv:6923/live/vin/1234/30737.m3u8
-#EXTINF:-1,Sixx
-http://ares.dominium.tv:6923/live/vin/1234/30736.m3u8
-#EXTINF:-1,SIXX HD
-http://ares.dominium.tv:6923/live/vin/1234/30735.m3u8
-#EXTINF:-1,Sky 1
-http://ares.dominium.tv:6923/live/vin/1234/30734.m3u8
-#EXTINF:-1,Sky 1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30733.m3u8
-#EXTINF:-1,Sky Arts HD
-http://ares.dominium.tv:6923/live/vin/1234/30732.m3u8
-#EXTINF:-1,Sky Atlantic
-http://ares.dominium.tv:6923/live/vin/1234/30731.m3u8
-#EXTINF:-1,Sky Atlantic   1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30730.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://ares.dominium.tv:6923/live/vin/1234/30729.m3u8
-#EXTINF:-1,Sky Cinema
-http://ares.dominium.tv:6923/live/vin/1234/30728.m3u8
-#EXTINF:-1,Sky Cinema  1
-http://ares.dominium.tv:6923/live/vin/1234/30727.m3u8
-#EXTINF:-1,Sky Cinema  1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30726.m3u8
-#EXTINF:-1,Sky Cinema  24
-http://ares.dominium.tv:6923/live/vin/1234/30725.m3u8
-#EXTINF:-1,Sky Cinema  24 HD
-http://ares.dominium.tv:6923/live/vin/1234/30724.m3u8
-#EXTINF:-1,Sky Cinema Action
-http://ares.dominium.tv:6923/live/vin/1234/30723.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://ares.dominium.tv:6923/live/vin/1234/30722.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://ares.dominium.tv:6923/live/vin/1234/30721.m3u8
-#EXTINF:-1,Sky Cinema Emotion
-http://ares.dominium.tv:6923/live/vin/1234/30720.m3u8
-#EXTINF:-1,Sky Cinema Emotion HD
-http://ares.dominium.tv:6923/live/vin/1234/30719.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://ares.dominium.tv:6923/live/vin/1234/30718.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://ares.dominium.tv:6923/live/vin/1234/30717.m3u8
-#EXTINF:-1,Sky Cinema Hits
-http://ares.dominium.tv:6923/live/vin/1234/30716.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://ares.dominium.tv:6923/live/vin/1234/30715.m3u8
-#EXTINF:-1,Sky Cinema Nostalgie HD
-http://ares.dominium.tv:6923/live/vin/1234/30714.m3u8
-#EXTINF:-1,Sky DMAX
-http://ares.dominium.tv:6923/live/vin/1234/30713.m3u8
-#EXTINF:-1,Sky Krimi
-http://ares.dominium.tv:6923/live/vin/1234/30712.m3u8
-#EXTINF:-1,Sky Select Live 1 (Planet der Affen-Survival)
-http://ares.dominium.tv:6923/live/vin/1234/30711.m3u8
-#EXTINF:-1,Sky Select Live 10 (Wonder Woman)
-http://ares.dominium.tv:6923/live/vin/1234/30710.m3u8
-#EXTINF:-1,Sky Select Live 11 (The Boss Baby)
-http://ares.dominium.tv:6923/live/vin/1234/30709.m3u8
-#EXTINF:-1,Sky Select Live 12 (Vier gegen die Bank)
-http://ares.dominium.tv:6923/live/vin/1234/30708.m3u8
-#EXTINF:-1,Sky Select Live 2 (Der Dunkle Turm)
-http://ares.dominium.tv:6923/live/vin/1234/30707.m3u8
-#EXTINF:-1,Sky Select Live 3 (Dunkirk)
-http://ares.dominium.tv:6923/live/vin/1234/30706.m3u8
-#EXTINF:-1,Sky Select Live 4 (Baby Driver)
-http://ares.dominium.tv:6923/live/vin/1234/30705.m3u8
-#EXTINF:-1,Sky Select Live 5 (Emoji-Der Film)
-http://ares.dominium.tv:6923/live/vin/1234/30704.m3u8
-#EXTINF:-1,Sky Select Live 6 (Spider-Man Homecoming)
-http://ares.dominium.tv:6923/live/vin/1234/30703.m3u8
-#EXTINF:-1,Sky Select Live 7 (King Arthur-Legend of the Sword)
-http://ares.dominium.tv:6923/live/vin/1234/30702.m3u8
-#EXTINF:-1,Sky Select Live 8 (Valerian-Die Stadt der tausend Planeten)
-http://ares.dominium.tv:6923/live/vin/1234/30701.m3u8
-#EXTINF:-1,Sky Select Live 9 (Ich-Einfach unverbesserlich 3)
-http://ares.dominium.tv:6923/live/vin/1234/30700.m3u8
-#EXTINF:-1,Sky Sport 1
-http://ares.dominium.tv:6923/live/vin/1234/30699.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30698.m3u8
-#EXTINF:-1,Sky Sport 10 HD
-http://ares.dominium.tv:6923/live/vin/1234/30697.m3u8
-#EXTINF:-1,Sky Sport 2
-http://ares.dominium.tv:6923/live/vin/1234/30696.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://ares.dominium.tv:6923/live/vin/1234/30695.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://ares.dominium.tv:6923/live/vin/1234/30694.m3u8
-#EXTINF:-1,Sky Sport 4 HD
-http://ares.dominium.tv:6923/live/vin/1234/30693.m3u8
-#EXTINF:-1,Sky Sport 5 HD
-http://ares.dominium.tv:6923/live/vin/1234/30692.m3u8
-#EXTINF:-1,Sky Sport 6 HD
-http://ares.dominium.tv:6923/live/vin/1234/30691.m3u8
-#EXTINF:-1,Sky Sport 7 HD
-http://ares.dominium.tv:6923/live/vin/1234/30690.m3u8
-#EXTINF:-1,Sky Sport 8 HD
-http://ares.dominium.tv:6923/live/vin/1234/30689.m3u8
-#EXTINF:-1,Sky Sport 9 HD
-http://ares.dominium.tv:6923/live/vin/1234/30688.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/5597.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/5598.m3u8
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/5338.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/403.m3u8
+#EXTINF:-1,Sky Bundesliga 10 HD (during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/1840.m3u8
+#EXTINF:-1,Sky Bundesliga 2 HD ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/1421.m3u8
+#EXTINF:-1,Sky Bundesliga 3 HD ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/1422.m3u8
+#EXTINF:-1,Sky Bundesliga 4 HD ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/1423.m3u8
+#EXTINF:-1,Sky Bundesliga 5 HD ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/1835.m3u8
+#EXTINF:-1,Sky Bundesliga 6 HD ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/1836.m3u8
+#EXTINF:-1,Sky Bundesliga 7 HD ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/1837.m3u8
+#EXTINF:-1,Sky Bundesliga 8 HD (during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/1838.m3u8
 #EXTINF:-1,Sky Sport Austria HD
-http://ares.dominium.tv:6923/live/vin/1234/30687.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30686.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 SD
-http://ares.dominium.tv:6923/live/vin/1234/30685.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 10 HD
-http://ares.dominium.tv:6923/live/vin/1234/30684.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://ares.dominium.tv:6923/live/vin/1234/30683.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 SD
-http://ares.dominium.tv:6923/live/vin/1234/30682.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://ares.dominium.tv:6923/live/vin/1234/30681.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 SD
-http://ares.dominium.tv:6923/live/vin/1234/30680.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://ares.dominium.tv:6923/live/vin/1234/30679.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 SD
-http://ares.dominium.tv:6923/live/vin/1234/30678.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://ares.dominium.tv:6923/live/vin/1234/30677.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 SD
-http://ares.dominium.tv:6923/live/vin/1234/30676.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 6 HD
-http://ares.dominium.tv:6923/live/vin/1234/30675.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 7 HD
-http://ares.dominium.tv:6923/live/vin/1234/30674.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 8 HD
-http://ares.dominium.tv:6923/live/vin/1234/30673.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 9 HD
-http://ares.dominium.tv:6923/live/vin/1234/30672.m3u8
-#EXTINF:-1,Sky Sport News HD
-http://ares.dominium.tv:6923/live/vin/1234/30671.m3u8
-#EXTINF:-1,Sonnenklar TV HD
-http://ares.dominium.tv:6923/live/vin/1234/30670.m3u8
-#EXTINF:-1,Sony HD
-http://ares.dominium.tv:6923/live/vin/1234/30669.m3u8
-#EXTINF:-1,Spiegel Geschichte HD
-http://ares.dominium.tv:6923/live/vin/1234/30668.m3u8
+http://iptv.mecccam.com:8010/live/Andre/Andre/412.m3u8
+#EXTINF:-1,Sky Sports News HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/416.m3u8
+#EXTINF:-1,Sky Sport 1
+http://iptv.mecccam.com:8010/live/Andre/Andre/7752.m3u8
+#EXTINF:-1,Sky Sport 2
+http://iptv.mecccam.com:8010/live/Andre/Andre/7753.m3u8
+#EXTINF:-1,Sky Sport Austria
+http://iptv.mecccam.com:8010/live/Andre/Andre/7761.m3u8
+#EXTINF:-1,Sport1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/374.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/376.m3u8
+#EXTINF:-1,SKY SPORT 10 ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/2266.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/375.m3u8
+#EXTINF:-1,SKY SPORT 3 ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/2259.m3u8
+#EXTINF:-1,SKY SPORT 4 ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/2260.m3u8
+#EXTINF:-1,SKY SPORT 5 ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/2261.m3u8
+#EXTINF:-1,SKY SPORT 6 ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/2262.m3u8
+#EXTINF:-1,SKY SPORT 7 ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/2263.m3u8
+#EXTINF:-1,SKY SPORT 8 ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/2264.m3u8
+#EXTINF:-1,SKY SPORT 9 ( during match )
+http://iptv.mecccam.com:8010/live/Andre/Andre/2265.m3u8
+#EXTINF:-1,MOTORVISION
+http://iptv.mecccam.com:8010/live/Andre/Andre/2093.m3u8
+#EXTINF:-1,Sky Cinema
+http://iptv.mecccam.com:8010/live/Andre/Andre/7760.m3u8
+#EXTINF:-1,Sky Cinema +1
+http://iptv.mecccam.com:8010/live/Andre/Andre/7744.m3u8
+#EXTINF:-1,Sky Cinema +1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/7745.m3u8
+#EXTINF:-1,Sky Cinema +24
+http://iptv.mecccam.com:8010/live/Andre/Andre/7746.m3u8
+#EXTINF:-1,Sky Cinema Action
+http://iptv.mecccam.com:8010/live/Andre/Andre/7747.m3u8
+#EXTINF:-1,Sky Cinema Awards
+http://iptv.mecccam.com:8010/live/Andre/Andre/7748.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://iptv.mecccam.com:8010/live/Andre/Andre/7749.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/7750.m3u8
+#EXTINF:-1,Sky Cinema Nostalgie
+http://iptv.mecccam.com:8010/live/Andre/Andre/7751.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/406.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/405.m3u8
+#EXTINF:-1,SKY Cinema  +24 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1076.m3u8
+#EXTINF:-1,Sky Cinema HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/400.m3u8
+#EXTINF:-1,Sky Comedy HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/399.m3u8
+#EXTINF:-1,SKY Emotion HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/395.m3u8
+#EXTINF:-1,SKY Cinema Hits HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1077.m3u8
+#EXTINF:-1,Kabel 1 Classics
+http://iptv.mecccam.com:8010/live/Andre/Andre/5596.m3u8
+#EXTINF:-1,SKY 1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/5594.m3u8
+#EXTINF:-1,RTL Living HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1420.m3u8
+#EXTINF:-1,RTL NITRO
+http://iptv.mecccam.com:8010/live/Andre/Andre/409.m3u8
+#EXTINF:-1,RTL PASSION FHD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1212.m3u8
+#EXTINF:-1,Sat 1 Gold
+http://iptv.mecccam.com:8010/live/Andre/Andre/2089.m3u8
+#EXTINF:-1,SAT 1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1200.m3u8
+#EXTINF:-1,3Sat HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8654.m3u8
+#EXTINF:-1,Anixe HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8660.m3u8
+#EXTINF:-1,ARD HD DE
+http://iptv.mecccam.com:8010/live/Andre/Andre/8663.m3u8
+#EXTINF:-1,HR HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8655.m3u8
+#EXTINF:-1,Kabel 1 DOKU
+http://iptv.mecccam.com:8010/live/Andre/Andre/8662.m3u8
+#EXTINF:-1,MDR HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8656.m3u8
+#EXTINF:-1,N24 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8657.m3u8
+#EXTINF:-1,NTV HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8658.m3u8
+#EXTINF:-1,Phoenix HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8659.m3u8
+#EXTINF:-1,Sky FOX SERIE
+http://iptv.mecccam.com:8010/live/Andre/Andre/8665.m3u8
+#EXTINF:-1,Sky Sony HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8666.m3u8
+#EXTINF:-1,Sport 1  HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8664.m3u8
+#EXTINF:-1,ZDF Neo HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8661.m3u8
+#EXTINF:-1,SIXX
+http://iptv.mecccam.com:8010/live/Andre/Andre/1197.m3u8
+#EXTINF:-1,Jukebox
+http://iptv.mecccam.com:8010/live/Andre/Andre/7756.m3u8
 #EXTINF:-1,Spiegel TV Wissen
-http://ares.dominium.tv:6923/live/vin/1234/30667.m3u8
-#EXTINF:-1,Spiegel TV Wissen HD
-http://ares.dominium.tv:6923/live/vin/1234/30666.m3u8
-#EXTINF:-1,SPORT 1  HD
-http://ares.dominium.tv:6923/live/vin/1234/30665.m3u8
-#EXTINF:-1,SPORT 1 HD
-http://ares.dominium.tv:6923/live/vin/1234/30664.m3u8
-#EXTINF:-1,Sportdigital HD
-http://ares.dominium.tv:6923/live/vin/1234/30663.m3u8
-#EXTINF:-1,Super RTL HD
-http://ares.dominium.tv:6923/live/vin/1234/30662.m3u8
-#EXTINF:-1,SYFY
-http://ares.dominium.tv:6923/live/vin/1234/30661.m3u8
-#EXTINF:-1,Tele 5 tv HD
-http://ares.dominium.tv:6923/live/vin/1234/30660.m3u8
-#EXTINF:-1,TLC HD
-http://ares.dominium.tv:6923/live/vin/1234/30659.m3u8
-#EXTINF:-1,TNT Comedy HD
-http://ares.dominium.tv:6923/live/vin/1234/30658.m3u8
-#EXTINF:-1,TNT Film HD
-http://ares.dominium.tv:6923/live/vin/1234/30657.m3u8
+http://iptv.mecccam.com:8010/live/Andre/Andre/7754.m3u8
+#EXTINF:-1,SKY KRIMI
+http://iptv.mecccam.com:8010/live/Andre/Andre/391.m3u8
+#EXTINF:-1,SKY SELECT 1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/387.m3u8
+#EXTINF:-1,SKY SELECT 2 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/385.m3u8
+#EXTINF:-1,SKY SELECT 3 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/384.m3u8
+#EXTINF:-1,SKY SELECT 4 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/383.m3u8
+#EXTINF:-1,SKY SELECT 5 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/382.m3u8
+#EXTINF:-1,SKY SELECT 6 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/381.m3u8
+#EXTINF:-1,SKY SELECT 7 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/380.m3u8
+#EXTINF:-1,SKY SELECT 9 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1754.m3u8
+#EXTINF:-1,Spiegel Geschichte HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1497.m3u8
+#EXTINF:-1,SUPER RTL
+http://iptv.mecccam.com:8010/live/Andre/Andre/1194.m3u8
+#EXTINF:-1,Disney XD
+http://iptv.mecccam.com:8010/live/Andre/Andre/7758.m3u8
+#EXTINF:-1,Disney Cinemagic HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/393.m3u8
+#EXTINF:-1,Disney Junior HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1079.m3u8
+#EXTINF:-1,TELE 5 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/2769.m3u8
 #EXTINF:-1,TNT Serie HD
-http://ares.dominium.tv:6923/live/vin/1234/30656.m3u8
+http://iptv.mecccam.com:8010/live/Andre/Andre/2773.m3u8
 #EXTINF:-1,Universal Channel HD
-http://ares.dominium.tv:6923/live/vin/1234/30655.m3u8
-#EXTINF:-1,VIVA / COMEDY CENTRAL HD
-http://ares.dominium.tv:6923/live/vin/1234/30654.m3u8
-#EXTINF:-1,VOX
-http://ares.dominium.tv:6923/live/vin/1234/30653.m3u8
-#EXTINF:-1,VOX  HD
-http://ares.dominium.tv:6923/live/vin/1234/30652.m3u8
-#EXTINF:-1,WDR HD
-http://ares.dominium.tv:6923/live/vin/1234/30651.m3u8
-#EXTINF:-1,Welt Der Wunder
-http://ares.dominium.tv:6923/live/vin/1234/30650.m3u8
-#EXTINF:-1,XITE Base
-http://ares.dominium.tv:6923/live/vin/1234/30649.m3u8
-#EXTINF:-1,ZDF HD
-http://ares.dominium.tv:6923/live/vin/1234/30648.m3u8
-#EXTINF:-1,ZDF Info HD
-http://ares.dominium.tv:6923/live/vin/1234/30647.m3u8
+http://iptv.mecccam.com:8010/live/Andre/Andre/2621.m3u8
+#EXTINF:-1,VOX HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/415.m3u8
+#EXTINF:-1,Discovery channel HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/397.m3u8
+#EXTINF:-1,SyFy HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/2836.m3u8
+#EXTINF:-1,13TH Street
+http://iptv.mecccam.com:8010/live/Andre/Andre/407.m3u8
+#EXTINF:-1,A&E
+http://iptv.mecccam.com:8010/live/Andre/Andre/2092.m3u8
+#EXTINF:-1,AXN HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/496.m3u8
+#EXTINF:-1,Boomerang
+http://iptv.mecccam.com:8010/live/Andre/Andre/2594.m3u8
+#EXTINF:-1,Das Erste
+http://iptv.mecccam.com:8010/live/Andre/Andre/1210.m3u8
+#EXTINF:-1,DMAX
+http://iptv.mecccam.com:8010/live/Andre/Andre/1192.m3u8
+#EXTINF:-1,FOX HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/371.m3u8
+#EXTINF:-1,Heimatkanal
+http://iptv.mecccam.com:8010/live/Andre/Andre/2774.m3u8
+#EXTINF:-1,History Channel HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/2094.m3u8
+#EXTINF:-1,Kabel1 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/404.m3u8
+#EXTINF:-1,Kika
+http://iptv.mecccam.com:8010/live/Andre/Andre/1425.m3u8
+#EXTINF:-1,Kinowelt TV HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/3223.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/864.m3u8
+#EXTINF:-1,NatGeo HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/389.m3u8
+#EXTINF:-1,NDR HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/2097.m3u8
+#EXTINF:-1,ORF 2 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/3115.m3u8
+#EXTINF:-1,ORF1
+http://iptv.mecccam.com:8010/live/Andre/Andre/1426.m3u8
+#EXTINF:-1,ZEE ONE
+http://iptv.mecccam.com:8010/live/Andre/Andre/8452.m3u8
+#EXTINF:-1,Zee one FHD
+http://iptv.mecccam.com:8010/live/Andre/Andre/8454.m3u8
 #EXTINF:-1,Zee one HD
-http://ares.dominium.tv:6923/live/vin/1234/30646.m3u8
+http://iptv.mecccam.com:8010/live/Andre/Andre/8453.m3u8
+#EXTINF:-1,Pro 7 Maxx HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1213.m3u8
+#EXTINF:-1,ProSieben HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1191.m3u8
+#EXTINF:-1,RomanceTV
+http://iptv.mecccam.com:8010/live/Andre/Andre/1753.m3u8
+#EXTINF:-1,RTL 2 HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/411.m3u8
+#EXTINF:-1,RTL Crime HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/2776.m3u8
+#EXTINF:-1,RTL HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/410.m3u8
+#EXTINF:-1,ZDF HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/1424.m3u8
+#EXTINF:-1,TLC HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/2778.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/2772.m3u8
+#EXTINF:-1,TNT Film HD
+http://iptv.mecccam.com:8010/live/Andre/Andre/495.m3u8
