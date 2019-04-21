@@ -1,1391 +1,409 @@
 #EXTM3U
-#EXTINF:-1,A&E FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134478.m3u8
-#EXTINF:-1,A&E FHD [VIP]
-http://31.220.1.190:8080/live/Jessica/Jessica1/197939.m3u8
-#EXTINF:-1,ABC (NY) FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77174.m3u8
-#EXTINF:-1,ABC (West) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76806.m3u8
-#EXTINF:-1,ABC Atlanta WSB
-http://31.220.1.190:8080/live/Jessica/Jessica1/199203.m3u8
-#EXTINF:-1,ABC Chicago WLS
-http://31.220.1.190:8080/live/Jessica/Jessica1/199204.m3u8
-#EXTINF:-1,ABC Cleveland WEWS
-http://31.220.1.190:8080/live/Jessica/Jessica1/199205.m3u8
-#EXTINF:-1,ABC Detroit
-http://31.220.1.190:8080/live/Jessica/Jessica1/149861.m3u8
-#EXTINF:-1,ABC Los Angeles FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/108903.m3u8
-#EXTINF:-1,ABC Nashville WKRN
-http://31.220.1.190:8080/live/Jessica/Jessica1/199207.m3u8
-#EXTINF:-1,ABC NEWS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155497.m3u8
-#EXTINF:-1,ABC Sacramento KXTV
-http://31.220.1.190:8080/live/Jessica/Jessica1/199208.m3u8
-#EXTINF:-1,ABC Spark
-http://31.220.1.190:8080/live/Jessica/Jessica1/87742.m3u8
-#EXTINF:-1,ABC St Louis
-http://31.220.1.190:8080/live/Jessica/Jessica1/149884.m3u8
-#EXTINF:-1,ABC WCVB BOS
-http://31.220.1.190:8080/live/Jessica/Jessica1/164243.m3u8
-#EXTINF:-1,AFN Movies HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155607.m3u8
-#EXTINF:-1,AFN Sports 2
-http://31.220.1.190:8080/live/Jessica/Jessica1/74881.m3u8
-#EXTINF:-1,Aljazeera Live
-http://31.220.1.190:8080/live/Jessica/Jessica1/105830.m3u8
-#EXTINF:-1,AMC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/146071.m3u8
-#EXTINF:-1,American Hero Channel HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/95145.m3u8
-#EXTINF:-1,American Heroes Network
-http://31.220.1.190:8080/live/Jessica/Jessica1/105985.m3u8
-#EXTINF:-1,AMG TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/152973.m3u8
-#EXTINF:-1,ANIMAL PLANET FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/115745.m3u8
-#EXTINF:-1,ANTENNA TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77173.m3u8
-#EXTINF:-1,BBC America FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76453.m3u8
-#EXTINF:-1,BET FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74943.m3u8
-#EXTINF:-1,BET HER FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/66173.m3u8
-#EXTINF:-1,BIG TEN NETWORK HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155520.m3u8
-#EXTINF:-1,Bloomberg HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155485.m3u8
-#EXTINF:-1,Boomerang HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/152981.m3u8
-#EXTINF:-1,Bravo FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/95147.m3u8
-#EXTINF:-1,BUZZER
-http://31.220.1.190:8080/live/Jessica/Jessica1/152984.m3u8
-#EXTINF:-1,BYU Sports TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76569.m3u8
-#EXTINF:-1,C-SPAN
-http://31.220.1.190:8080/live/Jessica/Jessica1/199131.m3u8
-#EXTINF:-1,C-SPAN 2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74923.m3u8
-#EXTINF:-1,CBN HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/91675.m3u8
-#EXTINF:-1,CBN NEWS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76783.m3u8
-#EXTINF:-1,CBS (NY) FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/105861.m3u8
-#EXTINF:-1,CBS Atlanta WGCL
-http://31.220.1.190:8080/live/Jessica/Jessica1/199209.m3u8
-#EXTINF:-1,CBS Chicago CBS2
-http://31.220.1.190:8080/live/Jessica/Jessica1/199210.m3u8
-#EXTINF:-1,CBS Cleveland
-http://31.220.1.190:8080/live/Jessica/Jessica1/149902.m3u8
-#EXTINF:-1,CBS FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/146349.m3u8
-#EXTINF:-1,CBS KCAL 9 LOS ANGELES
-http://31.220.1.190:8080/live/Jessica/Jessica1/164249.m3u8
-#EXTINF:-1,CBS Los Angeles KCA
-http://31.220.1.190:8080/live/Jessica/Jessica1/199211.m3u8
-#EXTINF:-1,CBS Nashville WTVF
-http://31.220.1.190:8080/live/Jessica/Jessica1/199212.m3u8
-#EXTINF:-1,CBS New York FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77153.m3u8
-#EXTINF:-1,CBS Sacramento KOVR
-http://31.220.1.190:8080/live/Jessica/Jessica1/199213.m3u8
-#EXTINF:-1,CBS SPORTS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/138287.m3u8
-#EXTINF:-1,CBS Sports Network HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155524.m3u8
-#EXTINF:-1,CBS St Louis KMOV
-http://31.220.1.190:8080/live/Jessica/Jessica1/199214.m3u8
-#EXTINF:-1,CBS WBZ BOS
-http://31.220.1.190:8080/live/Jessica/Jessica1/164250.m3u8
-#EXTINF:-1,CBS West HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/159955.m3u8
-#EXTINF:-1,CC
-http://31.220.1.190:8080/live/Jessica/Jessica1/159960.m3u8
-#EXTINF:-1,Cinemax FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74917.m3u8
-#EXTINF:-1,CMT HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/152999.m3u8
-#EXTINF:-1,CNBC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/153001.m3u8
-#EXTINF:-1,Comedy Central East
-http://31.220.1.190:8080/live/Jessica/Jessica1/199231.m3u8
-#EXTINF:-1,COOKING CHANNEL FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76547.m3u8
-#EXTINF:-1,COUNTRY MUSIC TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121270.m3u8
-#EXTINF:-1,COZI TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76546.m3u8
-#EXTINF:-1,Crime & Investigation HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77057.m3u8
-#EXTINF:-1,CW Network FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/145662.m3u8
-#EXTINF:-1,Daystar
-http://31.220.1.190:8080/live/Jessica/Jessica1/199109.m3u8
-#EXTINF:-1,DC Eagle Cam
-http://31.220.1.190:8080/live/Jessica/Jessica1/105850.m3u8
-#EXTINF:-1,Destination America FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/75908.m3u8
-#EXTINF:-1,DIRTY30
-http://31.220.1.190:8080/live/Jessica/Jessica1/75807.m3u8
-#EXTINF:-1,Discovery CHANNEL FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/101345.m3u8
-#EXTINF:-1,Discovery FAMILY HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77148.m3u8
-#EXTINF:-1,Discovery LIFE HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77142.m3u8
-#EXTINF:-1,Discovery SCIENCE HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155465.m3u8
-#EXTINF:-1,Discovery VELOCITY HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74864.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/149953.m3u8
-#EXTINF:-1,DISNEY JR HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74850.m3u8
-#EXTINF:-1,Disney Junior Pacific
-http://31.220.1.190:8080/live/Jessica/Jessica1/149955.m3u8
-#EXTINF:-1,DISNEY XD FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/78346.m3u8
-#EXTINF:-1,DIY Network FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/151559.m3u8
-#EXTINF:-1,Dog TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/199110.m3u8
-#EXTINF:-1,escape
-http://31.220.1.190:8080/live/Jessica/Jessica1/159993.m3u8
-#EXTINF:-1,ESPN 2 FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/60410.m3u8
-#EXTINF:-1,ESPN FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74887.m3u8
-#EXTINF:-1,EWTN
-http://31.220.1.190:8080/live/Jessica/Jessica1/199229.m3u8
-#EXTINF:-1,FOX 05 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/160002.m3u8
-#EXTINF:-1,FOX 5 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77157.m3u8
-#EXTINF:-1,Fox 10 News
-http://31.220.1.190:8080/live/Jessica/Jessica1/105871.m3u8
-#EXTINF:-1,FOX 23 (Oklahoma)
-http://31.220.1.190:8080/live/Jessica/Jessica1/103730.m3u8
-#EXTINF:-1,FOX 25 BOSTON HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156744.m3u8
-#EXTINF:-1,FOX 43 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76443.m3u8
-#EXTINF:-1,FOX 50
-http://31.220.1.190:8080/live/Jessica/Jessica1/77109.m3u8
-#EXTINF:-1,FOX St Louis
-http://31.220.1.190:8080/live/Jessica/Jessica1/150012.m3u8
-#EXTINF:-1,FOX WBFF BAL HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/138434.m3u8
-#EXTINF:-1,FOX WesT HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/159998.m3u8
-#EXTINF:-1,FOX WFXT BOS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/138437.m3u8
-#EXTINF:-1,FOX WJBK DET
-http://31.220.1.190:8080/live/Jessica/Jessica1/164251.m3u8
-#EXTINF:-1,Fox30 Jaxonville
-http://31.220.1.190:8080/live/Jessica/Jessica1/105894.m3u8
-#EXTINF:-1,Freeform East
-http://31.220.1.190:8080/live/Jessica/Jessica1/160013.m3u8
-#EXTINF:-1,FREEFORM HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76523.m3u8
-#EXTINF:-1,FUSE HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77126.m3u8
-#EXTINF:-1,FUSION HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77127.m3u8
-#EXTINF:-1,FX East HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/157677.m3u8
-#EXTINF:-1,FX HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/160014.m3u8
-#EXTINF:-1,FXM HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76787.m3u8
-#EXTINF:-1,FXX WEST HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/138299.m3u8
-#EXTINF:-1,FYI HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103744.m3u8
-#EXTINF:-1,GameShow Network HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77095.m3u8
-#EXTINF:-1,GET TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/160021.m3u8
-#EXTINF:-1,GOLF CHANNEL
-http://31.220.1.190:8080/live/Jessica/Jessica1/95151.m3u8
-#EXTINF:-1,GRIT TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76439.m3u8
-#EXTINF:-1,GSN FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/105896.m3u8
-#EXTINF:-1,Hallmark Channel FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103751.m3u8
-#EXTINF:-1,HALLMARK DRAMA HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/111964.m3u8
-#EXTINF:-1,HALLMARK MOVIES & MYSTERIES HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77089.m3u8
-#EXTINF:-1,HBO (East) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/75881.m3u8
-#EXTINF:-1,HBO 2 FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77694.m3u8
-#EXTINF:-1,HBO FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/78351.m3u8
-#EXTINF:-1,HEROS & ICONS
-http://31.220.1.190:8080/live/Jessica/Jessica1/77177.m3u8
-#EXTINF:-1,HGTV FHD [VIP]
-http://31.220.1.190:8080/live/Jessica/Jessica1/197940.m3u8
-#EXTINF:-1,HISTORY Channel 2 FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77116.m3u8
-#EXTINF:-1,HISTORY CHANNEL FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/92801.m3u8
-#EXTINF:-1,HLN HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/75879.m3u8
-#EXTINF:-1,HSN HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77175.m3u8
 #EXTINF:-1,IFC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103760.m3u8
-#EXTINF:-1,INFOWARS
-http://31.220.1.190:8080/live/Jessica/Jessica1/176341.m3u8
-#EXTINF:-1,Investigation Disvovery FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/95501.m3u8
-#EXTINF:-1,ION FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/84845.m3u8
-#EXTINF:-1,JBTV Music
-http://31.220.1.190:8080/live/Jessica/Jessica1/87758.m3u8
-#EXTINF:-1,LAFF TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/164257.m3u8
-#EXTINF:-1,LIFETIME MOVIES HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76502.m3u8
-#EXTINF:-1,LONGHORN NETWORK
-http://31.220.1.190:8080/live/Jessica/Jessica1/126128.m3u8
-#EXTINF:-1,MCM
-http://31.220.1.190:8080/live/Jessica/Jessica1/160046.m3u8
-#EXTINF:-1,Me TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/96267.m3u8
-#EXTINF:-1,MSG HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/78314.m3u8
-#EXTINF:-1,MSNBC FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155631.m3u8
-#EXTINF:-1,MTV 2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/92477.m3u8
-#EXTINF:-1,MTV Base HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/160052.m3u8
-#EXTINF:-1,MTV Classic
-http://31.220.1.190:8080/live/Jessica/Jessica1/160053.m3u8
-#EXTINF:-1,MTV EAST HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/105910.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103785.m3u8
-#EXTINF:-1,MTV Music
-http://31.220.1.190:8080/live/Jessica/Jessica1/160056.m3u8
-#EXTINF:-1,MTV Rocks
-http://31.220.1.190:8080/live/Jessica/Jessica1/155483.m3u8
-#EXTINF:-1,Music Choice - 90s
-http://31.220.1.190:8080/live/Jessica/Jessica1/108907.m3u8
-#EXTINF:-1,Music Choice - Alternative
-http://31.220.1.190:8080/live/Jessica/Jessica1/91486.m3u8
-#EXTINF:-1,Music Choice - Contemporary Christian
-http://31.220.1.190:8080/live/Jessica/Jessica1/148599.m3u8
-#EXTINF:-1,Music Choice - DANCE EDM
-http://31.220.1.190:8080/live/Jessica/Jessica1/91484.m3u8
-#EXTINF:-1,Music Choice - Hip-Hop & R&B
-http://31.220.1.190:8080/live/Jessica/Jessica1/91483.m3u8
-#EXTINF:-1,Music Choice - Indie
-http://31.220.1.190:8080/live/Jessica/Jessica1/91481.m3u8
-#EXTINF:-1,Music Choice - Kids Only
-http://31.220.1.190:8080/live/Jessica/Jessica1/148603.m3u8
-#EXTINF:-1,Music Choice - Metal
-http://31.220.1.190:8080/live/Jessica/Jessica1/109428.m3u8
-#EXTINF:-1,Music Choice - Pop & Country
-http://31.220.1.190:8080/live/Jessica/Jessica1/91478.m3u8
-#EXTINF:-1,Music Choice - Pop Hits
-http://31.220.1.190:8080/live/Jessica/Jessica1/91476.m3u8
-#EXTINF:-1,Music Choice - R&B Soul
-http://31.220.1.190:8080/live/Jessica/Jessica1/91475.m3u8
-#EXTINF:-1,Music Choice - Rap
-http://31.220.1.190:8080/live/Jessica/Jessica1/91474.m3u8
-#EXTINF:-1,Music Choice - Rap 2K
-http://31.220.1.190:8080/live/Jessica/Jessica1/91472.m3u8
-#EXTINF:-1,Music Choice - Teen Beats
-http://31.220.1.190:8080/live/Jessica/Jessica1/91471.m3u8
-#EXTINF:-1,Music Choice - Throwback Jams
-http://31.220.1.190:8080/live/Jessica/Jessica1/91470.m3u8
-#EXTINF:-1,Music Choice - Toddler Tunes
-http://31.220.1.190:8080/live/Jessica/Jessica1/148616.m3u8
-#EXTINF:-1,Music Choice - Tropicales
-http://31.220.1.190:8080/live/Jessica/Jessica1/108914.m3u8
-#EXTINF:-1,MY 9 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/92807.m3u8
-#EXTINF:-1,My 30 Nashville WUXP
-http://31.220.1.190:8080/live/Jessica/Jessica1/199226.m3u8
-#EXTINF:-1,Nasa TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155571.m3u8
-#EXTINF:-1,NAT GEO HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/95432.m3u8
-#EXTINF:-1,NAT GEO Wild 2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/160058.m3u8
-#EXTINF:-1,NAT GEO Wild HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/135408.m3u8
-#EXTINF:-1,NICKELODEN HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77070.m3u8
-#EXTINF:-1,NICKELODEON 2
-http://31.220.1.190:8080/live/Jessica/Jessica1/160109.m3u8
-#EXTINF:-1,nickelodeon Junior
-http://31.220.1.190:8080/live/Jessica/Jessica1/76491.m3u8
-#EXTINF:-1,NYC New York Charging Bull
-http://31.220.1.190:8080/live/Jessica/Jessica1/129241.m3u8
-#EXTINF:-1,NYC New York Columbus Circle
-http://31.220.1.190:8080/live/Jessica/Jessica1/129242.m3u8
-#EXTINF:-1,One America Network (OAN)
-http://31.220.1.190:8080/live/Jessica/Jessica1/105972.m3u8
-#EXTINF:-1,ONE AMERICA NEWS
-http://31.220.1.190:8080/live/Jessica/Jessica1/176344.m3u8
-#EXTINF:-1,Outdoor Channel HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77144.m3u8
-#EXTINF:-1,OUTSIDE TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121406.m3u8
-#EXTINF:-1,OVATION
-http://31.220.1.190:8080/live/Jessica/Jessica1/118621.m3u8
-#EXTINF:-1,OWN FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76434.m3u8
-#EXTINF:-1,Oxygen HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155547.m3u8
-#EXTINF:-1,PAC-12 (Los Angeles) FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76431.m3u8
-#EXTINF:-1,PAC-12 (NATIONAL) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/101372.m3u8
-#EXTINF:-1,PARAMOUNT
-http://31.220.1.190:8080/live/Jessica/Jessica1/156796.m3u8
-#EXTINF:-1,PBS KIDS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77179.m3u8
-#EXTINF:-1,PBS WLIW 21
-http://31.220.1.190:8080/live/Jessica/Jessica1/92810.m3u8
-#EXTINF:-1,POP HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77134.m3u8
-#EXTINF:-1,PResS TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/160122.m3u8
-#EXTINF:-1,PURSUIT CHANNEL
-http://31.220.1.190:8080/live/Jessica/Jessica1/77118.m3u8
-#EXTINF:-1,RED BULL TV FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76487.m3u8
-#EXTINF:-1,Reelz Channel HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/158647.m3u8
-#EXTINF:-1,REVOLT HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156797.m3u8
-#EXTINF:-1,REVOLT HD [VIP]
-http://31.220.1.190:8080/live/Jessica/Jessica1/197938.m3u8
-#EXTINF:-1,Science Channel
-http://31.220.1.190:8080/live/Jessica/Jessica1/160129.m3u8
-#EXTINF:-1,SEC NETWORK HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76773.m3u8
-#EXTINF:-1,Showcase HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76485.m3u8
-#EXTINF:-1,SHOWTIME EXTREME FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/75137.m3u8
-#EXTINF:-1,Showtime Next HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/99887.m3u8
-#EXTINF:-1,SHOWTIME SHOWCASE FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74935.m3u8
-#EXTINF:-1,SMITHSONIAN CHANNEL HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121410.m3u8
-#EXTINF:-1,SNY HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/98319.m3u8
-#EXTINF:-1,SPIKE/PARAMOUNT HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74845.m3u8
-#EXTINF:-1,Starz Comedy FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/75850.m3u8
-#EXTINF:-1,Starz Encore FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74914.m3u8
-#EXTINF:-1,Starz Encore Western FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77666.m3u8
-#EXTINF:-1,STARZ WEST HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76476.m3u8
-#EXTINF:-1,Sundance HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155408.m3u8
-#EXTINF:-1,Syfy HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155668.m3u8
-#EXTINF:-1,TBN HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/92812.m3u8
-#EXTINF:-1,TBs HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76423.m3u8
-#EXTINF:-1,TCM HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77075.m3u8
-#EXTINF:-1,TEEN NICK
-http://31.220.1.190:8080/live/Jessica/Jessica1/92813.m3u8
-#EXTINF:-1,Telemundo HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77152.m3u8
-#EXTINF:-1,Tennis Channel 2
-http://31.220.1.190:8080/live/Jessica/Jessica1/160151.m3u8
-#EXTINF:-1,Tennis Channel FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156720.m3u8
-#EXTINF:-1,The Cowboy Channel (RFD-TV)
-http://31.220.1.190:8080/live/Jessica/Jessica1/105862.m3u8
-#EXTINF:-1,THE SPORTSMAN CHANNEL
-http://31.220.1.190:8080/live/Jessica/Jessica1/108925.m3u8
-#EXTINF:-1,THE WORD NETWORK HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103616.m3u8
-#EXTINF:-1,TLC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/139442.m3u8
-#EXTINF:-1,TNT 1
-http://31.220.1.190:8080/live/Jessica/Jessica1/160155.m3u8
-#EXTINF:-1,TNT 2
-http://31.220.1.190:8080/live/Jessica/Jessica1/160156.m3u8
-#EXTINF:-1,TNT HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134481.m3u8
-#EXTINF:-1,Travel Channel HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74866.m3u8
-#EXTINF:-1,TRU TV HD [VIP]
-http://31.220.1.190:8080/live/Jessica/Jessica1/197943.m3u8
-#EXTINF:-1,TV LAND Classic HD [VIP]
-http://31.220.1.190:8080/live/Jessica/Jessica1/197941.m3u8
-#EXTINF:-1,TV LAND HD [VIP]
-http://31.220.1.190:8080/live/Jessica/Jessica1/197942.m3u8
-#EXTINF:-1,TV ONE FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77160.m3u8
-#EXTINF:-1,TVG HORSE RACING
-http://31.220.1.190:8080/live/Jessica/Jessica1/176347.m3u8
-#EXTINF:-1,UFC TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/199265.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26552.m3u8
 #EXTINF:-1,UNIMAS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77180.m3u8
-#EXTINF:-1,UNIVERSAL HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77099.m3u8
-#EXTINF:-1,UNIVERSAL KIDS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77136.m3u8
-#EXTINF:-1,USA Network HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/199240.m3u8
-#EXTINF:-1,VH1 FHD [VIP]
-http://31.220.1.190:8080/live/Jessica/Jessica1/197937.m3u8
-#EXTINF:-1,Viceland FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156810.m3u8
-#EXTINF:-1,Voice of America
-http://31.220.1.190:8080/live/Jessica/Jessica1/105944.m3u8
-#EXTINF:-1,WCCB News Rising
-http://31.220.1.190:8080/live/Jessica/Jessica1/92989.m3u8
-#EXTINF:-1,WE TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77145.m3u8
-#EXTINF:-1,WGCUO
-http://31.220.1.190:8080/live/Jessica/Jessica1/77072.m3u8
-#EXTINF:-1,WGN 9 NEWS (Chicago)
-http://31.220.1.190:8080/live/Jessica/Jessica1/176279.m3u8
-#EXTINF:-1,WGN America HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76763.m3u8
-#EXTINF:-1,WGN News
-http://31.220.1.190:8080/live/Jessica/Jessica1/105950.m3u8
-#EXTINF:-1,WORLD FISHING NETWORK HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/92814.m3u8
-#EXTINF:-1,WPIX 11 (NY)
-http://31.220.1.190:8080/live/Jessica/Jessica1/77171.m3u8
-#EXTINF:-1,WPIX 11 New York
-http://31.220.1.190:8080/live/Jessica/Jessica1/199228.m3u8
-#EXTINF:-1,WXCW
-http://31.220.1.190:8080/live/Jessica/Jessica1/76540.m3u8
-#EXTINF:-1,WXXV News 25 (Mississippi)
-http://31.220.1.190:8080/live/Jessica/Jessica1/105954.m3u8
-#EXTINF:-1,Yes Network HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76762.m3u8
-#EXTINF:-1,###### USA ######
-http://31.220.1.190:8080/live/Jessica/Jessica1/211091.m3u8
-#EXTINF:-1,5 Star Max HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156230.m3u8
-#EXTINF:-1,5 USA
-http://31.220.1.190:8080/live/Jessica/Jessica1/101419.m3u8
-#EXTINF:-1,ABC (East) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77093.m3u8
-#EXTINF:-1,ABC 2 (Atlanta) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121166.m3u8
-#EXTINF:-1,ABC 2 (Baltimore) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/120133.m3u8
-#EXTINF:-1,ABC 2 WSB Atlanta HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155512.m3u8
-#EXTINF:-1,ABC 4 SEATTLE
-http://31.220.1.190:8080/live/Jessica/Jessica1/156724.m3u8
-#EXTINF:-1,ABC 6 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/109405.m3u8
-#EXTINF:-1,ABC 7 (Chicago) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121299.m3u8
-#EXTINF:-1,ABC 7 (Los Angeles) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121300.m3u8
-#EXTINF:-1,ABC 7 DENVER
-http://31.220.1.190:8080/live/Jessica/Jessica1/156728.m3u8
-#EXTINF:-1,ABC 7 WWSB FL Sarasota HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/91524.m3u8
-#EXTINF:-1,ABC 10 MIAMI
-http://31.220.1.190:8080/live/Jessica/Jessica1/134536.m3u8
-#EXTINF:-1,ABC 10 SAN DIEGO
-http://31.220.1.190:8080/live/Jessica/Jessica1/156722.m3u8
-#EXTINF:-1,ABC 12 (Milwaukee) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/120129.m3u8
-#EXTINF:-1,ABC 13 (Houston) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/120131.m3u8
-#EXTINF:-1,ABC 15 PHOENIX
-http://31.220.1.190:8080/live/Jessica/Jessica1/156723.m3u8
-#EXTINF:-1,ABC 28 KAMC TX Lubbock
-http://31.220.1.190:8080/live/Jessica/Jessica1/91523.m3u8
-#EXTINF:-1,ABC 28 TAMPA
-http://31.220.1.190:8080/live/Jessica/Jessica1/156736.m3u8
-#EXTINF:-1,ABC ATLANTA HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134535.m3u8
-#EXTINF:-1,ABC Baltimore
-http://31.220.1.190:8080/live/Jessica/Jessica1/149858.m3u8
-#EXTINF:-1,ABC Boston
-http://31.220.1.190:8080/live/Jessica/Jessica1/149859.m3u8
-#EXTINF:-1,ABC Connecticut
-http://31.220.1.190:8080/live/Jessica/Jessica1/149787.m3u8
-#EXTINF:-1,ABC Dallas
-http://31.220.1.190:8080/live/Jessica/Jessica1/149788.m3u8
-#EXTINF:-1,ABC Denver
-http://31.220.1.190:8080/live/Jessica/Jessica1/149789.m3u8
-#EXTINF:-1,ABC Durham
-http://31.220.1.190:8080/live/Jessica/Jessica1/149862.m3u8
-#EXTINF:-1,ABC Fresno
-http://31.220.1.190:8080/live/Jessica/Jessica1/149863.m3u8
-#EXTINF:-1,ABC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/149786.m3u8
-#EXTINF:-1,ABC Houston
-http://31.220.1.190:8080/live/Jessica/Jessica1/149864.m3u8
-#EXTINF:-1,ABC INDIANA
-http://31.220.1.190:8080/live/Jessica/Jessica1/159914.m3u8
-#EXTINF:-1,ABC Kansas City
-http://31.220.1.190:8080/live/Jessica/Jessica1/149866.m3u8
-#EXTINF:-1,ABC Miami
-http://31.220.1.190:8080/live/Jessica/Jessica1/149868.m3u8
-#EXTINF:-1,ABC Milwaukee
-http://31.220.1.190:8080/live/Jessica/Jessica1/149869.m3u8
-#EXTINF:-1,ABC Nashville
-http://31.220.1.190:8080/live/Jessica/Jessica1/149870.m3u8
-#EXTINF:-1,ABC New York
-http://31.220.1.190:8080/live/Jessica/Jessica1/149871.m3u8
-#EXTINF:-1,ABC Orlando
-http://31.220.1.190:8080/live/Jessica/Jessica1/149872.m3u8
-#EXTINF:-1,ABC Phoenix
-http://31.220.1.190:8080/live/Jessica/Jessica1/149874.m3u8
-#EXTINF:-1,ABC PITTSBURG
-http://31.220.1.190:8080/live/Jessica/Jessica1/159921.m3u8
-#EXTINF:-1,ABC Portland
-http://31.220.1.190:8080/live/Jessica/Jessica1/149876.m3u8
-#EXTINF:-1,ABC Sacramento
-http://31.220.1.190:8080/live/Jessica/Jessica1/149877.m3u8
-#EXTINF:-1,ABC Saint Paul
-http://31.220.1.190:8080/live/Jessica/Jessica1/149878.m3u8
-#EXTINF:-1,ABC Salt lake city
-http://31.220.1.190:8080/live/Jessica/Jessica1/149879.m3u8
-#EXTINF:-1,ABC San Antonio
-http://31.220.1.190:8080/live/Jessica/Jessica1/149880.m3u8
-#EXTINF:-1,ABC San Francisco
-http://31.220.1.190:8080/live/Jessica/Jessica1/149882.m3u8
-#EXTINF:-1,ABC SEATLE
-http://31.220.1.190:8080/live/Jessica/Jessica1/159927.m3u8
-#EXTINF:-1,Action Max FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/75136.m3u8
-#EXTINF:-1,AFN Prime Atlantic HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74939.m3u8
-#EXTINF:-1,AFN PRIME PACIFIC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74938.m3u8
-#EXTINF:-1,AFN Pulse
-http://31.220.1.190:8080/live/Jessica/Jessica1/159934.m3u8
-#EXTINF:-1,AFN SPECTRUM HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76585.m3u8
-#EXTINF:-1,AFN Sports 1
-http://31.220.1.190:8080/live/Jessica/Jessica1/99610.m3u8
-#EXTINF:-1,ATXN
-http://31.220.1.190:8080/live/Jessica/Jessica1/103896.m3u8
-#EXTINF:-1,BABY TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121304.m3u8
-#EXTINF:-1,BABYFIRST TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/208105.m3u8
-#EXTINF:-1,BBC 1 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/107778.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://31.220.1.190:8080/live/Jessica/Jessica1/74929.m3u8
-#EXTINF:-1,beIN Sports HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/95148.m3u8
-#EXTINF:-1,BNN HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/138282.m3u8
-#EXTINF:-1,BOSTON BRUINS
-http://31.220.1.190:8080/live/Jessica/Jessica1/156749.m3u8
-#EXTINF:-1,Boston City TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/109691.m3u8
-#EXTINF:-1,BOX OFFICE MOVIES
-http://31.220.1.190:8080/live/Jessica/Jessica1/74905.m3u8
-#EXTINF:-1,BRAVO ORG HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121308.m3u8
-#EXTINF:-1,BT Sport 3
-http://31.220.1.190:8080/live/Jessica/Jessica1/210137.m3u8
-#EXTINF:-1,BTN BIG HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/149894.m3u8
-#EXTINF:-1,C Toon Kids FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74900.m3u8
-#EXTINF:-1,C-SPAN 1 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74922.m3u8
-#EXTINF:-1,C-SPAN 3 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74924.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/75228.m3u8
-#EXTINF:-1,CBS 2 (Chicago)
-http://31.220.1.190:8080/live/Jessica/Jessica1/134522.m3u8
-#EXTINF:-1,CBS 2 (Los Angeles)
-http://31.220.1.190:8080/live/Jessica/Jessica1/134507.m3u8
-#EXTINF:-1,CBS 2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/135122.m3u8
-#EXTINF:-1,CBS 2 PITTSBURGH HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156742.m3u8
-#EXTINF:-1,CBS 2 WBM Chicago HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155526.m3u8
-#EXTINF:-1,CBS 3 PHILADELPHIA
-http://31.220.1.190:8080/live/Jessica/Jessica1/156743.m3u8
-#EXTINF:-1,CBS 4 (Miami) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/120119.m3u8
-#EXTINF:-1,CBS 4 DENVER HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156729.m3u8
-#EXTINF:-1,CBS 4 ST LOUIS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156730.m3u8
-#EXTINF:-1,CBS 5 PHOENIX
-http://31.220.1.190:8080/live/Jessica/Jessica1/156731.m3u8
-#EXTINF:-1,CBS 7 (Seattle, WA)
-http://31.220.1.190:8080/live/Jessica/Jessica1/125698.m3u8
-#EXTINF:-1,CBS 9 D.C
-http://31.220.1.190:8080/live/Jessica/Jessica1/156740.m3u8
-#EXTINF:-1,CBS 11 (Dallas) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/120116.m3u8
-#EXTINF:-1,CBS 12 CINCINNATI HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156739.m3u8
-#EXTINF:-1,CBS 13 (Baltimore) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/120117.m3u8
-#EXTINF:-1,CBS 47 JACKSONVILLE
-http://31.220.1.190:8080/live/Jessica/Jessica1/156741.m3u8
-#EXTINF:-1,CBS 62 DETROIT HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134524.m3u8
-#EXTINF:-1,CBS ACTION
-http://31.220.1.190:8080/live/Jessica/Jessica1/92444.m3u8
-#EXTINF:-1,CBS ATLANTA HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/149897.m3u8
-#EXTINF:-1,CBS Baltimore
-http://31.220.1.190:8080/live/Jessica/Jessica1/149898.m3u8
-#EXTINF:-1,CBS Boston
-http://31.220.1.190:8080/live/Jessica/Jessica1/149899.m3u8
-#EXTINF:-1,CBS Charlotte
-http://31.220.1.190:8080/live/Jessica/Jessica1/149900.m3u8
-#EXTINF:-1,CBS Chicago
-http://31.220.1.190:8080/live/Jessica/Jessica1/149901.m3u8
-#EXTINF:-1,CBS Columbus
-http://31.220.1.190:8080/live/Jessica/Jessica1/149903.m3u8
-#EXTINF:-1,CBS CONNECTICUT
-http://31.220.1.190:8080/live/Jessica/Jessica1/156738.m3u8
-#EXTINF:-1,CBS Dallas
-http://31.220.1.190:8080/live/Jessica/Jessica1/149904.m3u8
-#EXTINF:-1,CBS Detroit
-http://31.220.1.190:8080/live/Jessica/Jessica1/149906.m3u8
-#EXTINF:-1,CBS DRAMA
-http://31.220.1.190:8080/live/Jessica/Jessica1/87736.m3u8
-#EXTINF:-1,CBS Greensboro
-http://31.220.1.190:8080/live/Jessica/Jessica1/149907.m3u8
-#EXTINF:-1,CBS Hartford
-http://31.220.1.190:8080/live/Jessica/Jessica1/149908.m3u8
-#EXTINF:-1,CBS Houston
-http://31.220.1.190:8080/live/Jessica/Jessica1/149909.m3u8
-#EXTINF:-1,CBS Jacksonville
-http://31.220.1.190:8080/live/Jessica/Jessica1/149910.m3u8
-#EXTINF:-1,CBS Kansas City
-http://31.220.1.190:8080/live/Jessica/Jessica1/149911.m3u8
-#EXTINF:-1,CBS Los Angeles FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/102056.m3u8
-#EXTINF:-1,CBS Miami
-http://31.220.1.190:8080/live/Jessica/Jessica1/149913.m3u8
-#EXTINF:-1,CBS Milwaukee
-http://31.220.1.190:8080/live/Jessica/Jessica1/149914.m3u8
-#EXTINF:-1,CBS Minneapolis
-http://31.220.1.190:8080/live/Jessica/Jessica1/149915.m3u8
-#EXTINF:-1,CBS Nashville
-http://31.220.1.190:8080/live/Jessica/Jessica1/149916.m3u8
-#EXTINF:-1,CBS New Orleans
-http://31.220.1.190:8080/live/Jessica/Jessica1/149917.m3u8
-#EXTINF:-1,CBS NEWS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/208222.m3u8
-#EXTINF:-1,CBS Orlando
-http://31.220.1.190:8080/live/Jessica/Jessica1/149919.m3u8
-#EXTINF:-1,CBS Philadelphia
-http://31.220.1.190:8080/live/Jessica/Jessica1/149920.m3u8
-#EXTINF:-1,CBS Phoenix
-http://31.220.1.190:8080/live/Jessica/Jessica1/149921.m3u8
-#EXTINF:-1,CBS Pittsburgh
-http://31.220.1.190:8080/live/Jessica/Jessica1/149922.m3u8
-#EXTINF:-1,CBS Reality HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/92445.m3u8
-#EXTINF:-1,CBS Sacramento
-http://31.220.1.190:8080/live/Jessica/Jessica1/149923.m3u8
-#EXTINF:-1,CBS San Antonio
-http://31.220.1.190:8080/live/Jessica/Jessica1/149924.m3u8
-#EXTINF:-1,CBS San Francisco
-http://31.220.1.190:8080/live/Jessica/Jessica1/149926.m3u8
-#EXTINF:-1,CBS Tampas
-http://31.220.1.190:8080/live/Jessica/Jessica1/149930.m3u8
-#EXTINF:-1,CBS Washington
-http://31.220.1.190:8080/live/Jessica/Jessica1/149931.m3u8
-#EXTINF:-1,CBSN HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76561.m3u8
-#EXTINF:-1,CBSN News HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74839.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26625.m3u8
+#EXTINF:-1,A&E HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26619.m3u8
+#EXTINF:-1,ABC NEWS
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26621.m3u8
+#EXTINF:-1,ACTIONMAX  HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26620.m3u8
+#EXTINF:-1,AMC HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26618.m3u8
+#EXTINF:-1,AMERICAN HEROES HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26617.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26616.m3u8
+#EXTINF:-1,ANTENNA TV
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26615.m3u8
+#EXTINF:-1,BBC AMERICA HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26614.m3u8
+#EXTINF:-1,BET HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26613.m3u8
+#EXTINF:-1,BET HER
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26611.m3u8
+#EXTINF:-1,BET WEST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26612.m3u8
+#EXTINF:-1,BLOOMBERG
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26607.m3u8
+#EXTINF:-1,BOUNCE TV
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26609.m3u8
+#EXTINF:-1,BRAVO HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26608.m3u8
+#EXTINF:-1,CBS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26605.m3u8
+#EXTINF:-1,CBS NEWS
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26604.m3u8
 #EXTINF:-1,CIENEMAX MOREMAX HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156787.m3u8
-#EXTINF:-1,Cine Sony
-http://31.220.1.190:8080/live/Jessica/Jessica1/149932.m3u8
-#EXTINF:-1,Cinema 01 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/84375.m3u8
-#EXTINF:-1,Cinema 02 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77658.m3u8
-#EXTINF:-1,Cinema 03 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77657.m3u8
-#EXTINF:-1,Cinema 04 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77656.m3u8
-#EXTINF:-1,Cinema 05 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77655.m3u8
-#EXTINF:-1,Cinema 06 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/84376.m3u8
-#EXTINF:-1,Cinema 07 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77653.m3u8
-#EXTINF:-1,Cinema 08 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77652.m3u8
-#EXTINF:-1,Cinema 09 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77651.m3u8
-#EXTINF:-1,Cinema 10 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77650.m3u8
-#EXTINF:-1,Cinema 11 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77649.m3u8
-#EXTINF:-1,Cinema 12 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77648.m3u8
-#EXTINF:-1,Cinema 13 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77647.m3u8
-#EXTINF:-1,Cinema 14 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77646.m3u8
-#EXTINF:-1,Cinema 15 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77645.m3u8
-#EXTINF:-1,Cinema 16 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77644.m3u8
-#EXTINF:-1,Cinema 17 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77643.m3u8
-#EXTINF:-1,Cinema 18 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77642.m3u8
-#EXTINF:-1,Cinema 19 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77641.m3u8
-#EXTINF:-1,Cinema 20 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77640.m3u8
-#EXTINF:-1,Cinema 21 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77639.m3u8
-#EXTINF:-1,Cinema 22 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77638.m3u8
-#EXTINF:-1,Cinema 23 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77637.m3u8
-#EXTINF:-1,Cinema 24 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77636.m3u8
-#EXTINF:-1,Cinema 26 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77634.m3u8
-#EXTINF:-1,Cinema 27 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/102055.m3u8
-#EXTINF:-1,Cinema 28 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77632.m3u8
-#EXTINF:-1,Cinema 29 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77631.m3u8
-#EXTINF:-1,Cinema 30 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77630.m3u8
-#EXTINF:-1,Cinema 32 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77628.m3u8
-#EXTINF:-1,Cinema 33 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77627.m3u8
-#EXTINF:-1,Cinema 34 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77626.m3u8
-#EXTINF:-1,Cinema 35 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77625.m3u8
-#EXTINF:-1,Cinema 36 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77624.m3u8
-#EXTINF:-1,Cinema 37 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77623.m3u8
-#EXTINF:-1,Cinema 38 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77622.m3u8
-#EXTINF:-1,Cinema 39 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77621.m3u8
-#EXTINF:-1,Cinema 40 PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/77620.m3u8
-#EXTINF:-1,CINEMAX 5 STAR MAX HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74927.m3u8
-#EXTINF:-1,Cinemax Action 2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77698.m3u8
-#EXTINF:-1,Cinemax Action East HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/210565.m3u8
-#EXTINF:-1,CINEMAX ACTION FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/65085.m3u8
-#EXTINF:-1,CINEMAX ACTION MAX
-http://31.220.1.190:8080/live/Jessica/Jessica1/159963.m3u8
-#EXTINF:-1,CINEMAX ACTOIN EAST
-http://31.220.1.190:8080/live/Jessica/Jessica1/76560.m3u8
-#EXTINF:-1,CINEMAX MOREMAX FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74853.m3u8
-#EXTINF:-1,CINEMAX OUTER MAX FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77166.m3u8
-#EXTINF:-1,CINEMAX THRILLER FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103708.m3u8
-#EXTINF:-1,Cinemax West FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/102021.m3u8
-#EXTINF:-1,CNBS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/99867.m3u8
-#EXTINF:-1,CNN en Español
-http://31.220.1.190:8080/live/Jessica/Jessica1/149939.m3u8
-#EXTINF:-1,CNN HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/149938.m3u8
-#EXTINF:-1,Comedy Central HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155529.m3u8
-#EXTINF:-1,CP24
-http://31.220.1.190:8080/live/Jessica/Jessica1/103915.m3u8
-#EXTINF:-1,Crime Investigation Discovery FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/176227.m3u8
-#EXTINF:-1,CW
-http://31.220.1.190:8080/live/Jessica/Jessica1/199587.m3u8
-#EXTINF:-1,CW 11
-http://31.220.1.190:8080/live/Jessica/Jessica1/155480.m3u8
-#EXTINF:-1,Discovery Showcase
-http://31.220.1.190:8080/live/Jessica/Jessica1/76450.m3u8
-#EXTINF:-1,Discovery TLC
-http://31.220.1.190:8080/live/Jessica/Jessica1/149950.m3u8
-#EXTINF:-1,District of Columbia Network
-http://31.220.1.190:8080/live/Jessica/Jessica1/91530.m3u8
-#EXTINF:-1,DTX HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/122167.m3u8
-#EXTINF:-1,DW
-http://31.220.1.190:8080/live/Jessica/Jessica1/155509.m3u8
-#EXTINF:-1,E! (West) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/145867.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26546.m3u8
+#EXTINF:-1,CINEMAX EAST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26603.m3u8
+#EXTINF:-1,CINEMAX OUTERMAX HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26601.m3u8
+#EXTINF:-1,CINEMAX THRILLER HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26600.m3u8
+#EXTINF:-1,CINEMAX WEST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26602.m3u8
+#EXTINF:-1,CNBC HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26599.m3u8
+#EXTINF:-1,CNBC WORLD HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26598.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26594.m3u8
+#EXTINF:-1,COOKING CHANNEL HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26595.m3u8
+#EXTINF:-1,CW HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26596.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26591.m3u8
+#EXTINF:-1,DISNEY JR HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26589.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26588.m3u8
+#EXTINF:-1,DIY  NETWORK
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26587.m3u8
 #EXTINF:-1,E! HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103720.m3u8
-#EXTINF:-1,EL Rey Network FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77120.m3u8
-#EXTINF:-1,ELEVEN SPORTS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77121.m3u8
-#EXTINF:-1,EPIX FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77168.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26586.m3u8
+#EXTINF:-1,EL REY NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26585.m3u8
 #EXTINF:-1,EPIX HITS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/117780.m3u8
-#EXTINF:-1,ESPN 1 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74879.m3u8
-#EXTINF:-1,ESPN 3 FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76533.m3u8
-#EXTINF:-1,ESPN Bases Loaded
-http://31.220.1.190:8080/live/Jessica/Jessica1/149963.m3u8
-#EXTINF:-1,ESPN COLLEGE EXTRA 1 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121328.m3u8
-#EXTINF:-1,ESPN COLLEGE EXTRA 2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121329.m3u8
-#EXTINF:-1,ESPN COLLEGE EXTRA 3 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121330.m3u8
-#EXTINF:-1,ESPN COLLEGE EXTRA 5 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121332.m3u8
-#EXTINF:-1,ESPN COLLEGE EXTRA 6 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121333.m3u8
-#EXTINF:-1,ESPN Deportes HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155532.m3u8
-#EXTINF:-1,ESPN Network HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/97652.m3u8
-#EXTINF:-1,ESPN News HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/65083.m3u8
-#EXTINF:-1,ESPN Plus
-http://31.220.1.190:8080/live/Jessica/Jessica1/122172.m3u8
-#EXTINF:-1,ESPN U HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/75113.m3u8
-#EXTINF:-1,FAMILY GUY
-http://31.220.1.190:8080/live/Jessica/Jessica1/101284.m3u8
-#EXTINF:-1,FIGHT Channel HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/98273.m3u8
-#EXTINF:-1,FIGHT SPORT 1 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74913.m3u8
-#EXTINF:-1,FIGHT SPORTS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155466.m3u8
-#EXTINF:-1,Food Network FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74859.m3u8
-#EXTINF:-1,FOX 2 DETROIT HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156732.m3u8
-#EXTINF:-1,FOX 5 D.C. HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134551.m3u8
-#EXTINF:-1,Fox 5 News
-http://31.220.1.190:8080/live/Jessica/Jessica1/208224.m3u8
-#EXTINF:-1,FOX 7 MIAMI HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134553.m3u8
-#EXTINF:-1,FOX 8 NEW ORLEANS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134555.m3u8
-#EXTINF:-1,FOX 13 SEATTLE HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134511.m3u8
-#EXTINF:-1,FOX 26 HOUSTON HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134526.m3u8
-#EXTINF:-1,FOX 29 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/122143.m3u8
-#EXTINF:-1,FOX 32 CHICAGO HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134527.m3u8
-#EXTINF:-1,Fox 59 News
-http://31.220.1.190:8080/live/Jessica/Jessica1/107928.m3u8
-#EXTINF:-1,FOX ATLANTA HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/134550.m3u8
-#EXTINF:-1,FOX Austin
-http://31.220.1.190:8080/live/Jessica/Jessica1/149970.m3u8
-#EXTINF:-1,FOX Baltimore
-http://31.220.1.190:8080/live/Jessica/Jessica1/149971.m3u8
-#EXTINF:-1,FOX Belmont
-http://31.220.1.190:8080/live/Jessica/Jessica1/149972.m3u8
-#EXTINF:-1,FOX Boston
-http://31.220.1.190:8080/live/Jessica/Jessica1/149973.m3u8
-#EXTINF:-1,FOX Buffalo
-http://31.220.1.190:8080/live/Jessica/Jessica1/149974.m3u8
-#EXTINF:-1,FOX Chicago
-http://31.220.1.190:8080/live/Jessica/Jessica1/149976.m3u8
-#EXTINF:-1,FOX Cleveland
-http://31.220.1.190:8080/live/Jessica/Jessica1/149977.m3u8
-#EXTINF:-1,FOX COLLEGE PACIFIC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156701.m3u8
-#EXTINF:-1,FOX COLLEGE SPORTS ATLANTIC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103734.m3u8
-#EXTINF:-1,FOX COLLEGE SPORTS CENTRAL HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103735.m3u8
-#EXTINF:-1,FOX Columbus
-http://31.220.1.190:8080/live/Jessica/Jessica1/149981.m3u8
-#EXTINF:-1,FOX Dallas
-http://31.220.1.190:8080/live/Jessica/Jessica1/149982.m3u8
-#EXTINF:-1,FOX Denver
-http://31.220.1.190:8080/live/Jessica/Jessica1/149983.m3u8
-#EXTINF:-1,FOX Detroit
-http://31.220.1.190:8080/live/Jessica/Jessica1/149985.m3u8
-#EXTINF:-1,FOX Green Bay
-http://31.220.1.190:8080/live/Jessica/Jessica1/149986.m3u8
-#EXTINF:-1,FOX Hartford
-http://31.220.1.190:8080/live/Jessica/Jessica1/149987.m3u8
-#EXTINF:-1,Fox HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156217.m3u8
-#EXTINF:-1,FOX Indianapolis
-http://31.220.1.190:8080/live/Jessica/Jessica1/149989.m3u8
-#EXTINF:-1,FOX Jacksonville
-http://31.220.1.190:8080/live/Jessica/Jessica1/149990.m3u8
-#EXTINF:-1,FOX Kansas City
-http://31.220.1.190:8080/live/Jessica/Jessica1/149991.m3u8
-#EXTINF:-1,FOX Los Angeles
-http://31.220.1.190:8080/live/Jessica/Jessica1/149992.m3u8
-#EXTINF:-1,FOX MEMPHIS
-http://31.220.1.190:8080/live/Jessica/Jessica1/134554.m3u8
-#EXTINF:-1,FOX Miami
-http://31.220.1.190:8080/live/Jessica/Jessica1/149993.m3u8
-#EXTINF:-1,FOX Milwaukee
-http://31.220.1.190:8080/live/Jessica/Jessica1/149994.m3u8
-#EXTINF:-1,FOX Minneapolis
-http://31.220.1.190:8080/live/Jessica/Jessica1/149995.m3u8
-#EXTINF:-1,FOX New Orleans
-http://31.220.1.190:8080/live/Jessica/Jessica1/149997.m3u8
-#EXTINF:-1,FOX New York
-http://31.220.1.190:8080/live/Jessica/Jessica1/149998.m3u8
-#EXTINF:-1,FOX Ocala
-http://31.220.1.190:8080/live/Jessica/Jessica1/150000.m3u8
-#EXTINF:-1,FOX Philadelphia
-http://31.220.1.190:8080/live/Jessica/Jessica1/150002.m3u8
-#EXTINF:-1,FOX Phoenix
-http://31.220.1.190:8080/live/Jessica/Jessica1/150003.m3u8
-#EXTINF:-1,FOX Pittsburgh
-http://31.220.1.190:8080/live/Jessica/Jessica1/150004.m3u8
-#EXTINF:-1,FOX Sacramento
-http://31.220.1.190:8080/live/Jessica/Jessica1/150005.m3u8
-#EXTINF:-1,FOX Salt Lake City
-http://31.220.1.190:8080/live/Jessica/Jessica1/150006.m3u8
-#EXTINF:-1,FOX San Antonio
-http://31.220.1.190:8080/live/Jessica/Jessica1/150007.m3u8
-#EXTINF:-1,FOX San Diego
-http://31.220.1.190:8080/live/Jessica/Jessica1/150008.m3u8
-#EXTINF:-1,FOX San Francisco
-http://31.220.1.190:8080/live/Jessica/Jessica1/150009.m3u8
-#EXTINF:-1,FOX Seattle
-http://31.220.1.190:8080/live/Jessica/Jessica1/150010.m3u8
-#EXTINF:-1,FOX SOCCER SUN FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74908.m3u8
-#EXTINF:-1,FOX SPORTS (ASIA)
-http://31.220.1.190:8080/live/Jessica/Jessica1/92455.m3u8
-#EXTINF:-1,FOX SPORTS (Mid West) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/78327.m3u8
-#EXTINF:-1,FOX SPORTS (South West) Plus
-http://31.220.1.190:8080/live/Jessica/Jessica1/126088.m3u8
-#EXTINF:-1,FOX SPORTS 5
-http://31.220.1.190:8080/live/Jessica/Jessica1/181589.m3u8
-#EXTINF:-1,FOX SPORTS 25 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/92454.m3u8
-#EXTINF:-1,FOX SPORTS 506 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/87777.m3u8
-#EXTINF:-1,FOX SPORTS Carolina HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/152490.m3u8
-#EXTINF:-1,FOX SPORTS CINCINNATI
-http://31.220.1.190:8080/live/Jessica/Jessica1/197394.m3u8
-#EXTINF:-1,FOX SPORTS DEPORTES HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121350.m3u8
-#EXTINF:-1,FOX SPORTS DETROIT PLUS
-http://31.220.1.190:8080/live/Jessica/Jessica1/197693.m3u8
-#EXTINF:-1,FOX SPORTS PRIME TICKET HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/152502.m3u8
-#EXTINF:-1,FOX SPORTS Racing HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155535.m3u8
-#EXTINF:-1,FOX Tampa
-http://31.220.1.190:8080/live/Jessica/Jessica1/150013.m3u8
-#EXTINF:-1,FOX Washington
-http://31.220.1.190:8080/live/Jessica/Jessica1/150014.m3u8
-#EXTINF:-1,FOX WJW CLA HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/138439.m3u8
-#EXTINF:-1,FOXX HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/89083.m3u8
-#EXTINF:-1,Free Speech TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/103923.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26584.m3u8
+#EXTINF:-1,FOOD NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26583.m3u8
+#EXTINF:-1,FOX NEWS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26581.m3u8
 #EXTINF:-1,FREEFORM WEST HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156773.m3u8
-#EXTINF:-1,FS 1
-http://31.220.1.190:8080/live/Jessica/Jessica1/150016.m3u8
-#EXTINF:-1,FS 2
-http://31.220.1.190:8080/live/Jessica/Jessica1/150017.m3u8
-#EXTINF:-1,FUEL HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/98307.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26579.m3u8
+#EXTINF:-1,FUSE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26578.m3u8
+#EXTINF:-1,FX HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26576.m3u8
 #EXTINF:-1,FX WEST HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156775.m3u8
-#EXTINF:-1,FXX FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/150021.m3u8
-#EXTINF:-1,GALAVISION
-http://31.220.1.190:8080/live/Jessica/Jessica1/77150.m3u8
-#EXTINF:-1,Global TV BC
-http://31.220.1.190:8080/live/Jessica/Jessica1/107930.m3u8
-#EXTINF:-1,Global TV Toronto
-http://31.220.1.190:8080/live/Jessica/Jessica1/115237.m3u8
-#EXTINF:-1,Gnix Sports TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/150022.m3u8
-#EXTINF:-1,GOL TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/175565.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26575.m3u8
+#EXTINF:-1,FXM HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26572.m3u8
+#EXTINF:-1,FXX WEST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26573.m3u8
+#EXTINF:-1,FYI HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26570.m3u8
+#EXTINF:-1,GRIT TV
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26568.m3u8
+#EXTINF:-1,GSN
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26569.m3u8
+#EXTINF:-1,HALLMARK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26567.m3u8
+#EXTINF:-1,HALLMARK M&M HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26566.m3u8
+#EXTINF:-1,HBO 2
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26563.m3u8
+#EXTINF:-1,HBO COMEDY HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26559.m3u8
+#EXTINF:-1,HBO EAST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26565.m3u8
+#EXTINF:-1,HBO FAMILY HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26561.m3u8
+#EXTINF:-1,HBO SIGNATURE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26560.m3u8
+#EXTINF:-1,HBO ZONE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26562.m3u8
+#EXTINF:-1,HGTV EAST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26557.m3u8
+#EXTINF:-1,HGTV WEST  HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26556.m3u8
+#EXTINF:-1,HISTORY HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26558.m3u8
+#EXTINF:-1,ABC NEWS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27945.m3u8
+#EXTINF:-1,AHC HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27848.m3u8
+#EXTINF:-1,ANIMAL PLANET HD*
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27946.m3u8
+#EXTINF:-1,BABY TV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27849.m3u8
+#EXTINF:-1,BEIN SPORTS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27944.m3u8
+#EXTINF:-1,BEN FC TV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27874.m3u8
+#EXTINF:-1,BRAVO HD*
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27943.m3u8
+#EXTINF:-1,BTN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27942.m3u8
+#EXTINF:-1,C-SPAN 1 HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27941.m3u8
+#EXTINF:-1,C-SPAN 2 HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27940.m3u8
+#EXTINF:-1,C-SPAN 3 HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27939.m3u8
+#EXTINF:-1,CARTOON NETWORK HD*
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27938.m3u8
+#EXTINF:-1,CBN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27937.m3u8
+#EXTINF:-1,CBN NEWS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27936.m3u8
+#EXTINF:-1,CBS SPORTS NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27935.m3u8
+#EXTINF:-1,CNN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/29642.m3u8
+#EXTINF:-1,CBSN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27934.m3u8
+#EXTINF:-1,CINE SONY HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27873.m3u8
+#EXTINF:-1,CINEMAX EAST HD*
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27933.m3u8
+#EXTINF:-1,Cinemax Thriller Max HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27932.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD*
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27931.m3u8
+#EXTINF:-1,COZI HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27872.m3u8
+#EXTINF:-1,CW HD*
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27930.m3u8
+#EXTINF:-1,DISCOVERY HD*
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27929.m3u8
+#EXTINF:-1,DISCOVERY VELOCITY HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27927.m3u8
+#EXTINF:-1,Disney HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27926.m3u8
+#EXTINF:-1,DIY NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27893.m3u8
+#EXTINF:-1,EL GOURMET HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27871.m3u8
+#EXTINF:-1,EL REY HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27892.m3u8
+#EXTINF:-1,ESPN 2 HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27922.m3u8
+#EXTINF:-1,ESPN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27925.m3u8
+#EXTINF:-1,ESPN NEWS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27924.m3u8
+#EXTINF:-1,ESPN U HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27923.m3u8
+#EXTINF:-1,FIGHT NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27870.m3u8
+#EXTINF:-1,FOX BUSINESS NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27921.m3u8
+#EXTINF:-1,FOX CSA HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27891.m3u8
+#EXTINF:-1,FOX CSC HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27890.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27868.m3u8
+#EXTINF:-1,FOX NEWS HD*
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27920.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27919.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27918.m3u8
+#EXTINF:-1,FUSION HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27889.m3u8
+#EXTINF:-1,GOLF HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27917.m3u8
 #EXTINF:-1,H2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/87704.m3u8
-#EXTINF:-1,Hallmark Movies
-http://31.220.1.190:8080/live/Jessica/Jessica1/94890.m3u8
-#EXTINF:-1,HBO 2 EAST HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/105899.m3u8
-#EXTINF:-1,HBO 2 West FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77693.m3u8
-#EXTINF:-1,HBO Comedy HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/148295.m3u8
-#EXTINF:-1,HBO Family FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156782.m3u8
-#EXTINF:-1,HBO Plus West HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/84377.m3u8
-#EXTINF:-1,HBO Signature FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156783.m3u8
-#EXTINF:-1,HBO Zone FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103755.m3u8
-#EXTINF:-1,HGTV FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103756.m3u8
-#EXTINF:-1,HIFI HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76512.m3u8
-#EXTINF:-1,Hollywood HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/99886.m3u8
-#EXTINF:-1,Home&Health
-http://31.220.1.190:8080/live/Jessica/Jessica1/122178.m3u8
-#EXTINF:-1,Indie Plex HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77690.m3u8
-#EXTINF:-1,INVESTIGATION Discovery HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/98292.m3u8
-#EXTINF:-1,KIDS READING TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/74949.m3u8
-#EXTINF:-1,KNTV TV NBC BAY AREA
-http://31.220.1.190:8080/live/Jessica/Jessica1/92967.m3u8
-#EXTINF:-1,KNVN ACTION NEWS CHICO
-http://31.220.1.190:8080/live/Jessica/Jessica1/92968.m3u8
-#EXTINF:-1,KOKI Fox 23
-http://31.220.1.190:8080/live/Jessica/Jessica1/208241.m3u8
-#EXTINF:-1,KPNX 12 NEWS PHOENIX
-http://31.220.1.190:8080/live/Jessica/Jessica1/92972.m3u8
-#EXTINF:-1,KTVB CHANNEL 7 BOISE
-http://31.220.1.190:8080/live/Jessica/Jessica1/92974.m3u8
-#EXTINF:-1,KTVU News
-http://31.220.1.190:8080/live/Jessica/Jessica1/103943.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27916.m3u8
+#EXTINF:-1,HALLMARK DRAMA HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27852.m3u8
+#EXTINF:-1,HALLMARK MOVIE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27888.m3u8
+#EXTINF:-1,HGTV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27915.m3u8
 #EXTINF:-1,KTVU PLUS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121375.m3u8
-#EXTINF:-1,Lifetime HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/199610.m3u8
-#EXTINF:-1,Lifetime Movie Network HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/98308.m3u8
-#EXTINF:-1,MAVS TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/105908.m3u8
-#EXTINF:-1,Max West
-http://31.220.1.190:8080/live/Jessica/Jessica1/109706.m3u8
-#EXTINF:-1,MGM HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/111180.m3u8
-#EXTINF:-1,MLB Live HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77079.m3u8
-#EXTINF:-1,MLB NETWORK HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/102968.m3u8
-#EXTINF:-1,MLB Strike One
-http://31.220.1.190:8080/live/Jessica/Jessica1/124656.m3u8
-#EXTINF:-1,MODERN FAMILY
-http://31.220.1.190:8080/live/Jessica/Jessica1/101287.m3u8
-#EXTINF:-1,More Max HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/151303.m3u8
-#EXTINF:-1,Movie Max FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77688.m3u8
-#EXTINF:-1,Movie Plex FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77687.m3u8
-#EXTINF:-1,MTV FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/156788.m3u8
-#EXTINF:-1,MTV Hits HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/160055.m3u8
-#EXTINF:-1,Music Choice
-http://31.220.1.190:8080/live/Jessica/Jessica1/91485.m3u8
-#EXTINF:-1,MUSIC CHOICE - OCKO GOLD
-http://31.220.1.190:8080/live/Jessica/Jessica1/123473.m3u8
-#EXTINF:-1,Music Choice - URBAN
-http://31.220.1.190:8080/live/Jessica/Jessica1/151275.m3u8
-#EXTINF:-1,My 24
-http://31.220.1.190:8080/live/Jessica/Jessica1/150035.m3u8
-#EXTINF:-1,My Cuisine
-http://31.220.1.190:8080/live/Jessica/Jessica1/65624.m3u8
-#EXTINF:-1,NESN PLUS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/137893.m3u8
-#EXTINF:-1,Network Pacific
-http://31.220.1.190:8080/live/Jessica/Jessica1/150074.m3u8
-#EXTINF:-1,News 12
-http://31.220.1.190:8080/live/Jessica/Jessica1/155574.m3u8
-#EXTINF:-1,NEWS 12 (BROOKLYN) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/78303.m3u8
-#EXTINF:-1,NEWS 12 (Hudson Valley) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/78304.m3u8
-#EXTINF:-1,NEWS 12 (THE BRONX)
-http://31.220.1.190:8080/live/Jessica/Jessica1/76807.m3u8
-#EXTINF:-1,News Channel 12 KTVZ
-http://31.220.1.190:8080/live/Jessica/Jessica1/92985.m3u8
-#EXTINF:-1,News Channel 21
-http://31.220.1.190:8080/live/Jessica/Jessica1/208229.m3u8
-#EXTINF:-1,News4 (WRC-TV)
-http://31.220.1.190:8080/live/Jessica/Jessica1/92983.m3u8
-#EXTINF:-1,NFL 01
-http://31.220.1.190:8080/live/Jessica/Jessica1/129227.m3u8
-#EXTINF:-1,NFL Arena 02
-http://31.220.1.190:8080/live/Jessica/Jessica1/176376.m3u8
-#EXTINF:-1,NFL Arena 03
-http://31.220.1.190:8080/live/Jessica/Jessica1/176377.m3u8
-#EXTINF:-1,NFL Arena 04
-http://31.220.1.190:8080/live/Jessica/Jessica1/176378.m3u8
-#EXTINF:-1,NFL Arena 05
-http://31.220.1.190:8080/live/Jessica/Jessica1/176379.m3u8
-#EXTINF:-1,NFL Arena 06
-http://31.220.1.190:8080/live/Jessica/Jessica1/176380.m3u8
-#EXTINF:-1,NFL Arena 07
-http://31.220.1.190:8080/live/Jessica/Jessica1/176381.m3u8
-#EXTINF:-1,NFL Arena 08
-http://31.220.1.190:8080/live/Jessica/Jessica1/176382.m3u8
-#EXTINF:-1,NFL Arena 09
-http://31.220.1.190:8080/live/Jessica/Jessica1/176383.m3u8
-#EXTINF:-1,NFL Arena 10
-http://31.220.1.190:8080/live/Jessica/Jessica1/176384.m3u8
-#EXTINF:-1,NFL Arena 11
-http://31.220.1.190:8080/live/Jessica/Jessica1/176385.m3u8
-#EXTINF:-1,NFL Arena 12
-http://31.220.1.190:8080/live/Jessica/Jessica1/176386.m3u8
-#EXTINF:-1,NFL Arena 13
-http://31.220.1.190:8080/live/Jessica/Jessica1/176387.m3u8
-#EXTINF:-1,NFL Arena 14
-http://31.220.1.190:8080/live/Jessica/Jessica1/176388.m3u8
-#EXTINF:-1,NFL Arena 15
-http://31.220.1.190:8080/live/Jessica/Jessica1/176389.m3u8
-#EXTINF:-1,NFL Arena 16
-http://31.220.1.190:8080/live/Jessica/Jessica1/176390.m3u8
-#EXTINF:-1,NFL Channel HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/103956.m3u8
-#EXTINF:-1,PAC-12 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77102.m3u8
-#EXTINF:-1,PAG HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/109708.m3u8
-#EXTINF:-1,PARAMOUNT NETWORK FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/199617.m3u8
-#EXTINF:-1,Prime Pacific
-http://31.220.1.190:8080/live/Jessica/Jessica1/99882.m3u8
-#EXTINF:-1,QVC HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74952.m3u8
-#EXTINF:-1,QVC PLUS HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/160125.m3u8
-#EXTINF:-1,RetroPlex HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77685.m3u8
-#EXTINF:-1,RT America HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76486.m3u8
-#EXTINF:-1,SBG Stadium
-http://31.220.1.190:8080/live/Jessica/Jessica1/150046.m3u8
-#EXTINF:-1,SBG Stadium 2
-http://31.220.1.190:8080/live/Jessica/Jessica1/150048.m3u8
-#EXTINF:-1,SHOWTIME (East) FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/108583.m3u8
-#EXTINF:-1,SHOWTIME (West) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77684.m3u8
-#EXTINF:-1,Showtime 2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76483.m3u8
-#EXTINF:-1,Showtime FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/199618.m3u8
-#EXTINF:-1,Showtime Pacific
-http://31.220.1.190:8080/live/Jessica/Jessica1/150050.m3u8
-#EXTINF:-1,Signature
-http://31.220.1.190:8080/live/Jessica/Jessica1/75117.m3u8
-#EXTINF:-1,SONY MOVIE CHANNEL HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/117736.m3u8
-#EXTINF:-1,Spike TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/199619.m3u8
-#EXTINF:-1,Sports Net
-http://31.220.1.190:8080/live/Jessica/Jessica1/104838.m3u8
-#EXTINF:-1,Sprout
-http://31.220.1.190:8080/live/Jessica/Jessica1/107247.m3u8
-#EXTINF:-1,Starz Black HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77683.m3u8
-#EXTINF:-1,Starz Cinema East FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77682.m3u8
-#EXTINF:-1,Starz Cinema FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76479.m3u8
-#EXTINF:-1,Starz Cinema West FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77680.m3u8
-#EXTINF:-1,Starz Comedy East HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/136566.m3u8
-#EXTINF:-1,Starz East HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/199243.m3u8
-#EXTINF:-1,STARZ EDGE FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76478.m3u8
-#EXTINF:-1,STARZ EDGE West HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77676.m3u8
-#EXTINF:-1,Starz Encore 2 HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77675.m3u8
-#EXTINF:-1,Starz Encore Action
-http://31.220.1.190:8080/live/Jessica/Jessica1/77674.m3u8
-#EXTINF:-1,Starz Encore Black HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77673.m3u8
-#EXTINF:-1,Starz Encore Classic FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77672.m3u8
-#EXTINF:-1,Starz Encore EAST HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/199395.m3u8
-#EXTINF:-1,Starz Encore Family FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/84378.m3u8
-#EXTINF:-1,Starz Encore Suspense HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77668.m3u8
-#EXTINF:-1,Starz Encore West FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77667.m3u8
-#EXTINF:-1,Starz Family HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77665.m3u8
-#EXTINF:-1,Starz FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/97659.m3u8
-#EXTINF:-1,STARZ KIDS & FAMILY FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77158.m3u8
-#EXTINF:-1,Staz West HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77661.m3u8
-#EXTINF:-1,Straz Encore Family HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/136570.m3u8
-#EXTINF:-1,Syfy Pacific
-http://31.220.1.190:8080/live/Jessica/Jessica1/150055.m3u8
-#EXTINF:-1,TELEMUNDO (Chicago) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/124705.m3u8
-#EXTINF:-1,TELEMUNDO (Las Vegas) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/109784.m3u8
-#EXTINF:-1,TELEMUNDO (Miami)
-http://31.220.1.190:8080/live/Jessica/Jessica1/108427.m3u8
-#EXTINF:-1,Telemundo Boston
-http://31.220.1.190:8080/live/Jessica/Jessica1/124704.m3u8
-#EXTINF:-1,Telemundo Dallas
-http://31.220.1.190:8080/live/Jessica/Jessica1/150060.m3u8
-#EXTINF:-1,Telemundo Denver
-http://31.220.1.190:8080/live/Jessica/Jessica1/124706.m3u8
-#EXTINF:-1,Telemundo Fresno
-http://31.220.1.190:8080/live/Jessica/Jessica1/124707.m3u8
-#EXTINF:-1,Telemundo Harlingen
-http://31.220.1.190:8080/live/Jessica/Jessica1/150061.m3u8
-#EXTINF:-1,Telemundo Houston
-http://31.220.1.190:8080/live/Jessica/Jessica1/150062.m3u8
-#EXTINF:-1,TELEMUNDO Las Vegas HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/150063.m3u8
-#EXTINF:-1,TELEMUNDO Los Angeles HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/150064.m3u8
-#EXTINF:-1,TELEMUNDO New York HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/150065.m3u8
-#EXTINF:-1,Telemundo Philadelphia
-http://31.220.1.190:8080/live/Jessica/Jessica1/150066.m3u8
-#EXTINF:-1,Telemundo Phoenix
-http://31.220.1.190:8080/live/Jessica/Jessica1/109797.m3u8
-#EXTINF:-1,Telemundo San Antonio
-http://31.220.1.190:8080/live/Jessica/Jessica1/124709.m3u8
-#EXTINF:-1,Telemundo San Francisco
-http://31.220.1.190:8080/live/Jessica/Jessica1/124710.m3u8
-#EXTINF:-1,Telemundo Tucson
-http://31.220.1.190:8080/live/Jessica/Jessica1/124711.m3u8
-#EXTINF:-1,THE BLAZE HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76422.m3u8
-#EXTINF:-1,THE FLORIDA CHANNEL
-http://31.220.1.190:8080/live/Jessica/Jessica1/155488.m3u8
-#EXTINF:-1,The Golf Channel
-http://31.220.1.190:8080/live/Jessica/Jessica1/150067.m3u8
-#EXTINF:-1,THE JETSONS
-http://31.220.1.190:8080/live/Jessica/Jessica1/101290.m3u8
-#EXTINF:-1,THE PUNISHER
-http://31.220.1.190:8080/live/Jessica/Jessica1/101291.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27894.m3u8
+#EXTINF:-1,LMN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27887.m3u8
+#EXTINF:-1,MAS CHIC HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27867.m3u8
+#EXTINF:-1,MAVTV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27866.m3u8
+#EXTINF:-1,MOTOR TREND HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27865.m3u8
+#EXTINF:-1,MTV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27914.m3u8
+#EXTINF:-1,NAT GEO EAST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27886.m3u8
+#EXTINF:-1,NAT GEO MUNDO HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27864.m3u8
+#EXTINF:-1,NBC HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27913.m3u8
+#EXTINF:-1,NBC SPORTS PLUS CHICAGO HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27863.m3u8
+#EXTINF:-1,NICK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27912.m3u8
+#EXTINF:-1,NICK JR HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27911.m3u8
+#EXTINF:-1,Nicktoons HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27910.m3u8
+#EXTINF:-1,OUTDOOR HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27862.m3u8
+#EXTINF:-1,OUTSIDE TV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27861.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27885.m3u8
+#EXTINF:-1,PBS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27909.m3u8
+#EXTINF:-1,PEOPLE TV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27851.m3u8
+#EXTINF:-1,POP HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27884.m3u8
+#EXTINF:-1,RTP INTERNATIONAL HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27860.m3u8
+#EXTINF:-1,SCIENCE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27928.m3u8
+#EXTINF:-1,SHOWTIME SHOWCASE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27882.m3u8
+#EXTINF:-1,SHOWTIME WEST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27883.m3u8
+#EXTINF:-1,SN CENTRAL HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27908.m3u8
+#EXTINF:-1,SONY MOVIES HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27850.m3u8
+#EXTINF:-1,SPIKE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27907.m3u8
+#EXTINF:-1,SPORTS ILLUSTRATED (SITV ) HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27859.m3u8
+#EXTINF:-1,SPORTS MAN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27858.m3u8
+#EXTINF:-1,STARZ EAST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27906.m3u8
+#EXTINF:-1,Starz Edge HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27905.m3u8
+#EXTINF:-1,STARZ ENCORE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27881.m3u8
+#EXTINF:-1,Starz HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27904.m3u8
+#EXTINF:-1,Starz Kids & Family
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27903.m3u8
+#EXTINF:-1,SUNDANCE HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27857.m3u8
+#EXTINF:-1,TELEMONDO HD SP
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27880.m3u8
+#EXTINF:-1,TELEXITOS HD SP
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27879.m3u8
+#EXTINF:-1,TENNIS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27902.m3u8
 #EXTINF:-1,THE WEATHER CHANNEL HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74925.m3u8
-#EXTINF:-1,THRILLER MAX HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/160153.m3u8
-#EXTINF:-1,TNT (East) HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/108596.m3u8
-#EXTINF:-1,TNT Pacific
-http://31.220.1.190:8080/live/Jessica/Jessica1/124712.m3u8
-#EXTINF:-1,Toon Kids HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/104106.m3u8
-#EXTINF:-1,Toonami Aftermath
-http://31.220.1.190:8080/live/Jessica/Jessica1/109714.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27901.m3u8
+#EXTINF:-1,TNT HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27900.m3u8
+#EXTINF:-1,TYC  SPORTS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27878.m3u8
+#EXTINF:-1,UNIVERSAL HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27899.m3u8
+#EXTINF:-1,UNIVERSO HD SP
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27877.m3u8
+#EXTINF:-1,UNIVISION DEP HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27898.m3u8
+#EXTINF:-1,UNIVISION DEPROTES HD SP
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27876.m3u8
+#EXTINF:-1,UNIVISION HD SP
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27875.m3u8
+#EXTINF:-1,VH1 HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27897.m3u8
+#EXTINF:-1,WE TV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27856.m3u8
+#EXTINF:-1,WETV HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27855.m3u8
+#EXTINF:-1,WGN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27895.m3u8
+#EXTINF:-1,WL NY HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27854.m3u8
+#EXTINF:-1,WORLD FISHING NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27853.m3u8
+#EXTINF:-1,ION TELEVISION
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26554.m3u8
+#EXTINF:-1,LIFETIME HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26551.m3u8
+#EXTINF:-1,LIFETIME MOVIES HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26550.m3u8
+#EXTINF:-1,ME TV
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26549.m3u8
+#EXTINF:-1,MLB NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26547.m3u8
+#EXTINF:-1,MSNBC HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26544.m3u8
+#EXTINF:-1,MTV
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26545.m3u8
+#EXTINF:-1,NAT GEO HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26543.m3u8
+#EXTINF:-1,NAT GEO WEST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26542.m3u8
+#EXTINF:-1,NBC
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26539.m3u8
+#EXTINF:-1,NBCSN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26538.m3u8
+#EXTINF:-1,NICK JR
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26535.m3u8
+#EXTINF:-1,NICKELODEN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26537.m3u8
+#EXTINF:-1,NICKTOONS
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26536.m3u8
+#EXTINF:-1,OXYGEN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26533.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26532.m3u8
+#EXTINF:-1,PBS KIDS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26531.m3u8
+#EXTINF:-1,REVOLT HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26530.m3u8
+#EXTINF:-1,SEC NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26528.m3u8
+#EXTINF:-1,SHOWTIME 2 HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26525.m3u8
+#EXTINF:-1,SHOWTIME EAST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26527.m3u8
+#EXTINF:-1,SHOWTIME EXTREME HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26524.m3u8
+#EXTINF:-1,STARZ  CINEMA
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26517.m3u8
+#EXTINF:-1,STARZ COMEDY
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26520.m3u8
+#EXTINF:-1,STARZ EAST
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26521.m3u8
+#EXTINF:-1,STARZ EDGE
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26519.m3u8
+#EXTINF:-1,STARZ ENCORE WESTERN
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26518.m3u8
+#EXTINF:-1,STARZ KIDS AND FAMILY
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26516.m3u8
+#EXTINF:-1,SYFY HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26515.m3u8
+#EXTINF:-1,TBS HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26514.m3u8
+#EXTINF:-1,TCM HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26513.m3u8
+#EXTINF:-1,TELEMUNDO
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26626.m3u8
+#EXTINF:-1,TLC HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26512.m3u8
+#EXTINF:-1,TNT EAST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26511.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26510.m3u8
 #EXTINF:-1,TRU TV HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74937.m3u8
-#EXTINF:-1,TV LAND Classic HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/105153.m3u8
-#EXTINF:-1,TV Land HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76468.m3u8
-#EXTINF:-1,UC TV
-http://31.220.1.190:8080/live/Jessica/Jessica1/109716.m3u8
-#EXTINF:-1,UFC Fight Pass HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/76764.m3u8
-#EXTINF:-1,UFC NETWORK HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/102015.m3u8
-#EXTINF:-1,Univision (Los Angeles) FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/102060.m3u8
-#EXTINF:-1,Velocity FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/151750.m3u8
-#EXTINF:-1,Versus NBA
-http://31.220.1.190:8080/live/Jessica/Jessica1/80020.m3u8
-#EXTINF:-1,VEVO FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/108905.m3u8
-#EXTINF:-1,VH1 (West)
-http://31.220.1.190:8080/live/Jessica/Jessica1/78294.m3u8
-#EXTINF:-1,VH1 Classic
-http://31.220.1.190:8080/live/Jessica/Jessica1/76464.m3u8
-#EXTINF:-1,VH1 FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/78295.m3u8
-#EXTINF:-1,WCCB News
-http://31.220.1.190:8080/live/Jessica/Jessica1/208230.m3u8
-#EXTINF:-1,WCNC Breaking News
-http://31.220.1.190:8080/live/Jessica/Jessica1/92990.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26509.m3u8
+#EXTINF:-1,TRU TV WEST HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26508.m3u8
+#EXTINF:-1,TV LAND HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26507.m3u8
+#EXTINF:-1,TV ONE
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26506.m3u8
+#EXTINF:-1,UNIVISION HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26623.m3u8
+#EXTINF:-1,UNIVISION TDN HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26622.m3u8
+#EXTINF:-1,USA NETWORK HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26505.m3u8
+#EXTINF:-1,VH1
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26501.m3u8
+#EXTINF:-1,VICELAND HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26502.m3u8
+#EXTINF:-1,WAPA
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26499.m3u8
+#EXTINF:-1,WAPA 2
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26498.m3u8
 #EXTINF:-1,WEATHER CHANNEL HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/155634.m3u8
-#EXTINF:-1,WEATHER NATION
-http://31.220.1.190:8080/live/Jessica/Jessica1/92485.m3u8
-#EXTINF:-1,WGN News Chicago
-http://31.220.1.190:8080/live/Jessica/Jessica1/107945.m3u8
-#EXTINF:-1,Wild HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/74861.m3u8
-#EXTINF:-1,Willow HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/64306.m3u8
-#EXTINF:-1,WSOC 9 News
-http://31.220.1.190:8080/live/Jessica/Jessica1/208232.m3u8
-#EXTINF:-1,WTTG-TV FOX 5 (WASHINGTON)
-http://31.220.1.190:8080/live/Jessica/Jessica1/92970.m3u8
-#EXTINF:-1,WUSA9 Breaking News
-http://31.220.1.190:8080/live/Jessica/Jessica1/92991.m3u8
-#EXTINF:-1,WWE HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/77082.m3u8
-#EXTINF:-1,WWE Network FHD
-http://31.220.1.190:8080/live/Jessica/Jessica1/199635.m3u8
-#EXTINF:-1,WWE Network HD NXT
-http://31.220.1.190:8080/live/Jessica/Jessica1/155557.m3u8
-#EXTINF:-1,WWE PPV
-http://31.220.1.190:8080/live/Jessica/Jessica1/105157.m3u8
-#EXTINF:-1,WWE US
-http://31.220.1.190:8080/live/Jessica/Jessica1/208246.m3u8
-#EXTINF:-1,WXXV 25 GULFPORT (MS)
-http://31.220.1.190:8080/live/Jessica/Jessica1/123273.m3u8
-#EXTINF:-1,XITE HD
-http://31.220.1.190:8080/live/Jessica/Jessica1/121430.m3u8
-#EXTINF:-1,Zone
-http://31.220.1.190:8080/live/Jessica/Jessica1/75118.m3u8
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26497.m3u8
+#EXTINF:-1,WGN AMERICA HD
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26496.m3u8
+#EXTINF:-1,DW
+http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/25167.m3u8
