@@ -1,238 +1,242 @@
 #EXTM3U
-
-#EXTINF:-1,MOTORVISION
-http://iptv.mecccam.com:8010/live/Andre/Andre/2093.m3u8
-#EXTINF:-1,Sky Cinema
-http://iptv.mecccam.com:8010/live/Andre/Andre/7760.m3u8
-#EXTINF:-1,Sky Cinema +1
-http://iptv.mecccam.com:8010/live/Andre/Andre/7744.m3u8
-#EXTINF:-1,Sky Cinema +1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/7745.m3u8
-#EXTINF:-1,Sky Cinema +24
-http://iptv.mecccam.com:8010/live/Andre/Andre/7746.m3u8
-#EXTINF:-1,Sky Cinema Action
-http://iptv.mecccam.com:8010/live/Andre/Andre/7747.m3u8
-#EXTINF:-1,Sky Cinema Awards
-http://iptv.mecccam.com:8010/live/Andre/Andre/7748.m3u8
-#EXTINF:-1,Sky Cinema Family
-http://iptv.mecccam.com:8010/live/Andre/Andre/7749.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/7750.m3u8
-#EXTINF:-1,Sky Cinema Nostalgie
-http://iptv.mecccam.com:8010/live/Andre/Andre/7751.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/406.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/405.m3u8
-#EXTINF:-1,SKY Cinema  +24 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1076.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/400.m3u8
-#EXTINF:-1,Sky Comedy HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/399.m3u8
-#EXTINF:-1,SKY Emotion HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/395.m3u8
-#EXTINF:-1,SKY Cinema Hits HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1077.m3u8
-#EXTINF:-1,Kabel 1 Classics
-http://iptv.mecccam.com:8010/live/Andre/Andre/5596.m3u8
-#EXTINF:-1,SKY 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5594.m3u8
-#EXTINF:-1,RTL Living HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1420.m3u8
-#EXTINF:-1,RTL NITRO
-http://iptv.mecccam.com:8010/live/Andre/Andre/409.m3u8
-#EXTINF:-1,RTL PASSION FHD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1212.m3u8
-#EXTINF:-1,Sat 1 Gold
-http://iptv.mecccam.com:8010/live/Andre/Andre/2089.m3u8
-#EXTINF:-1,SAT 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1200.m3u8
-#EXTINF:-1,3Sat HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8654.m3u8
-#EXTINF:-1,Anixe HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8660.m3u8
-#EXTINF:-1,ARD HD DE
-http://iptv.mecccam.com:8010/live/Andre/Andre/8663.m3u8
-#EXTINF:-1,HR HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8655.m3u8
-#EXTINF:-1,Kabel 1 DOKU
-http://iptv.mecccam.com:8010/live/Andre/Andre/8662.m3u8
-#EXTINF:-1,MDR HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8656.m3u8
-#EXTINF:-1,N24 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8657.m3u8
-#EXTINF:-1,NTV HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8658.m3u8
-#EXTINF:-1,Phoenix HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8659.m3u8
-#EXTINF:-1,Sky FOX SERIE
-http://iptv.mecccam.com:8010/live/Andre/Andre/8665.m3u8
-#EXTINF:-1,Sky Sony HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8666.m3u8
-#EXTINF:-1,Sport 1  HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8664.m3u8
-#EXTINF:-1,ZDF Neo HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8661.m3u8
-#EXTINF:-1,SIXX
-http://iptv.mecccam.com:8010/live/Andre/Andre/1197.m3u8
-#EXTINF:-1,Jukebox
-http://iptv.mecccam.com:8010/live/Andre/Andre/7756.m3u8
-#EXTINF:-1,Spiegel TV Wissen
-http://iptv.mecccam.com:8010/live/Andre/Andre/7754.m3u8
-#EXTINF:-1,SKY KRIMI
-http://iptv.mecccam.com:8010/live/Andre/Andre/391.m3u8
-#EXTINF:-1,SKY SELECT 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/387.m3u8
-#EXTINF:-1,SKY SELECT 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/385.m3u8
-#EXTINF:-1,SKY SELECT 3 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/384.m3u8
-#EXTINF:-1,SKY SELECT 4 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/383.m3u8
-#EXTINF:-1,SKY SELECT 5 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/382.m3u8
-#EXTINF:-1,SKY SELECT 6 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/381.m3u8
-#EXTINF:-1,SKY SELECT 7 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/380.m3u8
-#EXTINF:-1,SKY SELECT 9 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1754.m3u8
-#EXTINF:-1,Spiegel Geschichte HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1497.m3u8
-#EXTINF:-1,SUPER RTL
-http://iptv.mecccam.com:8010/live/Andre/Andre/1194.m3u8
-#EXTINF:-1,Disney XD
-http://iptv.mecccam.com:8010/live/Andre/Andre/7758.m3u8
-#EXTINF:-1,Disney Cinemagic HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/393.m3u8
-#EXTINF:-1,Disney Junior HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1079.m3u8
-#EXTINF:-1,TELE 5 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2769.m3u8
-#EXTINF:-1,TNT Serie HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2773.m3u8
-#EXTINF:-1,Universal Channel HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2621.m3u8
-#EXTINF:-1,VOX HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/415.m3u8
-#EXTINF:-1,Discovery channel HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/397.m3u8
-#EXTINF:-1,SyFy HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2836.m3u8
 #EXTINF:-1,13TH Street
-http://iptv.mecccam.com:8010/live/Andre/Andre/407.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/407.m3u8
 #EXTINF:-1,A&E
-http://iptv.mecccam.com:8010/live/Andre/Andre/2092.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2092.m3u8
 #EXTINF:-1,AXN HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/496.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/496.m3u8
 #EXTINF:-1,Boomerang
-http://iptv.mecccam.com:8010/live/Andre/Andre/2594.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2594.m3u8
 #EXTINF:-1,Das Erste
-http://iptv.mecccam.com:8010/live/Andre/Andre/1210.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1210.m3u8
+#EXTINF:-1,Discovery channel HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/397.m3u8
+#EXTINF:-1,Disney Cinemagic HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/393.m3u8
+#EXTINF:-1,Disney Junior HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1079.m3u8
 #EXTINF:-1,DMAX
-http://iptv.mecccam.com:8010/live/Andre/Andre/1192.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1192.m3u8
 #EXTINF:-1,FOX HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/371.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/371.m3u8
+#EXTINF:-1,Sky Cinema
+http://iptv.mecccam.com:8010/live/luisete/luisete/7760.m3u8
+#EXTINF:-1,Sky Cinema +1
+http://iptv.mecccam.com:8010/live/luisete/luisete/7744.m3u8
+#EXTINF:-1,Sky Cinema +1 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/7745.m3u8
+#EXTINF:-1,Sky Cinema +24
+http://iptv.mecccam.com:8010/live/luisete/luisete/7746.m3u8
+#EXTINF:-1,Sky Cinema Action
+http://iptv.mecccam.com:8010/live/luisete/luisete/7747.m3u8
+#EXTINF:-1,Sky Cinema Awards
+http://iptv.mecccam.com:8010/live/luisete/luisete/7748.m3u8
+#EXTINF:-1,Sky Cinema Family
+http://iptv.mecccam.com:8010/live/luisete/luisete/7749.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/7750.m3u8
+#EXTINF:-1,Sky Cinema Nostalgie
+http://iptv.mecccam.com:8010/live/luisete/luisete/7751.m3u8
 #EXTINF:-1,Heimatkanal
-http://iptv.mecccam.com:8010/live/Andre/Andre/2774.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2774.m3u8
 #EXTINF:-1,History Channel HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2094.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2094.m3u8
 #EXTINF:-1,Kabel1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/404.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/404.m3u8
 #EXTINF:-1,Kika
-http://iptv.mecccam.com:8010/live/Andre/Andre/1425.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1425.m3u8
+#EXTINF:-1,3Sat HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8654.m3u8
+#EXTINF:-1,Anixe HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8660.m3u8
+#EXTINF:-1,ARD HD DE
+http://iptv.mecccam.com:8010/live/luisete/luisete/8663.m3u8
+#EXTINF:-1,HR HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8655.m3u8
+#EXTINF:-1,Kabel 1 DOKU
+http://iptv.mecccam.com:8010/live/luisete/luisete/8662.m3u8
+#EXTINF:-1,MDR HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8656.m3u8
+#EXTINF:-1,N24 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8657.m3u8
+#EXTINF:-1,NTV HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8658.m3u8
+#EXTINF:-1,Phoenix HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8659.m3u8
+#EXTINF:-1,Sky FOX SERIE
+http://iptv.mecccam.com:8010/live/luisete/luisete/8665.m3u8
+#EXTINF:-1,Sky Sony HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8666.m3u8
+#EXTINF:-1,Sport 1  HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8664.m3u8
+#EXTINF:-1,ZDF Neo HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8661.m3u8
+#EXTINF:-1,PK: Geo Super
+http://iptv.mecccam.com:8010/live/luisete/luisete/8634.m3u8
+#EXTINF:-1,PK: PTV SPORTS
+http://iptv.mecccam.com:8010/live/luisete/luisete/8633.m3u8
 #EXTINF:-1,Kinowelt TV HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/3223.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/3223.m3u8
+#EXTINF:-1,MOTORVISION
+http://iptv.mecccam.com:8010/live/luisete/luisete/2093.m3u8
 #EXTINF:-1,Nat Geo Wild HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/864.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/864.m3u8
 #EXTINF:-1,NatGeo HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/389.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/389.m3u8
 #EXTINF:-1,NDR HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2097.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2097.m3u8
 #EXTINF:-1,ORF 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/3115.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/3115.m3u8
 #EXTINF:-1,ORF1
-http://iptv.mecccam.com:8010/live/Andre/Andre/1426.m3u8
-#EXTINF:-1,ZEE ONE
-http://iptv.mecccam.com:8010/live/Andre/Andre/8452.m3u8
-#EXTINF:-1,Zee one FHD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8454.m3u8
-#EXTINF:-1,Zee one HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/8453.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1426.m3u8
 #EXTINF:-1,Pro 7 Maxx HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1213.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1213.m3u8
 #EXTINF:-1,ProSieben HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1191.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1191.m3u8
 #EXTINF:-1,RomanceTV
-http://iptv.mecccam.com:8010/live/Andre/Andre/1753.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1753.m3u8
 #EXTINF:-1,RTL 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/411.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/411.m3u8
 #EXTINF:-1,RTL Crime HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2776.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2776.m3u8
 #EXTINF:-1,RTL HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/410.m3u8
-#EXTINF:-1,ZDF HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1424.m3u8
-#EXTINF:-1,TLC HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2778.m3u8
-#EXTINF:-1,TNT Comedy HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2772.m3u8
-#EXTINF:-1,TNT Film HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/495.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/410.m3u8
+#EXTINF:-1,RTL Living HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1420.m3u8
+#EXTINF:-1,RTL NITRO
+http://iptv.mecccam.com:8010/live/luisete/luisete/409.m3u8
+#EXTINF:-1,RTL PASSION FHD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1212.m3u8
+#EXTINF:-1,Sat 1 Gold
+http://iptv.mecccam.com:8010/live/luisete/luisete/2089.m3u8
+#EXTINF:-1,SAT 1 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1200.m3u8
+#EXTINF:-1,SIXX
+http://iptv.mecccam.com:8010/live/luisete/luisete/1197.m3u8
+#EXTINF:-1,ZEE ONE
+http://iptv.mecccam.com:8010/live/luisete/luisete/8452.m3u8
+#EXTINF:-1,Zee one HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8453.m3u8
+#EXTINF:-1,Zee one FHD
+http://iptv.mecccam.com:8010/live/luisete/luisete/8454.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/405.m3u8
 #EXTINF:-1,DAZN 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5597.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/5597.m3u8
 #EXTINF:-1,DAZN 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5598.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/5598.m3u8
 #EXTINF:-1,Eurosport 2 Xtra HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5338.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/5338.m3u8
 #EXTINF:-1,Sky Bundesliga 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/403.m3u8
-#EXTINF:-1,Sky Bundesliga 10 HD (during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/1840.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/403.m3u8
 #EXTINF:-1,Sky Bundesliga 2 HD ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/1421.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1421.m3u8
 #EXTINF:-1,Sky Bundesliga 3 HD ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/1422.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1422.m3u8
 #EXTINF:-1,Sky Bundesliga 4 HD ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/1423.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1423.m3u8
 #EXTINF:-1,Sky Bundesliga 5 HD ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/1835.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1835.m3u8
 #EXTINF:-1,Sky Bundesliga 6 HD ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/1836.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1836.m3u8
 #EXTINF:-1,Sky Bundesliga 7 HD ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/1837.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1837.m3u8
 #EXTINF:-1,Sky Bundesliga 8 HD (during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/1838.m3u8
-#EXTINF:-1,Sky Sport Austria HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/412.m3u8
-#EXTINF:-1,Sky Sports News HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/416.m3u8
-#EXTINF:-1,Sky Sport 1
-http://iptv.mecccam.com:8010/live/Andre/Andre/7752.m3u8
-#EXTINF:-1,Sky Sport 2
-http://iptv.mecccam.com:8010/live/Andre/Andre/7753.m3u8
-#EXTINF:-1,Sky Sport Austria
-http://iptv.mecccam.com:8010/live/Andre/Andre/7761.m3u8
-#EXTINF:-1,Sport1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/374.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/1838.m3u8
+#EXTINF:-1,Sky Bundesliga 10 HD (during match )
+http://iptv.mecccam.com:8010/live/luisete/luisete/1840.m3u8
+#EXTINF:-1,SKY Cinema  +24 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1076.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/406.m3u8
+#EXTINF:-1,Sky Cinema HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/400.m3u8
+#EXTINF:-1,SKY Cinema Hits HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1077.m3u8
+#EXTINF:-1,Sky Comedy HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/399.m3u8
+#EXTINF:-1,SKY Emotion HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/395.m3u8
+#EXTINF:-1,SKY KRIMI
+http://iptv.mecccam.com:8010/live/luisete/luisete/391.m3u8
+#EXTINF:-1,SKY SELECT 1 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/387.m3u8
+#EXTINF:-1,SKY SELECT 2 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/385.m3u8
+#EXTINF:-1,SKY SELECT 3 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/384.m3u8
+#EXTINF:-1,SKY SELECT 4 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/383.m3u8
+#EXTINF:-1,SKY SELECT 5 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/382.m3u8
+#EXTINF:-1,SKY SELECT 6 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/381.m3u8
+#EXTINF:-1,SKY SELECT 7 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/380.m3u8
+#EXTINF:-1,SKY SELECT 9 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1754.m3u8
 #EXTINF:-1,Sky Sport 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/376.m3u8
-#EXTINF:-1,SKY SPORT 10 ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/2266.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/376.m3u8
 #EXTINF:-1,Sky Sport 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/375.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/375.m3u8
 #EXTINF:-1,SKY SPORT 3 ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/2259.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2259.m3u8
 #EXTINF:-1,SKY SPORT 4 ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/2260.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2260.m3u8
 #EXTINF:-1,SKY SPORT 5 ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/2261.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2261.m3u8
 #EXTINF:-1,SKY SPORT 6 ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/2262.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2262.m3u8
 #EXTINF:-1,SKY SPORT 7 ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/2263.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2263.m3u8
 #EXTINF:-1,SKY SPORT 8 ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/2264.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2264.m3u8
 #EXTINF:-1,SKY SPORT 9 ( during match )
-http://iptv.mecccam.com:8010/live/Andre/Andre/2265.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/2265.m3u8
+#EXTINF:-1,SKY SPORT 10 ( during match )
+http://iptv.mecccam.com:8010/live/luisete/luisete/2266.m3u8
+#EXTINF:-1,Sky Sport Austria HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/412.m3u8
+#EXTINF:-1,Sky Sports News HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/416.m3u8
+#EXTINF:-1,Spiegel Geschichte HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1497.m3u8
+#EXTINF:-1,Sport1 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/374.m3u8
+#EXTINF:-1,SUPER RTL
+http://iptv.mecccam.com:8010/live/luisete/luisete/1194.m3u8
+#EXTINF:-1,SyFy HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/2836.m3u8
+#EXTINF:-1,TELE 5 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/2769.m3u8
+#EXTINF:-1,TLC HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/2778.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/2772.m3u8
+#EXTINF:-1,TNT Film HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/495.m3u8
+#EXTINF:-1,TNT Serie HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/2773.m3u8
+#EXTINF:-1,Universal Channel HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/2621.m3u8
+#EXTINF:-1,VOX HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/415.m3u8
+#EXTINF:-1,Kabel 1 Classics
+http://iptv.mecccam.com:8010/live/luisete/luisete/5596.m3u8
+#EXTINF:-1,SKY 1 HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/5594.m3u8
+#EXTINF:-1,Disney XD
+http://iptv.mecccam.com:8010/live/luisete/luisete/7758.m3u8
+#EXTINF:-1,Jukebox
+http://iptv.mecccam.com:8010/live/luisete/luisete/7756.m3u8
+
+#EXTINF:-1,Sky Sport 1
+http://iptv.mecccam.com:8010/live/luisete/luisete/7752.m3u8
+#EXTINF:-1,Sky Sport 2
+http://iptv.mecccam.com:8010/live/luisete/luisete/7753.m3u8
+#EXTINF:-1,Sky Sport Austria
+http://iptv.mecccam.com:8010/live/luisete/luisete/7761.m3u8
+#EXTINF:-1,Spiegel TV Wissen
+http://iptv.mecccam.com:8010/live/luisete/luisete/7754.m3u8
+#EXTINF:-1,ZDF HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/1424.m3u8
