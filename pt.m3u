@@ -1,277 +1,49 @@
 #EXTM3U
-#EXTINF:-1,TVCine 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/785.m3u8
-#EXTINF:-1,TVCine 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/784.m3u8
-#EXTINF:-1,TVCine 3 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/790.m3u8
-#EXTINF:-1,TVCine 4 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/789.m3u8
-#EXTINF:-1,TVCine 1
-http://iptv.mecccam.com:8010/live/Andre/Andre/7714.m3u8
-#EXTINF:-1,TVCine 2
-http://iptv.mecccam.com:8010/live/Andre/Andre/7713.m3u8
-#EXTINF:-1,TVCine 3
-http://iptv.mecccam.com:8010/live/Andre/Andre/7712.m3u8
-#EXTINF:-1,TVCine 4
-http://iptv.mecccam.com:8010/live/Andre/Andre/7711.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/3847.m3u8
-#EXTINF:-1,FOX Movies
-http://iptv.mecccam.com:8010/live/Andre/Andre/818.m3u8
-#EXTINF:-1,CMTV
-http://iptv.mecccam.com:8010/live/Andre/Andre/8456.m3u8
-#EXTINF:-1,CINEMUNDO
-http://iptv.mecccam.com:8010/live/Andre/Andre/1452.m3u8
 #EXTINF:-1,AMC
-http://iptv.mecccam.com:8010/live/Andre/Andre/6834.m3u8
-#EXTINF:-1,AMC HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1453.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1129.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6834.m3u8
 #EXTINF:-1,BBC Entertainment
-http://iptv.mecccam.com:8010/live/Andre/Andre/6837.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6837.m3u8
 #EXTINF:-1,BBC World News
-http://iptv.mecccam.com:8010/live/Andre/Andre/6838.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6838.m3u8
 #EXTINF:-1,Biggs
-http://iptv.mecccam.com:8010/live/Andre/Andre/6839.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6839.m3u8
 #EXTINF:-1,Blaze
-http://iptv.mecccam.com:8010/live/Andre/Andre/6840.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6840.m3u8
 #EXTINF:-1,Bloomberg
-http://iptv.mecccam.com:8010/live/Andre/Andre/6841.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6841.m3u8
 #EXTINF:-1,Calavision
-http://iptv.mecccam.com:8010/live/Andre/Andre/6842.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6842.m3u8
 #EXTINF:-1,Canlao Nova
-http://iptv.mecccam.com:8010/live/Andre/Andre/6843.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6843.m3u8
 #EXTINF:-1,Cartoon Network
-http://iptv.mecccam.com:8010/live/Andre/Andre/6844.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6844.m3u8
 #EXTINF:-1,CNBC Europe
-http://iptv.mecccam.com:8010/live/Andre/Andre/6845.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6845.m3u8
 #EXTINF:-1,CNN
-http://iptv.mecccam.com:8010/live/Andre/Andre/6846.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6846.m3u8
 #EXTINF:-1,Eurochannel
-http://iptv.mecccam.com:8010/live/Andre/Andre/6847.m3u8
-#EXTINF:-1,FOX News
-http://iptv.mecccam.com:8010/live/Andre/Andre/6849.m3u8
-#EXTINF:-1,Globo
-http://iptv.mecccam.com:8010/live/Andre/Andre/6851.m3u8
-#EXTINF:-1,Globo Now
-http://iptv.mecccam.com:8010/live/Andre/Andre/6852.m3u8
-#EXTINF:-1,Histðria
-http://iptv.mecccam.com:8010/live/Andre/Andre/6853.m3u8
-#EXTINF:-1,Hollywood HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6854.m3u8
-#EXTINF:-1,Mezzo
-http://iptv.mecccam.com:8010/live/Andre/Andre/6856.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://iptv.mecccam.com:8010/live/Andre/Andre/6858.m3u8
-#EXTINF:-1,National Geographic HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6859.m3u8
-#EXTINF:-1,Nick Jr.
-http://iptv.mecccam.com:8010/live/Andre/Andre/6860.m3u8
-#EXTINF:-1,Real Madrid TV
-http://iptv.mecccam.com:8010/live/Andre/Andre/6861.m3u8
-#EXTINF:-1,TVSeries
-http://iptv.mecccam.com:8010/live/Andre/Andre/6862.m3u8
-#EXTINF:-1,SIC
-http://iptv.mecccam.com:8010/live/Andre/Andre/6823.m3u8
-#EXTINF:-1,TVI HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6822.m3u8
-#EXTINF:-1,RTP 1
-http://iptv.mecccam.com:8010/live/Andre/Andre/806.m3u8
-#EXTINF:-1,RTP 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6825.m3u8
-#EXTINF:-1,RTP 2
-http://iptv.mecccam.com:8010/live/Andre/Andre/805.m3u8
-#EXTINF:-1,RTP 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6824.m3u8
-#EXTINF:-1,RTP 3
-http://iptv.mecccam.com:8010/live/Andre/Andre/1108.m3u8
-#EXTINF:-1,RTP AÇORES
-http://iptv.mecccam.com:8010/live/Andre/Andre/1434.m3u8
-#EXTINF:-1,RTP ÁFRICA
-http://iptv.mecccam.com:8010/live/Andre/Andre/1433.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://iptv.mecccam.com:8010/live/Andre/Andre/1116.m3u8
-#EXTINF:-1,RTP MEMÓRIA
-http://iptv.mecccam.com:8010/live/Andre/Andre/1435.m3u8
-#EXTINF:-1,SIC HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/800.m3u8
-#EXTINF:-1,SIC CARAS
-http://iptv.mecccam.com:8010/live/Andre/Andre/2881.m3u8
-#EXTINF:-1,SIC MULHER
-http://iptv.mecccam.com:8010/live/Andre/Andre/1430.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://iptv.mecccam.com:8010/live/Andre/Andre/1126.m3u8
-#EXTINF:-1,SIC RADICAL
-http://iptv.mecccam.com:8010/live/Andre/Andre/1127.m3u8
-#EXTINF:-1,A BOLA TV
-http://iptv.mecccam.com:8010/live/Andre/Andre/1446.m3u8
-#EXTINF:-1,TVI
-http://iptv.mecccam.com:8010/live/Andre/Andre/1427.m3u8
-#EXTINF:-1,TVI 24
-http://iptv.mecccam.com:8010/live/Andre/Andre/1428.m3u8
-#EXTINF:-1,TVI Ficção
-http://iptv.mecccam.com:8010/live/Andre/Andre/3444.m3u8
-#EXTINF:-1,TVI REALITY
-http://iptv.mecccam.com:8010/live/Andre/Andre/1457.m3u8
-#EXTINF:-1,24 KITCHEN FHD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1458.m3u8
-#EXTINF:-1,AXN HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1109.m3u8
-#EXTINF:-1,A&E
-http://iptv.mecccam.com:8010/live/Andre/Andre/1459.m3u8
-#EXTINF:-1,AFRO MUSIC
-http://iptv.mecccam.com:8010/live/Andre/Andre/2759.m3u8
-#EXTINF:-1,AXN Black HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1438.m3u8
-#EXTINF:-1,AXN WHITE
-http://iptv.mecccam.com:8010/live/Andre/Andre/1110.m3u8
-#EXTINF:-1,CANAL HISTÓRIA
-http://iptv.mecccam.com:8010/live/Andre/Andre/1464.m3u8
-#EXTINF:-1,CASA & PESCA
-http://iptv.mecccam.com:8010/live/Andre/Andre/1467.m3u8
-#EXTINF:-1,CBS REALITY
-http://iptv.mecccam.com:8010/live/Andre/Andre/2884.m3u8
-#EXTINF:-1,TV GLOBO
-http://iptv.mecccam.com:8010/live/Andre/Andre/3034.m3u8
-#EXTINF:-1,CM TV
-http://iptv.mecccam.com:8010/live/Andre/Andre/1429.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptv.mecccam.com:8010/live/Andre/Andre/1460.m3u8
-#EXTINF:-1,Discovery HD Showcase
-http://iptv.mecccam.com:8010/live/Andre/Andre/1461.m3u8
-#EXTINF:-1,E! Entertainment
-http://iptv.mecccam.com:8010/live/Andre/Andre/1456.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://iptv.mecccam.com:8010/live/Andre/Andre/1462.m3u8
-#EXTINF:-1,Travel Channel HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/2879.m3u8
-#EXTINF:-1,TLC
-http://iptv.mecccam.com:8010/live/Andre/Andre/1455.m3u8
-#EXTINF:-1,ODISSEA
-http://iptv.mecccam.com:8010/live/Andre/Andre/1465.m3u8
-#EXTINF:-1,Fox Comedy
-http://iptv.mecccam.com:8010/live/Andre/Andre/1454.m3u8
-#EXTINF:-1,FOX Crime
-http://iptv.mecccam.com:8010/live/Andre/Andre/1117.m3u8
-#EXTINF:-1,FOX Life HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1118.m3u8
-#EXTINF:-1,FOX TV HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1119.m3u8
-#EXTINF:-1,FUEL TV
-http://iptv.mecccam.com:8010/live/Andre/Andre/2882.m3u8
-#EXTINF:-1,GLOBO PREMIUM
-http://iptv.mecccam.com:8010/live/Andre/Andre/2763.m3u8
-#EXTINF:-1,PFC
-http://iptv.mecccam.com:8010/live/Andre/Andre/1448.m3u8
-#EXTINF:-1,PORTO CANAL
-http://iptv.mecccam.com:8010/live/Andre/Andre/1121.m3u8
-#EXTINF:-1,FOX Crime HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/3691.m3u8
-#EXTINF:-1,SYFY
-http://iptv.mecccam.com:8010/live/Andre/Andre/1128.m3u8
-#EXTINF:-1,TV RECORD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1439.m3u8
-#EXTINF:-1,TV series HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1451.m3u8
-#EXTINF:-1,BABY TV
-http://iptv.mecccam.com:8010/live/Andre/Andre/1445.m3u8
-#EXTINF:-1,CANAL PANDA
-http://iptv.mecccam.com:8010/live/Andre/Andre/1444.m3u8
-#EXTINF:-1,Sic kids
-http://iptv.mecccam.com:8010/live/Andre/Andre/3701.m3u8
-#EXTINF:-1,CANAL Q
-http://iptv.mecccam.com:8010/live/Andre/Andre/1440.m3u8
-#EXTINF:-1,Jim Jam
-http://iptv.mecccam.com:8010/live/Andre/Andre/2829.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://iptv.mecccam.com:8010/live/Andre/Andre/1441.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://iptv.mecccam.com:8010/live/Andre/Andre/1442.m3u8
-#EXTINF:-1,NICKELODEON
-http://iptv.mecccam.com:8010/live/Andre/Andre/1443.m3u8
-#EXTINF:-1,MTV Base
-http://iptv.mecccam.com:8010/live/Andre/Andre/2825.m3u8
-#EXTINF:-1,MCM Pop
-http://iptv.mecccam.com:8010/live/Andre/Andre/3323.m3u8
-#EXTINF:-1,MTV PORTUGAL
-http://iptv.mecccam.com:8010/live/Andre/Andre/2757.m3u8
-#EXTINF:-1,VH1
-http://iptv.mecccam.com:8010/live/Andre/Andre/1470.m3u8
-#EXTINF:-1,Eleven Sports 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5604.m3u8
-#EXTINF:-1,Eleven Sports 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5603.m3u8
-#EXTINF:-1,Eleven Sports 3 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5602.m3u8
-#EXTINF:-1,Eleven Sports 4 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5601.m3u8
-#EXTINF:-1,Eleven Sports 5 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5600.m3u8
-#EXTINF:-1,Eleven Sports 6 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/5599.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/799.m3u8
-#EXTINF:-1,SPORT TV 1 FHD
-http://iptv.mecccam.com:8010/live/Andre/Andre/3698.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/798.m3u8
-#EXTINF:-1,SPORT TV 2 FHD
-http://iptv.mecccam.com:8010/live/Andre/Andre/3700.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/797.m3u8
-#EXTINF:-1,SPORT TV 4 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/796.m3u8
-#EXTINF:-1,SPORT TV 5 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/1658.m3u8
-#EXTINF:-1,SPORT TV 1
-http://iptv.mecccam.com:8010/live/Andre/Andre/3237.m3u8
-#EXTINF:-1,SPORT TV 2
-http://iptv.mecccam.com:8010/live/Andre/Andre/3236.m3u8
-#EXTINF:-1,SPORT TV 3
-http://iptv.mecccam.com:8010/live/Andre/Andre/3235.m3u8
-#EXTINF:-1,SPORT TV 4
-http://iptv.mecccam.com:8010/live/Andre/Andre/3234.m3u8
-#EXTINF:-1,SPORT TV 5
-http://iptv.mecccam.com:8010/live/Andre/Andre/3233.m3u8
-#EXTINF:-1,SPORT TV+
-http://iptv.mecccam.com:8010/live/Andre/Andre/1449.m3u8
-#EXTINF:-1,BENFICA TV 1
-http://iptv.mecccam.com:8010/live/Andre/Andre/1111.m3u8
-#EXTINF:-1,BENFICA TV 1  FHD
-http://iptv.mecccam.com:8010/live/Andre/Andre/3247.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://iptv.mecccam.com:8010/live/Andre/Andre/1115.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6847.m3u8
 #EXTINF:-1,Eurosport 1 HD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6848.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://iptv.mecccam.com:8010/live/Andre/Andre/2762.m3u8
-#EXTINF:-1,NBA TV
-http://iptv.mecccam.com:8010/live/Andre/Andre/7720.m3u8
-#EXTINF:-1,Sport TV NBA
-http://iptv.mecccam.com:8010/live/Andre/Andre/7717.m3u8
-#EXTINF:-1,Sporting TV
-http://iptv.mecccam.com:8010/live/Andre/Andre/793.m3u8
-#EXTINF:-1,Eleven Sports 1 FHD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6895.m3u8
-#EXTINF:-1,Eleven Sports 1 SD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6897.m3u8
-#EXTINF:-1,Eleven Sports 2 FHD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6892.m3u8
-#EXTINF:-1,Eleven Sports 3 SD
-http://iptv.mecccam.com:8010/live/Andre/Andre/7741.m3u8
-#EXTINF:-1,Eleven Sports 4 SD
-http://iptv.mecccam.com:8010/live/Andre/Andre/7740.m3u8
-#EXTINF:-1,Eleven Sports 5 SD
-http://iptv.mecccam.com:8010/live/Andre/Andre/7739.m3u8
-#EXTINF:-1,Eleven Sports 6 SD
-http://iptv.mecccam.com:8010/live/Andre/Andre/7738.m3u8
-#EXTINF:-1,Eleven Sports 2 SD
-http://iptv.mecccam.com:8010/live/Andre/Andre/6894.m3u8
-#EXTINF:-1,Kombat Sport
-http://iptv.mecccam.com:8010/live/Andre/Andre/2819.m3u8
-#EXTINF:-1,TOUROS TV
-http://iptv.mecccam.com:8010/live/Andre/Andre/1468.m3u8
-#EXTINF:-1,Motorvision
-http://iptv.mecccam.com:8010/live/Andre/Andre/2826.m3u8
+http://iptv.mecccam.com:8010/live/luisete/luisete/6848.m3u8
+#EXTINF:-1,FOX News
+http://iptv.mecccam.com:8010/live/luisete/luisete/6849.m3u8
+#EXTINF:-1,Globo
+http://iptv.mecccam.com:8010/live/luisete/luisete/6851.m3u8
+#EXTINF:-1,Globo Now
+http://iptv.mecccam.com:8010/live/luisete/luisete/6852.m3u8
+#EXTINF:-1,Histðria
+http://iptv.mecccam.com:8010/live/luisete/luisete/6853.m3u8
+#EXTINF:-1,Hollywood HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/6854.m3u8
+#EXTINF:-1,Mezzo
+http://iptv.mecccam.com:8010/live/luisete/luisete/6856.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://iptv.mecccam.com:8010/live/luisete/luisete/6858.m3u8
+#EXTINF:-1,National Geographic HD
+http://iptv.mecccam.com:8010/live/luisete/luisete/6859.m3u8
+#EXTINF:-1,Nick Jr.
+http://iptv.mecccam.com:8010/live/luisete/luisete/6860.m3u8
+#EXTINF:-1,Real Madrid TV
+http://iptv.mecccam.com:8010/live/luisete/luisete/6861.m3u8
+#EXTINF:-1,TVSeries
+http://iptv.mecccam.com:8010/live/luisete/luisete/6862.m3u8
