@@ -1,242 +1,555 @@
 #EXTM3U
-#EXTINF:-1,13TH Street
-http://iptv.mecccam.com:8010/live/luisete/luisete/407.m3u8
-#EXTINF:-1,A&E
-http://iptv.mecccam.com:8010/live/luisete/luisete/2092.m3u8
-#EXTINF:-1,AXN HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/496.m3u8
-#EXTINF:-1,Boomerang
-http://iptv.mecccam.com:8010/live/luisete/luisete/2594.m3u8
-#EXTINF:-1,Das Erste
-http://iptv.mecccam.com:8010/live/luisete/luisete/1210.m3u8
-#EXTINF:-1,Discovery channel HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/397.m3u8
-#EXTINF:-1,Disney Cinemagic HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/393.m3u8
-#EXTINF:-1,Disney Junior HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1079.m3u8
-#EXTINF:-1,DMAX
-http://iptv.mecccam.com:8010/live/luisete/luisete/1192.m3u8
-#EXTINF:-1,FOX HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/371.m3u8
-#EXTINF:-1,Sky Cinema
-http://iptv.mecccam.com:8010/live/luisete/luisete/7760.m3u8
-#EXTINF:-1,Sky Cinema +1
-http://iptv.mecccam.com:8010/live/luisete/luisete/7744.m3u8
-#EXTINF:-1,Sky Cinema +1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7745.m3u8
-#EXTINF:-1,Sky Cinema +24
-http://iptv.mecccam.com:8010/live/luisete/luisete/7746.m3u8
-#EXTINF:-1,Sky Cinema Action
-http://iptv.mecccam.com:8010/live/luisete/luisete/7747.m3u8
-#EXTINF:-1,Sky Cinema Awards
-http://iptv.mecccam.com:8010/live/luisete/luisete/7748.m3u8
-#EXTINF:-1,Sky Cinema Family
-http://iptv.mecccam.com:8010/live/luisete/luisete/7749.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7750.m3u8
-#EXTINF:-1,Sky Cinema Nostalgie
-http://iptv.mecccam.com:8010/live/luisete/luisete/7751.m3u8
-#EXTINF:-1,Heimatkanal
-http://iptv.mecccam.com:8010/live/luisete/luisete/2774.m3u8
-#EXTINF:-1,History Channel HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2094.m3u8
-#EXTINF:-1,Kabel1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/404.m3u8
-#EXTINF:-1,Kika
-http://iptv.mecccam.com:8010/live/luisete/luisete/1425.m3u8
-#EXTINF:-1,3Sat HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8654.m3u8
-#EXTINF:-1,Anixe HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8660.m3u8
-#EXTINF:-1,ARD HD DE
-http://iptv.mecccam.com:8010/live/luisete/luisete/8663.m3u8
-#EXTINF:-1,HR HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8655.m3u8
-#EXTINF:-1,Kabel 1 DOKU
-http://iptv.mecccam.com:8010/live/luisete/luisete/8662.m3u8
-#EXTINF:-1,MDR HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8656.m3u8
-#EXTINF:-1,N24 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8657.m3u8
-#EXTINF:-1,NTV HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8658.m3u8
-#EXTINF:-1,Phoenix HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8659.m3u8
-#EXTINF:-1,Sky FOX SERIE
-http://iptv.mecccam.com:8010/live/luisete/luisete/8665.m3u8
-#EXTINF:-1,Sky Sony HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8666.m3u8
-#EXTINF:-1,Sport 1  HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8664.m3u8
-#EXTINF:-1,ZDF Neo HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8661.m3u8
-#EXTINF:-1,PK: Geo Super
-http://iptv.mecccam.com:8010/live/luisete/luisete/8634.m3u8
-#EXTINF:-1,PK: PTV SPORTS
-http://iptv.mecccam.com:8010/live/luisete/luisete/8633.m3u8
-#EXTINF:-1,Kinowelt TV HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/3223.m3u8
-#EXTINF:-1,MOTORVISION
-http://iptv.mecccam.com:8010/live/luisete/luisete/2093.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/864.m3u8
-#EXTINF:-1,NatGeo HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/389.m3u8
-#EXTINF:-1,NDR HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2097.m3u8
-#EXTINF:-1,ORF 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/3115.m3u8
-#EXTINF:-1,ORF1
-http://iptv.mecccam.com:8010/live/luisete/luisete/1426.m3u8
-#EXTINF:-1,Pro 7 Maxx HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1213.m3u8
-#EXTINF:-1,ProSieben HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1191.m3u8
-#EXTINF:-1,RomanceTV
-http://iptv.mecccam.com:8010/live/luisete/luisete/1753.m3u8
-#EXTINF:-1,RTL 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/411.m3u8
-#EXTINF:-1,RTL Crime HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2776.m3u8
-#EXTINF:-1,RTL HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/410.m3u8
-#EXTINF:-1,RTL Living HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1420.m3u8
-#EXTINF:-1,RTL NITRO
-http://iptv.mecccam.com:8010/live/luisete/luisete/409.m3u8
-#EXTINF:-1,RTL PASSION FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1212.m3u8
-#EXTINF:-1,Sat 1 Gold
-http://iptv.mecccam.com:8010/live/luisete/luisete/2089.m3u8
-#EXTINF:-1,SAT 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1200.m3u8
-#EXTINF:-1,SIXX
-http://iptv.mecccam.com:8010/live/luisete/luisete/1197.m3u8
-#EXTINF:-1,ZEE ONE
-http://iptv.mecccam.com:8010/live/luisete/luisete/8452.m3u8
-#EXTINF:-1,Zee one HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8453.m3u8
-#EXTINF:-1,Zee one FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/8454.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/405.m3u8
-#EXTINF:-1,DAZN 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5597.m3u8
-#EXTINF:-1,DAZN 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5598.m3u8
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5338.m3u8
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/403.m3u8
-#EXTINF:-1,Sky Bundesliga 2 HD ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/1421.m3u8
-#EXTINF:-1,Sky Bundesliga 3 HD ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/1422.m3u8
-#EXTINF:-1,Sky Bundesliga 4 HD ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/1423.m3u8
-#EXTINF:-1,Sky Bundesliga 5 HD ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/1835.m3u8
-#EXTINF:-1,Sky Bundesliga 6 HD ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/1836.m3u8
-#EXTINF:-1,Sky Bundesliga 7 HD ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/1837.m3u8
-#EXTINF:-1,Sky Bundesliga 8 HD (during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/1838.m3u8
-#EXTINF:-1,Sky Bundesliga 10 HD (during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/1840.m3u8
-#EXTINF:-1,SKY Cinema  +24 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1076.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/406.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/400.m3u8
-#EXTINF:-1,SKY Cinema Hits HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1077.m3u8
-#EXTINF:-1,Sky Comedy HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/399.m3u8
-#EXTINF:-1,SKY Emotion HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/395.m3u8
-#EXTINF:-1,SKY KRIMI
-http://iptv.mecccam.com:8010/live/luisete/luisete/391.m3u8
-#EXTINF:-1,SKY SELECT 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/387.m3u8
-#EXTINF:-1,SKY SELECT 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/385.m3u8
-#EXTINF:-1,SKY SELECT 3 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/384.m3u8
-#EXTINF:-1,SKY SELECT 4 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/383.m3u8
-#EXTINF:-1,SKY SELECT 5 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/382.m3u8
-#EXTINF:-1,SKY SELECT 6 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/381.m3u8
-#EXTINF:-1,SKY SELECT 7 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/380.m3u8
-#EXTINF:-1,SKY SELECT 9 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1754.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/376.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/375.m3u8
-#EXTINF:-1,SKY SPORT 3 ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/2259.m3u8
-#EXTINF:-1,SKY SPORT 4 ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/2260.m3u8
-#EXTINF:-1,SKY SPORT 5 ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/2261.m3u8
-#EXTINF:-1,SKY SPORT 6 ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/2262.m3u8
-#EXTINF:-1,SKY SPORT 7 ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/2263.m3u8
-#EXTINF:-1,SKY SPORT 8 ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/2264.m3u8
-#EXTINF:-1,SKY SPORT 9 ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/2265.m3u8
-#EXTINF:-1,SKY SPORT 10 ( during match )
-http://iptv.mecccam.com:8010/live/luisete/luisete/2266.m3u8
-#EXTINF:-1,Sky Sport Austria HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/412.m3u8
-#EXTINF:-1,Sky Sports News HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/416.m3u8
-#EXTINF:-1,Spiegel Geschichte HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1497.m3u8
-#EXTINF:-1,Sport1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/374.m3u8
-#EXTINF:-1,SUPER RTL
-http://iptv.mecccam.com:8010/live/luisete/luisete/1194.m3u8
-#EXTINF:-1,SyFy HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2836.m3u8
-#EXTINF:-1,TELE 5 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2769.m3u8
-#EXTINF:-1,TLC HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2778.m3u8
-#EXTINF:-1,TNT Comedy HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2772.m3u8
-#EXTINF:-1,TNT Film HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/495.m3u8
-#EXTINF:-1,TNT Serie HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2773.m3u8
-#EXTINF:-1,Universal Channel HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2621.m3u8
-#EXTINF:-1,VOX HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/415.m3u8
-#EXTINF:-1,Kabel 1 Classics
-http://iptv.mecccam.com:8010/live/luisete/luisete/5596.m3u8
-#EXTINF:-1,SKY 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5594.m3u8
-#EXTINF:-1,Disney XD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7758.m3u8
-#EXTINF:-1,Jukebox
-http://iptv.mecccam.com:8010/live/luisete/luisete/7756.m3u8
-
-#EXTINF:-1,Sky Sport 1
-http://iptv.mecccam.com:8010/live/luisete/luisete/7752.m3u8
-#EXTINF:-1,Sky Sport 2
-http://iptv.mecccam.com:8010/live/luisete/luisete/7753.m3u8
-#EXTINF:-1,Sky Sport Austria
-http://iptv.mecccam.com:8010/live/luisete/luisete/7761.m3u8
-#EXTINF:-1,Spiegel TV Wissen
-http://iptv.mecccam.com:8010/live/luisete/luisete/7754.m3u8
-#EXTINF:-1,ZDF HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1424.m3u8
+#EXTINF:0,ARD HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5142
+#EXTINF:0,ZDF HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5143
+#EXTINF:0,ZDF Info HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34987
+#EXTINF:0,3 SAT HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5144
+#EXTINF:0,RTL
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34402
+#EXTINF:0,RTL HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5146
+#EXTINF:0,RTL 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5147
+#EXTINF:0,Super RTL HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5129
+#EXTINF:0,Weihnachstmann und co KG TV
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26254
+#EXTINF:0,SuperCinema Kids HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26027
+#EXTINF:0,SAT 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5145
+#EXTINF:0,VOX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5150
+#EXTINF:0,Kabel Eins HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5148
+#EXTINF:0,ZeeOne
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/18728
+#EXTINF:0,Pro 7 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5149
+#EXTINF:0,Phoenix HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5157
+#EXTINF:0,Sixx HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5124
+#EXTINF:0,Wdr
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5131
+#EXTINF:0,ORF 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5151
+#EXTINF:0,ORF 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5152
+#EXTINF:0,Koch TV
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/23618
+#EXTINF:0,Sky Cinema HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13079
+#EXTINF:0,Sky Cinema 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6283
+#EXTINF:0,Sky Cinema +1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5165
+#EXTINF:0,Sky Cinema +24  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5164
+#EXTINF:0,Sky Cinema Emotion
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5136
+#EXTINF:0,Sky Cinema Comedy
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6267
+#EXTINF:0,Sky Cinema Action HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5163
+#EXTINF:0,Sky Cinema Family HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/8410
+#EXTINF:0,Sky Cinema Hits HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5162
+#EXTINF:0,Sky Cinema Nostalgie
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6281
+#EXTINF:0,DE SkySelect HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34955
+#EXTINF:0,DE Sky Select 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34948
+#EXTINF:0,DE Sky Select 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34949
+#EXTINF:0,DE Sky Select 3 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34950
+#EXTINF:0,DE Sky Select 4 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34951
+#EXTINF:0,DE Sky Select 5 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34952
+#EXTINF:0,DE Sky Select 6 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34953
+#EXTINF:0,DE Sky Select 7 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34954
+#EXTINF:0,DE Select Horror HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34956
+#EXTINF:0,Popcorn Select 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26028
+#EXTINF:0,Popcorn Select 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26029
+#EXTINF:0,Popcorn Select 3 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26030
+#EXTINF:0,Popcorn Select 4 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26031
+#EXTINF:0,FILM CLUB HD 1
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13069
+#EXTINF:0,FILM CLUB HD 2
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13070
+#EXTINF:0,FILM CLUB HD 3
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26034
+#EXTINF:0,FILM CLUB HD 4
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26033
+#EXTINF:0,FILM CLUB HD 5
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26032
+#EXTINF:0, Spiegel TV Geschichte
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/35003
+#EXTINF:0,Animal Planet
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/35002
+#EXTINF:0,Boomerang
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/35001
+#EXTINF:0,COMEDY CENTRAL
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/35000
+#EXTINF:0,E! Entertainment  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34999
+#EXTINF:0,Kabel 1 Doku
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34998
+#EXTINF:0,Kabel Eins Classics HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34997
+#EXTINF:0,Motorvision TV
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34996
+#EXTINF:0,PRO 7 Fun HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34995
+#EXTINF:0,SAT.1 Gold HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34994
+#EXTINF:0,Sky Arts HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34993
+#EXTINF:0,TLC HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34989
+#EXTINF:0,Universal TV HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34988
+#EXTINF:0,Tele 5
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13087
+#EXTINF:0,RTLplus
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13078
+#EXTINF:0,ANIXE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13066
+#EXTINF:0,Pro7 MAXX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13076
+#EXTINF:0,RTL Living HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13077
+#EXTINF:0,13th Street HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6445
+#EXTINF:0,TNT Comedy HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5160
+#EXTINF:0,TNT Serie HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6277
+#EXTINF:0,TNT Film
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6278
+#EXTINF:0,SyFy HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5159
+#EXTINF:0,Sky Krimi HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5137
+#EXTINF:0,FOX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5128
+#EXTINF:0,Sky Atlantic HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5125
+#EXTINF:0,AXN HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5126
+#EXTINF:0,RTL Nitro HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5139
+#EXTINF:0,RTL Crime HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5135
+#EXTINF:0,RTL Passion HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6279
+#EXTINF:0,Heimat Kanal
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6448
+#EXTINF:0,Kinowelt TV HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6447
+#EXTINF:0,Romance TV
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6446
+#EXTINF:0,Sony HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6449
+#EXTINF:0,Sky 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/7193
+#EXTINF:0,Planet HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5140
+#EXTINF:0,Jukebox
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/7192
+#EXTINF:0,N24 Doku HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6280
+#EXTINF:0,N-TV HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5121
+#EXTINF:0,SPIEGEL TV Wissen HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34992
+#EXTINF:0,Tagesschau 24 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34990
+#EXTINF:0,Kika HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5120
+#EXTINF:0,Nickelodeon HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5123
+#EXTINF:0,Disney Channel HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5117
+#EXTINF:0,Disney XD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6065
+#EXTINF:0,Disney Junior
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6066
+#EXTINF:0,Disney Cinemagic
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6067
+#EXTINF:0,TOGGO plus
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13088
+#EXTINF:0,Baby TV DE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13067
+#EXTINF:0,Cartoon Network
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13074
+#EXTINF:0,Dmax HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5118
+#EXTINF:0,Arte HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5133
+#EXTINF:0,History HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5153
+#EXTINF:0,Discovery HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5154
+#EXTINF:0,Nat Geo Wild  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5155
+#EXTINF:0,Nat Geo HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5156
+#EXTINF:0,Eurosport Play (Bundesliga)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13259
+#EXTINF:0,DAZN Bar 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/23619
+#EXTINF:0,DAZN Bar 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/23620
+#EXTINF:0,Bundesliga 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/3504
+#EXTINF:0,Bundesliga 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5080
+#EXTINF:0,Bundesliga 3 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5081
+#EXTINF:0,Bundesliga 4 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5082
+#EXTINF:0,Bundesliga 5 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5083
+#EXTINF:0,Bundesliga 6 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5084
+#EXTINF:0,Bundesliga 7 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13083
+#EXTINF:0,Bundesliga 8 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13084
+#EXTINF:0,Bundesliga 9 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13085
+#EXTINF:0,Bundesliga 10 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13082
+#EXTINF:0,Bundesliga 1 Full HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13260
+#EXTINF:0,Bundesliga 2 Full HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13261
+#EXTINF:0,Bundesliga 3 Full HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13362
+#EXTINF:0,Sky Sport News HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6284
+#EXTINF:0,Sky Sport 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5781
+#EXTINF:0,Sky Sport 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5782
+#EXTINF:0,Sky Sport 3
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5783
+#EXTINF:0,Sky Sport 4
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5784
+#EXTINF:0,Sky Sport 5
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5785
+#EXTINF:0,Sky Sport 6
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5786
+#EXTINF:0,Sky Sport 7
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5787
+#EXTINF:0,Sky Sport 8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5788
+#EXTINF:0,Sky Sport 9 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5789
+#EXTINF:0,Sky Sport 10
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5790
+#EXTINF:0,Sky Sport 11
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13080
+#EXTINF:0,DAZN 1 Bar FHD local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34887
+#EXTINF:0,DAZN 2 Bar FHD local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34886
+#EXTINF:0,Eurosport 2 HD Xtra Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34927
+#EXTINF:0,Sky Sport Bundesliga 1 HD 720p Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34895
+#EXTINF:0,Sky Sport Bundesliga 2 720p Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34894
+#EXTINF:0,Sky Sport Bundesliga 3 720p Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34893
+#EXTINF:0,Sky Sport Bundesliga 4 720p Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34892
+#EXTINF:0,Sky Sport Bundesliga 5 720p Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34891
+#EXTINF:0,Sky Sport Bundesliga 6 720p Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34890
+#EXTINF:0,Sky Sport Bundesliga 7 720p Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34889
+#EXTINF:0,Sky Sport Austria Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34906
+#EXTINF:0,Sky Sport News HD local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34888
+#EXTINF:0,Sky Sport 1 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34916
+#EXTINF:0,Sky Sport 2 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34915
+#EXTINF:0,Sky Sport 3 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34914
+#EXTINF:0,Sky Sport 4 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34913
+#EXTINF:0,Sky Sport 5 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34912
+#EXTINF:0,Sky Sport 6 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34911
+#EXTINF:0,Sky Sport 7 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34910
+#EXTINF:0,Sky Sport 8 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34909
+#EXTINF:0,Sky Sport 9 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34908
+#EXTINF:0,Sky Sport 10 Local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34907
+#EXTINF:0,3. Liga 1 HD nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26056
+#EXTINF:0,3. Liga 2 HD nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26055
+#EXTINF:0,3. Liga 3 HD nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26054
+#EXTINF:0,3. Liga 4 HD nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26053
+#EXTINF:0,3. Liga 5 HD nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26052
+#EXTINF:0,3. Liga 6 HD nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26051
+#EXTINF:0,3. Liga 7 HD nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26050
+#EXTINF:0,3. Liga 8 HD nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26049
+#EXTINF:0,BBL Sport 1 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26048
+#EXTINF:0,BBL Sport 2 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26047
+#EXTINF:0,BBL Sport 3 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26046
+#EXTINF:0,BBL Sport 4 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26045
+#EXTINF:0,DEL Sport 1 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26044
+#EXTINF:0,DEL Sport 2 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26043
+#EXTINF:0,DEL Sport 3 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26042
+#EXTINF:0,DEL Sport 4 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26041
+#EXTINF:0,DEL Sport 5 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26040
+#EXTINF:0,DEL Sport 6 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26039
+#EXTINF:0,DEL Sport 7 Local nur Spiel Tag
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/26038
+#EXTINF:0,Sky Sport Austria
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13081
+#EXTINF:0,Sportdigital HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13086
+#EXTINF:0,Eurosport 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/5119
+#EXTINF:0,Eurosport 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/13068
+#EXTINF:0,FC Bayern TV HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/7191
+#EXTINF:0,Sport 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/34991
+#EXTINF:0,Sport 1+ HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/6285
+#EXTINF:0,- Deutsch Backup - ))
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40821
+#EXTINF:0,Das Erste HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40923
+#EXTINF:0,ZDF HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40922
+#EXTINF:0,ZDF Info HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40920
+#EXTINF:0,ZDF Neo HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40921
+#EXTINF:0,WELT HD (N24 HD)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40905
+#EXTINF:0,Spiegel TV Wissen
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40902
+#EXTINF:0,n-tv HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40904
+#EXTINF:0,N24 Doku
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40903
+#EXTINF:0,RTL HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40919
+#EXTINF:0,RTL 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40918
+#EXTINF:0,RTLplus
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40915
+#EXTINF:0,SAT.1
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40912
+#EXTINF:0,VOX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40909
+#EXTINF:0,Kabel Eins HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40910
+#EXTINF:0,Prosieben HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40914
+#EXTINF:0,ATV HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40899
+#EXTINF:0,AXN HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40876
+#EXTINF:0,DMAX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40907
+#EXTINF:0,ORF 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40901
+#EXTINF:0,ORF 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40900
+#EXTINF:0,TELE 5 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40906
+#EXTINF:0,Junior
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40828
+#EXTINF:0,KIKA HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40824
+#EXTINF:0,Super RTL
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40916
+#EXTINF:0,Boomerang
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40825
+#EXTINF:0,Cartoon Network
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40826
+#EXTINF:0,Disney Channel HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40831
+#EXTINF:0,Disney Cinemagic
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40827
+#EXTINF:0,Disney Junior HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40829
+#EXTINF:0,Disney XD HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40830
+#EXTINF:0,Sky Cinema HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40896
+#EXTINF:0,Sky Cinema  1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40895
+#EXTINF:0,Sky Cinema  24 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40894
+#EXTINF:0,Sky Action HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40892
+#EXTINF:0,Sky Cinema Family HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40890
+#EXTINF:0,Sky Cinema Hits HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40893
+#EXTINF:0,Sky Comedy HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40891
+#EXTINF:0,Sky Emotion
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40889
+#EXTINF:0,Sky Krimi
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40880
+#EXTINF:0,Sky Nostalgie
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40888
+#EXTINF:0,TNT Comedy HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40886
+#EXTINF:0,TNT Film HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40887
+#EXTINF:0,TNT Serie HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40877
+#EXTINF:0,Auto Motor Sport HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40847
+#EXTINF:0,FC Bayern TV
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40839
+#EXTINF:0,Motorvision TV
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40846
+#EXTINF:0,Sky Sport Austria HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40854
+#EXTINF:0,Sky Sport News HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40866
+#EXTINF:0,SPORT 1  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40852
+#EXTINF:0,Sport 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40853
+#EXTINF:0,sportdigital HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40851
+#EXTINF:0,Eurosport 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40850
+#EXTINF:0,Eurosport 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40849
+#EXTINF:0,Eurosport 2 HD Xtra
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40848
+#EXTINF:0,Sky Bundesliga 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40845
+#EXTINF:0,Sky Bundesliga 2 HD  (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40844
+#EXTINF:0,Sky Bundesliga 3 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40843
+#EXTINF:0,Sky Bundesliga 4 HD  (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40842
+#EXTINF:0,Sky Bundesliga 5 HD  (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40841
+#EXTINF:0,Sky Bundesliga 6 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40840
+#EXTINF:0,Sky Sport 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40865
+#EXTINF:0,Sky Sport 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40864
+#EXTINF:0,Sky Sport 3 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40863
+#EXTINF:0,Sky Sport 4 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40862
+#EXTINF:0,Sky Sport 5 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40861
+#EXTINF:0,Sky Sport 6 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40860
+#EXTINF:0,Sky Sport 7 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40859
+#EXTINF:0,Sky Sport 8 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40858
+#EXTINF:0,Sky Sport 9 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40857
+#EXTINF:0,Sky Sport 10 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40856
+#EXTINF:0,Sky Sport 11 HD (Nur bei Sport Event)
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40855
+#EXTINF:0,Fox HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40882
+#EXTINF:0,Sky 1
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40884
+#EXTINF:0,Sky Atlantic HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40883
+#EXTINF:0,13TH Street HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40878
+#EXTINF:0,A&E
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40833
+#EXTINF:0,E! Entertainm. HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40873
+#EXTINF:0,Heimatkanal
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40868
+#EXTINF:0,Nitro.
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40917
+#EXTINF:0,Pro7 FUN HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40875
+#EXTINF:0,Pro7 MAXX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40913
+#EXTINF:0,PULS 4 Austria
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40898
+#EXTINF:0,Romance TV HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40869
+#EXTINF:0,RTL Crime
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40872
+#EXTINF:0,RTL Living
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40870
+#EXTINF:0,RTL Passion
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40871
+#EXTINF:0,SAT.1 emotions
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40874
+#EXTINF:0,SAT.1 Gold
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40911
+#EXTINF:0,SIXX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40908
+#EXTINF:0,SYFY HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40881
+#EXTINF:0,Universal Channel HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40879
+#EXTINF:0,Discovery HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40835
+#EXTINF:0,History HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40834
+#EXTINF:0,Nat Geo HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40837
+#EXTINF:0,Nat Geo Wild HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/40836
