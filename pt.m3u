@@ -1,49 +1,89 @@
 #EXTM3U
-#EXTINF:-1,AMC
-http://iptv.mecccam.com:8010/live/luisete/luisete/6834.m3u8
-#EXTINF:-1,BBC Entertainment
-http://iptv.mecccam.com:8010/live/luisete/luisete/6837.m3u8
-#EXTINF:-1,BBC World News
-http://iptv.mecccam.com:8010/live/luisete/luisete/6838.m3u8
-#EXTINF:-1,Biggs
-http://iptv.mecccam.com:8010/live/luisete/luisete/6839.m3u8
-#EXTINF:-1,Blaze
-http://iptv.mecccam.com:8010/live/luisete/luisete/6840.m3u8
-#EXTINF:-1,Bloomberg
-http://iptv.mecccam.com:8010/live/luisete/luisete/6841.m3u8
-#EXTINF:-1,Calavision
-http://iptv.mecccam.com:8010/live/luisete/luisete/6842.m3u8
-#EXTINF:-1,Canlao Nova
-http://iptv.mecccam.com:8010/live/luisete/luisete/6843.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptv.mecccam.com:8010/live/luisete/luisete/6844.m3u8
-#EXTINF:-1,CNBC Europe
-http://iptv.mecccam.com:8010/live/luisete/luisete/6845.m3u8
-#EXTINF:-1,CNN
-http://iptv.mecccam.com:8010/live/luisete/luisete/6846.m3u8
-#EXTINF:-1,Eurochannel
-http://iptv.mecccam.com:8010/live/luisete/luisete/6847.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/6848.m3u8
-#EXTINF:-1,FOX News
-http://iptv.mecccam.com:8010/live/luisete/luisete/6849.m3u8
-#EXTINF:-1,Globo
-http://iptv.mecccam.com:8010/live/luisete/luisete/6851.m3u8
-#EXTINF:-1,Globo Now
-http://iptv.mecccam.com:8010/live/luisete/luisete/6852.m3u8
-#EXTINF:-1,Histðria
-http://iptv.mecccam.com:8010/live/luisete/luisete/6853.m3u8
-#EXTINF:-1,Hollywood HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/6854.m3u8
-#EXTINF:-1,Mezzo
-http://iptv.mecccam.com:8010/live/luisete/luisete/6856.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://iptv.mecccam.com:8010/live/luisete/luisete/6858.m3u8
-#EXTINF:-1,National Geographic HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/6859.m3u8
-#EXTINF:-1,Nick Jr.
-http://iptv.mecccam.com:8010/live/luisete/luisete/6860.m3u8
-#EXTINF:-1,Real Madrid TV
-http://iptv.mecccam.com:8010/live/luisete/luisete/6861.m3u8
-#EXTINF:-1,TVSeries
-http://iptv.mecccam.com:8010/live/luisete/luisete/6862.m3u8
+#EXTINF:-1,RTP 1 SD
+http://37.59.41.145:5050/live/admin/dreemedia/105.ts
+#EXTINF:-1,RTP 1
+http://37.59.41.145:5050/live/admin/dreemedia/58.ts
+#EXTINF:-1,RTP 2
+http://37.59.41.145:5050/live/admin/dreemedia/59.ts
+#EXTINF:-1,RTP 3
+http://37.59.41.145:5050/live/admin/dreemedia/60.ts
+#EXTINF:-1,RTP MADEIRA
+http://37.59.41.145:5050/live/admin/dreemedia/64.ts
+#EXTINF:-1,RTP INTERNACIONAL
+http://37.59.41.145:5050/live/admin/dreemedia/65.ts
+#EXTINF:-1,RTP AFRICA
+http://37.59.41.145:5050/live/admin/dreemedia/66.ts
+#EXTINF:-1,RTP ACORES
+http://37.59.41.145:5050/live/admin/dreemedia/67.ts
+#EXTINF:-1,RTP MEMORIA
+http://37.59.41.145:5050/live/admin/dreemedia/63.ts
+#EXTINF:-1,RTP MEMORIA
+http://37.59.41.145:5050/live/admin/dreemedia/62.ts
+#EXTINF:-1,TVI24
+http://37.59.41.145:5050/live/admin/dreemedia/61.ts
+#EXTINF:-1,VH1 CLASSIC
+http://37.59.41.145:5050/live/admin/dreemedia/85.ts
+#EXTINF:-1,TV5 MONDE
+http://37.59.41.145:5050/live/admin/dreemedia/71.ts
+#EXTINF:-1,TV GALICIA
+http://37.59.41.145:5050/live/admin/dreemedia/70.ts
+#EXTINF:-1,SBT HD
+http://37.59.41.145:5050/live/admin/dreemedia/75.ts
+#EXTINF:-1,SBT
+http://37.59.41.145:5050/live/admin/dreemedia/74.ts
+#EXTINF:-1,REDE TV! HD
+http://37.59.41.145:5050/live/admin/dreemedia/73.ts
+#EXTINF:-1,REDE TV!
+http://37.59.41.145:5050/live/admin/dreemedia/72.ts
+#EXTINF:-1,RECORD NEWS
+http://37.59.41.145:5050/live/admin/dreemedia/82.ts
+#EXTINF:-1,REAL MADRID TV HD SD
+http://37.59.41.145:5050/live/admin/dreemedia/101.ts
+#EXTINF:-1,REAL MADRID TV HD
+http://37.59.41.145:5050/live/admin/dreemedia/102.ts
+#EXTINF:-1,REAL MADRID TV
+http://37.59.41.145:5050/live/admin/dreemedia/103.ts
+#EXTINF:-1,RAI NEWS 24
+http://37.59.41.145:5050/live/admin/dreemedia/92.ts
+#EXTINF:-1,MEZZO LIVE HD
+http://37.59.41.145:5050/live/admin/dreemedia/96.ts
+#EXTINF:-1,MACAU TV
+http://37.59.41.145:5050/live/admin/dreemedia/86.ts
+#EXTINF:-1,KURIAKOS TV
+http://37.59.41.145:5050/live/admin/dreemedia/97.ts
+#EXTINF:-1,KURIAKOS MUSIC
+http://37.59.41.145:5050/live/admin/dreemedia/98.ts
+#EXTINF:-1,KURIAKOS KIDS
+http://37.59.41.145:5050/live/admin/dreemedia/99.ts
+#EXTINF:-1,KURIAKOS CINE
+http://37.59.41.145:5050/live/admin/dreemedia/100.ts
+#EXTINF:-1,FATIMA TV
+http://37.59.41.145:5050/live/admin/dreemedia/83.ts
+#EXTINF:-1,DW (ENGLISH)
+http://37.59.41.145:5050/live/admin/dreemedia/87.ts
+#EXTINF:-1,DJING SUMMER VIBES
+http://37.59.41.145:5050/live/admin/dreemedia/81.ts
+#EXTINF:-1,DJING IBIZA
+http://37.59.41.145:5050/live/admin/dreemedia/80.ts
+#EXTINF:-1,DJING HITS
+http://37.59.41.145:5050/live/admin/dreemedia/79.ts
+#EXTINF:-1,DJING ELECTRO ROCK
+http://37.59.41.145:5050/live/admin/dreemedia/78.ts
+#EXTINF:-1,DJING DANCE FLOOR MUSIC
+http://37.59.41.145:5050/live/admin/dreemedia/77.ts
+#EXTINF:-1,DJING CLASSICS
+http://37.59.41.145:5050/live/admin/dreemedia/76.ts
+#EXTINF:-1,CBSN
+http://37.59.41.145:5050/live/admin/dreemedia/88.ts
+#EXTINF:-1,CANÇÃO NOVA
+http://37.59.41.145:5050/live/admin/dreemedia/69.ts
+#EXTINF:-1,CANAL PARLAMENTO
+http://37.59.41.145:5050/live/admin/dreemedia/84.ts
+#EXTINF:-1,CACAVISION
+http://37.59.41.145:5050/live/admin/dreemedia/68.ts
+#EXTINF:-1,BLOOMBERG
+http://37.59.41.145:5050/live/admin/dreemedia/89.ts
+#EXTINF:-1,AR TV
+http://37.59.41.145:5050/live/admin/dreemedia/90.ts
+#EXTINF:-1,AL JAZEERA
+http://37.59.41.145:5050/live/admin/dreemedia/91.ts
