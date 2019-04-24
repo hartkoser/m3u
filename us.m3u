@@ -1,409 +1,159 @@
 #EXTM3U
-#EXTINF:-1,IFC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26552.m3u8
-#EXTINF:-1,UNIMAS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26625.m3u8
+#EXTINF:-1,ABC
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/33108
 #EXTINF:-1,A&E HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26619.m3u8
-#EXTINF:-1,ABC NEWS
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26621.m3u8
-#EXTINF:-1,ACTIONMAX  HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26620.m3u8
-#EXTINF:-1,AMC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26618.m3u8
-#EXTINF:-1,AMERICAN HEROES HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26617.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26616.m3u8
-#EXTINF:-1,ANTENNA TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26615.m3u8
-#EXTINF:-1,BBC AMERICA HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26614.m3u8
-#EXTINF:-1,BET HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26613.m3u8
-#EXTINF:-1,BET HER
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26611.m3u8
-#EXTINF:-1,BET WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26612.m3u8
-#EXTINF:-1,BLOOMBERG
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26607.m3u8
-#EXTINF:-1,BOUNCE TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26609.m3u8
-#EXTINF:-1,BRAVO HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26608.m3u8
-#EXTINF:-1,CBS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26605.m3u8
-#EXTINF:-1,CBS NEWS
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26604.m3u8
-#EXTINF:-1,CIENEMAX MOREMAX HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26546.m3u8
-#EXTINF:-1,CINEMAX EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26603.m3u8
-#EXTINF:-1,CINEMAX OUTERMAX HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26601.m3u8
-#EXTINF:-1,CINEMAX THRILLER HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26600.m3u8
-#EXTINF:-1,CINEMAX WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26602.m3u8
-#EXTINF:-1,CNBC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26599.m3u8
-#EXTINF:-1,CNBC WORLD HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26598.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26594.m3u8
-#EXTINF:-1,COOKING CHANNEL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26595.m3u8
-#EXTINF:-1,CW HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26596.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26591.m3u8
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24001
+#EXTINF:-1,AMC
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24453
+#EXTINF:-1,Animal Planet
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24496
+#EXTINF:-1,BBC America
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24451
+#EXTINF:-1,BabyTV
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24452
+#EXTINF:-1,Boomerang
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24520
+#EXTINF:-1,CARTOON NETWORK
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23976
+#EXTINF:-1,CBS Sports Network
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24446
+#EXTINF:-1,CNBC
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24445
+#EXTINF:-1,CNBC World
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24444
+#EXTINF:-1,CNN
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24443
+#EXTINF:-1,Cine Sony
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24490
+#EXTINF:-1,Cinemax Actionmax
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23972
 #EXTINF:-1,DISNEY JR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26589.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26588.m3u8
-#EXTINF:-1,DIY  NETWORK
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26587.m3u8
-#EXTINF:-1,E! HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26586.m3u8
-#EXTINF:-1,EL REY NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26585.m3u8
-#EXTINF:-1,EPIX HITS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26584.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26583.m3u8
-#EXTINF:-1,FOX NEWS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26581.m3u8
-#EXTINF:-1,FREEFORM WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26579.m3u8
-#EXTINF:-1,FUSE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26578.m3u8
-#EXTINF:-1,FX HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26576.m3u8
-#EXTINF:-1,FX WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26575.m3u8
-#EXTINF:-1,FXM HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26572.m3u8
-#EXTINF:-1,FXX WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26573.m3u8
-#EXTINF:-1,FYI HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26570.m3u8
-#EXTINF:-1,GRIT TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26568.m3u8
-#EXTINF:-1,GSN
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26569.m3u8
-#EXTINF:-1,HALLMARK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26567.m3u8
-#EXTINF:-1,HALLMARK M&M HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26566.m3u8
-#EXTINF:-1,HBO 2
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26563.m3u8
-#EXTINF:-1,HBO COMEDY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26559.m3u8
-#EXTINF:-1,HBO EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26565.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26561.m3u8
-#EXTINF:-1,HBO SIGNATURE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26560.m3u8
-#EXTINF:-1,HBO ZONE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26562.m3u8
-#EXTINF:-1,HGTV EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26557.m3u8
-#EXTINF:-1,HGTV WEST  HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26556.m3u8
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23959
+#EXTINF:-1,Discovery Family
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24484
+#EXTINF:-1,Discovery Science
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24481
+#EXTINF:-1,Discovery TLC
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24480
+#EXTINF:-1,Disney Channel
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24478
+#EXTINF:-1,Disney Junior
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24476
+#EXTINF:-1,Disney XD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24475
+#EXTINF:-1,E! Entertainment
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24438
+#EXTINF:-1,FX
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24425
+#EXTINF:-1,FXM
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24423
+#EXTINF:-1,FXX
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24422
+#EXTINF:-1,FYI
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24421
+#EXTINF:-1,Fight Network
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24436
+#EXTINF:-1,Fox Deportes
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24432
+#EXTINF:-1,Fox Los Angeles
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24431
+#EXTINF:-1,Fox News
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24430
+#EXTINF:-1,Fox Soccer
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24428
+#EXTINF:-1,Fox Sports 1
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24427
+#EXTINF:-1,Galavision
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24420
+#EXTINF:-1,GolTV
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24417
+#EXTINF:-1,HBO
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24462
+#EXTINF:-1,HBO 2 HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24034
+#EXTINF:-1,HBO 2 West HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24033
+#EXTINF:-1,HBO Comedy
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24511
+#EXTINF:-1,HBO HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23860
+#EXTINF:-1,HGTV
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23823
 #EXTINF:-1,HISTORY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26558.m3u8
-#EXTINF:-1,ABC NEWS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27945.m3u8
-#EXTINF:-1,AHC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27848.m3u8
-#EXTINF:-1,ANIMAL PLANET HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27946.m3u8
-#EXTINF:-1,BABY TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27849.m3u8
-#EXTINF:-1,BEIN SPORTS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27944.m3u8
-#EXTINF:-1,BEN FC TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27874.m3u8
-#EXTINF:-1,BRAVO HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27943.m3u8
-#EXTINF:-1,BTN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27942.m3u8
-#EXTINF:-1,C-SPAN 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27941.m3u8
-#EXTINF:-1,C-SPAN 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27940.m3u8
-#EXTINF:-1,C-SPAN 3 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27939.m3u8
-#EXTINF:-1,CARTOON NETWORK HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27938.m3u8
-#EXTINF:-1,CBN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27937.m3u8
-#EXTINF:-1,CBN NEWS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27936.m3u8
-#EXTINF:-1,CBS SPORTS NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27935.m3u8
-#EXTINF:-1,CNN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/29642.m3u8
-#EXTINF:-1,CBSN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27934.m3u8
-#EXTINF:-1,CINE SONY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27873.m3u8
-#EXTINF:-1,CINEMAX EAST HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27933.m3u8
-#EXTINF:-1,Cinemax Thriller Max HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27932.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27931.m3u8
-#EXTINF:-1,COZI HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27872.m3u8
-#EXTINF:-1,CW HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27930.m3u8
-#EXTINF:-1,DISCOVERY HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27929.m3u8
-#EXTINF:-1,DISCOVERY VELOCITY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27927.m3u8
-#EXTINF:-1,Disney HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27926.m3u8
-#EXTINF:-1,DIY NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27893.m3u8
-#EXTINF:-1,EL GOURMET HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27871.m3u8
-#EXTINF:-1,EL REY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27892.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27922.m3u8
-#EXTINF:-1,ESPN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27925.m3u8
-#EXTINF:-1,ESPN NEWS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27924.m3u8
-#EXTINF:-1,ESPN U HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27923.m3u8
-#EXTINF:-1,FIGHT NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27870.m3u8
-#EXTINF:-1,FOX BUSINESS NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27921.m3u8
-#EXTINF:-1,FOX CSA HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27891.m3u8
-#EXTINF:-1,FOX CSC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27890.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27868.m3u8
-#EXTINF:-1,FOX NEWS HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27920.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27919.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27918.m3u8
-#EXTINF:-1,FUSION HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27889.m3u8
-#EXTINF:-1,GOLF HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27917.m3u8
-#EXTINF:-1,H2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27916.m3u8
-#EXTINF:-1,HALLMARK DRAMA HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27852.m3u8
-#EXTINF:-1,HALLMARK MOVIE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27888.m3u8
-#EXTINF:-1,HGTV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27915.m3u8
-#EXTINF:-1,KTVU PLUS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27894.m3u8
-#EXTINF:-1,LMN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27887.m3u8
-#EXTINF:-1,MAS CHIC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27867.m3u8
-#EXTINF:-1,MAVTV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27866.m3u8
-#EXTINF:-1,MOTOR TREND HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27865.m3u8
-#EXTINF:-1,MTV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27914.m3u8
-#EXTINF:-1,NAT GEO EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27886.m3u8
-#EXTINF:-1,NAT GEO MUNDO HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27864.m3u8
-#EXTINF:-1,NBC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27913.m3u8
-#EXTINF:-1,NBC SPORTS PLUS CHICAGO HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27863.m3u8
-#EXTINF:-1,NICK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27912.m3u8
-#EXTINF:-1,NICK JR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27911.m3u8
-#EXTINF:-1,Nicktoons HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27910.m3u8
-#EXTINF:-1,OUTDOOR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27862.m3u8
-#EXTINF:-1,OUTSIDE TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27861.m3u8
-#EXTINF:-1,PARAMOUNT NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27885.m3u8
-#EXTINF:-1,PBS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27909.m3u8
-#EXTINF:-1,PEOPLE TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27851.m3u8
-#EXTINF:-1,POP HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27884.m3u8
-#EXTINF:-1,RTP INTERNATIONAL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27860.m3u8
-#EXTINF:-1,SCIENCE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27928.m3u8
-#EXTINF:-1,SHOWTIME SHOWCASE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27882.m3u8
-#EXTINF:-1,SHOWTIME WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27883.m3u8
-#EXTINF:-1,SN CENTRAL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27908.m3u8
-#EXTINF:-1,SONY MOVIES HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27850.m3u8
-#EXTINF:-1,SPIKE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27907.m3u8
-#EXTINF:-1,SPORTS ILLUSTRATED (SITV ) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27859.m3u8
-#EXTINF:-1,SPORTS MAN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27858.m3u8
-#EXTINF:-1,STARZ EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27906.m3u8
-#EXTINF:-1,Starz Edge HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27905.m3u8
-#EXTINF:-1,STARZ ENCORE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27881.m3u8
-#EXTINF:-1,Starz HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27904.m3u8
-#EXTINF:-1,Starz Kids & Family
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27903.m3u8
-#EXTINF:-1,SUNDANCE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27857.m3u8
-#EXTINF:-1,TELEMONDO HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27880.m3u8
-#EXTINF:-1,TELEXITOS HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27879.m3u8
-#EXTINF:-1,TENNIS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27902.m3u8
-#EXTINF:-1,THE WEATHER CHANNEL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27901.m3u8
-#EXTINF:-1,TNT HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27900.m3u8
-#EXTINF:-1,TYC  SPORTS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27878.m3u8
-#EXTINF:-1,UNIVERSAL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27899.m3u8
-#EXTINF:-1,UNIVERSO HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27877.m3u8
-#EXTINF:-1,UNIVISION DEP HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27898.m3u8
-#EXTINF:-1,UNIVISION DEPROTES HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27876.m3u8
-#EXTINF:-1,UNIVISION HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27875.m3u8
-#EXTINF:-1,VH1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27897.m3u8
-#EXTINF:-1,WE TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27856.m3u8
-#EXTINF:-1,WETV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27855.m3u8
-#EXTINF:-1,WGN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27895.m3u8
-#EXTINF:-1,WL NY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27854.m3u8
-#EXTINF:-1,WORLD FISHING NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27853.m3u8
-#EXTINF:-1,ION TELEVISION
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26554.m3u8
-#EXTINF:-1,LIFETIME HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26551.m3u8
-#EXTINF:-1,LIFETIME MOVIES HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26550.m3u8
-#EXTINF:-1,ME TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26549.m3u8
-#EXTINF:-1,MLB NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26547.m3u8
-#EXTINF:-1,MSNBC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26544.m3u8
-#EXTINF:-1,MTV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26545.m3u8
-#EXTINF:-1,NAT GEO HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26543.m3u8
-#EXTINF:-1,NAT GEO WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26542.m3u8
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23928
+#EXTINF:-1,HLN
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24411
+#EXTINF:-1,Investigation Discovery
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24508
+#EXTINF:-1,MSNBC
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/28303
 #EXTINF:-1,NBC
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26539.m3u8
-#EXTINF:-1,NBCSN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26538.m3u8
-#EXTINF:-1,NICK JR
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26535.m3u8
-#EXTINF:-1,NICKELODEN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26537.m3u8
-#EXTINF:-1,NICKTOONS
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26536.m3u8
-#EXTINF:-1,OXYGEN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26533.m3u8
-#EXTINF:-1,PARAMOUNT NETWORK
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26532.m3u8
-#EXTINF:-1,PBS KIDS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26531.m3u8
-#EXTINF:-1,REVOLT HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26530.m3u8
-#EXTINF:-1,SEC NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26528.m3u8
-#EXTINF:-1,SHOWTIME 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26525.m3u8
-#EXTINF:-1,SHOWTIME EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26527.m3u8
-#EXTINF:-1,SHOWTIME EXTREME HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26524.m3u8
-#EXTINF:-1,STARZ  CINEMA
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26517.m3u8
-#EXTINF:-1,STARZ COMEDY
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26520.m3u8
-#EXTINF:-1,STARZ EAST
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26521.m3u8
-#EXTINF:-1,STARZ EDGE
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26519.m3u8
-#EXTINF:-1,STARZ ENCORE WESTERN
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26518.m3u8
-#EXTINF:-1,STARZ KIDS AND FAMILY
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26516.m3u8
-#EXTINF:-1,SYFY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26515.m3u8
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24398
+#EXTINF:-1,NBC Los Angeles FHD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23805
+#EXTINF:-1,Natgeo Pacific
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24459
+#EXTINF:-1,National Geographic
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24503
+#EXTINF:-1,OuterMax HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24027
+#EXTINF:-1,Showtime 2
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23894
+#EXTINF:-1,Starz Encore Western HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24007
+#EXTINF:-1,Starz HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24005
+#EXTINF:-1,Sundance TV
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24393
+#EXTINF:-1,Syfy
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24392
+#EXTINF:-1,Syfy Pacific
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24457
+#EXTINF:-1,TBS
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24391
 #EXTINF:-1,TBS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26514.m3u8
-#EXTINF:-1,TCM HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26513.m3u8
-#EXTINF:-1,TELEMUNDO
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26626.m3u8
-#EXTINF:-1,TLC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26512.m3u8
-#EXTINF:-1,TNT EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26511.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26510.m3u8
-#EXTINF:-1,TRU TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26509.m3u8
-#EXTINF:-1,TRU TV WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26508.m3u8
-#EXTINF:-1,TV LAND HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26507.m3u8
-#EXTINF:-1,TV ONE
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26506.m3u8
-#EXTINF:-1,UNIVISION HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26623.m3u8
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24502
+#EXTINF:-1,TBS Pacific
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24456
+#EXTINF:-1,TCM
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24390
+#EXTINF:-1,TNT
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24384
+#EXTINF:-1,TRAVEL CHANNEL
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23883
+#EXTINF:-1,TRU TV
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23882
+#EXTINF:-1,The Weather Channel
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23885
+#EXTINF:-1,TruTV
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24383
+#EXTINF:-1,UNIVISION MIAMI
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27613
+#EXTINF:-1,UNIVISION NETWORK
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27615
+#EXTINF:-1,UNIVISION TDN
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27614
 #EXTINF:-1,UNIVISION TDN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26622.m3u8
-#EXTINF:-1,USA NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26505.m3u8
-#EXTINF:-1,VH1
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26501.m3u8
-#EXTINF:-1,VICELAND HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26502.m3u8
-#EXTINF:-1,WAPA
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26499.m3u8
-#EXTINF:-1,WAPA 2
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26498.m3u8
-#EXTINF:-1,WEATHER CHANNEL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26497.m3u8
-#EXTINF:-1,WGN AMERICA HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26496.m3u8
-#EXTINF:-1,DW
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/25167.m3u8
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27612
+#EXTINF:-1,USA Network
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23873
+#EXTINF:-1,Unimas Miami HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27624
+#EXTINF:-1,Unimas New York HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27623
+#EXTINF:-1,Universal Kids
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24381
+#EXTINF:-1,Univision Miami HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27619
+#EXTINF:-1,Univision New York HD
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27618
+#EXTINF:-1,Univision Puerto Rico
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/27617
+#EXTINF:-1,WWE
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/23853
+#EXTINF:-1,YES
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24375
+#EXTINF:-1,beIN Sports
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24450
+#EXTINF:-1,beIN Sports Ñ
+http://195.154.183.222:8080/nelsongonzales/wjTJFp3VT8/24449
