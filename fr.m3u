@@ -1,299 +1,483 @@
 #EXTM3U
-#EXTINF:-1,FRANCE 2  FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7066.m3u8
-#EXTINF:-1,FRANCE 3 FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7067.m3u8
-#EXTINF:-1,FRANCE 4 FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7068.m3u8
-#EXTINF:-1,FRANCE 5  FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7069.m3u8
-#EXTINF:-1,M6 FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7065.m3u8
-#EXTINF:-1,M6 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/325.m3u8
-#EXTINF:-1,TF1 FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7064.m3u8
-#EXTINF:-1,TF1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/324.m3u8
-#EXTINF:-1,EURONEWS
-http://iptv.mecccam.com:8010/live/luisete/luisete/2446.m3u8
-#EXTINF:-1,FRANCE24
-http://iptv.mecccam.com:8010/live/luisete/luisete/2448.m3u8
-#EXTINF:-1,TV5
-http://iptv.mecccam.com:8010/live/luisete/luisete/2463.m3u8
-#EXTINF:-1,A LACARTE 1
-http://iptv.mecccam.com:8010/live/luisete/luisete/425.m3u8
-#EXTINF:-1,A LACARTE 2
-http://iptv.mecccam.com:8010/live/luisete/luisete/424.m3u8
-#EXTINF:-1,A LACARTE 3
-http://iptv.mecccam.com:8010/live/luisete/luisete/423.m3u8
-#EXTINF:-1,A LACARTE 4
-http://iptv.mecccam.com:8010/live/luisete/luisete/422.m3u8
-#EXTINF:-1,A LACARTE 5
-http://iptv.mecccam.com:8010/live/luisete/luisete/421.m3u8
-#EXTINF:-1, A LACARTE 6
-http://iptv.mecccam.com:8010/live/luisete/luisete/1147.m3u8
-#EXTINF:-1, A LACARTE 7
-http://iptv.mecccam.com:8010/live/luisete/luisete/1143.m3u8
-#EXTINF:-1, A LACARTE 8
-http://iptv.mecccam.com:8010/live/luisete/luisete/1144.m3u8
-#EXTINF:-1,13EME RUE HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1280.m3u8
-#EXTINF:-1,6TER HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1266.m3u8
-#EXTINF:-1,AB1
-http://iptv.mecccam.com:8010/live/luisete/luisete/3446.m3u8
-#EXTINF:-1,AB3
-http://iptv.mecccam.com:8010/live/luisete/luisete/2456.m3u8
-#EXTINF:-1,BEIN SPORT 1 FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7660.m3u8
-#EXTINF:-1,BEIN SPORT 2 FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7661.m3u8
-#EXTINF:-1,BEIN SPORT 3 FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7662.m3u8
-#EXTINF:-1,Beinsport 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/303.m3u8
-#EXTINF:-1,Beinsport 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/307.m3u8
-#EXTINF:-1,Beinsport 3 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/308.m3u8
-#EXTINF:-1,Beinsport Max 4
-http://iptv.mecccam.com:8010/live/luisete/luisete/2793.m3u8
-#EXTINF:-1,Beinsport Max 5
-http://iptv.mecccam.com:8010/live/luisete/luisete/2794.m3u8
-#EXTINF:-1,Beinsport Max 6
-http://iptv.mecccam.com:8010/live/luisete/luisete/2805.m3u8
-#EXTINF:-1,Beinsport Max 7
-http://iptv.mecccam.com:8010/live/luisete/luisete/2806.m3u8
-#EXTINF:-1,Beinsport Max 8
-http://iptv.mecccam.com:8010/live/luisete/luisete/2807.m3u8
-#EXTINF:-1,Beinsport Max 9
-http://iptv.mecccam.com:8010/live/luisete/luisete/2951.m3u8
-#EXTINF:-1,BET
-http://iptv.mecccam.com:8010/live/luisete/luisete/3694.m3u8
+#EXTINF:-1,ACTION HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39019
+#EXTINF:-1,ALA CARTE 3HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39018
+#EXTINF:-1,ALA CARTE 5HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39017
+#EXTINF:-1,ALA CARTE 6HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39016
+#EXTINF:-1,ANIMAUX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39015
+#EXTINF:-1,ARTE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39014
+#EXTINF:-1,BEIN SPORTS 1HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39013
+#EXTINF:-1,BEIN SPORTS 2HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39012
+#EXTINF:-1,BEIN SPORTS 3HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39011
+#EXTINF:-1,BEIN SPORTS 4 MAX
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39010
+#EXTINF:-1,BEIN SPORTS 5 MAX
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39009
+#EXTINF:-1,BEIN SPORTS 6 MAX
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39008
+#EXTINF:-1,BEIN SPORTS 7 MAX
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39007
+#EXTINF:-1,BEIN SPORTS 8 MAX
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39006
+#EXTINF:-1,BEIN SPORTS 9 MAX
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39005
 #EXTINF:-1,BFM TV
-http://iptv.mecccam.com:8010/live/luisete/luisete/2445.m3u8
-#EXTINF:-1,GOLF CHANNEL
-http://iptv.mecccam.com:8010/live/luisete/luisete/7694.m3u8
-#EXTINF:-1,VOSGES TV
-http://iptv.mecccam.com:8010/live/luisete/luisete/7689.m3u8
-#EXTINF:-1,C8 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2815.m3u8
-#EXTINF:-1,Canal + Series
-http://iptv.mecccam.com:8010/live/luisete/luisete/3224.m3u8
-#EXTINF:-1,Canal J
-http://iptv.mecccam.com:8010/live/luisete/luisete/1537.m3u8
-#EXTINF:-1,CANAL PLAY 1
-http://iptv.mecccam.com:8010/live/luisete/luisete/1560.m3u8
-#EXTINF:-1,CANAL PLAY 2
-http://iptv.mecccam.com:8010/live/luisete/luisete/1561.m3u8
-#EXTINF:-1,CANAL PLAY 3
-http://iptv.mecccam.com:8010/live/luisete/luisete/1562.m3u8
-#EXTINF:-1,CANAL PLAY 4
-http://iptv.mecccam.com:8010/live/luisete/luisete/1563.m3u8
-#EXTINF:-1,CANAL PLAY 5
-http://iptv.mecccam.com:8010/live/luisete/luisete/1564.m3u8
-#EXTINF:-1,CANAL PLAY 6
-http://iptv.mecccam.com:8010/live/luisete/luisete/1556.m3u8
-#EXTINF:-1,CANAL PLAY 7
-http://iptv.mecccam.com:8010/live/luisete/luisete/1557.m3u8
-#EXTINF:-1,CANAL PLAY 8
-http://iptv.mecccam.com:8010/live/luisete/luisete/1558.m3u8
-#EXTINF:-1,CANAL PLAY 9
-http://iptv.mecccam.com:8010/live/luisete/luisete/1559.m3u8
-#EXTINF:-1,CANAL+  FAMILY HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/327.m3u8
-#EXTINF:-1,CANAL+  SPORT HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/326.m3u8
-#EXTINF:-1,CANAL+ CINEMA HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1042.m3u8
-#EXTINF:-1,CANAL+ DECALE HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/328.m3u8
-#EXTINF:-1,CANAL+ HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1041.m3u8
-#EXTINF:-1,Animaux HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7695.m3u8
-#EXTINF:-1,DISCOVERY FAMILY HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/6377.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/6378.m3u8
-#EXTINF:-1,RMC SPORT NEWS HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/6376.m3u8
-#EXTINF:-1,Trace Sport Star HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/6374.m3u8
-#EXTINF:-1,TRACE TROPICAL HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/6375.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptv.mecccam.com:8010/live/luisete/luisete/1770.m3u8
-#EXTINF:-1,CHERIE25
-http://iptv.mecccam.com:8010/live/luisete/luisete/1810.m3u8
-#EXTINF:-1,CINE EMOTION HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/330.m3u8
-#EXTINF:-1,CINE FAMIZ HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1252.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39004
+#EXTINF:-1,BOOMERANG HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39003
+#EXTINF:-1,C NEWS
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39002
+#EXTINF:-1,C STAR
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39001
+#EXTINF:-1,C8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39000
+#EXTINF:-1,CANAL  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38999
+#EXTINF:-1,CANAL CINEMA HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38998
+#EXTINF:-1,CANAL DECALE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38997
+#EXTINF:-1,CANAL FAMILY HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38996
+#EXTINF:-1,CANAL J
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38995
+#EXTINF:-1,CANAL SERIES HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38994
+#EXTINF:-1,CANAL SPORT HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38993
+#EXTINF:-1,CARTOON NETWORK HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38992
+#EXTINF:-1,CHASSE & PECHE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38991
+#EXTINF:-1,CHERIE 25
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38990
+#EXTINF:-1,CINE CLASSICHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38989
+#EXTINF:-1,CINE FAMIZ
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38988
 #EXTINF:-1,CINE FRISSON HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/329.m3u8
-#EXTINF:-1,Cine Club
-http://iptv.mecccam.com:8010/live/luisete/luisete/2462.m3u8
-#EXTINF:-1,CINE+ CLASSIC HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1251.m3u8
-#EXTINF:-1,CINE+ PREMIER
-http://iptv.mecccam.com:8010/live/luisete/luisete/1811.m3u8
-#EXTINF:-1,CNEWS
-http://iptv.mecccam.com:8010/live/luisete/luisete/2454.m3u8
-#EXTINF:-1,Comedie+
-http://iptv.mecccam.com:8010/live/luisete/luisete/1257.m3u8
-#EXTINF:-1,CSTAR
-http://iptv.mecccam.com:8010/live/luisete/luisete/2838.m3u8
-#EXTINF:-1,discovery channel
-http://iptv.mecccam.com:8010/live/luisete/luisete/1809.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1775.m3u8
-#EXTINF:-1,Disney Channel
-http://iptv.mecccam.com:8010/live/luisete/luisete/2957.m3u8
-#EXTINF:-1,DIsney channel +1
-http://iptv.mecccam.com:8010/live/luisete/luisete/1772.m3u8
-#EXTINF:-1,Disney Cinema HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2461.m3u8
-#EXTINF:-1,Disney Junior
-http://iptv.mecccam.com:8010/live/luisete/luisete/1771.m3u8
-#EXTINF:-1,Disney XD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2959.m3u8
-#EXTINF:-1,E!
-http://iptv.mecccam.com:8010/live/luisete/luisete/3445.m3u8
-#EXTINF:-1,Arte HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7697.m3u8
-#EXTINF:-1,CANAL+  FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7696.m3u8
-#EXTINF:-1,ELLE GIRL
-http://iptv.mecccam.com:8010/live/luisete/luisete/3695.m3u8
-#EXTINF:-1,EQUIDIA LIVE
-http://iptv.mecccam.com:8010/live/luisete/luisete/1768.m3u8
-#EXTINF:-1,EUROSPORT HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1272.m3u8
-#EXTINF:-1,EUROSPORT2
-http://iptv.mecccam.com:8010/live/luisete/luisete/1812.m3u8
-#EXTINF:-1,FOOT+ 24/24
-http://iptv.mecccam.com:8010/live/luisete/luisete/1539.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38987
+#EXTINF:-1,CINE FX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38986
+#EXTINF:-1,COMEDIE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38985
+#EXTINF:-1,DISCOVERY HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38984
+#EXTINF:-1,DISCOVERY SCIENCE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38983
+#EXTINF:-1,DISNEY CHANNEL
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38982
+#EXTINF:-1,DISNEY CINEMA HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38981
+#EXTINF:-1,DISNEY JUNIOR HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38980
+#EXTINF:-1,DISNEY XD HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38979
+#EXTINF:-1,E! ENTERTAINMENT HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38978
+#EXTINF:-1,13EMERUE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39022
+#EXTINF:-1,6TER HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39021
+#EXTINF:-1,AB MOTEURS HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/39020
+#EXTINF:-1,EURONEWS
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38977
+#EXTINF:-1,EUROSPORT 1
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38976
+#EXTINF:-1,EUROSPORT 2
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38975
+#EXTINF:-1,FOOT 24 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38974
 #EXTINF:-1,FRANCE 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/492.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38973
+#EXTINF:-1,FRANCE 24 NEWS
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38972
 #EXTINF:-1,FRANCE 3 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/491.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38971
 #EXTINF:-1,FRANCE 4 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/490.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38970
 #EXTINF:-1,FRANCE 5 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/489.m3u8
-#EXTINF:-1,Game One HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1816.m3u8
-#EXTINF:-1,GOLF+
-http://iptv.mecccam.com:8010/live/luisete/luisete/1767.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38969
+#EXTINF:-1,FRANCE O
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38968
+#EXTINF:-1,GONG
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38967
 #EXTINF:-1,GULLI
-http://iptv.mecccam.com:8010/live/luisete/luisete/1271.m3u8
-#EXTINF:-1,Histoire
-http://iptv.mecccam.com:8010/live/luisete/luisete/2449.m3u8
-#EXTINF:-1,InfoSport+
-http://iptv.mecccam.com:8010/live/luisete/luisete/1270.m3u8
-#EXTINF:-1,OL TV
-http://iptv.mecccam.com:8010/live/luisete/luisete/2964.m3u8
-#EXTINF:-1,KTO
-http://iptv.mecccam.com:8010/live/luisete/luisete/3477.m3u8
-#EXTINF:-1,L'Equipe 21
-http://iptv.mecccam.com:8010/live/luisete/luisete/1538.m3u8
-#EXTINF:-1,LCI HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2457.m3u8
-#EXTINF:-1,LCP HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2965.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38966
+#EXTINF:-1,INFOSPORT  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38965
+#EXTINF:-1,INFOSPORT HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38964
+#EXTINF:-1,L'EQUIPE 21
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38963
+#EXTINF:-1,M6 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38962
 #EXTINF:-1,M6 MUSIC
-http://iptv.mecccam.com:8010/live/luisete/luisete/3450.m3u8
-#EXTINF:-1,Mangas
-http://iptv.mecccam.com:8010/live/luisete/luisete/2956.m3u8
-#EXTINF:-1,MTV
-http://iptv.mecccam.com:8010/live/luisete/luisete/3448.m3u8
-#EXTINF:-1,RMC SPORT 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5451.m3u8
-#EXTINF:-1,RMC SPORT 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1146.m3u8
-#EXTINF:-1,RMC SPORT 3 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1994.m3u8
-#EXTINF:-1,RMC SPORT 4 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/3851.m3u8
-#EXTINF:-1,MTV Club
-http://iptv.mecccam.com:8010/live/luisete/luisete/3697.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://iptv.mecccam.com:8010/live/luisete/luisete/1774.m3u8
-#EXTINF:-1,Nickelodeon
-http://iptv.mecccam.com:8010/live/luisete/luisete/2955.m3u8
-#EXTINF:-1,NRJ HITS
-http://iptv.mecccam.com:8010/live/luisete/luisete/2081.m3u8
-#EXTINF:-1,NRJ12
-http://iptv.mecccam.com:8010/live/luisete/luisete/1148.m3u8
-#EXTINF:-1,TFX
-http://iptv.mecccam.com:8010/live/luisete/luisete/2966.m3u8
-#EXTINF:-1,RMC Story HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/2960.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38961
+#EXTINF:-1,MANGAS
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38960
+#EXTINF:-1,NAT GEO HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38959
+#EXTINF:-1,NATIONAL GEO WILD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38958
+#EXTINF:-1,NICKELODEON
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38957
+#EXTINF:-1,NICKELODEON JUNIOR
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38956
+#EXTINF:-1,NRJ 12 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38955
 #EXTINF:-1,OCS CHOC HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1258.m3u8
-#EXTINF:-1,OCS City
-http://iptv.mecccam.com:8010/live/luisete/luisete/2954.m3u8
-#EXTINF:-1,OCS GEANTS
-http://iptv.mecccam.com:8010/live/luisete/luisete/1256.m3u8
-#EXTINF:-1,OCS Max
-http://iptv.mecccam.com:8010/live/luisete/luisete/488.m3u8
-#EXTINF:-1,Orange Cine 1
-http://iptv.mecccam.com:8010/live/luisete/luisete/2106.m3u8
-#EXTINF:-1,Orange Cine 2
-http://iptv.mecccam.com:8010/live/luisete/luisete/2105.m3u8
-#EXTINF:-1,Orange Cine 3
-http://iptv.mecccam.com:8010/live/luisete/luisete/2109.m3u8
-#EXTINF:-1,Orange Cine 4
-http://iptv.mecccam.com:8010/live/luisete/luisete/2110.m3u8
-#EXTINF:-1,Orange Cine 5
-http://iptv.mecccam.com:8010/live/luisete/luisete/2111.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://iptv.mecccam.com:8010/live/luisete/luisete/1259.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38954
+#EXTINF:-1,OCS CITY HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38953
+#EXTINF:-1,OCS GEANTS HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38952
+#EXTINF:-1,OCS MAX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38951
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38950
 #EXTINF:-1,PARIS PREMIERE HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1268.m3u8
-#EXTINF:-1,Piwi +
-http://iptv.mecccam.com:8010/live/luisete/luisete/1815.m3u8
-#EXTINF:-1,Planete+ A&E
-http://iptv.mecccam.com:8010/live/luisete/luisete/2455.m3u8
-#EXTINF:-1,Planete + CI HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1145.m3u8
-#EXTINF:-1,PLANETE+  HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1262.m3u8
-#EXTINF:-1,RMC Découverte
-http://iptv.mecccam.com:8010/live/luisete/luisete/2812.m3u8
-#EXTINF:-1,RMC DECOUVERTE FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/7309.m3u8
-#EXTINF:-1,RTL9
-http://iptv.mecccam.com:8010/live/luisete/luisete/2979.m3u8
-#EXTINF:-1,Science et Vie tv
-http://iptv.mecccam.com:8010/live/luisete/luisete/1043.m3u8
-#EXTINF:-1,SEASONS
-http://iptv.mecccam.com:8010/live/luisete/luisete/3449.m3u8
-#EXTINF:-1,Serie Club HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1814.m3u8
-#EXTINF:-1,SYFY
-http://iptv.mecccam.com:8010/live/luisete/luisete/3692.m3u8
-#EXTINF:-1,TCM CINEMA
-http://iptv.mecccam.com:8010/live/luisete/luisete/3693.m3u8
-#EXTINF:-1,Teletoon+
-http://iptv.mecccam.com:8010/live/luisete/luisete/2958.m3u8
-#EXTINF:-1,Teva HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1540.m3u8
-#EXTINF:-1,TiJi
-http://iptv.mecccam.com:8010/live/luisete/luisete/2967.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38949
+#EXTINF:-1,PIWI
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38948
+#EXTINF:-1,PLANETE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38947
+#EXTINF:-1,PLANETE A&E HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38946
+#EXTINF:-1,PLANETE CI HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38945
+#EXTINF:-1,RMC DECOUVERTE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38944
+#EXTINF:-1,RMC SPORT 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38943
+#EXTINF:-1,RMC SPORT 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38942
+#EXTINF:-1,RMC SPORT 3 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38941
+#EXTINF:-1,RMC SPORT 4 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38940
+#EXTINF:-1,RMC SPORT NEWS HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38939
+#EXTINF:-1,RTS LA DEUX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38938
+#EXTINF:-1,RTS LA UN HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38937
+#EXTINF:-1,SCIENCE ET VIE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38936
+#EXTINF:-1,SERIE CLUB
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38935
+#EXTINF:-1,SFR SPORT 1
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38934
+#EXTINF:-1,SFR SPORT 2
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38933
+#EXTINF:-1,SFR SPORT 3
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38932
+#EXTINF:-1,SYFY HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38931
+#EXTINF:-1,TELETOON
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38930
+#EXTINF:-1,TEVA
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38929
+#EXTINF:-1,TF1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38928
+#EXTINF:-1,TF1 SERIES FILMS
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38927
+#EXTINF:-1,TIJI
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38926
 #EXTINF:-1,TMC HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1263.m3u8
-#EXTINF:-1,Toute L'histoire
-http://iptv.mecccam.com:8010/live/luisete/luisete/1773.m3u8
-#EXTINF:-1,TRACE URBUN
-http://iptv.mecccam.com:8010/live/luisete/luisete/3696.m3u8
-#EXTINF:-1,TREK
-http://iptv.mecccam.com:8010/live/luisete/luisete/2839.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1766.m3u8
-#EXTINF:-1,Voyage HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/1776.m3u8
-#EXTINF:-1,W9
-http://iptv.mecccam.com:8010/live/luisete/luisete/3447.m3u8
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38925
+#EXTINF:-1,TV BREIZH
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38924
+#EXTINF:-1,TV5 Monde
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38923
+#EXTINF:-1,USHUAIA TV
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38922
+#EXTINF:-1,VOYAGE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38921
+#EXTINF:-1,W9 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38920
+#EXTINF:-1,FRSP: SFR SPORTS 1HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38919
+#EXTINF:-1,FRSP: SFR SPORTS 2HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38918
+#EXTINF:-1,FRSP: SFR SPORTS 3HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38917
+#EXTINF:-1,FRSP: SFR SPORTS 4HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38916
+#EXTINF:-1, DISCOVERY_ SCIENCE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38915
+#EXTINF:-1,6TER
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38914
+#EXTINF:-1,AB MOTEURS HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38913
+#EXTINF:-1,AB1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38912
+#EXTINF:-1,AB3 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38911
+#EXTINF:-1,ARTE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38910
+#EXTINF:-1,BEIN MAX 10 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38909
+#EXTINF:-1,BEIN MAX 6 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38908
+#EXTINF:-1,BEIN MAX 8 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38907
+#EXTINF:-1,BEIN MAX 9 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38906
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38905
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38904
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38903
+#EXTINF:-1,BFM TV HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38902
+#EXTINF:-1,BOOMRANG
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38901
+#EXTINF:-1,CANAL   SERIE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38900
+#EXTINF:-1,CANAL  FAMILY
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38899
+#EXTINF:-1,CANAL  SPORT HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38898
+#EXTINF:-1,CANAL CINEMA FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38897
+#EXTINF:-1,CANAL DECALE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38896
+#EXTINF:-1,CANAL DECALE FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38895
+#EXTINF:-1,CANAL FAMILY FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38894
+#EXTINF:-1,CANAL FlHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38893
+#EXTINF:-1,CANAL SERIES FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38892
+#EXTINF:-1,CANAL SPORT FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38891
+#EXTINF:-1,Ch?rie 25
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38890
+#EXTINF:-1,CINE  ?POLAR FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38889
+#EXTINF:-1,CINE  CLASSIC FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38888
+#EXTINF:-1,CINE  CLUB FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38887
+#EXTINF:-1,CINE  EMOTION FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38886
+#EXTINF:-1,CINE  FAMIZ FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38885
+#EXTINF:-1,CINE  FRISSON FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38884
+#EXTINF:-1,CINE  PREMIER FIHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38883
+#EXTINF:-1,CNEWS HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38882
+#EXTINF:-1,COMEDIE  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38881
+#EXTINF:-1,CSTAR
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38880
+#EXTINF:-1,DISCOVERY
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38879
+#EXTINF:-1,DISNEY CHANNEL HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38878
+#EXTINF:-1,DISNEY CINEMA HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38877
+#EXTINF:-1,DISNEY JUNIOR HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38876
+#EXTINF:-1,DISNEY XD HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38875
+#EXTINF:-1,Elle.Girl-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38874
+#EXTINF:-1,EQUIDIA LIFE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38873
+#EXTINF:-1,EQUIDIA LIVE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38872
+#EXTINF:-1,EQUIDIA.LIFE-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38871
+#EXTINF:-1,EURONEWS
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38870
+#EXTINF:-1,EUROSPORT 1
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38869
+#EXTINF:-1,EUROSPORT 2
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38868
+#EXTINF:-1,EXTREME SPORT HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38867
+#EXTINF:-1,FOOT   24
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38866
+#EXTINF:-1,FOOT  24/24
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38865
+#EXTINF:-1,FRANCE  O HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38864
+#EXTINF:-1,FRANCE 2  FHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38863
+#EXTINF:-1,FRANCE 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38862
+#EXTINF:-1,FRANCE 24
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38861
+#EXTINF:-1,FRANCE 3 FHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38860
+#EXTINF:-1,FRANCE 3 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38859
+#EXTINF:-1,FRANCE 4 FHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38858
+#EXTINF:-1,FRANCE 4 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38857
+#EXTINF:-1,FRANCE 5 FHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38856
+#EXTINF:-1,FRANCE 5 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38855
+#EXTINF:-1,FRANCE HD1
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38854
+#EXTINF:-1,FRANCE O HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38853
+#EXTINF:-1,Francophonie 24
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38852
+#EXTINF:-1,Game One
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38851
+#EXTINF:-1,GOLF  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38850
+#EXTINF:-1,Gulli
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38849
+#EXTINF:-1,INFOSPORT  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38848
+#EXTINF:-1,L'Equipe 21
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38847
+#EXTINF:-1,L'EQUIPE 21 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38846
+#EXTINF:-1,L'EQUIPE_21_HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38845
+#EXTINF:-1,LCI
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38844
+#EXTINF:-1,LCI HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38843
+#EXTINF:-1,LCP
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38842
+#EXTINF:-1,M6 FHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38841
+#EXTINF:-1,M6 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38840
+#EXTINF:-1,M6 MUSIC HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38839
+#EXTINF:-1,M6sd local
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38838
+#EXTINF:-1,MANGAS
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38837
+#EXTINF:-1,MTV DANCE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38836
+#EXTINF:-1,NICKELODEON 4 TEEN
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38835
+#EXTINF:-1,NICKELODEON HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38834
+#EXTINF:-1,NICKELODEON JUN HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38833
+#EXTINF:-1,NICKELODEON JUNIOR HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38832
+#EXTINF:-1,OCS MAX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38831
+#EXTINF:-1,OCS.GEANTS-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38830
+#EXTINF:-1,OCS_CHOC_HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38829
+#EXTINF:-1,OCS_CITY-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38828
+#EXTINF:-1,OL TV HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38827
+#EXTINF:-1,PARIS PREMIERE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38826
+#EXTINF:-1,PIWI  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38825
+#EXTINF:-1,PLANETE  A&E HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38824
+#EXTINF:-1,PLANETE  CI HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38823
+#EXTINF:-1,PLANETE  HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38822
+#EXTINF:-1,PLANETE_CI-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38821
+#EXTINF:-1,RMC DECOUVERTE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38820
+#EXTINF:-1,RMC NEWS SPORT HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38819
+#EXTINF:-1,RMC SPORT 1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38818
+#EXTINF:-1,RMC SPORT 2 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38817
+#EXTINF:-1,RMC SPORT 3 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38816
+#EXTINF:-1,RMC SPORT 4 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38815
+#EXTINF:-1,RMC STORY  FHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38814
+#EXTINF:-1,RMC STORY HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38813
+#EXTINF:-1,RMC-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38812
+#EXTINF:-1,RMC.SPORT.1-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38811
+#EXTINF:-1,RMC.SPORT.2-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38810
+#EXTINF:-1,RMC_SPORT3-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38809
+#EXTINF:-1,RMC_SPORT4-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38808
+#EXTINF:-1,RTL9-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38807
+#EXTINF:-1,RTS DEUX
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38806
+#EXTINF:-1,SCIENCES & VIE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38805
+#EXTINF:-1,SEASON HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38804
+#EXTINF:-1,TEVA
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38803
+#EXTINF:-1,TF1 FHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38802
+#EXTINF:-1,TF1 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38801
+#EXTINF:-1,TF1 SERIE FILM-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38800
+#EXTINF:-1,TFX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38799
+#EXTINF:-1,TIJI
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38798
+#EXTINF:-1,TMC HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38797
+#EXTINF:-1,TMC_HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38796
+#EXTINF:-1,TOONAMI
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38795
+#EXTINF:-1,TOUTE L'HISTOIRE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38794
+#EXTINF:-1,TV5 MONDE
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38793
+#EXTINF:-1,W9 FHD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38792
+#EXTINF:-1,W9 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38791
+#EXTINF:-1,13EME RUE HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38790
+#EXTINF:-1,ACTION HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38789
+#EXTINF:-1,ANIMAUX HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38788
+#EXTINF:-1,CANAL
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38787
+#EXTINF:-1,CANAL CINEMA-HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38786
+#EXTINF:-1,CHERIE 25 HD
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38785
+#EXTINF:-1,Gong
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38784
+#EXTINF:-1,NIKELODEON
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38783
+#EXTINF:-1,TV5 FR
+http://b3n1tz.dyndns.org:8000/lellovillino/amicomiofedele/38782
