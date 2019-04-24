@@ -1,225 +1,673 @@
 #EXTM3U
-#EXTINF:-1, SKY SPORT UNO HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5717.m3u8
-#EXTINF:-1,Alice
-http://iptv.mecccam.com:8010/live/luisete/luisete/5635.m3u8
-#EXTINF:-1,Animal Planet HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5697.m3u8
-#EXTINF:-1,Automoto
-http://iptv.mecccam.com:8010/live/luisete/luisete/5751.m3u8
-#EXTINF:-1,JUVENTUS CHANNEL
-http://iptv.mecccam.com:8010/live/luisete/luisete/5633.m3u8
+#EXTINF:-1,105 TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155953
+#EXTINF:-1,51 Radio TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144952
+#EXTINF:-1,Alice HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155936
+#EXTINF:-1,Alto Adige Tv
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63973
+#EXTINF:-1,ANIMAL PLANET HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64022
+#EXTINF:-1,Antenna Tre Nordest
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144954
+#EXTINF:-1,Antennasud
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144955
+#EXTINF:-1,Arte HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130899
+#EXTINF:-1,Auto Motor TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64024
+#EXTINF:-1,AXN FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64108
+#EXTINF:-1,Baby TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175381
 #EXTINF:-1,BIKE CHANNEL HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5712.m3u8
-#EXTINF:-1,Boing
-http://iptv.mecccam.com:8010/live/luisete/luisete/5696.m3u8
-#EXTINF:-1,Caccia & Pesca
-http://iptv.mecccam.com:8010/live/luisete/luisete/5695.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/89364
+#EXTINF:-1,BOING HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62077
+#EXTINF:-1,Boomerang
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175382
+#EXTINF:-1,BRESCIA LIVE TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136045
+#EXTINF:-1,Caccia e Pesca HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/89378
+#EXTINF:-1,Caffe TV 24
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63911
 #EXTINF:-1,Canale 5 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5694.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62022
+#EXTINF:-1,Canale 7
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63957
+#EXTINF:-1,Canale 8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63955
+#EXTINF:-1,Canale 10
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63922
+#EXTINF:-1,Canale 21
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159413
+#EXTINF:-1,Canale 85
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144962
+#EXTINF:-1,Carina TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63999
+#EXTINF:-1,Cartonito TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/91202
 #EXTINF:-1,CARTOON NETWORK HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5632.m3u8
-#EXTINF:-1,Cartoonito
-http://iptv.mecccam.com:8010/live/luisete/luisete/5750.m3u8
-#EXTINF:-1,CI Crime Investigation HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5631.m3u8
-#EXTINF:-1,Cielo
-http://iptv.mecccam.com:8010/live/luisete/luisete/5693.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64127
+#EXTINF:-1,Cartoonito HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64134
+#EXTINF:-1,cielo
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208418
+#EXTINF:-1,Classica HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136071
 #EXTINF:-1,Comedy Central
-http://iptv.mecccam.com:8010/live/luisete/luisete/5749.m3u8
-#EXTINF:-1,Discovery HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5692.m3u8
-#EXTINF:-1,Discovery Science HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5691.m3u8
-#EXTINF:-1,Discovery Travel Living HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5690.m3u8
-#EXTINF:-1,Disney Channel HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5630.m3u8
-#EXTINF:-1,Disney JR
-http://iptv.mecccam.com:8010/live/luisete/luisete/5629.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175327
+#EXTINF:-1,Company TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144966
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/122273
+#EXTINF:-1,DAZN 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128035
+#EXTINF:-1,DAZN 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128036
+#EXTINF:-1,DAZN 3 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128037
+#EXTINF:-1,DAZN 4 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128038
+#EXTINF:-1,DAZN 5 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136049
+#EXTINF:-1,DAZN 7 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/150125
+#EXTINF:-1,DAZN 8 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/150126
+#EXTINF:-1,DAZN 9 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/150127
+#EXTINF:-1,DAZN 10 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/150128
+#EXTINF:-1,DAZN 11 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/160980
+#EXTINF:-1,Dea Junior
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/134620
+#EXTINF:-1,Deejay TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/115616
+#EXTINF:-1,Di TV 1
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63961
+#EXTINF:-1,Di TV 2
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63960
+#EXTINF:-1,Di TV 3
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63959
+#EXTINF:-1,Discovery Channel HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64032
+#EXTINF:-1,Discovery focus
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/93492
+#EXTINF:-1,Discovery Sci-Fi HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/134923
+#EXTINF:-1,Discovery Science
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175369
+#EXTINF:-1,Discovery Travel & Living HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/160977
+#EXTINF:-1,Disney Channel
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64128
+#EXTINF:-1,Disney Junior HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64129
 #EXTINF:-1,Disney XD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5648.m3u8
-#EXTINF:-1,Disney XD HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5628.m3u8
-#EXTINF:-1,Dmax HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5689.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5702.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5701.m3u8
-#EXTINF:-1,Fox Animation
-http://iptv.mecccam.com:8010/live/luisete/luisete/5627.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64130
+#EXTINF:-1,DMAX HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88472
+#EXTINF:-1,Dove TV HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/140037
+#EXTINF:-1,E!
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/115618
+#EXTINF:-1,Eagle Cinema Animazione FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206418
+#EXTINF:-1,Eagle Cinema Avventura FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206419
+#EXTINF:-1,Eagle Cinema Azione FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206438
+#EXTINF:-1,Eagle Cinema Comico Cult FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206421
+#EXTINF:-1,Eagle Cinema Commedia FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206422
+#EXTINF:-1,Eagle Cinema Drammatico FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206423
+#EXTINF:-1,Eagle Cinema Fantastico FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206420
+#EXTINF:-1,Eagle Cinema Film in Sala FHD (qualita camera)
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206430
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206425
+#EXTINF:-1,Eagle Cinema Mitologia
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206428
+#EXTINF:-1,Eagle Cinema Passione FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206427
+#EXTINF:-1,Eagle Cinema Prima Visione FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206417
+#EXTINF:-1,Eagle Cinema Sorriso FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206429
+#EXTINF:-1,Eagle Cinema Storico FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206424
+#EXTINF:-1,Eagle Cinema Thriller FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206426
+#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206431
+#EXTINF:-1,Eagle Fiabe Magiche
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206433
+#EXTINF:-1,Eagle Le Fiabe Disney
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206434
+#EXTINF:-1,Eagle Masha e Orso
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206436
+#EXTINF:-1,Eagle Peppa Pig
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206435
+#EXTINF:-1,Eagle Super Pigiamini FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206437
+#EXTINF:-1,Esperia TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63964
+#EXTINF:-1,ETV Marche
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/135958
+#EXTINF:-1,ETV Rete7
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144970
+#EXTINF:-1,EURONEWS
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175393
+#EXTINF:-1,EUROSPORT 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62019
+#EXTINF:-1,EUROSPORT 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62018
+#EXTINF:-1,Fano TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63966
+#EXTINF:-1,FISHING TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114084
+#EXTINF:-1,Focus TV HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73958
+#EXTINF:-1,Fox Animation HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73959
 #EXTINF:-1,Fox Comedy HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5626.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62015
 #EXTINF:-1,Fox Crime HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5688.m3u8
-#EXTINF:-1,Fox HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5687.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62014
+#EXTINF:-1,FOX HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73938
 #EXTINF:-1,Fox Life HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5686.m3u8
-#EXTINF:-1,Fox Sport HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5713.m3u8
-#EXTINF:-1,Gambero Rosso
-http://iptv.mecccam.com:8010/live/luisete/luisete/5685.m3u8
-#EXTINF:-1,Giallo
-http://iptv.mecccam.com:8010/live/luisete/luisete/5625.m3u8
-#EXTINF:-1,History HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5624.m3u8
-#EXTINF:-1,Inter Channel
-http://iptv.mecccam.com:8010/live/luisete/luisete/5746.m3u8
-#EXTINF:-1,Investigation Discovery
-http://iptv.mecccam.com:8010/live/luisete/luisete/5745.m3u8
-#EXTINF:-1,Iris
-http://iptv.mecccam.com:8010/live/luisete/luisete/5684.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62013
+#EXTINF:-1,FOX SPORTS HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63841
+#EXTINF:-1,Frisbee TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64133
+#EXTINF:-1,Gambero Rosso HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64018
+#EXTINF:-1,Giallo HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155931
+#EXTINF:-1,History Channel HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64025
+#EXTINF:-1,History Lab HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/93182
+#EXTINF:-1,Hit Music Channel
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155956
+#EXTINF:-1,HSE24
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144973
+#EXTINF:-1,Inter Channel HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73985
+#EXTINF:-1,Investigation Disvovery
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73960
+#EXTINF:-1,IRC Sport
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144975
+#EXTINF:-1,Iris HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64142
 #EXTINF:-1,Italia 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5623.m3u8
-#EXTINF:-1,La 5
-http://iptv.mecccam.com:8010/live/luisete/luisete/5683.m3u8
-#EXTINF:-1,La 7d
-http://iptv.mecccam.com:8010/live/luisete/luisete/5682.m3u8
-#EXTINF:-1,Mediaset Extra
-http://iptv.mecccam.com:8010/live/luisete/luisete/5681.m3u8
-#EXTINF:-1,Mediaset Italia 2
-http://iptv.mecccam.com:8010/live/luisete/luisete/5680.m3u8
-#EXTINF:-1,Milan Channel HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5739.m3u8
-#EXTINF:-1,NAT GEO HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5622.m3u8
-#EXTINF:-1,NAT GEO People HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5621.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208417
+#EXTINF:-1,Italia 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64146
+#EXTINF:-1,Italian Fishing
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159620
+#EXTINF:-1,Julie Italia
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/94130
+#EXTINF:-1,Juventus Channel
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63846
+#EXTINF:-1,K2
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64135
+#EXTINF:-1,Krimisa TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144958
+#EXTINF:-1,LA 5 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64141
+#EXTINF:-1,LA 7 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62008
+#EXTINF:-1,LaEffe
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175309
+#EXTINF:-1,LAZIO CHANNEL HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/108794
+#EXTINF:-1,LEI
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/199100
+#EXTINF:-1,Lucania TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63925
+#EXTINF:-1,Luna Sport
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/126228
+#EXTINF:-1,M2O TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63917
+#EXTINF:-1,Marcopolo HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64017
+#EXTINF:-1,Masha and Bear
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64125
+#EXTINF:-1,Mediaset 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/111113
+#EXTINF:-1,Mediaset 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/111114
+#EXTINF:-1,Mediaset 5
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/111116
+#EXTINF:-1,Mediaset 20
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/117348
+#EXTINF:-1,Mexicana
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155950
+#EXTINF:-1,Milan CHANNEL
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159618
+#EXTINF:-1,Motor Trend HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/103406
+#EXTINF:-1,MTV 8 Musica
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136026
+#EXTINF:-1,MTV Hits
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136028
+#EXTINF:-1,MTV Music
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136031
+#EXTINF:-1,MTV Rock HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136027
+#EXTINF:-1,Napoli Canale 21
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63951
+#EXTINF:-1,NAT GEO
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73928
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62006
 #EXTINF:-1,NAT GEO Wild HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5620.m3u8
-#EXTINF:-1,Paramount Channel Ita HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5619.m3u8
-#EXTINF:-1,Premium Action HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5679.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62005
+#EXTINF:-1,OndaTV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144984
+#EXTINF:-1,Orler TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/94131
+#EXTINF:-1,Otto Fm Tv
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155961
+#EXTINF:-1,Paramount Channel HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64107
+#EXTINF:-1,PEPPA PIG Channel
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/140049
+#EXTINF:-1,Pesca e Caccia HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/121589
+#EXTINF:-1,POP TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/140056
+#EXTINF:-1,PREIMIUM CINEMA 24 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114620
 #EXTINF:-1,Premium Calcio 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5708.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114246
 #EXTINF:-1,Premium Calcio 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5707.m3u8
-#EXTINF:-1,Premium Cinema 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5678.m3u8
-#EXTINF:-1,Premium Cinema 24 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5677.m3u8
-#EXTINF:-1,Premium Cinema Comedy
-http://iptv.mecccam.com:8010/live/luisete/luisete/5675.m3u8
-#EXTINF:-1,Premium Cinema Emotion
-http://iptv.mecccam.com:8010/live/luisete/luisete/5673.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63851
+#EXTINF:-1,Premium Calcio 3 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63850
+#EXTINF:-1,Premium Calcio 4 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63849
+#EXTINF:-1,Premium Calcio 5 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63848
+#EXTINF:-1,Premium Calcio 6 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63847
+#EXTINF:-1,Premium CALCIO HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/89380
+#EXTINF:-1,Premium Cartoon Network HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64124
+#EXTINF:-1,Premium Cinema 2
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/199381
+#EXTINF:-1,Premium Cinema Action HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/111139
+#EXTINF:-1,Premium Cinema Comedy HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62000
+#EXTINF:-1,Premium Cinema Emotion HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/61998
+#EXTINF:-1,Premium Cinema Energy HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73964
 #EXTINF:-1,Premium Cinema HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5676.m3u8
-#EXTINF:-1,Premium Crime HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5674.m3u8
-#EXTINF:-1,Premium Cinema Energy
-http://iptv.mecccam.com:8010/live/luisete/luisete/5672.m3u8
-#EXTINF:-1,Premium Joy HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5671.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156575
+#EXTINF:-1,PREMIUM CINEMA JOI
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114416
+#EXTINF:-1,Premium Cinema Plus 24
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73965
+#EXTINF:-1,PREMIUM CINEMA STORIES
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/176117
+#EXTINF:-1,PREMIUM CINEMA UNIVERSAL HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114417
+#EXTINF:-1,Premium Crime FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/61999
+#EXTINF:-1,Premium Discovery Channel HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64033
+#EXTINF:-1,Premium Discovery World
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/117339
+#EXTINF:-1,Premium Disney Channel
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136063
+#EXTINF:-1,Premium Disney Junior
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104760
+#EXTINF:-1,Premium Energy HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64096
+#EXTINF:-1,Premium EUROSPORT 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73953
+#EXTINF:-1,Premium EUROSPORT 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73952
+#EXTINF:-1,Premium Paramount Channel
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/134916
 #EXTINF:-1,Premium Sport 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5709.m3u8
-#EXTINF:-1,Premium Sport HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5710.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/61996
 #EXTINF:-1,Premium Stories HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5617.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64091
 #EXTINF:-1,Premium Studio Universal
-http://iptv.mecccam.com:8010/live/luisete/luisete/5670.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157165
+#EXTINF:-1,Prenium Cinema HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73968
+#EXTINF:-1,Prenium Sport HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73987
+#EXTINF:-1,PrimaFila 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86201
+#EXTINF:-1,PrimaFila 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73949
+#EXTINF:-1,PrimaFila 3 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73948
+#EXTINF:-1,PrimaFila 4 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73947
+#EXTINF:-1,PrimaFila 5 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73946
+#EXTINF:-1,PrimaFila 6 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73945
+#EXTINF:-1,PrimaFila 7 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73944
+#EXTINF:-1,PrimaFila 8 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73943
+#EXTINF:-1,PrimaFila 9 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73942
+#EXTINF:-1,PrimaFila 10 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73950
+#EXTINF:-1,PrimaFila 11 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86460
+#EXTINF:-1,PrimaFila 12 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86461
+#EXTINF:-1,PrimaFila 13 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86473
+#EXTINF:-1,PrimaFila 14 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86474
+#EXTINF:-1,PrimaFila 15 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86475
+#EXTINF:-1,PrimaFila 16 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/94606
+#EXTINF:-1,PrimaFila 17 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/93504
+#EXTINF:-1,PrimaFila WWE
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159595
+#EXTINF:-1,Primafilla 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159605
+#EXTINF:-1,Primafilla 10 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159604
+#EXTINF:-1,Primocanale Liguria
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/144987
+#EXTINF:-1,Primocanale TV HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63962
+#EXTINF:-1,Quarta Rete TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64140
+#EXTINF:-1,Qvc
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128207
+#EXTINF:-1,Radio 51-Channel 636 of the DTT
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155954
+#EXTINF:-1,Radio Super
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206222
 #EXTINF:-1,Rai 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5669.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62053
 #EXTINF:-1,Rai 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5668.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62052
 #EXTINF:-1,Rai 3 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5667.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62051
 #EXTINF:-1,Rai 4 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5666.m3u8
-#EXTINF:-1,Rai Gulp
-http://iptv.mecccam.com:8010/live/luisete/luisete/5665.m3u8
-#EXTINF:-1,Rai Movie HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5664.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62050
 #EXTINF:-1,Rai 5 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5616.m3u8
-#EXTINF:-1,Rai News 24
-http://iptv.mecccam.com:8010/live/luisete/luisete/5615.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62049
+#EXTINF:-1,Rai Gulp HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73920
+#EXTINF:-1,Rai MOVIE HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73921
+#EXTINF:-1,Rai Nettuno
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64148
+#EXTINF:-1,Rai News 24 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64015
 #EXTINF:-1,Rai Premium HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5663.m3u8
-#EXTINF:-1,Rai Scuola
-http://iptv.mecccam.com:8010/live/luisete/luisete/5614.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73923
+#EXTINF:-1,Rai Scuola HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64149
 #EXTINF:-1,Rai Sport + HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5698.m3u8
-#EXTINF:-1,RAI SPORT 2HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5613.m3u8
-#EXTINF:-1,Rai yoyo HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5662.m3u8
-#EXTINF:-1,RealTime HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5661.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/199393
+#EXTINF:-1,Rai Sport 1 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156411
+#EXTINF:-1,Rai Sport 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63842
+#EXTINF:-1,Rai Sport HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114719
+#EXTINF:-1,Rai Sport Plus HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62045
+#EXTINF:-1,Rai Storia FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64150
+#EXTINF:-1,Rai YoYo HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73924
+#EXTINF:-1,RDS Social TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145001
+#EXTINF:-1,Real Time HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64034
 #EXTINF:-1,Rete 4 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5660.m3u8
-#EXTINF:-1,RSI La1 HD  (SH)
-http://iptv.mecccam.com:8010/live/luisete/luisete/5659.m3u8
-#EXTINF:-1,RSI La2 HD ( SH )
-http://iptv.mecccam.com:8010/live/luisete/luisete/5658.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62042
+#EXTINF:-1,Rete 79 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145002
+#EXTINF:-1,Rete Biella TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63975
+#EXTINF:-1,ROMA CHANNEL HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63845
+#EXTINF:-1,Rossini TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/126230
+#EXTINF:-1,RSI 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/129976
+#EXTINF:-1,RSI 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/120931
+#EXTINF:-1,RSI LA 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73932
+#EXTINF:-1,RSI LA 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73931
+#EXTINF:-1,RTC Calabria Channel
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145005
+#EXTINF:-1,RTL 1025 TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/91231
+#EXTINF:-1,RTTR TV Trento
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145006
+#EXTINF:-1,RTV 105
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63875
+#EXTINF:-1,RTV Reggio
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145007
+#EXTINF:-1,RTV Sport
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128209
+#EXTINF:-1,Sardegna Uno TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64003
+#EXTINF:-1,Senato TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145011
+#EXTINF:-1,Sky 3D FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86472
+#EXTINF:-1,Sky Arte HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114108
 #EXTINF:-1,Sky Atlantic HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5657.m3u8
-#EXTINF:-1,Sky Cinema Classic HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5655.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5654.m3u8
-#EXTINF:-1,Sky Cinema Cult HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5653.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209276
+#EXTINF:-1,Sky Calcio 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63869
+#EXTINF:-1,Sky Calcio 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/100354
+#EXTINF:-1,Sky Calcio 3 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63867
+#EXTINF:-1,Sky Calcio 4 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63866
+#EXTINF:-1,Sky Calcio 5 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63865
+#EXTINF:-1,Sky Calcio 6 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63864
+#EXTINF:-1,Sky Cartoon Network HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130909
+#EXTINF:-1,Sky Cielo HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124147
+#EXTINF:-1,SKY CINEMA +24 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64122
+#EXTINF:-1,Sky Cinema 3D
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156578
+#EXTINF:-1,SKY CINEMA Action HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62031
+#EXTINF:-1,Sky Cinema Atlantic 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62038
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62035
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156577
 #EXTINF:-1,SKY CINEMA FAMILY HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5652.m3u8
-#EXTINF:-1,Sky Cinema Haloween HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5651.m3u8
-#EXTINF:-1,Sky Cinema Max HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5650.m3u8
-#EXTINF:-1,Sky Cinema Passion HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5649.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62033
+#EXTINF:-1,SKY CINEMA HITS HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62032
+#EXTINF:-1,Sky Cinema Romance HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159585
+#EXTINF:-1,SKY CINEMA UNO + 24 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86462
 #EXTINF:-1,SKY CINEMA UNO HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5656.m3u8
-#EXTINF:-1,Sky Moto GP HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5711.m3u8
-#EXTINF:-1,Sky Prima fila 1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5647.m3u8
-#EXTINF:-1,Sky Prima fila 10 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5638.m3u8
-#EXTINF:-1,Sky Prima fila 2 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5646.m3u8
-#EXTINF:-1,Sky Prima fila 3 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5645.m3u8
-#EXTINF:-1,Sky Prima fila 4 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5644.m3u8
-#EXTINF:-1,Sky Prima fila 5 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5643.m3u8
-#EXTINF:-1,Sky Prima fila 6 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5642.m3u8
-#EXTINF:-1,Sky Prima fila 7 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5641.m3u8
-#EXTINF:-1,Sky Prima fila 8 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5640.m3u8
-#EXTINF:-1,Sky Prima fila 9 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5639.m3u8
-#EXTINF:-1,Sky Sport 24 FHD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5722.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163330
+#EXTINF:-1,Sky Disney Channel HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/120945
+#EXTINF:-1,Sky Disney Junior HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/102227
+#EXTINF:-1,Sky Disney XD HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/102228
+#EXTINF:-1,Sky Fox Animation HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/87625
+#EXTINF:-1,Sky Fox Comedy 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/153731
+#EXTINF:-1,Sky Fox HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114328
+#EXTINF:-1,Sky Fox Life
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/120947
+#EXTINF:-1,Sky Fox Sports HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/87628
+#EXTINF:-1,SKY HISTORY HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/106520
+#EXTINF:-1,SKY MotoGP HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159446
+#EXTINF:-1,SKY NAT GEO WILD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/117204
+#EXTINF:-1,Sky PrimaFila 16 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155976
+#EXTINF:-1,Sky Serie A
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62026
+#EXTINF:-1,Sky Sport 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/87636
+#EXTINF:-1,Sky Sport 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159584
+#EXTINF:-1,Sky Sport 6 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130888
+#EXTINF:-1,Sky Sport 7 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130889
+#EXTINF:-1,Sky Sport 9 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130891
+#EXTINF:-1,Sky Sport 10 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130892
+#EXTINF:-1,Sky Sport 24 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/127134
+#EXTINF:-1,Sky Sport Arena HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175342
+#EXTINF:-1,Sky Sport F1 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63855
 #EXTINF:-1,Sky Sport F1 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5714.m3u8
-#EXTINF:-1,SKY SPORT NBA HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5715.m3u8
-#EXTINF:-1,SKY SPORT SERIE A HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5716.m3u8
-#EXTINF:-1,Sky Sports Arena HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5718.m3u8
-#EXTINF:-1,Sky Sports Football HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5719.m3u8
-#EXTINF:-1,Sky TG 24
-http://iptv.mecccam.com:8010/live/luisete/luisete/5637.m3u8
-#EXTINF:-1,Sky UNO HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5636.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/93168
+#EXTINF:-1,Sky Sport Football HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128219
+#EXTINF:-1,Sky Sport MotoGP HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/91943
+#EXTINF:-1,Sky Sport NBA HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128226
+#EXTINF:-1,Sky Sport Plus
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175344
+#EXTINF:-1,Sky Sport Serie A HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130887
+#EXTINF:-1,Sky Sport Uno HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/128228
+#EXTINF:-1,SKY SUPER CALCIO HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/86484
+#EXTINF:-1,SKY SUPER TENNIS HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62023
+#EXTINF:-1,Sky TG 24 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62096
+#EXTINF:-1,Sky Uno HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62024
 #EXTINF:-1,Sport Italia
-http://iptv.mecccam.com:8010/live/luisete/luisete/5700.m3u8
-#EXTINF:-1,Super Tennis HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5699.m3u8
-#EXTINF:-1,Super TV
-http://iptv.mecccam.com:8010/live/luisete/luisete/5611.m3u8
-#EXTINF:-1,FINE LIVING
-http://iptv.mecccam.com:8010/live/luisete/luisete/5610.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157167
+#EXTINF:-1,Studio 100
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63942
+#EXTINF:-1,Studio Universal
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130001
+#EXTINF:-1,Super J
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145015
+#EXTINF:-1,Super!
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63913
+#EXTINF:-1,TCF Messina
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145016
+#EXTINF:-1,Tele Arena Siena
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64006
+#EXTINF:-1,Tele Boario
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63979
+#EXTINF:-1,Tele Chiara
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63965
+#EXTINF:-1,Tele Dehon TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63986
+#EXTINF:-1,TELE MONTE NEVE
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63929
+#EXTINF:-1,TELE MONTE NEVE 3
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63900
+#EXTINF:-1,Tele Musica
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155952
+#EXTINF:-1,Tele Padova Telecitt
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63982
+#EXTINF:-1,Tele Radio Sciacca
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63990
+#EXTINF:-1,Tele Sondrio News
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63931
+#EXTINF:-1,Teleabruzzo
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145019
+#EXTINF:-1,Teleliguria Sud
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63906
+#EXTINF:-1,Telemantova
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145030
+#EXTINF:-1,TeleMIa
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63928
+#EXTINF:-1,TeleNorba TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/64002
+#EXTINF:-1,TeleRoma 56 Lazio
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63896
+#EXTINF:-1,Teleromagna
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63940
+#EXTINF:-1,TeleSondrio Livigno
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63930
+#EXTINF:-1,TeleTicino HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63991
+#EXTINF:-1,TeleVenezia
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63992
+#EXTINF:-1,TG 24
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/102233
+#EXTINF:-1,TG com 24 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114118
 #EXTINF:-1,Top Crime
-http://iptv.mecccam.com:8010/live/luisete/luisete/5607.m3u8
-#EXTINF:-1,TV2000 HD
-http://iptv.mecccam.com:8010/live/luisete/luisete/5608.m3u8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/73970
+#EXTINF:-1,Trentino TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63994
+#EXTINF:-1,TV 8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/89408
+#EXTINF:-1,TV 2000
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155935
+#EXTINF:-1,TV Avicenza
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63996
+#EXTINF:-1,TV Luna TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63997
+#EXTINF:-1,TV Videolina
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208420
+#EXTINF:-1,TVRS
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63938
+#EXTINF:-1,Umbria TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63881
+#EXTINF:-1,Vera TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63998
+#EXTINF:-1,Vetrina Primafila
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/94124
+#EXTINF:-1,Video Brescia
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63939
+#EXTINF:-1,Wrestling WWE
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130884
