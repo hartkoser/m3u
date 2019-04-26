@@ -33,6 +33,50 @@ http://ws4.streamhls.huya.com/huyalive/29106097-2689279104-11550365801496182784-
 #EXTINF:-1 tvg-logo="https://images.summitmedia-digital.com/spotph/images/files/2012/01/1326757737-Hollywood-Films_370.jpg",24/7 Hollywood Movies 8
 http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
 
+#EXTINF:-1,Sky Cinema Action FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3807.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://ares.dominium.tv:6923/live/vin/1234/22432.m3u8
+#EXTINF:-1,Sky Cinema Action  1 HD
+http://ares.dominium.tv:6923/live/vin/1234/22433.m3u8
+#EXTINF:-1,Sky Cinema Suspence FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3821.m3u8
+#EXTINF:-1,Sky Cinema Suspence HD
+http://ares.dominium.tv:6923/live/vin/1234/22431.m3u8
+#EXTINF:-1,Sky Cinema Drama FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/22348.m3u8
+#EXTINF:-1,Sky Cinema Drama HD
+http://ares.dominium.tv:6923/live/vin/1234/22437.m3u8
+#EXTINF:-1,Sky Cinema Romance FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3663.m3u8
+#EXTINF:-1,Sky Cinema Romance HD
+http://ares.dominium.tv:6923/live/vin/1234/22439.m3u8
+#EXTINF:-1,Sky Cinema Comedy FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3236.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://ares.dominium.tv:6923/live/vin/1234/22438.m3u8
+#EXTINF:-1,Sky Cinema Uno FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/22414.m3u8
+#EXTINF:-1,Sky Cinema Uno HD
+http://ares.dominium.tv:6923/live/vin/1234/3806.m3u8
+#EXTINF:-1,Sky Cinema Uno HD +1
+http://ares.dominium.tv:6923/live/vin/1234/22416.m3u8
+#EXTINF:-1,Sky Cinema Due FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/22415.m3u8
+#EXTINF:-1,Sky Cinema Due HD
+http://ares.dominium.tv:6923/live/vin/1234/4148.m3u8
+#EXTINF:-1,Sky Cinema Collection FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3820.m3u8
+#EXTINF:-1,Sky Cinema Collection HD
+http://ares.dominium.tv:6923/live/vin/1234/22434.m3u8
+#EXTINF:-1,SKY Cinema Family FULL HD
+http://ares.dominium.tv:6923/live/vin/1234/3237.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://ares.dominium.tv:6923/live/vin/1234/22435.m3u8
+#EXTINF:-1,Sky Cinema Family  1 HD
+http://ares.dominium.tv:6923/live/vin/1234/22436.m3u8
+
+
 
 #EXTINF:-1,18 The Story of MrBean DVDRip XviD
 http://zaptuga.dynu.com:12500/movie/mmcjwqokdl/ndkwichwlc/1845.mp4
