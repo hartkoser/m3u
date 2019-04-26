@@ -13,12 +13,6 @@ http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
 http://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zKJyD_CQYtQ/U7RwQcKgLeI/AAAAAAAADeE/2jt2aHPplr8/s1600/tv2.jpg",TV2
 http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jJ0lhGzOZuM/VppMfIVqp9I/AAAAAAAAOCE/Uc_n7h65thI/s1600/meltemtv.jpg",MELTEM TV
-http://195.142.109.181:1935/meltemmedya/meltemtv_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-mGH75Ehi8Qg/VppMjjmDQ6I/AAAAAAAAOCM/BleOlgacdx0/s1600/mesajtv.jpg",MESAJ TV
-http://195.142.109.181:1935/mesajtv/mesajtv_360p/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-VLhOSj3-_TA/U7bvMxYSfHI/AAAAAAAADkM/9p0XIHyZHOo/s1600/benguturk.jpg",BENGİTÜRK TV
-https://stream-09.dc3.dailymotion.com/dm/3/x6ikbyi/live-3.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Arn393j0fms/Vpj5KhgxvuI/AAAAAAAAN1M/czrNUc1F4n8/s1600/kanalb.jpg",KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcT9DoXXUMQjxFsgIXmodGQdUswtdEc6Ntsds9je9jWCs1Zs6KSl4g",BEN TV
@@ -47,8 +41,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fk0SUkc_G_I/VpjiGHufcfI/AAAAAAAANyg/Yza0vHow9ps/s1600/ucankustv.jpg",UÇANKUŞ TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg",360
-https://stream-06.ix7.dailymotion.com/dm/3/x648uq8/live-2.m3u8
 #EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-aAXlkIMVEpM/Vo9sreITppI/AAAAAAAANTc/4gliMvNG10w/s1600/tgrteu.jpg",TGRT EU
 http://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu3/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-skofA9k0eZQ/WdZOHCxCFbI/AAAAAAAAVdc/IwdJQpNORC082Qh1yILpo7NXAFsftB9GgCLcBGAs/s1600/wtv.jpg",WTV TURK HD
