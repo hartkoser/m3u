@@ -61,8 +61,6 @@ http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-Y6QYVnt-Ueg/Vpj225v9TQI/AAAAAAAAN0o/nO5a8r69xBQ/s1600/ntv.jpg",NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-v7DfwidCkdk/VpkNeKWj8PI/AAAAAAAAN40/YGrwBqNZNk4/s1600/24.jpg",24
-https://stream-08.dc3.dailymotion.com/dm/3/x648u9s/live-3.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-Arn393j0fms/Vpj5KhgxvuI/AAAAAAAAN1M/czrNUc1F4n8/s1600/kanalb.jpg",KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-4qzkAN9s75M/Vpjmjb4uvuI/AAAAAAAANzc/tr-2T15y_nA/s1600/ulusalkanal.jpg",ULUSAL KANAL
@@ -83,12 +81,6 @@ http://sportstv.live.netdirekt.com.tr/sportstv/SportsTV3/playlist.m3u8
 http://tjktv.ercdn.net/tjktv.m3u8
 #EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-aqIAqGHFDw0/VqydxVx3eiI/AAAAAAAAPoU/rfTRQJ9_Les/s1600/turkmensport.jpg",SPORT TV Türkmenistan
 http://217.174.225.146/legacyhls/ch004.m3u8
-#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-I1pO8vk8v4A/Vpk-r2zj31I/AAAAAAAAN8c/afgy0rnwq8w/s1600/fenerbahcetv.jpg",FENERBAHÇE TV
-http://stream-08.dc3.dailymotion.com/dm/3/x21oo10/live-3.m3u8
-#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://4.bp.blogspot.com/-lk7r7NRbPbY/VpkpRAQ90LI/AAAAAAAAN6Y/ynyM9xjpvl4/s1600/bjktv.jpg",BJK TV
-https://stream-09.ix7.dailymotion.com/dm/3/x31omum/live-1.m3u8
-#EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-CeFyLUvERsk/VplGcRUky3I/AAAAAAAAN84/7PVTMdFnnsE/s1600/galatasaraytv.jpg",GALATASARAY TV
-https://stream-06.ix7.dailymotion.com/dm/3/xne3bf/live-2.m3u8
 #EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg",YABAN TV
 https://59cba4d34b678.streamlock.net/live1/yabantv/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://3.bp.blogspot.com/-ltdJEM2oAxI/VplIsze8-qI/AAAAAAAAN9k/ekkRiZaGwaU/s1600/ntvspor.jpg",NTV SPOR HD
@@ -133,16 +125,6 @@ http://media.finest.tv/hls/live.m3u8
 http://yerelmedya.tv:1935/mavikaradeniz/_definst_/bant1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-4GfW7HmgvN0/VpF77Fz6VQI/AAAAAAAANbE/ieOHc-5gilQ/s1600/slowkaradeniztv.jpg",SLOW KARADENİZ TV
 http://i52.radyotelekomtv.com:1935/slowkaradeniztv/slowkaradeniztv/chunklist_w1894903683.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-hVby_pUgfyE/VpF4vlf-JrI/AAAAAAAANaQ/2DjCpc0AGYI/s1600/numberonetv.jpg",NUMBER ONE
-https://stream-03.dc3.dailymotion.com/dm/3/x67c77j/live-2.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-jfJjZjCi7fM/XCUsBQBvvjI/AAAAAAAAXDQ/HCIF_x0rk1EwUBfpiR5yJ8PNBCJUugV-QCLcBGAs/s1600/ask.jpg",NUMBER ONE AŞK
-https://stream-04.dc3.dailymotion.com/dm/3/x67ch24/s/live-2.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-KogmLJ2JRTU/XCUsSNY8dkI/AAAAAAAAXDY/XD_yJQL2cVwE0AVHsUohPvqCkx76epgCwCLcBGAs/s1600/damar.jpg",NUMBER ONE DAMAR
-https://stream-01.ix7.dailymotion.com/dm/3/x67ch8g/live-2.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://4.bp.blogspot.com/-q-7h_kXFgHo/XCUslO2LS5I/AAAAAAAAXDg/pGzBFKRDUbUVknTUid_lh3iDVUHNrbUCACLcBGAs/s1600/dance.jpg",NUMBER ONE DANCE
-https://stream-01.ix7.dailymotion.com/dm/3/x67chco/s/live-2.m3u8
-#EXTINF:-1 $ExtFilter="MÜZİK" tvg-logo="http://2.bp.blogspot.com/-lWwCHZ2POj4/VpF4pZb0m7I/AAAAAAAANaI/iHp7WfnKUUE/s1600/numberoneturk.jpg",NUMBER ONE TÜRK
-https://stream-06.ix7.dailymotion.com/dm/3/x67cguc/live-2.m3u8
 #EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-Sou5ONlDqO8/Wtc_Y-lL6eI/AAAAAAAAV-4/EiPDtF6wDzsEN7RlUs0Z5cxljLx75zcmgCLcBGAs/s1600/38.jpg",38 KENT TV
 http://yerelmedya.tv:1935/38kenttv/bant1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-taOxzaBGirY/VqnEZ-ezkqI/AAAAAAAAPGU/K-vyBrqyKI0/s1600/adanakozatv.jpg",ADANA KOZA TV
@@ -161,8 +143,6 @@ http://stream2.taksimbilisim.com:1935/alanyatv/smil:alanyatv.smil/playlist.m3u8
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://1.bp.blogspot.com/-7KjO2dIWaAM/VqnFQYgV4vI/AAAAAAAAPIE/GKpszH-nJFE/s1600/balikesirkenttv.jpg",BALIKESİR KENT TV
 http://stream2.taksimbilisim.com:1935/kenttv/smil:kenttv.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-SWAvQO36B54/VpkNY4by2nI/AAAAAAAAN4s/zJwjEhVt9u8/s1600/bengiturk.jpg",BENGÜTÜRK TV
-https://stream-09.dc3.dailymotion.com/dm/3/x6ikbyi/live-2.m3u8
 #EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-yA9j7iAFYjM/VpkNNp1chOI/AAAAAAAAN4c/tCWXAXTANiQ/s1600/bloomberg.jpg",BLOOMBERG HT
 http://tf.umutiptv.cf/ciner.php?kanal=bloomberght
 #EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-r-gEnTSayJE/Vq32Lx8wbVI/AAAAAAAAPpY/lanAu6OA9B8/s1600/brt1.jpg",BRT 1
@@ -179,8 +159,6 @@ https://59cba4d34b678.streamlock.net/canlitv/astv/playlist.m3u8
 http://canli2.kurumsalx.com/live/kanal16.m3u8
 #EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-2hiji0KBUKU/VqnGS6Bqd_I/AAAAAAAAPKc/qEUGQ3b107c/s1600/bursalinetv.jpg",BURSA LİNE TV
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
-#EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://2.bp.blogspot.com/-zddWqWMq8pU/VqnGYhBFS4I/AAAAAAAAPKs/FCCD7IQZtVo/s1600/bursaolay.jpg",BURSA OLAY TV
-https://stream-08.ix7.dailymotion.com/dm/3/x4k2b30/live-1.m3u8
 #EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://3.bp.blogspot.com/-ArMDoi_2A3M/VqnGFr2lKpI/AAAAAAAAPJ8/FXN90gtNI9U/s1600/bursa.jpg",BURSA TV
 http://yerelmedya.tv:1935/bursatv/bant1/playlist.m3u8
 #EXTINF:-1 $ExtFilter="YEREL" tvg-logo="http://4.bp.blogspot.com/-ekO8rYwFKlc/WIoN_g5v2cI/AAAAAAAAQqk/lTVBgn93QggNwa1_6ZCHn4oTUxlCJeaRwCLcB/s1600/cantv.jpg",CAN TV
