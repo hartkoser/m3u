@@ -1,84 +1,65 @@
-
-#EXTM3U $BorpasFileFormat="1"
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-jRJRvD_agyE/Vj9wUBA9uyI/AAAAAAAAM5Q/lLZFqpf9FnQ/s1600/TRT1.jpg",TRT 1
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-jRJRvD_agyE/Vj9wUBA9uyI/AAAAAAAAM5Q/lLZFqpf9FnQ/s1600/TRT1.jpg",TRT 1
 https://trtcanlitv-lh.akamaihd.net/i/TRT1HD_1@181842/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-jRJRvD_agyE/Vj9wUBA9uyI/AAAAAAAAM5Q/lLZFqpf9FnQ/s1600/TRT1.jpg",TRT1  Seçenek 2
-https://trt-live.ercdn.net/trt1hd/trt1hd_1.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-mr4Ex9Ljig8/Vc7pAob1IQI/AAAAAAAAKJ8/6pq-QaNwu08/s1600/kanaldhd.jpg",KANAL D HD
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-mr4Ex9Ljig8/Vc7pAob1IQI/AAAAAAAAKJ8/6pq-QaNwu08/s1600/kanaldhd.jpg",KANAL D HD
 https://soledge7.dogannet.tv/S2/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-mr4Ex9Ljig8/Vc7pAob1IQI/AAAAAAAAKJ8/6pq-QaNwu08/s1600/kanaldhd.jpg",KANAL D Seçenek 2
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-mr4Ex9Ljig8/Vc7pAob1IQI/AAAAAAAAKJ8/6pq-QaNwu08/s1600/kanaldhd.jpg",KANAL D Seçenek 2
 http://live.netd.com.tr/S1/HLS_LIVE/kanald/index.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-q6TB-tuzFTg/VmqU9gP445I/AAAAAAAAM-8/Rt7VAdzEpqQ/s1600/startv.jpg",STAR TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-evDcBFAqs4E/VpghX75VW3I/AAAAAAAANsY/mFrDXCICgDc/s1600/eurostar.jpg",EURO STAR
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-evDcBFAqs4E/VpghX75VW3I/AAAAAAAANsY/mFrDXCICgDc/s1600/eurostar.jpg",EURO STAR
 http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-LAu8cF7xRAA/VodyEn4F_KI/AAAAAAAANJg/zIZOqRQbVaw/s1600/atvhd.jpg",ATV HD
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-LAu8cF7xRAA/VodyEn4F_KI/AAAAAAAANJg/zIZOqRQbVaw/s1600/atvhd.jpg",ATV HD
 http://trkvz-m.ercdn.net/trkvz-temp/atvhdm.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-atM3oT_l0pE/WFf5iG58Y4I/AAAAAAAAQnA/wLu9_DcURmUOLnQgh46NA1-la6iW61zMwCLcB/s1600/a2.jpg",A2
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-atM3oT_l0pE/WFf5iG58Y4I/AAAAAAAAQnA/wLu9_DcURmUOLnQgh46NA1-la6iW61zMwCLcB/s1600/a2.jpg",A2
 http://trkvz-m.ercdn.net/trkvz-temp/a2tvm.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-EBXNK9fF1kw/Vpgdq6W0N1I/AAAAAAAANro/jD4SpbKMcbg/s1600/showhd.jpg",SHOW TV
-http://tf.umutiptv.cf/ciner.php?kanal=show
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-qkYXAMOclUA/VhZxGxwTCBI/AAAAAAAAMgA/Ujen-h-FKiM/s1600/FOX.jpg",FOX TV HD
-http://tf.umutiptv.cf/fox.php?kanal=foxtr
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-ZpqgA3X009A/Vc8VTg8aDAI/AAAAAAAAKK4/BXmV_AK6eSc/s1600/kanal7.jpg",KANAL 7
-http://85.132.71.6/turk/kanal7_stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-nSpPMXepCuk/VpjRkiYxTAI/AAAAAAAANwQ/Tr_m4tX4EN0/s1600/tv8hd.jpg",TV8
-http://tf.umutiptv.cf/acun.php?kanal=tv8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-nU8xNkG_EzI/VpjhlwRk0VI/AAAAAAAANx4/Y0-vvrS2u4w/s1600/flashtv.jpg",FLASH TV
-http://98.142.98.125:1935/flashtv/flashtvmob/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-zKJyD_CQYtQ/U7RwQcKgLeI/AAAAAAAADeE/2jt2aHPplr8/s1600/tv2.jpg",TV2
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-zKJyD_CQYtQ/U7RwQcKgLeI/AAAAAAAADeE/2jt2aHPplr8/s1600/tv2.jpg",TV2
 http://live.netd.com.tr/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-14FOwTkIn3Q/Vvak6HCaT4I/AAAAAAAAP1Y/nkzQIPXgd_k5ZUVvL0nlzZFALId_s_ciw/s1600/emtv.jpg",TV EM
-http://live38.netmedya.net/hls/tvem.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-tH1AcSJAeXo/VpjhHs9KBjI/AAAAAAAANxo/MtHpbtYNI7o/s1600/beyaztv.jpg",BEYAZ TV
-http://umutiptv.cf/dailymotion.php?kanal=beyaztv&type=m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-jJ0lhGzOZuM/VppMfIVqp9I/AAAAAAAAOCE/Uc_n7h65thI/s1600/meltemtv.jpg",MELTEM TV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-jJ0lhGzOZuM/VppMfIVqp9I/AAAAAAAAOCE/Uc_n7h65thI/s1600/meltemtv.jpg",MELTEM TV
 http://195.142.109.181:1935/meltemmedya/meltemtv_360p/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-mGH75Ehi8Qg/VppMjjmDQ6I/AAAAAAAAOCM/BleOlgacdx0/s1600/mesajtv.jpg",MESAJ TV
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-mGH75Ehi8Qg/VppMjjmDQ6I/AAAAAAAAOCM/BleOlgacdx0/s1600/mesajtv.jpg",MESAJ TV
 http://195.142.109.181:1935/mesajtv/mesajtv_360p/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-VLhOSj3-_TA/U7bvMxYSfHI/AAAAAAAADkM/9p0XIHyZHOo/s1600/benguturk.jpg",BENGİTÜRK TV
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-VLhOSj3-_TA/U7bvMxYSfHI/AAAAAAAADkM/9p0XIHyZHOo/s1600/benguturk.jpg",BENGİTÜRK TV
 https://stream-09.dc3.dailymotion.com/dm/3/x6ikbyi/live-3.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-Arn393j0fms/Vpj5KhgxvuI/AAAAAAAAN1M/czrNUc1F4n8/s1600/kanalb.jpg",KANAL B
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Arn393j0fms/Vpj5KhgxvuI/AAAAAAAAN1M/czrNUc1F4n8/s1600/kanalb.jpg",KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcT9DoXXUMQjxFsgIXmodGQdUswtdEc6Ntsds9je9jWCs1Zs6KSl4g",BEN TV
+#EXTINF:-1 tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcT9DoXXUMQjxFsgIXmodGQdUswtdEc6Ntsds9je9jWCs1Zs6KSl4g",BEN TV
 http://kanalben.cubecdn.net/live/kanalben1.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRd9pk0_3HikARed7pS0RuogyvbHmwoxwZhoLrrmzQd4B0byogOlQ",KANAL V
+#EXTINF:-1 tvg-logo="http://t2.gstatic.com/images?q=tbn:ANd9GcRd9pk0_3HikARed7pS0RuogyvbHmwoxwZhoLrrmzQd4B0byogOlQ",KANAL V
 http://yerelmedya.tv:1935/kanalv/_definst_/bant1/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg",YABAN TV
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fOy_KnBuLNo/VqoJU8WnR2I/AAAAAAAAPj0/wRs7JkkUs-8/s1600/yabantv.jpg",YABAN TV
 http://yayin3.canlitv.com:1935/live1/yabantv/chunklist_w1303044589.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQuyrUT0inG91D7X3PWu75TPZaN0kYL4nl0J0oT3qT3fxuI4ySSnA",TV5
+#EXTINF:-1 tvg-logo="http://t3.gstatic.com/images?q=tbn:ANd9GcQuyrUT0inG91D7X3PWu75TPZaN0kYL4nl0J0oT3qT3fxuI4ySSnA",TV5
 http://nbvd2zzn.rocketcdn.com/tv5.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-RkNgwc1lL24/U7QxaEnyPjI/AAAAAAAADY8/tE7bTqo6JdQ/s1600/trtturk.jpg",TRT TÜRK
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-RkNgwc1lL24/U7QxaEnyPjI/AAAAAAAADY8/tE7bTqo6JdQ/s1600/trtturk.jpg",TRT TÜRK
 http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-RkNgwc1lL24/U7QxaEnyPjI/AAAAAAAADY8/tE7bTqo6JdQ/s1600/trtturk.jpg",TRT TÜRK Seçenek 2
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-RkNgwc1lL24/U7QxaEnyPjI/AAAAAAAADY8/tE7bTqo6JdQ/s1600/trtturk.jpg",TRT TÜRK Seçenek 2
 http://sol.trtcdn.com/tv/trtturk/smil:trtturk.smil/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-FQIHbkqOwd4/U7Q6JCG1HiI/AAAAAAAADZ8/_v9tm4KaRBQ/s1600/trtavaz.jpg",TRT AVAZ
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-FQIHbkqOwd4/U7Q6JCG1HiI/AAAAAAAADZ8/_v9tm4KaRBQ/s1600/trtavaz.jpg",TRT AVAZ
 http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-RZAbWQvjKDQ/U7Q7GGF7AZI/AAAAAAAADaE/ZV7b7iZtILQ/s1600/trtdiyanet.jpg",TRT DİYANET
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-RZAbWQvjKDQ/U7Q7GGF7AZI/AAAAAAAADaE/ZV7b7iZtILQ/s1600/trtdiyanet.jpg",TRT DİYANET
 http://trtcanlitv-lh.akamaihd.net/i/TRTDIYANET_1@182344/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-xHmYbsl_fYc/U7Q74GorvxI/AAAAAAAADaM/Ni1ARR1FhQI/s1600/trt6.jpg",TRT KURDÎ
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-xHmYbsl_fYc/U7Q74GorvxI/AAAAAAAADaM/Ni1ARR1FhQI/s1600/trt6.jpg",TRT KURDÎ
 http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-t99a3JH3KwM/U7Q918ClGUI/AAAAAAAADag/lo6Wilpqi1w/s1600/trtarapca.jpg",TRT ARAPÇA
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-t99a3JH3KwM/U7Q918ClGUI/AAAAAAAADag/lo6Wilpqi1w/s1600/trtarapca.jpg",TRT ARAPÇA
 http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg",TRT WORLD
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg",TRT WORLD
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-JVLiZYzaD_0/U7Q89rzMPkI/AAAAAAAADaY/NeDk8DjS8pk/s1600/trtokul.jpg",TRT OKUL
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-JVLiZYzaD_0/U7Q89rzMPkI/AAAAAAAADaY/NeDk8DjS8pk/s1600/trtokul.jpg",TRT OKUL
 http://trtcanlitv-lh.akamaihd.net/i/TRTOKUL_1@182245/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-fk0SUkc_G_I/VpjiGHufcfI/AAAAAAAANyg/Yza0vHow9ps/s1600/ucankustv.jpg",UÇANKUŞ TV
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fk0SUkc_G_I/VpjiGHufcfI/AAAAAAAANyg/Yza0vHow9ps/s1600/ucankustv.jpg",UÇANKUŞ TV
 https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg",360
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-fxWMy8mrbzI/VpjhrH5O77I/AAAAAAAANyA/Idf4nayiHPk/s1600/360.jpg",360
 https://stream-06.ix7.dailymotion.com/dm/3/x648uq8/live-2.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-aAXlkIMVEpM/Vo9sreITppI/AAAAAAAANTc/4gliMvNG10w/s1600/tgrteu.jpg",TGRT EU
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-aAXlkIMVEpM/Vo9sreITppI/AAAAAAAANTc/4gliMvNG10w/s1600/tgrteu.jpg",TGRT EU
 http://cdn1.streamencoding.com:1935/tgrt_eu/tgrteu3/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-skofA9k0eZQ/WdZOHCxCFbI/AAAAAAAAVdc/IwdJQpNORC082Qh1yILpo7NXAFsftB9GgCLcBGAs/s1600/wtv.jpg",WTV TURK HD
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-skofA9k0eZQ/WdZOHCxCFbI/AAAAAAAAVdc/IwdJQpNORC082Qh1yILpo7NXAFsftB9GgCLcBGAs/s1600/wtv.jpg",WTV TURK HD
 http://1.rtmp.org:80/tv117/yayin.stream/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://3.bp.blogspot.com/-rWtkCanq478/VqnQNYOgYkI/AAAAAAAAPbY/SgaeXZkKzkc/s1600/trtmeclis.jpg",MECLİS TV
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-rWtkCanq478/VqnQNYOgYkI/AAAAAAAAPbY/SgaeXZkKzkc/s1600/trtmeclis.jpg",MECLİS TV
 http://mecliscanlitv-lh.akamaihd.net/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://4.bp.blogspot.com/-0jgd8QYMwhc/VqnM9xUT0JI/AAAAAAAAPVY/Hn2xZWEOoiE/s1600/kanalt.jpg",KANAL T
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-0jgd8QYMwhc/VqnM9xUT0JI/AAAAAAAAPVY/Hn2xZWEOoiE/s1600/kanalt.jpg",KANAL T
 http://207.180.223.92:1935/live/kanalt/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://2.bp.blogspot.com/-6sr8Bh3AsfU/WAHR7E694kI/AAAAAAAAQZY/yEyBH1F54vsmRsv2UnxWls6H2SUV5bfygCLcB/s1600/romantv.jpg",ROMAN TV
+#EXTINF:-1 tvg-logo="http://2.bp.blogspot.com/-6sr8Bh3AsfU/WAHR7E694kI/AAAAAAAAQZY/yEyBH1F54vsmRsv2UnxWls6H2SUV5bfygCLcB/s1600/romantv.jpg",ROMAN TV
 http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
-#EXTINF:-1 $ExtFilter="ULUSAL" tvg-logo="http://1.bp.blogspot.com/-C776nyUjzL8/WSgEwInkmEI/AAAAAAAAQ00/yfgmGbV4Y2k1FjF88yKVsQe_SEJCrEmxQCLcB/s1600/duguntv.jpg",DÜĞÜN TV
+#EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-C776nyUjzL8/WSgEwInkmEI/AAAAAAAAQ00/yfgmGbV4Y2k1FjF88yKVsQe_SEJCrEmxQCLcB/s1600/duguntv.jpg",DÜĞÜN TV
 http://62.113.210.6/televizyon-live/DugunTv/chunklist_w483265347.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-pstCZDr6AzQ/Vj9wiFm8gcI/AAAAAAAAM5Y/dCOACwLzW2Y/s1600/trthaber.jpg",TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
