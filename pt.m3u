@@ -1,89 +1,231 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 SD
-http://37.59.41.145:5050/live/admin/dreemedia/105.ts
+#EXTINF:-1,24 KITCHEN
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3526.m3u8
+#EXTINF:-1,A & E
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3525.m3u8
+#EXTINF:-1,A BOLA TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3524.m3u8
+#EXTINF:-1,AMC
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3523.m3u8
+#EXTINF:-1,AMC HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3522.m3u8
+#EXTINF:-1,AXN
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3521.m3u8
+#EXTINF:-1,AXN BLACK HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3520.m3u8
+#EXTINF:-1,AXN HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3519.m3u8
+#EXTINF:-1,AXN WHITE
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3518.m3u8
+#EXTINF:-1,AXN WHITE HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3517.m3u8
+#EXTINF:-1,BABY TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3516.m3u8
+#EXTINF:-1,BENFICA TV 1
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3515.m3u8
+#EXTINF:-1,BENFICA TV 2
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3514.m3u8
+#EXTINF:-1,BTV 1 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3513.m3u8
+#EXTINF:-1,CAÇA & PESCA
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3508.m3u8
+#EXTINF:-1,CANAL HISTÓRIA
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3512.m3u8
+#EXTINF:-1,CANAL PANDA
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3511.m3u8
+#EXTINF:-1,CANAL Q
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3510.m3u8
+#EXTINF:-1,CARTOON  NETWORK
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3509.m3u8
+#EXTINF:-1,CBS REALITY
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3507.m3u8
+#EXTINF:-1,CHELSEA TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3506.m3u8
+#EXTINF:-1,CINEMUNDO
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3505.m3u8
+#EXTINF:-1,CM TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3504.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3503.m3u8
+#EXTINF:-1,Discovery HD Showcase
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3502.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3501.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3500.m3u8
+#EXTINF:-1,E! Entertainment
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3499.m3u8
+#EXTINF:-1,EUROSPORT
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3498.m3u8
+#EXTINF:-1,Eurosport 1
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3497.m3u8
+#EXTINF:-1,EUROSPORT 1 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3496.m3u8
+#EXTINF:-1,EUROSPORT 2 XTRA HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3495.m3u8
+#EXTINF:-1,Eurosport new
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3494.m3u8
+#EXTINF:-1,FIGHT NETWORK HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3493.m3u8
+#EXTINF:-1,Fox Comedy
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3492.m3u8
+#EXTINF:-1,FOX Comedy HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3491.m3u8
+#EXTINF:-1,FOX CRIME
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3490.m3u8
+#EXTINF:-1,FOX CRIME HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3489.m3u8
+#EXTINF:-1,FOX HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3488.m3u8
+#EXTINF:-1,FOX LIFE
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3487.m3u8
+#EXTINF:-1,FOX LIFE HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3486.m3u8
+#EXTINF:-1,FOX MOVIES
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3485.m3u8
+#EXTINF:-1,FOX TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3484.m3u8
+#EXTINF:-1,FUEL TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3483.m3u8
+#EXTINF:-1,FUEL TV HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3482.m3u8
+#EXTINF:-1,GLOBO
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3481.m3u8
+#EXTINF:-1,Historia
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3480.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3479.m3u8
+#EXTINF:-1,JIM JAM
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3478.m3u8
+#EXTINF:-1,MOTORS TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3477.m3u8
+#EXTINF:-1,MOTORVISION
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3476.m3u8
+#EXTINF:-1,MOTORVISION TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3475.m3u8
+#EXTINF:-1,MOV HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3474.m3u8
+#EXTINF:-1,Mtv Portuga
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3473.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3472.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3471.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3470.m3u8
+#EXTINF:-1,NICKELODEON
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3469.m3u8
+#EXTINF:-1,ODISSEIA
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3468.m3u8
+#EXTINF:-1,PFC
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3467.m3u8
+#EXTINF:-1,PORTO CANAL
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3466.m3u8
 #EXTINF:-1,RTP 1
-http://37.59.41.145:5050/live/admin/dreemedia/58.ts
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3465.m3u8
 #EXTINF:-1,RTP 2
-http://37.59.41.145:5050/live/admin/dreemedia/59.ts
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3464.m3u8
 #EXTINF:-1,RTP 3
-http://37.59.41.145:5050/live/admin/dreemedia/60.ts
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3463.m3u8
+#EXTINF:-1,RTP AÇORES
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3462.m3u8
+#EXTINF:-1,RTP ÁFRICA
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3459.m3u8
 #EXTINF:-1,RTP MADEIRA
-http://37.59.41.145:5050/live/admin/dreemedia/64.ts
-#EXTINF:-1,RTP INTERNACIONAL
-http://37.59.41.145:5050/live/admin/dreemedia/65.ts
-#EXTINF:-1,RTP AFRICA
-http://37.59.41.145:5050/live/admin/dreemedia/66.ts
-#EXTINF:-1,RTP ACORES
-http://37.59.41.145:5050/live/admin/dreemedia/67.ts
-#EXTINF:-1,RTP MEMORIA
-http://37.59.41.145:5050/live/admin/dreemedia/63.ts
-#EXTINF:-1,RTP MEMORIA
-http://37.59.41.145:5050/live/admin/dreemedia/62.ts
-#EXTINF:-1,TVI24
-http://37.59.41.145:5050/live/admin/dreemedia/61.ts
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3461.m3u8
+#EXTINF:-1,RTP MEMÓRIA
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3460.m3u8
+#EXTINF:-1,Sic
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3458.m3u8
+#EXTINF:-1,SIC MULHER
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3457.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3456.m3u8
+#EXTINF:-1,SIC NOTICIAS HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3455.m3u8
+#EXTINF:-1,SIC RADICAL
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3454.m3u8
+#EXTINF:-1,SIC RADICAL HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3453.m3u8
+#EXTINF:-1,SPORT TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3440.m3u8
+#EXTINF:-1,SPORT TV HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3439.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3452.m3u8
+#EXTINF:-1,SPORT TV 1 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3451.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3450.m3u8
+#EXTINF:-1,SPORT TV 2 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3449.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3448.m3u8
+#EXTINF:-1,SPORT TV 3 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3447.m3u8
+#EXTINF:-1,SPORT TV 4
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3446.m3u8
+#EXTINF:-1,SPORT TV 4 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3445.m3u8
+#EXTINF:-1,SPORT TV 4HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3444.m3u8
+#EXTINF:-1,SPORT TV 5
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3443.m3u8
+#EXTINF:-1,SPORT TV 5 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3442.m3u8
+#EXTINF:-1,SPORT TV 5HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3441.m3u8
+#EXTINF:-1,SPORTING TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3438.m3u8
+#EXTINF:-1,Sporting TV HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3437.m3u8
+#EXTINF:-1,SYFY
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3436.m3u8
+#EXTINF:-1,SyFy HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3435.m3u8
+#EXTINF:-1,TLC
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3434.m3u8
+#EXTINF:-1,TOUROS TV
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3433.m3u8
+#EXTINF:-1,TV 1 HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3432.m3u8
+#EXTINF:-1,TV 2 HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3431.m3u8
+#EXTINF:-1,TV CINE 1  HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3430.m3u8
+#EXTINF:-1,TV CINE 2  HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3429.m3u8
+#EXTINF:-1,TV CINE 3 HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3428.m3u8
+#EXTINF:-1,TV CINE 4
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3427.m3u8
+#EXTINF:-1,TV GLOBO
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3426.m3u8
+#EXTINF:-1,TV Globo Premium
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3425.m3u8
+#EXTINF:-1,TV RECORD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3424.m3u8
+#EXTINF:-1,TVC HD
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3423.m3u8
+#EXTINF:-1,TVCINE 1 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3422.m3u8
+#EXTINF:-1,TVCINE 2 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3421.m3u8
+#EXTINF:-1,TVCINE 3 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3420.m3u8
+#EXTINF:-1,TVCINE 4 HD 1080
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3419.m3u8
+#EXTINF:-1,TVCseries
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3418.m3u8
+#EXTINF:-1,TVI
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3417.m3u8
+#EXTINF:-1,TVI 24
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3416.m3u8
+#EXTINF:-1,TVI REALITY
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3415.m3u8
+#EXTINF:-1,TVI Reality (A Quinta)
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3414.m3u8
+#EXTINF:-1,VH1
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3413.m3u8
 #EXTINF:-1,VH1 CLASSIC
-http://37.59.41.145:5050/live/admin/dreemedia/85.ts
-#EXTINF:-1,TV5 MONDE
-http://37.59.41.145:5050/live/admin/dreemedia/71.ts
-#EXTINF:-1,TV GALICIA
-http://37.59.41.145:5050/live/admin/dreemedia/70.ts
-#EXTINF:-1,SBT HD
-http://37.59.41.145:5050/live/admin/dreemedia/75.ts
-#EXTINF:-1,SBT
-http://37.59.41.145:5050/live/admin/dreemedia/74.ts
-#EXTINF:-1,REDE TV! HD
-http://37.59.41.145:5050/live/admin/dreemedia/73.ts
-#EXTINF:-1,REDE TV!
-http://37.59.41.145:5050/live/admin/dreemedia/72.ts
-#EXTINF:-1,RECORD NEWS
-http://37.59.41.145:5050/live/admin/dreemedia/82.ts
-#EXTINF:-1,REAL MADRID TV HD SD
-http://37.59.41.145:5050/live/admin/dreemedia/101.ts
-#EXTINF:-1,REAL MADRID TV HD
-http://37.59.41.145:5050/live/admin/dreemedia/102.ts
-#EXTINF:-1,REAL MADRID TV
-http://37.59.41.145:5050/live/admin/dreemedia/103.ts
-#EXTINF:-1,RAI NEWS 24
-http://37.59.41.145:5050/live/admin/dreemedia/92.ts
-#EXTINF:-1,MEZZO LIVE HD
-http://37.59.41.145:5050/live/admin/dreemedia/96.ts
-#EXTINF:-1,MACAU TV
-http://37.59.41.145:5050/live/admin/dreemedia/86.ts
-#EXTINF:-1,KURIAKOS TV
-http://37.59.41.145:5050/live/admin/dreemedia/97.ts
-#EXTINF:-1,KURIAKOS MUSIC
-http://37.59.41.145:5050/live/admin/dreemedia/98.ts
-#EXTINF:-1,KURIAKOS KIDS
-http://37.59.41.145:5050/live/admin/dreemedia/99.ts
-#EXTINF:-1,KURIAKOS CINE
-http://37.59.41.145:5050/live/admin/dreemedia/100.ts
-#EXTINF:-1,FATIMA TV
-http://37.59.41.145:5050/live/admin/dreemedia/83.ts
-#EXTINF:-1,DW (ENGLISH)
-http://37.59.41.145:5050/live/admin/dreemedia/87.ts
-#EXTINF:-1,DJING SUMMER VIBES
-http://37.59.41.145:5050/live/admin/dreemedia/81.ts
-#EXTINF:-1,DJING IBIZA
-http://37.59.41.145:5050/live/admin/dreemedia/80.ts
-#EXTINF:-1,DJING HITS
-http://37.59.41.145:5050/live/admin/dreemedia/79.ts
-#EXTINF:-1,DJING ELECTRO ROCK
-http://37.59.41.145:5050/live/admin/dreemedia/78.ts
-#EXTINF:-1,DJING DANCE FLOOR MUSIC
-http://37.59.41.145:5050/live/admin/dreemedia/77.ts
-#EXTINF:-1,DJING CLASSICS
-http://37.59.41.145:5050/live/admin/dreemedia/76.ts
-#EXTINF:-1,CBSN
-http://37.59.41.145:5050/live/admin/dreemedia/88.ts
-#EXTINF:-1,CANÇÃO NOVA
-http://37.59.41.145:5050/live/admin/dreemedia/69.ts
-#EXTINF:-1,CANAL PARLAMENTO
-http://37.59.41.145:5050/live/admin/dreemedia/84.ts
-#EXTINF:-1,CACAVISION
-http://37.59.41.145:5050/live/admin/dreemedia/68.ts
-#EXTINF:-1,BLOOMBERG
-http://37.59.41.145:5050/live/admin/dreemedia/89.ts
-#EXTINF:-1,AR TV
-http://37.59.41.145:5050/live/admin/dreemedia/90.ts
-#EXTINF:-1,AL JAZEERA
-http://37.59.41.145:5050/live/admin/dreemedia/91.ts
+http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3412.m3u8

@@ -1,135 +1,247 @@
 #EXTM3U
-#EXTINF:-1,LA 1 SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25936
-#EXTINF:-1,LA 1 HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25937
-#EXTINF:-1,LA 1 FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25613
-#EXTINF:-1,LA 2
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25612
-#EXTINF:-1,La 2 FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25611
-#EXTINF:-1,Antena 3
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25610
-#EXTINF:-1,Antena 3 HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25938
-#EXTINF:-1,Antena 3 FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25609
-#EXTINF:-1,Cuatro
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25608
-#EXTINF:-1,Cuatro FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25607
-#EXTINF:-1,Telecinco
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25606
-#EXTINF:-1,Telecinco FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25605
-#EXTINF:-1,0# SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25602
-#EXTINF:-1,0# HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25600
-#EXTINF:-1,0# FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25601
-#EXTINF:-1,Syfy SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25564
-#EXTINF:-1,Syfy FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25563
-#EXTINF:-1,TCM SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25562
-#EXTINF:-1,TCM FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25561
-#EXTINF:-1,Ten HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25560
-#EXTINF:-1,Garage TV
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25945
-#EXTINF:-1,TNT SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25559
-#EXTINF:-1,TNT FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25558
-#EXTINF:-1,AMC SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25546
-#EXTINF:-1,AMC FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25545
-#EXTINF:-1,AXN SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25542
-#EXTINF:-1,AXN FULL HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25539
-#EXTINF:-1,AXN  White SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25541
-#EXTINF:-1,AXN  White FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25540
-#EXTINF:-1,ES:MTV HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25460
-#EXTINF:-1,Gh DUO 24h
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25645
-#EXTINF:-1,Movistar Fama 24h
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/28056
-#EXTINF:-1,Discovery SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25518
-#EXTINF:-1,Discovery HD  Spain
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25944
-#EXTINF:-1,Neox
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25575
-#EXTINF:-1,Nick Jr
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25574
-#EXTINF:-1,Nickelodeon
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25573
-#EXTINF:-1,Nickelodeon HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25572
-#EXTINF:-1,Odisea
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25571
-#EXTINF:-1,Canal Panda
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25570
-#EXTINF:-1,Paramount Channel
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25569
-#EXTINF:-1,Sol Musica
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25568
-#EXTINF:-1,Somos
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25567
-#EXTINF:-1,ES:TV 13
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25557
-#EXTINF:-1,Viajar HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25556
-#EXTINF:-1,Disney Junior
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25517
-#EXTINF:-1,Disney XD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25516
-#EXTINF:-1,Disney Channel
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25515
-#EXTINF:-1,Disney Channel FHD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25514
-#EXTINF:-1,Divinity
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25513
-#EXTINF:-1,DKISS
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25512
-#EXTINF:-1,DMAX
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25511
-#EXTINF:-1,Energy
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25510
-#EXTINF:-1,ES:HIT TV
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25504
-#EXTINF:-1,Hollywood SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25553
-#EXTINF:-1,Mega
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25503
-#EXTINF:-1,Mezzo Live SD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25502
-#EXTINF:-1,Mezzo Live FULL HD
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25501
-#EXTINF:-1,TV3 HD 1080
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25990
-#EXTINF:-1,Beteve
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25989
-#EXTINF:-1,SUPER  3 /33 .cat
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25988
-#EXTINF:-1,3/24 .cat
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25987
-#EXTINF:-1,8 TV .cat
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25986
-#EXTINF:-1,À Punt HD 1080
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25985
-#EXTINF:-1,BOM
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25984
-#EXTINF:-1,EL PUNT AVUI
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25983
-#EXTINF:-1,25 TV
-http://94.229.75.118:25461/sL4Jm9BsfF/uAuWp5svHc/25982
+#EXTINF:-1,A&E
+http://primestreams.tv:826/live/Renzo/Renzo123/73888.m3u8
+#EXTINF:-1,AMC Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73885.m3u8
+#EXTINF:-1,Animal Planet
+http://primestreams.tv:826/live/Renzo/Renzo123/73807.m3u8
+#EXTINF:-1,Antena 3 Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73884.m3u8
+#EXTINF:-1,AXN Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73883.m3u8
+#EXTINF:-1,AZTECA 7
+http://primestreams.tv:826/live/Renzo/Renzo123/91139.m3u8
+#EXTINF:-1,AzMundo
+http://primestreams.tv:826/live/Renzo/Renzo123/73878.m3u8
+#EXTINF:-1,BANDAMAX
+http://primestreams.tv:826/live/Renzo/Renzo123/90682.m3u8
+#EXTINF:-1,Bloomberg Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73876.m3u8
+#EXTINF:-1,Baby TV Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73877.m3u8
+#EXTINF:-1,Cartoon Network
+http://primestreams.tv:826/live/Renzo/Renzo123/73871.m3u8
+#EXTINF:-1,CANAL 5
+http://primestreams.tv:826/live/Renzo/Renzo123/73920.m3u8
+#EXTINF:-1,CINE Latino Local
+http://primestreams.tv:826/live/Renzo/Renzo123/40074.m3u8
+#EXTINF:-1,CINE SONY Local
+http://primestreams.tv:826/live/Renzo/Renzo123/91156.m3u8
+#EXTINF:-1,CINECANAL Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90555.m3u8
+#EXTINF:-1,Cinemax
+http://primestreams.tv:826/live/Renzo/Renzo123/73870.m3u8
+#EXTINF:-1,CNN EN ESPANOL Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73917.m3u8
+#EXTINF:-1,Comedy Central Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73869.m3u8
+#EXTINF:-1,De PelĂ­cula Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73789.m3u8
+#EXTINF:-1,Boomerang
+http://primestreams.tv:826/live/Renzo/Renzo123/73868.m3u8
+#EXTINF:-1,DISCOVERY Local
+http://primestreams.tv:826/live/Renzo/Renzo123/88178.m3u8
+#EXTINF:-1,Discovery Channel Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73806.m3u8
+#EXTINF:-1,DISCOVERY FAMILIA Local
+http://primestreams.tv:826/live/Renzo/Renzo123/88177.m3u8
+#EXTINF:-1,Discovery Home & Heatlh Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73805.m3u8
+#EXTINF:-1,Discovery Kids Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73801.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90548.m3u8
+#EXTINF:-1,DISCOVERY THEATER Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73804.m3u8
+#EXTINF:-1,Discovery Turbo
+http://primestreams.tv:826/live/Renzo/Renzo123/73803.m3u8
+#EXTINF:-1,Discovery World Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73802.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://primestreams.tv:826/live/Renzo/Renzo123/73916.m3u8
+#EXTINF:-1,DISNEY JR Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90549.m3u8
+#EXTINF:-1,DISNEY XD Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73915.m3u8
+#EXTINF:-1,Distrito Comedia
+http://primestreams.tv:826/live/Renzo/Renzo123/73867.m3u8
+#EXTINF:-1,E! Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73866.m3u8
+#EXTINF:-1,El Gourmet Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73865.m3u8
+#EXTINF:-1,ESPN 2 Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73796.m3u8
+#EXTINF:-1,ESPN DEPORTES Local
+http://primestreams.tv:826/live/Renzo/Renzo123/40073.m3u8
+#EXTINF:-1,Foro
+http://primestreams.tv:826/live/Renzo/Renzo123/73863.m3u8
+#EXTINF:-1,Fox
+http://primestreams.tv:826/live/Renzo/Renzo123/73861.m3u8
+#EXTINF:-1,Fox Action Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73860.m3u8
+#EXTINF:-1,Fox Life Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73862.m3u8
+#EXTINF:-1,FOX SERIES Local
+http://primestreams.tv:826/live/Renzo/Renzo123/77100.m3u8
+#EXTINF:-1,FOX PREMIUM CINEMA Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90551.m3u8
+#EXTINF:-1,FOX PREMIUM CLASSICS Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90552.m3u8
+#EXTINF:-1,Fox Premium Movies Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73859.m3u8
+#EXTINF:-1,Fox Premium Series Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73858.m3u8
+#EXTINF:-1,Fox Sports Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73857.m3u8
+#EXTINF:-1,Fox Sports 2 Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73856.m3u8
+#EXTINF:-1,Fox Sports 3 Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73855.m3u8
+#EXTINF:-1,FoxFX Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90550.m3u8
+#EXTINF:-1,FXM
+http://primestreams.tv:826/live/Renzo/Renzo123/73853.m3u8
+#EXTINF:-1,FX Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73854.m3u8
+#EXTINF:-1,Gala TV
+http://primestreams.tv:826/live/Renzo/Renzo123/73852.m3u8
+#EXTINF:-1,Glitz
+http://primestreams.tv:826/live/Renzo/Renzo123/73851.m3u8
+#EXTINF:-1,Golden Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73850.m3u8
+#EXTINF:-1,GOLDEN PREMIER 1 Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90554.m3u8
+#EXTINF:-1,Golf Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73849.m3u8
+#EXTINF:-1,HISTORY
+http://primestreams.tv:826/live/Renzo/Renzo123/73908.m3u8
+#EXTINF:-1,H2
+http://primestreams.tv:826/live/Renzo/Renzo123/73914.m3u8
+#EXTINF:-1,HBO Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73913.m3u8
+#EXTINF:-1,HBO 2
+http://primestreams.tv:826/live/Renzo/Renzo123/73911.m3u8
+#EXTINF:-1,HBO FAMILY Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73910.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://primestreams.tv:826/live/Renzo/Renzo123/73909.m3u8
+#EXTINF:-1,HBO Signature Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73912.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73794.m3u8
+#EXTINF:-1,Las Estrellas Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73843.m3u8
+#EXTINF:-1,Lifetime Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73799.m3u8
+#EXTINF:-1,MAXUP Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90556.m3u8
+#EXTINF:-1,MEGA
+http://primestreams.tv:826/live/Renzo/Renzo123/90685.m3u8
+#EXTINF:-1,MTV Live
+http://primestreams.tv:826/live/Renzo/Renzo123/73838.m3u8
+#EXTINF:-1,MTV Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73791.m3u8
+#EXTINF:-1,Multipremier
+http://primestreams.tv:826/live/Renzo/Renzo123/73837.m3u8
+#EXTINF:-1,Natgeo Kids
+http://primestreams.tv:826/live/Renzo/Renzo123/73798.m3u8
+#EXTINF:-1,Natgeo Wild Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73790.m3u8
+#EXTINF:-1,NICKELODEON Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73834.m3u8
+#EXTINF:-1,NICK 2
+http://primestreams.tv:826/live/Renzo/Renzo123/73902.m3u8
+#EXTINF:-1,NICK JR Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73903.m3u8
+#EXTINF:-1,NAT GEO Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73906.m3u8
+#EXTINF:-1,NAT GEO MUNDO Local
+http://primestreams.tv:826/live/Renzo/Renzo123/91155.m3u8
+#EXTINF:-1,Paramount Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73832.m3u8
+#EXTINF:-1,Pasiones Local
+http://primestreams.tv:826/live/Renzo/Renzo123/40078.m3u8
+#EXTINF:-1,Sony Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73828.m3u8
+#EXTINF:-1,SPACE Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90553.m3u8
+#EXTINF:-1,Studio Universal
+http://primestreams.tv:826/live/Renzo/Renzo123/73825.m3u8
+#EXTINF:-1,Sundance Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73824.m3u8
+#EXTINF:-1,Syfy
+http://primestreams.tv:826/live/Renzo/Renzo123/73823.m3u8
+#EXTINF:-1,TBS Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90557.m3u8
+#EXTINF:-1,TCM
+http://primestreams.tv:826/live/Renzo/Renzo123/73899.m3u8
+#EXTINF:-1,TelefĂ³rmula
+http://primestreams.tv:826/live/Renzo/Renzo123/73822.m3u8
+#EXTINF:-1,Telehit
+http://primestreams.tv:826/live/Renzo/Renzo123/73821.m3u8
+#EXTINF:-1,TELEMUNDO 40 Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90568.m3u8
+#EXTINF:-1,TELEMUNDO 51 Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90565.m3u8
+#EXTINF:-1,TELEMUNDO BOSTON Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90571.m3u8
+#EXTINF:-1,TELEMUNDO D.C.
+http://primestreams.tv:826/live/Renzo/Renzo123/90562.m3u8
+#EXTINF:-1,TELEMUNDO DENVER Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90566.m3u8
+#EXTINF:-1,TELEMUNDO LAS VEGAS Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90567.m3u8
+#EXTINF:-1,Telemundo Los Angeles USA
+http://primestreams.tv:826/live/Renzo/Renzo123/73892.m3u8
+#EXTINF:-1,Telemundo Miami USA
+http://primestreams.tv:826/live/Renzo/Renzo123/73891.m3u8
+#EXTINF:-1,TELEMUNDO NY Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73890.m3u8
+#EXTINF:-1,TELEMUNDO PHOENIX Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90564.m3u8
+#EXTINF:-1,TELEMUNDO PUERTO RICO
+http://primestreams.tv:826/live/Renzo/Renzo123/90561.m3u8
+#EXTINF:-1,TELEMUNDO SALT LAKE CITY
+http://primestreams.tv:826/live/Renzo/Renzo123/90559.m3u8
+#EXTINF:-1,TELEMUNDO SAN ANTONIO Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90569.m3u8
+#EXTINF:-1,TELEMUNDO SAN FRANCISCO
+http://primestreams.tv:826/live/Renzo/Renzo123/90560.m3u8
+#EXTINF:-1,TELEMUNDO TUCSON Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90570.m3u8
+#EXTINF:-1,TLNOVELAS Local
+http://primestreams.tv:826/live/Renzo/Renzo123/90558.m3u8
+#EXTINF:-1,TLC Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73898.m3u8
+#EXTINF:-1,TNT Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73818.m3u8
+#EXTINF:-1,TNT SERIES Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73817.m3u8
+#EXTINF:-1,TOONCAST
+http://primestreams.tv:826/live/Renzo/Renzo123/73897.m3u8
+#EXTINF:-1,Tru TV Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73816.m3u8
+#EXTINF:-1,TV MAS
+http://primestreams.tv:826/live/Renzo/Renzo123/73895.m3u8
+#EXTINF:-1,TVE
+http://primestreams.tv:826/live/Renzo/Renzo123/73826.m3u8
+#EXTINF:-1,TVMĂ¡s OK
+http://primestreams.tv:826/live/Renzo/Renzo123/73813.m3u8
+#EXTINF:-1,UFC
+http://primestreams.tv:826/live/Renzo/Renzo123/73893.m3u8
+#EXTINF:-1,Unicable Local
+http://primestreams.tv:826/live/Renzo/Renzo123/40077.m3u8
+#EXTINF:-1,Unimas
+http://primestreams.tv:826/live/Renzo/Renzo123/40076.m3u8
+#EXTINF:-1,Universal Channel
+http://primestreams.tv:826/live/Renzo/Renzo123/73811.m3u8
+#EXTINF:-1,Universo Local
+http://primestreams.tv:826/live/Renzo/Renzo123/40075.m3u8
+#EXTINF:-1,VH1 Local
+http://primestreams.tv:826/live/Renzo/Renzo123/73810.m3u8
+#EXTINF:-1,Wapa
+http://primestreams.tv:826/live/Renzo/Renzo123/75479.m3u8
+#EXTINF:-1,Warner Bros Channel
+http://primestreams.tv:826/live/Renzo/Renzo123/73809.m3u8
+#EXTINF:-1,Wobi TV
+http://primestreams.tv:826/live/Renzo/Renzo123/73808.m3u8

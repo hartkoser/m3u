@@ -1,209 +1,61 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/184564
-#EXTINF:-1,Acasa HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209570
-#EXTINF:-1,Agro TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75025
-#EXTINF:-1,AMC
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63031
-#EXTINF:-1,ANIMAL PLANET HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63030
-#EXTINF:-1,Antena 1 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155447
-#EXTINF:-1,Antena 3 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155448
-#EXTINF:-1,Antena Star HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/134500
-#EXTINF:-1,Arena Sport 1
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210031
-#EXTINF:-1,Arena Sport 2 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210032
-#EXTINF:-1,Arena Sport 3 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210033
-#EXTINF:-1,Arena Sport 4 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210917
-#EXTINF:-1,Arenat 4
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210034
-#EXTINF:-1,Auto Motor Sport FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/207647
-#EXTINF:-1,AXN BLACK
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/112894
-#EXTINF:-1,AXN White HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/90210
-#EXTINF:-1,B1 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/98558
-#EXTINF:-1,BBC Earth HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/112899
+#EXTINF:-1,TVR 1
+http://hd.007iptv.com:2095/live/1234/4321/1459.m3u8
+#EXTINF:-1,TVR 2
+http://hd.007iptv.com:2095/live/1234/4321/1458.m3u8
+#EXTINF:-1,TVR 3
+http://hd.007iptv.com:2095/live/1234/4321/1477.m3u8
+#EXTINF:-1,Antena 1
+http://hd.007iptv.com:2095/live/1234/4321/1471.m3u8
 #EXTINF:-1,Boomerang
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63029
-#EXTINF:-1,Canal D
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155207
-#EXTINF:-1,Cartoon Network
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63027
-#EXTINF:-1,Cinemax 2 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63026
-#EXTINF:-1,Cinemax HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63024
-#EXTINF:-1,DIBI TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62992
-#EXTINF:-1,Digi 24 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63016
-#EXTINF:-1,Digi ANIMAL WORLD HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63015
-#EXTINF:-1,Digi FILM HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210989
-#EXTINF:-1,Digi Film NOW HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155777
-#EXTINF:-1,Digi Life
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63013
-#EXTINF:-1,Digi Sport 1 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/65872
-#EXTINF:-1,Digi Sport 2 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/65871
-#EXTINF:-1,Digi Sport 3 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210975
-#EXTINF:-1,Digi Sport 3 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/65870
-#EXTINF:-1,DIGI SPORT 4 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/110982
-#EXTINF:-1,Digi Sport 4 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210977
-#EXTINF:-1,Digi WORLD HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63012
-#EXTINF:-1,Discovery Channel
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63011
-#EXTINF:-1,Discovery Science HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63010
-#EXTINF:-1,Disney Channel
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63009
-#EXTINF:-1,Disney Junior
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63008
-#EXTINF:-1,Etno Tv HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156195
-#EXTINF:-1,EUROSPORT 1 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/145815
-#EXTINF:-1,EUROSPORT 2 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62973
-#EXTINF:-1,FAVORIT TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/90218
-#EXTINF:-1,Film Cafe
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/160927
-#EXTINF:-1,Fishing & Hunting HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75030
-#EXTINF:-1,Fix & Foxi
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208961
-#EXTINF:-1,Food Network HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/112954
-#EXTINF:-1,HAPPY CHANNEL HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/98561
-#EXTINF:-1,HBO 2 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63006
-#EXTINF:-1,HBO 3 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63005
-#EXTINF:-1,HBO HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63004
-#EXTINF:-1,History Channel
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63001
-#EXTINF:-1,Kanal D HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155780
-#EXTINF:-1,KISS TV HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62989
-#EXTINF:-1,Look Plus HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75031
-#EXTINF:-1,Look Sport TV FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155781
-#EXTINF:-1,MegaMax HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75033
-#EXTINF:-1,Minimax
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156199
-#EXTINF:-1,Music 1 Channel
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/192689
-#EXTINF:-1,NAT GEO
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75035
-#EXTINF:-1,NAT GEO Wild HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63000
-#EXTINF:-1,National TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66907
-#EXTINF:-1,Neptun TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75036
-#EXTINF:-1,Nick Junior
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/118377
-#EXTINF:-1,Nickelodeon HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62996
-#EXTINF:-1,Paramount Channel
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62988
-#EXTINF:-1,Prima Cool
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75037
-#EXTINF:-1,Prima Love
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209598
-#EXTINF:-1,PRO 2 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75024
-#EXTINF:-1,Pro Cinema HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62995
-#EXTINF:-1,PRO GOLD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206450
-#EXTINF:-1,PRO TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66902
-#EXTINF:-1,PRO X HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62972
-#EXTINF:-1,Realite TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/184575
-#EXTINF:-1,RO TVR 3
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210894
+http://hd.007iptv.com:2095/live/1234/4321/1482.m3u8
+#EXTINF:-1,Pro TV
+http://hd.007iptv.com:2095/live/1234/4321/1464.m3u8
+#EXTINF:-1,Procinema
+http://hd.007iptv.com:2095/live/1234/4321/1463.m3u8
+#EXTINF:-1,Realitatea Tv
+http://hd.007iptv.com:2095/live/1234/4321/1472.m3u8
 #EXTINF:-1,Romania TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155782
-#EXTINF:-1,STARS
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/198010
-#EXTINF:-1,SUPERTENNIS HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/134687
-#EXTINF:-1,Taraf
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66899
-#EXTINF:-1,Tele Moldova Plus
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/98569
-#EXTINF:-1,TELEKOM SPORT 1 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62979
-#EXTINF:-1,TELEKOM SPORT 2 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62978
-#EXTINF:-1,TELEKOM SPORT 3 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/89362
-#EXTINF:-1,TELEKOM SPORT 4 FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/113005
-#EXTINF:-1,TELESHOP TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62987
-#EXTINF:-1,The Fishing & Hunting
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124898
+http://hd.007iptv.com:2095/live/1234/4321/1462.m3u8
+#EXTINF:-1,Sport
+http://hd.007iptv.com:2095/live/1234/4321/1461.m3u8
 #EXTINF:-1,TLC
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/113010
-#EXTINF:-1,TNT
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/90215
-#EXTINF:-1,Travel Channel FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/113012
-#EXTINF:-1,TRINITAS TV
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75039
-#EXTINF:-1,TV 1000 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62993
+http://hd.007iptv.com:2095/live/1234/4321/1484.m3u8
 #EXTINF:-1,TV Paprika
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155783
-#EXTINF:-1,TV5 Monde
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/90214
-#EXTINF:-1,TVR 1 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/146493
-#EXTINF:-1,TVR 2 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155784
-#EXTINF:-1,TVR 3 HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/62983
-#EXTINF:-1,TVR HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/160928
-#EXTINF:-1,TVR International
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208976
-#EXTINF:-1,UTV HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/75040
-#EXTINF:-1,VIASAT EXPLORER
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/98571
-#EXTINF:-1,Viasat History FHD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/63003
-#EXTINF:-1,Viasat Nature
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/155785
-#EXTINF:-1,ZU TV HD
-http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/113024
+http://hd.007iptv.com:2095/live/1234/4321/1483.m3u8
+#EXTINF:-1,Digi 24
+http://hd.007iptv.com:2095/live/1234/4321/1481.m3u8
+#EXTINF:-1,Digi film
+http://hd.007iptv.com:2095/live/1234/4321/1480.m3u8
+#EXTINF:-1,Digi Life
+http://hd.007iptv.com:2095/live/1234/4321/1470.m3u8
+#EXTINF:-1,DIGI SPORT 1
+http://hd.007iptv.com:2095/live/1234/4321/1456.m3u8
+#EXTINF:-1,DIGI SPORT 3
+http://hd.007iptv.com:2095/live/1234/4321/1454.m3u8
+#EXTINF:-1,DIGI SPORT 4
+http://hd.007iptv.com:2095/live/1234/4321/1453.m3u8
+#EXTINF:-1,Etno Tv
+http://hd.007iptv.com:2095/live/1234/4321/1479.m3u8
+#EXTINF:-1,Favorit Tv
+http://hd.007iptv.com:2095/live/1234/4321/1478.m3u8
+#EXTINF:-1,Kanal D
+http://hd.007iptv.com:2095/live/1234/4321/1468.m3u8
+#EXTINF:-1,KISS TV
+http://hd.007iptv.com:2095/live/1234/4321/1476.m3u8
+#EXTINF:-1,Megamax
+http://hd.007iptv.com:2095/live/1234/4321/1467.m3u8
+#EXTINF:-1,Minimax
+http://hd.007iptv.com:2095/live/1234/4321/1474.m3u8
+#EXTINF:-1,Nickelodeon
+http://hd.007iptv.com:2095/live/1234/4321/1473.m3u8
+#EXTINF:-1,Disney Junior
+http://hd.007iptv.com:2095/live/1234/4321/1469.m3u8
+#EXTINF:-1,National Geo Wild
+http://hd.007iptv.com:2095/live/1234/4321/1466.m3u8
+#EXTINF:-1,National Geographic
+http://hd.007iptv.com:2095/live/1234/4321/1465.m3u8
+#EXTINF:-1,Viasat History
+http://hd.007iptv.com:2095/live/1234/4321/1475.m3u8
+#EXTINF:-1,Taraf Tv
+http://hd.007iptv.com:2095/live/1234/4321/1460.m3u8
