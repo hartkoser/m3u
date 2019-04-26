@@ -1,342 +1,201 @@
 #EXTM3U
-#EXTINF:-1,FRANCE 2  FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7066.m3u8
-#EXTINF:-1,FRANCE 3 FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7067.m3u8
-#EXTINF:-1,FRANCE 4 FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7068.m3u8
-#EXTINF:-1,FRANCE 5  FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7069.m3u8
-#EXTINF:-1,M6 FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7065.m3u8
-#EXTINF:-1,M6 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/325.m3u8
-#EXTINF:-1,TF1 FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7064.m3u8
 #EXTINF:-1,TF1 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/324.m3u8
-#EXTINF:-1,EURONEWS
-http://dynaiptv.tv:8010/live/luisete/luisete/2446.m3u8
-#EXTINF:-1,FRANCE24
-http://dynaiptv.tv:8010/live/luisete/luisete/2448.m3u8
-#EXTINF:-1,TV5
-http://dynaiptv.tv:8010/live/luisete/luisete/2463.m3u8
-#EXTINF:-1,A LACARTE 1
-http://dynaiptv.tv:8010/live/luisete/luisete/425.m3u8
-#EXTINF:-1,A LACARTE 2
-http://dynaiptv.tv:8010/live/luisete/luisete/424.m3u8
-#EXTINF:-1,A LACARTE 3
-http://dynaiptv.tv:8010/live/luisete/luisete/423.m3u8
-#EXTINF:-1,A LACARTE 4
-http://dynaiptv.tv:8010/live/luisete/luisete/422.m3u8
-#EXTINF:-1,A LACARTE 5
-http://dynaiptv.tv:8010/live/luisete/luisete/421.m3u8
-#EXTINF:-1, A LACARTE 6
-http://dynaiptv.tv:8010/live/luisete/luisete/1147.m3u8
-#EXTINF:-1, A LACARTE 7
-http://dynaiptv.tv:8010/live/luisete/luisete/1143.m3u8
-#EXTINF:-1, A LACARTE 8
-http://dynaiptv.tv:8010/live/luisete/luisete/1144.m3u8
-#EXTINF:-1,13EME RUE HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1280.m3u8
-#EXTINF:-1,6TER HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1266.m3u8
-#EXTINF:-1,AB1
-http://dynaiptv.tv:8010/live/luisete/luisete/3446.m3u8
-#EXTINF:-1,AB3
-http://dynaiptv.tv:8010/live/luisete/luisete/2456.m3u8
-#EXTINF:-1,BEIN SPORT 1 FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7660.m3u8
-#EXTINF:-1,BEIN SPORT 2 FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7661.m3u8
-#EXTINF:-1,BEIN SPORT 3 FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7662.m3u8
-#EXTINF:-1,Beinsport 1 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/303.m3u8
-#EXTINF:-1,Beinsport 2 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/307.m3u8
-#EXTINF:-1,Beinsport 3 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/308.m3u8
-#EXTINF:-1,Beinsport Max 4
-http://dynaiptv.tv:8010/live/luisete/luisete/2793.m3u8
-#EXTINF:-1,Beinsport Max 5
-http://dynaiptv.tv:8010/live/luisete/luisete/2794.m3u8
-#EXTINF:-1,Beinsport Max 6
-http://dynaiptv.tv:8010/live/luisete/luisete/2805.m3u8
-#EXTINF:-1,Beinsport Max 7
-http://dynaiptv.tv:8010/live/luisete/luisete/2806.m3u8
-#EXTINF:-1,Beinsport Max 8
-http://dynaiptv.tv:8010/live/luisete/luisete/2807.m3u8
-#EXTINF:-1,Beinsport Max 9
-http://dynaiptv.tv:8010/live/luisete/luisete/2951.m3u8
-#EXTINF:-1,BET
-http://dynaiptv.tv:8010/live/luisete/luisete/3694.m3u8
-#EXTINF:-1,BFM TV
-http://dynaiptv.tv:8010/live/luisete/luisete/2445.m3u8
-#EXTINF:-1,GOLF CHANNEL
-http://dynaiptv.tv:8010/live/luisete/luisete/7694.m3u8
-#EXTINF:-1,VOSGES TV
-http://dynaiptv.tv:8010/live/luisete/luisete/7689.m3u8
-#EXTINF:-1,C8 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/2815.m3u8
-#EXTINF:-1,Canal + Series
-http://dynaiptv.tv:8010/live/luisete/luisete/3224.m3u8
-#EXTINF:-1,Canal J
-http://dynaiptv.tv:8010/live/luisete/luisete/1537.m3u8
-#EXTINF:-1,CANAL PLAY 1
-http://dynaiptv.tv:8010/live/luisete/luisete/1560.m3u8
-#EXTINF:-1,CANAL PLAY 2
-http://dynaiptv.tv:8010/live/luisete/luisete/1561.m3u8
-#EXTINF:-1,CANAL PLAY 3
-http://dynaiptv.tv:8010/live/luisete/luisete/1562.m3u8
-#EXTINF:-1,CANAL PLAY 4
-http://dynaiptv.tv:8010/live/luisete/luisete/1563.m3u8
-#EXTINF:-1,CANAL PLAY 5
-http://dynaiptv.tv:8010/live/luisete/luisete/1564.m3u8
-#EXTINF:-1,CANAL PLAY 6
-http://dynaiptv.tv:8010/live/luisete/luisete/1556.m3u8
-#EXTINF:-1,CANAL PLAY 7
-http://dynaiptv.tv:8010/live/luisete/luisete/1557.m3u8
-#EXTINF:-1,CANAL PLAY 8
-http://dynaiptv.tv:8010/live/luisete/luisete/1558.m3u8
-#EXTINF:-1,CANAL PLAY 9
-http://dynaiptv.tv:8010/live/luisete/luisete/1559.m3u8
-#EXTINF:-1,CANAL+  FAMILY HD
-http://dynaiptv.tv:8010/live/luisete/luisete/327.m3u8
-#EXTINF:-1,CANAL+  SPORT HD
-http://dynaiptv.tv:8010/live/luisete/luisete/326.m3u8
-#EXTINF:-1,CANAL+ CINEMA HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1042.m3u8
-#EXTINF:-1,CANAL+ DECALE HD
-http://dynaiptv.tv:8010/live/luisete/luisete/328.m3u8
-#EXTINF:-1,CANAL+ HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1041.m3u8
-#EXTINF:-1,Animaux HD
-http://dynaiptv.tv:8010/live/luisete/luisete/7695.m3u8
-#EXTINF:-1,DISCOVERY FAMILY HD
-http://dynaiptv.tv:8010/live/luisete/luisete/6377.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://dynaiptv.tv:8010/live/luisete/luisete/6378.m3u8
-#EXTINF:-1,RMC SPORT NEWS HD
-http://dynaiptv.tv:8010/live/luisete/luisete/6376.m3u8
-#EXTINF:-1,Trace Sport Star HD
-http://dynaiptv.tv:8010/live/luisete/luisete/6374.m3u8
-#EXTINF:-1,TRACE TROPICAL HD
-http://dynaiptv.tv:8010/live/luisete/luisete/6375.m3u8
-#EXTINF:-1,Cartoon Network
-http://dynaiptv.tv:8010/live/luisete/luisete/1770.m3u8
-#EXTINF:-1,CHERIE25
-http://dynaiptv.tv:8010/live/luisete/luisete/1810.m3u8
-#EXTINF:-1,CINE EMOTION HD
-http://dynaiptv.tv:8010/live/luisete/luisete/330.m3u8
-#EXTINF:-1,CINE FAMIZ HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1252.m3u8
-#EXTINF:-1,CINE FRISSON HD
-http://dynaiptv.tv:8010/live/luisete/luisete/329.m3u8
-#EXTINF:-1,Cine Club
-http://dynaiptv.tv:8010/live/luisete/luisete/2462.m3u8
-#EXTINF:-1,CINE+ CLASSIC HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1251.m3u8
-#EXTINF:-1,CINE+ PREMIER
-http://dynaiptv.tv:8010/live/luisete/luisete/1811.m3u8
-#EXTINF:-1,CNEWS
-http://dynaiptv.tv:8010/live/luisete/luisete/2454.m3u8
-#EXTINF:-1,Comedie+
-http://dynaiptv.tv:8010/live/luisete/luisete/1257.m3u8
-#EXTINF:-1,CSTAR
-http://dynaiptv.tv:8010/live/luisete/luisete/2838.m3u8
-#EXTINF:-1,discovery channel
-http://dynaiptv.tv:8010/live/luisete/luisete/1809.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1775.m3u8
-#EXTINF:-1,Disney Channel
-http://dynaiptv.tv:8010/live/luisete/luisete/2957.m3u8
-#EXTINF:-1,DIsney channel +1
-http://dynaiptv.tv:8010/live/luisete/luisete/1772.m3u8
-#EXTINF:-1,Disney Cinema HD
-http://dynaiptv.tv:8010/live/luisete/luisete/2461.m3u8
-#EXTINF:-1,Disney Junior
-http://dynaiptv.tv:8010/live/luisete/luisete/1771.m3u8
-#EXTINF:-1,Disney XD
-http://dynaiptv.tv:8010/live/luisete/luisete/2959.m3u8
-#EXTINF:-1,E!
-http://dynaiptv.tv:8010/live/luisete/luisete/3445.m3u8
-#EXTINF:-1,Arte HD
-http://dynaiptv.tv:8010/live/luisete/luisete/7697.m3u8
-#EXTINF:-1,CANAL+  FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7696.m3u8
-#EXTINF:-1,ELLE GIRL
-http://dynaiptv.tv:8010/live/luisete/luisete/3695.m3u8
-#EXTINF:-1,EQUIDIA LIVE
-http://dynaiptv.tv:8010/live/luisete/luisete/1768.m3u8
-#EXTINF:-1,EUROSPORT HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1272.m3u8
-#EXTINF:-1,EUROSPORT2
-http://dynaiptv.tv:8010/live/luisete/luisete/1812.m3u8
-#EXTINF:-1,FOOT+ 24/24
-http://dynaiptv.tv:8010/live/luisete/luisete/1539.m3u8
-#EXTINF:-1,FRANCE 2 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/492.m3u8
-#EXTINF:-1,FRANCE 3 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/491.m3u8
+http://hd.007iptv.com:2095/live/1234/4321/760.m3u8
+#EXTINF:-1,13EME RUE
+http://hd.007iptv.com:2095/live/1234/4321/746.m3u8
+#EXTINF:-1,6ter HD
+http://hd.007iptv.com:2095/live/1234/4321/751.m3u8
+#EXTINF:-1,ARTE
+http://hd.007iptv.com:2095/live/1234/4321/747.m3u8
+#EXTINF:-1,C8
+http://hd.007iptv.com:2095/live/1234/4321/749.m3u8
+#EXTINF:-1,FRANCE 24
+http://hd.007iptv.com:2095/live/1234/4321/640.m3u8
+#EXTINF:-1,FRANCE O
+http://hd.007iptv.com:2095/live/1234/4321/754.m3u8
+#EXTINF:-1,FRANCE 2
+http://hd.007iptv.com:2095/live/1234/4321/758.m3u8
+#EXTINF:-1,France 3
+http://hd.007iptv.com:2095/live/1234/4321/757.m3u8
 #EXTINF:-1,FRANCE 4 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/490.m3u8
+http://hd.007iptv.com:2095/live/1234/4321/756.m3u8
 #EXTINF:-1,FRANCE 5 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/489.m3u8
-#EXTINF:-1,Game One HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1816.m3u8
-#EXTINF:-1,GOLF+
-http://dynaiptv.tv:8010/live/luisete/luisete/1767.m3u8
-#EXTINF:-1,GULLI
-http://dynaiptv.tv:8010/live/luisete/luisete/1271.m3u8
-#EXTINF:-1,Histoire
-http://dynaiptv.tv:8010/live/luisete/luisete/2449.m3u8
-#EXTINF:-1,InfoSport+
-http://dynaiptv.tv:8010/live/luisete/luisete/1270.m3u8
-#EXTINF:-1,OL TV
-http://dynaiptv.tv:8010/live/luisete/luisete/2964.m3u8
-#EXTINF:-1,KTO
-http://dynaiptv.tv:8010/live/luisete/luisete/3477.m3u8
-#EXTINF:-1,L'Equipe 21
-http://dynaiptv.tv:8010/live/luisete/luisete/1538.m3u8
-#EXTINF:-1,LCI HD
-http://dynaiptv.tv:8010/live/luisete/luisete/2457.m3u8
-#EXTINF:-1,LCP HD
-http://dynaiptv.tv:8010/live/luisete/luisete/2965.m3u8
-#EXTINF:-1,M6 MUSIC
-http://dynaiptv.tv:8010/live/luisete/luisete/3450.m3u8
-#EXTINF:-1,Mangas
-http://dynaiptv.tv:8010/live/luisete/luisete/2956.m3u8
-#EXTINF:-1,MTV
-http://dynaiptv.tv:8010/live/luisete/luisete/3448.m3u8
-#EXTINF:-1,RMC SPORT 1 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/5451.m3u8
-#EXTINF:-1,RMC SPORT 2 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1146.m3u8
-#EXTINF:-1,RMC SPORT 3 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1994.m3u8
-#EXTINF:-1,RMC SPORT 4 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/3851.m3u8
-#EXTINF:-1,MTV Club
-http://dynaiptv.tv:8010/live/luisete/luisete/3697.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://dynaiptv.tv:8010/live/luisete/luisete/1774.m3u8
-#EXTINF:-1,Nickelodeon
-http://dynaiptv.tv:8010/live/luisete/luisete/2955.m3u8
-#EXTINF:-1,NRJ HITS
-http://dynaiptv.tv:8010/live/luisete/luisete/2081.m3u8
-#EXTINF:-1,NRJ12
-http://dynaiptv.tv:8010/live/luisete/luisete/1148.m3u8
-#EXTINF:-1,TFX
-http://dynaiptv.tv:8010/live/luisete/luisete/2966.m3u8
-#EXTINF:-1,RMC Story HD
-http://dynaiptv.tv:8010/live/luisete/luisete/2960.m3u8
-#EXTINF:-1,OCS CHOC HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1258.m3u8
-#EXTINF:-1,OCS City
-http://dynaiptv.tv:8010/live/luisete/luisete/2954.m3u8
-#EXTINF:-1,OCS GEANTS
-http://dynaiptv.tv:8010/live/luisete/luisete/1256.m3u8
-#EXTINF:-1,OCS Max
-http://dynaiptv.tv:8010/live/luisete/luisete/488.m3u8
-#EXTINF:-1,Orange Cine 1
-http://dynaiptv.tv:8010/live/luisete/luisete/2106.m3u8
-#EXTINF:-1,Orange Cine 2
-http://dynaiptv.tv:8010/live/luisete/luisete/2105.m3u8
-#EXTINF:-1,Orange Cine 3
-http://dynaiptv.tv:8010/live/luisete/luisete/2109.m3u8
-#EXTINF:-1,Orange Cine 4
-http://dynaiptv.tv:8010/live/luisete/luisete/2110.m3u8
-#EXTINF:-1,Orange Cine 5
-http://dynaiptv.tv:8010/live/luisete/luisete/2111.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://dynaiptv.tv:8010/live/luisete/luisete/1259.m3u8
-#EXTINF:-1,PARIS PREMIERE HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1268.m3u8
-#EXTINF:-1,Piwi +
-http://dynaiptv.tv:8010/live/luisete/luisete/1815.m3u8
-#EXTINF:-1,Planete+ A&E
-http://dynaiptv.tv:8010/live/luisete/luisete/2455.m3u8
-#EXTINF:-1,Planete + CI HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1145.m3u8
-#EXTINF:-1,PLANETE+  HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1262.m3u8
-#EXTINF:-1,RMC Découverte
-http://dynaiptv.tv:8010/live/luisete/luisete/2812.m3u8
-#EXTINF:-1,RMC DECOUVERTE FHD
-http://dynaiptv.tv:8010/live/luisete/luisete/7309.m3u8
-#EXTINF:-1,RTL9
-http://dynaiptv.tv:8010/live/luisete/luisete/2979.m3u8
-#EXTINF:-1,Science et Vie tv
-http://dynaiptv.tv:8010/live/luisete/luisete/1043.m3u8
-#EXTINF:-1,SEASONS
-http://dynaiptv.tv:8010/live/luisete/luisete/3449.m3u8
-#EXTINF:-1,Serie Club HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1814.m3u8
-#EXTINF:-1,SYFY
-http://dynaiptv.tv:8010/live/luisete/luisete/3692.m3u8
-#EXTINF:-1,TCM CINEMA
-http://dynaiptv.tv:8010/live/luisete/luisete/3693.m3u8
-#EXTINF:-1,Teletoon+
-http://dynaiptv.tv:8010/live/luisete/luisete/2958.m3u8
-#EXTINF:-1,Teva HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1540.m3u8
-#EXTINF:-1,TiJi
-http://dynaiptv.tv:8010/live/luisete/luisete/2967.m3u8
-#EXTINF:-1,TMC HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1263.m3u8
-#EXTINF:-1,Toute L'histoire
-http://dynaiptv.tv:8010/live/luisete/luisete/1773.m3u8
-#EXTINF:-1,TRACE URBUN
-http://dynaiptv.tv:8010/live/luisete/luisete/3696.m3u8
-#EXTINF:-1,TREK
-http://dynaiptv.tv:8010/live/luisete/luisete/2839.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1766.m3u8
-#EXTINF:-1,Voyage HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1776.m3u8
+http://hd.007iptv.com:2095/live/1234/4321/755.m3u8
+#EXTINF:-1,M6 HD
+http://hd.007iptv.com:2095/live/1234/4321/753.m3u8
 #EXTINF:-1,W9
-http://dynaiptv.tv:8010/live/luisete/luisete/3447.m3u8
-
-#EXTINF:-1,BE: 2BE HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1747.m3u8
-#EXTINF:-1,BE: ACHT
-http://dynaiptv.tv:8010/live/luisete/luisete/1748.m3u8
-#EXTINF:-1,BE: Canvas HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1822.m3u8
-#EXTINF:-1,BE: CINEMA
-http://dynaiptv.tv:8010/live/luisete/luisete/2799.m3u8
-#EXTINF:-1,BE: CINEMA2
-http://dynaiptv.tv:8010/live/luisete/luisete/2796.m3u8
-#EXTINF:-1,BE: Club RTL
-http://dynaiptv.tv:8010/live/luisete/luisete/3159.m3u8
-#EXTINF:-1,BE: Dobbit TV
-http://dynaiptv.tv:8010/live/luisete/luisete/2798.m3u8
-#EXTINF:-1,BE: EEN HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1751.m3u8
-#EXTINF:-1,BE: La Deux
-http://dynaiptv.tv:8010/live/luisete/luisete/1494.m3u8
-#EXTINF:-1,BE: La Trois
-http://dynaiptv.tv:8010/live/luisete/luisete/1495.m3u8
+http://hd.007iptv.com:2095/live/1234/4321/750.m3u8
+#EXTINF:-1,TMC HD
+http://hd.007iptv.com:2095/live/1234/4321/752.m3u8
+#EXTINF:-1,TV5 MONDE EUROPE
+http://hd.007iptv.com:2095/live/1234/4321/694.m3u8
+#EXTINF:-1,TV5 Monde Info
+http://hd.007iptv.com:2095/live/1234/4321/748.m3u8
+#EXTINF:-1,AB MOTEURS
+http://hd.007iptv.com:2095/live/1234/4321/721.m3u8
+#EXTINF:-1,BEINSPORT 1 HD
+http://hd.007iptv.com:2095/live/1234/4321/743.m3u8
+#EXTINF:-1,BEINSPORT 2 HD
+http://hd.007iptv.com:2095/live/1234/4321/742.m3u8
+#EXTINF:-1,BEIN SPORT 3 HD
+http://hd.007iptv.com:2095/live/1234/4321/741.m3u8
+#EXTINF:-1,BEINSPORT MAX 4
+http://hd.007iptv.com:2095/live/1234/4321/734.m3u8
+#EXTINF:-1,BEINSPORT MAX 5
+http://hd.007iptv.com:2095/live/1234/4321/733.m3u8
+#EXTINF:-1,FR:.BEINSPORT MAX 6
+http://hd.007iptv.com:2095/live/1234/4321/732.m3u8
+#EXTINF:-1,BEINSPORT MAX 7
+http://hd.007iptv.com:2095/live/1234/4321/731.m3u8
+#EXTINF:-1,SFR Sport 1 HD
+http://hd.007iptv.com:2095/live/1234/4321/740.m3u8
+#EXTINF:-1,SFR Sport 2 HD
+http://hd.007iptv.com:2095/live/1234/4321/739.m3u8
+#EXTINF:-1,SFR Sport 3 HD
+http://hd.007iptv.com:2095/live/1234/4321/738.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://hd.007iptv.com:2095/live/1234/4321/720.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://hd.007iptv.com:2095/live/1234/4321/719.m3u8
+#EXTINF:-1,FOOT 24
+http://hd.007iptv.com:2095/live/1234/4321/723.m3u8
+#EXTINF:-1,CANAL + SPORT 1
+http://hd.007iptv.com:2095/live/1234/4321/725.m3u8
+#EXTINF:-1,CANAL PLUS SPORT
+http://hd.007iptv.com:2095/live/1234/4321/726.m3u8
+#EXTINF:-1,RMC SPORT 1 HD
+http://hd.007iptv.com:2095/live/1234/4321/7273.m3u8
+#EXTINF:-1,RMC SPORT 2 HD
+http://hd.007iptv.com:2095/live/1234/4321/7272.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+http://hd.007iptv.com:2095/live/1234/4321/7271.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+http://hd.007iptv.com:2095/live/1234/4321/7270.m3u8
+#EXTINF:-1,CANAL  CINEMA HD
+http://hd.007iptv.com:2095/live/1234/4321/713.m3u8
+#EXTINF:-1,CANAL ACTION HD
+http://hd.007iptv.com:2095/live/1234/4321/711.m3u8
+#EXTINF:-1,CANAL FAMILY HD
+http://hd.007iptv.com:2095/live/1234/4321/714.m3u8
+#EXTINF:-1,CANAL PLUS HD
+http://hd.007iptv.com:2095/live/1234/4321/716.m3u8
+#EXTINF:-1,Canal  SERIES HD
+http://hd.007iptv.com:2095/live/1234/4321/712.m3u8
+#EXTINF:-1,Canal Decale HD
+http://hd.007iptv.com:2095/live/1234/4321/710.m3u8
+#EXTINF:-1,CINE  CLASSIC
+http://hd.007iptv.com:2095/live/1234/4321/705.m3u8
+#EXTINF:-1,CINE  PREMIER HD
+http://hd.007iptv.com:2095/live/1234/4321/715.m3u8
+#EXTINF:-1,CINE FX
+http://hd.007iptv.com:2095/live/1234/4321/700.m3u8
+#EXTINF:-1,Comedie Plus HD
+http://hd.007iptv.com:2095/live/1234/4321/706.m3u8
+#EXTINF:-1,OCS CHOC
+http://hd.007iptv.com:2095/live/1234/4321/697.m3u8
+#EXTINF:-1,OCS CITY HD
+http://hd.007iptv.com:2095/live/1234/4321/696.m3u8
+#EXTINF:-1,OCS GEANTS
+http://hd.007iptv.com:2095/live/1234/4321/698.m3u8
+#EXTINF:-1,OCS MAX
+http://hd.007iptv.com:2095/live/1234/4321/699.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://hd.007iptv.com:2095/live/1234/4321/704.m3u8
+#EXTINF:-1,NT1
+http://hd.007iptv.com:2095/live/1234/4321/688.m3u8
+#EXTINF:-1,RTL9 HD
+http://hd.007iptv.com:2095/live/1234/4321/689.m3u8
+#EXTINF:-1,RTS UN HD
+http://hd.007iptv.com:2095/live/1234/4321/693.m3u8
+#EXTINF:-1,RTS DEUX
+http://hd.007iptv.com:2095/live/1234/4321/692.m3u8
+#EXTINF:-1,Rmc Decouverte
+http://hd.007iptv.com:2095/live/1234/4321/685.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://hd.007iptv.com:2095/live/1234/4321/690.m3u8
+#EXTINF:-1,Action HD
+http://hd.007iptv.com:2095/live/1234/4321/678.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://hd.007iptv.com:2095/live/1234/4321/677.m3u8
+#EXTINF:-1,USHUAIA TV HD
+http://hd.007iptv.com:2095/live/1234/4321/686.m3u8
+#EXTINF:-1,Equidia Live HD
+http://hd.007iptv.com:2095/live/1234/4321/680.m3u8
+#EXTINF:-1,Game One
+http://hd.007iptv.com:2095/live/1234/4321/649.m3u8
+#EXTINF:-1,BOOMERANG
+http://hd.007iptv.com:2095/live/1234/4321/642.m3u8
+#EXTINF:-1,GULLI
+http://hd.007iptv.com:2095/live/1234/4321/684.m3u8
+#EXTINF:-1,CHASSE & PECHE  HD
+http://hd.007iptv.com:2095/live/1234/4321/670.m3u8
+#EXTINF:-1,Discovery Science_HD
+http://hd.007iptv.com:2095/live/1234/4321/667.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://hd.007iptv.com:2095/live/1234/4321/669.m3u8
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://hd.007iptv.com:2095/live/1234/4321/668.m3u8
+#EXTINF:-1,Planete
+http://hd.007iptv.com:2095/live/1234/4321/666.m3u8
+#EXTINF:-1,SYFY HD
+http://hd.007iptv.com:2095/live/1234/4321/702.m3u8
+#EXTINF:-1,M6 MUSIC
+http://hd.007iptv.com:2095/live/1234/4321/658.m3u8
+#EXTINF:-1,MTV
+http://hd.007iptv.com:2095/live/1234/4321/656.m3u8
+#EXTINF:-1,NRJ 12 MUSIC
+http://hd.007iptv.com:2095/live/1234/4321/657.m3u8
+#EXTINF:-1,MANGAS
+http://hd.007iptv.com:2095/live/1234/4321/643.m3u8
+#EXTINF:-1,PIWI
+http://hd.007iptv.com:2095/live/1234/4321/644.m3u8
+#EXTINF:-1,TELETOON  HD
+http://hd.007iptv.com:2095/live/1234/4321/651.m3u8
+#EXTINF:-1,TIJI
+http://hd.007iptv.com:2095/live/1234/4321/645.m3u8
+#EXTINF:-1,A LA CARTE 1
+http://hd.007iptv.com:2095/live/1234/4321/636.m3u8
+#EXTINF:-1,A LA CARTE 2
+http://hd.007iptv.com:2095/live/1234/4321/635.m3u8
+#EXTINF:-1,A LA CARTE 3
+http://hd.007iptv.com:2095/live/1234/4321/634.m3u8
+#EXTINF:-1,A LA CARTE 4
+http://hd.007iptv.com:2095/live/1234/4321/633.m3u8
+#EXTINF:-1,A LA CARTE 5
+http://hd.007iptv.com:2095/live/1234/4321/632.m3u8
+#EXTINF:-1,A LA CARTE 6
+http://hd.007iptv.com:2095/live/1234/4321/631.m3u8
+#EXTINF:-1,BE: AB3 HD
+http://hd.007iptv.com:2095/live/1234/4321/4673.m3u8
+#EXTINF:-1,BE: Antenne Centre TV
+http://hd.007iptv.com:2095/live/1234/4321/4668.m3u8
+#EXTINF:-1,BE: BX1
+http://hd.007iptv.com:2095/live/1234/4321/4669.m3u8
+#EXTINF:-1,BE: CANAL ZOOM
+http://hd.007iptv.com:2095/live/1234/4321/4663.m3u8
+#EXTINF:-1,BE: CAZ
+http://hd.007iptv.com:2095/live/1234/4321/4667.m3u8
+#EXTINF:-1,BE: Jim TV
+http://hd.007iptv.com:2095/live/1234/4321/4666.m3u8
+#EXTINF:-1,BE: KetOp12
+http://hd.007iptv.com:2095/live/1234/4321/4672.m3u8
 #EXTINF:-1,BE: La Une HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1493.m3u8
-#EXTINF:-1,BE: PLUG RTL
-http://dynaiptv.tv:8010/live/luisete/luisete/1492.m3u8
-#EXTINF:-1,BE: RTL TVI HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1496.m3u8
-#EXTINF:-1,BE: Televesdre
-http://dynaiptv.tv:8010/live/luisete/luisete/2800.m3u8
-#EXTINF:-1,BE: TV Limburg (TVL)
-http://dynaiptv.tv:8010/live/luisete/luisete/2795.m3u8
-#EXTINF:-1,BE: TVO
-http://dynaiptv.tv:8010/live/luisete/luisete/2801.m3u8
-#EXTINF:-1,BE: VIER HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1640.m3u8
-#EXTINF:-1,BE: VIJF
-http://dynaiptv.tv:8010/live/luisete/luisete/1750.m3u8
-#EXTINF:-1,BE: VITAYA
-http://dynaiptv.tv:8010/live/luisete/luisete/1749.m3u8
-#EXTINF:-1,BE: VOO SPORT 1 HD
-http://dynaiptv.tv:8010/live/luisete/luisete/2992.m3u8
+http://hd.007iptv.com:2095/live/1234/4321/4677.m3u8
+#EXTINF:-1,BE: LA Deux HD
+http://hd.007iptv.com:2095/live/1234/4321/4676.m3u8
+#EXTINF:-1,BE: La Trois HD
+http://hd.007iptv.com:2095/live/1234/4321/4675.m3u8
+#EXTINF:-1,BE: RTL Tvi HD
+http://hd.007iptv.com:2095/live/1234/4321/4678.m3u8
+#EXTINF:-1,Be: RTS Deux
+http://hd.007iptv.com:2095/live/1234/4321/4674.m3u8
+#EXTINF:-1,BE: Teleclub Action
+http://hd.007iptv.com:2095/live/1234/4321/4671.m3u8
+#EXTINF:-1,BE: Teleclub Cinema
+http://hd.007iptv.com:2095/live/1234/4321/4670.m3u8
+#EXTINF:-1,BE: TVL (Dutch)
+http://hd.007iptv.com:2095/live/1234/4321/4662.m3u8
+#EXTINF:-1,BE: Vitaya
+http://hd.007iptv.com:2095/live/1234/4321/4665.m3u8
 #EXTINF:-1,BE: VTM HD
-http://dynaiptv.tv:8010/live/luisete/luisete/1823.m3u8
+http://hd.007iptv.com:2095/live/1234/4321/4664.m3u8
