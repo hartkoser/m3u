@@ -1,117 +1,129 @@
 #EXTM3U
-#EXTINF:-1,Al Jazeera English (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-2)
-http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-3)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8
-#EXTINF:-1,Animal Planet
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1,Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,AXN
-http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
-#EXTINF:-1,BBC World News (Opt-1)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
-#EXTINF:-1,BBC World News (Opt-2)
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Bloomberg TV UK
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1,Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,BoxNation (Geo)
-http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1,CGTN English (Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,CGTN English (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,CNBC World
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1,Create and Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1,Discovery Science
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
-#EXTINF:-1,Discovery World (Opt-1)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1,Discovery World (Opt-2)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
-#EXTINF:-1,DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1,English Club TV
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1,Euronews (Opt-1)
-http://61.58.60.230:9000/live/129.m3u8
-#EXTINF:-1,Euronews (Opt-2)
-https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
-#EXTINF:-1,Extreme Sports Channel
-http://persik.by/stream/1418/252987/10309.m3u8
-#EXTINF:-1,Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,France 24 English (Opt-1)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1,France 24 English (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1,Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1,Heart
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,ITV
-http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,ITV 2
-http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1,KIX (Asia)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1,Landscape TV
-http://130.88.20.237:1235/monitor.flv
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1,NHK World (Opt-1)
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,NHK World (Opt-2)
-http://mhms10.airtel.tv/wh7f454c46tw1262349124_1691091773/PLTV/88888888/224/3221226544/04.m3u8
-#EXTINF:-1,RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1,QVC
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC UK +1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1,QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,Sky News (Opt-1)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Sky News (Opt-2)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1,Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
-#EXTINF:-1,TLC HD World (Opt-1)
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-2)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-3)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
-#EXTINF:-1,Travel XP
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
-#EXTINF:-1,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,~ Ireland TV ~
-http://www.lengua.com/anthems/Ireland.mp3
-#EXTINF:-1,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1,RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1,RTE 1
-http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
-#EXTINF:-1,RTE 2
-http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
-#EXTINF:-1,RTE Jr.
-https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:-1,BBC One
+http://hd.007iptv.com:2095/live/1234/4321/628.m3u8
+#EXTINF:-1,BBC Two
+http://hd.007iptv.com:2095/live/1234/4321/627.m3u8
+#EXTINF:-1,CHANNEL 4 HD
+http://hd.007iptv.com:2095/live/1234/4321/622.m3u8
+#EXTINF:-1,CHANNEL 5 HD
+http://hd.007iptv.com:2095/live/1234/4321/621.m3u8
+#EXTINF:-1,iTV1 HD
+http://hd.007iptv.com:2095/live/1234/4321/626.m3u8
+#EXTINF:-1,iTV2 HD
+http://hd.007iptv.com:2095/live/1234/4321/625.m3u8
+#EXTINF:-1,iTV3 HD
+http://hd.007iptv.com:2095/live/1234/4321/624.m3u8
+#EXTINF:-1,iTV4 HD
+http://hd.007iptv.com:2095/live/1234/4321/623.m3u8
+#EXTINF:-1,E!
+http://hd.007iptv.com:2095/live/1234/4321/7277.m3u8
+#EXTINF:-1,BBC News HD
+http://hd.007iptv.com:2095/live/1234/4321/629.m3u8
+#EXTINF:-1,CNN
+http://hd.007iptv.com:2095/live/1234/4321/618.m3u8
+#EXTINF:-1,Sky News
+http://hd.007iptv.com:2095/live/1234/4321/617.m3u8
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://hd.007iptv.com:2095/live/1234/4321/598.m3u8
+#EXTINF:-1,Sky Cinema Comedy
+http://hd.007iptv.com:2095/live/1234/4321/597.m3u8
+#EXTINF:-1,Sky Cinema Crime & Thriller
+http://hd.007iptv.com:2095/live/1234/4321/606.m3u8
+#EXTINF:-1,Sky Cinema Disney
+http://hd.007iptv.com:2095/live/1234/4321/596.m3u8
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://hd.007iptv.com:2095/live/1234/4321/595.m3u8
+#EXTINF:-1,Sky Cinema Greats
+http://hd.007iptv.com:2095/live/1234/4321/592.m3u8
+#EXTINF:-1,Sky Cinema Hits
+http://hd.007iptv.com:2095/live/1234/4321/593.m3u8
+#EXTINF:-1,Sky Cinema Premiere
+http://hd.007iptv.com:2095/live/1234/4321/599.m3u8
+#EXTINF:-1,Sky Cinema Sci Fi & Horror
+http://hd.007iptv.com:2095/live/1234/4321/591.m3u8
+#EXTINF:-1,Sky Cinema Select
+http://hd.007iptv.com:2095/live/1234/4321/607.m3u8
+#EXTINF:-1,Sky Movies Family
+http://hd.007iptv.com:2095/live/1234/4321/594.m3u8
+#EXTINF:-1,Sky Atlantic UK
+http://hd.007iptv.com:2095/live/1234/4321/590.m3u8
+#EXTINF:-1,Sky 1
+http://hd.007iptv.com:2095/live/1234/4321/620.m3u8
+#EXTINF:-1,Sky Sports Action HD
+http://hd.007iptv.com:2095/live/1234/4321/610.m3u8
+#EXTINF:-1,Sky Sports Arena HD
+http://hd.007iptv.com:2095/live/1234/4321/609.m3u8
+#EXTINF:-1,Sky Sports Cricket HD
+http://hd.007iptv.com:2095/live/1234/4321/608.m3u8
+#EXTINF:-1,Sky Sports F1
+http://hd.007iptv.com:2095/live/1234/4321/604.m3u8
+#EXTINF:-1,Sky Sports Football
+http://hd.007iptv.com:2095/live/1234/4321/613.m3u8
+#EXTINF:-1,Sky Sports Main Event
+http://hd.007iptv.com:2095/live/1234/4321/612.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://hd.007iptv.com:2095/live/1234/4321/605.m3u8
+#EXTINF:-1,Sky Sports News
+http://hd.007iptv.com:2095/live/1234/4321/615.m3u8
+#EXTINF:-1,Sky Sports Premier League
+http://hd.007iptv.com:2095/live/1234/4321/614.m3u8
+#EXTINF:-1,Sky Sports The Open HD
+http://hd.007iptv.com:2095/live/1234/4321/611.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://hd.007iptv.com:2095/live/1234/4321/603.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://hd.007iptv.com:2095/live/1234/4321/602.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://hd.007iptv.com:2095/live/1234/4321/601.m3u8
+#EXTINF:-1,Discovery HD UK
+http://hd.007iptv.com:2095/live/1234/4321/588.m3u8
+#EXTINF:-1,Discovery History
+http://hd.007iptv.com:2095/live/1234/4321/585.m3u8
+#EXTINF:-1,National Geographic HD
+http://hd.007iptv.com:2095/live/1234/4321/587.m3u8
+#EXTINF:-1,Disney Junior UK
+http://hd.007iptv.com:2095/live/1234/4321/581.m3u8
+#EXTINF:-1,Disney XD UK
+http://hd.007iptv.com:2095/live/1234/4321/582.m3u8
+#EXTINF:-1,Nick Junior
+http://hd.007iptv.com:2095/live/1234/4321/580.m3u8
+#EXTINF:-1,****USA****
+http://hd.007iptv.com:2095/live/1234/4321/4700.m3u8
+#EXTINF:-1,ABC HD
+http://hd.007iptv.com:2095/live/1234/4321/4699.m3u8
+#EXTINF:-1,AMC
+http://hd.007iptv.com:2095/live/1234/4321/4691.m3u8
+#EXTINF:-1,CW 11 HD
+http://hd.007iptv.com:2095/live/1234/4321/4693.m3u8
+#EXTINF:-1,TLC
+http://hd.007iptv.com:2095/live/1234/4321/4684.m3u8
+#EXTINF:-1,TBS
+http://hd.007iptv.com:2095/live/1234/4321/4690.m3u8
+#EXTINF:-1,CBS Action
+http://hd.007iptv.com:2095/live/1234/4321/4695.m3u8
+#EXTINF:-1,CBS News
+http://hd.007iptv.com:2095/live/1234/4321/4694.m3u8
+#EXTINF:-1,USA Network
+http://hd.007iptv.com:2095/live/1234/4321/4698.m3u8
+#EXTINF:-1,Viceland HD
+http://hd.007iptv.com:2095/live/1234/4321/4687.m3u8
+#EXTINF:-1,The Weather Channel
+http://hd.007iptv.com:2095/live/1234/4321/4681.m3u8
+#EXTINF:-1,NBC (EAST)
+http://hd.007iptv.com:2095/live/1234/4321/4697.m3u8
+#EXTINF:-1,Bravo HD
+http://hd.007iptv.com:2095/live/1234/4321/4688.m3u8
+#EXTINF:-1,CNBC HD
+http://hd.007iptv.com:2095/live/1234/4321/4686.m3u8
+#EXTINF:-1,CNN
+http://hd.007iptv.com:2095/live/1234/4321/4692.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://hd.007iptv.com:2095/live/1234/4321/4685.m3u8
+#EXTINF:-1,Fox News
+http://hd.007iptv.com:2095/live/1234/4321/4696.m3u8
+#EXTINF:-1,NFL Network HD
+http://hd.007iptv.com:2095/live/1234/4321/4683.m3u8
+#EXTINF:-1,SPIKE TV
+http://hd.007iptv.com:2095/live/1234/4321/4689.m3u8
+#EXTINF:-1,WWE Network
+http://hd.007iptv.com:2095/live/1234/4321/4680.m3u8
