@@ -55,16 +55,12 @@ http://ms.n1.tvkur.noccdn.com/cdn/564b2951d6f5c/playlist.m3u8
 http://62.113.210.6/televizyon-live/DugunTv/chunklist_w483265347.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-pstCZDr6AzQ/Vj9wiFm8gcI/AAAAAAAAM5Y/dCOACwLzW2Y/s1600/trthaber.jpg",TRT HABER HD
 http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-pstCZDr6AzQ/Vj9wiFm8gcI/AAAAAAAAM5Y/dCOACwLzW2Y/s1600/trthaber.jpg",TRT HABER Seçenek 2
-https://trt-live.ercdn.net/trthaber/trthaber_1.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-N1j2kXERfd0/VqnXEyyN7VI/AAAAAAAAPjM/6HrjFLLZFDw/s1600/trtworld.jpg",TRT WORLD English
 http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://2.bp.blogspot.com/-mY7idWjacrE/VdAmYzqwCUI/AAAAAAAAKPQ/JLtIudBS528/s1600/cnnturk.jpg",CNN TÜRK
 http://media.netd.com.tr/S2/HLS_LIVE/cnn_turk/index.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-Y6QYVnt-Ueg/Vpj225v9TQI/AAAAAAAAN0o/nO5a8r69xBQ/s1600/ntv.jpg",NTV
 http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://2.bp.blogspot.com/-CqayU7YR0s8/Vpj3BqkC1DI/AAAAAAAAN04/hebhPdIVA_M/s1600/haberturk.jpg",HABER TURK
-http://umutiptv.cf/ciner.php?kanal=haberturk&type=m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-v7DfwidCkdk/VpkNeKWj8PI/AAAAAAAAN40/YGrwBqNZNk4/s1600/24.jpg",24
 https://stream-08.dc3.dailymotion.com/dm/3/x648u9s/live-3.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-Arn393j0fms/Vpj5KhgxvuI/AAAAAAAAN1M/czrNUc1F4n8/s1600/kanalb.jpg",KANAL B
@@ -73,16 +69,8 @@ http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
 http://98.142.98.125:1935/ulusaltv/ulusaltv/chunklist_w1211991768.m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://1.bp.blogspot.com/-FFjMAbWGoi8/Vo9mrJio_FI/AAAAAAAANTM/SD_ThM9n8Q0/s1600/tgrthaber.jpg",TGRT HABER
 http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
-#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-yA9j7iAFYjM/VpkNNp1chOI/AAAAAAAAN4c/tCWXAXTANiQ/s1600/bloomberg.jpg",BLOOMBERG HT
-http://umutiptv.cf/ciner.php?kanal=bloomberght&type=m3u8
 #EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://4.bp.blogspot.com/-sx3seq26Sts/Vpj7g6As_aI/AAAAAAAAN1o/I8ThcmtrUKM/s1600/ahaberhd.jpg",A HABER
 http://trkvz-m.ercdn.net/trkvz-temp/ahaberhdm.m3u8
-#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://2.bp.blogspot.com/-zPNZ69GR8go/XAgygL6Ek3I/AAAAAAAAXBk/ZItMXI1wDF4Z8hs5lYSJ2G5K87X_7SU2QCLcBGAs/s1600/s.jpg",GEMLİK SANDAL TV
-http://www.tvtelekom.info:1935/sandaltv/sandaltv/index.m3u8
-#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-eIydm-EobF0/WTDW6Fe5cNI/AAAAAAAAQ4c/bOWKjmIHl1Msf0lI7jbNvDtmdU3UEktwACLcB/s1600/tele1.jpg",TELE 1 HD
-https://stream-13.dc3.dailymotion.com/dm/3/x6uoseg/live-3.m3u8
-#EXTINF:-1 $ExtFilter="HABER" tvg-logo="http://3.bp.blogspot.com/-nOd6Bvjm8hg/W8bJ1pYcl5I/AAAAAAAAW9Q/Pc4uFMA3gVEE173UrPk0ny7c06y5m6LngCLcBGAs/s1600/01.jpg",HABER GLOBAL
-http://mn-nl.mncdn.com/ezcdn_Rlb6Y0obFxgx/Rlb6Y0obFxgx_1/chunklist.m3u8
 #EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-b1UACmVk8bI/VhD9vuhcprI/AAAAAAAAMSE/K0KWnv9P_XI/s1600/trtsporhd.jpg",TRT SPOR
 http://trtcanlitv-lh.akamaihd.net/i/TRTSPOR1_1@182042/master.m3u8
 #EXTINF:-1 $ExtFilter="SPOR" tvg-logo="http://1.bp.blogspot.com/-b1UACmVk8bI/VhD9vuhcprI/AAAAAAAAMSE/K0KWnv9P_XI/s1600/trtsporhd.jpg",TRT SPOR HD Seçenek 2
