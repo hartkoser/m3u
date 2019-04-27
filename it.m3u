@@ -41,10 +41,6 @@ http://wow01.105.net:1935/live/rmc1/livestream.m3u8
 http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
 #EXTINF:-1,Radio Virgin TV
 http://wow01.105.net:1935/live/virgin1/livestream.m3u8
-#EXTINF:-1,Rai 5
-http://stream12.rai.it/live/smil:rai5.smil/playlist.m3u8
-#EXTINF:-1,Rai Gulp
-http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
 #EXTINF:-1,Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1,Rai News 24
