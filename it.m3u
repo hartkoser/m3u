@@ -759,18 +759,6 @@ http://ares.dominium.tv:6923/live/vin/1234/37729.m3u8
 http://ares.dominium.tv:6923/live/vin/1234/37728.m3u8
 #EXTINF:-1,[SD] Sky Uno SD
 http://ares.dominium.tv:6923/live/vin/1234/37727.m3u8
-#EXTINF:-1,===== WWE VOD =====
-http://ares.dominium.tv:6923/movie/vin/1234/39942.mkv
-#EXTINF:-1,WWE WrestleMania 35.2019 PPV
-http://ares.dominium.tv:6923/movie/vin/1234/41327.mkv
-#EXTINF:-1,WWE Fast Line 2019 PPV
-http://ares.dominium.tv:6923/movie/vin/1234/40882.mkv
-#EXTINF:-1,WWE Elimination Chamber 2019 PPV
-http://ares.dominium.tv:6923/movie/vin/1234/40421.mkv
-#EXTINF:-1,WWE Royal Rumble 2019 PPV
-http://ares.dominium.tv:6923/movie/vin/1234/39940.mkv
-#EXTINF:-1,WWE Royal Rumble 2019 Kickoff
-http://ares.dominium.tv:6923/movie/vin/1234/39941.mkv
 #EXTINF:-1,VETRINA PRIMAFILA
 http://ares.dominium.tv:6923/live/vin/1234/29859.m3u8
 #EXTINF:-1,PRIMAFILA 1 HD
