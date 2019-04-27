@@ -1,151 +1,445 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Agro Brasil TV
-http://177.54.152.243:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Canal Futura
-http://srv3.zoeweb.tv:1935/z01-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANÇÃO NOVA [720p]
-http://tvajuhls-lh.akamaihd.net/i/tvdesk_1@147040/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CANÇÃO NOVA [720p]
-http://tvajuhls-lh.akamaihd.net:80/i/tvdesk_1@147040/index_1080_av-p.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",CBTV Internacional [1080p]
-https://na-all7.secdn.net/cbtv-channel/play/mp4:stream/chunklist_w1097631749.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",REDE SECULO 21
-http://tvseculo21-lh.akamaihd.net:80/i/tvseculo_1@16110/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SBT [720p]
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w1497612515_b216000_sleng.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",SBT
-http://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w902022027_b216000_sleng.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV ALESP
-http://srv3.zoeweb.tv:1935/z93-live/stream/livestream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV APARECIDA 2
-http://69.46.0.170:1935/tvaparecida/tvaparecida.stream/live.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV Faap
-http://midia.faap.br/faaplatamlive-live/stream_480/livestream.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV MCJ
-http://wse5.player.tv.br:1935/tvmcj/tvmcj/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVE BAHIA
-http://stream2.ba.gov.br:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVE
-http://200.187.60.190:80/hls-live/livepkgr/_definst_/irdeb/pgm-2.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",WEB TV MINAS
-http://173.236.10.10:1935/webtvminas/webtvminas/live.m3u8
-#EXTINF:-1 group-title="Sport" tvg-id="" tvg-name="" tvg-logo="",All Sports Brasil [480p]
-http://173.236.10.10:1935/dgrau/dgrau/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",SBT PE Interior
-http://evpp.mm.uol.com.br/ne10/ne10-tvjornal-caruaru-video-web.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-logo="http://i.imgur.com/3Y9a7ri.png" group-title="Canales Brasileños",SBT HD
-http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="BRAZIL",Rede TV
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1483436880.m3u8
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/062015/cultura_0.png?itok=baNT_7ND" tvg-name="CULTURA"  group-title="ENTERTAINMENT",CULTURA
-http://srv3.zoeweb.tv:1935/z01-live/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.g2ptv.com.br/wp-content/uploads/2017/06/g2ptv-logo.png" group-title="BRAZIL",G2P TV
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",G2PTV
-http://srv3.zoeweb.tv:1935/z474-live/aovivo/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s11.postimg.org/l4gjn0o4j/TV_Di_rio_do_Sert_o.png" group-title="BRAZIL",TVDS
-http://painelvj.com.br:1935/pdsertaotv/pdsertaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Brazil-WEBTV" tvg-logo="https://pbs.twimg.com/profile_images/1677441762/logo_nova_400x400.jpg",TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",TV Cultura GO
-http://rsync.com.br:1935/rsync00026/rsync.sdp/playlist.m3u8?
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg" group-title="BRAZIL",Rede Brasil [Opt-2]
-https://59f1cbe63db89.streamlock.net:1443/rbtv/rbtv/chunklist_w1757672591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-shift="" radio="" tvg-logo="http://s30.postimg.org/eymtgnmjl/logo_fundotransparente2.png" group-title="BRAZIL",Rede Atividade
-http://173.236.10.10:1935/redeatividade/redeatividade/playlist.m3u8
-#EXTINF:-1 group-title="Brazil-WEBTV" tvg-logo="http://i.imgur.com/SYPYeHt.jpg",Cine+
-http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s32.postimg.org/5fmicyl3p/SBT1.png" group-title="BRAZIL",SBT Piaui
-http://192.99.46.182:1935/pioneira-tv3/pioneira-tv3/playlist.m3u8
-#EXTINF:-1 group-title="Brazil-WEBTV" tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/5/5e/TV_Di?rio_logo_2015.png",TV Diario
-http://slrp.sambavideos.sambatech.com:80/liveevent/tvdiario_7a683b067e5eee5c8d45e1e1883f69b9/livestream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",Brazil 1 FTA
-http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-name="Rede TV!" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/1227.png" group-title="Internationals",Rede TV!
-http://evpp.mm.uol.com.br/redetv1/redetv1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="" tvg-name="TV Poços" tvg-logo="http://content.iptvprivateserver.tv/stalker_portal/misc/logos/240/325.png" group-title="Internationals",TV Poços
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",cola radio Brasil
-http://s.imusicaradios.com.br:1935/imusica_radio/brasil.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.tvriopreto.com.br/home/wp-content/uploads/TVN-2.png" group-title="BRAZIL",TV Rio Preto
-http://186.227.165.118:1935/insatv/livestream/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/0/07/Logo_2015_-_TV_Novo_Tempo.png" group-title="RELIGION",Novo Tempo (Brazil)
-http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://i67.tinypic.com/2d7vy4n.png" group-title="RELIGION",Rede Gospel (Brazil)
-http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.gideoes.com.br/images/conteudo/logotipo-tvgideoes.png" group-title="RELIGION",TV Gidoes (Brazil)
-http://streaming02.zas.media:1935/gideoes/_definst_/mp4:programacao_360p/chunklist_w93290010.m3u8
-#EXTINF:0 tvg-name="" tvg-language="" tvg-country="" tvg-id="" tvg-logo="http://img.brgo.xyz/img/AMAZONSAT.png" group-title="BRAZIL",Amazon Sat
-http://slrp.sambavideos.sambatech.com/liveevent/amazonsatabr1_3e9c859611a5e7fbedc785bd33c418b5/livestream3/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.aen.pr.gov.br/modules/galeria/uploads/42816/destaque_logo_vertical_eparana_site02.jpg" group-title="BRAZIL",E-Parana
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://goo.gl/LcpPNw" group-title="BRAZIL",PUC TV Goias
-http://flash.softhost.com.br:1935/pucgoias/aovivo/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://listaiptvbrasil.com/logos/recordtv.png" group-title="BRAZIL",RecordTV Espirito Santo
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://s16.postimg.org/4rt4ter79/TV_INES.png" group-title="BRAZIL",TV INES
-http://liveabr2.sambatech.com.br/abr/acerpTvINESABR_d360fbbfbf3e5e59a31cf89ec45eb3dc/livestreamabr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://diocesetb.org.br/f/i/dioceseTubaraoLogoTvTuba.jpg" group-title="BRAZIL",TV Tuba
-http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
-#EXTINF:-1 tvg-logo="https://banner2.kisspng.com/20180403/ixw/kisspng-logo-child-church-christian-ministry-kids-5ac315bed48229.9619473715227345268704.jpg" group-title="INFANTIL BRASIL",INFANTIL BRASIL********************
-http://shoppinglive.mediacdn.ru/sr1/shoppinglive/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://liveitkodi.com/Logos/BabyTV.png" group-title="INFANTIL BRASIL",Baby TV
-http://painel.ebanonet.com.br:25461/live/4444/4444/4401.m3u8
-#EXTINF:-1 tvg-logo="http://www.animationmagazine.net/wordpress/wp-content/uploads/boomerang-1503.jpg" group-title="INFANTIL BRASIL",Boomerang
-http://painel.ebanonet.com.br:25461/live/4444/4444/4396.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/ar_cartoon-network_m.png" group-title="INFANTIL BRASIL",Cartoon Network
-http://painel.ebanonet.com.br:25461/live/4444/4444/4394.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/hn_discovery-kids_m.png" group-title="INFANTIL BRASIL",Discovery Kids
-http://painel.ebanonet.com.br:25461/live/4444/4444/4388.m3u8
-#EXTINF:-1 tvg-logo="http://logosvector.net/wp-content/uploads/2014/07/new-disney-channel-logo.png" group-title="INFANTIL BRASIL",Disney Channel
-http://painel.ebanonet.com.br:25461/live/4444/4444/4385.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/EKvqypE.png" group-title="INFANTIL BRASIL",Disney Junior
-http://painel.ebanonet.com.br:25461/live/4444/4444/4384.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/cl_disney-xd_m.png" group-title="INFANTIL BRASIL",Disney XD
-http://painel.ebanonet.com.br:25461/live/4444/4444/4383.m3u8
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/Gloob1.png" group-title="INFANTIL BRASIL",Gloob
-http://painel.ebanonet.com.br:25461/live/4444/4444/4369.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/br_gloobinho-hd_m.png" group-title="INFANTIL BRASIL",Gloobinho
-http://painel.ebanonet.com.br:25461/live/4444/4444/10270.m3u8
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/natgeokids1.png" group-title="INFANTIL BRASIL",Nat Geo Kids
-http://painel.ebanonet.com.br:25461/live/4444/4444/4350.m3u8
-#EXTINF:-1 tvg-logo="http://listaccess.me/Logo/nick1.png" group-title="INFANTIL BRASIL",Nickelodeon
-http://painel.ebanonet.com.br:25461/live/4444/4444/4345.m3u8
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/I/41DAgNJEGkL._SY355_.png" group-title="INFANTIL BRASIL",Nick Junior
-http://painel.ebanonet.com.br:25461/live/4444/4444/4346.m3u8
-#EXTINF:-1 tvg-logo="https://www.mediaportal.com.br/wp-content/uploads/2014/08/logos-clientes-22.jpg" group-title="INFANTIL BRASIL",Ra Tim Bum
-http://painel.ebanonet.com.br:25461/live/4444/4444/6933.m3u8
-#EXTINF:-1 tvg-logo="https://static1.squarespace.com/static/53d0472ce4b07de11ec7e3cc/t/53e39f57e4b0aa880a303a1e/1407426426257/" group-title="INFANTIL BRASIL",Zoomoo
-http://painel.ebanonet.com.br:25461/live/4444/4444/20450.m3u8
-#EXTINF:-1 tvg-logo="https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/042014/untitled-1_2.png?itok=hApxuceG" group-title="VARIEDADES BRASIL",Multishow
-http://painel.ebanonet.com.br:25461/live/4444/4444/4352.m3u8
-#EXTINF:-1 tvg-logo="https://coletiva.net/files/e4da3b7fbbce2345d7772b0674a318d5/midia_foto/20171122/Music-Box-Brazil_nov17.png" group-title="VARIEDADES BRASIL",Music Box
-http://painel.ebanonet.com.br:25461/live/4444/4444/7848.m3u8
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/08/canal-off-logo-0.png" group-title="VARIEDADES BRASIL",Off
-http://painel.ebanonet.com.br:25461/live/4444/4444/4344.m3u8
-#EXTINF:-1 tvg-logo="http://www.boxbrazil.tv.br/wp-content/uploads/2018/07/prime-e1532524998483.png" group-title="VARIEDADES BRASIL",Prime Box
-http://painel.ebanonet.com.br:25461/live/4444/4444/4332.m3u8
-#EXTINF:-1 tvg-logo="http://images.mi.tv/channels/b15356ee-546f-4760-b04c-3772d6949002_m.jpg" group-title="VARIEDADES BRASIL",Trutv
-http://painel.ebanonet.com.br:25461/live/4444/4444/6935.m3u8
-#EXTINF:-1 tvg-logo="https://abrilveja.files.wordpress.com/2016/12/canalviva.png" group-title="VARIEDADES BRASIL",Viva
-http://painel.ebanonet.com.br:25461/live/4444/4444/6928.m3u8
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/W/woohoo-logo-76448936E4-seeklogo.com.png" group-title="VARIEDADES BRASIL",Woohoo
-http://painel.ebanonet.com.br:25461/live/4444/4444/4306.m3u8
-#EXTINF:-1 tvg-logo="https://www.assistirtvonlinegratis.com.br/wp-content/uploads/2018/07/cine-sky.png" group-title="CINE BRASIL",Cine Sky
-http://stmv2.srvstm.com:1935/tvjsid/tvjsid/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.jkfm.com.br/site//assets/imagem/logo/logo-jk.png" group-title="Brasil",JK FM
-http://rtmp.cdn.upx.net.br/7cdd_2/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/91/18/c2/9118c23678a907c209281fb1533732ca.png" group-title="BRASIL",BRASIL
-https://stream.vagalume.fm/hls/14658544132100453351/aac.m3u8
-#EXTINF:-1 tvg-logo="https://www.elcorteingles.es/centroscomerciales/uploads/service/logo/68/medium_ITV.png" group-title="BRASIL",Itú TV
-http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",Rede TV SD
-http://evpp.mm.uol.com.br:1935/redetv2/redetv2/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://i.imgur.com/k4haEx6.png" group-title="BRASIL",Rede TV SD
-http://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1695741209.m3u8
-#EXTINF:-1 tvg-logo="https://www.bno.nl/theme_bno/static/src/img/icon/BNO.png" group-title="BRASIL",TV BNO
-http://tv02.logicahost.com.br:1935/bonner/bonner/live.m3u8
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/554708270472912896/vAb4KwyJ_400x400.jpeg" group-title="BRASIL",TV Caxias
-http://stmv1.euroti.com.br:1935/caxiashost/caxiashost/live.m3u8
-#EXTINF:-1 tvg-logo="http://www.lalabee.com.br/f/logo_destak.png" group-title="BRASIL",TV Destak
-http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8
+#EXTINF:-1,A&E HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66059
+#EXTINF:-1,All Sports
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66050
+#EXTINF:-1,AMC FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/100805
+#EXTINF:-1,ANIMAL PLANET Brasil
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206328
+#EXTINF:-1,ANIMAL PLANET HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68999
+#EXTINF:-1,Anime Cartoon
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66019
+#EXTINF:-1,Aparceida
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/159051
+#EXTINF:-1,ARTE 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156983
+#EXTINF:-1,AXN FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66021
+#EXTINF:-1,Azteca 13
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209683
+#EXTINF:-1,BABY TV HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157962
+#EXTINF:-1,Band
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/100806
+#EXTINF:-1,BAND News HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66056
+#EXTINF:-1,BAND PARANA
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124369
+#EXTINF:-1,BAND SPORT HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66054
+#EXTINF:-1,beIN SPORTS
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163992
+#EXTINF:-1,BIS FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95823
+#EXTINF:-1,Boomerang FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66065
+#EXTINF:-1,Brazil 2
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209685
+#EXTINF:-1,Canal Brasil
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156999
+#EXTINF:-1,CANAL DO BOI
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/93196
+#EXTINF:-1,Canal Escola
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95824
+#EXTINF:-1,CANAL RURAL
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124371
+#EXTINF:-1,Canal Sony HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157000
+#EXTINF:-1,Cartoon Network FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139121
+#EXTINF:-1,CAVALHEIROS DO ZODIACOS
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163975
+#EXTINF:-1,Cine 1
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/125480
+#EXTINF:-1,Cinemax FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/100801
+#EXTINF:-1,Combate FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156819
+#EXTINF:-1,COMEDY CENTRAL HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163287
+#EXTINF:-1,CURTA! HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/123157
+#EXTINF:-1,DAZN HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208359
+#EXTINF:-1,Discovery Channel FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139122
+#EXTINF:-1,Discovery Civilization FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66062
+#EXTINF:-1,Discovery Home&Health HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/146294
+#EXTINF:-1,Discovery Kids FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139125
+#EXTINF:-1,Discovery Science FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/94188
+#EXTINF:-1,Discovery Theater FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88099
+#EXTINF:-1,Discovery Turbo FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139128
+#EXTINF:-1,Discovery World FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/100091
+#EXTINF:-1,Disney Channel FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/116367
+#EXTINF:-1,Disney Jr FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/196318
+#EXTINF:-1,DISNEY XD HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68980
+#EXTINF:-1,DOIS HOMENS E MEIO 24HRS
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163976
+#EXTINF:-1,DW Latin
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95827
+#EXTINF:-1,E! HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88100
+#EXTINF:-1,EI MAX HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208360
+#EXTINF:-1,ELEVEN SPORTS HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208372
+#EXTINF:-1,ESPN + HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/100804
+#EXTINF:-1,ESPN 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/130202
+#EXTINF:-1,ESPN Brasil FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68955
+#EXTINF:-1,ESPN EXTRA HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156829
+#EXTINF:-1,ESPN FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66036
+#EXTINF:-1,EUROSPORT
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163853
+#EXTINF:-1,FILM & ARTS
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163854
+#EXTINF:-1,Fish TV HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68974
+#EXTINF:-1,Food Network FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88095
+#EXTINF:-1,Fox HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/196292
+#EXTINF:-1,FOX LIFE HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156831
+#EXTINF:-1,Fox Premium 1 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88101
+#EXTINF:-1,FOX PREMIUM 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163856
+#EXTINF:-1,FOX SPORTS 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88071
+#EXTINF:-1,FOX SPORTS 2
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68970
+#EXTINF:-1,FOX SPORTS HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156834
+#EXTINF:-1,FOX USA
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124217
+#EXTINF:-1,Futura HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66041
+#EXTINF:-1,FX HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156832
+#EXTINF:-1,Globo Amazonas
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/123089
+#EXTINF:-1,GLOBO BRASILIA HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/112287
+#EXTINF:-1,Globo EPTV Campinas
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/149694
+#EXTINF:-1,Globo EPTV S
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/123095
+#EXTINF:-1,Globo ES HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136658
+#EXTINF:-1,GLOBO FORTALEZA
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124244
+#EXTINF:-1,Globo MINAS
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/92517
+#EXTINF:-1,Globo NE
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136662
+#EXTINF:-1,GLOBO NEWS HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156984
+#EXTINF:-1,GLOBO NORDESTE HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/109201
+#EXTINF:-1,GLOBO PARANA HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163866
+#EXTINF:-1,GLOBO PORTUGAL
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124231
+#EXTINF:-1,Globo Premium
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88051
+#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163872
+#EXTINF:-1,GLOBO RJ HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/110340
+#EXTINF:-1,GLOBO RN HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124245
+#EXTINF:-1,Globo Rural HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209527
+#EXTINF:-1,Globo SP
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/196249
+#EXTINF:-1,Globo Tv Tem Bauru HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/149697
+#EXTINF:-1,Globo Tv Verdes Mares Fortaleza
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139137
+#EXTINF:-1,Globosat HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/102991
+#EXTINF:-1,GLOOB HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156987
+#EXTINF:-1,Gloobinho
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136680
+#EXTINF:-1,GNT HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88049
+#EXTINF:-1,GOSPEL CARTOON
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163954
+#EXTINF:-1,H2 Brasil
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/110344
+#EXTINF:-1,H2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139141
+#EXTINF:-1,HBO 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156835
+#EXTINF:-1,HBO FAMILY
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208364
+#EXTINF:-1,HBO HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156837
+#EXTINF:-1,HBO Plus
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209698
+#EXTINF:-1,HBO PLUS E
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68962
+#EXTINF:-1,HBO Signature FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68961
+#EXTINF:-1,History 2
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/210715
+#EXTINF:-1,History Channel HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66051
+#EXTINF:-1,Hit TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136697
+#EXTINF:-1,Home&Health
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95841
+#EXTINF:-1,HOMEM ARANHA 24 hrs
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163968
+#EXTINF:-1,ID: Investigação Discovery HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/149711
+#EXTINF:-1,Investigation Disvovery
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/175466
+#EXTINF:-1,Lifetime FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66068
+#EXTINF:-1,Mais Globo Sa
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/114019
+#EXTINF:-1,Mana Sat
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66072
+#EXTINF:-1,MASTER TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/105229
+#EXTINF:-1,Max FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139147
+#EXTINF:-1,Max Prime HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157007
+#EXTINF:-1,Max Up HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157008
+#EXTINF:-1,Megapix FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156842
+#EXTINF:-1,MTV FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104797
+#EXTINF:-1,MTV PORTUGAL
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124268
+#EXTINF:-1,MULTI SHOW HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156844
+#EXTINF:-1,Multi TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95842
+#EXTINF:-1,Music Box
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209701
+#EXTINF:-1,NAT GEO FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66048
+#EXTINF:-1,NAT GEO Kids FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/109218
+#EXTINF:-1,NATGEO WILD HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163892
+#EXTINF:-1,NBR
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124375
+#EXTINF:-1,Net Geo
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209702
+#EXTINF:-1,Nick Junior HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/100803
+#EXTINF:-1,NICKELODEN
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/196323
+#EXTINF:-1,Novo Tempo
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95844
+#EXTINF:-1,OFF HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104801
+#EXTINF:-1,OS SIMPSON 24hr
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163965
+#EXTINF:-1,Paramount Channel FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68947
+#EXTINF:-1,PFC 1 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136728
+#EXTINF:-1,PFC 2 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136731
+#EXTINF:-1,PFC 3 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136734
+#EXTINF:-1,PFC 4 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136737
+#EXTINF:-1,PFC 5 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136740
+#EXTINF:-1,PFC 6 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136744
+#EXTINF:-1,PFC 7 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136747
+#EXTINF:-1,PFC 8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136750
+#EXTINF:-1,PFC HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88065
+#EXTINF:-1,PLAY TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68946
+#EXTINF:-1,PREMIER 2 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156993
+#EXTINF:-1,PREMIER 3 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68943
+#EXTINF:-1,PREMIER 24HS HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124282
+#EXTINF:-1,Premiere 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104803
+#EXTINF:-1,Premiere 4 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68942
+#EXTINF:-1,Premiere 5 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/164324
+#EXTINF:-1,Premiere 8
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163902
+#EXTINF:-1,Premiere 9
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/196269
+#EXTINF:-1,Premiere Clubes
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156848
+#EXTINF:-1,Prime Box
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95846
+#EXTINF:-1,Proyecto 40
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/135023
+#EXTINF:-1,REAL MADRID TV
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124294
+#EXTINF:-1,Record Campinas HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/123123
+#EXTINF:-1,Record FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68934
+#EXTINF:-1,Record News FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66031
+#EXTINF:-1,Record SP HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/109214
+#EXTINF:-1,REDE BRASIL
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/93193
+#EXTINF:-1,REDE TV HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/93190
+#EXTINF:-1,SBT BRASIL
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/111836
+#EXTINF:-1,SBT HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139151
+#EXTINF:-1,SBT SP HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/208370
+#EXTINF:-1,SKY CINEMA HD UNO
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66080
+#EXTINF:-1,Sony FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/110357
+#EXTINF:-1,Space FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139152
+#EXTINF:-1,SPORT TV 3
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/209704
+#EXTINF:-1,SPORTV 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88062
+#EXTINF:-1,SPORTV 2 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139153
+#EXTINF:-1,SPORTV 3 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139154
+#EXTINF:-1,SPORTV HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/149745
+#EXTINF:-1,STB
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68909
+#EXTINF:-1,Studio Universal HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157009
+#EXTINF:-1,SYFY HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156852
+#EXTINF:-1,TBS HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88081
+#EXTINF:-1,TC Action FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136774
+#EXTINF:-1,TC Cult
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206439
+#EXTINF:-1,TC Fun FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136780
+#EXTINF:-1,TC Premium FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136785
+#EXTINF:-1,TCM
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157011
+#EXTINF:-1,TELECINE ACTION HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157013
+#EXTINF:-1,TELECINE CULT HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157014
+#EXTINF:-1,TELECINE FUN HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156970
+#EXTINF:-1,TELECINE PIPOCA HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/156969
+#EXTINF:-1,TELECINE PREMIUM HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157016
+#EXTINF:-1,TELECINE TOUCH HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157012
+#EXTINF:-1,TERRA VIVA
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124379
+#EXTINF:-1,THE HISTORY CHANNEL HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163882
+#EXTINF:-1,TLC HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/88079
+#EXTINF:-1,TNT FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139155
+#EXTINF:-1,TNT SERIES HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157018
+#EXTINF:-1,TOONCAST HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163823
+#EXTINF:-1,TV APARECIDA HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68905
+#EXTINF:-1,TV BRASIL
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66028
+#EXTINF:-1,TV Brazil
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95858
+#EXTINF:-1,TV CINE 1 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124324
+#EXTINF:-1,TV CINE 3 FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124325
+#EXTINF:-1,TV CINE 4 HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163934
+#EXTINF:-1,TV Cultura HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/123144
+#EXTINF:-1,TV Diario
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66076
+#EXTINF:-1,TV Faap
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66058
+#EXTINF:-1,Tv Gazeta
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/139156
+#EXTINF:-1,TV GLOBO CAMPINAS
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124243
+#EXTINF:-1,TV Globo HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/89540
+#EXTINF:-1,TV GLOBO PREMIUM HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66024
+#EXTINF:-1,TV Ideal
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136799
+#EXTINF:-1,TV JUSTICA H264
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163929
+#EXTINF:-1,TV LIBERAL BELEM
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163871
+#EXTINF:-1,TV NBR
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/133582
+#EXTINF:-1,TV NOVO TEMPO
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163932
+#EXTINF:-1,TV RA TIM BUM
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/124328
+#EXTINF:-1,TV Record
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/66023
+#EXTINF:-1,TVE
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/136630
+#EXTINF:-1,TVI
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/95857
+#EXTINF:-1,TVN Brasil
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/68828
+#EXTINF:-1,UM MALUCO NO PEDACO 24hrs
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163961
+#EXTINF:-1,Universal Channel FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/157019
+#EXTINF:-1,VH1 Mega Hits
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/206449
+#EXTINF:-1,Viva FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104817
+#EXTINF:-1,Warner Bros FHD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/104818
+#EXTINF:-1,Woohoo Brasil
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/163312
+#EXTINF:-1,Woohoo HD
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/146621
+#EXTINF:-1,ZOOMOO
+http://landiptv.live:8080/wchannelsottvip/93bfc2a43c11/164348
