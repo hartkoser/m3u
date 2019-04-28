@@ -1,407 +1,1691 @@
 #EXTM3U
-#EXTINF:-1,UNIMAS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26625.m3u8
-#EXTINF:-1,A&E HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26619.m3u8
-#EXTINF:-1,ABC NEWS
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26621.m3u8
-#EXTINF:-1,ACTIONMAX  HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26620.m3u8
-#EXTINF:-1,AMC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26618.m3u8
-#EXTINF:-1,AMERICAN HEROES HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26617.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26616.m3u8
-#EXTINF:-1,ANTENNA TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26615.m3u8
-#EXTINF:-1,BBC AMERICA HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26614.m3u8
-#EXTINF:-1,BET HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26613.m3u8
-#EXTINF:-1,BET HER
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26611.m3u8
-#EXTINF:-1,BET WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26612.m3u8
-#EXTINF:-1,BLOOMBERG
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26607.m3u8
-#EXTINF:-1,BOUNCE TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26609.m3u8
-#EXTINF:-1,BRAVO HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26608.m3u8
-#EXTINF:-1,CBS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26605.m3u8
-#EXTINF:-1,CBS NEWS
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26604.m3u8
-#EXTINF:-1,CIENEMAX MOREMAX HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26546.m3u8
-#EXTINF:-1,CINEMAX EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26603.m3u8
-#EXTINF:-1,CINEMAX OUTERMAX HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26601.m3u8
-#EXTINF:-1,CINEMAX THRILLER HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26600.m3u8
-#EXTINF:-1,CINEMAX WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26602.m3u8
-#EXTINF:-1,CNBC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26599.m3u8
-#EXTINF:-1,CNBC WORLD HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26598.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26594.m3u8
-#EXTINF:-1,COOKING CHANNEL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26595.m3u8
-#EXTINF:-1,CW HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26596.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26591.m3u8
-#EXTINF:-1,DISNEY JR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26589.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26588.m3u8
-#EXTINF:-1,DIY  NETWORK
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26587.m3u8
-#EXTINF:-1,E! HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26586.m3u8
-#EXTINF:-1,EL REY NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26585.m3u8
-#EXTINF:-1,EPIX HITS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26584.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26583.m3u8
-#EXTINF:-1,FOX NEWS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26581.m3u8
-#EXTINF:-1,FREEFORM WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26579.m3u8
-#EXTINF:-1,FUSE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26578.m3u8
-#EXTINF:-1,FX HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26576.m3u8
-#EXTINF:-1,FX WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26575.m3u8
-#EXTINF:-1,FXM HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26572.m3u8
-#EXTINF:-1,FXX WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26573.m3u8
-#EXTINF:-1,FYI HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26570.m3u8
-#EXTINF:-1,GRIT TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26568.m3u8
-#EXTINF:-1,GSN
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26569.m3u8
-#EXTINF:-1,HALLMARK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26567.m3u8
-#EXTINF:-1,HALLMARK M&M HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26566.m3u8
-#EXTINF:-1,HBO 2
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26563.m3u8
-#EXTINF:-1,HBO COMEDY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26559.m3u8
-#EXTINF:-1,HBO EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26565.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26561.m3u8
-#EXTINF:-1,HBO SIGNATURE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26560.m3u8
-#EXTINF:-1,HBO ZONE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26562.m3u8
-#EXTINF:-1,HGTV EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26557.m3u8
-#EXTINF:-1,HGTV WEST  HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26556.m3u8
-#EXTINF:-1,HISTORY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26558.m3u8
-#EXTINF:-1,ABC NEWS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27945.m3u8
-#EXTINF:-1,AHC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27848.m3u8
-#EXTINF:-1,ANIMAL PLANET HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27946.m3u8
-#EXTINF:-1,BABY TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27849.m3u8
-#EXTINF:-1,BEIN SPORTS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27944.m3u8
-#EXTINF:-1,BEN FC TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27874.m3u8
-#EXTINF:-1,BRAVO HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27943.m3u8
-#EXTINF:-1,BTN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27942.m3u8
-#EXTINF:-1,C-SPAN 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27941.m3u8
-#EXTINF:-1,C-SPAN 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27940.m3u8
-#EXTINF:-1,C-SPAN 3 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27939.m3u8
-#EXTINF:-1,CARTOON NETWORK HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27938.m3u8
-#EXTINF:-1,CBN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27937.m3u8
-#EXTINF:-1,CBN NEWS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27936.m3u8
-#EXTINF:-1,CBS SPORTS NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27935.m3u8
-#EXTINF:-1,CNN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/29642.m3u8
-#EXTINF:-1,CBSN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27934.m3u8
-#EXTINF:-1,CINE SONY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27873.m3u8
-#EXTINF:-1,CINEMAX EAST HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27933.m3u8
-#EXTINF:-1,Cinemax Thriller Max HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27932.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27931.m3u8
-#EXTINF:-1,COZI HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27872.m3u8
-#EXTINF:-1,CW HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27930.m3u8
-#EXTINF:-1,DISCOVERY HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27929.m3u8
-#EXTINF:-1,DISCOVERY VELOCITY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27927.m3u8
-#EXTINF:-1,Disney HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27926.m3u8
-#EXTINF:-1,DIY NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27893.m3u8
-#EXTINF:-1,EL GOURMET HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27871.m3u8
-#EXTINF:-1,EL REY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27892.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27922.m3u8
-#EXTINF:-1,ESPN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27925.m3u8
-#EXTINF:-1,ESPN NEWS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27924.m3u8
-#EXTINF:-1,ESPN U HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27923.m3u8
-#EXTINF:-1,FIGHT NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27870.m3u8
-#EXTINF:-1,FOX BUSINESS NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27921.m3u8
-#EXTINF:-1,FOX CSA HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27891.m3u8
-#EXTINF:-1,FOX CSC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27890.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27868.m3u8
-#EXTINF:-1,FOX NEWS HD*
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27920.m3u8
-#EXTINF:-1,Fox Sports 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27919.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27918.m3u8
-#EXTINF:-1,FUSION HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27889.m3u8
-#EXTINF:-1,GOLF HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27917.m3u8
-#EXTINF:-1,H2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27916.m3u8
-#EXTINF:-1,HALLMARK DRAMA HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27852.m3u8
-#EXTINF:-1,HALLMARK MOVIE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27888.m3u8
-#EXTINF:-1,HGTV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27915.m3u8
-#EXTINF:-1,KTVU PLUS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27894.m3u8
-#EXTINF:-1,LMN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27887.m3u8
-#EXTINF:-1,MAS CHIC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27867.m3u8
-#EXTINF:-1,MAVTV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27866.m3u8
-#EXTINF:-1,MOTOR TREND HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27865.m3u8
-#EXTINF:-1,MTV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27914.m3u8
-#EXTINF:-1,NAT GEO EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27886.m3u8
-#EXTINF:-1,NAT GEO MUNDO HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27864.m3u8
-#EXTINF:-1,NBC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27913.m3u8
-#EXTINF:-1,NBC SPORTS PLUS CHICAGO HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27863.m3u8
-#EXTINF:-1,NICK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27912.m3u8
-#EXTINF:-1,NICK JR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27911.m3u8
-#EXTINF:-1,Nicktoons HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27910.m3u8
-#EXTINF:-1,OUTDOOR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27862.m3u8
-#EXTINF:-1,OUTSIDE TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27861.m3u8
-#EXTINF:-1,PARAMOUNT NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27885.m3u8
-#EXTINF:-1,PBS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27909.m3u8
-#EXTINF:-1,PEOPLE TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27851.m3u8
-#EXTINF:-1,POP HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27884.m3u8
-#EXTINF:-1,RTP INTERNATIONAL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27860.m3u8
-#EXTINF:-1,SCIENCE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27928.m3u8
-#EXTINF:-1,SHOWTIME SHOWCASE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27882.m3u8
-#EXTINF:-1,SHOWTIME WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27883.m3u8
-#EXTINF:-1,SN CENTRAL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27908.m3u8
-#EXTINF:-1,SONY MOVIES HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27850.m3u8
-#EXTINF:-1,SPIKE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27907.m3u8
-#EXTINF:-1,SPORTS ILLUSTRATED (SITV ) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27859.m3u8
-#EXTINF:-1,SPORTS MAN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27858.m3u8
-#EXTINF:-1,STARZ EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27906.m3u8
-#EXTINF:-1,Starz Edge HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27905.m3u8
-#EXTINF:-1,STARZ ENCORE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27881.m3u8
-#EXTINF:-1,Starz HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27904.m3u8
-#EXTINF:-1,Starz Kids & Family
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27903.m3u8
-#EXTINF:-1,SUNDANCE HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27857.m3u8
-#EXTINF:-1,TELEMONDO HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27880.m3u8
-#EXTINF:-1,TELEXITOS HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27879.m3u8
-#EXTINF:-1,TENNIS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27902.m3u8
-#EXTINF:-1,THE WEATHER CHANNEL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27901.m3u8
-#EXTINF:-1,TNT HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27900.m3u8
-#EXTINF:-1,TYC  SPORTS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27878.m3u8
-#EXTINF:-1,UNIVERSAL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27899.m3u8
-#EXTINF:-1,UNIVERSO HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27877.m3u8
-#EXTINF:-1,UNIVISION DEP HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27898.m3u8
-#EXTINF:-1,UNIVISION DEPROTES HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27876.m3u8
-#EXTINF:-1,UNIVISION HD SP
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27875.m3u8
-#EXTINF:-1,VH1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27897.m3u8
-#EXTINF:-1,WE TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27856.m3u8
-#EXTINF:-1,WETV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27855.m3u8
-#EXTINF:-1,WGN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27895.m3u8
-#EXTINF:-1,WL NY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27854.m3u8
-#EXTINF:-1,WORLD FISHING NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/27853.m3u8
-#EXTINF:-1,ION TELEVISION
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26554.m3u8
-#EXTINF:-1,LIFETIME HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26551.m3u8
-#EXTINF:-1,LIFETIME MOVIES HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26550.m3u8
-#EXTINF:-1,ME TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26549.m3u8
-#EXTINF:-1,MLB NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26547.m3u8
-#EXTINF:-1,MSNBC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26544.m3u8
-#EXTINF:-1,MTV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26545.m3u8
-#EXTINF:-1,NAT GEO HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26543.m3u8
-#EXTINF:-1,NAT GEO WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26542.m3u8
-#EXTINF:-1,NBC
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26539.m3u8
-#EXTINF:-1,NBCSN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26538.m3u8
-#EXTINF:-1,NICK JR
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26535.m3u8
-#EXTINF:-1,NICKELODEN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26537.m3u8
-#EXTINF:-1,NICKTOONS
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26536.m3u8
-#EXTINF:-1,OXYGEN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26533.m3u8
-#EXTINF:-1,PARAMOUNT NETWORK
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26532.m3u8
-#EXTINF:-1,PBS KIDS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26531.m3u8
-#EXTINF:-1,REVOLT HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26530.m3u8
-#EXTINF:-1,SEC NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26528.m3u8
-#EXTINF:-1,SHOWTIME 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26525.m3u8
-#EXTINF:-1,SHOWTIME EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26527.m3u8
-#EXTINF:-1,SHOWTIME EXTREME HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26524.m3u8
-#EXTINF:-1,STARZ  CINEMA
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26517.m3u8
-#EXTINF:-1,STARZ COMEDY
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26520.m3u8
-#EXTINF:-1,STARZ EAST
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26521.m3u8
-#EXTINF:-1,STARZ EDGE
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26519.m3u8
-#EXTINF:-1,STARZ ENCORE WESTERN
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26518.m3u8
-#EXTINF:-1,STARZ KIDS AND FAMILY
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26516.m3u8
-#EXTINF:-1,SYFY HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26515.m3u8
-#EXTINF:-1,TBS HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26514.m3u8
-#EXTINF:-1,TCM HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26513.m3u8
-#EXTINF:-1,TELEMUNDO
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26626.m3u8
-#EXTINF:-1,TLC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26512.m3u8
-#EXTINF:-1,TNT EAST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26511.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26510.m3u8
-#EXTINF:-1,TRU TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26509.m3u8
-#EXTINF:-1,TRU TV WEST HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26508.m3u8
-#EXTINF:-1,TV LAND HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26507.m3u8
-#EXTINF:-1,TV ONE
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26506.m3u8
-#EXTINF:-1,UNIVISION HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26623.m3u8
-#EXTINF:-1,UNIVISION TDN HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26622.m3u8
-#EXTINF:-1,USA NETWORK HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26505.m3u8
-#EXTINF:-1,VH1
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26501.m3u8
-#EXTINF:-1,VICELAND HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26502.m3u8
-#EXTINF:-1,WAPA
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26499.m3u8
-#EXTINF:-1,WAPA 2
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26498.m3u8
-#EXTINF:-1,WEATHER CHANNEL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26497.m3u8
-#EXTINF:-1,WGN AMERICA HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/26496.m3u8
-#EXTINF:-1,DW
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/25167.m3u8
+#EXTINF:-1,A&E | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42293.m3u8
+#EXTINF:-1,ABC
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42292.m3u8
+#EXTINF:-1,ADULT SWIM | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42291.m3u8
+#EXTINF:-1,AMC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42290.m3u8
+#EXTINF:-1,ANTENNA TV | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42289.m3u8
+#EXTINF:-1,ASPIRE TV | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42288.m3u8
+#EXTINF:-1,AXS TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42287.m3u8
+#EXTINF:-1,BBC AMERICA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42286.m3u8
+#EXTINF:-1,BBC World News | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42285.m3u8
+#EXTINF:-1,BET | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42284.m3u8
+#EXTINF:-1,BET HER | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42283.m3u8
+#EXTINF:-1,BET INTERNATIONAL | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42282.m3u8
+#EXTINF:-1,BET JAMZ | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42281.m3u8
+#EXTINF:-1,BOUNCE TV | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42280.m3u8
+#EXTINF:-1,BRAVO | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42279.m3u8
+#EXTINF:-1,BUZZER TV | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42278.m3u8
+#EXTINF:-1,BYU TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42277.m3u8
+#EXTINF:-1,CBS POP | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42276.m3u8
+#EXTINF:-1,CHILLER | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42275.m3u8
+#EXTINF:-1,CMT | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42274.m3u8
+#EXTINF:-1,CNBC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42273.m3u8
+#EXTINF:-1,COMEDY CENTRAL | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42272.m3u8
+#EXTINF:-1,COMET | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42271.m3u8
+#EXTINF:-1,COOKING CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42270.m3u8
+#EXTINF:-1,COZI TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42269.m3u8
+#EXTINF:-1,CW | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42268.m3u8
+#EXTINF:-1,DESTINATION AMERICA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42267.m3u8
+#EXTINF:-1,E! | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42266.m3u8
+#EXTINF:-1,EL REY NETWORK | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42265.m3u8
+#EXTINF:-1,FOOD NETWORK  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42264.m3u8
+#EXTINF:-1,Food Network (Pacific) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42259.m3u8
+#EXTINF:-1,FREEFORM | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42263.m3u8
+#EXTINF:-1,FUSE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42262.m3u8
+#EXTINF:-1,FUSION | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42261.m3u8
+#EXTINF:-1,FYI | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42260.m3u8
+#EXTINF:-1,GAME SHOW NETWORK (GSN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42258.m3u8
+#EXTINF:-1,GRIT TV | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42257.m3u8
+#EXTINF:-1,HALLMARK CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42256.m3u8
+#EXTINF:-1,HALLMARK DRAMA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42255.m3u8
+#EXTINF:-1,HGTV ( West ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42254.m3u8
+#EXTINF:-1,HLN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42253.m3u8
+#EXTINF:-1,IFC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42252.m3u8
+#EXTINF:-1,INSP | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42251.m3u8
+#EXTINF:-1,ION | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42250.m3u8
+#EXTINF:-1,LIFETIME | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42249.m3u8
+#EXTINF:-1,LOGO | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42248.m3u8
+#EXTINF:-1,ME TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42247.m3u8
+#EXTINF:-1,MGM | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42246.m3u8
+#EXTINF:-1,MY9 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42245.m3u8
+#EXTINF:-1,OXYGEN | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42244.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42243.m3u8
+#EXTINF:-1,PEOPLE TV | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42242.m3u8
+#EXTINF:-1,POP TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42241.m3u8
+#EXTINF:-1,PURSUIT CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42240.m3u8
+#EXTINF:-1,QVC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42239.m3u8
+#EXTINF:-1,REELZ | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42238.m3u8
+#EXTINF:-1,REVOLT | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42237.m3u8
+#EXTINF:-1,Showtime 2 | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42234.m3u8
+#EXTINF:-1,SMITHSONIAN CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42236.m3u8
+#EXTINF:-1,SYFY | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42235.m3u8
+#EXTINF:-1,TASTEMADE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42233.m3u8
+#EXTINF:-1,TBN Trinity Broadcasting Network | [DIRECT]
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42216.m3u8
+#EXTINF:-1,TBS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42232.m3u8
+#EXTINF:-1,TELEXITOS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42231.m3u8
+#EXTINF:-1,The Blaze | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42222.m3u8
+#EXTINF:-1,The Cowboy Channel (RFD-TV)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42221.m3u8
+#EXTINF:-1,TLC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42354.m3u8
+#EXTINF:-1,TNT (East) | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42230.m3u8
+#EXTINF:-1,TNT (West) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42229.m3u8
+#EXTINF:-1,TRAVEL CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42228.m3u8
+#EXTINF:-1,TRU TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42227.m3u8
+#EXTINF:-1,TUFF TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42226.m3u8
+#EXTINF:-1,TV LAND | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42224.m3u8
+#EXTINF:-1,TV LAND CLASSIC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42225.m3u8
+#EXTINF:-1,TV ONE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42223.m3u8
+#EXTINF:-1,UNIVISION | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42220.m3u8
+#EXTINF:-1,USA NETWORK ( West ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42219.m3u8
+#EXTINF:-1,WE TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42218.m3u8
+#EXTINF:-1,WGN AMERICA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42217.m3u8
+#EXTINF:-1,5 STAR MAX | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42177.m3u8
+#EXTINF:-1,ACTION MAX | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42176.m3u8
+#EXTINF:-1,CINEMAX  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42175.m3u8
+#EXTINF:-1,CINEMAX ACTION | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42174.m3u8
+#EXTINF:-1,CINEMAX MOREMAX | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42171.m3u8
+#EXTINF:-1,CINEMAX OUTERMAX | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42170.m3u8
+#EXTINF:-1,CINEMAX THRILLER | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42169.m3u8
+#EXTINF:-1,EPIX | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42165.m3u8
+#EXTINF:-1,EPIX 3 | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42168.m3u8
+#EXTINF:-1,EPIX DRIVE IN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42167.m3u8
+#EXTINF:-1,EPIX HITS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42166.m3u8
+#EXTINF:-1,FX | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42164.m3u8
+#EXTINF:-1,FXM | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42162.m3u8
+#EXTINF:-1,FXM RETRO | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42163.m3u8
+#EXTINF:-1,HALLMARK MOVIES & MYSTERIES | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42161.m3u8
+#EXTINF:-1,HBO 2 | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42158.m3u8
+#EXTINF:-1,HBO COMEDY | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42157.m3u8
+#EXTINF:-1,HBO FAMILY | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42156.m3u8
+#EXTINF:-1,HBO SIGNATURE (West) | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42155.m3u8
+#EXTINF:-1,HBO ZONE | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42154.m3u8
+#EXTINF:-1,HBO| HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42160.m3u8
+#EXTINF:-1,HDNET MOVIES | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42153.m3u8
+#EXTINF:-1,INDIEPLEX | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42152.m3u8
+#EXTINF:-1,LIFETIME MOVIES | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42151.m3u8
+#EXTINF:-1,MovieMax | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42149.m3u8
+#EXTINF:-1,MOVIEPLEX | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42150.m3u8
+#EXTINF:-1,RetroPlex | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42148.m3u8
+#EXTINF:-1,SHOWTIME  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42147.m3u8
+#EXTINF:-1,SHOWTIME 2  | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42146.m3u8
+#EXTINF:-1,SHOWTIME BEYOND | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42145.m3u8
+#EXTINF:-1,SHOWTIME EXTREME | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42144.m3u8
+#EXTINF:-1,SHOWTIME NEXT | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42143.m3u8
+#EXTINF:-1,SHOWTIME SHOWCASE | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42142.m3u8
+#EXTINF:-1,SHOWTIME WOMEN | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42141.m3u8
+#EXTINF:-1,SONY MOVIE CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42140.m3u8
+#EXTINF:-1,STARZ | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42139.m3u8
+#EXTINF:-1,STARZ CINEMA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42138.m3u8
+#EXTINF:-1,STARZ COMEDY | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42137.m3u8
+#EXTINF:-1,STARZ EDGE | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42136.m3u8
+#EXTINF:-1,STARZ ENCORE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42134.m3u8
+#EXTINF:-1,STARZ ENCORE WESTERN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42135.m3u8
+#EXTINF:-1,STARZ IN BLACK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42133.m3u8
+#EXTINF:-1,STARZ KIDS & FAMILY | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42132.m3u8
+#EXTINF:-1,STARZ SUSPENSE | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42131.m3u8
+#EXTINF:-1,SUNDANCE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42129.m3u8
+#EXTINF:-1,TCM | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42127.m3u8
+#EXTINF:-1,WESTERNS 4 U | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42126.m3u8
+#EXTINF:-1,BEIN SPORT | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42123.m3u8
+#EXTINF:-1,BEIN SPORTS (español) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42122.m3u8
+#EXTINF:-1,BIG TEN NETWORK (BTN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42120.m3u8
+#EXTINF:-1,BIG TEN NETWORK 2 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42119.m3u8
+#EXTINF:-1,BIG TEN NETWORK 3 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42118.m3u8
+#EXTINF:-1,BIG TEN NETWORK 4 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42117.m3u8
+#EXTINF:-1,CBS SPORTS NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42115.m3u8
+#EXTINF:-1,CBSN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42113.m3u8
+#EXTINF:-1,CSN BAY AREA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42112.m3u8
+#EXTINF:-1,CSN BOSTON | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42111.m3u8
+#EXTINF:-1,CSN CALIFORNIA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42109.m3u8
+#EXTINF:-1,CSN CALIFORNIA PLUS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42110.m3u8
+#EXTINF:-1,CSN CHICAGO | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42107.m3u8
+#EXTINF:-1,CSN CHICAGO PLUS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42108.m3u8
+#EXTINF:-1,CSN Mid-Atlantic | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42106.m3u8
+#EXTINF:-1,CSN New England | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42105.m3u8
+#EXTINF:-1,CSN New York | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42104.m3u8
+#EXTINF:-1,CSN North West | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42103.m3u8
+#EXTINF:-1,CSN PHILADELPHIA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42102.m3u8
+#EXTINF:-1, Eleven Sports Network | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42090.m3u8
+#EXTINF:-1,ESPN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42092.m3u8
+#EXTINF:-1,ESPN 2 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42101.m3u8
+#EXTINF:-1,ESPN 3 (MEX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42099.m3u8
+#EXTINF:-1,ESPN 3 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42098.m3u8
+#EXTINF:-1,ESPN CLASSIC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42097.m3u8
+#EXTINF:-1,ESPN DEPORTES | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42096.m3u8
+#EXTINF:-1,ESPN GOAL LINE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42095.m3u8
+#EXTINF:-1,ESPN News | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42094.m3u8
+#EXTINF:-1,ESPN U | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42093.m3u8
+#EXTINF:-1,FANTASY NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42089.m3u8
+#EXTINF:-1,FIGHT BOX | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42088.m3u8
+#EXTINF:-1,FIGHT NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42086.m3u8
+#EXTINF:-1,FLOW SPORTS (UK) | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42085.m3u8
+#EXTINF:-1,FOX COLLEGE SPORTS ATLANTIC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42084.m3u8
+#EXTINF:-1,FOX COLLEGE SPORTS CENTRAL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42083.m3u8
+#EXTINF:-1,FOX COLLEGE SPORTS PACIFIC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42082.m3u8
+#EXTINF:-1,FOX SOCCER PLUS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42081.m3u8
+#EXTINF:-1,FOX SPORTS 1 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42079.m3u8
+#EXTINF:-1,FOX SPORTS 2 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42077.m3u8
+#EXTINF:-1,FUEL TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42075.m3u8
+#EXTINF:-1,GOL TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42074.m3u8
+#EXTINF:-1,LONGHORN NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42073.m3u8
+#EXTINF:-1,MADISON SQUARE GARGEN (MSG)  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42072.m3u8
+#EXTINF:-1,MAV TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42071.m3u8
+#EXTINF:-1,MAVS TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42070.m3u8
+#EXTINF:-1,MLB NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42069.m3u8
+#EXTINF:-1,MLB STRIKE ZONE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42067.m3u8
+#EXTINF:-1,MOTORSPORTS TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42065.m3u8
+#EXTINF:-1,NBA TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42061.m3u8
+#EXTINF:-1,NBC GOLF CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42060.m3u8
+#EXTINF:-1,NBC Olympic Channel | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42059.m3u8
+#EXTINF:-1,NBCSN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42058.m3u8
+#EXTINF:-1,NESN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42056.m3u8
+#EXTINF:-1,NESN PLUS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42057.m3u8
+#EXTINF:-1,NEW ENGLAND SPORTS NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42055.m3u8
+#EXTINF:-1,NFL NOW | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42053.m3u8
+#EXTINF:-1,NFL REDZONE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42052.m3u8
+#EXTINF:-1, NFL NETWORK | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42054.m3u8
+#EXTINF:-1,PAC-12 ARIZONA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42051.m3u8
+#EXTINF:-1,PAC-12 BAY AREA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42050.m3u8
+#EXTINF:-1,PAC-12 LOS ANGELES | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42049.m3u8
+#EXTINF:-1,PAC-12 MOUNTAIN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42048.m3u8
+#EXTINF:-1,PAC-12 NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42047.m3u8
+#EXTINF:-1,PAC-12 OREGON | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42046.m3u8
+#EXTINF:-1,TNT  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42215.m3u8
+#EXTINF:-1,TNT * | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42213.m3u8
+#EXTINF:-1,PAC-12 WASHINGTON | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42044.m3u8
+#EXTINF:-1,PPV Cinema 01 -  Equalizer 2
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41985.m3u8
+#EXTINF:-1,PPV Cinema 02 - MILE 22
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41984.m3u8
+#EXTINF:-1,PPV Cinema 03 - AVENGERS: INFINITY WAR
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41983.m3u8
+#EXTINF:-1,PPV Cinema 04 - ALPHA
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41982.m3u8
+#EXTINF:-1,PPV Cinema 05 - Incredibles 2
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41981.m3u8
+#EXTINF:-1,PPV Cinema 06 - BREAKING IN
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41980.m3u8
+#EXTINF:-1,PPV Cinema 07 - THE FIRST PURGE
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41979.m3u8
+#EXTINF:-1,PPV Cinema 08 - DEADPOOL 2
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41978.m3u8
+#EXTINF:-1,PPV Cinema 09 - ANT-MAN AND THE WASP
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41977.m3u8
+#EXTINF:-1,PPV Cinema 10 - GOD'S NOT DEAD 3
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41976.m3u8
+#EXTINF:-1,PPV Cinema 11 - GOTTI
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41975.m3u8
+#EXTINF:-1,PPV Cinema 12 - SKYSCRAPER
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41974.m3u8
+#EXTINF:-1,PPV Cinema 13 - Night School
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41973.m3u8
+#EXTINF:-1,PPV Cinema 14 - OVERBOARD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41972.m3u8
+#EXTINF:-1,PPV Cinema 15 - Mission: Impossible - Fallout
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41971.m3u8
+#EXTINF:-1,PPV Cinema 16 - REVENGE
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41970.m3u8
+#EXTINF:-1,PPV Cinema 17 - TAG
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41969.m3u8
+#EXTINF:-1,PPV Cinema 18 - TULLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41968.m3u8
+#EXTINF:-1,PPV Cinema 19 - UPGRADE
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41967.m3u8
+#EXTINF:-1,PPV Cinema 20 - WILDLING
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41966.m3u8
+#EXTINF:-1,PPV Cinema 21 - ZOE
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41965.m3u8
+#EXTINF:-1,PPV Cinema 22 - WATERSCHOOL
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41964.m3u8
+#EXTINF:-1,PPV Cinema 23 - THE WARNING (EL AVISO)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41963.m3u8
+#EXTINF:-1,PPV Cinema 24 - THE SECOND
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41962.m3u8
+#EXTINF:-1,PPV Cinema 25 - THE ROW
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41961.m3u8
+#EXTINF:-1,PPV Cinema 26 - THE MIRACLE SEASON
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41960.m3u8
+#EXTINF:-1,PPV Cinema 27 - INCANTATION
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41959.m3u8
+#EXTINF:-1,PPV Cinema 28 - THE GUERNSEY LITERARY AND POTATO PEEL PIE SOCIETY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41958.m3u8
+#EXTINF:-1,PPV Cinema 29 - THE CON IS ON
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41957.m3u8
+#EXTINF:-1,PPV Cinema 30 - THE BLEEDING EDGE
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41956.m3u8
+#EXTINF:-1,PPV Cinema 31 - STROKES OF GENIRoger Federer vs. Rafael Nadal
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41955.m3u8
+#EXTINF:-1,PPV Cinema 32 - DOG DAYS
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41954.m3u8
+#EXTINF:-1,PPV Cinema 33 - PATH OF BLOOD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41953.m3u8
+#EXTINF:-1,PPV Cinema 34 - SATYAMEVA JAYATE
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41952.m3u8
+#EXTINF:-1,PPV Cinema 35 - OUR HOUSE
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41951.m3u8
+#EXTINF:-1,PPV Cinema 36 - OFF THE MENU
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41950.m3u8
+#EXTINF:-1,PPV Cinema 38 - EXTINCTION
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41949.m3u8
+#EXTINF:-1,PPV Cinema 39 - DUCK DUCK GOOSE
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41948.m3u8
+#EXTINF:-1,PPV Cinema 40 - ROAST OF BRUCE WILLIS
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41947.m3u8
+#EXTINF:-1,PPV Cinema 41 - VAMPIRE CLAY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/41946.m3u8
+#EXTINF:-1,WWE  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43985.m3u8
+#EXTINF:-1,WWE  | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43984.m3u8
+#EXTINF:-1,UFC | HD - Overeem vs Oleinik - Prelims (Sat 20/04 10:00AM ET)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43986.m3u8
+#EXTINF:-1,UFC | HD - UFC Fight Night - Overeem vs Oleinik (Sat 20/04 1:00PM ET)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43987.m3u8
+#EXTINF:-1,REAL MADRID | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42042.m3u8
+#EXTINF:-1,RED BULL TV | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42041.m3u8
+#EXTINF:-1,SEC NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42040.m3u8
+#EXTINF:-1,Sportsman | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42039.m3u8
+#EXTINF:-1,TENNIS CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42038.m3u8
+#EXTINF:-1,TYC SPORTS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42037.m3u8
+#EXTINF:-1,Univision Deportes | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42036.m3u8
+#EXTINF:-1,Willow Cricket | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42032.m3u8
+#EXTINF:-1,WORLD FISHING NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42034.m3u8
+#EXTINF:-1,AMERICAN HERO | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42195.m3u8
+#EXTINF:-1,ANIMAL PLANET | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42194.m3u8
+#EXTINF:-1,CRIME   INVESTIGATION | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42193.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42192.m3u8
+#EXTINF:-1,DISCOVERY FAMILY | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42191.m3u8
+#EXTINF:-1,DISCOVERY LIFE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42190.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42189.m3u8
+#EXTINF:-1,DIY NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42188.m3u8
+#EXTINF:-1,HISTORY 2 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42187.m3u8
+#EXTINF:-1,HISTORY CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42186.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42185.m3u8
+#EXTINF:-1,MOTORTREND NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42184.m3u8
+#EXTINF:-1,NAT GEO | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42182.m3u8
+#EXTINF:-1,NAT GEO WILD | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42183.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42181.m3u8
+#EXTINF:-1,Velocity | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42179.m3u8
+#EXTINF:-1,VICE LAND | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42180.m3u8
+#EXTINF:-1,ABC (West) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43469.m3u8
+#EXTINF:-1,ABC 10 (Albany) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43468.m3u8
+#EXTINF:-1,ABC 10 (DULUTH MN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43467.m3u8
+#EXTINF:-1,ABC 10 (Miami) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43466.m3u8
+#EXTINF:-1,ABC 10 (Sacramento) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43465.m3u8
+#EXTINF:-1,ABC 10 (San Diego) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43464.m3u8
+#EXTINF:-1,ABC 10 (WICHITA KS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43463.m3u8
+#EXTINF:-1,ABC 11 (Louisville KY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43462.m3u8
+#EXTINF:-1,ABC 11 (Meridian MS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43461.m3u8
+#EXTINF:-1,ABC 11 (Raleigh) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43460.m3u8
+#EXTINF:-1,ABC 12 (BEAUMONT TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43459.m3u8
+#EXTINF:-1,ABC 12 (MEDFORD OR) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43458.m3u8
+#EXTINF:-1,ABC 12 (Milwaukee) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43457.m3u8
+#EXTINF:-1,ABC 12 (San Antonio) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43456.m3u8
+#EXTINF:-1,ABC 13 (BOWLING GREEN KY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43455.m3u8
+#EXTINF:-1,ABC 13 (Grand Rapids MI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43454.m3u8
+#EXTINF:-1,ABC 13 (Houston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43453.m3u8
+#EXTINF:-1,ABC 13 (LAS VEGAS NV) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43452.m3u8
+#EXTINF:-1,ABC 13 (Norfolk VA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43451.m3u8
+#EXTINF:-1,ABC 13 (SIOUX FALLS SD) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43450.m3u8
+#EXTINF:-1,ABC 13 (Toledo OH) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43449.m3u8
+#EXTINF:-1,ABC 15 (Phoenix) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43448.m3u8
+#EXTINF:-1,ABC 16 (Charlottesville VA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43447.m3u8
+#EXTINF:-1,ABC 16 (Jackson MS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43446.m3u8
+#EXTINF:-1,ABC 16 SCRANTON | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43445.m3u8
+#EXTINF:-1,ABC 2 (Atlanta) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43444.m3u8
+#EXTINF:-1,ABC 2 (Baltimore) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43442.m3u8
+#EXTINF:-1,ABC 2 (BATON ROUGE LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43443.m3u8
+#EXTINF:-1,ABC 2 (GREEN BAY WI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43441.m3u8
+#EXTINF:-1,ABC 2 (Nashville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43440.m3u8
+#EXTINF:-1,ABC 2 (Portland) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43439.m3u8
+#EXTINF:-1,ABC 23 (BAKERSFIELD CA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43438.m3u8
+#EXTINF:-1,ABC 24 (AUSTIN TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43437.m3u8
+#EXTINF:-1,ABC 24 (MEMPHIS TN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43436.m3u8
+#EXTINF:-1,ABC 24 (Memphis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43435.m3u8
+#EXTINF:-1,ABC 25 (Columbia SC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43434.m3u8
+#EXTINF:-1,ABC 25 (Jackson Ville FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43433.m3u8
+#EXTINF:-1,ABC 25 (Tequesta FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43432.m3u8
+#EXTINF:-1,ABC 28 (Tampa) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43431.m3u8
+#EXTINF:-1,ABC 3 (Carterville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43429.m3u8
+#EXTINF:-1,ABC 3 (CORPUS CHRISTI TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43430.m3u8
+#EXTINF:-1,ABC 3 (Harrisburg IL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43428.m3u8
+#EXTINF:-1,ABC 3 (Harrisburg VA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43427.m3u8
+#EXTINF:-1,ABC 3 (LAFAYETTE LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43426.m3u8
+#EXTINF:-1,ABC 3 (SHREVEPORT LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43425.m3u8
+#EXTINF:-1,ABC 3 (Shreveport) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43424.m3u8
+#EXTINF:-1,ABC 3 (Wilmington NC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43423.m3u8
+#EXTINF:-1,ABC 30 (Fresno) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43422.m3u8
+#EXTINF:-1,ABC 30 (St. Louis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43421.m3u8
+#EXTINF:-1,ABC 31 (ALEXANDRIA LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43420.m3u8
+#EXTINF:-1,ABC 32 (Montgomery) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43419.m3u8
+#EXTINF:-1,ABC 33 (SPRINGFIELD MO) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43418.m3u8
+#EXTINF:-1,ABC 36 (ELMIRA NY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43417.m3u8
+#EXTINF:-1,ABC 36 (Lexington KY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43416.m3u8
+#EXTINF:-1,ABC 4 (Honolulu HI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43415.m3u8
+#EXTINF:-1,ABC 4 (Pittsburgh) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43414.m3u8
+#EXTINF:-1,ABC 4 (Salt Lake City) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43412.m3u8
+#EXTINF:-1,ABC 4 (Salt Lake) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43411.m3u8
+#EXTINF:-1,ABC 4 (Seattle) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43410.m3u8
+#EXTINF:-1,ABC 4 (SPOKANE WA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43413.m3u8
+#EXTINF:-1,ABC 40 (FORT SMITH AR) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43409.m3u8
+#EXTINF:-1,ABC 40 (Springfield MA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43408.m3u8
+#EXTINF:-1,ABC 5 (Boston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43407.m3u8
+#EXTINF:-1,ABC 5 (Cleveland) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43406.m3u8
+#EXTINF:-1,ABC 5 (Des Moines IA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43405.m3u8
+#EXTINF:-1,ABC 5 (Minneapolis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43404.m3u8
+#EXTINF:-1,ABC 5 (Minnesota) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43403.m3u8
+#EXTINF:-1,ABC 5 (OKLAHOMA CITY OK) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43402.m3u8
+#EXTINF:-1,ABC 6 (Austin NM) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43401.m3u8
+#EXTINF:-1,ABC 6 (BOISE ID) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43400.m3u8
+#EXTINF:-1,ABC 6 (Columbus) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43399.m3u8
+#EXTINF:-1,ABC 6 (GREENWOOD MS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43398.m3u8
+#EXTINF:-1,ABC 6 (Indiana) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43397.m3u8
+#EXTINF:-1,ABC 6 (KNOXVILLE TN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43396.m3u8
+#EXTINF:-1,ABC 6 (New Bedford MA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43394.m3u8
+#EXTINF:-1,ABC 6 (NJ/PA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43395.m3u8
+#EXTINF:-1,ABC 6 (Philadelphia) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43393.m3u8
+#EXTINF:-1,ABC 6 (TWIN FALLS ID) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43392.m3u8
+#EXTINF:-1,ABC 6 Knoxville | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43391.m3u8
+#EXTINF:-1,ABC 7 (ALBUQUERQUE NM) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43390.m3u8
+#EXTINF:-1,ABC 7 (Bay Area) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43389.m3u8
+#EXTINF:-1,ABC 7 (Buffalo NY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43388.m3u8
+#EXTINF:-1,ABC 7 (Chicago) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43387.m3u8
+#EXTINF:-1,ABC 7 (Chicago) | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43386.m3u8
+#EXTINF:-1,ABC 7 (Denver) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43385.m3u8
+#EXTINF:-1,ABC 7 (Detroit) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43384.m3u8
+#EXTINF:-1,ABC 7 (Fort Myers FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43383.m3u8
+#EXTINF:-1,ABC 7 (JACKSON TN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43382.m3u8
+#EXTINF:-1,ABC 7 (Los Angeles) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43381.m3u8
+#EXTINF:-1,ABC 7 (Miami) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43380.m3u8
+#EXTINF:-1,ABC 7 (NYC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43379.m3u8
+#EXTINF:-1,ABC 7 (Omaha NE) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43378.m3u8
+#EXTINF:-1,ABC 7 (Wash  DC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43377.m3u8
+#EXTINF:-1,ABC 7 News (San Francisco) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43376.m3u8
+#EXTINF:-1,ABC 8  (New Haven) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43371.m3u8
+#EXTINF:-1,ABC 8 (Dallas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43375.m3u8
+#EXTINF:-1,ABC 8 (GRAND JUNCTION CO) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43374.m3u8
+#EXTINF:-1,ABC 8 (LAREDO TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43373.m3u8
+#EXTINF:-1,ABC 8 (LINCOLN NE) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43372.m3u8
+#EXTINF:-1,ABC 8 (Poland Springs ME)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43370.m3u8
+#EXTINF:-1,ABC 8 (Portland ME) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43369.m3u8
+#EXTINF:-1,ABC 8 (SALINAS CA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43368.m3u8
+#EXTINF:-1,ABC 9 (CEDAR RAPIDS IA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43367.m3u8
+#EXTINF:-1,ABC 9 (Charlotte) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43366.m3u8
+#EXTINF:-1,ABC 9 (EUGENE OR) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43365.m3u8
+#EXTINF:-1,ABC 9 (Kansas City) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43364.m3u8
+#EXTINF:-1,ABC 9 (Manchester) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43363.m3u8
+#EXTINF:-1,ABC 9 (Orlando) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43361.m3u8
+#EXTINF:-1,ABC 9 (ORLANDO) | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43362.m3u8
+#EXTINF:-1,ABC 9 (TUCSON AZ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43360.m3u8
+#EXTINF:-1,ABC ACTION NEWS (Tampa) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43359.m3u8
+#EXTINF:-1,ABC NEWS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42302.m3u8
+#EXTINF:-1,BABY TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42315.m3u8
+#EXTINF:-1,Bloomberg TV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42301.m3u8
+#EXTINF:-1,BOOMERANG | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42314.m3u8
+#EXTINF:-1,CARTOON NETWORK  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42313.m3u8
+#EXTINF:-1,CBS (Cheyenne WY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43358.m3u8
+#EXTINF:-1,CBS (EAST) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43357.m3u8
+#EXTINF:-1,CBS (Elmira NY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43356.m3u8
+#EXTINF:-1,CBS (North Platte NE) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43354.m3u8
+#EXTINF:-1,CBS (NY) | [DIRECT]
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43355.m3u8
+#EXTINF:-1,CBS (Parkersburg WV) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43353.m3u8
+#EXTINF:-1,CBS (West) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43352.m3u8
+#EXTINF:-1,CBS 10 (Amarillo) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43351.m3u8
+#EXTINF:-1,CBS 10 (Columbus) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43350.m3u8
+#EXTINF:-1,CBS 10 (Tampa Bay) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43349.m3u8
+#EXTINF:-1,CBS 10 (Tampa) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43348.m3u8
+#EXTINF:-1,CBS 10 (Waco TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43347.m3u8
+#EXTINF:-1,CBS 11 (Colorado Springs CO) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43346.m3u8
+#EXTINF:-1,CBS 11 (Dallas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43345.m3u8
+#EXTINF:-1,CBS 11 (Fargo Valley CT)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43344.m3u8
+#EXTINF:-1,CBS 11 (Fort Myers FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43343.m3u8
+#EXTINF:-1,CBS 11 (Houston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43342.m3u8
+#EXTINF:-1,CBS 11 (Little Rock AR) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43341.m3u8
+#EXTINF:-1,CBS 11 (Savannah GA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43340.m3u8
+#EXTINF:-1,CBS 11 (Toledo OH) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43339.m3u8
+#EXTINF:-1,CBS 11 (Twin Falls ID) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43338.m3u8
+#EXTINF:-1,CBS 12 (Augusta GA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43337.m3u8
+#EXTINF:-1,CBS 12 (Cape Girardeau) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43336.m3u8
+#EXTINF:-1,CBS 12 (Cincinatti) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43335.m3u8
+#EXTINF:-1,CBS 12 (Santa Maria) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43334.m3u8
+#EXTINF:-1,CBS 12 (Sherman TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43333.m3u8
+#EXTINF:-1,CBS 12 (Shreveport LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43332.m3u8
+#EXTINF:-1,CBS 12 (West Palm Beach) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43331.m3u8
+#EXTINF:-1,CBS 12 (Wichita KS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43330.m3u8
+#EXTINF:-1,CBS 13 (Baltimore)  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43329.m3u8
+#EXTINF:-1,CBS 13 (Biloxi MS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43328.m3u8
+#EXTINF:-1,CBS 13 (FAIRBANKS AK) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43327.m3u8
+#EXTINF:-1,CBS 13 (Laredo TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43326.m3u8
+#EXTINF:-1,CBS 13 (Macon GA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43325.m3u8
+#EXTINF:-1,CBS 13 (Portland ME) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43324.m3u8
+#EXTINF:-1,CBS 13 (Sacramento) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43323.m3u8
+#EXTINF:-1,CBS 13 (Topeka KS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43322.m3u8
+#EXTINF:-1,CBS 13 (Tucson AZ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43321.m3u8
+#EXTINF:-1,CBS 16 (Salisbury MD) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43320.m3u8
+#EXTINF:-1,CBS 18 (Panama City FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43319.m3u8
+#EXTINF:-1,CBS 19 (Charlottesville VA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43318.m3u8
+#EXTINF:-1,CBS 19 (Cleveland) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43317.m3u8
+#EXTINF:-1,CBS 19 (Columbia SC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43316.m3u8
+#EXTINF:-1,CBS 19 (Tyler Longview TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43315.m3u8
+#EXTINF:-1,CBS 2 (Alexandria LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43314.m3u8
+#EXTINF:-1,CBS 2 (Cedar Rapids) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43313.m3u8
+#EXTINF:-1,CBS 2 (Chicago) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43312.m3u8
+#EXTINF:-1,CBS 2 (Greensboro) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43311.m3u8
+#EXTINF:-1,CBS 2 (New York) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43310.m3u8
+#EXTINF:-1,CBS 2 (Palm Srings FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43309.m3u8
+#EXTINF:-1,CBS 2 (Pittsburgh) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43308.m3u8
+#EXTINF:-1,CBS 2 (Reno NV) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43307.m3u8
+#EXTINF:-1,CBS 2 (Salt Lake City) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43306.m3u8
+#EXTINF:-1,CBS 2 (Spokane WA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43305.m3u8
+#EXTINF:-1,CBS 2 (Tallahassee FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43304.m3u8
+#EXTINF:-1,CBS 2/9 (Los Angeles)  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43303.m3u8
+#EXTINF:-1,CBS 21 (Harrisburg) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43302.m3u8
+#EXTINF:-1,CBS 21 (PA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43301.m3u8
+#EXTINF:-1,CBS 22 (Scranton PA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43300.m3u8
+#EXTINF:-1,CBS 22 (South Bend IN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43299.m3u8
+#EXTINF:-1,CBS 23 (Rockford IL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43298.m3u8
+#EXTINF:-1,CBS 24 (Meridian MS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43297.m3u8
+#EXTINF:-1,CBS 27 (Lexington KY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43296.m3u8
+#EXTINF:-1,CBS 3 (Bryan TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43295.m3u8
+#EXTINF:-1,CBS 3 (Burlington VT) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43294.m3u8
+#EXTINF:-1,CBS 3 (Charlotte) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43293.m3u8
+#EXTINF:-1,CBS 3 (Connecticut) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43292.m3u8
+#EXTINF:-1,CBS 3 (Hartford) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43291.m3u8
+#EXTINF:-1,CBS 3 (Idaho Falls ID) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43290.m3u8
+#EXTINF:-1,CBS 3 (Kalamazoo) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43289.m3u8
+#EXTINF:-1,CBS 3 (Michigan) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43288.m3u8
+#EXTINF:-1,CBS 3 (Omaha NE) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43287.m3u8
+#EXTINF:-1,CBS 3 (Philadelphia) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43286.m3u8
+#EXTINF:-1,CBS 3 (Springfield Holyoke MA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43285.m3u8
+#EXTINF:-1,CBS 32 (Louisville KY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43284.m3u8
+#EXTINF:-1,CBS 35 (Erie PA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43283.m3u8
+#EXTINF:-1,CBS 4 (Boston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43282.m3u8
+#EXTINF:-1,CBS 4 (Denver) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43281.m3u8
+#EXTINF:-1,CBS 4 (Dothan AL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43280.m3u8
+#EXTINF:-1,CBS 4 (EL Paso) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43279.m3u8
+#EXTINF:-1,CBS 4 (Miami) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43278.m3u8
+#EXTINF:-1,CBS 4 (Minneapolis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43277.m3u8
+#EXTINF:-1,CBS 4 (Minnesota) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43276.m3u8
+#EXTINF:-1,CBS 4 (New Orleans) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43275.m3u8
+#EXTINF:-1,CBS 4 (Rio Grande Valley) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43274.m3u8
+#EXTINF:-1,CBS 4 (St. Louis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43273.m3u8
+#EXTINF:-1,CBS 42 (Austin) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43272.m3u8
+#EXTINF:-1,CBS 44 (Valdosta GA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43271.m3u8
+#EXTINF:-1,CBS 46 (Atlanta) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43270.m3u8
+#EXTINF:-1,CBS 46 (Monterey CA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43269.m3u8
+#EXTINF:-1,CBS 46 (Thomasville GA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43268.m3u8
+#EXTINF:-1,CBS 47 (Jacksonville FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43267.m3u8
+#EXTINF:-1,CBS 47 (Jacksonville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43266.m3u8
+#EXTINF:-1,CBS 5 (Bangor ME) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43265.m3u8
+#EXTINF:-1,CBS 5 (Bridgeport WV) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43264.m3u8
+#EXTINF:-1,CBS 5 (Charleston SC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43263.m3u8
+#EXTINF:-1,CBS 5 (Clarksburg WV)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43262.m3u8
+#EXTINF:-1,CBS 5 (Flint MI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43261.m3u8
+#EXTINF:-1,CBS 5 (Honolulu HI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43260.m3u8
+#EXTINF:-1,CBS 5 (Kansas City) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43259.m3u8
+#EXTINF:-1,CBS 5 (Nashville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43258.m3u8
+#EXTINF:-1,CBS 5 (Phoenix) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43257.m3u8
+#EXTINF:-1,CBS 5 (San Antonio) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43256.m3u8
+#EXTINF:-1,CBS 5 (San francisco) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43255.m3u8
+#EXTINF:-1,CBS 57 (Hazard KY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43254.m3u8
+#EXTINF:-1,CBS 58 (Milwaukee) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43253.m3u8
+#EXTINF:-1,CBS 58 (Wisconsin) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43252.m3u8
+#EXTINF:-1,CBS 6 (Orlando) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43251.m3u8
+#EXTINF:-1,CBS 6 (Portland OR ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43250.m3u8
+#EXTINF:-1,CBS 6 (Schenectady NY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43249.m3u8
+#EXTINF:-1,CBS 6 (Tulsa OK) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43248.m3u8
+#EXTINF:-1,CBS 6 (Wichita Falls TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43247.m3u8
+#EXTINF:-1,CBS 62 (Detroit) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43246.m3u8
+#EXTINF:-1,CBS 7 (Dayton OH) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43245.m3u8
+#EXTINF:-1,CBS 7 (Jackson TN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43244.m3u8
+#EXTINF:-1,CBS 7 (Odesa TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43243.m3u8
+#EXTINF:-1,CBS 7 (Ranoke VA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43242.m3u8
+#EXTINF:-1,CBS 7 (Seattle) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43241.m3u8
+#EXTINF:-1,CBS 7 (Wausau WI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43240.m3u8
+#EXTINF:-1,CBS 8 (Des Moines) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43239.m3u8
+#EXTINF:-1,CBS 8 (Knoxville TN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43238.m3u8
+#EXTINF:-1,CBS 8 (Monroe LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43237.m3u8
+#EXTINF:-1,CBS 8 (Montgomery Selma AL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43236.m3u8
+#EXTINF:-1,CBS 8 (Montgomery) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43235.m3u8
+#EXTINF:-1,CBS 8 (Presque Isle ME) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43234.m3u8
+#EXTINF:-1,CBS 8 (San Diego) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43233.m3u8
+#EXTINF:-1,CBS 8 KNOXVILLE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43232.m3u8
+#EXTINF:-1,CBS 9 (Baton Rouge) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43231.m3u8
+#EXTINF:-1,CBS 9 (Cadillac MI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43230.m3u8
+#EXTINF:-1,CBS 9 (Oklahoma City OK) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43229.m3u8
+#EXTINF:-1,CBS 9 (Washington DC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43228.m3u8
+#EXTINF:-1,CHEDDAR | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42300.m3u8
+#EXTINF:-1,CNN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42299.m3u8
+#EXTINF:-1,DISNEY CHANNEL | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42312.m3u8
+#EXTINF:-1,DISNEY JR | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42311.m3u8
+#EXTINF:-1,DISNEY XD | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42310.m3u8
+#EXTINF:-1,FOX (COLUMBIA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43227.m3u8
+#EXTINF:-1,FOX (LAFAYETTE LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43226.m3u8
+#EXTINF:-1,FOX (Minneapolis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43225.m3u8
+#EXTINF:-1,FOX (Myrtle Beach) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43224.m3u8
+#EXTINF:-1,FOX (Rochester) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43223.m3u8
+#EXTINF:-1,FOX (Sportstime Ohio) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43222.m3u8
+#EXTINF:-1,FOX 10 ( Mobile) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43221.m3u8
+#EXTINF:-1,FOX 10 (Greenwood) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43220.m3u8
+#EXTINF:-1,FOX 10 (Phoenix) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43219.m3u8
+#EXTINF:-1,FOX 10 (San Angelo) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43218.m3u8
+#EXTINF:-1,FOX 10 (Tere Haute IN)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43217.m3u8
+#EXTINF:-1,FOX 10 Xtra (Phoenix) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43216.m3u8
+#EXTINF:-1,Fox 11 (Greenbay) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43084.m3u8
+#EXTINF:-1,FOX 11 (Los Angeles) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43215.m3u8
+#EXTINF:-1,FOX 11 (Palm Springs) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43214.m3u8
+#EXTINF:-1,FOX 11 (Santa Barbara) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43213.m3u8
+#EXTINF:-1,FOX 11 (Tucson) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43212.m3u8
+#EXTINF:-1,FOX 12 ( Salt Lake City) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43210.m3u8
+#EXTINF:-1,FOX 12 (Portland) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43209.m3u8
+#EXTINF:-1,FOX 13 (Memphis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43208.m3u8
+#EXTINF:-1,FOX 13 (Salt Lake City) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43207.m3u8
+#EXTINF:-1,FOX 13 (Seattle) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43206.m3u8
+#EXTINF:-1,FOX 13 (Tacoma) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43205.m3u8
+#EXTINF:-1,FOX 13 (Tampa Bay FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43204.m3u8
+#EXTINF:-1,FOX 13 (Tampa) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43203.m3u8
+#EXTINF:-1,FOX 14 (Greenville NC)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43202.m3u8
+#EXTINF:-1,FOX 14 (Pittsburg ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43201.m3u8
+#EXTINF:-1,FOX 15 (Abilene) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43200.m3u8
+#EXTINF:-1,FOX 15 (Fargo) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43199.m3u8
+#EXTINF:-1,Fox 15 (Lafayette) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43083.m3u8
+#EXTINF:-1,FOX 15 (Ottumwa IA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43198.m3u8
+#EXTINF:-1,FOX 15 (Spokane) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43197.m3u8
+#EXTINF:-1,FOX 16  (Salisbury) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43195.m3u8
+#EXTINF:-1,FOX 16 (Lafayette) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43196.m3u8
+#EXTINF:-1,FOX 16 (West Point) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43194.m3u8
+#EXTINF:-1,FOX 17 Nashville | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43192.m3u8
+#EXTINF:-1,FOX 18  (Butte) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43191.m3u8
+#EXTINF:-1,FOX 19 (Cincinnati OH) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43190.m3u8
+#EXTINF:-1,FOX 19 (Victoria) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43189.m3u8
+#EXTINF:-1,FOX 19 NOW (CINY/KY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43188.m3u8
+#EXTINF:-1,FOX 2 ( St. Louis ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43187.m3u8
+#EXTINF:-1,FOX 2 (Detroit) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43186.m3u8
+#EXTINF:-1,FOX 2 (FAIRBANKS AK) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43185.m3u8
+#EXTINF:-1,FOX 2 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43184.m3u8
+#EXTINF:-1,FOX 20 (Casper) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43183.m3u8
+#EXTINF:-1,FOX 20 (Chico) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43182.m3u8
+#EXTINF:-1,FOX 21 (Duluth) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43181.m3u8
+#EXTINF:-1,FOX 21 (Greenville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43180.m3u8
+#EXTINF:-1,FOX 22 (Bangor) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43179.m3u8
+#EXTINF:-1,FOX 22 (Columbia) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43178.m3u8
+#EXTINF:-1,FOX 23  (Tulsa) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43174.m3u8
+#EXTINF:-1,FOX 23 (Charleston SC)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43177.m3u8
+#EXTINF:-1,FOX 23 (Merdians) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43175.m3u8
+#EXTINF:-1,FOX 23 (MISSOULA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43176.m3u8
+#EXTINF:-1,FOX 24 (Baltimore) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43173.m3u8
+#EXTINF:-1,FOX 24 (Milwaukee) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43172.m3u8
+#EXTINF:-1,FOX 24 (Wisconsin) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43171.m3u8
+#EXTINF:-1,Fox 25 (Boston)  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43082.m3u8
+#EXTINF:-1,FOX 25 (Boston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43170.m3u8
+#EXTINF:-1,FOX 25 (Gulfport MS)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43169.m3u8
+#EXTINF:-1,FOX 26 (Houston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43168.m3u8
+#EXTINF:-1,FOX 26 (Houston) | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43167.m3u8
+#EXTINF:-1,FOX 26 (Medford) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43166.m3u8
+#EXTINF:-1,FOX 26 (St Joseph) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43165.m3u8
+#EXTINF:-1,FOX 26 (Wilmington) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43164.m3u8
+#EXTINF:-1,FOX 27 (Cheyenne) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43163.m3u8
+#EXTINF:-1,FOX 28 (Cedar  Rapids) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43162.m3u8
+#EXTINF:-1,FOX 28 (Columbus OH) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43161.m3u8
+#EXTINF:-1,FOX 28 (Columbus) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43160.m3u8
+#EXTINF:-1,FOX 28 (Eureka) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43159.m3u8
+#EXTINF:-1,Fox 28 (Spokane) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43081.m3u8
+#EXTINF:-1,FOX 29 ( Buffalo NY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43158.m3u8
+#EXTINF:-1,FOX 29 (Buffalo) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43157.m3u8
+#EXTINF:-1,FOX 29 (Lake Charles) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43156.m3u8
+#EXTINF:-1,FOX 29 (Philadelphia PA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43155.m3u8
+#EXTINF:-1,FOX 29 (Philadelphia) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43193.m3u8
+#EXTINF:-1,FOX 29 (Philly) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43154.m3u8
+#EXTINF:-1,FOX 29 (San Antonio) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43153.m3u8
+#EXTINF:-1,FOX 30 (Jacksonville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43152.m3u8
+#EXTINF:-1,FOX 30 (Meridian) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43151.m3u8
+#EXTINF:-1,FOX 34 (Eugene) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43148.m3u8
+#EXTINF:-1,FOX 35 (Orlando) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43147.m3u8
+#EXTINF:-1,FOX 35 (Salinas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43146.m3u8
+#EXTINF:-1,FOX 36 (Toledo OH)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43145.m3u8
+#EXTINF:-1,FOX 38 (Greenville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43144.m3u8
+#EXTINF:-1,FOX 39 (Bend) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43143.m3u8
+#EXTINF:-1,FOX 39 (Jonesboro) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43142.m3u8
+#EXTINF:-1,FOX 4 (Anchorage) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43141.m3u8
+#EXTINF:-1,Fox 4 (Beaumont TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43080.m3u8
+#EXTINF:-1,FOX 4 (Beaumont) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43140.m3u8
+#EXTINF:-1,FOX 4 (Dallas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43139.m3u8
+#EXTINF:-1,Fox 4 (Kansas City) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43079.m3u8
+#EXTINF:-1,FOX 4 (Naples) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43138.m3u8
+#EXTINF:-1,FOX 4 MORE (Dallas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43137.m3u8
+#EXTINF:-1,FOX 40 ( Binghamton) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43136.m3u8
+#EXTINF:-1,FOX 40 (Jackson MS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43135.m3u8
+#EXTINF:-1,FOX 40 (Sacramento) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43134.m3u8
+#EXTINF:-1,FOX 41 (Louisville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43133.m3u8
+#EXTINF:-1,FOX 41 (Yakima) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43132.m3u8
+#EXTINF:-1,FOX 43 (Bloomington IL)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43131.m3u8
+#EXTINF:-1,FOX 43 (PA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43130.m3u8
+#EXTINF:-1,FOX 43 (VA Beach) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43129.m3u8
+#EXTINF:-1,FOX 44 (Baton Rouge) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43128.m3u8
+#EXTINF:-1,FOX 44 (Evansville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43127.m3u8
+#EXTINF:-1,FOX 44 (Springfield) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43126.m3u8
+#EXTINF:-1,FOX 45 (Baltimore) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43124.m3u8
+#EXTINF:-1,FOX 45 (Hazelton) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43123.m3u8
+#EXTINF:-1,Fox 46 (Charlotte) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43078.m3u8
+#EXTINF:-1,FOX 47 (Lansing MI)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43120.m3u8
+#EXTINF:-1,FOX 47 (Rochester) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43119.m3u8
+#EXTINF:-1,FOX 5  (Las Vegas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43113.m3u8
+#EXTINF:-1,FOX 5 (Atlanta) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43118.m3u8
+#EXTINF:-1,FOX 5 (District of Columbia) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43117.m3u8
+#EXTINF:-1,FOX 5 (Great Falls) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43116.m3u8
+#EXTINF:-1,FOX 5 (Helena) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43115.m3u8
+#EXTINF:-1,FOX 5 (Las Vegas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43114.m3u8
+#EXTINF:-1,FOX 5 (New York) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43112.m3u8
+#EXTINF:-1,FOX 5 (Pocatello) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43111.m3u8
+#EXTINF:-1,FOX 5 (Springfield) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43110.m3u8
+#EXTINF:-1,FOX 5 (Waga) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43109.m3u8
+#EXTINF:-1,FOX 5 (Wash DC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43108.m3u8
+#EXTINF:-1,FOX 5 PLUS (Wash DC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43107.m3u8
+#EXTINF:-1,Fox 51 (Gainesville)  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43077.m3u8
+#EXTINF:-1,Fox 51 Gainesville | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43076.m3u8
+#EXTINF:-1,FOX 53 (Pittsburg) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43105.m3u8
+#EXTINF:-1,Fox 53 (Pittsburgh) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43075.m3u8
+#EXTINF:-1,FOX 54 (Columbus GA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43104.m3u8
+#EXTINF:-1,FOX 55 (Fort Wayne IN)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43103.m3u8
+#EXTINF:-1,Fox 59 (Indianapolis IN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43074.m3u8
+#EXTINF:-1,FOX 6 (Milwaukee) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43102.m3u8
+#EXTINF:-1,FOX 6 (Springfield) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43101.m3u8
+#EXTINF:-1,Fox 61 (Hartford CT) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43073.m3u8
+#EXTINF:-1,FOX 7 ( Austin TX ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43100.m3u8
+#EXTINF:-1,FOX 7 (Miami) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43099.m3u8
+#EXTINF:-1,FOX 7 (Sioux Falls)| HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43098.m3u8
+#EXTINF:-1,FOX 8 ( New Orleans LA ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43097.m3u8
+#EXTINF:-1,Fox 8 (Cleaveland) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43072.m3u8
+#EXTINF:-1,FOX 8 (Cleveland ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43096.m3u8
+#EXTINF:-1,FOX 8 (Johnstown PA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43095.m3u8
+#EXTINF:-1,FOX 8 (Juneau) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43094.m3u8
+#EXTINF:-1,FOX 8 (New Orleans LA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43093.m3u8
+#EXTINF:-1,FOX 8 (Quincy) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43092.m3u8
+#EXTINF:-1,FOX 9 (Minneapolis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43091.m3u8
+#EXTINF:-1,FOX 9 (Yuma) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43090.m3u8
+#EXTINF:-1,FOX BUSINESS NETWORK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42298.m3u8
+#EXTINF:-1,Fox East | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43070.m3u8
+#EXTINF:-1,FOX KABB SAA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43089.m3u8
+#EXTINF:-1,FOX KCPQ SEA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43088.m3u8
+#EXTINF:-1,FOX NEWS | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43087.m3u8
+#EXTINF:-1,FOX NEWS CHANNEL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42297.m3u8
+#EXTINF:-1,FOX WBFF BAL | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43086.m3u8
+#EXTINF:-1,FOX WFTC MIN | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43085.m3u8
+#EXTINF:-1,KCAL 9 (Los Angeles) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43069.m3u8
+#EXTINF:-1,MSNBC | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42296.m3u8
+#EXTINF:-1,MTV | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42320.m3u8
+#EXTINF:-1,MTV 2 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42324.m3u8
+#EXTINF:-1,MTV BASE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42323.m3u8
+#EXTINF:-1,MTV LIVE | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42322.m3u8
+#EXTINF:-1,MTV U | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42321.m3u8
+#EXTINF:-1,NBC (EAST) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43068.m3u8
+#EXTINF:-1,NBC (Las Vegas Telemundo 39) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43067.m3u8
+#EXTINF:-1,NBC (NY) | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43066.m3u8
+#EXTINF:-1,NBC (Telemundo Denver) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43061.m3u8
+#EXTINF:-1,NBC (Telemundo Tucson) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43060.m3u8
+#EXTINF:-1,NBC (West) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43058.m3u8
+#EXTINF:-1,NBC 10 (Albany GA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43057.m3u8
+#EXTINF:-1,NBC 10 (Boston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43056.m3u8
+#EXTINF:-1,NBC 10 (Columbia SC)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43055.m3u8
+#EXTINF:-1,NBC 10 (Knoxville TN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43054.m3u8
+#EXTINF:-1,NBC 10 (Lansing MI)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43053.m3u8
+#EXTINF:-1,NBC 10 (Rochester) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43052.m3u8
+#EXTINF:-1,NBC 10 COZI | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43051.m3u8
+#EXTINF:-1,NBC 11 ( Pittsburgh ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43050.m3u8
+#EXTINF:-1,NBC 11 (Atlanta) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43049.m3u8
+#EXTINF:-1,NBC 11 (Baltimore MD) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43048.m3u8
+#EXTINF:-1,NBC 11 (Baltimore) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43047.m3u8
+#EXTINF:-1,NBC 11 (Bay Area) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43046.m3u8
+#EXTINF:-1,NBC 11 (Fairbanks AK)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43045.m3u8
+#EXTINF:-1,NBC 11 (Fargo ND)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43044.m3u8
+#EXTINF:-1,NBC 11 (Grand Junction CO) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43043.m3u8
+#EXTINF:-1,NBC 11 (Lubbock TX)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43042.m3u8
+#EXTINF:-1,NBC 11 (Minneapolis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43041.m3u8
+#EXTINF:-1,NBC 11 (Minnesota) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43040.m3u8
+#EXTINF:-1,NBC 12 (Augusta GA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43039.m3u8
+#EXTINF:-1,NBC 12 (Erie PA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43038.m3u8
+#EXTINF:-1,NBC 12 (Jacksonville FL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43037.m3u8
+#EXTINF:-1,NBC 12 (Milwaukee) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43036.m3u8
+#EXTINF:-1,NBC 12 (Montgomery AL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43035.m3u8
+#EXTINF:-1,NBC 12 (Phoenix) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43034.m3u8
+#EXTINF:-1,NBC 12 (Rhinelander WI)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43033.m3u8
+#EXTINF:-1,NBC 12 (Richmond VA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43032.m3u8
+#EXTINF:-1,NBC 12 (Winston Salem NC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43031.m3u8
+#EXTINF:-1,NBC 13 ( Indianapolis )  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43030.m3u8
+#EXTINF:-1,NBC 13 (Birmingham AL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43029.m3u8
+#EXTINF:-1,NBC 13 (Casper WY)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43028.m3u8
+#EXTINF:-1,NBC 13 (Cheyenne WY)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43027.m3u8
+#EXTINF:-1,NBC 13 (Eau Claire WI)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43026.m3u8
+#EXTINF:-1,NBC 13 (Honolulu HI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43025.m3u8
+#EXTINF:-1,NBC 14 (Evansville IN)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43024.m3u8
+#EXTINF:-1,NBC 15  (Madison WI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43023.m3u8
+#EXTINF:-1,NBC 15 (Parkersburg WV)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43022.m3u8
+#EXTINF:-1,NBC 16 (Lafayette LA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43021.m3u8
+#EXTINF:-1,NBC 16 (South Bend IN) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43020.m3u8
+#EXTINF:-1,NBC 17 (Decatur IL)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43019.m3u8
+#EXTINF:-1,NBC 17 (Raleigh) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43018.m3u8
+#EXTINF:-1,NBC 18 (Zanesville OH)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43017.m3u8
+#EXTINF:-1,NBC 2 (Anchorage AK)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43016.m3u8
+#EXTINF:-1,NBC 2 (Buffalo NY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43015.m3u8
+#EXTINF:-1,NBC 2 (Buffalo) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43014.m3u8
+#EXTINF:-1,NBC 2 (Greensville SC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43013.m3u8
+#EXTINF:-1,NBC 2 (Houston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43012.m3u8
+#EXTINF:-1,NBC 2 (Jacksonville) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43011.m3u8
+#EXTINF:-1,NBC 2 (North Platte NE)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43010.m3u8
+#EXTINF:-1,NBC 2 (Orlando) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43009.m3u8
+#EXTINF:-1,NBC 2 (Tulsa OK)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43008.m3u8
+#EXTINF:-1,NBC 2 (Utica NY)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43007.m3u8
+#EXTINF:-1,NBC 21 (Rapid City SD) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43006.m3u8
+#EXTINF:-1,NBC 23 (Dothan AL) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43005.m3u8
+#EXTINF:-1,NBC 24 (Chico CA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43004.m3u8
+#EXTINF:-1,NBC 24 (Toledo OH)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43003.m3u8
+#EXTINF:-1,NBC 25 (Gulfport MS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43002.m3u8
+#EXTINF:-1,NBC 26 (Augusta GA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43001.m3u8
+#EXTINF:-1,NBC 26 (Green Bay) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/43000.m3u8
+#EXTINF:-1,NBC 3 (Cleveland) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42999.m3u8
+#EXTINF:-1,NBC 3 (Eureka CA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42998.m3u8
+#EXTINF:-1,NBC 3 (Huntington WV)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42997.m3u8
+#EXTINF:-1,NBC 3 (Jackson MS)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42996.m3u8
+#EXTINF:-1,NBC 3 (Jackson MS) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42995.m3u8
+#EXTINF:-1,NBC 3 (Louisville KY)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42994.m3u8
+#EXTINF:-1,NBC 3 (Sacramento) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42993.m3u8
+#EXTINF:-1,NBC 3 (Springfield MO)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42992.m3u8
+#EXTINF:-1,NBC 30 ( Connecticut ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42991.m3u8
+#EXTINF:-1,NBC 30 (Hartford) | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42990.m3u8
+#EXTINF:-1,NBC 30 (Meridian MS)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42989.m3u8
+#EXTINF:-1,NBC 32 (Myrtle Beach SC)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42988.m3u8
+#EXTINF:-1,NBC 36 (Charlotte) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42987.m3u8
+#EXTINF:-1,NBC 36 (Charlotte) | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42986.m3u8
+#EXTINF:-1,NBC 36 (Palm Springs CA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42985.m3u8
+#EXTINF:-1,NBC 39 ( Dallas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42984.m3u8
+#EXTINF:-1,NBC 39 ( Las Vegas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42983.m3u8
+#EXTINF:-1,NBC 4  ( Washington DC ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42980.m3u8
+#EXTINF:-1,NBC 4 ( Milwuakee ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42982.m3u8
+#EXTINF:-1,NBC 4 ( San Antonio ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42981.m3u8
+#EXTINF:-1,NBC 4 (Detroit MI) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42979.m3u8
+#EXTINF:-1,NBC 4 (Detroit) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42978.m3u8
+#EXTINF:-1,NBC 4 (Hastings NE)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42977.m3u8
+#EXTINF:-1,NBC 4 (Los Angeles) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42976.m3u8
+#EXTINF:-1,NBC 4 (Nashville)  | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42975.m3u8
+#EXTINF:-1,NBC 4 (New York) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42974.m3u8
+#EXTINF:-1,NBC 4 (Reno NV) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42973.m3u8
+#EXTINF:-1,NBC 4 (Wash DC) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42972.m3u8
+#EXTINF:-1,NBC 4 (Wisconsin) |HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42971.m3u8
+#EXTINF:-1,NBC 40 (Tucson AZ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42970.m3u8
+#EXTINF:-1,NBC 41 (Kansas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42969.m3u8
+#EXTINF:-1,NBC 43 (York PA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42968.m3u8
+#EXTINF:-1,NBC 47 (Houston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42967.m3u8
+#EXTINF:-1,NBC 48 (Huntsville AL)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42966.m3u8
+#EXTINF:-1,NBC 5 (Alexandria LA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42965.m3u8
+#EXTINF:-1,NBC 5 (Bismarck ND)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42964.m3u8
+#EXTINF:-1,NBC 5 (Chicago) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42963.m3u8
+#EXTINF:-1,NBC 5 (Cincinnati) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42962.m3u8
+#EXTINF:-1,NBC 5 (Dallas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42961.m3u8
+#EXTINF:-1,NBC 5 (Memphis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42960.m3u8
+#EXTINF:-1,NBC 5 (Plattsburg NY) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42959.m3u8
+#EXTINF:-1,NBC 5 (Raleigh) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42958.m3u8
+#EXTINF:-1,NBC 5 (Salt Lake City) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42957.m3u8
+#EXTINF:-1,NBC 5 (Seattle WA) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42956.m3u8
+#EXTINF:-1,NBC 5 (St. Louis) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42955.m3u8
+#EXTINF:-1,NBC 5 (West Palm Beach FL)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42954.m3u8
+#EXTINF:-1,NBC 51 (Telemundo Miami) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42953.m3u8
+#EXTINF:-1,NBC 6 ( Miami ) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42951.m3u8
+#EXTINF:-1,NBC 6 (Davenport IA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42950.m3u8
+#EXTINF:-1,NBC 6 (Miami) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42949.m3u8
+#EXTINF:-1,NBC 6 (New Orleans) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42948.m3u8
+#EXTINF:-1,NBC 6 (Omaha NE) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42947.m3u8
+#EXTINF:-1,NBC 6 (Portland ME) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42946.m3u8
+#EXTINF:-1,NBC 6 (Upper Michigan MI)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42945.m3u8
+#EXTINF:-1,NBC 6 (Wilmington NC)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42944.m3u8
+#EXTINF:-1,NBC 60 (San Antonio) |HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42943.m3u8
+#EXTINF:-1,NBC 7 (Boise ID) |HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42942.m3u8
+#EXTINF:-1,NBC 7 (Greenville NC)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42941.m3u8
+#EXTINF:-1,NBC 7 (Hattiesburg MS)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42940.m3u8
+#EXTINF:-1,NBC 7 (Lake Charles LA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42939.m3u8
+#EXTINF:-1,NBC 7 (Panama City FL)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42938.m3u8
+#EXTINF:-1,NBC 7 (San Diego) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42937.m3u8
+#EXTINF:-1,NBC 8 (Boston) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42936.m3u8
+#EXTINF:-1,NBC 8 (Jonesboro AR)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42935.m3u8
+#EXTINF:-1,NBC 8 (Lancaster PA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42934.m3u8
+#EXTINF:-1,NBC 8 (Laredo TX)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42933.m3u8
+#EXTINF:-1,NBC 8 (Portland) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42932.m3u8
+#EXTINF:-1,NBC 8 (Salinas CA)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42931.m3u8
+#EXTINF:-1,NBC 9 (Denver) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42930.m3u8
+#EXTINF:-1,NBC 9 (Midland TX) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42929.m3u8
+#EXTINF:-1,NBC 9 (Tupelo MS)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42928.m3u8
+#EXTINF:-1,NBC Bay Area | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42927.m3u8
+#EXTINF:-1,NBC K5 (Seattle) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42926.m3u8
+#EXTINF:-1,NEWS 12 (Brooklyn) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42925.m3u8
+#EXTINF:-1,NEWS 12 (Connecticut) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42924.m3u8
+#EXTINF:-1,NEWS 12 (Hudson Valley) | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42923.m3u8
+#EXTINF:-1,NEWS 12 (Long Island) | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42922.m3u8
+#EXTINF:-1,NEWS 12 (New Jersey) | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42921.m3u8
+#EXTINF:-1,NEWS 12 (The Bronx) | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42920.m3u8
+#EXTINF:-1,NEWS 12 (WESTCHESTER NY)
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42919.m3u8
+#EXTINF:-1,NICK JR | HD*
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42309.m3u8
+#EXTINF:-1,NICKELODEON | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42308.m3u8
+#EXTINF:-1,NICKTOONS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42307.m3u8
+#EXTINF:-1,Orlando - MY FOX 35 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42918.m3u8
+#EXTINF:-1,Orlando - WRCF 29.3 Vision TV | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42917.m3u8
+#EXTINF:-1,Orlando - WTGL Good Life 45 | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42916.m3u8
+#EXTINF:-1,PBS KIDS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42305.m3u8
+#EXTINF:-1,PBS KIDS 2 | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42306.m3u8
+#EXTINF:-1,Pensacola - WHBR CTN33 | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42914.m3u8
+#EXTINF:-1,PIX 11 (NY) | SD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42915.m3u8
+#EXTINF:-1,Punta Gorda - WRXY CTN10 | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42913.m3u8
+#EXTINF:-1,RT AMERICA | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42295.m3u8
+#EXTINF:-1,Sarasota - WWSB 40.1 ABC 7 | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42912.m3u8
+#EXTINF:-1,Tallahassee - WCTV 6 News | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42906.m3u8
+#EXTINF:-1,Tampa - WTVT 13 | NEWS ONLY
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42905.m3u8
+#EXTINF:-1,TEEN NICK | UHD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42304.m3u8
+#EXTINF:-1,TELEMUNDO (Chicago) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42911.m3u8
+#EXTINF:-1,TELEMUNDO (Las Vegas) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42910.m3u8
+#EXTINF:-1,TELEMUNDO (Los Angeles) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42909.m3u8
+#EXTINF:-1,TELEMUNDO (Miami) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42908.m3u8
+#EXTINF:-1,TELEMUNDO (New York) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42907.m3u8
+#EXTINF:-1,The Weather Channel | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42294.m3u8
+#EXTINF:-1,UNIVERSAL KIDS | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42303.m3u8
+#EXTINF:-1,Fox 28 (Raleigh) | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42904.m3u8
+#EXTINF:-1,XITE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42316.m3u8
+#EXTINF:-1,XITE ROCK | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42318.m3u8
+#EXTINF:-1,XITE VIBE | HD
+http://shiztv.xyz:80/live/alanwright/nlG9U8Q5ls/42317.m3u8
