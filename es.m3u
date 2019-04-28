@@ -1,165 +1,187 @@
 #EXTM3U
-#EXTINF:-1,#0 HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2155.m3u8
-#EXTINF:-1,24 Horas
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2154.m3u8
-#EXTINF:-1,40 TV
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2153.m3u8
-#EXTINF:-1,A&E
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2152.m3u8
-#EXTINF:-1,AMC
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2151.m3u8
-#EXTINF:-1,ANTENA 3 HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2150.m3u8
-#EXTINF:-1,AXN HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2149.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2148.m3u8
+#EXTINF:-1,Andalucia Tv
+http://ares.dominium.tv:6923/live/adrian/1234/30467.m3u8
+#EXTINF:-1,Antena 3 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30466.m3u8
+#EXTINF:-1,AXN
+http://ares.dominium.tv:6923/live/adrian/1234/30465.m3u8
+#EXTINF:-1,AXN White HD
+http://ares.dominium.tv:6923/live/adrian/1234/30464.m3u8
+#EXTINF:-1,Azteca Honduras
+http://ares.dominium.tv:6923/live/adrian/1234/30463.m3u8
+#EXTINF:-1,Azteca Noticias
+http://ares.dominium.tv:6923/live/adrian/1234/30462.m3u8
+#EXTINF:-1,Azteca Trece
+http://ares.dominium.tv:6923/live/adrian/1234/30461.m3u8
+#EXTINF:-1,Baby TV
+http://ares.dominium.tv:6923/live/adrian/1234/30460.m3u8
 #EXTINF:-1,BARCA TV
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2147.m3u8
-#EXTINF:-1,beIN LaLIga 1 (event only)
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2146.m3u8
-#EXTINF:-1,beIN LaLIga 2 (event only)
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2145.m3u8
-#EXTINF:-1,beIN LaLIga 3 (event only)
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2144.m3u8
-#EXTINF:-1,Bein Liga HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2143.m3u8
-#EXTINF:-1,Bein Sport HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2142.m3u8
-#EXTINF:-1,Boing
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2141.m3u8
-#EXTINF:-1,CALLE 13 HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2140.m3u8
-#EXTINF:-1,CANAL  ACTION HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2139.m3u8
-#EXTINF:-1,Canal  COMEDIA HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2138.m3u8
-#EXTINF:-1,Canal  DCINE HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2137.m3u8
-#EXTINF:-1,Canal  DEPORTES 2 HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2136.m3u8
-#EXTINF:-1,Canal  DEPORTES HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2135.m3u8
-#EXTINF:-1,Canal  ESTRENOS HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2134.m3u8
-#EXTINF:-1,Canal  FUTBOL HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2133.m3u8
-#EXTINF:-1,Canal  GOLF HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2132.m3u8
-#EXTINF:-1,Canal  LIGA 2 HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2131.m3u8
-#EXTINF:-1,Canal  LIGA HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2130.m3u8
-#EXTINF:-1,Canal  SERIES XTRA HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2129.m3u8
-#EXTINF:-1,Canal  TOROS HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2128.m3u8
-#EXTINF:-1,Canal  XTRA HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2127.m3u8
-#EXTINF:-1,CANAL COCINA
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2126.m3u8
-#EXTINF:-1,Canal De Las Estrellas
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2125.m3u8
-#EXTINF:-1,CANAL DECASA
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2124.m3u8
-#EXTINF:-1,Canal SERIES HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2123.m3u8
-#EXTINF:-1,Caza y pesca
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2122.m3u8
-#EXTINF:-1,Clan Tve
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2121.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2120.m3u8
-#EXTINF:-1,COSMO HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2119.m3u8
-#EXTINF:-1,Crimen Investigation
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2118.m3u8
-#EXTINF:-1,CUATRO HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2117.m3u8
-#EXTINF:-1,DISCOVERY
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2116.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2115.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2114.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2113.m3u8
-#EXTINF:-1,DISNEY XD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2112.m3u8
-#EXTINF:-1,DIVINITY
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2111.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30459.m3u8
+#EXTINF:-1,beIN SPORTS HD
+http://ares.dominium.tv:6923/live/adrian/1234/30458.m3u8
+#EXTINF:-1,beIN SPORTS LA LIGA HD
+http://ares.dominium.tv:6923/live/adrian/1234/30457.m3u8
+#EXTINF:-1,beIN SPORTS Ñ HD
+http://ares.dominium.tv:6923/live/adrian/1234/30456.m3u8
+#EXTINF:-1,BOING
+http://ares.dominium.tv:6923/live/adrian/1234/30455.m3u8
+#EXTINF:-1,Calle 13 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30454.m3u8
+#EXTINF:-1,Canal  Deportes
+http://ares.dominium.tv:6923/live/adrian/1234/30453.m3u8
+#EXTINF:-1,Canal Cocina
+http://ares.dominium.tv:6923/live/adrian/1234/30452.m3u8
+#EXTINF:-1,Canal DeCasa
+http://ares.dominium.tv:6923/live/adrian/1234/30451.m3u8
+#EXTINF:-1,Canal HD
+http://ares.dominium.tv:6923/live/adrian/1234/30450.m3u8
+#EXTINF:-1,Cartoon Network
+http://ares.dominium.tv:6923/live/adrian/1234/30449.m3u8
+#EXTINF:-1,Comedy Central
+http://ares.dominium.tv:6923/live/adrian/1234/30448.m3u8
+#EXTINF:-1,Cosmo HD
+http://ares.dominium.tv:6923/live/adrian/1234/30447.m3u8
+#EXTINF:-1,Crimen y Investigation
+http://ares.dominium.tv:6923/live/adrian/1234/30446.m3u8
+#EXTINF:-1,Cuatro
+http://ares.dominium.tv:6923/live/adrian/1234/30445.m3u8
+#EXTINF:-1,Disney Channel
+http://ares.dominium.tv:6923/live/adrian/1234/30444.m3u8
+#EXTINF:-1,Disney Junior
+http://ares.dominium.tv:6923/live/adrian/1234/30443.m3u8
+#EXTINF:-1,Disney XD
+http://ares.dominium.tv:6923/live/adrian/1234/30442.m3u8
 #EXTINF:-1,Energy
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2110.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2109.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2108.m3u8
-#EXTINF:-1,FDF
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2107.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30441.m3u8
+#EXTINF:-1,EUROSPORT
+http://ares.dominium.tv:6923/live/adrian/1234/30440.m3u8
+#EXTINF:-1,Fox
+http://ares.dominium.tv:6923/live/adrian/1234/30439.m3u8
 #EXTINF:-1,FOX HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2106.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2105.m3u8
-#EXTINF:-1,GOL Tv
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2104.m3u8
-#EXTINF:-1,HISTORIA
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2103.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2102.m3u8
-#EXTINF:-1,IBERALIA
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2101.m3u8
-#EXTINF:-1,LA 1 HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2100.m3u8
-#EXTINF:-1,LA 2 HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2099.m3u8
-#EXTINF:-1,La Liga BAR HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2098.m3u8
-#EXTINF:-1,LA SEXTA HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2097.m3u8
-#EXTINF:-1,MEGA
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2096.m3u8
-#EXTINF:-1,MOVISTAR F1 HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2095.m3u8
-#EXTINF:-1,MOVISTAR FORMULA 1
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2094.m3u8
-#EXTINF:-1,movistar Futbol
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2093.m3u8
-#EXTINF:-1,MOVISTAR MOTOGP
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2092.m3u8
-#EXTINF:-1,MTV ESPANA
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2091.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2090.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2089.m3u8
-#EXTINF:-1,NEOX
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2088.m3u8
-#EXTINF:-1,NICK Jr
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2087.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2086.m3u8
-#EXTINF:-1,Nonstop People
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2085.m3u8
-#EXTINF:-1,NOVA
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2084.m3u8
-#EXTINF:-1,ODISEA HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2083.m3u8
-#EXTINF:-1,PANDA
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2082.m3u8
-#EXTINF:-1,Paramount
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2081.m3u8
-#EXTINF:-1,Real Madrid Channel
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2080.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30438.m3u8
+#EXTINF:-1,FOX LIFE
+http://ares.dominium.tv:6923/live/adrian/1234/30437.m3u8
+#EXTINF:-1,FOX Life HD
+http://ares.dominium.tv:6923/live/adrian/1234/30436.m3u8
+#EXTINF:-1,GOL TV HD
+http://ares.dominium.tv:6923/live/adrian/1234/30435.m3u8
+#EXTINF:-1,Historia
+http://ares.dominium.tv:6923/live/adrian/1234/30434.m3u8
+#EXTINF:-1,Hollywood HD
+http://ares.dominium.tv:6923/live/adrian/1234/30433.m3u8
+#EXTINF:-1,Hollywood SD
+http://ares.dominium.tv:6923/live/adrian/1234/30432.m3u8
+#EXTINF:-1,LA LIGA 1 2 3 TV HD
+http://ares.dominium.tv:6923/live/adrian/1234/30431.m3u8
+#EXTINF:-1,LA LIGA TV HD
+http://ares.dominium.tv:6923/live/adrian/1234/30430.m3u8
+#EXTINF:-1,la sexta HD
+http://ares.dominium.tv:6923/live/adrian/1234/30429.m3u8
+#EXTINF:-1,M DEPORTES 1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30428.m3u8
+#EXTINF:-1,M DEPORTES 2 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30427.m3u8
+#EXTINF:-1,M FORMULA 1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30426.m3u8
+#EXTINF:-1,M FUTBOL HD
+http://ares.dominium.tv:6923/live/adrian/1234/30425.m3u8
+#EXTINF:-1,M GOLF HD
+http://ares.dominium.tv:6923/live/adrian/1234/30424.m3u8
+#EXTINF:-1,M MOTO GP HD
+http://ares.dominium.tv:6923/live/adrian/1234/30423.m3u8
+#EXTINF:-1,M PARTIDAZO HD
+http://ares.dominium.tv:6923/live/adrian/1234/30422.m3u8
+#EXTINF:-1,Mega
+http://ares.dominium.tv:6923/live/adrian/1234/30421.m3u8
+#EXTINF:-1,Moviestar Portrada
+http://ares.dominium.tv:6923/live/adrian/1234/30420.m3u8
+#EXTINF:-1,Moviestar Series
+http://ares.dominium.tv:6923/live/adrian/1234/30419.m3u8
+#EXTINF:-1,Movistar Accion
+http://ares.dominium.tv:6923/live/adrian/1234/30418.m3u8
+#EXTINF:-1,Movistar Comedia HD
+http://ares.dominium.tv:6923/live/adrian/1234/30417.m3u8
+#EXTINF:-1,Movistar DCine
+http://ares.dominium.tv:6923/live/adrian/1234/30416.m3u8
+#EXTINF:-1,Movistar Estrenos
+http://ares.dominium.tv:6923/live/adrian/1234/30415.m3u8
+#EXTINF:-1,Movistar F1
+http://ares.dominium.tv:6923/live/adrian/1234/30414.m3u8
+#EXTINF:-1,Movistar MotoGP
+http://ares.dominium.tv:6923/live/adrian/1234/30413.m3u8
+#EXTINF:-1,Movistar Series
+http://ares.dominium.tv:6923/live/adrian/1234/30412.m3u8
+#EXTINF:-1,Movistar Series Xtra
+http://ares.dominium.tv:6923/live/adrian/1234/30411.m3u8
+#EXTINF:-1,Movistar Xtra
+http://ares.dominium.tv:6923/live/adrian/1234/30410.m3u8
+#EXTINF:-1,MTV espana
+http://ares.dominium.tv:6923/live/adrian/1234/30409.m3u8
+#EXTINF:-1,N Cuatro HD
+http://ares.dominium.tv:6923/live/adrian/1234/30408.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://ares.dominium.tv:6923/live/adrian/1234/30407.m3u8
+#EXTINF:-1,National Geographic
+http://ares.dominium.tv:6923/live/adrian/1234/30406.m3u8
+#EXTINF:-1,Neox Tv
+http://ares.dominium.tv:6923/live/adrian/1234/30405.m3u8
+#EXTINF:-1,Nickelodeon
+http://ares.dominium.tv:6923/live/adrian/1234/30404.m3u8
+#EXTINF:-1,Nova
+http://ares.dominium.tv:6923/live/adrian/1234/30403.m3u8
+#EXTINF:-1,Odisea Tv
+http://ares.dominium.tv:6923/live/adrian/1234/30402.m3u8
+#EXTINF:-1,Paramount Channel
+http://ares.dominium.tv:6923/live/adrian/1234/30401.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://ares.dominium.tv:6923/live/adrian/1234/30400.m3u8
+#EXTINF:-1,RealMadrid TV
+http://ares.dominium.tv:6923/live/adrian/1234/30399.m3u8
+#EXTINF:-1,RTVA
+http://ares.dominium.tv:6923/live/adrian/1234/30398.m3u8
+#EXTINF:-1,Sevilla Channel
+http://ares.dominium.tv:6923/live/adrian/1234/30397.m3u8
 #EXTINF:-1,SYFY
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2079.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30396.m3u8
+#EXTINF:-1,Taquilla 1
+http://ares.dominium.tv:6923/live/adrian/1234/30395.m3u8
+#EXTINF:-1,Taquilla 10
+http://ares.dominium.tv:6923/live/adrian/1234/30394.m3u8
+#EXTINF:-1,Taquilla 2
+http://ares.dominium.tv:6923/live/adrian/1234/30393.m3u8
+#EXTINF:-1,Taquilla 3
+http://ares.dominium.tv:6923/live/adrian/1234/30392.m3u8
+#EXTINF:-1,Taquilla 4
+http://ares.dominium.tv:6923/live/adrian/1234/30391.m3u8
+#EXTINF:-1,Taquilla 5
+http://ares.dominium.tv:6923/live/adrian/1234/30390.m3u8
+#EXTINF:-1,Taquilla 6
+http://ares.dominium.tv:6923/live/adrian/1234/30389.m3u8
+#EXTINF:-1,Taquilla 7
+http://ares.dominium.tv:6923/live/adrian/1234/30388.m3u8
+#EXTINF:-1,Taquilla 8
+http://ares.dominium.tv:6923/live/adrian/1234/30387.m3u8
+#EXTINF:-1,Taquilla 9
+http://ares.dominium.tv:6923/live/adrian/1234/30386.m3u8
 #EXTINF:-1,Telecinco
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/3764.m3u8
-#EXTINF:-1,TCM HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2078.m3u8
-#EXTINF:-1,TELEDEPORTE HD
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2077.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30385.m3u8
+#EXTINF:-1,Telecinco HD
+http://ares.dominium.tv:6923/live/adrian/1234/30384.m3u8
+#EXTINF:-1,Telesur
+http://ares.dominium.tv:6923/live/adrian/1234/30383.m3u8
+#EXTINF:-1,Televisa HD
+http://ares.dominium.tv:6923/live/adrian/1234/30382.m3u8
 #EXTINF:-1,TNT
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2076.m3u8
-#EXTINF:-1,TYC SPORT
-http://viprestream.loginto.me:25461/live/robmcan/zeLcsLc82U/2075.m3u8
+http://ares.dominium.tv:6923/live/adrian/1234/30381.m3u8
+#EXTINF:-1,Toros Tv
+http://ares.dominium.tv:6923/live/adrian/1234/30380.m3u8
+#EXTINF:-1,TV3 Catalynia HD
+http://ares.dominium.tv:6923/live/adrian/1234/30379.m3u8
+#EXTINF:-1,TVE Clan
+http://ares.dominium.tv:6923/live/adrian/1234/30378.m3u8
+#EXTINF:-1,TVE LA 1 HD
+http://ares.dominium.tv:6923/live/adrian/1234/30377.m3u8
+#EXTINF:-1,TVE LA 2
+http://ares.dominium.tv:6923/live/adrian/1234/30376.m3u8
+#EXTINF:-1,Viajar HD
+http://ares.dominium.tv:6923/live/adrian/1234/30375.m3u8
