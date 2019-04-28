@@ -1,93 +1,247 @@
 #EXTM3U
-#EXTINF:-1,Canal  HD
-http://hd.007iptv.com:2095/live/1234/4321/1447.m3u8
-#EXTINF:-1,Canal  Film HD
-http://hd.007iptv.com:2095/live/1234/4321/1448.m3u8
-#EXTINF:-1,CANAL  FAMILY HD
-http://hd.007iptv.com:2095/live/1234/4321/1449.m3u8
-#EXTINF:-1,Canal  Seriale HD
-http://hd.007iptv.com:2095/live/1234/4321/1446.m3u8
-#EXTINF:-1,Filmbox Action
-http://hd.007iptv.com:2095/live/1234/4321/1432.m3u8
-#EXTINF:-1,Filmbox Family
-http://hd.007iptv.com:2095/live/1234/4321/1431.m3u8
-#EXTINF:-1,Filmbox HD
-http://hd.007iptv.com:2095/live/1234/4321/1430.m3u8
-#EXTINF:-1,FOX
-http://hd.007iptv.com:2095/live/1234/4321/1429.m3u8
-#EXTINF:-1,HBO 1 HD
-http://hd.007iptv.com:2095/live/1234/4321/1428.m3u8
-#EXTINF:-1,HBO 2 HD
-http://hd.007iptv.com:2095/live/1234/4321/1427.m3u8
-#EXTINF:-1,HBO 3 HD
-http://hd.007iptv.com:2095/live/1234/4321/1426.m3u8
-#EXTINF:-1,Polsat
-http://hd.007iptv.com:2095/live/1234/4321/1418.m3u8
-#EXTINF:-1,Polsat 2 HD
-http://hd.007iptv.com:2095/live/1234/4321/1417.m3u8
-#EXTINF:-1,Polsat Film HD
-http://hd.007iptv.com:2095/live/1234/4321/1416.m3u8
-#EXTINF:-1,Polsat News
-http://hd.007iptv.com:2095/live/1234/4321/1415.m3u8
-#EXTINF:-1,Comedy Central
-http://hd.007iptv.com:2095/live/1234/4321/1443.m3u8
-#EXTINF:-1,DTX
-http://hd.007iptv.com:2095/live/1234/4321/1438.m3u8
-#EXTINF:-1,History
-http://hd.007iptv.com:2095/live/1234/4321/1425.m3u8
-#EXTINF:-1,Canal  Discovery HD
-http://hd.007iptv.com:2095/live/1234/4321/1450.m3u8
-#EXTINF:-1,Discovery Science HD
-http://hd.007iptv.com:2095/live/1234/4321/1441.m3u8
-#EXTINF:-1,Investigation Discovery
-http://hd.007iptv.com:2095/live/1234/4321/1424.m3u8
-#EXTINF:-1,Nat Geo
-http://hd.007iptv.com:2095/live/1234/4321/1420.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://hd.007iptv.com:2095/live/1234/4321/1419.m3u8
-#EXTINF:-1,Discovery Channel
-http://hd.007iptv.com:2095/live/1234/4321/1442.m3u8
-#EXTINF:-1,Boomerang
-http://hd.007iptv.com:2095/live/1234/4321/1451.m3u8
-#EXTINF:-1,Disney Junior
-http://hd.007iptv.com:2095/live/1234/4321/1440.m3u8
-#EXTINF:-1,Disney XD
-http://hd.007iptv.com:2095/live/1234/4321/1439.m3u8
-#EXTINF:-1,MiniMini  HD
-http://hd.007iptv.com:2095/live/1234/4321/1422.m3u8
+#EXTINF:-1,4 Fun Dance
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119768.m3u8
+#EXTINF:-1,4 Fun Gold
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119767.m3u8
 #EXTINF:-1,4Fun TV
-http://hd.007iptv.com:2095/live/1234/4321/1452.m3u8
-#EXTINF:-1,MTV Polska
-http://hd.007iptv.com:2095/live/1234/4321/1421.m3u8
-#EXTINF:-1,VH1
-http://hd.007iptv.com:2095/live/1234/4321/1405.m3u8
-#EXTINF:-1,Canal  Sport HD
-http://hd.007iptv.com:2095/live/1234/4321/1444.m3u8
-#EXTINF:-1,Canal  Sport 2 HD
-http://hd.007iptv.com:2095/live/1234/4321/1445.m3u8
-#EXTINF:-1,Eleven Sports 1 FHD
-http://hd.007iptv.com:2095/live/1234/4321/1437.m3u8
-#EXTINF:-1,Eleven Sports 2 FHD
-http://hd.007iptv.com:2095/live/1234/4321/1436.m3u8
-#EXTINF:-1,Eleven Sports 3 FHD
-http://hd.007iptv.com:2095/live/1234/4321/1435.m3u8
-#EXTINF:-1,Eleven Sports 4 FHD
-http://hd.007iptv.com:2095/live/1234/4321/1434.m3u8
-#EXTINF:-1,Extreme Sports HD
-http://hd.007iptv.com:2095/live/1234/4321/1433.m3u8
-#EXTINF:-1,Polsat Sport HD
-http://hd.007iptv.com:2095/live/1234/4321/1412.m3u8
-#EXTINF:-1,Polsat Sport News HD
-http://hd.007iptv.com:2095/live/1234/4321/1411.m3u8
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119766.m3u8
+#EXTINF:-1,Active Family
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119765.m3u8
+#EXTINF:-1,ADVENTURE HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119764.m3u8
+#EXTINF:-1,ALE KINO
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119763.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119762.m3u8
+#EXTINF:-1,AXN Black
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119761.m3u8
+#EXTINF:-1,AXN SPIN HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119760.m3u8
+#EXTINF:-1,AXN White
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119759.m3u8
+#EXTINF:-1,BBC EARTH
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119769.m3u8
+#EXTINF:-1,BBC HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119758.m3u8
+#EXTINF:-1,BOOMERANG
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119757.m3u8
+#EXTINF:-1,Canal   Family HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119777.m3u8
+#EXTINF:-1,Canal   Film HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119776.m3u8
+#EXTINF:-1,Canal   Seriale HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119775.m3u8
+#EXTINF:-1,Canal   Sport 2 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119773.m3u8
+#EXTINF:-1,Canal   Sport HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119774.m3u8
+#EXTINF:-1,CANAL  DISCOVERY HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119756.m3u8
+#EXTINF:-1,CANAL  FAMILY
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119755.m3u8
+#EXTINF:-1,CANAL  FILM
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119754.m3u8
+#EXTINF:-1,CANAL  HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119753.m3u8
+#EXTINF:-1,CANAL  SERIALE
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119752.m3u8
+#EXTINF:-1,CANAL  SPORT
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119751.m3u8
+#EXTINF:-1,CANAL  SPORT 2
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119750.m3u8
+#EXTINF:-1,CBS Action
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119749.m3u8
+#EXTINF:-1,CBS Reality
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119748.m3u8
+#EXTINF:-1,CINEMAX
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119747.m3u8
+#EXTINF:-1,Cinemax2 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119746.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119745.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119744.m3u8
+#EXTINF:-1,Discovery HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119743.m3u8
+#EXTINF:-1,Discovery Historia
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119742.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119741.m3u8
+#EXTINF:-1,DISCOVERY TURBO XTRA
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119740.m3u8
+#EXTINF:-1,Disney HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119739.m3u8
+#EXTINF:-1,DISNEY Junior
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119738.m3u8
+#EXTINF:-1,Disney XD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119737.m3u8
+#EXTINF:-1,DTX
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119736.m3u8
+#EXTINF:-1,E!
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119735.m3u8
+#EXTINF:-1,Eleven Sports 1 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119734.m3u8
+#EXTINF:-1,Eleven Sports 2 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119733.m3u8
+#EXTINF:-1,Eleven Sports 3 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119732.m3u8
+#EXTINF:-1,Eleven Sports 4 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119731.m3u8
+#EXTINF:-1,FIGHT BOX
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119730.m3u8
+#EXTINF:-1,Filmbox
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119729.m3u8
+#EXTINF:-1,Filmbox Action
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119728.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119727.m3u8
+#EXTINF:-1,Filmbox Family
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119726.m3u8
+#EXTINF:-1,Filmbox Premium
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119725.m3u8
+#EXTINF:-1,HBO 1 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119771.m3u8
+#EXTINF:-1,HBO 2 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119770.m3u8
+#EXTINF:-1,HGTV
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119724.m3u8
+#EXTINF:-1,KINO POLSKA
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119723.m3u8
+#EXTINF:-1,KUCHNIA+ HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119722.m3u8
+#EXTINF:-1,Minimimi HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119772.m3u8
+#EXTINF:-1,MINIMINI
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119721.m3u8
+#EXTINF:-1,MOTORWIZJA
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119720.m3u8
+#EXTINF:-1,MTV POLSKA
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119719.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119718.m3u8
+#EXTINF:-1,NATIONAL GEO
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119717.m3u8
+#EXTINF:-1,Nick JR
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119716.m3u8
+#EXTINF:-1,Nickelodeon
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119715.m3u8
+#EXTINF:-1,nSport
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119714.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119713.m3u8
+#EXTINF:-1,Planete  HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119712.m3u8
+#EXTINF:-1,PLANETE HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119711.m3u8
+#EXTINF:-1,Polo TV
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119710.m3u8
+#EXTINF:-1,Polsat 2
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119709.m3u8
+#EXTINF:-1,Polsat 2 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119788.m3u8
+#EXTINF:-1,Polsat Cafe HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119787.m3u8
+#EXTINF:-1,Polsat Film
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119708.m3u8
+#EXTINF:-1,Polsat Film HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119786.m3u8
+#EXTINF:-1,Polsat HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119789.m3u8
+#EXTINF:-1,Polsat Jim Jam
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119707.m3u8
+#EXTINF:-1,Polsat News 2
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119706.m3u8
+#EXTINF:-1,Polsat Play
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119705.m3u8
+#EXTINF:-1,Polsat Romance
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119704.m3u8
 #EXTINF:-1,Polsat Sport Extra HD
-http://hd.007iptv.com:2095/live/1234/4321/1414.m3u8
-#EXTINF:-1,Polsat Sport Fight HD
-http://hd.007iptv.com:2095/live/1234/4321/1413.m3u8
-#EXTINF:-1,Polsat Sport Premium 1 HD
-http://hd.007iptv.com:2095/live/1234/4321/6046.m3u8
-#EXTINF:-1,Polsat Sport Premium 2 HD
-http://hd.007iptv.com:2095/live/1234/4321/6047.m3u8
-#EXTINF:-1,TVP Sport HD
-http://hd.007iptv.com:2095/live/1234/4321/1406.m3u8
-#EXTINF:-1,VIVA Polska
-http://hd.007iptv.com:2095/live/1234/4321/1404.m3u8
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119703.m3u8
+#EXTINF:-1,Polsat Sport Fight
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119702.m3u8
+#EXTINF:-1,Polsat Sport HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119785.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119784.m3u8
+#EXTINF:-1,Polsat Viasat History HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119701.m3u8
+#EXTINF:-1,Polsat Viasat Nature
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119700.m3u8
+#EXTINF:-1,Power TV
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119699.m3u8
+#EXTINF:-1,Puls 2
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119698.m3u8
+#EXTINF:-1,Romance TV
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119697.m3u8
+#EXTINF:-1,SciFi Universal
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119696.m3u8
+#EXTINF:-1,Sport Klub
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119695.m3u8
+#EXTINF:-1,STARS.TV
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119694.m3u8
+#EXTINF:-1,Stopklatka TV
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119693.m3u8
+#EXTINF:-1,Sundance Tv
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119692.m3u8
+#EXTINF:-1,Super Polsat
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119691.m3u8
+#EXTINF:-1,TELETOON
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119690.m3u8
+#EXTINF:-1,TNT
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119689.m3u8
+#EXTINF:-1,TRWAM
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119688.m3u8
+#EXTINF:-1,TTV HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119687.m3u8
+#EXTINF:-1,TV 4 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119686.m3u8
+#EXTINF:-1,TV PULS HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119685.m3u8
+#EXTINF:-1,TVN
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119684.m3u8
+#EXTINF:-1,TVN 24 Bis
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119683.m3u8
+#EXTINF:-1,TVN Style
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119682.m3u8
+#EXTINF:-1,Tvn Turbo
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119681.m3u8
+#EXTINF:-1,TVP
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119780.m3u8
+#EXTINF:-1,Tvp 1 HD
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119783.m3u8
+#EXTINF:-1,Tvp 2
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119782.m3u8
+#EXTINF:-1,Tvp 3
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119781.m3u8
+#EXTINF:-1,TVP ABC
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119680.m3u8
+#EXTINF:-1,TVP HISTORIA
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119679.m3u8
+#EXTINF:-1,TVP INFO
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119678.m3u8
+#EXTINF:-1,TVP Kultura
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119779.m3u8
+#EXTINF:-1,TVP Rozrywka
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119677.m3u8
+#EXTINF:-1,TVP Seriale
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119778.m3u8
+#EXTINF:-1,TVP SPORT
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119676.m3u8
+#EXTINF:-1,TVP1
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119675.m3u8
+#EXTINF:-1,TVP2
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119674.m3u8
+#EXTINF:-1,TVP3
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119673.m3u8
+#EXTINF:-1,TVS
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119672.m3u8
+#EXTINF:-1,Ulicha 13
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119671.m3u8
+#EXTINF:-1,Viva Polska
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119670.m3u8
+#EXTINF:-1,WP
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119669.m3u8
+#EXTINF:-1,Zoom TV
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119668.m3u8
+#EXTINF:-1,PL | Tvn 24
+http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/119667.m3u8
