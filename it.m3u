@@ -1,628 +1,385 @@
 #EXTM3U
-#EXTINF:-1,RAI 1 FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93888.m3u8
-#EXTINF:-1,RAI 1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90581.m3u8
-#EXTINF:-1,RAI 2 FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93887.m3u8
-#EXTINF:-1,RAI 2 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90580.m3u8
-#EXTINF:-1,RAI 3 FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93886.m3u8
-#EXTINF:-1,RAI 3 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90579.m3u8
-#EXTINF:-1,RETE 4 FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93885.m3u8
-#EXTINF:-1,RETE 4 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90576.m3u8
-#EXTINF:-1,CANALE 5 FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93884.m3u8
-#EXTINF:-1,CANALE 5 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90575.m3u8
-#EXTINF:-1,ITALIA 1 FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93883.m3u8
-#EXTINF:-1,ITALIA 1
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90482.m3u8
-#EXTINF:-1,RSI LA 1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90573.m3u8
-#EXTINF:-1,RSI LA 2 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90571.m3u8
-#EXTINF:-1,LA 7 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90574.m3u8
-#EXTINF:-1,RAI MOVIE HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90535.m3u8
-#EXTINF:-1,Le Iene Channel *By The Best*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104092.m3u8
-#EXTINF:-1,SKY UNO FHD 4K
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90530.m3u8
-#EXTINF:-1,Sky Uno +1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103445.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90521.m3u8
-#EXTINF:-1,Sky Atlantic +1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103444.m3u8
-#EXTINF:-1,SKY ARTE HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90520.m3u8
-#EXTINF:-1,FOX FHD 4K
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90518.m3u8
-#EXTINF:-1,FOX HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90516.m3u8
-#EXTINF:-1,FOX ANIMATION HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90501.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90505.m3u8
-#EXTINF:-1,FOX CRIME FHD 4K
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90511.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90509.m3u8
-#EXTINF:-1,FOX LIFE FHD 4K
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90515.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90512.m3u8
-#EXTINF:-1,ITALIA 2
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90481.m3u8
-#EXTINF:-1,MEDIASET EXTRA
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90480.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90497.m3u8
-#EXTINF:-1,RAI 4 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90578.m3u8
-#EXTINF:-1,RAI 5 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90577.m3u8
-#EXTINF:-1,ALICE
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90396.m3u8
-#EXTINF:-1,Rai PREMIUM HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90486.m3u8
-#EXTINF:-1,RAI SCUOLA HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90393.m3u8
-#EXTINF:-1,REAL TIME HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90488.m3u8
-#EXTINF:-1,IRIS
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90534.m3u8
-#EXTINF:-1,LA 5
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90485.m3u8
-#EXTINF:-1,MARCOPOLO
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90397.m3u8
-#EXTINF:-1,RAI STORIA HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90394.m3u8
-#EXTINF:-1,Top CRIME
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90479.m3u8
-#EXTINF:-1,TV 2000
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90483.m3u8
-#EXTINF:-1,SKY UNO  HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90529.m3u8
-#EXTINF:-1,AlphaTV
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103447.m3u8
-#EXTINF:-1,CI Crime Inv.HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103442.m3u8
-#EXTINF:-1,Cine Sony
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103446.m3u8
-#EXTINF:-1,DoveTV
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103441.m3u8
-#EXTINF:-1,Laeffe
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103439.m3u8
-#EXTINF:-1,Lei
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103438.m3u8
-#EXTINF:-1,Classica
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103440.m3u8
-#EXTINF:-1,Spike
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103443.m3u8
-#EXTINF:-1,TV 8
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103477.m3u8
-#EXTINF:-1,Uniresat
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103495.m3u8
-#EXTINF:-1,Nat Geo Wild Full HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104087.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90417.m3u8
-#EXTINF:-1,Nat Geo Full HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104089.m3u8
-#EXTINF:-1,NAT GEOGRAPHIC HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90419.m3u8
-#EXTINF:-1,Nat Geo People Full HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104088.m3u8
-#EXTINF:-1,NATGEO PEOPLE HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90418.m3u8
-#EXTINF:-1,Discovery FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104091.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90416.m3u8
-#EXTINF:-1,Discovery Sci FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104090.m3u8
-#EXTINF:-1,DISCOVERY Science HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90415.m3u8
-#EXTINF:-1,DMAX HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90405.m3u8
-#EXTINF:-1,FOCUS
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90406.m3u8
-#EXTINF:-1,NOVE HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90489.m3u8
-#EXTINF:-1,CI CRIME INVESTIGATION HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90411.m3u8
-#EXTINF:-1,CACCIA E PESCA
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90399.m3u8
-#EXTINF:-1,PESCA & CACCIA
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90400.m3u8
-#EXTINF:-1,ITALIAN FISHING
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90398.m3u8
-#EXTINF:-1,HISTORY HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90401.m3u8
-#EXTINF:-1,CIELO HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90490.m3u8
-#EXTINF:-1,GAMBERO ROSSO HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90407.m3u8
-#EXTINF:-1,GIALLO
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90491.m3u8
-#EXTINF:-1,BIKE CHANNEL HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90448.m3u8
-#EXTINF:-1,BLAZE HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90500.m3u8
-#EXTINF:-1,AUTO MOTO TV
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103496.m3u8
-#EXTINF:-1,Class Horse
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103497.m3u8
-#EXTINF:-1,Naxos Food Channel
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104093.m3u8
-#EXTINF:-1,Food Network
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103475.m3u8
-#EXTINF:-1,20 Mediaset UHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103474.m3u8
-#EXTINF:-1,SKY TG 24
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90368.m3u8
-#EXTINF:-1,TG COM 24
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90366.m3u8
-#EXTINF:-1,TG NORBA 24
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90367.m3u8
-#EXTINF:-1,Rai News 24
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103494.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90382.m3u8
-#EXTINF:-1,K2
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90375.m3u8
-#EXTINF:-1,CARTOONITO
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90378.m3u8
-#EXTINF:-1,DEA JUNIOR
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90379.m3u8
-#EXTINF:-1,DEA KIDS
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90380.m3u8
-#EXTINF:-1,FRISBEE
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90377.m3u8
-#EXTINF:-1,MANGA
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90374.m3u8
-#EXTINF:-1,NICK JUNIOR
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90373.m3u8
-#EXTINF:-1,NICKELODEON
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90372.m3u8
-#EXTINF:-1,RAI GULP HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90370.m3u8
-#EXTINF:-1,RAI YOYO HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90371.m3u8
-#EXTINF:-1,SUPER!
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90376.m3u8
-#EXTINF:-1,BOING
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93850.m3u8
-#EXTINF:-1,BOOMERANG
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93847.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93845.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93844.m3u8
-#EXTINF:-1,DISNEY XD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93843.m3u8
-#EXTINF:-1,MASHA E ORSO TV
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93842.m3u8
-#EXTINF:-1,Masha E Orso 2
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93841.m3u8
-#EXTINF:-1,Masha e Orso 3
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93840.m3u8
-#EXTINF:-1,Le fiabe Disney
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93839.m3u8
-#EXTINF:-1,RAI GULP
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93848.m3u8
-#EXTINF:-1,RAI YOYO FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93849.m3u8
-#EXTINF:-1,SUPER
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93846.m3u8
-#EXTINF:-1,Topolino Channel
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93838.m3u8
-#EXTINF:-1,Ill Grande Mazinga Channel
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103492.m3u8
-#EXTINF:-1,Ken il Guerriero Channel
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103491.m3u8
-#EXTINF:-1,POP
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103489.m3u8
-#EXTINF:-1,Topolino Paperino Cip  Ciop
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103493.m3u8
-#EXTINF:-1,Baby TV
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103488.m3u8
-#EXTINF:-1,M2O TV
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103476.m3u8
-#EXTINF:-1,RTL 102.5 TV (musica)
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103481.m3u8
-#EXTINF:-1,SKY CINEMA  UNO FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90533.m3u8
-#EXTINF:-1,SKY CINEMA  UNO HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90568.m3u8
-#EXTINF:-1,SKY CINEMA DUE FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90549.m3u8
-#EXTINF:-1,Sky Cinema Due HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104112.m3u8
-#EXTINF:-1,SKY CINEMA COLLECTION FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90564.m3u8
-#EXTINF:-1,Sky Cinema Collection HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104114.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90560.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90557.m3u8
-#EXTINF:-1,Sky Cinema Family +1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103472.m3u8
-#EXTINF:-1,SKY CINEMA ACTION FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90553.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104115.m3u8
-#EXTINF:-1,Sky Cinema Action +1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104116.m3u8
-#EXTINF:-1,Sky Cinema Suspance Uhd
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104108.m3u8
-#EXTINF:-1,Sky Cinema Suspance HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104110.m3u8
-#EXTINF:-1,Sky Cinema Suspance +1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104109.m3u8
-#EXTINF:-1,SKY CINEMA ROMANCE FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90556.m3u8
-#EXTINF:-1,Sky Cinema Romance HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104111.m3u8
-#EXTINF:-1,Sky Cinema Drama HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104113.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90544.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90541.m3u8
-#EXTINF:-1,SKY CINEMA  +24 FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90567.m3u8
-#EXTINF:-1,SKY CINEMA  +24 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90565.m3u8
-#EXTINF:-1,PREMIUM CINEMA HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90540.m3u8
-#EXTINF:-1,PREMIUM CINEMA  +24 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99167.m3u8
-#EXTINF:-1,PREMIUM ACTION HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90495.m3u8
-#EXTINF:-1,PREMIUM CINEMA COMEDY
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90537.m3u8
-#EXTINF:-1,PREMIUM CINEMA Energy HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90538.m3u8
-#EXTINF:-1,PREMIUM CRIME HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90494.m3u8
-#EXTINF:-1,PREMIUM EMOTION
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90536.m3u8
-#EXTINF:-1,PREMIUM JOY
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90493.m3u8
-#EXTINF:-1,PREMIUM STORIES
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90492.m3u8
-#EXTINF:-1,Paramount
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103478.m3u8
-#EXTINF:-1,20 Mediaset
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103450.m3u8
-#EXTINF:-1,PRIMAFILA 1
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91724.m3u8
-#EXTINF:-1,PRIMAFILA 2
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91723.m3u8
-#EXTINF:-1,PRIMAFILA 3
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91722.m3u8
-#EXTINF:-1,PRIMAFILA 4
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91721.m3u8
-#EXTINF:-1,PRIMAFILA 5
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91720.m3u8
-#EXTINF:-1,PRIMAFILA 6
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91716.m3u8
-#EXTINF:-1,PRIMAFILA 7
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91719.m3u8
-#EXTINF:-1,PRIMAFILA 8
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91718.m3u8
-#EXTINF:-1,PRIMAFILA 9
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/91717.m3u8
-#EXTINF:-1,Primafila 10
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99166.m3u8
-#EXTINF:-1,Primafila 11
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99165.m3u8
-#EXTINF:-1,Primafila 12
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99164.m3u8
-#EXTINF:-1,Primafila 13
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99163.m3u8
-#EXTINF:-1,Primafila 14
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99162.m3u8
-#EXTINF:-1,Primafila 15
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99161.m3u8
-#EXTINF:-1,Primafila 16
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99160.m3u8
-#EXTINF:-1,Primafila 17
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99159.m3u8
-#EXTINF:-1,Primafila 18
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99158.m3u8
-#EXTINF:-1,Primafila WWE * Live *
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99155.m3u8
-#EXTINF:-1,** Animazione UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104106.m3u8
-#EXTINF:-1,** Avventura UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104105.m3u8
-#EXTINF:-1,** Azione UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104104.m3u8
-#EXTINF:-1,** Comico Cult UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104103.m3u8
-#EXTINF:-1,** Commedia UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104102.m3u8
-#EXTINF:-1,** Drammatico UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104101.m3u8
-#EXTINF:-1,** Fantastico UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104100.m3u8
-#EXTINF:-1,** Horror UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104099.m3u8
-#EXTINF:-1,** Mitologia UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104098.m3u8
-#EXTINF:-1,** Prima Visione UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104097.m3u8
-#EXTINF:-1,** Sorriso UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104096.m3u8
-#EXTINF:-1,** Storico UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104095.m3u8
-#EXTINF:-1,** Thriller UHD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/104094.m3u8
-#EXTINF:-1,** LAST HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94129.m3u8
-#EXTINF:-1,** NEW HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94128.m3u8
-#EXTINF:-1,** Sci-Fi HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94127.m3u8
-#EXTINF:-1,** ACTION HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94126.m3u8
-#EXTINF:-1,** COMEDY HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94125.m3u8
-#EXTINF:-1,** THRILLER HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94124.m3u8
-#EXTINF:-1,** HORROR HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94123.m3u8
-#EXTINF:-1,** COMMEDIA ALL'ITALIANA **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94122.m3u8
-#EXTINF:-1,** ANIMATION HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94121.m3u8
-#EXTINF:-1,** SUPER HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94120.m3u8
-#EXTINF:-1,** BOX HD **
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/94119.m3u8
-#EXTINF:-1,SKY SPORT 24 FHD 4K
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90477.m3u8
-#EXTINF:-1,SKY SPORT 24 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90475.m3u8
-#EXTINF:-1,SKY SPORT UNO FHD 4K
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90474.m3u8
-#EXTINF:-1,SKY SPORT UNO HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90472.m3u8
-#EXTINF:-1,SKY FORMULA 1 FHD 4K
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90440.m3u8
-#EXTINF:-1,SKY FORMULA 1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90437.m3u8
-#EXTINF:-1,SKY MOTO GP FHD 4K
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90436.m3u8
-#EXTINF:-1,SKY MOTO GP HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90433.m3u8
-#EXTINF:-1,SKY SPORT ARENA HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90468.m3u8
-#EXTINF:-1,SKY SPORT FOOTBALL HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90470.m3u8
-#EXTINF:-1,SKY SPORTS GOLF  FHD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103456.m3u8
-#EXTINF:-1,SKY SPORTS GOLF
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103470.m3u8
-#EXTINF:-1,SKY SPORTS NBA
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103469.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90449.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99140.m3u8
-#EXTINF:-1,Top Calcio 24
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/99169.m3u8
-#EXTINF:-1,RAI SPORT + HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90443.m3u8
-#EXTINF:-1,SUPERTENNIS
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90441.m3u8
-#EXTINF:-1,SPORT ITALIA
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90359.m3u8
-#EXTINF:-1,LAZIO CHANNEL
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90445.m3u8
-#EXTINF:-1,ROMA CHANNEL
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90446.m3u8
-#EXTINF:-1,TORINO CHANNEL
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90444.m3u8
-#EXTINF:-1,INTER CHANNEL
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/96835.m3u8
-#EXTINF:-1,MILAN CHANNEL
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/96836.m3u8
-#EXTINF:-1,Fight Network
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103467.m3u8
-#EXTINF:-1,DAZN SERIE A 1 FHD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90465.m3u8
-#EXTINF:-1,DAZN SERIE A 1 HD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90464.m3u8
-#EXTINF:-1,DAZN SERIE A 2 HD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/93855.m3u8
-#EXTINF:-1,DAZN SERIE A 2 SD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103462.m3u8
-#EXTINF:-1,SKY CALCIO 1 UHD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/96671.m3u8
-#EXTINF:-1,SKY CALCIO 1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90431.m3u8
-#EXTINF:-1,SKY CALCIO 2 UHD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103454.m3u8
-#EXTINF:-1,SKY CALCIO 2 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90429.m3u8
-#EXTINF:-1,SKY CALCIO 3 UHD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103453.m3u8
-#EXTINF:-1,SKY CALCIO 3 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90427.m3u8
-#EXTINF:-1,SKY CALCIO 4 UHD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103499.m3u8
-#EXTINF:-1,SKY CALCIO 4 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90426.m3u8
-#EXTINF:-1,SKY CALCIO 5 UHD*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103498.m3u8
-#EXTINF:-1,SKY CALCIO 5 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90425.m3u8
-#EXTINF:-1,SKY CALCIO 6 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90424.m3u8
-#EXTINF:-1,SKY CALCIO 7 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90423.m3u8
-#EXTINF:-1,SKY CALCIO 8*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103466.m3u8
-#EXTINF:-1,SKY CALCIO 9*
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103465.m3u8
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103582.m3u8
-#EXTINF:-1,LEGA PRO BISCEGLIE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103579.m3u8
-#EXTINF:-1,LEGA PRO CARRARESE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103578.m3u8
-#EXTINF:-1,LEGA PRO CASERTANA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103577.m3u8
-#EXTINF:-1,LEGA PRO CATANIA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103576.m3u8
-#EXTINF:-1,LEGA PRO CATANZARO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103575.m3u8
-#EXTINF:-1,LEGA PRO IMOLESE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103574.m3u8
-#EXTINF:-1,LEGA PRO JUVE STABIA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103573.m3u8
-#EXTINF:-1,LEGA PRO LUCCHESE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103572.m3u8
-#EXTINF:-1,LEGA PRO MATERA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103571.m3u8
-#EXTINF:-1,LEGA PRO MONOPOLI ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103570.m3u8
-#EXTINF:-1,LEGA PRO PISA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103569.m3u8
-#EXTINF:-1,LEGA PRO PISTOIESE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103568.m3u8
-#EXTINF:-1,LEGA PRO PONTEDERA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103567.m3u8
-#EXTINF:-1,LEGA PRO PRO PIACENZA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103581.m3u8
-#EXTINF:-1,LEGA PRO PRO VERCELLI ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103580.m3u8
-#EXTINF:-1,LEGA PRO RAVENNA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103566.m3u8
-#EXTINF:-1,LEGA PRO REGGINA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103565.m3u8
-#EXTINF:-1,LEGA PRO SAMBENEDETTESE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103564.m3u8
-#EXTINF:-1,LEGA PRO SICULA LEONZIO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103563.m3u8
-#EXTINF:-1,LEGA PRO SIRACUSA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103562.m3u8
-#EXTINF:-1,LEGA PRO TERAMO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103561.m3u8
-#EXTINF:-1,LEGA PRO TERNANA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103560.m3u8
-#EXTINF:-1,LEGA PRO TRAPANI ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103559.m3u8
-#EXTINF:-1,LEGA PRO TRIESTINA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103558.m3u8
-#EXTINF:-1,LEGA PRO VIBONESE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103557.m3u8
-#EXTINF:-1,LEGA PRO VICENZA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103556.m3u8
-#EXTINF:-1,LEGA PRO VIRTUS VERONA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103555.m3u8
-#EXTINF:-1,LEGA PRO VIS PESARO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103554.m3u8
-#EXTINF:-1,LEGA PRO VITERBESE CASTRESE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103553.m3u8
-#EXTINF:-1,LEGA PRO ALBINOLEFFE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108732.m3u8
-#EXTINF:-1,LEGA PRO ALBISSOLA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108731.m3u8
-#EXTINF:-1,LEGA PRO ALESSANDRIA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108730.m3u8
-#EXTINF:-1,LEGA PRO AREZZO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108729.m3u8
-#EXTINF:-1,LEGA PRO ARZACHENA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108728.m3u8
-#EXTINF:-1,LEGA PRO Cavese ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108727.m3u8
-#EXTINF:-1,LEGA PRO CUNEO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108726.m3u8
-#EXTINF:-1,LEGA PRO FANO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108725.m3u8
-#EXTINF:-1,LEGA PRO FERALPISALO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108724.m3u8
-#EXTINF:-1,LEGA PRO FERMANA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108723.m3u8
-#EXTINF:-1,LEGA PRO GIANA ERMINIO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108722.m3u8
-#EXTINF:-1,LEGA PRO GOZZANO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108721.m3u8
-#EXTINF:-1,LEGA PRO GUBBIO ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108720.m3u8
-#EXTINF:-1,LEGA PRO JUVENTUS 23 ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108719.m3u8
-#EXTINF:-1,LEGA PRO MONZA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108718.m3u8
-#EXTINF:-1,LEGA PRO NOVARA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108717.m3u8
-#EXTINF:-1,LEGA PRO OLBIA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108716.m3u8
-#EXTINF:-1,LEGA PRO PAGANESE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108715.m3u8
-#EXTINF:-1,LEGA PRO PIACENZA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108714.m3u8
-#EXTINF:-1,LEGA PRO PORDENONE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108713.m3u8
-#EXTINF:-1,LEGA PRO POTENZA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108712.m3u8
-#EXTINF:-1,LEGA PRO PROPATRIA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108711.m3u8
-#EXTINF:-1,LEGA PRO RENATE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108710.m3u8
-#EXTINF:-1,LEGA PRO RENDE ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108709.m3u8
-#EXTINF:-1,LEGA PRO RIETI ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108708.m3u8
-#EXTINF:-1,LEGA PRO RIMINI ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108707.m3u8
-#EXTINF:-1,LEGA PRO SIENA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108706.m3u8
-#EXTINF:-1,LEGA PRO SUD TIROL ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108705.m3u8
-#EXTINF:-1,LEGA PRO VIRTUS ENTELLA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108704.m3u8
-#EXTINF:-1,LEGA PRO VIRTUS FRANCAVILLA ( SOLO LIVE EVENTI )
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/108703.m3u8
-#EXTINF:-1,DAZN SPORT 1 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90463.m3u8
-#EXTINF:-1,DAZN SPORT 2 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90462.m3u8
-#EXTINF:-1,DAZN SPORT 3 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90461.m3u8
-#EXTINF:-1,DAZN SPORT 4 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90460.m3u8
-#EXTINF:-1,DAZN SPORT 5 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90459.m3u8
-#EXTINF:-1,DAZN SPORT 6 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90458.m3u8
-#EXTINF:-1,DAZN SPORT 7 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90457.m3u8
-#EXTINF:-1,DAZN SPORT 8 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90456.m3u8
-#EXTINF:-1,DAZN SPORT 9 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90455.m3u8
-#EXTINF:-1,DAZN SPORT 10 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90454.m3u8
-#EXTINF:-1,DAZN SPORT 11 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90453.m3u8
-#EXTINF:-1,DAZN SPORT 12 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90452.m3u8
-#EXTINF:-1,DAZN SPORT 13 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90451.m3u8
-#EXTINF:-1,DAZN SPORT 14 HD
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/90450.m3u8
-#EXTINF:-1,DAZN * Motori
-http://mytvonline.nl:80/live/xchmine/9Ju7L0pQ5e/103460.m3u8
+#EXTINF:0,Cartoonito
+http://4ever.biz:80/20192/20192/6579
+#EXTINF:0,Cielo
+http://4ever.biz:80/20192/20192/1567
+#EXTINF:0,Discovery
+http://4ever.biz:80/20192/20192/1579
+#EXTINF:0,Discovery Sc
+http://4ever.biz:80/20192/20192/1589
+#EXTINF:0,Fox Crime
+http://4ever.biz:80/20192/20192/1582
+#EXTINF:0,Fox Life
+http://4ever.biz:80/20192/20192/1581
+#EXTINF:0,LA 5
+http://4ever.biz:80/20192/20192/6917
+#EXTINF:0,LA7
+http://4ever.biz:80/20192/20192/1563
+#EXTINF:0,Mediaset 1
+http://4ever.biz:80/20192/20192/1578
+#EXTINF:0,Mediaset 4
+http://4ever.biz:80/20192/20192/1569
+#EXTINF:0,Mediaset 5
+http://4ever.biz:80/20192/20192/1568
+#EXTINF:0,Mediaset Extra
+http://4ever.biz:80/20192/20192/6919
+#EXTINF:0,Mediaset 2
+http://4ever.biz:80/20192/20192/4381
+#EXTINF:0,Nat GeoGraphic
+http://4ever.biz:80/20192/20192/873
+#EXTINF:0,National Geo Wild
+http://4ever.biz:80/20192/20192/1577
+#EXTINF:0,National Geo People
+http://4ever.biz:80/20192/20192/317
+#EXTINF:0,Premium Action24
+http://4ever.biz:80/20192/20192/1591
+#EXTINF:0,Premium Cinema2
+http://4ever.biz:80/20192/20192/1590
+#EXTINF:0,Premium Comedy
+http://4ever.biz:80/20192/20192/1006
+#EXTINF:0,Premium Crime
+http://4ever.biz:80/20192/20192/1005
+#EXTINF:0,Premium Emotion
+http://4ever.biz:80/20192/20192/1572
+#EXTINF:0,Premium Joi
+http://4ever.biz:80/20192/20192/1004
+#EXTINF:0,Premium Action
+http://4ever.biz:80/20192/20192/1575
+#EXTINF:0,Premium Cinema
+http://4ever.biz:80/20192/20192/1573
+#EXTINF:0,Premium Cinema24
+http://4ever.biz:80/20192/20192/1574
+#EXTINF:0,Premium Energy
+http://4ever.biz:80/20192/20192/1571
+#EXTINF:0,Premium Sport
+http://4ever.biz:80/20192/20192/1587
+#EXTINF:0,Premium Stories
+http://4ever.biz:80/20192/20192/1570
+#EXTINF:0,Primafila 9
+http://4ever.biz:80/20192/20192/306
+#EXTINF:0,Primafila1
+http://4ever.biz:80/20192/20192/298
+#EXTINF:0,Primafila10
+http://4ever.biz:80/20192/20192/307
+#EXTINF:0,Primafila2
+http://4ever.biz:80/20192/20192/299
+#EXTINF:0,Primafila3
+http://4ever.biz:80/20192/20192/300
+#EXTINF:0,Primafila4
+http://4ever.biz:80/20192/20192/301
+#EXTINF:0,Primafila5
+http://4ever.biz:80/20192/20192/302
+#EXTINF:0,Primafila6
+http://4ever.biz:80/20192/20192/303
+#EXTINF:0,Primafila7
+http://4ever.biz:80/20192/20192/304
+#EXTINF:0,Primafila8
+http://4ever.biz:80/20192/20192/305
+#EXTINF:0,Rai Gulp
+http://4ever.biz:80/20192/20192/1562
+#EXTINF:0,Rai Movie
+http://4ever.biz:80/20192/20192/439
+#EXTINF:0,Rai Premium
+http://4ever.biz:80/20192/20192/877
+#EXTINF:0,Rai Scuola
+http://4ever.biz:80/20192/20192/878
+#EXTINF:0,Rai Storia
+http://4ever.biz:80/20192/20192/6915
+#EXTINF:0,Rai Sport1
+http://4ever.biz:80/20192/20192/875
+#EXTINF:0,Rai Sport2
+http://4ever.biz:80/20192/20192/876
+#EXTINF:0,Rai Yoyo
+http://4ever.biz:80/20192/20192/880
+#EXTINF:0,Rsi La1
+http://4ever.biz:80/20192/20192/1565
+#EXTINF:0,Rsi La 2
+http://4ever.biz:80/20192/20192/1566
+#EXTINF:0,Sky Cinema Family
+http://4ever.biz:80/20192/20192/869
+#EXTINF:0,Sky Cinema Hits
+http://4ever.biz:80/20192/20192/6580
+#EXTINF:0,Sky Cinema Passion
+http://4ever.biz:80/20192/20192/4383
+#EXTINF:0,Sky Cinema 24
+http://4ever.biz:80/20192/20192/872
+#EXTINF:0,Sky Sport 1
+http://4ever.biz:80/20192/20192/1584
+#EXTINF:0,Sky Sport 2
+http://4ever.biz:80/20192/20192/1585
+#EXTINF:0,Sky Calcio 6
+http://4ever.biz:80/20192/20192/4392
+#EXTINF:0,Sky Cinema Classic
+http://4ever.biz:80/20192/20192/1580
+#EXTINF:0,Sky Uno
+http://4ever.biz:80/20192/20192/871
+#EXTINF:0,Sky Cinema Comedy
+http://4ever.biz:80/20192/20192/870
+#EXTINF:0,Sky Cinema Cult
+http://4ever.biz:80/20192/20192/4382
+#EXTINF:0,Sky Cinema Max
+http://4ever.biz:80/20192/20192/868
+#EXTINF:0,Sky Sport 24 1
+http://4ever.biz:80/20192/20192/4385
+#EXTINF:0,Sky Sport 3
+http://4ever.biz:80/20192/20192/4384
+#EXTINF:0,Sky Sport F1
+http://4ever.biz:80/20192/20192/1586
+#EXTINF:0,Sport Calcio 1
+http://4ever.biz:80/20192/20192/1588
+#EXTINF:0,Top Crime
+http://4ever.biz:80/20192/20192/6920
+#EXTINF:0,Tv2000
+http://4ever.biz:80/20192/20192/1564
+#EXTINF:0,Mediaset 20
+http://4ever.biz:80/20192/20192/23487
+#EXTINF:0,Alice Tv HD
+http://4ever.biz:80/20192/20192/24779
+#EXTINF:0,Animal Planet HD
+http://4ever.biz:80/20192/20192/24776
+#EXTINF:0,Antenna 3 TV
+http://4ever.biz:80/20192/20192/24775
+#EXTINF:0,Arte HD
+http://4ever.biz:80/20192/20192/24774
+#EXTINF:0,AutoMoto TV
+http://4ever.biz:80/20192/20192/24773
+#EXTINF:0,AXN HD
+http://4ever.biz:80/20192/20192/24772
+#EXTINF:0,Bike Channel HD
+http://4ever.biz:80/20192/20192/24771
+#EXTINF:0,Boing HD
+http://4ever.biz:80/20192/20192/24770
+#EXTINF:0,TG 5
+http://4ever.biz:80/20192/20192/24766
+#EXTINF:0,Canale 10
+http://4ever.biz:80/20192/20192/24762
+#EXTINF:0,Canale 7
+http://4ever.biz:80/20192/20192/24764
+#EXTINF:0,Canale 8
+http://4ever.biz:80/20192/20192/24763
+#EXTINF:0,Crime & Investigation HD
+http://4ever.biz:80/20192/20192/24752
+#EXTINF:0,Dazn Sport 1 HD
+http://4ever.biz:80/20192/20192/24749
+#EXTINF:0,Dazn Sport 2 HD
+http://4ever.biz:80/20192/20192/24748
+#EXTINF:0,Dazn Sport 4 HD
+http://4ever.biz:80/20192/20192/24746
+#EXTINF:0,Dazn Sport 5 HD
+http://4ever.biz:80/20192/20192/24745
+#EXTINF:0,Dea Junior
+http://4ever.biz:80/20192/20192/24735
+#EXTINF:0,Discovery Channal HD
+http://4ever.biz:80/20192/20192/24731
+#EXTINF:0,Discovery ID
+http://4ever.biz:80/20192/20192/24729
+#EXTINF:0,Discovery Sci-Fi HD
+http://4ever.biz:80/20192/20192/24728
+#EXTINF:0,Discovery Science HD
+http://4ever.biz:80/20192/20192/24727
+#EXTINF:0,Discovery Travel & Living HD
+http://4ever.biz:80/20192/20192/24726
+#EXTINF:0,Disney Channel HD
+http://4ever.biz:80/20192/20192/24724
+#EXTINF:0,Disney Junior HD
+http://4ever.biz:80/20192/20192/24723
+#EXTINF:0,Disney XD HD
+http://4ever.biz:80/20192/20192/24722
+#EXTINF:0,ETV Marche
+http://4ever.biz:80/20192/20192/24719
+#EXTINF:0,Eurosport 1 HD
+http://4ever.biz:80/20192/20192/24718
+#EXTINF:0,Eurosport 2 HD
+http://4ever.biz:80/20192/20192/24717
+#EXTINF:0,FC Inter Channel HD
+http://4ever.biz:80/20192/20192/24714
+#EXTINF:0,Fishing TV
+http://4ever.biz:80/20192/20192/24710
+#EXTINF:0,Fox Animation HD
+http://4ever.biz:80/20192/20192/24707
+#EXTINF:0,Fox Comedy HD
+http://4ever.biz:80/20192/20192/24706
+#EXTINF:0,Fox Crime HD
+http://4ever.biz:80/20192/20192/24705
+#EXTINF:0,Fox HD
+http://4ever.biz:80/20192/20192/24704
+#EXTINF:0,Fox Life HD
+http://4ever.biz:80/20192/20192/24703
+#EXTINF:0,Fox Sport HD
+http://4ever.biz:80/20192/20192/24702
+#EXTINF:0,Frisbee TV
+http://4ever.biz:80/20192/20192/24701
+#EXTINF:0,Gambero Rosso HD
+http://4ever.biz:80/20192/20192/24700
+#EXTINF:0,History Channel HD
+http://4ever.biz:80/20192/20192/24698
+#EXTINF:0,History Lab HD
+http://4ever.biz:80/20192/20192/24697
+#EXTINF:0,Italia 2 HD
+http://4ever.biz:80/20192/20192/24694
+#EXTINF:0,Julie Italia
+http://4ever.biz:80/20192/20192/24692
+#EXTINF:0,K2
+http://4ever.biz:80/20192/20192/24690
+#EXTINF:0,LA 5 HD
+http://4ever.biz:80/20192/20192/24688
+#EXTINF:0,LA 7 HD
+http://4ever.biz:80/20192/20192/24687
+#EXTINF:0,Lucania TV
+http://4ever.biz:80/20192/20192/24684
+#EXTINF:0,Luna Sport TV
+http://4ever.biz:80/20192/20192/24683
+#EXTINF:0,M2O TV
+http://4ever.biz:80/20192/20192/24682
+#EXTINF:0,Marcopolo
+http://4ever.biz:80/20192/20192/24680
+#EXTINF:0,Masha & Bear
+http://4ever.biz:80/20192/20192/24679
+#EXTINF:0,Mediaset Iris
+http://4ever.biz:80/20192/20192/24673
+#EXTINF:0,Milan Channel
+http://4ever.biz:80/20192/20192/24669
+#EXTINF:0,Motor Trend HD
+http://4ever.biz:80/20192/20192/24668
+#EXTINF:0,Napoli Canale 21 TV
+http://4ever.biz:80/20192/20192/24662
+#EXTINF:0,Nat Geo People HD
+http://4ever.biz:80/20192/20192/24660
+#EXTINF:0,Nat Geo Wild HD
+http://4ever.biz:80/20192/20192/24659
+#EXTINF:0,Orler TV
+http://4ever.biz:80/20192/20192/24657
+#EXTINF:0,Paramount Channel HD
+http://4ever.biz:80/20192/20192/24656
+#EXTINF:0,Pesca e Caccia HD
+http://4ever.biz:80/20192/20192/24655
+#EXTINF:0,Premium Cinema Joi
+http://4ever.biz:80/20192/20192/24630
+#EXTINF:0,Premium Cinema Plus 24
+http://4ever.biz:80/20192/20192/24629
+#EXTINF:0,Premium Disney Channel
+http://4ever.biz:80/20192/20192/24621
+#EXTINF:0,Premium Disney Junior
+http://4ever.biz:80/20192/20192/24620
+#EXTINF:0,Premium Energy 24
+http://4ever.biz:80/20192/20192/24618
+#EXTINF:0,Premium Paramount Channel
+http://4ever.biz:80/20192/20192/24612
+#EXTINF:0,Prenium Cinema HD
+http://4ever.biz:80/20192/20192/24604
+#EXTINF:0,Prenium Sport HD
+http://4ever.biz:80/20192/20192/24603
+#EXTINF:0,PrimaFila 1 FHD
+http://4ever.biz:80/20192/20192/24602
+#EXTINF:0,Primafila 12 HD
+http://4ever.biz:80/20192/20192/24585
+#EXTINF:0,Primafila 13 HD
+http://4ever.biz:80/20192/20192/24584
+#EXTINF:0,Primafila 14 HD
+http://4ever.biz:80/20192/20192/24582
+#EXTINF:0,Primafila 17 HD
+http://4ever.biz:80/20192/20192/24577
+#EXTINF:0,Primafila 3 HD
+http://4ever.biz:80/20192/20192/24600
+#EXTINF:0,Primafila 5 HD
+http://4ever.biz:80/20192/20192/24597
+#EXTINF:0,Primafila 6 7 FHD
+http://4ever.biz:80/20192/20192/24596
+#EXTINF:0,PrimaFila 6 FHD
+http://4ever.biz:80/20192/20192/24595
+#EXTINF:0,PrimaFila 7 FHD
+http://4ever.biz:80/20192/20192/24594
+#EXTINF:0,PrimaFila 8 FHD
+http://4ever.biz:80/20192/20192/24593
+#EXTINF:0,PrimaFila 9 FHD
+http://4ever.biz:80/20192/20192/24592
+#EXTINF:0,Primafila 1
+http://4ever.biz:80/20192/20192/24565
+#EXTINF:0,Primocanale TV HD
+http://4ever.biz:80/20192/20192/24560
+#EXTINF:0,Quarta Rete TV
+http://4ever.biz:80/20192/20192/24559
+#EXTINF:0,Qvc
+http://4ever.biz:80/20192/20192/24558
+#EXTINF:0,Rai Nettuno
+http://4ever.biz:80/20192/20192/24541
+#EXTINF:0,Universal TV
+http://4ever.biz:80/20192/20192/24538
+#EXTINF:0,Real Time FHD
+http://4ever.biz:80/20192/20192/24531
+#EXTINF:0,Rossini TV
+http://4ever.biz:80/20192/20192/24523
+#EXTINF:0,RTV 105
+http://4ever.biz:80/20192/20192/24518
+#EXTINF:0,Uninettuno University
+http://4ever.biz:80/20192/20192/24516
+#EXTINF:0,Sky Sport 24
+http://4ever.biz:80/20192/20192/24455
+#EXTINF:0,Sky TG24 Active
+http://4ever.biz:80/20192/20192/24440
+#EXTINF:0,Spike
+http://4ever.biz:80/20192/20192/24438
+#EXTINF:0,Sport Italia HD
+http://4ever.biz:80/20192/20192/24436
+#EXTINF:0,Studio 100
+http://4ever.biz:80/20192/20192/24435
+#EXTINF:0,Super Calcio 1 HD
+http://4ever.biz:80/20192/20192/24433
+#EXTINF:0,Super Tennis HD
+http://4ever.biz:80/20192/20192/24431
+#EXTINF:0,Super!
+http://4ever.biz:80/20192/20192/24430
+#EXTINF:0,Tele Arena Siena
+http://4ever.biz:80/20192/20192/24427
+#EXTINF:0,Tele Boario
+http://4ever.biz:80/20192/20192/24425
+#EXTINF:0,Tele Monte Neve
+http://4ever.biz:80/20192/20192/24421
+#EXTINF:0,Tele Monte Neve 3
+http://4ever.biz:80/20192/20192/24420
+#EXTINF:0,Tele Padova Telecitt
+http://4ever.biz:80/20192/20192/24419
+#EXTINF:0,Tele Radio Sciacca
+http://4ever.biz:80/20192/20192/24416
+#EXTINF:0,Tele Ticino HD
+http://4ever.biz:80/20192/20192/24415
+#EXTINF:0,Senato
+http://4ever.biz:80/20192/20192/24414
+#EXTINF:0,TeleMIa
+http://4ever.biz:80/20192/20192/24413
+#EXTINF:0,Tele Norba TV
+http://4ever.biz:80/20192/20192/24412
+#EXTINF:0,Tele Roma 56 Lazio
+http://4ever.biz:80/20192/20192/24410
+#EXTINF:0,Tele Romagna
+http://4ever.biz:80/20192/20192/24409
+#EXTINF:0,Tele Romagna News
+http://4ever.biz:80/20192/20192/24408
+#EXTINF:0,Tele Venezia
+http://4ever.biz:80/20192/20192/24405
+#EXTINF:0,Tg Com 24
+http://4ever.biz:80/20192/20192/24403
+#EXTINF:0,TG24
+http://4ever.biz:80/20192/20192/24400
+#EXTINF:0,Trentino TV
+http://4ever.biz:80/20192/20192/24396
+#EXTINF:0,TV 2000 HD
+http://4ever.biz:80/20192/20192/24392
+#EXTINF:0,TV Avicenza
+http://4ever.biz:80/20192/20192/24391
+#EXTINF:0,TV Luna TV
+http://4ever.biz:80/20192/20192/24390
+#EXTINF:0,TVRS HD
+http://4ever.biz:80/20192/20192/24388
+#EXTINF:0,Umbria TV
+http://4ever.biz:80/20192/20192/24387
+#EXTINF:0,Vera TV
+http://4ever.biz:80/20192/20192/24385
+#EXTINF:0,Vetrina Primafila
+http://4ever.biz:80/20192/20192/24383
+#EXTINF:0,Video Brescia
+http://4ever.biz:80/20192/20192/24381
+#EXTINF:0,LA7D
+http://4ever.biz:80/20192/20192/23510
+#EXTINF:0,TG Com24
+http://4ever.biz:80/20192/20192/23508
