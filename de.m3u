@@ -1,479 +1,363 @@
 #EXTM3U
-#EXTINF:-1,13th Street FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19001.m3u8
-#EXTINF:-1,13th Street HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18949.m3u8
-#EXTINF:-1,3sat HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19139.m3u8
-#EXTINF:-1,A&E FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19065.m3u8
-#EXTINF:-1,A&E HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18948.m3u8
-#EXTINF:-1,Animal Planet FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19063.m3u8
-#EXTINF:-1,Animal Planet HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19064.m3u8
-#EXTINF:-1,Anixe HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19137.m3u8
-#EXTINF:-1,Ard
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19185.m3u8
-#EXTINF:-1,Arte
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19152.m3u8
-#EXTINF:-1,Arte HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19151.m3u8
-#EXTINF:-1,Astro TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18975.m3u8
-#EXTINF:-1,Augsburg TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18974.m3u8
-#EXTINF:-1,Auto Motor Sport FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19124.m3u8
-#EXTINF:-1,AXN
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18999.m3u8
-#EXTINF:-1,AXN FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19000.m3u8
-#EXTINF:-1,Baby TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19052.m3u8
-#EXTINF:-1,Bayern TV FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19123.m3u8
-#EXTINF:-1,Boomerang
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19051.m3u8
-#EXTINF:-1,BR
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19145.m3u8
-#EXTINF:-1,Cartoon Network FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19050.m3u8
-#EXTINF:-1,Classica HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19032.m3u8
-#EXTINF:-1,Das Erste
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19184.m3u8
-#EXTINF:-1,Das Erste HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19136.m3u8
-#EXTINF:-1,Deluxe Music
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19035.m3u8
-#EXTINF:-1,Deutsches Musik Fernsehen
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19034.m3u8
-#EXTINF:-1,Discovery
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19068.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19066.m3u8
-#EXTINF:-1,Discovey FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19067.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19049.m3u8
-#EXTINF:-1,Disney Cinema Magic
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19047.m3u8
-#EXTINF:-1,Disney Cinemagic FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19048.m3u8
-#EXTINF:-1,Disney Junior
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19046.m3u8
-#EXTINF:-1,Disney Junior FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19045.m3u8
-#EXTINF:-1,Disney XD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19044.m3u8
-#EXTINF:-1,Dmax FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19154.m3u8
-#EXTINF:-1,E! Entertainment
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18955.m3u8
-#EXTINF:-1,E! Entertainment FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18954.m3u8
-#EXTINF:-1,E! FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18956.m3u8
-#EXTINF:-1,Euronews
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19079.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19122.m3u8
-#EXTINF:-1,Eurosport 2 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19121.m3u8
-#EXTINF:-1,Eurosport 2 Xtra FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19119.m3u8
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19120.m3u8
-#EXTINF:-1,Eurosport FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19088.m3u8
-#EXTINF:-1,Eurosport Player 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19087.m3u8
-#EXTINF:-1,Eurosport Player 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19086.m3u8
-#EXTINF:-1,Eurosport Player 3 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19085.m3u8
-#EXTINF:-1,Eurosport Player 4 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19084.m3u8
-#EXTINF:-1,Eurosport Player 5 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19083.m3u8
-#EXTINF:-1,Eurosport Player 6 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19082.m3u8
-#EXTINF:-1,Eurosport Player 7 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19081.m3u8
-#EXTINF:-1,Family TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18973.m3u8
-#EXTINF:-1,Fox FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18997.m3u8
-#EXTINF:-1,Fox HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18998.m3u8
+#EXTINF:-1,FILM CLUB 1 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38912.m3u8
+#EXTINF:-1,FILM CLUB 2 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38911.m3u8
+#EXTINF:-1,FILM CLUB 3 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38910.m3u8
+#EXTINF:-1,FILM CLUB 4 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38909.m3u8
+#EXTINF:-1,FILM CLUB 5 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38908.m3u8
+#EXTINF:-1,FIX and FOXI
+http://thenew.tv:8000/live/Anthony1/Anthony1/38907.m3u8
+#EXTINF:-1,FOLX TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38906.m3u8
+#EXTINF:-1,FOX FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38905.m3u8
 #EXTINF:-1,Fox Serie
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18978.m3u8
-#EXTINF:-1,Franken Fernsehen
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18972.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38904.m3u8
+#EXTINF:-1,Franken TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38903.m3u8
 #EXTINF:-1,Goldstar TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18971.m3u8
-#EXTINF:-1,History Channel FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19071.m3u8
-#EXTINF:-1,Home Shopping Europe
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18970.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38902.m3u8
+#EXTINF:-1,HALLE HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38901.m3u8
+#EXTINF:-1,Heimat-kanal
+http://thenew.tv:8000/live/Anthony1/Anthony1/38900.m3u8
+#EXTINF:-1,History Channel HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38899.m3u8
 #EXTINF:-1,HR Fernsehen
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19148.m3u8
-#EXTINF:-1,HR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19149.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38898.m3u8
 #EXTINF:-1,INTV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18969.m3u8
-#EXTINF:-1,Jukebox
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19036.m3u8
-#EXTINF:-1,Junior
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19043.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38897.m3u8
+#EXTINF:-1,Isar TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38896.m3u8
+#EXTINF:-1,Jukebox HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38895.m3u8
+#EXTINF:-1,Junior HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38894.m3u8
 #EXTINF:-1,Kabel 1 Classic HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19157.m3u8
-#EXTINF:-1,Kabel 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19173.m3u8
-#EXTINF:-1,Kabel Eins Doku
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19072.m3u8
-#EXTINF:-1,Kabel Eins Journal
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18968.m3u8
-#EXTINF:-1,Kika HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19054.m3u8
-#EXTINF:-1,Kinowelt
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18977.m3u8
-#EXTINF:-1,Kronehit FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19038.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38893.m3u8
+#EXTINF:-1,Kabel 1 Docu
+http://thenew.tv:8000/live/Anthony1/Anthony1/38892.m3u8
+#EXTINF:-1,KABEL 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38891.m3u8
+#EXTINF:-1,Kabel eins Doku HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38890.m3u8
+#EXTINF:-1,Kabel eins HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38889.m3u8
+#EXTINF:-1,KABEL EINS HD AUSTRIA
+http://thenew.tv:8000/live/Anthony1/Anthony1/38888.m3u8
+#EXTINF:-1,Kabel Journal
+http://thenew.tv:8000/live/Anthony1/Anthony1/38887.m3u8
+#EXTINF:-1,KIKA HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38886.m3u8
+#EXTINF:-1,KINDER STORE 1
+http://thenew.tv:8000/live/Anthony1/Anthony1/38885.m3u8
+#EXTINF:-1,KINDER STORE 3
+http://thenew.tv:8000/live/Anthony1/Anthony1/38884.m3u8
+#EXTINF:-1,KINDER STORE 5
+http://thenew.tv:8000/live/Anthony1/Anthony1/38883.m3u8
+#EXTINF:-1,KINDERLIEDER
+http://thenew.tv:8000/live/Anthony1/Anthony1/38882.m3u8
+#EXTINF:-1,Kinowelt TV HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38881.m3u8
+#EXTINF:-1,MaGicBoX Kino 1
+http://thenew.tv:8000/live/Anthony1/Anthony1/38880.m3u8
+#EXTINF:-1,MaGicBoX Kino 3
+http://thenew.tv:8000/live/Anthony1/Anthony1/38879.m3u8
+#EXTINF:-1,MaGicBoX Kino 4
+http://thenew.tv:8000/live/Anthony1/Anthony1/38878.m3u8
+#EXTINF:-1,MaGicBoX Kino 5
+http://thenew.tv:8000/live/Anthony1/Anthony1/38877.m3u8
 #EXTINF:-1,MDR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19135.m3u8
-#EXTINF:-1,MDR S-Anhalt HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19144.m3u8
-#EXTINF:-1,MDR Sachsen HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19143.m3u8
-#EXTINF:-1,Mediaspar
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18967.m3u8
-#EXTINF:-1,MGM
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18947.m3u8
-#EXTINF:-1,Motorvision TV FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19118.m3u8
-#EXTINF:-1,Munchen TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18966.m3u8
-#EXTINF:-1,Music Box
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19037.m3u8
-#EXTINF:-1,N-TV FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19076.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38876.m3u8
+#EXTINF:-1,MGM HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38875.m3u8
+#EXTINF:-1,Motorvision HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38874.m3u8
+#EXTINF:-1,Movies 11
+http://thenew.tv:8000/live/Anthony1/Anthony1/38873.m3u8
+#EXTINF:-1,Movies 2
+http://thenew.tv:8000/live/Anthony1/Anthony1/38872.m3u8
+#EXTINF:-1,Movies 6
+http://thenew.tv:8000/live/Anthony1/Anthony1/38871.m3u8
+#EXTINF:-1,MR. BEAN
+http://thenew.tv:8000/live/Anthony1/Anthony1/38870.m3u8
+#EXTINF:-1,MTV HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38869.m3u8
+#EXTINF:-1,MUNCHEN TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38868.m3u8
 #EXTINF:-1,N-TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19077.m3u8
-#EXTINF:-1,N24
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19078.m3u8
-#EXTINF:-1,Nat Geo HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19061.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19058.m3u8
-#EXTINF:-1,Nat Geo wild FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19060.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19059.m3u8
-#EXTINF:-1,National Geographic HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19062.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38867.m3u8
+#EXTINF:-1,N24 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38866.m3u8
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38865.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38864.m3u8
 #EXTINF:-1,NDR HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19150.m3u8
-#EXTINF:-1,Nickelodeon
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19042.m3u8
-#EXTINF:-1,One HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18965.m3u8
-#EXTINF:-1,Phoenix HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19075.m3u8
-#EXTINF:-1,Pro 7 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19174.m3u8
-#EXTINF:-1,Pro 7 Fun FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19161.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38863.m3u8
+#EXTINF:-1,Nick JR HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38862.m3u8
+#EXTINF:-1,Nickeloon
+http://thenew.tv:8000/live/Anthony1/Anthony1/38861.m3u8
+#EXTINF:-1,NITRO HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38860.m3u8
+#EXTINF:-1,NOA 4 NORDERSTEDT HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38859.m3u8
+#EXTINF:-1,noa4 Hamburg HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38858.m3u8
+#EXTINF:-1,NRJ TV HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38857.m3u8
+#EXTINF:-1,Oberpfalz TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38856.m3u8
+#EXTINF:-1,OK Dessau
+http://thenew.tv:8000/live/Anthony1/Anthony1/38855.m3u8
+#EXTINF:-1,OK Koblenz
+http://thenew.tv:8000/live/Anthony1/Anthony1/38854.m3u8
+#EXTINF:-1,OK Merseburg
+http://thenew.tv:8000/live/Anthony1/Anthony1/38853.m3u8
+#EXTINF:-1,OK Salzwedel
+http://thenew.tv:8000/live/Anthony1/Anthony1/38852.m3u8
+#EXTINF:-1,OK Wernigerode
+http://thenew.tv:8000/live/Anthony1/Anthony1/38851.m3u8
+#EXTINF:-1,OKTO TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38850.m3u8
+#EXTINF:-1,Oldenburg eins TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38849.m3u8
+#EXTINF:-1,Olympic Channel Sport 1 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38848.m3u8
+#EXTINF:-1,Olympic Channel Sport 2 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38847.m3u8
+#EXTINF:-1,ONE HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38846.m3u8
+#EXTINF:-1,ORF 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38845.m3u8
+#EXTINF:-1,ORF 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38844.m3u8
+#EXTINF:-1,ORF 2 HD (AT)
+http://thenew.tv:8000/live/Anthony1/Anthony1/38843.m3u8
+#EXTINF:-1,ORF 3 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38842.m3u8
+#EXTINF:-1,ORF III HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38841.m3u8
+#EXTINF:-1,ORF Sport  HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38840.m3u8
+#EXTINF:-1,PHOENIX HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38839.m3u8
+#EXTINF:-1,PLANET HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38838.m3u8
+#EXTINF:-1,Plus 8 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38837.m3u8
+#EXTINF:-1,POPCORN SELECT 1 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38836.m3u8
+#EXTINF:-1,POPCORN SELECT 2 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38835.m3u8
+#EXTINF:-1,POPCORN SELECT 3 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38834.m3u8
+#EXTINF:-1,POPCORN SELECT 4 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38833.m3u8
+#EXTINF:-1,POPCORN SELECT 5 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38832.m3u8
+#EXTINF:-1,POPCORN SELECT 6 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38831.m3u8
+#EXTINF:-1,POPCORN SELECT 7 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38830.m3u8
+#EXTINF:-1,Potsdam TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38829.m3u8
 #EXTINF:-1,Pro 7 Fun HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19133.m3u8
-#EXTINF:-1,Pro 7 Max FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19159.m3u8
-#EXTINF:-1,Pro Sieben FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19177.m3u8
-#EXTINF:-1,Pro Sieben Fun HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19160.m3u8
-#EXTINF:-1,Pro Sieben HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19134.m3u8
-#EXTINF:-1,Pro Sieben Maxx FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19158.m3u8
-#EXTINF:-1,Pro Sieben Maxx HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19132.m3u8
-#EXTINF:-1,QVC Beuaty & Style
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18964.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38828.m3u8
+#EXTINF:-1,PRO 7 MAX
+http://thenew.tv:8000/live/Anthony1/Anthony1/38827.m3u8
+#EXTINF:-1,Pro7 MAXX HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38826.m3u8
+#EXTINF:-1,PROSIEBEN 7
+http://thenew.tv:8000/live/Anthony1/Anthony1/38825.m3u8
+#EXTINF:-1,ProSieben HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38824.m3u8
+#EXTINF:-1,ProSieben Maxx FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38823.m3u8
+#EXTINF:-1,PULS 4
+http://thenew.tv:8000/live/Anthony1/Anthony1/38822.m3u8
+#EXTINF:-1,Punktum Südharz
+http://thenew.tv:8000/live/Anthony1/Anthony1/38821.m3u8
 #EXTINF:-1,QVC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18963.m3u8
-#EXTINF:-1,RBB Berlin
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19147.m3u8
-#EXTINF:-1,RBB Brandenburg HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19146.m3u8
-#EXTINF:-1,RD HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19138.m3u8
-#EXTINF:-1,RFO
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18962.m3u8
-#EXTINF:-1,Romance TV
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18961.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38820.m3u8
+#EXTINF:-1,QVC2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38819.m3u8
+#EXTINF:-1,RAN 1
+http://thenew.tv:8000/live/Anthony1/Anthony1/38818.m3u8
+#EXTINF:-1,rbb-aktuell
+http://thenew.tv:8000/live/Anthony1/Anthony1/38817.m3u8
+#EXTINF:-1,RBW
+http://thenew.tv:8000/live/Anthony1/Anthony1/38816.m3u8
+#EXTINF:-1,RFH
+http://thenew.tv:8000/live/Anthony1/Anthony1/38815.m3u8
+#EXTINF:-1,Rhein Neckar Fernsehen
+http://thenew.tv:8000/live/Anthony1/Anthony1/38814.m3u8
+#EXTINF:-1,RIC
+http://thenew.tv:8000/live/Anthony1/Anthony1/38813.m3u8
+#EXTINF:-1,RNF HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38812.m3u8
+#EXTINF:-1,ROMANCE TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38811.m3u8
 #EXTINF:-1,RTL 2 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19171.m3u8
-#EXTINF:-1,RTL Crime
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19165.m3u8
-#EXTINF:-1,RTL Crime FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19166.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38810.m3u8
+#EXTINF:-1,RTL Crime HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38809.m3u8
 #EXTINF:-1,RTL FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19179.m3u8
-#EXTINF:-1,RTL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19180.m3u8
-#EXTINF:-1,RTL II You
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19172.m3u8
-#EXTINF:-1,RTL Living
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19164.m3u8
-#EXTINF:-1,RTL Nitro FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19169.m3u8
-#EXTINF:-1,RTL Nitro HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19170.m3u8
-#EXTINF:-1,RTL Passion
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19168.m3u8
-#EXTINF:-1,RTL Plus
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19167.m3u8
-#EXTINF:-1,Sat.1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19178.m3u8
-#EXTINF:-1,Sat1 Emotion
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19163.m3u8
-#EXTINF:-1,Sat1 Gold FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19162.m3u8
-#EXTINF:-1,Servus TV HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19153.m3u8
-#EXTINF:-1,Silverline
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18996.m3u8
-#EXTINF:-1,Sixx FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19156.m3u8
-#EXTINF:-1,Sky 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18976.m3u8
-#EXTINF:-1,Sky 13TH Street HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19002.m3u8
-#EXTINF:-1,Sky 3D FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18984.m3u8
-#EXTINF:-1,Sky Action
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18982.m3u8
-#EXTINF:-1,Sky Action HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18983.m3u8
-#EXTINF:-1,Sky Arts FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18952.m3u8
-#EXTINF:-1,Sky Arts HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18953.m3u8
-#EXTINF:-1,Sky Atlantic
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19005.m3u8
-#EXTINF:-1,Sky Atlantic  1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19003.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19004.m3u8
-#EXTINF:-1,Sky Cinema  1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18981.m3u8
-#EXTINF:-1,Sky Cinema  24 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18980.m3u8
-#EXTINF:-1,Sky Cinema  24 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19026.m3u8
-#EXTINF:-1,Sky Cinema 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19028.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38808.m3u8
+#EXTINF:-1,RTL Living HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38807.m3u8
+#EXTINF:-1,RTL Passion HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38806.m3u8
+#EXTINF:-1,RTL Super HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38805.m3u8
+#EXTINF:-1,SAT 1 EMOTIONS HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38804.m3u8
+#EXTINF:-1,SAT 1 GOLD HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38803.m3u8
+#EXTINF:-1,SAT 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38802.m3u8
+#EXTINF:-1,SAT 3 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38801.m3u8
+#EXTINF:-1,SERVUS HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38800.m3u8
+#EXTINF:-1,SIXX HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38799.m3u8
+#EXTINF:-1,Sky 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38798.m3u8
+#EXTINF:-1,Sky 3D HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38797.m3u8
+#EXTINF:-1,ARTE HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/59595.m3u8
+#EXTINF:-1,SKY ARTS HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38796.m3u8
+#EXTINF:-1,SKY ATLANTIC FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38795.m3u8
+#EXTINF:-1,Sky AXN HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38794.m3u8
+#EXTINF:-1,Sky Bundasliga HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38793.m3u8
+#EXTINF:-1,Sky Bundesliga 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38792.m3u8
 #EXTINF:-1,Sky Cinema 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19029.m3u8
-#EXTINF:-1,Sky Cinema 24 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19027.m3u8
-#EXTINF:-1,Sky Cinema Action
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19024.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38791.m3u8
 #EXTINF:-1,Sky Cinema Action HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19025.m3u8
-#EXTINF:-1,Sky Cinema Comedy
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19023.m3u8
-#EXTINF:-1,Sky Cinema Emotion
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19017.m3u8
-#EXTINF:-1,Sky Cinema Family FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19019.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38790.m3u8
+#EXTINF:-1,Sky Cinema Alien HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38789.m3u8
+#EXTINF:-1,Sky Cinema Animation HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38788.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY
+http://thenew.tv:8000/live/Anthony1/Anthony1/38787.m3u8
+#EXTINF:-1,SKY CINEMA EMOTION
+http://thenew.tv:8000/live/Anthony1/Anthony1/38786.m3u8
 #EXTINF:-1,Sky Cinema Family HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19018.m3u8
-#EXTINF:-1,Sky Cinema FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19031.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19030.m3u8
-#EXTINF:-1,Sky Cinema Hits  FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19020.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19021.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38785.m3u8
+#EXTINF:-1,SKY CINEMA FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38784.m3u8
+#EXTINF:-1,SKY CINEMA HALLOWEEN FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38783.m3u8
+#EXTINF:-1,SKY CINEMA HITS FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38782.m3u8
+#EXTINF:-1,SKY CINEMA MAX HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38781.m3u8
 #EXTINF:-1,Sky Cinema Nostalgie
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19015.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38780.m3u8
+#EXTINF:-1,Sky Cinema Plus 24
+http://thenew.tv:8000/live/Anthony1/Anthony1/38779.m3u8
+#EXTINF:-1,Sky Cinema WESTERN
+http://thenew.tv:8000/live/Anthony1/Anthony1/38778.m3u8
 #EXTINF:-1,Sky Classica
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19033.m3u8
-#EXTINF:-1,Sky Comedy
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19022.m3u8
-#EXTINF:-1,Sky Emotion
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19016.m3u8
-#EXTINF:-1,Sky Heimat Kanal
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18950.m3u8
-#EXTINF:-1,Sky Hits FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18979.m3u8
-#EXTINF:-1,Sky Krimi
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18990.m3u8
-#EXTINF:-1,Sky Nostalgie
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19014.m3u8
-#EXTINF:-1,Sky Select 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19013.m3u8
-#EXTINF:-1,Sky Select 2 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19012.m3u8
-#EXTINF:-1,Sky Select 3 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19011.m3u8
-#EXTINF:-1,Sky Select 4 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19010.m3u8
-#EXTINF:-1,Sky Select 5 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19009.m3u8
-#EXTINF:-1,Sky Select 6 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19008.m3u8
-#EXTINF:-1,Sky Select 7 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19007.m3u8
-#EXTINF:-1,Sky Select 8
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19006.m3u8
-#EXTINF:-1,Sky Silverline
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18995.m3u8
-#EXTINF:-1,Sky Sport 01 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19131.m3u8
-#EXTINF:-1,Sky Sport 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19101.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19130.m3u8
-#EXTINF:-1,Sky Sport 10 (only at games)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19090.m3u8
-#EXTINF:-1,Sky Sport 11 HD (During the Games Only)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19089.m3u8
-#EXTINF:-1,Sky Sport 2
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19129.m3u8
-#EXTINF:-1,Sky Sport 2 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19128.m3u8
-#EXTINF:-1,Sky Sport 3 (only at games)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19100.m3u8
-#EXTINF:-1,Sky Sport 3 FHD (Match Time)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19099.m3u8
-#EXTINF:-1,Sky Sport 4 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19097.m3u8
-#EXTINF:-1,Sky Sport 4 HD (Live Event)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19098.m3u8
-#EXTINF:-1,Sky Sport 5 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19095.m3u8
-#EXTINF:-1,Sky Sport 5 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19096.m3u8
-#EXTINF:-1,Sky Sport 6 (only at games) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19094.m3u8
-#EXTINF:-1,Sky SPort 7 (only at games) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19093.m3u8
-#EXTINF:-1,Sky Sport 8 (only at games) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19092.m3u8
-#EXTINF:-1,Sky Sport 9 (only at games) HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19091.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19115.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19114.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 10 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19102.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 (Match Time)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19113.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19112.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19111.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 FHD (Live Event)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19110.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19109.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19108.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 FHD (Live Event)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19107.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 6
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19106.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 7 (Match Time)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19105.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 8 FHD (Match Time)
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19104.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 9
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19103.m3u8
-#EXTINF:-1,Sky Sport News FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19126.m3u8
-#EXTINF:-1,Sky Sports News HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19127.m3u8
-#EXTINF:-1,Sonnenklar TV FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18960.m3u8
-#EXTINF:-1,Sony HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18994.m3u8
-#EXTINF:-1,Spiegel Geschichte
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19070.m3u8
-#EXTINF:-1,Spiegel TV Wissen HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19069.m3u8
-#EXTINF:-1,Sport Digital
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19125.m3u8
-#EXTINF:-1,Sport Digital FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19080.m3u8
-#EXTINF:-1,Sport1
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19116.m3u8
-#EXTINF:-1,Sport1 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19117.m3u8
-#EXTINF:-1,Sport1 US FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19041.m3u8
-#EXTINF:-1,Sport1 US HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19040.m3u8
-#EXTINF:-1,SR Fernsehen HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19142.m3u8
-#EXTINF:-1,SRF 1
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18959.m3u8
-#EXTINF:-1,Super RTL FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19055.m3u8
-#EXTINF:-1,Super RTL HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19056.m3u8
-#EXTINF:-1,SWR
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19141.m3u8
-#EXTINF:-1,Syfy
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18993.m3u8
-#EXTINF:-1,Syfy  HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18992.m3u8
-#EXTINF:-1,Syfy FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18991.m3u8
-#EXTINF:-1,Tagesschau 24
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19074.m3u8
-#EXTINF:-1,Tele 5 HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19155.m3u8
-#EXTINF:-1,TLC HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18951.m3u8
-#EXTINF:-1,TNT Comedy FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18989.m3u8
-#EXTINF:-1,TNT Film FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18988.m3u8
-#EXTINF:-1,TNT Serie FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18986.m3u8
-#EXTINF:-1,TNT Serie HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18987.m3u8
-#EXTINF:-1,Toggo Plus
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19053.m3u8
-#EXTINF:-1,Travel Channel
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19057.m3u8
-#EXTINF:-1,Universal FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18985.m3u8
-#EXTINF:-1,Viva Comedy Central
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19039.m3u8
-#EXTINF:-1,VOX
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19176.m3u8
-#EXTINF:-1,VOX FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19175.m3u8
-#EXTINF:-1,Wdr HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19140.m3u8
-#EXTINF:-1,Weltr Wunder
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18958.m3u8
-#EXTINF:-1,ZDF
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19182.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/38777.m3u8
+#EXTINF:-1,Sky Comedy HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38776.m3u8
+#EXTINF:-1,Sky DISNEY CINEMAGIC HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38775.m3u8
+#EXTINF:-1,Sky Disney xd
+http://thenew.tv:8000/live/Anthony1/Anthony1/38774.m3u8
+#EXTINF:-1,SKY DMAX HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38773.m3u8
+#EXTINF:-1,Sky Emotion HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38772.m3u8
+#EXTINF:-1,Sky Eurosport 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38771.m3u8
+#EXTINF:-1,Sky Family
+http://thenew.tv:8000/live/Anthony1/Anthony1/38770.m3u8
+#EXTINF:-1,SKY FOX HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38769.m3u8
+#EXTINF:-1,Sky Germany 13th Street HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38768.m3u8
+#EXTINF:-1,Sky Germany A&E HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38767.m3u8
+#EXTINF:-1,Sky Germany Atlantic
+http://thenew.tv:8000/live/Anthony1/Anthony1/38766.m3u8
+#EXTINF:-1,Sky History Channel
+http://thenew.tv:8000/live/Anthony1/Anthony1/38765.m3u8
+#EXTINF:-1,Sky Hits HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38764.m3u8
+#EXTINF:-1,Sky Kino 24 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38763.m3u8
+#EXTINF:-1,Sky Kino Emotion
+http://thenew.tv:8000/live/Anthony1/Anthony1/38762.m3u8
+#EXTINF:-1,Sky Kino Welt TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38761.m3u8
+#EXTINF:-1,SKY KRIMI
+http://thenew.tv:8000/live/Anthony1/Anthony1/38760.m3u8
+#EXTINF:-1,SKY MGM HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38759.m3u8
+#EXTINF:-1,SKY MOVIE BOX OFFICE 10
+http://thenew.tv:8000/live/Anthony1/Anthony1/38758.m3u8
+#EXTINF:-1,SKY MOVIE BOX OFFICE 3
+http://thenew.tv:8000/live/Anthony1/Anthony1/38757.m3u8
+#EXTINF:-1,SKY NAT GEO HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38756.m3u8
+#EXTINF:-1,SKY NAT GEO PEOPLE HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38755.m3u8
+#EXTINF:-1,Sky Nostalgie HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38754.m3u8
+#EXTINF:-1,Sky Popcorn Select 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38753.m3u8
+#EXTINF:-1,Sky Popcorn Select 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38752.m3u8
+#EXTINF:-1,Sky Popcorn Select 5 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38751.m3u8
+#EXTINF:-1,Sky Romance
+http://thenew.tv:8000/live/Anthony1/Anthony1/38750.m3u8
+#EXTINF:-1,VOX HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/59594.m3u8
 #EXTINF:-1,ZDF HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19183.m3u8
-#EXTINF:-1,ZDF Info HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19073.m3u8
-#EXTINF:-1,ZDF Neo HD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/19181.m3u8
-#EXTINF:-1,Zee One FHD
-http://185.246.209.218:80/live/philbrousseau@hotmail.com/c6u4UIw55z/18957.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/59593.m3u8
+#EXTINF:-1,ZDF INFO HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/59592.m3u8
+#EXTINF:-1,ZDFneo
+http://thenew.tv:8000/live/Anthony1/Anthony1/59591.m3u8
+#EXTINF:-1,ELIT Cinema 4
+http://thenew.tv:8000/Anthony1/Anthony1/38925
+#EXTINF:-1,ELIT Cinema 5
+http://thenew.tv:8000/live/Anthony1/Anthony1/38924.m3u8
+#EXTINF:-1,EOTV HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38923.m3u8
+#EXTINF:-1,ERZ TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38922.m3u8
+#EXTINF:-1,Euronews
+http://thenew.tv:8000/live/Anthony1/Anthony1/38921.m3u8
+#EXTINF:-1,Eurosport 1 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38920.m3u8
+#EXTINF:-1,Eurosport 2 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38919.m3u8
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38918.m3u8
+#EXTINF:-1,EWTN katholisches TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38917.m3u8
+#EXTINF:-1,EXTREM SPORT
+http://thenew.tv:8000/live/Anthony1/Anthony1/38916.m3u8
+#EXTINF:-1,Family TV FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38915.m3u8
+#EXTINF:-1,FC Bayern TV FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38914.m3u8
+#EXTINF:-1,Fight Channel HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38913.m3u8
