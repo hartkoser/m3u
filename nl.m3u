@@ -1,75 +1,367 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",OMROEP WEST
-http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Radio Beverwijk
-http://84.22.97.59:80/beverwijk/studio/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Silence TV World HD
-http://109.236.85.100:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",Silence TV WORLD HD
-http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",XITE (BASE) [720p]
-http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",XITE (BASE)
-http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/chunklist_w167988758.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",XITE (POP) [720p]
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/chunklist_w2127013101.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",XITE Base
-http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",XITE DE
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist_w1167602799.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",XITE NL
-http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-id="" tvg-name="" tvg-logo="",XITE Pop
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xitelogo.jpg/266px-Xitelogo.jpg" group-title="NETHERLANDS",Xite Music (Opt-2)
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-edm-mainstage.jpg" group-title="NETHERLANDS",EDM Mainstage
-https://content-ausc2.uplynk.com/a0c5d638ce454d3282cdafd8c85a42fb/f.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-house-floor.jpg" group-title="NETHERLANDS",House Floor
-https://content-ausc4.uplynk.com/6348590a21c1424a9739851f750d6aa7/f.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-deep-house-district.jpg" group-title="NETHERLANDS",Deep House District
-https://content-ausc5.uplynk.com/3d77e548e4504e7cbb242c43b417850c/f.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-techno-warehouse.jpg" group-title="NETHERLANDS",Techno Warehouse
-https://content-auso1.uplynk.com/b2334b1fe2434d81970eb44454812744/f.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/96efbe44dda74e0c34ed2df6d45d3b97a5c95e6b28ed71a25d66bab0496c6cce.png" group-title="NETHERLANDS",Algorhythm
-https://content-ausw2.uplynk.com/1313af8ef33f43469afb35f7a86e3675/f.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtvvis.nl/wp-content/uploads/2014/12/Logo-Feel-Good-Radio-2014.png" group-title="NETHERLANDS",Feel Good Radio
-https://media.streamone.net/hlslive/account=HQQBFe-bAB4S/livestream=lwQBr4-YDU8y/events(1513813894)/live-audio_1=96000-video=1904000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Canales de Musica",Xite HD
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://ik.imagekit.io/ulangotv/image/upload/3781385_logo_podium_tv.png" tvg-name="PODIUM TV" group-title="SPORT",PODIUM TV
-http://highvolume102.streampartner.nl/podiumbv/smil:podiumbv.smil/chunklist_w1958898097_b2092000_slNL.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://imgw.rgcdn.nl/819f34dadc124c9faccf2793e5710096/opener/Omroep-West.jpg" group-title="NETHERLANDS",Omroep West
-http://d2dslh4sd7yvc1.cloudfront.net/live/omroepwest/ngrp:tv-feed_all/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xitelogo.jpg/266px-Xitelogo.jpg" group-title="NETHERLANDS",Xite Music (Opt-1)
-http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Xitelogo.jpg/266px-Xitelogo.jpg" group-title="NETHERLANDS",Xite Music (Opt-2)
-http://highvolume03.streampartner.nl/vleugels_hd6/livestream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/96efbe44dda74e0c34ed2df6d45d3b97a5c95e6b28ed71a25d66bab0496c6cce.png" group-title="NETHERLANDS",Algorhythm
-https://content-ausw2.uplynk.com/1313af8ef33f43469afb35f7a86e3675/f.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-deep-house-district.jpg" group-title="NETHERLANDS",Deep House District
-https://content-ausc5.uplynk.com/3d77e548e4504e7cbb242c43b417850c/f.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-edm-mainstage.jpg" group-title="NETHERLANDS",EDM Mainstage
-https://content-ausc2.uplynk.com/a0c5d638ce454d3282cdafd8c85a42fb/f.m3u8
-#EXTINF:-1 tvg-logo="https://www.rtvvis.nl/wp-content/uploads/2014/12/Logo-Feel-Good-Radio-2014.png" group-title="NETHERLANDS",Feel Good Radio
-https://media.streamone.net/hlslive/account=HQQBFe-bAB4S/livestream=lwQBr4-YDU8y/events(1513813894)/live-audio_1=96000-video=1904000.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-house-floor.jpg" group-title="NETHERLANDS",House Floor
-https://content-ausc4.uplynk.com/6348590a21c1424a9739851f750d6aa7/f.m3u8
-#EXTINF:-1 tvg-logo="https://www.dancetelevision.net/img/channels/loading-techno-warehouse.jpg" group-title="NETHERLANDS",Techno Warehouse
-https://content-auso1.uplynk.com/b2334b1fe2434d81970eb44454812744/f.m3u8
-#EXTINF:-1 tvg-logo="https://l1.nl/static/img/social.png" group-title="Netherlands",L1mburg ﻿﻿
-http://d34pj260kw1xmk.cloudfront.net/live/l1/tv/index.m3u8
-#EXTINF:-1 tvg-logo="https://meervandaag.nl/wp-content/uploads/2018/03/cropped-logo_test-1.png" group-title="Netherlands",Meer T﻿V ﻿﻿
-http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808.m3u8
-#EXTINF:-1 tvg-logo="https://www.omropfryslan.nl/data/files/styles/small_teaser_background/public/omrop-fryslan-tv-plaatje-1920x1080-v2.jpg" group-title="Netherlands",Omrop Fryslan TV
-http://d3pvma9xb2775h.cloudfront.net/live/omropfryslan/stream04/400/prog_index.m3u8
-#EXTINF:-1 tvg-logo="https://www.omroeppenm.nl/cwm/fm/userfiles/content/eyecatcher/normal/60673_P-M_Logo_transparant.png" group-title="Netherlands",Omroep P&M
-http://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_Radio_538_2014.svg/330px-Logo_Radio_538_2014.svg.png" group-title="Netherlands",Radio 538
-http://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/Radio538Stream-Q2.m3u8
-#EXTINF:-1 tvg-logo="https://dordtcentraal.nl/wp-content/uploads/2017/06/RTV-Dordrecht.jpg" group-title="Netherlands",RTV Dordrecht
-http://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/chunklist_w1043703258_b1894400_slNLD.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/RadioVeronica-logo.png" group-title="Netherlands",Radio Veronica
-http://talparadiohls-i.akamaihd.net/hls/live/585615/VR-Veronica-1/Q2.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Logo_XITE_2017_zwart.png/220px-Logo_XITE_2017_zwart.png" group-title="Netherlands",Xite
-http://highvolume03.streampartner.nl:1935/vleugels_hd5/livestream/index.m3u8
+#EXTINF:-1,13th
+http://viptk.servervip.eu:80/ceyhun/02112018/9244
+#EXTINF:-1,192 TV
+http://viptk.servervip.eu:80/ceyhun/02112018/9245
+#EXTINF:-1,192TV
+http://viptk.servervip.eu:80/ceyhun/02112018/9266
+#EXTINF:-1,24Kitchen
+http://viptk.servervip.eu:80/ceyhun/02112018/9277
+#EXTINF:-1,Animal Planet
+http://viptk.servervip.eu:80/ceyhun/02112018/9301
+#EXTINF:-1,Animal Planet FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9302
+#EXTINF:-1,AT5 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9278
+#EXTINF:-1,Baby TV
+http://viptk.servervip.eu:80/ceyhun/02112018/9281
+#EXTINF:-1,BBC Entertainment
+http://viptk.servervip.eu:80/ceyhun/02112018/9317
+#EXTINF:-1,Boomerang
+http://viptk.servervip.eu:80/ceyhun/02112018/9243
+#EXTINF:-1,BVN
+http://viptk.servervip.eu:80/ceyhun/02112018/9280
+#EXTINF:-1,Canvas HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9294
+#EXTINF:-1,Cartoon Network
+http://viptk.servervip.eu:80/ceyhun/02112018/9269
+#EXTINF:-1,CAZ
+http://viptk.servervip.eu:80/ceyhun/02112018/9279
+#EXTINF:-1,Comedy Central
+http://viptk.servervip.eu:80/ceyhun/02112018/9316
+#EXTINF:-1,Comedy Central extra
+http://viptk.servervip.eu:80/ceyhun/02112018/9315
+#EXTINF:-1,Crime & Investigation
+http://viptk.servervip.eu:80/ceyhun/02112018/9306
+#EXTINF:-1,Discovery Channel
+http://viptk.servervip.eu:80/ceyhun/02112018/9242
+#EXTINF:-1,Discovery Channel HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9311
+#EXTINF:-1,Discovery Investigation
+http://viptk.servervip.eu:80/ceyhun/02112018/9310
+#EXTINF:-1,Discovery Science
+http://viptk.servervip.eu:80/ceyhun/02112018/9309
+#EXTINF:-1,Discovery Showcase HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9312
+#EXTINF:-1,Discovery World
+http://viptk.servervip.eu:80/ceyhun/02112018/9308
+#EXTINF:-1,Disney Channel
+http://viptk.servervip.eu:80/ceyhun/02112018/9275
+#EXTINF:-1,Disney Channel Benelux
+http://viptk.servervip.eu:80/ceyhun/02112018/9274
+#EXTINF:-1,Disney Channel HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9276
+#EXTINF:-1,Disney Junior
+http://viptk.servervip.eu:80/ceyhun/02112018/9273
+#EXTINF:-1,Duck TV
+http://viptk.servervip.eu:80/ceyhun/02112018/9267
+#EXTINF:-1,E! HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9300
+#EXTINF:-1,EDE TV
+http://viptk.servervip.eu:80/ceyhun/02112018/9265
+#EXTINF:-1,Edge
+http://viptk.servervip.eu:80/ceyhun/02112018/9355
+#EXTINF:-1,Edge Sport FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9356
+#EXTINF:-1,EUROSPORT 1 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9358
+#EXTINF:-1,Eurosport 1 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9241
+#EXTINF:-1,Eurosport 1 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9359
+#EXTINF:-1,EUROSPORT 2
+http://viptk.servervip.eu:80/ceyhun/02112018/9357
+#EXTINF:-1,Eurosport 2 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9240
+#EXTINF:-1,Extreme Sports
+http://viptk.servervip.eu:80/ceyhun/02112018/9354
+#EXTINF:-1,Film 1 Action
+http://viptk.servervip.eu:80/ceyhun/02112018/9350
+#EXTINF:-1,Film 1 Comedy and Kids
+http://viptk.servervip.eu:80/ceyhun/02112018/9347
+#EXTINF:-1,Film 1 Drama FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9344
+#EXTINF:-1,Film 1 Family
+http://viptk.servervip.eu:80/ceyhun/02112018/9345
+#EXTINF:-1,Film 1 Family HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9346
+#EXTINF:-1,Film 1 Premiere FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9353
+#EXTINF:-1,Film 1 Premiere HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9352
+#EXTINF:-1,Film 1 Sundance
+http://viptk.servervip.eu:80/ceyhun/02112018/9349
+#EXTINF:-1,Film 1 Sundance HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9351
+#EXTINF:-1,Film1 Action
+http://viptk.servervip.eu:80/ceyhun/02112018/9239
+#EXTINF:-1,Film1 Comedy & Kids
+http://viptk.servervip.eu:80/ceyhun/02112018/9238
+#EXTINF:-1,Film1 Drama
+http://viptk.servervip.eu:80/ceyhun/02112018/9343
+#EXTINF:-1,Film1 Premiere
+http://viptk.servervip.eu:80/ceyhun/02112018/9237
+#EXTINF:-1,Film1 Premiere FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9236
+#EXTINF:-1,Film1 Spotlight
+http://viptk.servervip.eu:80/ceyhun/02112018/9348
+#EXTINF:-1,Film1 SUNDANCE
+http://viptk.servervip.eu:80/ceyhun/02112018/9235
+#EXTINF:-1,Flevoland
+http://viptk.servervip.eu:80/ceyhun/02112018/9262
+#EXTINF:-1,FOX Channel
+http://viptk.servervip.eu:80/ceyhun/02112018/9234
+#EXTINF:-1,Fox Sports 1
+http://viptk.servervip.eu:80/ceyhun/02112018/9233
+#EXTINF:-1,FOX Sports 1 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9232
+#EXTINF:-1,FOX Sports 1 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9373
+#EXTINF:-1,Fox Sports 2
+http://viptk.servervip.eu:80/ceyhun/02112018/9231
+#EXTINF:-1,FOX Sports 2 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9372
+#EXTINF:-1,FOX Sports 2 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9371
+#EXTINF:-1,Fox Sports 3
+http://viptk.servervip.eu:80/ceyhun/02112018/9230
+#EXTINF:-1,FOX Sports 3 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9370
+#EXTINF:-1,FOX Sports 3 HD ( 1080P )
+http://viptk.servervip.eu:80/ceyhun/02112018/9229
+#EXTINF:-1,Fox Sports 4
+http://viptk.servervip.eu:80/ceyhun/02112018/9228
+#EXTINF:-1,FOX Sports 4 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9369
+#EXTINF:-1,Fox Sports 4 HD ( 1080P )
+http://viptk.servervip.eu:80/ceyhun/02112018/9227
+#EXTINF:-1,Fox Sports 5
+http://viptk.servervip.eu:80/ceyhun/02112018/9226
+#EXTINF:-1,FOX Sports 5 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9368
+#EXTINF:-1,Fox Sports 5 HD ( 1080P )
+http://viptk.servervip.eu:80/ceyhun/02112018/9225
+#EXTINF:-1,Fox Sports 6
+http://viptk.servervip.eu:80/ceyhun/02112018/9224
+#EXTINF:-1,FOX Sports 6 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9367
+#EXTINF:-1,FOX Sports 6 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9374
+#EXTINF:-1,HBO
+http://viptk.servervip.eu:80/ceyhun/02112018/9223
+#EXTINF:-1,HBO 3
+http://viptk.servervip.eu:80/ceyhun/02112018/9222
+#EXTINF:-1,HBO2
+http://viptk.servervip.eu:80/ceyhun/02112018/9221
+#EXTINF:-1,History
+http://viptk.servervip.eu:80/ceyhun/02112018/9220
+#EXTINF:-1,History FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9314
+#EXTINF:-1,HISTORY HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9313
+#EXTINF:-1,Investigation Discovery
+http://viptk.servervip.eu:80/ceyhun/02112018/9303
+#EXTINF:-1,JimJam
+http://viptk.servervip.eu:80/ceyhun/02112018/9268
+#EXTINF:-1,KADET
+http://viptk.servervip.eu:80/ceyhun/02112018/9264
+#EXTINF:-1,KetNet HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9307
+#EXTINF:-1,MTV
+http://viptk.servervip.eu:80/ceyhun/02112018/9295
+#EXTINF:-1,MTV HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9296
+#EXTINF:-1,MTV Music 24
+http://viptk.servervip.eu:80/ceyhun/02112018/9261
+#EXTINF:-1,MTV Nederland
+http://viptk.servervip.eu:80/ceyhun/02112018/9260
+#EXTINF:-1,Nat Geo Wild FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9219
+#EXTINF:-1,National Geographic
+http://viptk.servervip.eu:80/ceyhun/02112018/9218
+#EXTINF:-1,National Geographic FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9217
+#EXTINF:-1,National Geographic HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9305
+#EXTINF:-1,National Geographic Wild FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9304
+#EXTINF:-1,NET 5
+http://viptk.servervip.eu:80/ceyhun/02112018/9216
+#EXTINF:-1,Net 5 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9215
+#EXTINF:-1,Net5 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9319
+#EXTINF:-1,Nick Jr
+http://viptk.servervip.eu:80/ceyhun/02112018/9214
+#EXTINF:-1,Nick Jr. HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9270
+#EXTINF:-1,Nickelodeon
+http://viptk.servervip.eu:80/ceyhun/02112018/9272
+#EXTINF:-1,Nicktoons
+http://viptk.servervip.eu:80/ceyhun/02112018/9271
+#EXTINF:-1,NPO 1
+http://viptk.servervip.eu:80/ceyhun/02112018/9340
+#EXTINF:-1,NPO 1 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9342
+#EXTINF:-1,NPO 1 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9341
+#EXTINF:-1,NPO 2
+http://viptk.servervip.eu:80/ceyhun/02112018/9337
+#EXTINF:-1,NPO 2 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9339
+#EXTINF:-1,NPO 2 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9213
+#EXTINF:-1,NPO 2 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9338
+#EXTINF:-1,NPO 3
+http://viptk.servervip.eu:80/ceyhun/02112018/9212
+#EXTINF:-1,NPO 3 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9336
+#EXTINF:-1,NPO 3 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9211
+#EXTINF:-1,NPO 3 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9335
+#EXTINF:-1,NPO Politiek
+http://viptk.servervip.eu:80/ceyhun/02112018/9333
+#EXTINF:-1,NPO Zapp Xtra/NPO Best
+http://viptk.servervip.eu:80/ceyhun/02112018/9334
+#EXTINF:-1,Omroep Brabant
+http://viptk.servervip.eu:80/ceyhun/02112018/9259
+#EXTINF:-1,Omroep Brabant Televisie FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9287
+#EXTINF:-1,Omroep Flevoland
+http://viptk.servervip.eu:80/ceyhun/02112018/9288
+#EXTINF:-1,Omroep Fryslan
+http://viptk.servervip.eu:80/ceyhun/02112018/9246
+#EXTINF:-1,Omroep Gelderland
+http://viptk.servervip.eu:80/ceyhun/02112018/9289
+#EXTINF:-1,Omroep Venlo
+http://viptk.servervip.eu:80/ceyhun/02112018/9286
+#EXTINF:-1,Omroep Venray
+http://viptk.servervip.eu:80/ceyhun/02112018/9285
+#EXTINF:-1,Omroep Zeeland
+http://viptk.servervip.eu:80/ceyhun/02112018/9290
+#EXTINF:-1,Omrop Fryslan
+http://viptk.servervip.eu:80/ceyhun/02112018/9284
+#EXTINF:-1,ONS
+http://viptk.servervip.eu:80/ceyhun/02112018/9263
+#EXTINF:-1,Q2 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9247
+#EXTINF:-1,RTL 4
+http://viptk.servervip.eu:80/ceyhun/02112018/9210
+#EXTINF:-1,RTL 4 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9331
+#EXTINF:-1,RTL 4 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9330
+#EXTINF:-1,RTL 5
+http://viptk.servervip.eu:80/ceyhun/02112018/9209
+#EXTINF:-1,RTL 5 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9329
+#EXTINF:-1,RTL 5 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9208
+#EXTINF:-1,RTL 5 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9327
+#EXTINF:-1,RTL 7
+http://viptk.servervip.eu:80/ceyhun/02112018/9207
+#EXTINF:-1,RTL 7 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9328
+#EXTINF:-1,RTL 7 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9206
+#EXTINF:-1,RTL 7 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9326
+#EXTINF:-1,RTL 8
+http://viptk.servervip.eu:80/ceyhun/02112018/9205
+#EXTINF:-1,RTL 8 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9325
+#EXTINF:-1,RTL 8 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9204
+#EXTINF:-1,RTL 8 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9324
+#EXTINF:-1,RTL Crime
+http://viptk.servervip.eu:80/ceyhun/02112018/9332
+#EXTINF:-1,RTL lounge
+http://viptk.servervip.eu:80/ceyhun/02112018/9203
+#EXTINF:-1,RTL Telekids
+http://viptk.servervip.eu:80/ceyhun/02112018/9318
+#EXTINF:-1,RTL Z
+http://viptk.servervip.eu:80/ceyhun/02112018/9323
+#EXTINF:-1,RTV Betuwe
+http://viptk.servervip.eu:80/ceyhun/02112018/9283
+#EXTINF:-1,RTV Drenthe
+http://viptk.servervip.eu:80/ceyhun/02112018/9258
+#EXTINF:-1,RTV OOST
+http://viptk.servervip.eu:80/ceyhun/02112018/9257
+#EXTINF:-1,RTV Totaal
+http://viptk.servervip.eu:80/ceyhun/02112018/9282
+#EXTINF:-1,Salto 1
+http://viptk.servervip.eu:80/ceyhun/02112018/9256
+#EXTINF:-1,Salto 2
+http://viptk.servervip.eu:80/ceyhun/02112018/9255
+#EXTINF:-1,SBS 6
+http://viptk.servervip.eu:80/ceyhun/02112018/9202
+#EXTINF:-1,SBS 6 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9321
+#EXTINF:-1,SBS 9
+http://viptk.servervip.eu:80/ceyhun/02112018/9320
+#EXTINF:-1,SBS6 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9322
+#EXTINF:-1,SBS6 FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9201
+#EXTINF:-1,Shorts TV
+http://viptk.servervip.eu:80/ceyhun/02112018/9254
+#EXTINF:-1,Slam!
+http://viptk.servervip.eu:80/ceyhun/02112018/9253
+#EXTINF:-1,Spike HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9291
+#EXTINF:-1,Sport 1 Racing
+http://viptk.servervip.eu:80/ceyhun/02112018/9362
+#EXTINF:-1,Sport 1 Voetbal
+http://viptk.servervip.eu:80/ceyhun/02112018/9200
+#EXTINF:-1,Sports 1 Extra 2
+http://viptk.servervip.eu:80/ceyhun/02112018/9252
+#EXTINF:-1,SYFY
+http://viptk.servervip.eu:80/ceyhun/02112018/9199
+#EXTINF:-1,TLC
+http://viptk.servervip.eu:80/ceyhun/02112018/9299
+#EXTINF:-1,TV 538
+http://viptk.servervip.eu:80/ceyhun/02112018/9251
+#EXTINF:-1,TV Oost
+http://viptk.servervip.eu:80/ceyhun/02112018/9292
+#EXTINF:-1,TV Oranje
+http://viptk.servervip.eu:80/ceyhun/02112018/9293
+#EXTINF:-1,Veronica / Disney XD FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9198
+#EXTINF:-1,Veronica Disney XD
+http://viptk.servervip.eu:80/ceyhun/02112018/9197
+#EXTINF:-1,Veronica HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9297
+#EXTINF:-1,Veronica/Disney XD
+http://viptk.servervip.eu:80/ceyhun/02112018/9298
+#EXTINF:-1,ViceLand FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9250
+#EXTINF:-1,WOS TV
+http://viptk.servervip.eu:80/ceyhun/02112018/9249
+#EXTINF:-1,Zeeland Televisie HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9248
+#EXTINF:-1,Ziggo Sport Extra 1
+http://viptk.servervip.eu:80/ceyhun/02112018/9361
+#EXTINF:-1,Ziggo Sport Extra 2
+http://viptk.servervip.eu:80/ceyhun/02112018/9360
+#EXTINF:-1,Ziggo Sport Extra1
+http://viptk.servervip.eu:80/ceyhun/02112018/9196
+#EXTINF:-1,Ziggo Sport Extra2
+http://viptk.servervip.eu:80/ceyhun/02112018/9195
+#EXTINF:-1,Ziggo Sport Golf
+http://viptk.servervip.eu:80/ceyhun/02112018/9363
+#EXTINF:-1,Ziggo Sport Golf FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/9364
+#EXTINF:-1,Ziggo Sport Racing
+http://viptk.servervip.eu:80/ceyhun/02112018/9194
+#EXTINF:-1,Ziggo Sport Select FHD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/9193
+#EXTINF:-1,Ziggo Sport Select HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9366
+#EXTINF:-1,Ziggo Sport Voetbal
+http://viptk.servervip.eu:80/ceyhun/02112018/9365
+#EXTINF:-1,Ziggo Sport.Voetbal
+http://viptk.servervip.eu:80/ceyhun/02112018/9192

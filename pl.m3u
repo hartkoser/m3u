@@ -1,19 +1,347 @@
 #EXTM3U
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TV TORUN
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1 group-title="" tvg-id="" tvg-name="" tvg-logo="",TVT ZGORZELEC
-http://gargoyle.tomkow.pl/hls/tvt.m3u8
-#EXTINF:-1 group-title="Poland-WebTV",NRJ Hits TV
-http://5.196.138.6:1935/live/nrjbelgique/chunklist_w475134729.m3u8
-#EXTINF:-1 group-title="Poland-WebTV" tvg-id="Hope Poland" tvg-logo="Hope.png",Hope Channel Polska HD
-http://rtmp.hopechannel.pl/livetv/colombo/hope_high/index.m3u8
-#EXTINF:-1 group-title="Poland-WebTV",TV KUJAWY
-http://stream.tvkujawy.pl:8080/live/broadcast.m3u8
-#EXTINF:-1 group-title="Poland-WebTV" tvg-id="TV Trwam" tvg-logo="TV_Trwam.png",TV Trwam
-http://trwamtv.live.e55-po.insyscd.net/trwamtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KRAKÓW Grodzka 2
-http://hls1.webcamera.pl/krakowsan_cam_480f1a/krakowsan_cam_480f1a.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",KRAKÓW. plaza Live
-http://hls1.webcamera.pl/dziwnowum_cam_a4181f/dziwnowum_cam_a4181f.stream/chunks.m3u8
-#EXTINF:-1 tvg-id="FilmBox.pl" tvg-name="FilmBox" tvg-logo="https://static.iptv-epg.com/tr/Filmbox.pl.png" group-title="Movies",FilmBox
-http://157d378f.ottv.biz/iptv/QGFAXXMYLBRMQH/1071/index.m3u8
+#EXTINF:-1,13 Ulica HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8917
+#EXTINF:-1,4 Fun Hits
+http://viptk.servervip.eu:80/ceyhun/02112018/8998
+#EXTINF:-1,4 Fun TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8997
+#EXTINF:-1,4Fun Dance
+http://viptk.servervip.eu:80/ceyhun/02112018/8916
+#EXTINF:-1,4Fun Gold Hits
+http://viptk.servervip.eu:80/ceyhun/02112018/8915
+#EXTINF:-1,Active Family
+http://viptk.servervip.eu:80/ceyhun/02112018/8914
+#EXTINF:-1,ADVENTURE HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8913
+#EXTINF:-1,Ale Kino   HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8912
+#EXTINF:-1,ALE KINO HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9033
+#EXTINF:-1,AMC
+http://viptk.servervip.eu:80/ceyhun/02112018/8911
+#EXTINF:-1,ANIMAL PLANET HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9032
+#EXTINF:-1,ANIMAL PLANET HD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/8979
+#EXTINF:-1,ATM Rozrywka
+http://viptk.servervip.eu:80/ceyhun/02112018/8910
+#EXTINF:-1,AXN Black
+http://viptk.servervip.eu:80/ceyhun/02112018/8982
+#EXTINF:-1,AXN HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8981
+#EXTINF:-1,AXN SPIN HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8909
+#EXTINF:-1,AXN White
+http://viptk.servervip.eu:80/ceyhun/02112018/8980
+#EXTINF:-1,Baby TV HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8996
+#EXTINF:-1,BBC EARTH
+http://viptk.servervip.eu:80/ceyhun/02112018/8978
+#EXTINF:-1,BBC HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8977
+#EXTINF:-1,BOOMERANG
+http://viptk.servervip.eu:80/ceyhun/02112018/8976
+#EXTINF:-1,CAFE HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9031
+#EXTINF:-1,Canal  1 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8995
+#EXTINF:-1,Canal  1 HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8975
+#EXTINF:-1,Canal  HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8994
+#EXTINF:-1,Canal Discovery HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8993
+#EXTINF:-1,Canal HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8973
+#EXTINF:-1,CANAL SERIALE
+http://viptk.servervip.eu:80/ceyhun/02112018/8974
+#EXTINF:-1,CANAL SERIALE HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9030
+#EXTINF:-1,Canal Seriale HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8972
+#EXTINF:-1,Canal Sport 2 HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8971
+#EXTINF:-1,CANAL SPORT HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/9029
+#EXTINF:-1,CANAL SPORTS 2
+http://viptk.servervip.eu:80/ceyhun/02112018/9028
+#EXTINF:-1,Cartoon Network HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8908
+#EXTINF:-1,CBS Action
+http://viptk.servervip.eu:80/ceyhun/02112018/8907
+#EXTINF:-1,CBS Europa HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8906
+#EXTINF:-1,CBS Reality
+http://viptk.servervip.eu:80/ceyhun/02112018/8905
+#EXTINF:-1,Cinemax 2 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8904
+#EXTINF:-1,CINEMAX HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9027
+#EXTINF:-1,COMEDY CENTERAL
+http://viptk.servervip.eu:80/ceyhun/02112018/9026
+#EXTINF:-1,Comedy Central Family
+http://viptk.servervip.eu:80/ceyhun/02112018/8903
+#EXTINF:-1,Da Vinci Learning
+http://viptk.servervip.eu:80/ceyhun/02112018/8902
+#EXTINF:-1,Disco Polo Music
+http://viptk.servervip.eu:80/ceyhun/02112018/8901
+#EXTINF:-1,Discovery Channel
+http://viptk.servervip.eu:80/ceyhun/02112018/8900
+#EXTINF:-1,Discovery HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8992
+#EXTINF:-1,Discovery Historia
+http://viptk.servervip.eu:80/ceyhun/02112018/8970
+#EXTINF:-1,Discovery Life HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8899
+#EXTINF:-1,DISCOVERY SCIENCE
+http://viptk.servervip.eu:80/ceyhun/02112018/8969
+#EXTINF:-1,DISNEY
+http://viptk.servervip.eu:80/ceyhun/02112018/9025
+#EXTINF:-1,Disney Channel
+http://viptk.servervip.eu:80/ceyhun/02112018/8968
+#EXTINF:-1,DISNEY J
+http://viptk.servervip.eu:80/ceyhun/02112018/8991
+#EXTINF:-1,Disney Junior
+http://viptk.servervip.eu:80/ceyhun/02112018/8898
+#EXTINF:-1,Domo  HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8990
+#EXTINF:-1,E! Entertainment
+http://viptk.servervip.eu:80/ceyhun/02112018/8897
+#EXTINF:-1,Eleven Extra HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9024
+#EXTINF:-1,ELEVEN HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9023
+#EXTINF:-1,Eleven HD ( 1080P )
+http://viptk.servervip.eu:80/ceyhun/02112018/9022
+#EXTINF:-1,Eleven Sports 2 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/8896
+#EXTINF:-1,Eleven Sports 3 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/8895
+#EXTINF:-1,Eleven Sports 4 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8894
+#EXTINF:-1,ELEVEN SPORTS HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9021
+#EXTINF:-1,Eleven Sports HD ( 1080P )
+http://viptk.servervip.eu:80/ceyhun/02112018/9020
+#EXTINF:-1,ESKA TV Extra
+http://viptk.servervip.eu:80/ceyhun/02112018/8893
+#EXTINF:-1,Eurosport 1 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9019
+#EXTINF:-1,EUROSPORT 1HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8967
+#EXTINF:-1,Eurosport 2
+http://viptk.servervip.eu:80/ceyhun/02112018/8989
+#EXTINF:-1,Extreme Sports 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8966
+#EXTINF:-1,Extreme Sports HD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/8988
+#EXTINF:-1,Fightbox HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9018
+#EXTINF:-1,Filmbox
+http://viptk.servervip.eu:80/ceyhun/02112018/9034
+#EXTINF:-1,Filmbox Action
+http://viptk.servervip.eu:80/ceyhun/02112018/8965
+#EXTINF:-1,FILMBOX EXTRA
+http://viptk.servervip.eu:80/ceyhun/02112018/9017
+#EXTINF:-1,Filmbox Family
+http://viptk.servervip.eu:80/ceyhun/02112018/9035
+#EXTINF:-1,Filmbox Premium
+http://viptk.servervip.eu:80/ceyhun/02112018/9036
+#EXTINF:-1,FOKUS TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8892
+#EXTINF:-1,FOX COMEDY
+http://viptk.servervip.eu:80/ceyhun/02112018/9016
+#EXTINF:-1,FOX HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8891
+#EXTINF:-1,HBO 2 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9014
+#EXTINF:-1,HBO 2 HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8964
+#EXTINF:-1,HBO 3 HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8963
+#EXTINF:-1,HBO HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9015
+#EXTINF:-1,HBO HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8962
+#EXTINF:-1,HGTV HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8939
+#EXTINF:-1,HIP HOP TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8890
+#EXTINF:-1,History
+http://viptk.servervip.eu:80/ceyhun/02112018/8987
+#EXTINF:-1,History HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8961
+#EXTINF:-1,KINO POLSKA
+http://viptk.servervip.eu:80/ceyhun/02112018/8889
+#EXTINF:-1,Kino Polska Muzyka
+http://viptk.servervip.eu:80/ceyhun/02112018/8888
+#EXTINF:-1,Kino Tv
+http://viptk.servervip.eu:80/ceyhun/02112018/8887
+#EXTINF:-1,Kuchnia  HD HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8960
+#EXTINF:-1,Lifetime HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8886
+#EXTINF:-1,Metro
+http://viptk.servervip.eu:80/ceyhun/02112018/8885
+#EXTINF:-1,MiniMini  HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8884
+#EXTINF:-1,MTV Dance HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8883
+#EXTINF:-1,MTV Polska HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8882
+#EXTINF:-1,Nat Geo HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8959
+#EXTINF:-1,Nat Geo People HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8881
+#EXTINF:-1,NAT GEO WILD
+http://viptk.servervip.eu:80/ceyhun/02112018/9013
+#EXTINF:-1,Nat Geographic
+http://viptk.servervip.eu:80/ceyhun/02112018/8986
+#EXTINF:-1,Nick Jr
+http://viptk.servervip.eu:80/ceyhun/02112018/8938
+#EXTINF:-1,NOWA TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8880
+#EXTINF:-1,Paramount Channel HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8879
+#EXTINF:-1,Planete  HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8878
+#EXTINF:-1,PLAY HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9012
+#EXTINF:-1,Polo TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8877
+#EXTINF:-1,Polsat
+http://viptk.servervip.eu:80/ceyhun/02112018/9037
+#EXTINF:-1,POLSAT 2
+http://viptk.servervip.eu:80/ceyhun/02112018/9011
+#EXTINF:-1,Polsat 2 HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8958
+#EXTINF:-1,Polsat Cafe
+http://viptk.servervip.eu:80/ceyhun/02112018/9038
+#EXTINF:-1,Polsat Cafe HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8957
+#EXTINF:-1,Polsat Doku FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/8876
+#EXTINF:-1,POLSAT FILM
+http://viptk.servervip.eu:80/ceyhun/02112018/9010
+#EXTINF:-1,Polsat Film HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8956
+#EXTINF:-1,Polsat HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8955
+#EXTINF:-1,Polsat Jim Jam
+http://viptk.servervip.eu:80/ceyhun/02112018/8954
+#EXTINF:-1,Polsat Music FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/8875
+#EXTINF:-1,Polsat News
+http://viptk.servervip.eu:80/ceyhun/02112018/8985
+#EXTINF:-1,POLSAT PLAY
+http://viptk.servervip.eu:80/ceyhun/02112018/9009
+#EXTINF:-1,Polsat Play HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8953
+#EXTINF:-1,POLSAT ROMANS HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8874
+#EXTINF:-1,Polsat Sport Extra
+http://viptk.servervip.eu:80/ceyhun/02112018/9007
+#EXTINF:-1,Polsat Sport Extra HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9039
+#EXTINF:-1,Polsat Sport Fight HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8873
+#EXTINF:-1,Polsat Sport News HD 1080
+http://viptk.servervip.eu:80/ceyhun/02112018/8952
+#EXTINF:-1,POLSAT SPORTS
+http://viptk.servervip.eu:80/ceyhun/02112018/9008
+#EXTINF:-1,Polsat Viasat Explore HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8872
+#EXTINF:-1,Polsat Viasat History HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8871
+#EXTINF:-1,Polsat Viasat Nature
+http://viptk.servervip.eu:80/ceyhun/02112018/8870
+#EXTINF:-1,Power TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8869
+#EXTINF:-1,Puls 2
+http://viptk.servervip.eu:80/ceyhun/02112018/8868
+#EXTINF:-1,SciFi Universal
+http://viptk.servervip.eu:80/ceyhun/02112018/8935
+#EXTINF:-1,Sport Klub Polska
+http://viptk.servervip.eu:80/ceyhun/02112018/8940
+#EXTINF:-1,Stars TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8934
+#EXTINF:-1,Stopklatka TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8933
+#EXTINF:-1,Super Polsat
+http://viptk.servervip.eu:80/ceyhun/02112018/8932
+#EXTINF:-1,TeleToon  HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8931
+#EXTINF:-1,TLC HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8951
+#EXTINF:-1,TNT HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8930
+#EXTINF:-1,TV Puls
+http://viptk.servervip.eu:80/ceyhun/02112018/8929
+#EXTINF:-1,TV Republika
+http://viptk.servervip.eu:80/ceyhun/02112018/8928
+#EXTINF:-1,TV Trwam
+http://viptk.servervip.eu:80/ceyhun/02112018/8927
+#EXTINF:-1,TV4 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9006
+#EXTINF:-1,TVN 24
+http://viptk.servervip.eu:80/ceyhun/02112018/9005
+#EXTINF:-1,TVN 7
+http://viptk.servervip.eu:80/ceyhun/02112018/8937
+#EXTINF:-1,TVN 7 FHD
+http://viptk.servervip.eu:80/ceyhun/02112018/8936
+#EXTINF:-1,Tvn Fabula HD
+http://viptk.servervip.eu:80/ceyhun/02112018/8984
+#EXTINF:-1,TVN Fabula HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8950
+#EXTINF:-1,TVN HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8949
+#EXTINF:-1,Tvn Style
+http://viptk.servervip.eu:80/ceyhun/02112018/8983
+#EXTINF:-1,TVN Style HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8948
+#EXTINF:-1,TVN Turbo
+http://viptk.servervip.eu:80/ceyhun/02112018/9040
+#EXTINF:-1,TVP 1 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9004
+#EXTINF:-1,TVP 1 HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8947
+#EXTINF:-1,TVP 2 HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9003
+#EXTINF:-1,TVP 2 HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8946
+#EXTINF:-1,TVP ABC
+http://viptk.servervip.eu:80/ceyhun/02112018/8926
+#EXTINF:-1,TVP HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9002
+#EXTINF:-1,TVP Historia
+http://viptk.servervip.eu:80/ceyhun/02112018/8925
+#EXTINF:-1,TVP INFO
+http://viptk.servervip.eu:80/ceyhun/02112018/8945
+#EXTINF:-1,TVP KULTURA
+http://viptk.servervip.eu:80/ceyhun/02112018/8944
+#EXTINF:-1,TVP Polonia
+http://viptk.servervip.eu:80/ceyhun/02112018/8924
+#EXTINF:-1,TVP Rozrywka
+http://viptk.servervip.eu:80/ceyhun/02112018/8923
+#EXTINF:-1,TVP SERIALE
+http://viptk.servervip.eu:80/ceyhun/02112018/8943
+#EXTINF:-1,TVP SPORT HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9001
+#EXTINF:-1,TVP Sport HD 1080P
+http://viptk.servervip.eu:80/ceyhun/02112018/8942
+#EXTINF:-1,TVP3
+http://viptk.servervip.eu:80/ceyhun/02112018/8941
+#EXTINF:-1,TVS
+http://viptk.servervip.eu:80/ceyhun/02112018/8922
+#EXTINF:-1,UNIVERSAL HD
+http://viptk.servervip.eu:80/ceyhun/02112018/9000
+#EXTINF:-1,VH1
+http://viptk.servervip.eu:80/ceyhun/02112018/8921
+#EXTINF:-1,VIVA POLSKA
+http://viptk.servervip.eu:80/ceyhun/02112018/8999
+#EXTINF:-1,Wellbeing
+http://viptk.servervip.eu:80/ceyhun/02112018/8920
+#EXTINF:-1,WP
+http://viptk.servervip.eu:80/ceyhun/02112018/8919
+#EXTINF:-1,Zoom TV
+http://viptk.servervip.eu:80/ceyhun/02112018/8918
