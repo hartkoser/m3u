@@ -1,207 +1,211 @@
 #EXTM3U
-#EXTINF:0,24 KITCHEN HD
-http://4ever.biz:80/20192/20192/24984
+#EXTINF:0,RTP 1 HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23261
+#EXTINF:0,RTP 1
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23260
+#EXTINF:0,RTP2 HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23259
+#EXTINF:0,RTP 2
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23258
+#EXTINF:0,RTP 3
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23257
+#EXTINF:0,RTP MEMORIA
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23256
+#EXTINF:0,RTP AFRICA
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23255
+#EXTINF:0,TCV
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23254
+#EXTINF:0,RTP ACORES
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23253
+#EXTINF:0,SIC RADICAL
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23252
+#EXTINF:0,SIC MULHER
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23251
+#EXTINF:0,SIC CARAS
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23250
+#EXTINF:0,SIC NOTICIAS
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23249
+#EXTINF:0,SIC HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23248
+#EXTINF:0,SIC
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23247
+#EXTINF:0,TVI HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23246
+#EXTINF:0,TVI
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23245
+#EXTINF:0,TVI FICCAO
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23244
+#EXTINF:0,CANAL Q
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23243
+#EXTINF:0,GLOBO PREM
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23242
+#EXTINF:0,TV RECORD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23241
+#EXTINF:0,TVI24
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23240
+#EXTINF:0,CM TV
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23239
+#EXTINF:0,TV GLOBO
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23238
+#EXTINF:0,RECORD NEWS
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/1061
+#EXTINF:0,EURONEWS
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23237
+#EXTINF:0,PORTO CANAL
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23236
+#EXTINF:0,SPORT TV
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14108
+#EXTINF:0,SPORT TV1 HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14102
+#EXTINF:0,SPORT TV1
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14107
+#EXTINF:0,SPORT TV2 HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14101
+#EXTINF:0,SPORT TV2
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14106
+#EXTINF:0,SPORT TV3 HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14100
+#EXTINF:0,SPORT TV3
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14105
+#EXTINF:0,SPORT TV4 HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14099
+#EXTINF:0,SPORT TV4
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14104
+#EXTINF:0,SPORT TV5 HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14098
+#EXTINF:0,SPORT TV5
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14103
+#EXTINF:0,BENIFICA TV FHD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14092
+#EXTINF:0,BENIFICA TV
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14093
+#EXTINF:0,SPORTING TV
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14091
 #EXTINF:0,A BOLA TV
-http://4ever.biz:80/20192/20192/24983
-#EXTINF:0,AMC FHD
-http://4ever.biz:80/20192/20192/24980
-#EXTINF:0,AXN White HD
-http://4ever.biz:80/20192/20192/24976
-#EXTINF:0,BABY TV
-http://4ever.biz:80/20192/20192/24974
-#EXTINF:0,Benfica TV HD
-http://4ever.biz:80/20192/20192/24972
-#EXTINF:0,BIGGS
-http://4ever.biz:80/20192/20192/24969
-#EXTINF:0,BLOOMBERG
-http://4ever.biz:80/20192/20192/24967
-#EXTINF:0,BTV HD
-http://4ever.biz:80/20192/20192/24966
-#EXTINF:0,CACA E PESCA
-http://4ever.biz:80/20192/20192/24962
-#EXTINF:0,CANAL TOROS
-http://4ever.biz:80/20192/20192/24952
-#EXTINF:0,Canalo Nova
-http://4ever.biz:80/20192/20192/24951
-#EXTINF:0,CARTOON NETWORK
-http://4ever.biz:80/20192/20192/24948
-#EXTINF:0,Casa E Pesca
-http://4ever.biz:80/20192/20192/24945
-#EXTINF:0,CBS REALITY
-http://4ever.biz:80/20192/20192/24943
-#EXTINF:0,CBSN
-http://4ever.biz:80/20192/20192/24942
-#EXTINF:0,Chelsea TV HD
-http://4ever.biz:80/20192/20192/24941
-#EXTINF:0,Cine Mundo HD
-http://4ever.biz:80/20192/20192/24934
-#EXTINF:0,Crimen & Investigation
-http://4ever.biz:80/20192/20192/24930
-#EXTINF:0,Discovery Channel HD
-http://4ever.biz:80/20192/20192/24929
-#EXTINF:0,Discovery HD Showcase
-http://4ever.biz:80/20192/20192/24927
-#EXTINF:0,Disney Channel HD
-http://4ever.biz:80/20192/20192/24926
-#EXTINF:0,Disney JR
-http://4ever.biz:80/20192/20192/24925
-#EXTINF:0,E! Entertainment HD
-http://4ever.biz:80/20192/20192/24923
-#EXTINF:0,Eleven Sports 1 HD
-http://4ever.biz:80/20192/20192/24922
-#EXTINF:0,Eleven Sports 2 HD
-http://4ever.biz:80/20192/20192/24920
-#EXTINF:0,Eleven Sports 3 HD
-http://4ever.biz:80/20192/20192/24918
-#EXTINF:0,Eleven Sports 4 HD
-http://4ever.biz:80/20192/20192/24917
-#EXTINF:0,Eurosport 1 HD
-http://4ever.biz:80/20192/20192/24912
-#EXTINF:0,Eurosport 2 HD
-http://4ever.biz:80/20192/20192/24911
-#EXTINF:0,Eurosport News
-http://4ever.biz:80/20192/20192/24910
-#EXTINF:0,FASHION TV
-http://4ever.biz:80/20192/20192/24909
-#EXTINF:0,Fox Comedy HD
-http://4ever.biz:80/20192/20192/24906
-#EXTINF:0,FOX HD
-http://4ever.biz:80/20192/20192/24904
-#EXTINF:0,Fox Life HD
-http://4ever.biz:80/20192/20192/24903
-#EXTINF:0,Fox Movies HD
-http://4ever.biz:80/20192/20192/24902
-#EXTINF:0,Fuel TV HD
-http://4ever.biz:80/20192/20192/24901
-#EXTINF:0,GLOBO HD
-http://4ever.biz:80/20192/20192/24899
-#EXTINF:0,Globo Now HD
-http://4ever.biz:80/20192/20192/24898
-#EXTINF:0,Historia HD
-http://4ever.biz:80/20192/20192/24896
-#EXTINF:0,Hollywood HD
-http://4ever.biz:80/20192/20192/24894
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14087
+#EXTINF:0,PFC
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14086
+#EXTINF:0,KOMBATSPORT
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14090
+#EXTINF:0,EUROSPORT NEWS
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14096
+#EXTINF:0,EUROSPORT 1HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14097
+#EXTINF:0,EUROSPORT 1
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14095
+#EXTINF:0,EUROSPORT 2
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14094
+#EXTINF:0,FUEL TV
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23234
+#EXTINF:0,MOTORSPORT TV
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14089
+#EXTINF:0,MOTORVISION
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/14088
+#EXTINF:0,TOROS
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23233
 #EXTINF:0,JIM JAM
-http://4ever.biz:80/20192/20192/24893
-#EXTINF:0,Kombat Sports
-http://4ever.biz:80/20192/20192/24891
-#EXTINF:0,Localvisao
-http://4ever.biz:80/20192/20192/24889
-#EXTINF:0,MACAU TV
-http://4ever.biz:80/20192/20192/24888
-#EXTINF:0,Motorvision HD
-http://4ever.biz:80/20192/20192/24883
-#EXTINF:0,MOTOVISION
-http://4ever.biz:80/20192/20192/24882
-#EXTINF:0,My cuisine
-http://4ever.biz:80/20192/20192/24877
-#EXTINF:0,NAT GEO HD
-http://4ever.biz:80/20192/20192/24876
-#EXTINF:0,Nat Geo Wild HD
-http://4ever.biz:80/20192/20192/24875
-#EXTINF:0,NBA HD
-http://4ever.biz:80/20192/20192/24874
-#EXTINF:0,Niclelodeon HD
-http://4ever.biz:80/20192/20192/24872
-#EXTINF:0,PANDA BIGGS
-http://4ever.biz:80/20192/20192/24870
-#EXTINF:0,PANDA HD
-http://4ever.biz:80/20192/20192/24869
-#EXTINF:0,PFC HD
-http://4ever.biz:80/20192/20192/24868
-#EXTINF:0,PORTO
-http://4ever.biz:80/20192/20192/24866
-#EXTINF:0,Real Madrid TV
-http://4ever.biz:80/20192/20192/24861
-#EXTINF:0,RTP 1 FHD
-http://4ever.biz:80/20192/20192/24857
-#EXTINF:0,RTP 2 HD
-http://4ever.biz:80/20192/20192/24856
-#EXTINF:0,RTP 3 HD
-http://4ever.biz:80/20192/20192/24855
-#EXTINF:0,RTP Áores
-http://4ever.biz:80/20192/20192/24846
-#EXTINF:0,RTP ¡FRICA HD
-http://4ever.biz:80/20192/20192/24847
-#EXTINF:0,RTP International
-http://4ever.biz:80/20192/20192/24851
-#EXTINF:0,RTP Madeira
-http://4ever.biz:80/20192/20192/24850
-#EXTINF:0,SANTUARIO DE FATIMA HD
-http://4ever.biz:80/20192/20192/24845
-#EXTINF:0,Sic K HD
-http://4ever.biz:80/20192/20192/24842
-#EXTINF:0,SIC NOTICIAS HD
-http://4ever.biz:80/20192/20192/24839
-#EXTINF:0,SIC Radical HD
-http://4ever.biz:80/20192/20192/24838
-#EXTINF:0,SPORT TV 1 FHD
-http://4ever.biz:80/20192/20192/24836
-#EXTINF:0,SPORT TV 2 FHD
-http://4ever.biz:80/20192/20192/24835
-#EXTINF:0,SPORT TV 3 FHD
-http://4ever.biz:80/20192/20192/24834
-#EXTINF:0,SPORT TV HD
-http://4ever.biz:80/20192/20192/24831
-#EXTINF:0,SPORTING TV HD
-http://4ever.biz:80/20192/20192/24828
-#EXTINF:0,SportTV 4 FHD
-http://4ever.biz:80/20192/20192/24824
-#EXTINF:0,SportTV 5 FHD
-http://4ever.biz:80/20192/20192/24823
-#EXTINF:0,SyFy HD
-http://4ever.biz:80/20192/20192/24819
-#EXTINF:0,TLC EUROPE
-http://4ever.biz:80/20192/20192/24817
-#EXTINF:0,Travel Channel FHD
-http://4ever.biz:80/20192/20192/24810
-#EXTINF:0,TV Galicia
-http://4ever.biz:80/20192/20192/24809
-#EXTINF:0,TV GLOBO PREMIUM
-http://4ever.biz:80/20192/20192/24807
-#EXTINF:0,TV Kujawy
-http://4ever.biz:80/20192/20192/24806
-#EXTINF:0,TV RECORD HD
-http://4ever.biz:80/20192/20192/24804
-#EXTINF:0,TVC Series HD
-http://4ever.biz:80/20192/20192/24798
-#EXTINF:0,TVCine 1 FHD
-http://4ever.biz:80/20192/20192/24797
-#EXTINF:0,TVCine 2 FHD
-http://4ever.biz:80/20192/20192/24796
-#EXTINF:0,TVCine 3 FHD
-http://4ever.biz:80/20192/20192/24795
-#EXTINF:0,TVCine 4 FHD
-http://4ever.biz:80/20192/20192/24794
-#EXTINF:0,TVCINE HD
-http://4ever.biz:80/20192/20192/24793
-#EXTINF:0,TVI 24 HD
-http://4ever.biz:80/20192/20192/24790
-#EXTINF:0,TVI FHD
-http://4ever.biz:80/20192/20192/24788
-#EXTINF:0,TVI Ficcao HD
-http://4ever.biz:80/20192/20192/24787
-#EXTINF:0,TVI Reality HD
-http://4ever.biz:80/20192/20192/24784
-#EXTINF:0,A&E
-http://4ever.biz:80/20192/20192/2214
-#EXTINF:0,AXN
-http://4ever.biz:80/20192/20192/2692
-#EXTINF:0,AXN Black
-http://4ever.biz:80/20192/20192/2690
-#EXTINF:0,National Geographic
-http://4ever.biz:80/20192/20192/4712
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23231
+#EXTINF:0,BABY FIRST
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23230
+#EXTINF:0,BABY TV
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23229
+#EXTINF:0,CANAL PANDA
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23228
+#EXTINF:0,BIGGS
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23227
+#EXTINF:0,NICKELODEON
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23226
+#EXTINF:0,DISNEY JUNIOR
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23225
+#EXTINF:0,DISNEY CHANNEL
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23224
+#EXTINF:0,CARTOONNETWORK
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23223
+#EXTINF:0,SIC K
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23222
+#EXTINF:0,TVCINE1 HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23220
+#EXTINF:0,TVCINE1
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23219
+#EXTINF:0,TVCINE 2HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23218
+#EXTINF:0,TVCINE2
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23217
+#EXTINF:0,TVCINE  3HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23216
+#EXTINF:0,TVCINE3
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23215
+#EXTINF:0,TVCINE 4HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23214
+#EXTINF:0,TVCINE4
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23213
+#EXTINF:0,HOLLYWOOD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23212
+#EXTINF:0,NATGEO HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23211
+#EXTINF:0,FOX MOVIES
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23210
+#EXTINF:0,AMC
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23209
+#EXTINF:0,CINEMUNDO
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23208
+#EXTINF:0,|PT|*****CULTURE*****|PT|
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23207
 #EXTINF:0,ODISSEIA
-http://4ever.biz:80/20192/20192/4572
-#EXTINF:0,RTP Cores
-http://4ever.biz:80/20192/20192/2210
-#EXTINF:0,RTP Memoria
-http://4ever.biz:80/20192/20192/2208
-#EXTINF:0,Sic
-http://4ever.biz:80/20192/20192/4710
-#EXTINF:0,Sic Caras
-http://4ever.biz:80/20192/20192/4575
-#EXTINF:0,Sic Mulher
-http://4ever.biz:80/20192/20192/4576
-#EXTINF:0,ID HD
-http://4ever.biz:80/20192/20192/2686
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23206
+#EXTINF:0,NATGEO WILD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23205
+#EXTINF:0,DISCOVERY
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23204
+#EXTINF:0,DISCOVERY SHOWCASE FHD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23203
+#EXTINF:0,TRAVEL CHANNEL HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23202
+#EXTINF:0, HISTORIA
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23201
+#EXTINF:0,FOOD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23199
+#EXTINF:0,NATGEO
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23198
+#EXTINF:0,CASAVISION
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23197
+#EXTINF:0,FOX HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23195
+#EXTINF:0,FOX CRIME FHD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23194
+#EXTINF:0,FOX CRIME
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23193
+#EXTINF:0,FOX COMEDY
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23192
+#EXTINF:0,FOX LIFE HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23191
+#EXTINF:0,AXN WHITE HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23190
+#EXTINF:0,AXN HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23189
+#EXTINF:0,AXN BLACK FHD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23188
+#EXTINF:0,AXN BLACK
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23187
+#EXTINF:0,SYFY HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23186
+#EXTINF:0,SYFY
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23185
+#EXTINF:0,TLC
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23184
+#EXTINF:0,TVSERIE FHD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23183
+#EXTINF:0,TVSERIES
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23182
+#EXTINF:0,MCS LIFESTYLE
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23181
+#EXTINF:0,CBSREALITY
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23180
+#EXTINF:0,TVI REALITY
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23179
+#EXTINF:0,E!
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23178
+#EXTINF:0,A&E
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23177
+#EXTINF:0,24 KITCHEN HD
+http://iptvpro.premium-tv.media:8789/sourcepanel3/tK2KqmSBQO/23176
