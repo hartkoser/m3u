@@ -1,219 +1,218 @@
-#EXTM3U
 #EXTINF:-1,NPO 1 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23859
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23859.m3u8
 #EXTINF:-1,NPO 2 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23858
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23858.m3u8
 #EXTINF:-1,NPO 3 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23857
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23857.m3u8
 #EXTINF:-1,RTL 4
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23856
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23856.m3u8
 #EXTINF:-1,RTL 5 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23855
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23855.m3u8
 #EXTINF:-1,RTL 7 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23854
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23854.m3u8
 #EXTINF:-1,RTL 8 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23853
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23853.m3u8
 #EXTINF:-1,RTV Drenthe
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23852
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23852.m3u8
 #EXTINF:-1,RTL.Lounge
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23851
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23851.m3u8
 #EXTINF:-1,RTV.Rijnmond
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23850
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23850.m3u8
 #EXTINF:-1,RTL Z
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23849
-#EXTINF:-1,SBS 6HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23848
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23849.m3u8
+#EXTINF:-1,|NL|SBS 6HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23848.m3u8
 #EXTINF:-1,SBS 9HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23847
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23847.m3u8
 #EXTINF:-1,AT 5 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23846
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23846.m3u8
 #EXTINF:-1,|AR| CARTHAGE TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23845
-#EXTINF:-1,NET5 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23844
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23845.m3u8
+#EXTINF:-1, NET5 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23844.m3u8
 #EXTINF:-1,CANVAS HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33589
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33589.m3u8
 #EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33574
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33574.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33573
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33573.m3u8
 #EXTINF:-1,DISCOVERY WORLD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33572
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33572.m3u8
 #EXTINF:-1,een HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33588
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33588.m3u8
 #EXTINF:-1,HBO2
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23807
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23807.m3u8
 #EXTINF:-1,HBO3
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23806
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23806.m3u8
 #EXTINF:-1,KETOP12
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33587
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33587.m3u8
 #EXTINF:-1,L1MBURG
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33586
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33586.m3u8
 #EXTINF:-1,Mezzo
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33571
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33571.m3u8
 #EXTINF:-1,MOTOR SPORT
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33570
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33570.m3u8
 #EXTINF:-1,MTV HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33569
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33569.m3u8
 #EXTINF:-1,MTV Music 24
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33568
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33568.m3u8
 #EXTINF:-1,MTV Music24
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33585
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33585.m3u8
 #EXTINF:-1,NOORD Holland TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33567
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33567.m3u8
 #EXTINF:-1,NPO Nieuws
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33566
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33566.m3u8
 #EXTINF:-1,NPO Politiek
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33584
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33584.m3u8
 #EXTINF:-1,NPO Zapp Xtra NPO BEST
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33583
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33583.m3u8
 #EXTINF:-1,OMROEP Brabant
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33565
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33565.m3u8
 #EXTINF:-1,OMROEP Flevoland
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33564
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33564.m3u8
 #EXTINF:-1,OMROEP Frysland
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33563
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33563.m3u8
 #EXTINF:-1,OMROEP Zeeland
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33562
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33562.m3u8
 #EXTINF:-1,ONS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33582
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33582.m3u8
 #EXTINF:-1,Q2.HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33581
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33581.m3u8
 #EXTINF:-1,TRAVEL CHANNEL HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33561
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33561.m3u8
 #EXTINF:-1,TV Gelderland
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33560
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33560.m3u8
 #EXTINF:-1,TV Oost
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33559
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33559.m3u8
 #EXTINF:-1,TV ORANJE
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33580
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33580.m3u8
 #EXTINF:-1,VIER HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33579
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33579.m3u8
 #EXTINF:-1,VIJF
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33578
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33578.m3u8
 #EXTINF:-1,VITAYA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33577
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33577.m3u8
 #EXTINF:-1,VTM HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33576
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33576.m3u8
 #EXTINF:-1,ZES
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33575
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33575.m3u8
 #EXTINF:-1,N1
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23843
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23843.m3u8
 #EXTINF:-1,FOX SPORT1 EREDIVISIE HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23841
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23841.m3u8
 #EXTINF:-1,FOX SPORT 2HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23840
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23840.m3u8
 #EXTINF:-1,FOX SPORT 3 EREDIVISIE HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23839
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23839.m3u8
 #EXTINF:-1,FOX  SPORT 4HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23838
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23838.m3u8
 #EXTINF:-1,FOX SPORT 5 EREDIVISIE HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23837
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23837.m3u8
 #EXTINF:-1,FOX SPORTS 6HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23836
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23836.m3u8
 #EXTINF:-1,ELEVEN SPORT 1 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33593
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33593.m3u8
 #EXTINF:-1,ELEVEN SPORT 2 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33592
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33592.m3u8
 #EXTINF:-1,ELEVEN SPORT 3 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/33591
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/33591.m3u8
 #EXTINF:-1,Ziggo Sport Voetbal
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23835
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23835.m3u8
 #EXTINF:-1,Ziggo Sport Extra1
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23834
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23834.m3u8
 #EXTINF:-1,Ziggo Sport Extra 2
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23833
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23833.m3u8
 #EXTINF:-1,Ziggo Sport Racing
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23832
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23832.m3u8
 #EXTINF:-1,Ziggo Sport Select
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23831
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23831.m3u8
 #EXTINF:-1,Ziggo Sport Golf
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23830
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23830.m3u8
 #EXTINF:-1,Sport 1 SelectHD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23829
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23829.m3u8
 #EXTINF:-1,EUROSPORT
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23828
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23828.m3u8
 #EXTINF:-1,EUROSPORT 2HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23827
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23827.m3u8
 #EXTINF:-1,EDGE SPORT  HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23826
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23826.m3u8
 #EXTINF:-1,Sport1 Voetbal
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23825
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23825.m3u8
 #EXTINF:-1,NL| NAT GEO
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23823
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23823.m3u8
 #EXTINF:-1,Nat Geo Wild
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23822
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23822.m3u8
 #EXTINF:-1,Discover Channel HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23821
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23821.m3u8
 #EXTINF:-1,Crime&lnvestigation
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23820
-#EXTINF:-1,NPO CULTURA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23819
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23820.m3u8
+#EXTINF:-1, NPO CULTURA
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23819.m3u8
 #EXTINF:-1,DISCOVERY CHOWCASE
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23818
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23818.m3u8
 #EXTINF:-1,DiscoveryID
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23817
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23817.m3u8
 #EXTINF:-1,HISTORY
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23816
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23816.m3u8
 #EXTINF:-1,FILM 1 PREMIERE
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23814
-#EXTINF:-1,FILM 1 ACTION
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23813
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23814.m3u8
+#EXTINF:-1, FILM 1 ACTION
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23813.m3u8
 #EXTINF:-1,Film 1 Sundance
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23812
-#EXTINF:-1,FILM 1 FAMILY
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23811
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23812.m3u8
+#EXTINF:-1, FILM 1 FAMILY
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23811.m3u8
 #EXTINF:-1,HBO 1 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23810
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23810.m3u8
 #EXTINF:-1,HBO 3 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23809
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23809.m3u8
 #EXTINF:-1,FOX ND
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23805
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23805.m3u8
 #EXTINF:-1,Fox Life
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23804
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23804.m3u8
 #EXTINF:-1,Syfy
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23803
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23803.m3u8
 #EXTINF:-1,13th Street
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23802
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23802.m3u8
 #EXTINF:-1,E! entertainement HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23801
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23801.m3u8
 #EXTINF:-1,24 Kitchen HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23800
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23800.m3u8
 #EXTINF:-1,COMEDY CENTRAL
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23799
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23799.m3u8
 #EXTINF:-1,Comedy Central extra
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23798
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23798.m3u8
 #EXTINF:-1,Film1 Comedy and Kids
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23797
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23797.m3u8
 #EXTINF:-1,Ketnet HD KIDS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23795
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23795.m3u8
 #EXTINF:-1,Cartoon Network
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23794
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23794.m3u8
 #EXTINF:-1,Cartoon Network KIDS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23793
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23793.m3u8
 #EXTINF:-1,Disney Channel
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23792
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23792.m3u8
 #EXTINF:-1,Disney Channel KIDS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23791
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23791.m3u8
 #EXTINF:-1,Disney Junior
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23790
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23790.m3u8
 #EXTINF:-1,Disney Junior KIDS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23789
-#EXTINF:-1,Disney Channel
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23788
-#EXTINF:-1,Veronica Disney XD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23787
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23789.m3u8
+#EXTINF:-1, Disney Channel
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23788.m3u8
+#EXTINF:-1, Veronica Disney XD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23787.m3u8
 #EXTINF:-1,Nick Jr KIDS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23786
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23786.m3u8
 #EXTINF:-1,NICK TOONS KIDS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23785
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23785.m3u8
 #EXTINF:-1,Nickelodeon
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23784
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23784.m3u8
 #EXTINF:-1,Nickelodeon KIDS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23783
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23783.m3u8
 #EXTINF:-1,Nicktoons
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23782
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23782.m3u8
 #EXTINF:-1,JimJam KIDS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23781
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23781.m3u8
 #EXTINF:-1,Veronica Disney XD HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23780
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23780.m3u8

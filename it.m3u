@@ -1,99 +1,367 @@
 #EXTM3U
-#EXTINF:-1,Rai 1 SD
-http://ares.dominium.tv:6923/live/adrian/1234/22450.m3u8
-#EXTINF:-1,Rai 1 HD
-http://ares.dominium.tv:6923/live/adrian/1234/2399.m3u8
-#EXTINF:-1,Rai 2 SD
-http://ares.dominium.tv:6923/live/adrian/1234/22449.m3u8
-#EXTINF:-1,Rai 2 HD
-http://ares.dominium.tv:6923/live/adrian/1234/2400.m3u8
-#EXTINF:-1,Rai 3 SD
-http://ares.dominium.tv:6923/live/adrian/1234/22448.m3u8
-#EXTINF:-1,Rai 3 HD
-http://ares.dominium.tv:6923/live/adrian/1234/2401.m3u8
-#EXTINF:-1,Rete 4 SD
-http://ares.dominium.tv:6923/live/adrian/1234/22447.m3u8
-#EXTINF:-1,Rete 4 HD
-http://ares.dominium.tv:6923/live/adrian/1234/3813.m3u8
-#EXTINF:-1,Canale 5 SD
-http://ares.dominium.tv:6923/live/adrian/1234/22458.m3u8
-#EXTINF:-1,Canale 5 HD
-http://ares.dominium.tv:6923/live/adrian/1234/3811.m3u8
-#EXTINF:-1,Italia 1 SD
-http://ares.dominium.tv:6923/live/adrian/1234/22451.m3u8
-#EXTINF:-1,Italia 1 HD
-http://ares.dominium.tv:6923/live/adrian/1234/3812.m3u8
-#EXTINF:-1,La 7 HD Full HD
-http://ares.dominium.tv:6923/live/adrian/1234/27922.m3u8
-#EXTINF:-1,La 7 HD
-http://ares.dominium.tv:6923/live/adrian/1234/3814.m3u8
-#EXTINF:-1,TV 8
-http://ares.dominium.tv:6923/live/adrian/1234/2435.m3u8
-#EXTINF:-1,MTV Full-HD
-http://ares.dominium.tv:6923/live/adrian/1234/31741.m3u8
-#EXTINF:-1,MTV HD
-http://ares.dominium.tv:6923/live/adrian/1234/31740.m3u8
-#EXTINF:-1,Cine Sony
-http://ares.dominium.tv:6923/live/adrian/1234/29883.m3u8
-#EXTINF:-1,Nove Full HD
-http://ares.dominium.tv:6923/live/adrian/1234/27921.m3u8
-#EXTINF:-1,Nove HD
-http://ares.dominium.tv:6923/live/adrian/1234/27920.m3u8
-#EXTINF:-1,Grande Fratello Diretta +1
-http://ares.dominium.tv:6923/live/adrian/1234/34535.m3u8
-#EXTINF:-1,Grande Fratello Diretta 1
-http://ares.dominium.tv:6923/live/adrian/1234/34537.m3u8
-#EXTINF:-1,Grande Fratello Diretta 2
-http://ares.dominium.tv:6923/live/adrian/1234/34536.m3u8
-#EXTINF:-1,Rsi La1 HD
-http://ares.dominium.tv:6923/live/adrian/1234/30199.m3u8
-#EXTINF:-1,Rsi La2 HD
-http://ares.dominium.tv:6923/live/adrian/1234/30200.m3u8
-#EXTINF:-1,La 7d HD
-http://ares.dominium.tv:6923/live/adrian/1234/27923.m3u8
-#EXTINF:-1,Iris
-http://ares.dominium.tv:6923/live/adrian/1234/2514.m3u8
-#EXTINF:-1,Giallo
-http://ares.dominium.tv:6923/live/adrian/1234/3223.m3u8
-#EXTINF:-1,TV 2000
-http://ares.dominium.tv:6923/live/adrian/1234/2515.m3u8
-#EXTINF:-1,Rai Premium
-http://ares.dominium.tv:6923/live/adrian/1234/2466.m3u8
-#EXTINF:-1,Rai Movie
-http://ares.dominium.tv:6923/live/adrian/1234/2464.m3u8
-#EXTINF:-1,Rai 4 Full HD
-http://ares.dominium.tv:6923/live/adrian/1234/29884.m3u8
-#EXTINF:-1,Rai 4
-http://ares.dominium.tv:6923/live/adrian/1234/2407.m3u8
-#EXTINF:-1,Rai 5 Full HD
-http://ares.dominium.tv:6923/live/adrian/1234/29885.m3u8
-#EXTINF:-1,Rai 5
-http://ares.dominium.tv:6923/live/adrian/1234/2408.m3u8
-#EXTINF:-1,Mediaset Extra
-http://ares.dominium.tv:6923/live/adrian/1234/2434.m3u8
-#EXTINF:-1,Canale 20 Mediaset
-http://ares.dominium.tv:6923/live/adrian/1234/30374.m3u8
-#EXTINF:-1,La 5
-http://ares.dominium.tv:6923/live/adrian/1234/2516.m3u8
-#EXTINF:-1,Food Network
-http://ares.dominium.tv:6923/live/adrian/1234/41013.m3u8
-#EXTINF:-1,Wine TV
-http://ares.dominium.tv:6923/live/adrian/1234/30202.m3u8
-#EXTINF:-1,Top Crime
-http://ares.dominium.tv:6923/live/adrian/1234/2489.m3u8
-#EXTINF:-1,Italia 2
-http://ares.dominium.tv:6923/live/adrian/1234/2429.m3u8
-#EXTINF:-1,Espansione TV
-http://ares.dominium.tv:6923/live/adrian/1234/21070.m3u8
-#EXTINF:-1,TV Padre Pio
-http://ares.dominium.tv:6923/live/adrian/1234/30201.m3u8
-#EXTINF:-1,Sport Italia
-http://ares.dominium.tv:6923/live/adrian/1234/7156.m3u8
-#EXTINF:-1,Rai Sport 1 HD
-http://ares.dominium.tv:6923/live/adrian/1234/13609.m3u8
-#EXTINF:-1,TOP Calcio 24 HD
-http://ares.dominium.tv:6923/live/adrian/1234/30206.m3u8
-#EXTINF:-1,MotorTrend
-http://ares.dominium.tv:6923/live/adrian/1234/31807.m3u8
-#EXTINF:-1,Zelig TV
-http://ares.dominium.tv:6923/live/adrian/1234/39753.m3u8
+#EXTINF:-1,RAI 1 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23655.m3u8
+#EXTINF:-1,RAI 2 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23654.m3u8
+#EXTINF:-1,RAI 3 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23653.m3u8
+#EXTINF:-1,RAI 4
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23652.m3u8
+#EXTINF:-1,RAI 5
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23651.m3u8
+#EXTINF:-1,RAI MOVIE HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23650.m3u8
+#EXTINF:-1,RAI SPORT
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23649.m3u8
+#EXTINF:-1,RAI PREMIUM
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23648.m3u8
+#EXTINF:-1,RAI NEWS  24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23647.m3u8
+#EXTINF:-1,RAI NEWS 24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23646.m3u8
+#EXTINF:-1,RAI GULP
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23645.m3u8
+#EXTINF:-1,RAI YOYO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23644.m3u8
+#EXTINF:-1,RADIO MONTECARLO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23643.m3u8
+#EXTINF:-1,RADIO 105
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23642.m3u8
+#EXTINF:-1,ITALIA 1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23640.m3u8
+#EXTINF:-1,RETE 4 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23639.m3u8
+#EXTINF:-1,CANALE 5 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23638.m3u8
+#EXTINF:-1,CANALE 5
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23637.m3u8
+#EXTINF:-1,DONNA TV
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23636.m3u8
+#EXTINF:-1,LA 5
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23635.m3u8
+#EXTINF:-1,LA 7 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23634.m3u8
+#EXTINF:-1,LA7d
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23633.m3u8
+#EXTINF:-1,MEDIASET ITALA 2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23632.m3u8
+#EXTINF:-1,MEDIASET EXTRA
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23631.m3u8
+#EXTINF:-1,TV8
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23630.m3u8
+#EXTINF:-1,RSI LA 1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23629.m3u8
+#EXTINF:-1,RSI LA 2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23628.m3u8
+#EXTINF:-1,TGCOM
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23626.m3u8
+#EXTINF:-1,SKY CINEMA UNO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23624.m3u8
+#EXTINF:-1,SKY CINEMA UNO   1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23623.m3u8
+#EXTINF:-1,SKY CINEMA 24 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23622.m3u8
+#EXTINF:-1,SKY CINEMA HITS HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23621.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23620.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY   1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23619.m3u8
+#EXTINF:-1,SKY CINEMA PASSION HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23617.m3u8
+#EXTINF:-1,|IT|SKY-CINEMA-PASSION.HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23618.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23616.m3u8
+#EXTINF:-1,SKY CINEMA MAX HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23615.m3u8
+#EXTINF:-1,SKY CINEMA MAX   1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23614.m3u8
+#EXTINF:-1,SKY CINEMA CULT HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23613.m3u8
+#EXTINF:-1,SKY CINEMA CLASSIC HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23612.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23611.m3u8
+#EXTINF:-1,IRIS
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23610.m3u8
+#EXTINF:-1,SKY CINEMA 3D
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23609.m3u8
+#EXTINF:-1,SKY UNO HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23607.m3u8
+#EXTINF:-1,SKY UNO  1 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23606.m3u8
+#EXTINF:-1,SKY ATLANTIC HD.
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23605.m3u8
+#EXTINF:-1,SKY ATLANTIC 1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23604.m3u8
+#EXTINF:-1,SKY ARTE HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23603.m3u8
+#EXTINF:-1,FOX HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23602.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23601.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23600.m3u8
+#EXTINF:-1,FOX ANIMATION HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23598.m3u8
+#EXTINF:-1,COMEDY CENTRAL HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23597.m3u8
+#EXTINF:-1,BLAZE HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23596.m3u8
+#EXTINF:-1,GIALLO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23595.m3u8
+#EXTINF:-1,NOVE HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23594.m3u8
+#EXTINF:-1,REAL TIME
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23593.m3u8
+#EXTINF:-1,TOPCRIME
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23592.m3u8
+#EXTINF:-1,LEI HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23591.m3u8
+#EXTINF:-1,SPIKE
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23590.m3u8
+#EXTINF:-1,SKY SPORT 24 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23588.m3u8
+#EXTINF:-1,SKY SPORT UNO HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23587.m3u8
+#EXTINF:-1,SKY SPORT 2 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23586.m3u8
+#EXTINF:-1,SKY SPORT FOOTBALL  HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23585.m3u8
+#EXTINF:-1,SKY SPORT ARENA FHD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23584.m3u8
+#EXTINF:-1,SKY SPORT MIX HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23583.m3u8
+#EXTINF:-1,SKY SUPERCALCIO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23582.m3u8
+#EXTINF:-1,SKY SPORT F1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23580.m3u8
+#EXTINF:-1,SKY MOTO GP
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23579.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23578.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23577.m3u8
+#EXTINF:-1,SPORT ITALIA
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23576.m3u8
+#EXTINF:-1,FIGHT CHANNEL
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23575.m3u8
+#EXTINF:-1,SUPER TENNIS HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23574.m3u8
+#EXTINF:-1,AUTOMOTO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23573.m3u8
+#EXTINF:-1,BIKE CHANNEL HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23572.m3u8
+#EXTINF:-1,MILAN CHANNEL HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23571.m3u8
+#EXTINF:-1,JUVENTUS TV
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23570.m3u8
+#EXTINF:-1,INTER CHANNEL
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23569.m3u8
+#EXTINF:-1,ROMA TV
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23568.m3u8
+#EXTINF:-1,LAZIO CHANNEL HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23567.m3u8
+#EXTINF:-1,TOP CALCIO 24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23566.m3u8
+#EXTINF:-1,SKY CALCIO 1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23564.m3u8
+#EXTINF:-1,SKY CALCIO 2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23563.m3u8
+#EXTINF:-1,SKY CALCIO 3
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23562.m3u8
+#EXTINF:-1,SKY CALCIO 4
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23561.m3u8
+#EXTINF:-1,SKY CALCIO 5
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23560.m3u8
+#EXTINF:-1,SKY CALCIO 6
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23559.m3u8
+#EXTINF:-1,SKY CALCIO 7
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23558.m3u8
+#EXTINF:-1,SKY CALCIO 8
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23557.m3u8
+#EXTINF:-1,SKY CALCIO 9
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23556.m3u8
+#EXTINF:-1,SKY CALCIO 10
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23555.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23553.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23552.m3u8
+#EXTINF:-1,CRIME&INVESTIGATION HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23551.m3u8
+#EXTINF:-1,DISCOVERY TRAVEL & LIVING HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23550.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23549.m3u8
+#EXTINF:-1,NAT GEO PEOPLE
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23548.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23547.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23546.m3u8
+#EXTINF:-1,GAMBERO ROSSO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23545.m3u8
+#EXTINF:-1,DOVE TV HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23544.m3u8
+#EXTINF:-1,FOCUS
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23543.m3u8
+#EXTINF:-1,DMAX
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23542.m3u8
+#EXTINF:-1,CIELO HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23541.m3u8
+#EXTINF:-1,MARCO POLO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23540.m3u8
+#EXTINF:-1,ALICE
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23539.m3u8
+#EXTINF:-1,CLASSICA HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23538.m3u8
+#EXTINF:-1,RAI STORIA
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23537.m3u8
+#EXTINF:-1,CACCIA HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23536.m3u8
+#EXTINF:-1,PESCA HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23535.m3u8
+#EXTINF:-1,PESCARE E CACCIARE
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23534.m3u8
+#EXTINF:-1,ITALIAN FISHING
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23533.m3u8
+#EXTINF:-1,HISTORY HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23532.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23530.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23529.m3u8
+#EXTINF:-1,DISNEY XD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23528.m3u8
+#EXTINF:-1,NICK JR
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23527.m3u8
+#EXTINF:-1,CARTOONITO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23526.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23525.m3u8
+#EXTINF:-1,DEA JUNIOR
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23524.m3u8
+#EXTINF:-1,DEA KIDS
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23523.m3u8
+#EXTINF:-1,BOOMERANG
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23522.m3u8
+#EXTINF:-1,NICKELODEON
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23521.m3u8
+#EXTINF:-1,K2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23520.m3u8
+#EXTINF:-1,BOING
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23519.m3u8
+#EXTINF:-1, SUPER
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23518.m3u8
+#EXTINF:-1,MANGA
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23517.m3u8
+#EXTINF:-1,FRISBEE
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23516.m3u8
+#EXTINF:-1,POP
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23515.m3u8
+#EXTINF:-1,PRIMAFILA 1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23513.m3u8
+#EXTINF:-1,PRIMAFILA 2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23512.m3u8
+#EXTINF:-1,PRIMAFILA 3
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23511.m3u8
+#EXTINF:-1,PRIMAFILA 4
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23510.m3u8
+#EXTINF:-1,PRIMAFILA 5
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23509.m3u8
+#EXTINF:-1,PRIMAFILA 6
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23508.m3u8
+#EXTINF:-1,PRIMAFILA 7
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23507.m3u8
+#EXTINF:-1,PRIMAFILA 8
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23506.m3u8
+#EXTINF:-1,PRIMAFILA 9
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23505.m3u8
+#EXTINF:-1,PRIMAFILA 10
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23504.m3u8
+#EXTINF:-1,PRIMAFILA 11
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23503.m3u8
+#EXTINF:-1,PRIMAFILA 12
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23502.m3u8
+#EXTINF:-1,PRIMAFILA 13
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23501.m3u8
+#EXTINF:-1,PRIMAFILA 14
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23500.m3u8
+#EXTINF:-1,PRIMAFILA 15
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23499.m3u8
+#EXTINF:-1,PRIMAFILA 16
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23498.m3u8
+#EXTINF:-1,PRIMAFILA 17
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23497.m3u8
+#EXTINF:-1,PRIMAFILA 18
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23496.m3u8
+#EXTINF:-1,PRIMAFILA 19
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23495.m3u8
+#EXTINF:-1,PRIMAFILA 20
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23494.m3u8
+#EXTINF:-1,PREMIUM CINEMA HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23492.m3u8
+#EXTINF:-1,PREMIUM CINEMA2 24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23489.m3u8
+#EXTINF:-1,PREMIUM CINEMA 24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23491.m3u8
+#EXTINF:-1,PREMIUM CINEMA ACTION
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23488.m3u8
+#EXTINF:-1,PREMIUM CINEMA ACTION 24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23487.m3u8
+#EXTINF:-1,PREMIUM ENERGY
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23486.m3u8
+#EXTINF:-1,PREMIUM ENERGY 24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23485.m3u8
+#EXTINF:-1,PREMIUM EMOTION
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23484.m3u8
+#EXTINF:-1,PREMIUM COMEDY
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23483.m3u8
+#EXTINF:-1,PREMIUM CRIME
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23482.m3u8
+#EXTINF:-1,PREMIUM CRIME 24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23481.m3u8
+#EXTINF:-1,PREMIUM STUDIO UNIVERSAL
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23480.m3u8
+#EXTINF:-1, PREMIUM CINEMA EMOTION
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23479.m3u8
+#EXTINF:-1,PREMIUM STORIES
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23478.m3u8
+#EXTINF:-1,PREMIUM JOI
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23477.m3u8
+#EXTINF:-1,PREMIUM JOI 24
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23476.m3u8
+#EXTINF:-1,PREMIUM STUDIO UNIVERSAL
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23475.m3u8
+#EXTINF:-1,PREMIUM DISCOVERY INVESTIGATION
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23474.m3u8
+#EXTINF:-1,PREMIUM CARTOON NETWORK
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23473.m3u8
+#EXTINF:-1,PREMIUM DISNEY JUNIOR
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23472.m3u8
+#EXTINF:-1,PREMIUM SPORT HD
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23471.m3u8
+#EXTINF:-1,PREMIUM SPORT 2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23470.m3u8
+#EXTINF:-1,FOX SPORT
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23581.m3u8
+#EXTINF:-1,IT|PREMIUM EUROSPORT 1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23468.m3u8
+#EXTINF:-1,PREMIUM_EUROSPORT-2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23467.m3u8
+#EXTINF:-1,PREMIUM CALCIO 1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23466.m3u8
+#EXTINF:-1,PREMIUM CALCIO 2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23465.m3u8
+#EXTINF:-1,PREMIUM CALCIO 3
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23464.m3u8
+#EXTINF:-1,PREMIUM CALCIO 4
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23463.m3u8
+#EXTINF:-1,PREMIUM CALCIO 5
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23462.m3u8
+#EXTINF:-1,PREMIUM CALCIO 6
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23461.m3u8
+#EXTINF:-1,PREMIUM CALCIO 7
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23460.m3u8
