@@ -1,37 +1,47 @@
 #EXTM3U
-#EXTINF:0,Combate HD
-http://4ever.biz:80/20192/20192/10517
-#EXTINF:0,AXN
-http://4ever.biz:80/20192/20192/7559
-#EXTINF:0,Discovery ID
-http://4ever.biz:80/20192/20192/7574
-#EXTINF:0,Fish TV
-http://4ever.biz:80/20192/20192/7570
-#EXTINF:0,Fox Life
-http://4ever.biz:80/20192/20192/7504
-#EXTINF:0,Fox Sport 2
-http://4ever.biz:80/20192/20192/7572
-#EXTINF:0,Fox Sports 1
-http://4ever.biz:80/20192/20192/7571
-#EXTINF:0,Fx
-http://4ever.biz:80/20192/20192/7534
-#EXTINF:0,Globo News
-http://4ever.biz:80/20192/20192/7552
-#EXTINF:0,HBO Plus
-http://4ever.biz:80/20192/20192/7548
-#EXTINF:0,Max Up
-http://4ever.biz:80/20192/20192/7544
-#EXTINF:0,NatGeo
-http://4ever.biz:80/20192/20192/7566
-#EXTINF:0,Nick_Brasil
-http://4ever.biz:80/20192/20192/7501
-#EXTINF:0,TeleCine Fun
-http://4ever.biz:80/20192/20192/7538
-#EXTINF:0,TLC
-http://4ever.biz:80/20192/20192/7532
-#EXTINF:0,Tooncast
-http://4ever.biz:80/20192/20192/7560
-#EXTINF:0,TVN BRASIL DF
-http://4ever.biz:80/20192/20192/7332
-#EXTINF:0,BeinHD: HG Tv
-http://4ever.biz:80/20192/20192/23452
+#EXTINF:-1,TV GLOBO
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24902.m3u8
+#EXTINF:-1,TV BRASIL
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24903.m3u8
+#EXTINF:-1,SBT
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24911.m3u8
+#EXTINF:-1,BAND CAMPINAS
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24923.m3u8
+#EXTINF:-1,REDE TV !
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24925.m3u8
+#EXTINF:-1,SPACE
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24910.m3u8
+#EXTINF:-1,TNT
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24906.m3u8
+#EXTINF:-1,MULTISHOW
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24913.m3u8
+#EXTINF:-1,MEGAPIX
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24914.m3u8
+#EXTINF:-1,LIFETIME
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24915.m3u8
+#EXTINF:-1,TRU TV
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24904.m3u8
+#EXTINF:-1,SPORTV1
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24909.m3u8
+#EXTINF:-1,SPORTV2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24908.m3u8
+#EXTINF:-1,SPORTV3
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24907.m3u8
+#EXTINF:-1,FOX SPORT
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24917.m3u8
+#EXTINF:-1,FOX SPORT2
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24916.m3u8
+#EXTINF:-1,COMBATE
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24920.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24918.m3u8
+#EXTINF:-1,DISCOVERY KIDS
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24919.m3u8
+#EXTINF:-1,TOONCAST
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24905.m3u8
+#EXTINF:-1,BAND NEWS
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24922.m3u8
+#EXTINF:-1,BIS
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24921.m3u8
+#EXTINF:-1,OFF
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24912.m3u8
