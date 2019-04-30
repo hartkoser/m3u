@@ -1,83 +1,117 @@
 #EXTM3U
-#EXTINF:0,ALE Kino
-http://4ever.biz:80/20192/20192/9490
-#EXTINF:0,Canal Family HD
-http://4ever.biz:80/20192/20192/9499
-#EXTINF:0,Canal Film HD
-http://4ever.biz:80/20192/20192/9500
-#EXTINF:0,Canal HD
-http://4ever.biz:80/20192/20192/9497
-#EXTINF:0,Canal Seriale HD
-http://4ever.biz:80/20192/20192/9501
-#EXTINF:0,Canal Sport HD
-http://4ever.biz:80/20192/20192/9502
-#EXTINF:0,Filmbox Extra
-http://4ever.biz:80/20192/20192/9453
-#EXTINF:0,Cinemax 2
-http://4ever.biz:80/20192/20192/9507
-#EXTINF:0,Eleven Sport 1
-http://4ever.biz:80/20192/20192/9496
-#EXTINF:0,Eleven Sport 2
-http://4ever.biz:80/20192/20192/9495
-#EXTINF:0,Eleven Sport 3
-http://4ever.biz:80/20192/20192/9494
-#EXTINF:0,Eleven Sport 4
-http://4ever.biz:80/20192/20192/9471
-#EXTINF:0,EuroSport 1
-http://4ever.biz:80/20192/20192/9504
-#EXTINF:0,EuroSport 2
-http://4ever.biz:80/20192/20192/9505
-#EXTINF:0,HBO 2
-http://4ever.biz:80/20192/20192/9492
-#EXTINF:0,HBO 3
-http://4ever.biz:80/20192/20192/9493
-#EXTINF:0,National Geographic
-http://4ever.biz:80/20192/20192/9456
-#EXTINF:0,KINO POLSKA
-http://4ever.biz:80/20192/20192/9457
-#EXTINF:0,n-Sport
-http://4ever.biz:80/20192/20192/9476
-#EXTINF:0,Nick JR
-http://4ever.biz:80/20192/20192/9508
-#EXTINF:0,Nickelodeon
-http://4ever.biz:80/20192/20192/9509
-#EXTINF:0,Polsat
-http://4ever.biz:80/20192/20192/2887
-#EXTINF:0,Polsat 2
-http://4ever.biz:80/20192/20192/9479
-#EXTINF:0,Polsat Cafe
-http://4ever.biz:80/20192/20192/9460
-#EXTINF:0,Polsat Film
-http://4ever.biz:80/20192/20192/9480
-#EXTINF:0,Polsat News
-http://4ever.biz:80/20192/20192/9461
-#EXTINF:0,TVP Kultura
-http://4ever.biz:80/20192/20192/9464
-#EXTINF:0,TV PULS
-http://4ever.biz:80/20192/20192/9483
-#EXTINF:0,TVN 24
-http://4ever.biz:80/20192/20192/9467
-#EXTINF:0,TVN HD
-http://4ever.biz:80/20192/20192/9484
-#EXTINF:0,TVN Style
-http://4ever.biz:80/20192/20192/9465
-#EXTINF:0,TVP Seriale
-http://4ever.biz:80/20192/20192/9466
-#EXTINF:0,TVP 1 HD
-http://4ever.biz:80/20192/20192/9478
-#EXTINF:0,TVP 2 HD
-http://4ever.biz:80/20192/20192/9482
-#EXTINF:0,TVP 3 HD
-http://4ever.biz:80/20192/20192/9481
-#EXTINF:0,TVP SPORT
-http://4ever.biz:80/20192/20192/9468
-#EXTINF:0,TVP Historia
-http://4ever.biz:80/20192/20192/9469
-#EXTINF:0,FilmBox Family
-http://4ever.biz:80/20192/20192/25090
-#EXTINF:0,FilmBox Premium
-http://4ever.biz:80/20192/20192/25091
-#EXTINF:0,Nicktoons
-http://4ever.biz:80/20192/20192/25088
-#EXTINF:0,Kino TV
-http://4ever.biz:80/20192/20192/23511
+#EXTINF:-1,13ULICE
+http://thenew.tv:8000/live/Anthony1/Anthony1/57348.m3u8
+#EXTINF:-1,ALE KINO
+http://thenew.tv:8000/live/Anthony1/Anthony1/57337.m3u8
+#EXTINF:-1,ALIE KINO
+http://thenew.tv:8000/live/Anthony1/Anthony1/57334.m3u8
+#EXTINF:-1,AXN
+http://thenew.tv:8000/live/Anthony1/Anthony1/57333.m3u8
+#EXTINF:-1,BBC
+http://thenew.tv:8000/live/Anthony1/Anthony1/57330.m3u8
+#EXTINF:-1,BBC EARTH
+http://thenew.tv:8000/live/Anthony1/Anthony1/57340.m3u8
+#EXTINF:-1,CANAL
+http://thenew.tv:8000/live/Anthony1/Anthony1/57338.m3u8
+#EXTINF:-1,Canal  HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57327.m3u8
+#EXTINF:-1,Canal  Sport
+http://thenew.tv:8000/live/Anthony1/Anthony1/57325.m3u8
+#EXTINF:-1,CANAL  SPORT 2  HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57324.m3u8
+#EXTINF:-1,CANAL DISCOVERY
+http://thenew.tv:8000/live/Anthony1/Anthony1/57343.m3u8
+#EXTINF:-1,Canal Discovery HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57322.m3u8
+#EXTINF:-1,CANAL FAMILI
+http://thenew.tv:8000/live/Anthony1/Anthony1/57336.m3u8
+#EXTINF:-1,CANAL FAMILY HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57321.m3u8
+#EXTINF:-1,CANAL FILM HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57320.m3u8
+#EXTINF:-1,CANAL SERIALE
+http://thenew.tv:8000/live/Anthony1/Anthony1/57332.m3u8
+#EXTINF:-1,CANAL SPORT
+http://thenew.tv:8000/live/Anthony1/Anthony1/57328.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57317.m3u8
+#EXTINF:-1,CBS REALITY
+http://thenew.tv:8000/live/Anthony1/Anthony1/57319.m3u8
+#EXTINF:-1,CINEMAX
+http://thenew.tv:8000/live/Anthony1/Anthony1/57315.m3u8
+#EXTINF:-1,CINEMAX 2
+http://thenew.tv:8000/live/Anthony1/Anthony1/57314.m3u8
+#EXTINF:-1,ELEVEN SPORT 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57312.m3u8
+#EXTINF:-1,ELEVEN SPORT 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57310.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://thenew.tv:8000/live/Anthony1/Anthony1/57309.m3u8
+#EXTINF:-1,Extreme Sports
+http://thenew.tv:8000/live/Anthony1/Anthony1/57308.m3u8
+#EXTINF:-1,FILMBOX ACTION
+http://thenew.tv:8000/live/Anthony1/Anthony1/57307.m3u8
+#EXTINF:-1,FILMBOX FAMILI
+http://thenew.tv:8000/live/Anthony1/Anthony1/57318.m3u8
+#EXTINF:-1,FILMBOX FAMILY
+http://thenew.tv:8000/live/Anthony1/Anthony1/57306.m3u8
+#EXTINF:-1,FILMBOX PREIMUIM
+http://thenew.tv:8000/live/Anthony1/Anthony1/57326.m3u8
+#EXTINF:-1,FILMBOX PREMIER
+http://thenew.tv:8000/live/Anthony1/Anthony1/57305.m3u8
+#EXTINF:-1,HBO
+http://thenew.tv:8000/live/Anthony1/Anthony1/57323.m3u8
+#EXTINF:-1,Hbo 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57304.m3u8
+#EXTINF:-1,Hbo 3 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57303.m3u8
+#EXTINF:-1,HBO3
+http://thenew.tv:8000/live/Anthony1/Anthony1/57311.m3u8
+#EXTINF:-1,KINO POLSKA
+http://thenew.tv:8000/live/Anthony1/Anthony1/57302.m3u8
+#EXTINF:-1,NATINAL GEOGRAPHIC
+http://thenew.tv:8000/live/Anthony1/Anthony1/57301.m3u8
+#EXTINF:-1,NATIONALGEO
+http://thenew.tv:8000/live/Anthony1/Anthony1/57335.m3u8
+#EXTINF:-1,NICLEODEON
+http://thenew.tv:8000/live/Anthony1/Anthony1/57300.m3u8
+#EXTINF:-1,NSPORT
+http://thenew.tv:8000/live/Anthony1/Anthony1/57299.m3u8
+#EXTINF:-1,NSport Plus
+http://thenew.tv:8000/live/Anthony1/Anthony1/57298.m3u8
+#EXTINF:-1,POLSAT 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57297.m3u8
+#EXTINF:-1,POLSAT CAFE
+http://thenew.tv:8000/live/Anthony1/Anthony1/57339.m3u8
+#EXTINF:-1,POLSAT FILM HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57316.m3u8
+#EXTINF:-1,POLSAT NEWS
+http://thenew.tv:8000/live/Anthony1/Anthony1/57331.m3u8
+#EXTINF:-1,POLSAT NEWS 2
+http://thenew.tv:8000/live/Anthony1/Anthony1/57296.m3u8
+#EXTINF:-1,POLSAT PLAY HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57295.m3u8
+#EXTINF:-1,POLSAT SPORT EXTRA HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57294.m3u8
+#EXTINF:-1,POLSAT SPORTS NEWS
+http://thenew.tv:8000/live/Anthony1/Anthony1/57341.m3u8
+#EXTINF:-1,POLSAT2
+http://thenew.tv:8000/live/Anthony1/Anthony1/57313.m3u8
+#EXTINF:-1,POLSATSPORTEXTRA
+http://thenew.tv:8000/live/Anthony1/Anthony1/57342.m3u8
+#EXTINF:-1,TVN TURBO
+http://thenew.tv:8000/live/Anthony1/Anthony1/57346.m3u8
+#EXTINF:-1,TVP 1
+http://thenew.tv:8000/live/Anthony1/Anthony1/57293.m3u8
+#EXTINF:-1,TVP HISTORIA
+http://thenew.tv:8000/live/Anthony1/Anthony1/57347.m3u8
+#EXTINF:-1,TVP SPORT
+http://thenew.tv:8000/live/Anthony1/Anthony1/57292.m3u8
+#EXTINF:-1,TVP SPORT HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/57329.m3u8
+#EXTINF:-1,TVP3
+http://thenew.tv:8000/live/Anthony1/Anthony1/57291.m3u8
+#EXTINF:-1,TVPSERIAL
+http://thenew.tv:8000/live/Anthony1/Anthony1/57345.m3u8
+#EXTINF:-1,TVPSTYLE
+http://thenew.tv:8000/live/Anthony1/Anthony1/57344.m3u8

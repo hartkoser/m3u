@@ -1,213 +1,221 @@
 #EXTM3U
 #EXTINF:-1,RTP 1 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23261
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23261.m3u8
 #EXTINF:-1,RTP 1
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23260
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23260.m3u8
 #EXTINF:-1,RTP2 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23259
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23259.m3u8
 #EXTINF:-1,RTP 2
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23258
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23258.m3u8
 #EXTINF:-1,RTP 3
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23257
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23257.m3u8
 #EXTINF:-1,RTP MEMORIA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23256
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23256.m3u8
 #EXTINF:-1,RTP AFRICA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23255
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23255.m3u8
 #EXTINF:-1,TCV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23254
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23254.m3u8
 #EXTINF:-1,RTP ACORES
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23253
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23253.m3u8
 #EXTINF:-1,SIC RADICAL
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23252
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23252.m3u8
 #EXTINF:-1,SIC MULHER
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23251
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23251.m3u8
 #EXTINF:-1,SIC CARAS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23250
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23250.m3u8
 #EXTINF:-1,SIC NOTICIAS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23249
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23249.m3u8
 #EXTINF:-1,SIC HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23248
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23248.m3u8
 #EXTINF:-1,SIC
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23247
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23247.m3u8
 #EXTINF:-1,TVI HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23246
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23246.m3u8
 #EXTINF:-1,TVI
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23245
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23245.m3u8
 #EXTINF:-1,TVI FICCAO
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23244
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23244.m3u8
 #EXTINF:-1,CANAL Q
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23243
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23243.m3u8
 #EXTINF:-1,GLOBO PREM
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23242
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23242.m3u8
 #EXTINF:-1,TV RECORD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23241
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23241.m3u8
 #EXTINF:-1,TVI24
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23240
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23240.m3u8
 #EXTINF:-1,CM TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23239
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23239.m3u8
 #EXTINF:-1,TV GLOBO
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23238
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23238.m3u8
 #EXTINF:-1,RECORD NEWS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/1061
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1061.m3u8
 #EXTINF:-1,EURONEWS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23237
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23237.m3u8
 #EXTINF:-1,PORTO CANAL
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23236
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23236.m3u8
+#EXTINF:-1,|PT|*****SPORT*****|PT|
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23235.m3u8
 #EXTINF:-1,SPORT TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14108
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14108.m3u8
 #EXTINF:-1,SPORT TV1 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14102
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14102.m3u8
 #EXTINF:-1,SPORT TV1
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14107
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14107.m3u8
 #EXTINF:-1,SPORT TV2 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14101
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14101.m3u8
 #EXTINF:-1,SPORT TV2
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14106
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14106.m3u8
 #EXTINF:-1,SPORT TV3 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14100
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14100.m3u8
 #EXTINF:-1,SPORT TV3
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14105
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14105.m3u8
 #EXTINF:-1,SPORT TV4 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14099
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14099.m3u8
 #EXTINF:-1,SPORT TV4
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14104
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14104.m3u8
 #EXTINF:-1,SPORT TV5 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14098
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14098.m3u8
 #EXTINF:-1,SPORT TV5
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14103
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14103.m3u8
 #EXTINF:-1,BENIFICA TV FHD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14092
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14092.m3u8
 #EXTINF:-1,BENIFICA TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14093
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14093.m3u8
 #EXTINF:-1,SPORTING TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14091
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14091.m3u8
 #EXTINF:-1,A BOLA TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14087
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14087.m3u8
 #EXTINF:-1,PFC
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14086
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14086.m3u8
 #EXTINF:-1,KOMBATSPORT
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14090
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14090.m3u8
 #EXTINF:-1,EUROSPORT NEWS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14096
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14096.m3u8
 #EXTINF:-1,EUROSPORT 1HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14097
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14097.m3u8
 #EXTINF:-1,EUROSPORT 1
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14095
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14095.m3u8
 #EXTINF:-1,EUROSPORT 2
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14094
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14094.m3u8
 #EXTINF:-1,FUEL TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23234
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23234.m3u8
 #EXTINF:-1,MOTORSPORT TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14089
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14089.m3u8
 #EXTINF:-1,MOTORVISION
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/14088
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14088.m3u8
 #EXTINF:-1,TOROS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23233
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23233.m3u8
 #EXTINF:-1,|PT|*****ENFANTS*****|PT|
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23232
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23232.m3u8
 #EXTINF:-1,JIM JAM
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23231
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23231.m3u8
 #EXTINF:-1,BABY FIRST
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23230
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23230.m3u8
 #EXTINF:-1,BABY TV
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23229
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23229.m3u8
 #EXTINF:-1,CANAL PANDA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23228
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23228.m3u8
 #EXTINF:-1,BIGGS
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23227
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23227.m3u8
 #EXTINF:-1,NICKELODEON
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23226
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23226.m3u8
 #EXTINF:-1,DISNEY JUNIOR
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23225
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23225.m3u8
 #EXTINF:-1,DISNEY CHANNEL
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23224
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23224.m3u8
 #EXTINF:-1,CARTOONNETWORK
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23223
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23223.m3u8
 #EXTINF:-1,SIC K
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23222
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23222.m3u8
+#EXTINF:-1,|PT|*****CINEMA*****|PT|
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23221.m3u8
 #EXTINF:-1,TVCINE1 HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23220
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23220.m3u8
 #EXTINF:-1,TVCINE1
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23219
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23219.m3u8
 #EXTINF:-1,TVCINE 2HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23218
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23218.m3u8
 #EXTINF:-1,TVCINE2
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23217
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23217.m3u8
 #EXTINF:-1,TVCINE  3HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23216
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23216.m3u8
 #EXTINF:-1,TVCINE3
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23215
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23215.m3u8
 #EXTINF:-1,TVCINE 4HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23214
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23214.m3u8
 #EXTINF:-1,TVCINE4
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23213
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23213.m3u8
 #EXTINF:-1,HOLLYWOOD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23212
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23212.m3u8
 #EXTINF:-1,NATGEO HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23211
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23211.m3u8
 #EXTINF:-1,FOX MOVIES
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23210
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23210.m3u8
 #EXTINF:-1,AMC
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23209
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23209.m3u8
 #EXTINF:-1,CINEMUNDO
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23208
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23208.m3u8
+#EXTINF:-1,|PT|*****CULTURE*****|PT|
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23207.m3u8
 #EXTINF:-1,ODISSEIA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23206
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23206.m3u8
 #EXTINF:-1,NATGEO WILD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23205
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23205.m3u8
 #EXTINF:-1,DISCOVERY
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23204
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23204.m3u8
 #EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23203
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23203.m3u8
 #EXTINF:-1,TRAVEL CHANNEL HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23202
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23202.m3u8
 #EXTINF:-1, HISTORIA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23201
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23201.m3u8
 #EXTINF:-1,CAÃ‡A E PESCA
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23200
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23200.m3u8
 #EXTINF:-1,FOOD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23199
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23199.m3u8
 #EXTINF:-1,NATGEO
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23198
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23198.m3u8
 #EXTINF:-1,CASAVISION
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23197
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23197.m3u8
+#EXTINF:-1,|PT|*****SERIES*****|PT|
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23196.m3u8
 #EXTINF:-1,FOX HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23195
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23195.m3u8
 #EXTINF:-1,FOX CRIME FHD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23194
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23194.m3u8
 #EXTINF:-1,FOX CRIME
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23193
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23193.m3u8
 #EXTINF:-1,FOX COMEDY
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23192
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23192.m3u8
 #EXTINF:-1,FOX LIFE HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23191
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23191.m3u8
 #EXTINF:-1,AXN WHITE HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23190
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23190.m3u8
 #EXTINF:-1,AXN HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23189
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23189.m3u8
 #EXTINF:-1,AXN BLACK FHD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23188
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23188.m3u8
 #EXTINF:-1,AXN BLACK
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23187
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23187.m3u8
 #EXTINF:-1,SYFY HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23186
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23186.m3u8
 #EXTINF:-1,SYFY
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23185
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23185.m3u8
 #EXTINF:-1,TLC
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23184
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23184.m3u8
 #EXTINF:-1,TVSERIE FHD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23183
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23183.m3u8
 #EXTINF:-1,TVSERIES
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23182
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23182.m3u8
 #EXTINF:-1,MCS LIFESTYLE
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23181
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23181.m3u8
 #EXTINF:-1,CBSREALITY
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23180
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23180.m3u8
 #EXTINF:-1,TVI REALITY
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23179
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23179.m3u8
 #EXTINF:-1,E!
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23178
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23178.m3u8
 #EXTINF:-1,A&E
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23177
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23177.m3u8
 #EXTINF:-1,24 KITCHEN HD
-http://185.23.213.162:8789/sourcepanel3/tK2KqmSBQO/23176
+http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23176.m3u8
