@@ -1,283 +1,207 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/6825
-#EXTINF:-1,RTP 1
-http://iptv.mecccam.com:8010/luisete/luisete/806
-#EXTINF:-1,RTP 2 HD
-http://iptv.mecccam.com:8010/luisete/luisete/6824
-#EXTINF:-1,RTP 2
-http://iptv.mecccam.com:8010/luisete/luisete/805
-#EXTINF:-1,SIC HD
-http://iptv.mecccam.com:8010/luisete/luisete/800
-#EXTINF:-1,SIC
-http://iptv.mecccam.com:8010/luisete/luisete/6823
-#EXTINF:-1,TVI HD
-http://iptv.mecccam.com:8010/luisete/luisete/6822
-#EXTINF:-1,TVI
-http://iptv.mecccam.com:8010/luisete/luisete/1427
-#EXTINF:-1,GLOBO PREMIUM
-http://iptv.mecccam.com:8010/luisete/luisete/2763
-#EXTINF:-1,TV GLOBO
-http://iptv.mecccam.com:8010/luisete/luisete/3034
-#EXTINF:-1,TV RECORD
-http://iptv.mecccam.com:8010/luisete/luisete/1439
-#EXTINF:-1,TVI Ficção
-http://iptv.mecccam.com:8010/luisete/luisete/3444
-#EXTINF:-1,TVI REALITY
-http://iptv.mecccam.com:8010/luisete/luisete/1457
-#EXTINF:-1,RTP AÇORES
-http://iptv.mecccam.com:8010/luisete/luisete/1434
-#EXTINF:-1,RTP ÁFRICA
-http://iptv.mecccam.com:8010/luisete/luisete/1433
-#EXTINF:-1,RTP MADEIRA
-http://iptv.mecccam.com:8010/luisete/luisete/1116
-#EXTINF:-1,FINE LIVING NETWORK FHD
-http://iptv.mecccam.com:8010/luisete/luisete/7070
-#EXTINF:-1,RTP MEMÓRIA
-http://iptv.mecccam.com:8010/luisete/luisete/1435
-#EXTINF:-1,SIC CARAS
-http://iptv.mecccam.com:8010/luisete/luisete/2881
-#EXTINF:-1,SIC MULHER
-http://iptv.mecccam.com:8010/luisete/luisete/1430
-#EXTINF:-1,SIC RADICAL
-http://iptv.mecccam.com:8010/luisete/luisete/1127
-#EXTINF:-1,SIC NOTICIAS
-http://iptv.mecccam.com:8010/luisete/luisete/1126
-#EXTINF:-1,RTP 3
-http://iptv.mecccam.com:8010/luisete/luisete/1108
-#EXTINF:-1,TVI 24
-http://iptv.mecccam.com:8010/luisete/luisete/1428
-#EXTINF:-1,BENFICA TV 1
-http://iptv.mecccam.com:8010/luisete/luisete/1111
-#EXTINF:-1,BENFICA TV 1  FHD
-http://iptv.mecccam.com:8010/luisete/luisete/3247
-#EXTINF:-1,SPORT TV+
-http://iptv.mecccam.com:8010/luisete/luisete/1449
-#EXTINF:-1,SPORT TV 1
-http://iptv.mecccam.com:8010/luisete/luisete/3237
-#EXTINF:-1,SPORT TV 1 FHD
-http://iptv.mecccam.com:8010/luisete/luisete/3698
-#EXTINF:-1,SPORT TV 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/799
-#EXTINF:-1,SPORT TV 2
-http://iptv.mecccam.com:8010/luisete/luisete/3236
-#EXTINF:-1,SPORT TV 2 FHD
-http://iptv.mecccam.com:8010/luisete/luisete/3700
-#EXTINF:-1,SPORT TV 2 HD
-http://iptv.mecccam.com:8010/luisete/luisete/798
-#EXTINF:-1,SPORT TV 3
-http://iptv.mecccam.com:8010/luisete/luisete/3235
-#EXTINF:-1,SPORT TV 3 HD
-http://iptv.mecccam.com:8010/luisete/luisete/797
-#EXTINF:-1,SPORT TV 4
-http://iptv.mecccam.com:8010/luisete/luisete/3234
-#EXTINF:-1,SPORT TV 4 HD
-http://iptv.mecccam.com:8010/luisete/luisete/796
-#EXTINF:-1,SPORT TV 5
-http://iptv.mecccam.com:8010/luisete/luisete/3233
-#EXTINF:-1,SPORT TV 5 HD
-http://iptv.mecccam.com:8010/luisete/luisete/1658
-#EXTINF:-1,Sporting TV
-http://iptv.mecccam.com:8010/luisete/luisete/793
-#EXTINF:-1,Eleven Sports 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5604
-#EXTINF:-1,Eleven Sports 2 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5603
-#EXTINF:-1,Eleven Sports 3 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5602
-#EXTINF:-1,Eleven Sports 4 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5601
-#EXTINF:-1,Eleven Sports 5 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5600
-#EXTINF:-1,Eleven Sports 3 SD
-http://iptv.mecccam.com:8010/luisete/luisete/7741
-#EXTINF:-1,Eleven Sports 4 SD
-http://iptv.mecccam.com:8010/luisete/luisete/7740
-#EXTINF:-1,Eleven Sports 5 SD
-http://iptv.mecccam.com:8010/luisete/luisete/7739
-#EXTINF:-1,Eleven Sports 6 SD
-http://iptv.mecccam.com:8010/luisete/luisete/7738
-#EXTINF:-1,Eleven Sports 6 HD
-http://iptv.mecccam.com:8010/luisete/luisete/5599
-#EXTINF:-1,A BOLA TV
-http://iptv.mecccam.com:8010/luisete/luisete/1446
-#EXTINF:-1,EUROSPORT 1
-http://iptv.mecccam.com:8010/luisete/luisete/1115
-#EXTINF:-1,EUROSPORT 2
-http://iptv.mecccam.com:8010/luisete/luisete/2762
-#EXTINF:-1,PFC
-http://iptv.mecccam.com:8010/luisete/luisete/1448
-#EXTINF:-1,PORTO CANAL
-http://iptv.mecccam.com:8010/luisete/luisete/1121
-#EXTINF:-1,TV series HD
-http://iptv.mecccam.com:8010/luisete/luisete/1451
-#EXTINF:-1,TVCine 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/785
-#EXTINF:-1,TVCine 2 HD
-http://iptv.mecccam.com:8010/luisete/luisete/784
-#EXTINF:-1,TVCine 3 HD
-http://iptv.mecccam.com:8010/luisete/luisete/790
-#EXTINF:-1,TVCine 4 HD
-http://iptv.mecccam.com:8010/luisete/luisete/789
-#EXTINF:-1,SYFY
-http://iptv.mecccam.com:8010/luisete/luisete/1128
-#EXTINF:-1,HOLLYWOOD
-http://iptv.mecccam.com:8010/luisete/luisete/1129
-#EXTINF:-1,FOX Life HD
-http://iptv.mecccam.com:8010/luisete/luisete/1118
-#EXTINF:-1,AXN HD
-http://iptv.mecccam.com:8010/luisete/luisete/1109
-#EXTINF:-1,Fox Comedy
-http://iptv.mecccam.com:8010/luisete/luisete/1454
-#EXTINF:-1,FOX Crime
-http://iptv.mecccam.com:8010/luisete/luisete/1117
-#EXTINF:-1,FOX Crime HD
-http://iptv.mecccam.com:8010/luisete/luisete/3691
-#EXTINF:-1,FOX TV HD
-http://iptv.mecccam.com:8010/luisete/luisete/1119
-#EXTINF:-1,FOX Movies
-http://iptv.mecccam.com:8010/luisete/luisete/818
-#EXTINF:-1,FOX MOVIES HD
-http://iptv.mecccam.com:8010/luisete/luisete/3847
-#EXTINF:-1,AXN Black HD
-http://iptv.mecccam.com:8010/luisete/luisete/1438
-#EXTINF:-1,AXN WHITE
-http://iptv.mecccam.com:8010/luisete/luisete/1110
-#EXTINF:-1,24 KITCHEN FHD
-http://iptv.mecccam.com:8010/luisete/luisete/1458
-#EXTINF:-1,CANAL HISTÓRIA
-http://iptv.mecccam.com:8010/luisete/luisete/1464
-#EXTINF:-1,CASA & PESCA
-http://iptv.mecccam.com:8010/luisete/luisete/1467
-#EXTINF:-1,DISCOVERY CHANNEL
-http://iptv.mecccam.com:8010/luisete/luisete/1460
-#EXTINF:-1,Discovery HD Showcase
-http://iptv.mecccam.com:8010/luisete/luisete/1461
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://iptv.mecccam.com:8010/luisete/luisete/1462
-#EXTINF:-1,ODISSEA
-http://iptv.mecccam.com:8010/luisete/luisete/1465
-#EXTINF:-1,Travel Channel HD
-http://iptv.mecccam.com:8010/luisete/luisete/2879
-#EXTINF:-1,BABY TV
-http://iptv.mecccam.com:8010/luisete/luisete/1445
-#EXTINF:-1,CANAL PANDA
-http://iptv.mecccam.com:8010/luisete/luisete/1444
-#EXTINF:-1,DISNEY CHANNEL
-http://iptv.mecccam.com:8010/luisete/luisete/1441
-#EXTINF:-1,DISNEY JUNIOR
-http://iptv.mecccam.com:8010/luisete/luisete/1442
-#EXTINF:-1,Jim Jam
-http://iptv.mecccam.com:8010/luisete/luisete/2829
-#EXTINF:-1,NICKELODEON
-http://iptv.mecccam.com:8010/luisete/luisete/1443
-#EXTINF:-1,Sic kids
-http://iptv.mecccam.com:8010/luisete/luisete/3701
-#EXTINF:-1,AFRO MUSIC
-http://iptv.mecccam.com:8010/luisete/luisete/2759
-#EXTINF:-1,MTV Base
-http://iptv.mecccam.com:8010/luisete/luisete/2825
-#EXTINF:-1,MTV PORTUGAL
-http://iptv.mecccam.com:8010/luisete/luisete/2757
-#EXTINF:-1,VH1
-http://iptv.mecccam.com:8010/luisete/luisete/1470
-#EXTINF:-1,VH1 Classic
-http://iptv.mecccam.com:8010/luisete/luisete/2816
-#EXTINF:-1,A&E
-http://iptv.mecccam.com:8010/luisete/luisete/1459
-#EXTINF:-1,AMC HD
-http://iptv.mecccam.com:8010/luisete/luisete/1453
-#EXTINF:-1,CANAL Q
-http://iptv.mecccam.com:8010/luisete/luisete/1440
-#EXTINF:-1,CBS REALITY
-http://iptv.mecccam.com:8010/luisete/luisete/2884
-#EXTINF:-1,CINEMUNDO
-http://iptv.mecccam.com:8010/luisete/luisete/1452
-#EXTINF:-1,CM TV
-http://iptv.mecccam.com:8010/luisete/luisete/1429
-#EXTINF:-1,E! Entertainment
-http://iptv.mecccam.com:8010/luisete/luisete/1456
-#EXTINF:-1,FUEL TV
-http://iptv.mecccam.com:8010/luisete/luisete/2882
-#EXTINF:-1,Kombat Sport
-http://iptv.mecccam.com:8010/luisete/luisete/2819
-#EXTINF:-1,MCM Pop
-http://iptv.mecccam.com:8010/luisete/luisete/3323
-#EXTINF:-1,Motorvision
-http://iptv.mecccam.com:8010/luisete/luisete/2826
-#EXTINF:-1,TLC
-http://iptv.mecccam.com:8010/luisete/luisete/1455
-#EXTINF:-1,NBA TV
-http://iptv.mecccam.com:8010/luisete/luisete/7720
-#EXTINF:-1,Sport TV NBA
-http://iptv.mecccam.com:8010/luisete/luisete/7717
-#EXTINF:-1,TVCine 1
-http://iptv.mecccam.com:8010/luisete/luisete/7714
-#EXTINF:-1,TVCine 2
-http://iptv.mecccam.com:8010/luisete/luisete/7713
-#EXTINF:-1,TVCine 3
-http://iptv.mecccam.com:8010/luisete/luisete/7712
-#EXTINF:-1,TVCine 4
-http://iptv.mecccam.com:8010/luisete/luisete/7711
-#EXTINF:-1,TOUROS TV
-http://iptv.mecccam.com:8010/luisete/luisete/1468
-#EXTINF:-1,BR:  CENTRAL TV
-http://iptv.mecccam.com:8010/luisete/luisete/7807
-#EXTINF:-1,CMTV
-http://iptv.mecccam.com:8010/luisete/luisete/8456
-#EXTINF:-1,AMC
-http://iptv.mecccam.com:8010/luisete/luisete/6834
-#EXTINF:-1,BBC Entertainment
-http://iptv.mecccam.com:8010/luisete/luisete/6837
-#EXTINF:-1,BBC World News
-http://iptv.mecccam.com:8010/luisete/luisete/6838
-#EXTINF:-1,Biggs
-http://iptv.mecccam.com:8010/luisete/luisete/6839
-#EXTINF:-1,Blaze
-http://iptv.mecccam.com:8010/luisete/luisete/6840
-#EXTINF:-1,Bloomberg
-http://iptv.mecccam.com:8010/luisete/luisete/6841
-#EXTINF:-1,Calavision
-http://iptv.mecccam.com:8010/luisete/luisete/6842
-#EXTINF:-1,Canlao Nova
-http://iptv.mecccam.com:8010/luisete/luisete/6843
-#EXTINF:-1,Cartoon Network
-http://iptv.mecccam.com:8010/luisete/luisete/6844
-#EXTINF:-1,CNBC Europe
-http://iptv.mecccam.com:8010/luisete/luisete/6845
-#EXTINF:-1,CNN
-http://iptv.mecccam.com:8010/luisete/luisete/6846
-#EXTINF:-1,Eurochannel
-http://iptv.mecccam.com:8010/luisete/luisete/6847
-#EXTINF:-1,Eurosport 1 HD
-http://iptv.mecccam.com:8010/luisete/luisete/6848
-#EXTINF:-1,FOX News
-http://iptv.mecccam.com:8010/luisete/luisete/6849
-#EXTINF:-1,Globo
-http://iptv.mecccam.com:8010/luisete/luisete/6851
-#EXTINF:-1,Globo Now
-http://iptv.mecccam.com:8010/luisete/luisete/6852
-#EXTINF:-1,Histðria
-http://iptv.mecccam.com:8010/luisete/luisete/6853
-#EXTINF:-1,Hollywood HD
-http://iptv.mecccam.com:8010/luisete/luisete/6854
-#EXTINF:-1,Mezzo
-http://iptv.mecccam.com:8010/luisete/luisete/6856
-#EXTINF:-1,Nat Geo Wild
-http://iptv.mecccam.com:8010/luisete/luisete/6858
-#EXTINF:-1,National Geographic HD
-http://iptv.mecccam.com:8010/luisete/luisete/6859
-#EXTINF:-1,Nick Jr.
-http://iptv.mecccam.com:8010/luisete/luisete/6860
-#EXTINF:-1,Real Madrid TV
-http://iptv.mecccam.com:8010/luisete/luisete/6861
-#EXTINF:-1,TVSeries
-http://iptv.mecccam.com:8010/luisete/luisete/6862
-#EXTINF:-1,Eleven Sports 1 FHD
-http://iptv.mecccam.com:8010/luisete/luisete/6895
-#EXTINF:-1,Eleven Sports 1 SD
-http://iptv.mecccam.com:8010/luisete/luisete/6897
-#EXTINF:-1,Eleven Sports 2 FHD
-http://iptv.mecccam.com:8010/luisete/luisete/6892
-#EXTINF:-1,Eleven Sports 2 SD
-http://iptv.mecccam.com:8010/luisete/luisete/6894
+#EXTINF:0,24 KITCHEN HD
+http://4ever.biz:80/20192/20192/24984
+#EXTINF:0,A BOLA TV
+http://4ever.biz:80/20192/20192/24983
+#EXTINF:0,AMC FHD
+http://4ever.biz:80/20192/20192/24980
+#EXTINF:0,AXN White HD
+http://4ever.biz:80/20192/20192/24976
+#EXTINF:0,BABY TV
+http://4ever.biz:80/20192/20192/24974
+#EXTINF:0,Benfica TV HD
+http://4ever.biz:80/20192/20192/24972
+#EXTINF:0,BIGGS
+http://4ever.biz:80/20192/20192/24969
+#EXTINF:0,BLOOMBERG
+http://4ever.biz:80/20192/20192/24967
+#EXTINF:0,BTV HD
+http://4ever.biz:80/20192/20192/24966
+#EXTINF:0,CACA E PESCA
+http://4ever.biz:80/20192/20192/24962
+#EXTINF:0,CANAL TOROS
+http://4ever.biz:80/20192/20192/24952
+#EXTINF:0,Canalo Nova
+http://4ever.biz:80/20192/20192/24951
+#EXTINF:0,CARTOON NETWORK
+http://4ever.biz:80/20192/20192/24948
+#EXTINF:0,Casa E Pesca
+http://4ever.biz:80/20192/20192/24945
+#EXTINF:0,CBS REALITY
+http://4ever.biz:80/20192/20192/24943
+#EXTINF:0,CBSN
+http://4ever.biz:80/20192/20192/24942
+#EXTINF:0,Chelsea TV HD
+http://4ever.biz:80/20192/20192/24941
+#EXTINF:0,Cine Mundo HD
+http://4ever.biz:80/20192/20192/24934
+#EXTINF:0,Crimen & Investigation
+http://4ever.biz:80/20192/20192/24930
+#EXTINF:0,Discovery Channel HD
+http://4ever.biz:80/20192/20192/24929
+#EXTINF:0,Discovery HD Showcase
+http://4ever.biz:80/20192/20192/24927
+#EXTINF:0,Disney Channel HD
+http://4ever.biz:80/20192/20192/24926
+#EXTINF:0,Disney JR
+http://4ever.biz:80/20192/20192/24925
+#EXTINF:0,E! Entertainment HD
+http://4ever.biz:80/20192/20192/24923
+#EXTINF:0,Eleven Sports 1 HD
+http://4ever.biz:80/20192/20192/24922
+#EXTINF:0,Eleven Sports 2 HD
+http://4ever.biz:80/20192/20192/24920
+#EXTINF:0,Eleven Sports 3 HD
+http://4ever.biz:80/20192/20192/24918
+#EXTINF:0,Eleven Sports 4 HD
+http://4ever.biz:80/20192/20192/24917
+#EXTINF:0,Eurosport 1 HD
+http://4ever.biz:80/20192/20192/24912
+#EXTINF:0,Eurosport 2 HD
+http://4ever.biz:80/20192/20192/24911
+#EXTINF:0,Eurosport News
+http://4ever.biz:80/20192/20192/24910
+#EXTINF:0,FASHION TV
+http://4ever.biz:80/20192/20192/24909
+#EXTINF:0,Fox Comedy HD
+http://4ever.biz:80/20192/20192/24906
+#EXTINF:0,FOX HD
+http://4ever.biz:80/20192/20192/24904
+#EXTINF:0,Fox Life HD
+http://4ever.biz:80/20192/20192/24903
+#EXTINF:0,Fox Movies HD
+http://4ever.biz:80/20192/20192/24902
+#EXTINF:0,Fuel TV HD
+http://4ever.biz:80/20192/20192/24901
+#EXTINF:0,GLOBO HD
+http://4ever.biz:80/20192/20192/24899
+#EXTINF:0,Globo Now HD
+http://4ever.biz:80/20192/20192/24898
+#EXTINF:0,Historia HD
+http://4ever.biz:80/20192/20192/24896
+#EXTINF:0,Hollywood HD
+http://4ever.biz:80/20192/20192/24894
+#EXTINF:0,JIM JAM
+http://4ever.biz:80/20192/20192/24893
+#EXTINF:0,Kombat Sports
+http://4ever.biz:80/20192/20192/24891
+#EXTINF:0,Localvisao
+http://4ever.biz:80/20192/20192/24889
+#EXTINF:0,MACAU TV
+http://4ever.biz:80/20192/20192/24888
+#EXTINF:0,Motorvision HD
+http://4ever.biz:80/20192/20192/24883
+#EXTINF:0,MOTOVISION
+http://4ever.biz:80/20192/20192/24882
+#EXTINF:0,My cuisine
+http://4ever.biz:80/20192/20192/24877
+#EXTINF:0,NAT GEO HD
+http://4ever.biz:80/20192/20192/24876
+#EXTINF:0,Nat Geo Wild HD
+http://4ever.biz:80/20192/20192/24875
+#EXTINF:0,NBA HD
+http://4ever.biz:80/20192/20192/24874
+#EXTINF:0,Niclelodeon HD
+http://4ever.biz:80/20192/20192/24872
+#EXTINF:0,PANDA BIGGS
+http://4ever.biz:80/20192/20192/24870
+#EXTINF:0,PANDA HD
+http://4ever.biz:80/20192/20192/24869
+#EXTINF:0,PFC HD
+http://4ever.biz:80/20192/20192/24868
+#EXTINF:0,PORTO
+http://4ever.biz:80/20192/20192/24866
+#EXTINF:0,Real Madrid TV
+http://4ever.biz:80/20192/20192/24861
+#EXTINF:0,RTP 1 FHD
+http://4ever.biz:80/20192/20192/24857
+#EXTINF:0,RTP 2 HD
+http://4ever.biz:80/20192/20192/24856
+#EXTINF:0,RTP 3 HD
+http://4ever.biz:80/20192/20192/24855
+#EXTINF:0,RTP Áores
+http://4ever.biz:80/20192/20192/24846
+#EXTINF:0,RTP ¡FRICA HD
+http://4ever.biz:80/20192/20192/24847
+#EXTINF:0,RTP International
+http://4ever.biz:80/20192/20192/24851
+#EXTINF:0,RTP Madeira
+http://4ever.biz:80/20192/20192/24850
+#EXTINF:0,SANTUARIO DE FATIMA HD
+http://4ever.biz:80/20192/20192/24845
+#EXTINF:0,Sic K HD
+http://4ever.biz:80/20192/20192/24842
+#EXTINF:0,SIC NOTICIAS HD
+http://4ever.biz:80/20192/20192/24839
+#EXTINF:0,SIC Radical HD
+http://4ever.biz:80/20192/20192/24838
+#EXTINF:0,SPORT TV 1 FHD
+http://4ever.biz:80/20192/20192/24836
+#EXTINF:0,SPORT TV 2 FHD
+http://4ever.biz:80/20192/20192/24835
+#EXTINF:0,SPORT TV 3 FHD
+http://4ever.biz:80/20192/20192/24834
+#EXTINF:0,SPORT TV HD
+http://4ever.biz:80/20192/20192/24831
+#EXTINF:0,SPORTING TV HD
+http://4ever.biz:80/20192/20192/24828
+#EXTINF:0,SportTV 4 FHD
+http://4ever.biz:80/20192/20192/24824
+#EXTINF:0,SportTV 5 FHD
+http://4ever.biz:80/20192/20192/24823
+#EXTINF:0,SyFy HD
+http://4ever.biz:80/20192/20192/24819
+#EXTINF:0,TLC EUROPE
+http://4ever.biz:80/20192/20192/24817
+#EXTINF:0,Travel Channel FHD
+http://4ever.biz:80/20192/20192/24810
+#EXTINF:0,TV Galicia
+http://4ever.biz:80/20192/20192/24809
+#EXTINF:0,TV GLOBO PREMIUM
+http://4ever.biz:80/20192/20192/24807
+#EXTINF:0,TV Kujawy
+http://4ever.biz:80/20192/20192/24806
+#EXTINF:0,TV RECORD HD
+http://4ever.biz:80/20192/20192/24804
+#EXTINF:0,TVC Series HD
+http://4ever.biz:80/20192/20192/24798
+#EXTINF:0,TVCine 1 FHD
+http://4ever.biz:80/20192/20192/24797
+#EXTINF:0,TVCine 2 FHD
+http://4ever.biz:80/20192/20192/24796
+#EXTINF:0,TVCine 3 FHD
+http://4ever.biz:80/20192/20192/24795
+#EXTINF:0,TVCine 4 FHD
+http://4ever.biz:80/20192/20192/24794
+#EXTINF:0,TVCINE HD
+http://4ever.biz:80/20192/20192/24793
+#EXTINF:0,TVI 24 HD
+http://4ever.biz:80/20192/20192/24790
+#EXTINF:0,TVI FHD
+http://4ever.biz:80/20192/20192/24788
+#EXTINF:0,TVI Ficcao HD
+http://4ever.biz:80/20192/20192/24787
+#EXTINF:0,TVI Reality HD
+http://4ever.biz:80/20192/20192/24784
+#EXTINF:0,A&E
+http://4ever.biz:80/20192/20192/2214
+#EXTINF:0,AXN
+http://4ever.biz:80/20192/20192/2692
+#EXTINF:0,AXN Black
+http://4ever.biz:80/20192/20192/2690
+#EXTINF:0,National Geographic
+http://4ever.biz:80/20192/20192/4712
+#EXTINF:0,ODISSEIA
+http://4ever.biz:80/20192/20192/4572
+#EXTINF:0,RTP Cores
+http://4ever.biz:80/20192/20192/2210
+#EXTINF:0,RTP Memoria
+http://4ever.biz:80/20192/20192/2208
+#EXTINF:0,Sic
+http://4ever.biz:80/20192/20192/4710
+#EXTINF:0,Sic Caras
+http://4ever.biz:80/20192/20192/4575
+#EXTINF:0,Sic Mulher
+http://4ever.biz:80/20192/20192/4576
+#EXTINF:0,ID HD
+http://4ever.biz:80/20192/20192/2686
