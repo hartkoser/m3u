@@ -1,333 +1,151 @@
 #EXTM3U
-#EXTINF:-1,A&E | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55035.m3u8
-#EXTINF:-1,AMC | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55034.m3u8
-#EXTINF:-1,ANIMAL PLANET | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55033.m3u8
-#EXTINF:-1,ANTENA 3 | SD*
-http://thenew.tv:8000/live/Anthony1/Anthony1/55032.m3u8
-#EXTINF:-1,AR: CANAL 26 (SD)
-http://thenew.tv:8000/live/Anthony1/Anthony1/55031.m3u8
-#EXTINF:-1,AXN | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55030.m3u8
-#EXTINF:-1,AXN | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55029.m3u8
-#EXTINF:-1,AXN Latinoamerica | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55028.m3u8
-#EXTINF:-1,AXN White | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55027.m3u8
-#EXTINF:-1,AZTECA 13 (MX) | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55026.m3u8
-#EXTINF:-1,BABY TV | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55025.m3u8
-#EXTINF:-1,BOING | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55024.m3u8
-#EXTINF:-1,BOOMERANG | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55023.m3u8
-#EXTINF:-1,CABLE NOTICIAS | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55022.m3u8
-#EXTINF:-1,Cadena Sudeste TV ARGENTINA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55021.m3u8
-#EXTINF:-1,Canal 10 Cancun MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55020.m3u8
-#EXTINF:-1,Canal 10 Chiapas MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55019.m3u8
-#EXTINF:-1,Canal 10 Rio Negro ARGENTINA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55018.m3u8
-#EXTINF:-1,CANAL 11 (MX) | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55017.m3u8
-#EXTINF:-1,Canal 15 Zacatecas MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55016.m3u8
-#EXTINF:-1,Canal 2 AVC Santa Teresita ARGENTINA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55015.m3u8
-#EXTINF:-1,Canal 26 ARGENTINA |HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55014.m3u8
-#EXTINF:-1,Canal 3 Pinamar ARGENTINA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55013.m3u8
-#EXTINF:-1,Canal 4 Saltillo MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55012.m3u8
-#EXTINF:-1,Canal 4 San Juan ARGENTINA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55011.m3u8
-#EXTINF:-1,CANAL 5 (MX) | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55010.m3u8
-#EXTINF:-1,Canal 9 Bio Bio TV CHILE | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55009.m3u8
-#EXTINF:-1,Canal Judicial MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55008.m3u8
-#EXTINF:-1,Canal Local Olavarria ARGENTINA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55007.m3u8
-#EXTINF:-1,Canal Provincial San Miguel ARGENTINA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55006.m3u8
-#EXTINF:-1,CARTOON NETWORK | SD*
-http://thenew.tv:8000/live/Anthony1/Anthony1/55005.m3u8
-#EXTINF:-1,Caza y Pesca | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55004.m3u8
-#EXTINF:-1,Cine Canal | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55003.m3u8
-#EXTINF:-1,CINE SONY | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55002.m3u8
-#EXTINF:-1,Cinecanal | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55001.m3u8
-#EXTINF:-1,Ciudad TV Chaco ARGENTINA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/55000.m3u8
-#EXTINF:-1,CLASSIC HD  (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54999.m3u8
-#EXTINF:-1,CNN CHILE (CL)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54998.m3u8
-#EXTINF:-1,CNN EN ESPANOL | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54997.m3u8
-#EXTINF:-1,COMEDY CENTRAL (MX) | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54996.m3u8
-#EXTINF:-1,CTC TV CUSCO PERU | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54995.m3u8
-#EXTINF:-1,CUATRO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54994.m3u8
-#EXTINF:-1,Cuenca Vision | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54993.m3u8
-#EXTINF:-1,DE PELICULA (MX) | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54992.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL | SD*
-http://thenew.tv:8000/live/Anthony1/Anthony1/54991.m3u8
-#EXTINF:-1,DISCOVERY ID | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54990.m3u8
-#EXTINF:-1,DISCOVERY KIDS | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54989.m3u8
-#EXTINF:-1,DISCOVERY THEATER HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54988.m3u8
-#EXTINF:-1,DISCOVERY TLC | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54987.m3u8
-#EXTINF:-1,Discovery Turbo | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54986.m3u8
-#EXTINF:-1,Discovery World | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54985.m3u8
-#EXTINF:-1,Disney Channel | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54984.m3u8
-#EXTINF:-1,DISTRITO COMEDIA (MX) | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54983.m3u8
-#EXTINF:-1,Divinity | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54982.m3u8
-#EXTINF:-1,DW Espanol | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54981.m3u8
-#EXTINF:-1,EL CHAPULÍN COLORADO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54980.m3u8
-#EXTINF:-1,EL GOURMET (MX) | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54979.m3u8
-#EXTINF:-1,EL PINGUINO TV  (CL)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54978.m3u8
-#EXTINF:-1,ENERGY | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54977.m3u8
-#EXTINF:-1,ENLACE
-http://thenew.tv:8000/live/Anthony1/Anthony1/54976.m3u8
-#EXTINF:-1,ESPN 2 | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54975.m3u8
-#EXTINF:-1,ESPN 3 ARGENTINA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54974.m3u8
-#EXTINF:-1,ESPN DEPORTES | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54973.m3u8
-#EXTINF:-1,EUROSPORT 1 | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54972.m3u8
-#EXTINF:-1,FILM & ART (MX) | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54971.m3u8
-#EXTINF:-1,FORO TV (MX) | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54970.m3u8
-#EXTINF:-1,FOX  HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54969.m3u8
-#EXTINF:-1,FOX 1 | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54968.m3u8
-#EXTINF:-1,FOX DEPORTES HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54967.m3u8
-#EXTINF:-1,FOX LIFE | FHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54966.m3u8
-#EXTINF:-1,FOX MOVIES | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54965.m3u8
-#EXTINF:-1,FOX SERIES (MX) | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54964.m3u8
-#EXTINF:-1,Futuro FM CHILE | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54963.m3u8
-#EXTINF:-1,FXM HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54962.m3u8
-#EXTINF:-1,GLITZ (CO) | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54961.m3u8
-#EXTINF:-1,Gol TV | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54960.m3u8
-#EXTINF:-1,GOLDEN EDGE HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54959.m3u8
-#EXTINF:-1,GOLDEN HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54958.m3u8
-#EXTINF:-1,GOLDEN PLUS HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54957.m3u8
-#EXTINF:-1,GOLF | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54956.m3u8
-#EXTINF:-1,H2
-http://thenew.tv:8000/live/Anthony1/Anthony1/54955.m3u8
-#EXTINF:-1,HBO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54954.m3u8
-#EXTINF:-1,HBO 2 | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54953.m3u8
-#EXTINF:-1,HBO FAMILY | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54952.m3u8
-#EXTINF:-1,HBO PLUS | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54951.m3u8
-#EXTINF:-1,HBO Signature | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54950.m3u8
-#EXTINF:-1,Historia | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54949.m3u8
-#EXTINF:-1,HISTORY HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54948.m3u8
-#EXTINF:-1,HOLA TV HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54947.m3u8
-#EXTINF:-1,Holvoet TV CHILE | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54946.m3u8
-#EXTINF:-1,Impactovision TV Matamoros MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54945.m3u8
-#EXTINF:-1,ISAT HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54944.m3u8
-#EXTINF:-1,La Mega Mundial | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54943.m3u8
-#EXTINF:-1,LAS ESTRELLAS |HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54942.m3u8
-#EXTINF:-1,Latinos Up TV | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54941.m3u8
-#EXTINF:-1,Mega TV Araquipa PERU | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54940.m3u8
-#EXTINF:-1,Melody Channel | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54939.m3u8
-#EXTINF:-1,Milenium Salta ARGENTINA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54938.m3u8
-#EXTINF:-1,MOTO GP | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54937.m3u8
-#EXTINF:-1,MTV | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54936.m3u8
-#EXTINF:-1,MTV ESPANA | SD*
-http://thenew.tv:8000/live/Anthony1/Anthony1/54935.m3u8
-#EXTINF:-1,MTV HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54934.m3u8
-#EXTINF:-1,Multimedia Cappissima TV CHILE | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54933.m3u8
-#EXTINF:-1,MULTIMEDIOS HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54932.m3u8
-#EXTINF:-1,Mundo Mas COLOMBIA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54931.m3u8
-#EXTINF:-1,Music Top ARGENTINA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54930.m3u8
-#EXTINF:-1,NAT GEO Wild | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54929.m3u8
-#EXTINF:-1,NBC UNIVERSO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54928.m3u8
-#EXTINF:-1,NEOX | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54927.m3u8
-#EXTINF:-1,NICK 2 (MX) | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54926.m3u8
-#EXTINF:-1,NICK HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54925.m3u8
-#EXTINF:-1,NICK JR | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54924.m3u8
-#EXTINF:-1,NICKTOONS (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54923.m3u8
-#EXTINF:-1,OchoTV Guadalajara MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54922.m3u8
-#EXTINF:-1,Ovacion PERU | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54921.m3u8
-#EXTINF:-1,PANDA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54920.m3u8
-#EXTINF:-1,PARAMOUNT (MX) | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54919.m3u8
-#EXTINF:-1,Portal Foxmix CHILE | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54918.m3u8
-#EXTINF:-1,Power TV ARGENTINA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54917.m3u8
-#EXTINF:-1,PYC TV COLOMBIA | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54916.m3u8
-#EXTINF:-1,Radio Congreso Online CHILE | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54915.m3u8
-#EXTINF:-1,RBC TV PERU | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54914.m3u8
-#EXTINF:-1,RCG 1 Saltillo MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54913.m3u8
-#EXTINF:-1,RCG 2 Saltillo MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54912.m3u8
-#EXTINF:-1,RCG 3 Saltillo MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54911.m3u8
-#EXTINF:-1,RCN NOVELAS (CO)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54910.m3u8
-#EXTINF:-1,RTQ Queretaro MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54909.m3u8
-#EXTINF:-1,Sipse TV Cancun MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54908.m3u8
-#EXTINF:-1,Sol TV PERU | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54907.m3u8
-#EXTINF:-1,Son Popular COLOMBIA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54906.m3u8
-#EXTINF:-1,SONY (MX) | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54905.m3u8
-#EXTINF:-1,SPACE | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54904.m3u8
-#EXTINF:-1,SQCS Chetumal MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54903.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54902.m3u8
-#EXTINF:-1,SUNDANCE TV | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54901.m3u8
-#EXTINF:-1,SYFY | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54900.m3u8
-#EXTINF:-1,SYFY HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54899.m3u8
-#EXTINF:-1,TCM HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54898.m3u8
-#EXTINF:-1,Teleenvigado COLOMBIA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54897.m3u8
-#EXTINF:-1,Teleformula MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54896.m3u8
-#EXTINF:-1,TELEMUNDO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54895.m3u8
-#EXTINF:-1,Televisora Regional Unimar ARGENTINA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54894.m3u8
-#EXTINF:-1,Telpin Teve Pinamar ARGENTINA | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54893.m3u8
-#EXTINF:-1,Tlaxcala TV MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54892.m3u8
-#EXTINF:-1,TLC | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54891.m3u8
-#EXTINF:-1,TNT HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54890.m3u8
-#EXTINF:-1,TOONCAST | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54889.m3u8
-#EXTINF:-1,Trailer TV Kids CHILE | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54888.m3u8
-#EXTINF:-1,Trecevision Yucatan MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54887.m3u8
-#EXTINF:-1,Turbo Mix Radio TV PERU | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54886.m3u8
-#EXTINF:-1,TV Cosmos PERU | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54885.m3u8
-#EXTINF:-1,TV Marti | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54884.m3u8
-#EXTINF:-1,TV MAS HD (MX)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54883.m3u8
-#EXTINF:-1,TV Noticias 7.3 PERU |SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54882.m3u8
-#EXTINF:-1,TVMAS Veracruz MEXICO | SD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54881.m3u8
-#EXTINF:-1,TYC SPORTS SD (AR)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54880.m3u8
-#EXTINF:-1,Ultra TV Aguascalientes MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54879.m3u8
-#EXTINF:-1,Ultra TV Puebla MEXICO | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54878.m3u8
-#EXTINF:-1,UNIVERSAL HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54877.m3u8
-#EXTINF:-1,UNIVISION
-http://thenew.tv:8000/live/Anthony1/Anthony1/54876.m3u8
-#EXTINF:-1,UNIVISION TDN
-http://thenew.tv:8000/live/Anthony1/Anthony1/54875.m3u8
-#EXTINF:-1,VALLE TELEVISION (CL)
-http://thenew.tv:8000/live/Anthony1/Anthony1/54874.m3u8
-#EXTINF:-1,VC Online Santiago CHILE | HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54873.m3u8
-#EXTINF:-1,VH1 | SD*
-http://thenew.tv:8000/live/Anthony1/Anthony1/54872.m3u8
-#EXTINF:-1,WINSPORTS
-http://thenew.tv:8000/live/Anthony1/Anthony1/54871.m3u8
-#EXTINF:-1,WOBI HD (MX) | UHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/54870.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 1" tvg-logo="" group-title="Spain",Taquilla 1
+http://m-iptv.net:6204/live/hamed1/hamed1/8957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 2" tvg-logo="" group-title="Spain",Taquilla 2
+http://m-iptv.net:6204/live/hamed1/hamed1/8955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 3" tvg-logo="" group-title="Spain",Taquilla 3
+http://m-iptv.net:6204/live/hamed1/hamed1/8954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 4" tvg-logo="" group-title="Spain",Taquilla 4
+http://m-iptv.net:6204/live/hamed1/hamed1/8953.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 5" tvg-logo="" group-title="Spain",Taquilla 5
+http://m-iptv.net:6204/live/hamed1/hamed1/8952.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 6" tvg-logo="" group-title="Spain",Taquilla 6
+http://m-iptv.net:6204/live/hamed1/hamed1/8951.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 7" tvg-logo="" group-title="Spain",Taquilla 7
+http://m-iptv.net:6204/live/hamed1/hamed1/8950.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 8" tvg-logo="" group-title="Spain",Taquilla 8
+http://m-iptv.net:6204/live/hamed1/hamed1/8949.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 9" tvg-logo="" group-title="Spain",Taquilla 9
+http://m-iptv.net:6204/live/hamed1/hamed1/8948.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Taquilla 10" tvg-logo="" group-title="Spain",Taquilla 10
+http://m-iptv.net:6204/live/hamed1/hamed1/8956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="http://www.vod-logo.net/photos/295f6c2107ea215a751e84a1f15a52b1.jpg" group-title="Spain",#0
+http://m-iptv.net:6204/live/hamed1/hamed1/10021.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="http://www.vod-logo.net/photos/8ab77baa402759c178ac694bc440f579.jpg" group-title="Spain",24 HORAS
+http://m-iptv.net:6204/live/hamed1/hamed1/10020.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://www.vod-logo.net/photos/9ee9da1d1fee2b01d12140390022eb2f.jpg" group-title="Spain",A&E
+http://m-iptv.net:6204/live/hamed1/hamed1/10019.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://www.vod-logo.net/photos/32c864b0f605248af7f487a419ea5791.jpg" group-title="Spain",AMC
+http://m-iptv.net:6204/live/hamed1/hamed1/10018.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="http://www.vod-logo.net/photos/e5d4cdb66826f6ba362826776c308052.jpg" group-title="Spain",ANTENA 3
+http://m-iptv.net:6204/live/hamed1/hamed1/10017.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://www.vod-logo.net/photos/f3859438b5218a653024e55e6d36cb5b.jpg" group-title="Spain",AXN
+http://m-iptv.net:6204/live/hamed1/hamed1/10016.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="http://www.vod-logo.net/photos/3ddb2283290fbe5c797a446923dd890e.jpg" group-title="Spain",AXN WHITE
+http://m-iptv.net:6204/live/hamed1/hamed1/10015.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="http://www.vod-logo.net/photos/1384cc30eccdc85011df8ec6d87760d7.jpg" group-title="Spain",BARCA TV
+http://m-iptv.net:6204/live/hamed1/hamed1/10014.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LALIGA" tvg-logo="http://www.vod-logo.net/photos/212fb3be69b87f228a2a22cbe2dbfd6f.jpg" group-title="Spain",BEIN LALIGA
+http://m-iptv.net:6204/live/hamed1/hamed1/10013.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="http://www.vod-logo.net/photos/a698c02ea568244a5e634118a46f4bc6.jpg" group-title="Spain",BEIN SPORTS
+http://m-iptv.net:6204/live/hamed1/hamed1/10012.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="http://www.vod-logo.net/photos/43a8033763fe5efd191a5fa851bdd260.jpg" group-title="Spain",BOING
+http://m-iptv.net:6204/live/hamed1/hamed1/10011.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="http://www.vod-logo.net/photos/291142ae39bc3effd61abd726a8a2606.jpg" group-title="Spain",CALLE 13
+http://m-iptv.net:6204/live/hamed1/hamed1/10010.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="http://www.vod-logo.net/photos/ea0c82de942dab3ad49d6fcb9814021a.jpg" group-title="Spain",CANAL COCINA
+http://m-iptv.net:6204/live/hamed1/hamed1/10009.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="http://www.vod-logo.net/photos/75dca4c20e5d9d9c704937c0ecbdc1f5.jpg" group-title="Spain",CANAL DECASA
+http://m-iptv.net:6204/live/hamed1/hamed1/10008.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="http://www.vod-logo.net/photos/bc193e2929bc2579c5de57a3bbe13160.jpg" group-title="Spain",CANAL ODISEA
+http://m-iptv.net:6204/live/hamed1/hamed1/10007.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="http://www.vod-logo.net/photos/54b88a898efb4675d88dbb2728e63b33.jpg" group-title="Spain",CAZA Y PESCA
+http://m-iptv.net:6204/live/hamed1/hamed1/10006.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="http://www.vod-logo.net/photos/7db9243ca2c3947d9b66d705fa1b640f.jpg" group-title="Spain",CLAN TVE
+http://m-iptv.net:6204/live/hamed1/hamed1/10005.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://www.vod-logo.net/photos/27e7f45c7277b11731807022d9667d23.jpg" group-title="Spain",COMEDY CENTRAL
+http://m-iptv.net:6204/live/hamed1/hamed1/10004.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="http://www.vod-logo.net/photos/31843d238dcee3cad764fc4692d0aee9.jpg" group-title="Spain",COSMO
+http://m-iptv.net:6204/live/hamed1/hamed1/10003.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="http://www.vod-logo.net/photos/da98a15e56d35bdc5bee44cf15f18a1e.jpg" group-title="Spain",CUATRO
+http://m-iptv.net:6204/live/hamed1/hamed1/10001.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="http://www.vod-logo.net/photos/0dfbb996150521a3c7092a6038844802.jpg" group-title="Spain",DISCOVERY
+http://m-iptv.net:6204/live/hamed1/hamed1/10000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://www.vod-logo.net/photos/08021eb92e8f317c9735a40ebeb728e0.jpg" group-title="Spain",DISNEY CHANNEL HD
+http://m-iptv.net:6204/live/hamed1/hamed1/9999.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://www.vod-logo.net/photos/d93b7accab52ca9dfe11ecd17ab72f9f.jpg" group-title="Spain",DISNEY JR
+http://m-iptv.net:6204/live/hamed1/hamed1/9998.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://www.vod-logo.net/photos/00d4c3a6715b7d4d598fe48b4856510c.jpg" group-title="Spain",DISNEY XD
+http://m-iptv.net:6204/live/hamed1/hamed1/9997.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="http://www.vod-logo.net/photos/beefd15740df0f2e6143725847288d33.jpg" group-title="Spain",DIVINITY
+http://m-iptv.net:6204/live/hamed1/hamed1/9996.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://www.vod-logo.net/photos/2d9413a9ea2773993e6be5c0f770c274.jpg" group-title="Spain",ENERGY
+http://m-iptv.net:6204/live/hamed1/hamed1/9995.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://www.vod-logo.net/photos/e457bd7b830ead2819fb2b8ef6946477.jpg" group-title="Spain",EUROSPORT 1
+http://m-iptv.net:6204/live/hamed1/hamed1/9994.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://www.vod-logo.net/photos/99337a3ec5f42a38ad0a86b8feb2ae36.jpg" group-title="Spain",EUROSPORT 2
+http://m-iptv.net:6204/live/hamed1/hamed1/9993.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://www.vod-logo.net/photos/326e82baf0df91adcdc3427608b7b96f.jpg" group-title="Spain",FOX
+http://m-iptv.net:6204/live/hamed1/hamed1/9992.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://www.vod-logo.net/photos/adcd889b0cdbe1b39c36f807fcb1c620.jpg" group-title="Spain",FOX LIFE
+http://m-iptv.net:6204/live/hamed1/hamed1/9991.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="http://www.vod-logo.net/photos/115bda58b2227bb5ef8f5e9bb4b317ca.jpg" group-title="Spain",GOL TV
+http://m-iptv.net:6204/live/hamed1/hamed1/9990.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="http://www.vod-logo.net/photos/a95137f79078176e4926e61c9e584670.jpg" group-title="Spain",HISTORIA
+http://m-iptv.net:6204/live/hamed1/hamed1/9989.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="http://www.vod-logo.net/photos/adbec9b0cf39927de8d300fe11ffe797.jpg" group-title="Spain",HOLLYWOOD
+http://m-iptv.net:6204/live/hamed1/hamed1/9988.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="http://www.vod-logo.net/photos/fe695abad54f56501ec709dbb3db5159.jpg" group-title="Spain",LA 1
+http://m-iptv.net:6204/live/hamed1/hamed1/9986.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="http://www.vod-logo.net/photos/df5a362a597a63fd353f2783308546d7.jpg" group-title="Spain",LA 2
+http://m-iptv.net:6204/live/hamed1/hamed1/9985.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="http://www.vod-logo.net/photos/613a53f9e77efe6646fdd42753d9b668.jpg" group-title="Spain",LA SEXTA
+http://m-iptv.net:6204/live/hamed1/hamed1/9984.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR" tvg-logo="http://www.vod-logo.net/photos/6e0b4e4b2ce45cfb8cb63b0e69ac7df0.jpg" group-title="Spain",LALIGA TV BAR
+http://m-iptv.net:6204/live/hamed1/hamed1/9983.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.ACCION" tvg-logo="http://www.vod-logo.net/photos/3dd5d5405bbfca8697f33d0b5629bd1b.jpg" group-title="Spain",M.ACCION
+http://m-iptv.net:6204/live/hamed1/hamed1/9982.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.CINE ESPANOL" tvg-logo="http://www.vod-logo.net/photos/d6df9e1c5391dca23f48232e4c5bfccd.JPG" group-title="Spain",M.CINE ESPANOL
+http://m-iptv.net:6204/live/hamed1/hamed1/9981.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA" tvg-logo="http://www.vod-logo.net/photos/cff2b8fd6facb65e5a10dd9f13c84455.jpg" group-title="Spain",M.COMEDIA
+http://m-iptv.net:6204/live/hamed1/hamed1/9980.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.DCINE" tvg-logo="http://www.vod-logo.net/photos/69ac9e60365554c25deef085eef5d861.jpg" group-title="Spain",M.DCINE
+http://m-iptv.net:6204/live/hamed1/hamed1/9979.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.DEP 1" tvg-logo="" group-title="Spain",M.DEP 1
+http://m-iptv.net:6204/live/hamed1/hamed1/9978.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.DEP 2" tvg-logo="" group-title="Spain",M.DEP 2
+http://m-iptv.net:6204/live/hamed1/hamed1/9977.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS" tvg-logo="http://www.vod-logo.net/photos/cd4906391e5635893dc9834a3f5f81e2.JPG" group-title="Spain",M.ESTRENOS
+http://m-iptv.net:6204/live/hamed1/hamed1/9976.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1" tvg-logo="http://www.vod-logo.net/photos/c390d72e443975adc0001efc5f73955e.jpg" group-title="Spain",M.FORMULA 1
+http://m-iptv.net:6204/live/hamed1/hamed1/9975.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.FUTBOL" tvg-logo="" group-title="Spain",M.FUTBOL
+http://m-iptv.net:6204/live/hamed1/hamed1/9974.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.GOLF" tvg-logo="" group-title="Spain",M.GOLF
+http://m-iptv.net:6204/live/hamed1/hamed1/9973.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP" tvg-logo="http://www.vod-logo.net/photos/7f10540ad4b7fa26adb7f72f0469e348.jpg" group-title="Spain",M.MOTOGP
+http://m-iptv.net:6204/live/hamed1/hamed1/9972.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIES" tvg-logo="http://www.vod-logo.net/photos/aaef39b33f8deb239b7426d4f02e569d.jpg" group-title="Spain",M.SERIES
+http://m-iptv.net:6204/live/hamed1/hamed1/9971.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.SERIESXTRA" tvg-logo="" group-title="Spain",M.SERIESXTRA
+http://m-iptv.net:6204/live/hamed1/hamed1/9970.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="M.XTRA" tvg-logo="" group-title="Spain",M.XTRA
+http://m-iptv.net:6204/live/hamed1/hamed1/9969.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://www.vod-logo.net/photos/3e9d0d1bcd1624376455fe6f36594671.jpg" group-title="Spain",NAT GEO WILD
+http://m-iptv.net:6204/live/hamed1/hamed1/9967.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://www.vod-logo.net/photos/9606c5afb889de6fb018a305dbb8b373.jpg" group-title="Spain",NATIONAL GEOGRAPHIC
+http://m-iptv.net:6204/live/hamed1/hamed1/9966.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="http://www.vod-logo.net/photos/940413d3396c197d20ae35f57fbbba15.jpg" group-title="Spain",NEOX
+http://m-iptv.net:6204/live/hamed1/hamed1/9965.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://www.vod-logo.net/photos/3a7c7f88082196470ce48d3c6f49cbce.jpg" group-title="Spain",NICKELODEON
+http://m-iptv.net:6204/live/hamed1/hamed1/9964.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="http://www.vod-logo.net/photos/4f8c699cb91315d7b22b3518f1e4cae1.jpg" group-title="Spain",NOVA
+http://m-iptv.net:6204/live/hamed1/hamed1/9962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://www.vod-logo.net/photos/bd46c19a8fc339471b259ee1a686f6b4.jpg" group-title="Spain",PARAMOUNT
+http://m-iptv.net:6204/live/hamed1/hamed1/9961.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://www.vod-logo.net/photos/8efb2f090186f86636fc741009f8319e.jpg" group-title="Spain",Real Madrid TV
+http://m-iptv.net:6204/live/hamed1/hamed1/9960.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="http://www.vod-logo.net/photos/29f2c1b18eeee521f8409a287dd592c0.jpg" group-title="Spain",SUNDANCE
+http://m-iptv.net:6204/live/hamed1/hamed1/9959.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://www.vod-logo.net/photos/458ea1b04f052078408f348448d87d0e.jpg" group-title="Spain",SYFY
+http://m-iptv.net:6204/live/hamed1/hamed1/9958.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://www.vod-logo.net/photos/d2d78c759a1a83c528ea1960f4105298.jpg" group-title="Spain",TCM
+http://m-iptv.net:6204/live/hamed1/hamed1/9957.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="http://www.vod-logo.net/photos/84747f1da5a0bac7f6bff8d7f5cb19cd.jpg" group-title="Spain",TELECINCO
+http://m-iptv.net:6204/live/hamed1/hamed1/9956.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="http://www.vod-logo.net/photos/78d688c86885396c5c358625ba5803b3.jpg" group-title="Spain",TELEDEPORTE
+http://m-iptv.net:6204/live/hamed1/hamed1/9955.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://www.vod-logo.net/photos/01f3869164d8b1299b002affe7463018.jpg" group-title="Spain",TNT
+http://m-iptv.net:6204/live/hamed1/hamed1/9954.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="http://www.vod-logo.net/photos/a6e2313c35900e0cd740c01a9bf6ae3e.jpg" group-title="Spain",TOROS TV
+http://m-iptv.net:6204/live/hamed1/hamed1/9953.m3u8
