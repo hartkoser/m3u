@@ -1,4 +1,30 @@
 #EXTM3U
+#EXTINF:-1,ELIT Cinema 4
+http://thenew.tv:8000/live/Anthony1/Anthony1/38925.m3u8
+#EXTINF:-1,ELIT Cinema 5
+http://thenew.tv:8000/live/Anthony1/Anthony1/38924.m3u8
+#EXTINF:-1,EOTV HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38923.m3u8
+#EXTINF:-1,ERZ TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38922.m3u8
+#EXTINF:-1,Euronews
+http://thenew.tv:8000/live/Anthony1/Anthony1/38921.m3u8
+#EXTINF:-1,Eurosport 1 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38920.m3u8
+#EXTINF:-1,Eurosport 2 FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38919.m3u8
+#EXTINF:-1,Eurosport 2 Xtra HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38918.m3u8
+#EXTINF:-1,EWTN katholisches TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/38917.m3u8
+#EXTINF:-1,EXTREM SPORT
+http://thenew.tv:8000/live/Anthony1/Anthony1/38916.m3u8
+#EXTINF:-1,Family TV FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38915.m3u8
+#EXTINF:-1,FC Bayern TV FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38914.m3u8
+#EXTINF:-1,Fight Channel HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/38913.m3u8
 #EXTINF:-1,FILM CLUB 1 FHD
 http://thenew.tv:8000/live/Anthony1/Anthony1/38912.m3u8
 #EXTINF:-1,FILM CLUB 2 FHD
@@ -101,7 +127,7 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/38864.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/38863.m3u8
 #EXTINF:-1,Nick JR HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/38862.m3u8
-#EXTINF:-1,Nickeloon
+#EXTINF:-1,NickeloDE:on
 http://thenew.tv:8000/live/Anthony1/Anthony1/38861.m3u8
 #EXTINF:-1,NITRO HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/38860.m3u8
@@ -231,7 +257,7 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/38799.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/38798.m3u8
 #EXTINF:-1,Sky 3D HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/38797.m3u8
-#EXTINF:-1,ARTE HD
+#EXTINF:-1,DE:ARTE HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/59595.m3u8
 #EXTINF:-1,SKY ARTS HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/38796.m3u8
@@ -327,37 +353,11 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/38752.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/38751.m3u8
 #EXTINF:-1,Sky Romance
 http://thenew.tv:8000/live/Anthony1/Anthony1/38750.m3u8
-#EXTINF:-1,VOX HD
+#EXTINF:-1,DE:VOX HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/59594.m3u8
-#EXTINF:-1,ZDF HD
+#EXTINF:-1,DE:ZDF HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/59593.m3u8
-#EXTINF:-1,ZDF INFO HD
+#EXTINF:-1,DE:ZDF INFO HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/59592.m3u8
-#EXTINF:-1,ZDFneo
+#EXTINF:-1,DE:ZDFneo
 http://thenew.tv:8000/live/Anthony1/Anthony1/59591.m3u8
-#EXTINF:-1,ELIT Cinema 4
-http://thenew.tv:8000/Anthony1/Anthony1/38925
-#EXTINF:-1,ELIT Cinema 5
-http://thenew.tv:8000/live/Anthony1/Anthony1/38924.m3u8
-#EXTINF:-1,EOTV HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/38923.m3u8
-#EXTINF:-1,ERZ TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/38922.m3u8
-#EXTINF:-1,Euronews
-http://thenew.tv:8000/live/Anthony1/Anthony1/38921.m3u8
-#EXTINF:-1,Eurosport 1 FHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/38920.m3u8
-#EXTINF:-1,Eurosport 2 FHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/38919.m3u8
-#EXTINF:-1,Eurosport 2 Xtra HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/38918.m3u8
-#EXTINF:-1,EWTN katholisches TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/38917.m3u8
-#EXTINF:-1,EXTREM SPORT
-http://thenew.tv:8000/live/Anthony1/Anthony1/38916.m3u8
-#EXTINF:-1,Family TV FHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/38915.m3u8
-#EXTINF:-1,FC Bayern TV FHD
-http://thenew.tv:8000/live/Anthony1/Anthony1/38914.m3u8
-#EXTINF:-1,Fight Channel HD
-http://thenew.tv:8000/live/Anthony1/Anthony1/38913.m3u8

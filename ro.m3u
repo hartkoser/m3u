@@ -1,105 +1,151 @@
 #EXTM3U
-#EXTINF:-1,CINEMAX RO
-http://thenew.tv:8000/live/Anthony1/Anthony1/57403.m3u8
-#EXTINF:-1,DIGI SPORT 2
-http://thenew.tv:8000/live/Anthony1/Anthony1/57402.m3u8
-#EXTINF:-1,EUROSPORT
-http://thenew.tv:8000/live/Anthony1/Anthony1/57401.m3u8
-#EXTINF:-1,MINIMAX
-http://thenew.tv:8000/live/Anthony1/Anthony1/57400.m3u8
-#EXTINF:-1,PROCINEMA
-http://thenew.tv:8000/live/Anthony1/Anthony1/57399.m3u8
-#EXTINF:-1,ANTENA  3
-http://thenew.tv:8000/live/Anthony1/Anthony1/57398.m3u8
-#EXTINF:-1,ANTENA  STARS
-http://thenew.tv:8000/live/Anthony1/Anthony1/57397.m3u8
-#EXTINF:-1,AXN  ROMANIA
-http://thenew.tv:8000/live/Anthony1/Anthony1/57396.m3u8
-#EXTINF:-1,AXN  WHITE
-http://thenew.tv:8000/live/Anthony1/Anthony1/57395.m3u8
-#EXTINF:-1,CINEMAX  2
-http://thenew.tv:8000/live/Anthony1/Anthony1/57394.m3u8
-#EXTINF:-1,DIGI  SPORT 4
-http://thenew.tv:8000/live/Anthony1/Anthony1/57393.m3u8
-#EXTINF:-1,DIGI  WORLD
-http://thenew.tv:8000/live/Anthony1/Anthony1/57392.m3u8
-#EXTINF:-1,Digi 24
-http://thenew.tv:8000/live/Anthony1/Anthony1/57391.m3u8
-#EXTINF:-1,Digi Animal World
-http://thenew.tv:8000/live/Anthony1/Anthony1/57390.m3u8
-#EXTINF:-1,Digi Life
-http://thenew.tv:8000/live/Anthony1/Anthony1/57389.m3u8
-#EXTINF:-1,DIGI Sport 1
-http://thenew.tv:8000/live/Anthony1/Anthony1/57388.m3u8
-#EXTINF:-1,DIGI SPORT 3
-http://thenew.tv:8000/live/Anthony1/Anthony1/57387.m3u8
-#EXTINF:-1,DISNEY  JUNIOR
-http://thenew.tv:8000/live/Anthony1/Anthony1/57386.m3u8
-#EXTINF:-1,Etno Tv
-http://thenew.tv:8000/live/Anthony1/Anthony1/57385.m3u8
-#EXTINF:-1,EUROSPORT  2
-http://thenew.tv:8000/live/Anthony1/Anthony1/57384.m3u8
-#EXTINF:-1,FAVORTI  TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/57383.m3u8
-#EXTINF:-1,FISHING &  HUNTING
-http://thenew.tv:8000/live/Anthony1/Anthony1/57382.m3u8
-#EXTINF:-1,HAPPY  CHANNEL
-http://thenew.tv:8000/live/Anthony1/Anthony1/57381.m3u8
-#EXTINF:-1,HBO  ROMANIA
-http://thenew.tv:8000/live/Anthony1/Anthony1/57380.m3u8
-#EXTINF:-1,HBO 2
-http://thenew.tv:8000/live/Anthony1/Anthony1/57379.m3u8
-#EXTINF:-1,HBO 3
-http://thenew.tv:8000/live/Anthony1/Anthony1/57378.m3u8
-#EXTINF:-1,HBO Romania
-http://thenew.tv:8000/live/Anthony1/Anthony1/57377.m3u8
-#EXTINF:-1,HISTORY  CHANNELH
-http://thenew.tv:8000/live/Anthony1/Anthony1/57376.m3u8
-#EXTINF:-1,KANAL  D
-http://thenew.tv:8000/live/Anthony1/Anthony1/57375.m3u8
-#EXTINF:-1,KISS TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/57374.m3u8
-#EXTINF:-1,LOOK  TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/57373.m3u8
+#EXTINF:-1,RO:Antena 1
+http://thenew.tv:8000/live/Anthony1/Anthony1/51002.m3u8
+#EXTINF:-1,Boomerang
+http://thenew.tv:8000/live/Anthony1/Anthony1/49541.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49540.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49539.m3u8
+#EXTINF:-1,Cinemax HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49538.m3u8
+#EXTINF:-1,Digi 24 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49537.m3u8
+#EXTINF:-1,Digi Animal World HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49536.m3u8
+#EXTINF:-1,Digi Film HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49535.m3u8
+#EXTINF:-1,Digi Life HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49534.m3u8
+#EXTINF:-1,DIGI SPORT 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49533.m3u8
+#EXTINF:-1,DIGI SPORT 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49532.m3u8
+#EXTINF:-1,DIGI SPORT 3 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49531.m3u8
+#EXTINF:-1,DIGI SPORT 4 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49530.m3u8
+#EXTINF:-1,Digi World HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49529.m3u8
+#EXTINF:-1,Discovery Channel
+http://thenew.tv:8000/live/Anthony1/Anthony1/49528.m3u8
+#EXTINF:-1,Discovery Science HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49527.m3u8
+#EXTINF:-1,Disney Channel
+http://thenew.tv:8000/live/Anthony1/Anthony1/49526.m3u8
+#EXTINF:-1,Disney Junior
+http://thenew.tv:8000/live/Anthony1/Anthony1/49525.m3u8
+#EXTINF:-1,Etno Tv HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49524.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49523.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49522.m3u8
+#EXTINF:-1,FAVORIT TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/49521.m3u8
+#EXTINF:-1,Film Now HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49520.m3u8
+#EXTINF:-1,Fishing & Hunting HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49519.m3u8
+#EXTINF:-1,HBO 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49518.m3u8
+#EXTINF:-1,HBO 3 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49517.m3u8
+#EXTINF:-1,HBO HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49516.m3u8
+#EXTINF:-1,History Channel HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49515.m3u8
+#EXTINF:-1,KANAL D HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49514.m3u8
+#EXTINF:-1,Kiss TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/49513.m3u8
 #EXTINF:-1,Look Plus
-http://thenew.tv:8000/live/Anthony1/Anthony1/57372.m3u8
-#EXTINF:-1,MEGAMAZ
-http://thenew.tv:8000/live/Anthony1/Anthony1/57371.m3u8
-#EXTINF:-1,MUSIC CHANEL  ONE
-http://thenew.tv:8000/live/Anthony1/Anthony1/57370.m3u8
-#EXTINF:-1,MUSIC CHANNEL HU
-http://thenew.tv:8000/live/Anthony1/Anthony1/57369.m3u8
-#EXTINF:-1,MUSIC CHANNEL ONE1
-http://thenew.tv:8000/live/Anthony1/Anthony1/57368.m3u8
-#EXTINF:-1,NATIONAL  GEOGRAPHIC
-http://thenew.tv:8000/live/Anthony1/Anthony1/57367.m3u8
-#EXTINF:-1,NATIONAL  TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/57366.m3u8
-#EXTINF:-1,NATIONAL GEO WILD
-http://thenew.tv:8000/live/Anthony1/Anthony1/57365.m3u8
-#EXTINF:-1,Nickelodeon
-http://thenew.tv:8000/live/Anthony1/Anthony1/57364.m3u8
-#EXTINF:-1,PRIMA  TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/57363.m3u8
-#EXTINF:-1,PRO TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/57362.m3u8
-#EXTINF:-1,ROMANIA  TV
-http://thenew.tv:8000/live/Anthony1/Anthony1/57361.m3u8
-#EXTINF:-1,SPORT  RO
-http://thenew.tv:8000/live/Anthony1/Anthony1/57360.m3u8
-#EXTINF:-1,Taraf Tv
-http://thenew.tv:8000/live/Anthony1/Anthony1/57359.m3u8
-#EXTINF:-1,TNT
-http://thenew.tv:8000/live/Anthony1/Anthony1/57358.m3u8
-#EXTINF:-1,TV1000
-http://thenew.tv:8000/live/Anthony1/Anthony1/57357.m3u8
-#EXTINF:-1,TV5 MONDE
-http://thenew.tv:8000/live/Anthony1/Anthony1/57356.m3u8
-#EXTINF:-1,TVR 1
-http://thenew.tv:8000/live/Anthony1/Anthony1/57355.m3u8
-#EXTINF:-1,TVR 2
-http://thenew.tv:8000/live/Anthony1/Anthony1/57354.m3u8
-#EXTINF:-1,VIASAT  HISTORY
-http://thenew.tv:8000/live/Anthony1/Anthony1/57353.m3u8
-#EXTINF:-1,VIASAT  NATURE
-http://thenew.tv:8000/live/Anthony1/Anthony1/57352.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/49512.m3u8
+#EXTINF:-1,Look TV HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49511.m3u8
+#EXTINF:-1,MegaMax HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49510.m3u8
+#EXTINF:-1,Minimax HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49509.m3u8
+#EXTINF:-1,Music 1 Channel
+http://thenew.tv:8000/live/Anthony1/Anthony1/49508.m3u8
+#EXTINF:-1,Music Channel
+http://thenew.tv:8000/live/Anthony1/Anthony1/49507.m3u8
+#EXTINF:-1,NAT GEO HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49506.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49505.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49504.m3u8
+#EXTINF:-1,Nova Tv Brasov
+http://thenew.tv:8000/live/Anthony1/Anthony1/49503.m3u8
+#EXTINF:-1,Paramount Channel
+http://thenew.tv:8000/live/Anthony1/Anthony1/49502.m3u8
+#EXTINF:-1,Prima Cool
+http://thenew.tv:8000/live/Anthony1/Anthony1/49501.m3u8
+#EXTINF:-1,Prima TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/49500.m3u8
+#EXTINF:-1,Pro Cinema HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49499.m3u8
+#EXTINF:-1,PRO Gold HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49498.m3u8
+#EXTINF:-1,Pro TV HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49497.m3u8
+#EXTINF:-1,PRO X HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49496.m3u8
+#EXTINF:-1,PRO2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49495.m3u8
+#EXTINF:-1,Realitatea TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/49494.m3u8
+#EXTINF:-1,Romania TV HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49493.m3u8
+#EXTINF:-1,STARS chef HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49492.m3u8
+#EXTINF:-1,SUPERTENNIS HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49491.m3u8
+#EXTINF:-1,Taraf HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49490.m3u8
+#EXTINF:-1,Tele Moldova Plus
+http://thenew.tv:8000/live/Anthony1/Anthony1/49489.m3u8
+#EXTINF:-1,TELEKOM 3
+http://thenew.tv:8000/live/Anthony1/Anthony1/49488.m3u8
+#EXTINF:-1,Telekom Sport 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49487.m3u8
+#EXTINF:-1,Telekom Sport 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49486.m3u8
+#EXTINF:-1,TELEKOM SPORT 3 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49485.m3u8
+#EXTINF:-1,Telekom Sport 5 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49484.m3u8
+#EXTINF:-1,Telekom Sport 6 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49483.m3u8
+#EXTINF:-1,TELESHOP TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/49482.m3u8
+#EXTINF:-1,TLC
+http://thenew.tv:8000/live/Anthony1/Anthony1/49481.m3u8
+#EXTINF:-1,TNT HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49480.m3u8
+#EXTINF:-1,TRINITAS TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/49479.m3u8
+#EXTINF:-1,TV 1000 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49478.m3u8
+#EXTINF:-1,TV Paprika
+http://thenew.tv:8000/live/Anthony1/Anthony1/49477.m3u8
+#EXTINF:-1,TV5 Monde HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49476.m3u8
+#EXTINF:-1,TVR 1 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49475.m3u8
+#EXTINF:-1,TVR 2 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49474.m3u8
+#EXTINF:-1,TVR 3 HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/49473.m3u8
+#EXTINF:-1,TVR International
+http://thenew.tv:8000/live/Anthony1/Anthony1/49472.m3u8
+#EXTINF:-1,U TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/49471.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://thenew.tv:8000/live/Anthony1/Anthony1/49470.m3u8
+#EXTINF:-1,Viasat History
+http://thenew.tv:8000/live/Anthony1/Anthony1/49469.m3u8
+#EXTINF:-1,Viasat Nature
+http://thenew.tv:8000/live/Anthony1/Anthony1/49468.m3u8
