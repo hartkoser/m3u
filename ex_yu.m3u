@@ -1,85 +1,273 @@
 #EXTM3U
-#EXTINF:-1,MK Dijaspora HD
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/749
-#EXTINF:-1,Al Jazeera Balkans
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/141
-#EXTINF:-1,Glas Drine HD
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/659
-#EXTINF:-1,SLON TV
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/384
-#EXTINF:-1,TV USK
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/305
-#EXTINF:-1,RTV Zenica
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/420
-#EXTINF:-1,TK Tuzla
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/134
-#EXTINF:-1,RTV 7 Tuzla
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/748
-#EXTINF:-1,RTV HIT
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/743
-#EXTINF:-1,Valentino TV
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/380
-#EXTINF:-1,Televizija 5 HD
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/727
-#EXTINF:-1,Izvorna TV
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/451
-#EXTINF:-1,Posavina TV
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/695
-#EXTINF:-1,DM Sat
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/193
-#EXTINF:-1,SLOBOMIR
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/739
-#EXTINF:-1,Sandzak TV
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/304
-#EXTINF:-1,Sevdah TV
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/723
-#EXTINF:-1,K::CN 1
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/740
-#EXTINF:-1,K::CN 2
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/741
-#EXTINF:-1,K::CN 3
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/742
-#EXTINF:-1,Das Erste HD
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/287
-#EXTINF:-1,N24 DE
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/289
-#EXTINF:-1,ATV 24
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/303
-#EXTINF:-1,TRT 1
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/306
-#EXTINF:-1,CNN (TR)
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/398
-#EXTINF:-1,HABER (TR)
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/339
-#EXTINF:-1,MRT 1 (MK)
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/445
-#EXTINF:-1,RTCG
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/383
-#EXTINF:-1,RTK (KOS)
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/359
-#EXTINF:-1,A1 Bosna
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/729
-#EXTINF:-1,SKY SELECT 10
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/735
-#EXTINF:-1,SKY SELECT 9
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/733
-#EXTINF:-1,A1 Islam
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/731
-#EXTINF:-1,A1 Shqiptare
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/730
-#EXTINF:-1,Viasat Sport Premium HD
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/736
-#EXTINF:-1,Cartoon Network HD DE
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/738
-#EXTINF:-1,A1 Report
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/737
-#EXTINF:-1,MUZIK (TR)
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/340
-#EXTINF:-1,Radio BIR
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/697
-#EXTINF:-1,Radio Bosanska Posavina
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/698
-#EXTINF:-1,Radio Feral
-http://itlabnet.ddns.net:80/MojWeb/616zj6h16/699
-#EXTINF:-1,Radio Juzni Vetar
-http://85.25.134.32:8000/http://85.25.134.32:8003
+#EXTINF:-1,Pink 1
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22070
+#EXTINF:-1,Pink 2
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22069
+#EXTINF:-1,Pink 3
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22068
+#EXTINF:-1,Pink Action
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22063
+#EXTINF:-1,Pink Bravo
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22054
+#EXTINF:-1,Pink Classic
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22055
+#EXTINF:-1,Pink Comedy
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22065
+#EXTINF:-1,Pink Crime & Mystery
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22060
+#EXTINF:-1,Pink Extra
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22053
+#EXTINF:-1,Pink Family
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22066
+#EXTINF:-1,Pink Fashion
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22052
+#EXTINF:-1,Pink Folk 1
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22048
+#EXTINF:-1,Pink Folk 2
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22047
+#EXTINF:-1,Pink HaHa
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22042
+#EXTINF:-1,Pink Hits
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22046
+#EXTINF:-1,Pink Horror
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22057
+#EXTINF:-1,Pink Koncert
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22045
+#EXTINF:-1,Pink Kuvar
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22044
+#EXTINF:-1,Pink LoL
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22043
+#EXTINF:-1,Pink Movies
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22064
+#EXTINF:-1,Pink Music 1
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22050
+#EXTINF:-1,Pink Music 2
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22049
+#EXTINF:-1,Pink Pedia
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22041
+#EXTINF:-1,Pink Plus
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22040
+#EXTINF:-1,Pink Premium
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22062
+#EXTINF:-1,Pink Reality
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22039
+#EXTINF:-1,Pink Romance
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22061
+#EXTINF:-1,Pink Sci Fi & Fantasy
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22059
+#EXTINF:-1,Pink Serije
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22067
+#EXTINF:-1,Pink Show
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22038
+#EXTINF:-1,Pink Thriller
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22058
+#EXTINF:-1,Pink Western
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22056
+#EXTINF:-1,Pink World
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22037
+#EXTINF:-1,Pink Zabava
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22035
+#EXTINF:-1,Film SELECT 01
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/37247
+#EXTINF:-1,Film SELECT 02
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/37246
+#EXTINF:-1,Film SELECT 03
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/37245
+#EXTINF:-1,C-MAX Select 1 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30872
+#EXTINF:-1,C-MAX Select 2 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30871
+#EXTINF:-1,C-MAX Select 3 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30870
+#EXTINF:-1,C-MAX Select 4 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30869
+#EXTINF:-1,C-MAX Select 5 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30868
+#EXTINF:-1,C-MAX Select 6 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30867
+#EXTINF:-1,C-MAX Select 7 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30866
+#EXTINF:-1,C-MAX Select 8 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30865
+#EXTINF:-1,C-MAX Select 9 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30864
+#EXTINF:-1,C-MAX Select 10 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30863
+#EXTINF:-1,C-MAX Select Gold HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30862
+#EXTINF:-1,C-MAX Select Horor HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30861
+#EXTINF:-1,C-MAX Select Premium HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/30860
+#EXTINF:-1,FOX Movies
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22085
+#EXTINF:-1,AXN
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22089
+#EXTINF:-1,FOX Crime
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22088
+#EXTINF:-1,Cinemania
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22074
+#EXTINF:-1,Cinemax 1 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22080
+#EXTINF:-1,Cinemax 2 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22079
+#EXTINF:-1,CineStar Action TV
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22075
+#EXTINF:-1,CineStar Premiere 1 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22077
+#EXTINF:-1,CineStar Premiere 2
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22076
+#EXTINF:-1,Cinestar TV
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22078
+#EXTINF:-1,Comedy Central Extra
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22071
+#EXTINF:-1,Diva
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22090
+#EXTINF:-1,Fox
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22087
+#EXTINF:-1,Fox Life
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22086
+#EXTINF:-1,HBO 1
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22083
+#EXTINF:-1,HBO 2
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22082
+#EXTINF:-1,HBO 3
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22081
+#EXTINF:-1,Kino TV
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22073
+#EXTINF:-1,SciFi
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22084
+#EXTINF:-1,TV 1000
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22072
+#EXTINF:-1,24 Kitchen HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22091
+#EXTINF:-1,Animal Planet
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22100
+#EXTINF:-1,Discovery Channel
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22105
+#EXTINF:-1,Discovery ID
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22104
+#EXTINF:-1,DocuBox
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22098
+#EXTINF:-1,Doku TV
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22097
+#EXTINF:-1,E! Entertainment
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22093
+#EXTINF:-1,Food Network
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22092
+#EXTINF:-1,History
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22099
+#EXTINF:-1,Nat Geo HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22107
+#EXTINF:-1,Nat Geo Wild HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22106
+#EXTINF:-1,Planet Earth
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22096
+#EXTINF:-1,TLC
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22094
+#EXTINF:-1,Travel Channel
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22095
+#EXTINF:-1,Viasat Explore
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22103
+#EXTINF:-1,Viasat History
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22102
+#EXTINF:-1,Viasat Nature
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22101
+#EXTINF:-1, Vavoom
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22115
+#EXTINF:-1,Mini TV
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22112
+#EXTINF:-1,Minimax
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22111
+#EXTINF:-1,Nickelodeon
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22110
+#EXTINF:-1,NickJr
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22109
+#EXTINF:-1,Pikaboo
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22114
+#EXTINF:-1,Pink KIDS
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22117
+#EXTINF:-1,Ultra
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22108
+#EXTINF:-1,Pink Super Kids
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22116
+#EXTINF:-1,TNT Kids
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22113
+#EXTINF:-1,PLANET SPORT 1 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/37254
+#EXTINF:-1,PLANET SPORT 2 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/37253
+#EXTINF:-1,PLANET SPORT 3 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/37252
+#EXTINF:-1,PLANET SPORT 4 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/37251
+#EXTINF:-1,PLANET SPORT 5 HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/37250
+#EXTINF:-1,Arena Sport 1 BH
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22170
+#EXTINF:-1,Arena Sport 1 HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22181
+#EXTINF:-1,Arena Sport 2 HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22180
+#EXTINF:-1,Arena Sport 3 HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22179
+#EXTINF:-1,Arena Sport 4 HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22178
+#EXTINF:-1,Arena Sport 5 HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22177
+#EXTINF:-1,Arena Sport 6 HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22176
+#EXTINF:-1,Arena Sport 1 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22175
+#EXTINF:-1,Arena Sport 2 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22174
+#EXTINF:-1,Arena Sport 3 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22173
+#EXTINF:-1,Arena Sport 4 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22172
+#EXTINF:-1,Arena Sport 5 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22171
+#EXTINF:-1,SK 1 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22169
+#EXTINF:-1,SK 2 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22168
+#EXTINF:-1,SK 3 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22167
+#EXTINF:-1,SK 4 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22166
+#EXTINF:-1,SK 5 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22165
+#EXTINF:-1,SK 6 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22164
+#EXTINF:-1,SK 7 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22163
+#EXTINF:-1,SK 8 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22162
+#EXTINF:-1,SK 9 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22161
+#EXTINF:-1,SK 10 HR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22160
+#EXTINF:-1,SK 1 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22159
+#EXTINF:-1,SK 2 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22158
+#EXTINF:-1,SK 3 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22157
+#EXTINF:-1,SK 4 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22156
+#EXTINF:-1,SK 5 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22155
+#EXTINF:-1,SK 6 SR HD
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22154
+#EXTINF:-1,Eurosport 1
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22186
+#EXTINF:-1,Eurosport 2
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22185
+#EXTINF:-1,Fight Channel HD HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22184
+#EXTINF:-1,FightBox HD HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22183
+#EXTINF:-1,Kreator TV HD HR
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22182
+#EXTINF:-1,SK Golf
+http://stream.aker-ip.tv:25461/Fu8ih7HRNC/xtjmLVn6bk/22153
