@@ -25,7 +25,7 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/3459.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/3458.m3u8
 #EXTINF:-1,BOUNCE TV | SD
 http://thenew.tv:8000/live/Anthony1/Anthony1/7838.m3u8
-#EXTINF:-1,US:BOOMERANG
+#EXTINF:-1,BOOMERANG
 http://thenew.tv:8000/live/Anthony1/Anthony1/3457.m3u8
 #EXTINF:-1,BRAVO | HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/32969.m3u8
@@ -71,7 +71,7 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/3386.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/3385.m3u8
 #EXTINF:-1,DIY Network HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/3445.m3u8
-#EXTINF:-1,US:EL REY NETWORK (FHD)
+#EXTINF:-1,EL REY NETWORK (FHD)
 http://thenew.tv:8000/live/Anthony1/Anthony1/59581.m3u8
 #EXTINF:-1,E! Entertainment
 http://thenew.tv:8000/live/Anthony1/Anthony1/3443.m3u8
@@ -79,7 +79,7 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/3443.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/3441.m3u8
 #EXTINF:-1,Food Network HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/3440.m3u8
-#EXTINF:-1,US:FOX BUSINESS
+#EXTINF:-1,FOX BUSINESS
 http://thenew.tv:8000/live/Anthony1/Anthony1/3438.m3u8
 #EXTINF:-1,FOX
 http://thenew.tv:8000/live/Anthony1/Anthony1/3437.m3u8
@@ -119,13 +119,13 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/3383.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/38449.m3u8
 #EXTINF:-1,INSP | HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/38450.m3u8
-#EXTINF:-1,US:INVESTIGATION DISCOVERY
+#EXTINF:-1,INVESTIGATION DISCOVERY
 http://thenew.tv:8000/live/Anthony1/Anthony1/3425.m3u8
 #EXTINF:-1,ION HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/3424.m3u8
 #EXTINF:-1,LIFETIME
 http://thenew.tv:8000/live/Anthony1/Anthony1/3423.m3u8
-#EXTINF:-1,US:LIFETIME MOVIES
+#EXTINF:-1,LIFETIME MOVIES
 http://thenew.tv:8000/live/Anthony1/Anthony1/3422.m3u8
 #EXTINF:-1,ME TV | HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/18716.m3u8
@@ -139,9 +139,9 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/3382.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/3419.m3u8
 #EXTINF:-1,NAT GEO WILD HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/3418.m3u8
-#EXTINF:-1,US:NBC
+#EXTINF:-1,NBC
 http://thenew.tv:8000/live/Anthony1/Anthony1/3417.m3u8
-#EXTINF:-1,US:NBC EAST HD
+#EXTINF:-1,NBC EAST HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/3416.m3u8
 #EXTINF:-1,NBC Telemundo
 http://thenew.tv:8000/live/Anthony1/Anthony1/3380.m3u8
@@ -157,7 +157,7 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/3413.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/38451.m3u8
 #EXTINF:-1,OUTDOOR CHANNEL | HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/48437.m3u8
-#EXTINF:-1,US:OWN
+#EXTINF:-1,OWN
 http://thenew.tv:8000/live/Anthony1/Anthony1/3412.m3u8
 #EXTINF:-1,OXYGEN HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/3411.m3u8
@@ -165,7 +165,7 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/3411.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/32492.m3u8
 #EXTINF:-1,PBS
 http://thenew.tv:8000/live/Anthony1/Anthony1/3410.m3u8
-#EXTINF:-1,US:PBS KIDS
+#EXTINF:-1,PBS KIDS
 http://thenew.tv:8000/live/Anthony1/Anthony1/3409.m3u8
 #EXTINF:-1,PEOPLE TV | SD
 http://thenew.tv:8000/live/Anthony1/Anthony1/38452.m3u8
@@ -241,11 +241,11 @@ http://thenew.tv:8000/live/Anthony1/Anthony1/5829.m3u8
 http://thenew.tv:8000/live/Anthony1/Anthony1/5828.m3u8
 #EXTINF:-1,CNBC WORLD | HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/5827.m3u8
-#EXTINF:-1,US:C-SPAN 1
+#EXTINF:-1,C-SPAN 1
 http://thenew.tv:8000/live/Anthony1/Anthony1/62949.m3u8
-#EXTINF:-1,US:C-SPAN 2
+#EXTINF:-1,C-SPAN 2
 http://thenew.tv:8000/live/Anthony1/Anthony1/62948.m3u8
-#EXTINF:-1,US:C-SPAN 3
+#EXTINF:-1,C-SPAN 3
 http://thenew.tv:8000/live/Anthony1/Anthony1/62947.m3u8
 #EXTINF:-1,CNN | HD
 http://thenew.tv:8000/live/Anthony1/Anthony1/5826.m3u8

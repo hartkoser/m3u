@@ -1,201 +1,579 @@
 #EXTM3U
-#EXTINF:-1,SKY SPORT NEWS HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23458.m3u8
-#EXTINF:-1,SKY SPORT PREMIERE LEAGUE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23457.m3u8
-#EXTINF:-1,SKY SPORT CRICKET
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23456.m3u8
-#EXTINF:-1,SKY SPORT ACTION
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23455.m3u8
-#EXTINF:-1,SKY SPORT GOLF HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23454.m3u8
-#EXTINF:-1,SKY SPORT FOOTBALL HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23453.m3u8
-#EXTINF:-1,BT SPORT HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23452.m3u8
-#EXTINF:-1,BT SPORT2HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23451.m3u8
-#EXTINF:-1,BT SPORT3FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23450.m3u8
-#EXTINF:-1,BTSPORT ESPN HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23449.m3u8
-#EXTINF:-1,CHELSEA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23446.m3u8
-#EXTINF:-1,SKY SPORTF1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23445.m3u8
-#EXTINF:-1,EUROSPORT UK
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23444.m3u8
-#EXTINF:-1,EUROSPORT2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23443.m3u8
-#EXTINF:-1,Setanta Sport 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23447.m3u8
-#EXTINF:-1,SetantaSports Ireland
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23448.m3u8
-#EXTINF:-1,PREMIER SPORTS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23442.m3u8
-#EXTINF:-1,BIKE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23441.m3u8
-#EXTINF:-1,MOTORS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28358.m3u8
-#EXTINF:-1,AT THE RACES
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23440.m3u8
-#EXTINF:-1,FIGHTBOX
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23439.m3u8
-#EXTINF:-1,5STAR
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23437.m3u8
-#EXTINF:-1,SKY_PREMIERE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23436.m3u8
-#EXTINF:-1,SKY_Family HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23435.m3u8
-#EXTINF:-1,SKY_Action
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23434.m3u8
-#EXTINF:-1,SKY_Drama
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23433.m3u8
-#EXTINF:-1,SKY THRILLER
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23432.m3u8
-#EXTINF:-1,SKY_SciFi&Hor
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23431.m3u8
-#EXTINF:-1,SKY_Select
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23430.m3u8
-#EXTINF:-1,SKY_Comedy
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23429.m3u8
-#EXTINF:-1,SKY_showcast
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23428.m3u8
-#EXTINF:-1,Film4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23427.m3u8
-#EXTINF:-1,TCM
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28354.m3u8
-#EXTINF:-1,Sony Movie Ch
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23426.m3u8
-#EXTINF:-1,TRUE MOVIES
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23425.m3u8
-#EXTINF:-1,RealLives
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23423.m3u8
-#EXTINF:-1,Movies4Men
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23424.m3u8
-#EXTINF:-1, DISNEY CHANNEL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23420.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23419.m3u8
-#EXTINF:-1,DISNEY XD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23418.m3u8
-#EXTINF:-1,Nickelodeon
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23417.m3u8
-#EXTINF:-1, NICKELODEON JR
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23416.m3u8
-#EXTINF:-1,Nick_Jr.2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23415.m3u8
-#EXTINF:-1,Nick_Jr.1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23414.m3u8
-#EXTINF:-1,NICKTOONS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23413.m3u8
-#EXTINF:-1,Nicktoon Ireland
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23412.m3u8
-#EXTINF:-1,BOOMERANG
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23411.m3u8
-#EXTINF:-1,CARTOON NET
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23410.m3u8
-#EXTINF:-1,CARTOONITO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23409.m3u8
-#EXTINF:-1,BIABY
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23408.m3u8
-#EXTINF:-1,TINY POP
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23407.m3u8
-#EXTINF:-1,SKY ONE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23405.m3u8
-#EXTINF:-1,SKY TWO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23404.m3u8
-#EXTINF:-1,BBC 1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23403.m3u8
-#EXTINF:-1,BBC 3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28350.m3u8
-#EXTINF:-1,BBC 4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28351.m3u8
-#EXTINF:-1,ITV1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23402.m3u8
-#EXTINF:-1,ITV2 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23401.m3u8
-#EXTINF:-1,ITV3 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23400.m3u8
-#EXTINF:-1,ITV4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23399.m3u8
-#EXTINF:-1,CHANNEL 4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28355.m3u8
-#EXTINF:-1,CHANNEL 5
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28356.m3u8
-#EXTINF:-1,RTE ONE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28352.m3u8
-#EXTINF:-1,RTE TWO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28353.m3u8
-#EXTINF:-1, LONDON LIVE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28360.m3u8
-#EXTINF:-1,GOLD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28359.m3u8
-#EXTINF:-1,WATCH
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28357.m3u8
-#EXTINF:-1,3e
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23398.m3u8
-#EXTINF:-1,E4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28415.m3u8
-#EXTINF:-1,ALIBI
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23397.m3u8
-#EXTINF:-1,CBS ACTION
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23396.m3u8
-#EXTINF:-1,CBS DRAMA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23395.m3u8
-#EXTINF:-1,CBS REALITY
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23394.m3u8
-#EXTINF:-1,DAVE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23393.m3u8
+#EXTINF:-1, SKY CINEMA GREATS (PIRATES) SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21683.m3u8
+#EXTINF:-1,4 MUSIC | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/7775.m3u8
+#EXTINF:-1,4SEVEN | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21606.m3u8
+#EXTINF:-1,5 SELECT | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21602.m3u8
+#EXTINF:-1,5 SPIKE | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21600.m3u8
+#EXTINF:-1,5 Star  1 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21598.m3u8
+#EXTINF:-1,5 Star | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21597.m3u8
+#EXTINF:-1,5 USA | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21592.m3u8
+#EXTINF:-1,AL JAZEERA | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/5833.m3u8
+#EXTINF:-1,ALIBI | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21590.m3u8
+#EXTINF:-1,Alibi HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/22272.m3u8
+#EXTINF:-1,AMC | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21682.m3u8
+#EXTINF:-1,Animal Planet
+http://thenew.tv:8000/live/Anthony1/Anthony1/21609.m3u8
+#EXTINF:-1,At The Races | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21794.m3u8
+#EXTINF:-1,BABY TV | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9783.m3u8
+#EXTINF:-1,BBC ALBA | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21589.m3u8
+#EXTINF:-1,BBC FOUR | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21586.m3u8
+#EXTINF:-1,BBC News HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21621.m3u8
+#EXTINF:-1,BBC ONE (North Ireland) | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21582.m3u8
+#EXTINF:-1,BBC ONE (Scottland) | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21581.m3u8
+#EXTINF:-1,BBC ONE | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21579.m3u8
+#EXTINF:-1,BBC One Cambridge | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21577.m3u8
+#EXTINF:-1,BBC One Channel Islands | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21575.m3u8
+#EXTINF:-1,BBC One East | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21572.m3u8
+#EXTINF:-1,BBC One East Midlands | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21571.m3u8
+#EXTINF:-1,BBC One East Yorkshire | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21568.m3u8
+#EXTINF:-1,BBC One Wales | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21566.m3u8
+#EXTINF:-1,BBC One West Midlands
+http://thenew.tv:8000/live/Anthony1/Anthony1/21562.m3u8
+#EXTINF:-1,BBC PARLIAMENT | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21620.m3u8
+#EXTINF:-1,BBC RED BUTTON | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21792.m3u8
+#EXTINF:-1,BBC TWO (Northern Ireland)
+http://thenew.tv:8000/live/Anthony1/Anthony1/21561.m3u8
+#EXTINF:-1,BBC TWO (Northern Ireland)*
+http://thenew.tv:8000/live/Anthony1/Anthony1/21558.m3u8
+#EXTINF:-1,BBC TWO | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21557.m3u8
+#EXTINF:-1,BBC TWO | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21552.m3u8
+#EXTINF:-1,BBC Two Wales
+http://thenew.tv:8000/live/Anthony1/Anthony1/21551.m3u8
+#EXTINF:-1,BEN
+http://thenew.tv:8000/live/Anthony1/Anthony1/21619.m3u8
+#EXTINF:-1,BET | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21549.m3u8
+#EXTINF:-1,BET | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21546.m3u8
+#EXTINF:-1,BETFRED | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21545.m3u8
+#EXTINF:-1,Blaze | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21542.m3u8
+#EXTINF:-1,Box Hits
+http://thenew.tv:8000/live/Anthony1/Anthony1/21599.m3u8
+#EXTINF:-1,UK:Box Nation HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/29447.m3u8
+#EXTINF:-1,BT Sport 1 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21789.m3u8
+#EXTINF:-1,BT Sport 2 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21786.m3u8
+#EXTINF:-1,BT Sport 3 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21781.m3u8
+#EXTINF:-1,BT Sport ESPN | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21776.m3u8
+#EXTINF:-1,BT Sport Extra 1 | HD*
+http://thenew.tv:8000/live/Anthony1/Anthony1/21772.m3u8
+#EXTINF:-1,BT Sport Extra 2 | HD*
+http://thenew.tv:8000/live/Anthony1/Anthony1/21771.m3u8
+#EXTINF:-1,BT Sport Extra 3 | HD*
+http://thenew.tv:8000/live/Anthony1/Anthony1/21770.m3u8
+#EXTINF:-1,BT Sport Extra 4 | HD*
+http://thenew.tv:8000/live/Anthony1/Anthony1/21769.m3u8
+#EXTINF:-1,BT Sport Extra 5 | HD*
+http://thenew.tv:8000/live/Anthony1/Anthony1/21768.m3u8
+#EXTINF:-1,BT SPORTS 1 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21767.m3u8
+#EXTINF:-1,BT SPORTS 2 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21765.m3u8
+#EXTINF:-1,BT SPORTS 2 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21764.m3u8
+#EXTINF:-1,BT SPORTS 3 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21763.m3u8
+#EXTINF:-1,BT SPORTS 3 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21762.m3u8
+#EXTINF:-1,BT SPORTS EPSN | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21761.m3u8
+#EXTINF:-1,BT SPORTS ESPN | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21760.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 1 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21759.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 2 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21758.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 3 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21757.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 4 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21756.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 5 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21755.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 6 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21754.m3u8
+#EXTINF:-1,BT SPORTS EXTRA 7 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21753.m3u8
+#EXTINF:-1,CARTOONITO | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9782.m3u8
+#EXTINF:-1,CBBC | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9781.m3u8
+#EXTINF:-1,CBEEBIES | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9780.m3u8
+#EXTINF:-1,CBS Action | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21539.m3u8
+#EXTINF:-1,CBS Drama | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21537.m3u8
+#EXTINF:-1,CBS REALITY | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21534.m3u8
+#EXTINF:-1,Challenge
+http://thenew.tv:8000/live/Anthony1/Anthony1/21533.m3u8
+#EXTINF:-1,CHANNEL 4  1 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21596.m3u8
+#EXTINF:-1,Channel 4 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21530.m3u8
+#EXTINF:-1,CHANNEL 4 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21529.m3u8
+#EXTINF:-1,CHANNEL 4 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21526.m3u8
+#EXTINF:-1,Channel 5 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21525.m3u8
+#EXTINF:-1,CHANNEL 5 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21521.m3u8
+#EXTINF:-1,Chart Show Hits
+http://thenew.tv:8000/live/Anthony1/Anthony1/21594.m3u8
+#EXTINF:-1,Chart Show TV | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/7774.m3u8
+#EXTINF:-1,Chelsea TV | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21752.m3u8
+#EXTINF:-1,CITV | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21517.m3u8
+#EXTINF:-1,Clubland | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21516.m3u8
+#EXTINF:-1,CNN
+http://thenew.tv:8000/live/Anthony1/Anthony1/21618.m3u8
+#EXTINF:-1,CNN | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21515.m3u8
+#EXTINF:-1,CNN | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21617.m3u8
+#EXTINF:-1,CNN INTERNATIONAL | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21616.m3u8
+#EXTINF:-1,COMEDY CENTRAL | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21514.m3u8
+#EXTINF:-1,COMEDY CENTRAL XTRA  1 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21513.m3u8
+#EXTINF:-1,COMEDY CENTRAL XTRA | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21512.m3u8
+#EXTINF:-1,Coral TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/21511.m3u8
+#EXTINF:-1,Crime & Investigation | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21593.m3u8
+#EXTINF:-1,Crime Investigation | HD*
+http://thenew.tv:8000/live/Anthony1/Anthony1/21591.m3u8
+#EXTINF:-1,CRIME INVESTIGATION | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21588.m3u8
+#EXTINF:-1,DAVE | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21510.m3u8
+#EXTINF:-1,DAVE | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21509.m3u8
+#EXTINF:-1,DAVE JA VU | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21508.m3u8
+#EXTINF:-1,Deutche Welle English
+http://thenew.tv:8000/live/Anthony1/Anthony1/21507.m3u8
+#EXTINF:-1,Disc History
+http://thenew.tv:8000/live/Anthony1/Anthony1/21587.m3u8
+#EXTINF:-1,Disc Science
+http://thenew.tv:8000/live/Anthony1/Anthony1/21585.m3u8
+#EXTINF:-1,Discovery Channel
+http://thenew.tv:8000/live/Anthony1/Anthony1/21583.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21580.m3u8
+#EXTINF:-1,Discovery History | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21578.m3u8
+#EXTINF:-1,Discovery Science | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21576.m3u8
+#EXTINF:-1,Discovery Shed | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21574.m3u8
+#EXTINF:-1,Discovery Shed HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/22273.m3u8
+#EXTINF:-1,Discovery Turbo
+http://thenew.tv:8000/live/Anthony1/Anthony1/21573.m3u8
+#EXTINF:-1,DISNEY CHANNEL | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9778.m3u8
+#EXTINF:-1,DISNEY JR | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9777.m3u8
+#EXTINF:-1,DISNEY XD | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9776.m3u8
+#EXTINF:-1,DMAX | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21506.m3u8
+#EXTINF:-1,DMAX | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21569.m3u8
+#EXTINF:-1,DRAMA | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21505.m3u8
 #EXTINF:-1,E!
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23391.m3u8
-#EXTINF:-1,LIFETIME
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23390.m3u8
-#EXTINF:-1,TLC
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23389.m3u8
-#EXTINF:-1,SKY ATLANTIC
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23388.m3u8
-#EXTINF:-1,SKY LIVING
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23387.m3u8
-#EXTINF:-1,FOX
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23386.m3u8
-#EXTINF:-1,ComedyCentral
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23385.m3u8
-#EXTINF:-1,Nat Geo
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23383.m3u8
-#EXTINF:-1,Nat GeoWild
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23382.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23381.m3u8
-#EXTINF:-1,Discovery
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23380.m3u8
-#EXTINF:-1,DMAX
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23379.m3u8
-#EXTINF:-1,ID
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23378.m3u8
-#EXTINF:-1,ID Xtra
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23377.m3u8
-#EXTINF:-1,Discovery History
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23376.m3u8
-#EXTINF:-1,DISCOVERY SHED
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23375.m3u8
-#EXTINF:-1,DISCOVERY TURBO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23374.m3u8
-#EXTINF:-1,NatGeoWild
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23373.m3u8
-#EXTINF:-1,Travel Channel
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23372.m3u8
-#EXTINF:-1,History 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23371.m3u8
-#EXTINF:-1,History 2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23370.m3u8
-#EXTINF:-1,EDEN
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23392.m3u8
-#EXTINF:-1,Home&Health
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23422.m3u8
-#EXTINF:-1,BBC World News
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23368.m3u8
-#EXTINF:-1,FOXNews
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23367.m3u8
-#EXTINF:-1,ALJAZEERA ENG
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23366.m3u8
+http://thenew.tv:8000/live/Anthony1/Anthony1/21504.m3u8
+#EXTINF:-1,E! | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21503.m3u8
+#EXTINF:-1,E4   1 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21567.m3u8
+#EXTINF:-1,E4 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21565.m3u8
+#EXTINF:-1,E4 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21502.m3u8
+#EXTINF:-1,EDEN | FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21563.m3u8
+#EXTINF:-1,EDEN | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21560.m3u8
+#EXTINF:-1,EDEN | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21559.m3u8
+#EXTINF:-1,EIR Sports 1 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21751.m3u8
+#EXTINF:-1,EIR Sports 2 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21750.m3u8
+#EXTINF:-1,Eleven Sports 1 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/24264.m3u8
+#EXTINF:-1,Eleven Sports 2 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/24263.m3u8
+#EXTINF:-1,Eleven Sports La liga 24/7 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/24262.m3u8
+#EXTINF:-1,Euronews | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21615.m3u8
+#EXTINF:-1,Eurosport 1 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21749.m3u8
+#EXTINF:-1,Eurosport 1 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21747.m3u8
+#EXTINF:-1,EUROSPORT 2 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21746.m3u8
+#EXTINF:-1,EUROSPORT 2 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21745.m3u8
+#EXTINF:-1,Eurosport 2 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21744.m3u8
+#EXTINF:-1,FILM4 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21501.m3u8
+#EXTINF:-1,FILM4 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21681.m3u8
+#EXTINF:-1,FINE LIVING | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21500.m3u8
+#EXTINF:-1,Food Network | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21499.m3u8
+#EXTINF:-1,Forces TV | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21556.m3u8
+#EXTINF:-1,Fox | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21498.m3u8
+#EXTINF:-1,FOX | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21497.m3u8
+#EXTINF:-1,France 24 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21614.m3u8
+#EXTINF:-1,Free Sports | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21743.m3u8
+#EXTINF:-1,GINXeSports TV | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21742.m3u8
+#EXTINF:-1,GOLD | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21496.m3u8
+#EXTINF:-1,GOOD FOOD | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21554.m3u8
+#EXTINF:-1,H2 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21553.m3u8
+#EXTINF:-1,HBO | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21680.m3u8
+#EXTINF:-1,Hearts Summer
+http://thenew.tv:8000/live/Anthony1/Anthony1/21494.m3u8
+#EXTINF:-1,History | FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21550.m3u8
+#EXTINF:-1,History | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21547.m3u8
+#EXTINF:-1,HISTORY 2 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21544.m3u8
+#EXTINF:-1,History Channel HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/22274.m3u8
+#EXTINF:-1,HOME & HEALTH | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21493.m3u8
+#EXTINF:-1,Home | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21492.m3u8
+#EXTINF:-1,HORROR CHANNEL
+http://thenew.tv:8000/live/Anthony1/Anthony1/21678.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21538.m3u8
+#EXTINF:-1,ITV 1 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21491.m3u8
+#EXTINF:-1,ITV 1 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21489.m3u8
+#EXTINF:-1,ITV 2 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21488.m3u8
+#EXTINF:-1,ITV 3 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21485.m3u8
+#EXTINF:-1,ITV 4 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21482.m3u8
+#EXTINF:-1,ITV BE | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21479.m3u8
+#EXTINF:-1,KERRANG | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/7773.m3u8
+#EXTINF:-1,KISS
+http://thenew.tv:8000/live/Anthony1/Anthony1/21535.m3u8
+#EXTINF:-1,Ladbrokes TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/21477.m3u8
+#EXTINF:-1,Liverpool FC TV |  SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10322.m3u8
+#EXTINF:-1,Motorsport.tv
+http://thenew.tv:8000/live/Anthony1/Anthony1/21472.m3u8
+#EXTINF:-1,MOVIES24
+http://thenew.tv:8000/live/Anthony1/Anthony1/21677.m3u8
+#EXTINF:-1,MOVIES4MEN
+http://thenew.tv:8000/live/Anthony1/Anthony1/21676.m3u8
+#EXTINF:-1,MTV | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21471.m3u8
+#EXTINF:-1,MTV | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21470.m3u8
+#EXTINF:-1,MTV Base | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/7772.m3u8
+#EXTINF:-1,MTV MUSIC | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/7771.m3u8
+#EXTINF:-1,MUTV | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21739.m3u8
+#EXTINF:-1,MUTV | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21738.m3u8
+#EXTINF:-1,NAT GEO WILD | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21531.m3u8
+#EXTINF:-1,National Geographic | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21527.m3u8
+#EXTINF:-1,National Geographic HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21524.m3u8
+#EXTINF:-1,NICK JR | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9774.m3u8
+#EXTINF:-1,NICKELODEON | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9773.m3u8
+#EXTINF:-1,NOLLYWOOD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21675.m3u8
+#EXTINF:-1,Now 80s | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21469.m3u8
+#EXTINF:-1,PBS America | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21468.m3u8
+#EXTINF:-1,Pick | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21467.m3u8
+#EXTINF:-1,POP | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9772.m3u8
+#EXTINF:-1,POP MAX | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/9771.m3u8
+#EXTINF:-1,QUEST  1
+http://thenew.tv:8000/live/Anthony1/Anthony1/21466.m3u8
+#EXTINF:-1,QUEST | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21465.m3u8
+#EXTINF:-1,QUEST RED
+http://thenew.tv:8000/live/Anthony1/Anthony1/21464.m3u8
+#EXTINF:-1,QUEST RED  1
+http://thenew.tv:8000/live/Anthony1/Anthony1/21463.m3u8
+#EXTINF:-1,Racing UK | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21732.m3u8
+#EXTINF:-1,Racing UK | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21730.m3u8
+#EXTINF:-1,Real Lives | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21523.m3u8
+#EXTINF:-1,Really
+http://thenew.tv:8000/live/Anthony1/Anthony1/21462.m3u8
+#EXTINF:-1,ROK | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21461.m3u8
+#EXTINF:-1,RUSSIA TODAY | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21613.m3u8
+#EXTINF:-1,RUSSIA TODAY DOCS | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21612.m3u8
+#EXTINF:-1,S4C
+http://thenew.tv:8000/live/Anthony1/Anthony1/21460.m3u8
+#EXTINF:-1,S4C | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21459.m3u8
+#EXTINF:-1,Sheffield Steelers | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21728.m3u8
+#EXTINF:-1,SIS Europe | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21458.m3u8
+#EXTINF:-1,SKY ARTS  1 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21457.m3u8
+#EXTINF:-1,SKY ARTS | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21456.m3u8
+#EXTINF:-1,SKY ATLANTIC | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21455.m3u8
+#EXTINF:-1,SKY ATLANTIC | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21453.m3u8
+#EXTINF:-1,SKY CINEMA ACTION  HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21674.m3u8
+#EXTINF:-1,Sky Cinema Comedy | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21670.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21668.m3u8
+#EXTINF:-1,SKY CINEMA DISNEY HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21664.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21659.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21656.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21655.m3u8
+#EXTINF:-1,SKY CINEMA GREATS (PIRATES) FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21653.m3u8
+#EXTINF:-1,SKY CINEMA GREATS | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21652.m3u8
+#EXTINF:-1,SKY CINEMA HITS HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21649.m3u8
+#EXTINF:-1,SKY CINEMA PREMIER HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21645.m3u8
+#EXTINF:-1,SKY CINEMA PREMIER SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21644.m3u8
+#EXTINF:-1,Sky Cinema Premiere 1 | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21641.m3u8
+#EXTINF:-1,SKY CINEMA SCIFI & HORROR FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21639.m3u8
+#EXTINF:-1,SKY CINEMA SCIFI & HORROR HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21638.m3u8
+#EXTINF:-1,SKY CINEMA SELECT HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21634.m3u8
+#EXTINF:-1,SKY CINEMA SELECT SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21633.m3u8
+#EXTINF:-1,SKY CINEMA THRILLER HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21629.m3u8
+#EXTINF:-1,SKY LIVING | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21450.m3u8
+#EXTINF:-1,SKY LIVING | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21448.m3u8
+#EXTINF:-1,Sky News | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21611.m3u8
+#EXTINF:-1,Sky News HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21610.m3u8
+#EXTINF:-1,SKY ONE | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21447.m3u8
+#EXTINF:-1,SKY ONE | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21445.m3u8
+#EXTINF:-1,Sky Sports Action | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10321.m3u8
+#EXTINF:-1,Sky Sports Action | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21707.m3u8
+#EXTINF:-1,Sky Sports Action | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10319.m3u8
+#EXTINF:-1,Sky Sports Arena | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10318.m3u8
+#EXTINF:-1,Sky Sports Arena | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21706.m3u8
+#EXTINF:-1,Sky Sports Arena | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10316.m3u8
+#EXTINF:-1,Sky Sports Cricket | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10314.m3u8
+#EXTINF:-1,Sky Sports Cricket | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21703.m3u8
+#EXTINF:-1,Sky Sports F1 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21701.m3u8
+#EXTINF:-1,Sky Sports F1 | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10308.m3u8
+#EXTINF:-1,Sky Sports Football | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10306.m3u8
+#EXTINF:-1,Sky Sports Football | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21697.m3u8
+#EXTINF:-1,Sky Sports Golf | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10303.m3u8
+#EXTINF:-1,Sky Sports Golf | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21695.m3u8
+#EXTINF:-1,Sky Sports Main Event | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10299.m3u8
+#EXTINF:-1,Sky Sports Main Event | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21693.m3u8
+#EXTINF:-1,Sky Sports Main Event | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10297.m3u8
+#EXTINF:-1,Sky Sports MIX | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10295.m3u8
+#EXTINF:-1,Sky Sports MIX | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21691.m3u8
+#EXTINF:-1,Sky Sports MIX | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10293.m3u8
+#EXTINF:-1,Sky Sports MIX | UHD*
+http://thenew.tv:8000/live/Anthony1/Anthony1/21690.m3u8
+#EXTINF:-1,Sky Sports News | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10290.m3u8
+#EXTINF:-1,Sky Sports News | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21687.m3u8
+#EXTINF:-1,Sky Sports Premier League |  SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21686.m3u8
+#EXTINF:-1,Sky Sports Premier League | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10286.m3u8
+#EXTINF:-1,Sky Sports Premier League | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21685.m3u8
+#EXTINF:-1,Sky Sports Red Button 01 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10283.m3u8
+#EXTINF:-1,Sky Sports Red Button 02 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10282.m3u8
+#EXTINF:-1,Sky Sports Red Button 03 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10281.m3u8
+#EXTINF:-1,Sky Sports Red Button 04 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10280.m3u8
+#EXTINF:-1,Sky Sports Red Button 05 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10279.m3u8
+#EXTINF:-1,Sky Sports Red Button 06 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10278.m3u8
+#EXTINF:-1,Sky Sports Red Button 07 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10277.m3u8
+#EXTINF:-1,Sky Sports Red Button 08 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10276.m3u8
+#EXTINF:-1,Sky Sports Red Button 09 | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/10275.m3u8
+#EXTINF:-1,Sky TWO | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21444.m3u8
+#EXTINF:-1,SONY CRIME
+http://thenew.tv:8000/live/Anthony1/Anthony1/21627.m3u8
+#EXTINF:-1,SONY MOVIES | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21626.m3u8
+#EXTINF:-1,Starz TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/21442.m3u8
+#EXTINF:-1,STV | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21441.m3u8
+#EXTINF:-1,SYFY | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21440.m3u8
+#EXTINF:-1,SYFY | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21439.m3u8
+#EXTINF:-1,TALKING PICTURES | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21438.m3u8
+#EXTINF:-1,TCM | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21625.m3u8
+#EXTINF:-1,TCM | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21437.m3u8
+#EXTINF:-1,TCM FHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21624.m3u8
+#EXTINF:-1,The Vault | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21436.m3u8
+#EXTINF:-1,TLC (Ireland) | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21435.m3u8
+#EXTINF:-1,TLC | UHD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21433.m3u8
+#EXTINF:-1,Travel Channel | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21432.m3u8
+#EXTINF:-1,True Entertainment
+http://thenew.tv:8000/live/Anthony1/Anthony1/21431.m3u8
+#EXTINF:-1,TRUE MOVIES | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21623.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21430.m3u8
+#EXTINF:-1,UTV
+http://thenew.tv:8000/live/Anthony1/Anthony1/21429.m3u8
+#EXTINF:-1,UTV | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21428.m3u8
+#EXTINF:-1,Viceland | HD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21518.m3u8
+#EXTINF:-1,VINTAGE TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/21426.m3u8
+#EXTINF:-1,Virgin Radio Tv
+http://thenew.tv:8000/live/Anthony1/Anthony1/21425.m3u8
+#EXTINF:-1,W | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21424.m3u8
+#EXTINF:-1,William Hill TV
+http://thenew.tv:8000/live/Anthony1/Anthony1/21422.m3u8
+#EXTINF:-1,YESTERDAY | SD
+http://thenew.tv:8000/live/Anthony1/Anthony1/21421.m3u8
