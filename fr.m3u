@@ -1,841 +1,271 @@
 #EXTM3U
-#EXTINF:-1,TF1 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13847.m3u8
-#EXTINF:-1,TF1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13917.m3u8
-#EXTINF:-1,TF1 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/84.m3u8
-#EXTINF:-1,TF1 +1 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13817.m3u8
-#EXTINF:-1,FRANCE 2 FHD
-http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/3.ts
-#EXTINF:-1,FRANCE 2 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13916.m3u8
-#EXTINF:-1,FRANCE 2 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1007.m3u8
-#EXTINF:-1,FRANCE 3 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13738.m3u8
-#EXTINF:-1,FRANCE 3 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13915.m3u8
-#EXTINF:-1,FRANCE 3 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1008.m3u8
-#EXTINF:-1,FRANCE 4 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13737.m3u8
-#EXTINF:-1,FRANCE 4 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13914.m3u8
-#EXTINF:-1,FRANCE 4 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1009.m3u8
-#EXTINF:-1,FRANCE 5 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13736.m3u8
-#EXTINF:-1,FRANCE 5 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13913.m3u8
-#EXTINF:-1,FRANCE 5 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1013.m3u8
-#EXTINF:-1,FRANCE O HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13735.m3u8
-#EXTINF:-1,FRANCE O SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1021.m3u8
-#EXTINF:-1,M6 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13726.m3u8
-#EXTINF:-1,M6 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14003.m3u8
-#EXTINF:-1,M6 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/90.m3u8
-#EXTINF:-1,PARIS PREMIERE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13824.m3u8
-#EXTINF:-1,PARIS PREMIERE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13993.m3u8
-#EXTINF:-1,PARIS PREMIERE SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1030.m3u8
-#EXTINF:-1,TMC FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13696.m3u8
-#EXTINF:-1,TMC HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13979.m3u8
-#EXTINF:-1,TMC SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1014.m3u8
-#EXTINF:-1,TV BREIZH FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13693.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13975.m3u8
-#EXTINF:-1,TV BREIZH SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1032.m3u8
-#EXTINF:-1,6TER FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13793.m3u8
-#EXTINF:-1,6TER SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1024.m3u8
-#EXTINF:-1,ARTE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13788.m3u8
-#EXTINF:-1,ARTE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14043.m3u8
-#EXTINF:-1,ARTE SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/426.m3u8
-#EXTINF:-1,IDF
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13810.m3u8
-#EXTINF:-1,CANAL + FHD
-http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/2.ts
-#EXTINF:-1,CANAL + SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28345.m3u8
-#EXTINF:-1,CANAL + DECALE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13768.m3u8
-#EXTINF:-1,CANAL + DECALE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14035.m3u8
-#EXTINF:-1,CANAL + DECALE SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28346.m3u8
-#EXTINF:-1,CANAL + FAMILY FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13767.m3u8
-#EXTINF:-1,CANAL + FAMILY HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14033.m3u8
-#EXTINF:-1,CANAL + FAMILY SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28348.m3u8
-#EXTINF:-1,CANAL + CINEMA FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13769.m3u8
-#EXTINF:-1,CANAL + CINEMA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28942.m3u8
-#EXTINF:-1,CANAL + CINEMA SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28347.m3u8
-#EXTINF:-1,OCS MAX FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13825.m3u8
-#EXTINF:-1,OCS MAX HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13996.m3u8
-#EXTINF:-1,OCS GEANTS FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13833.m3u8
-#EXTINF:-1,OCS GEANTS HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13846.m3u8
-#EXTINF:-1,OCS CITY FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13827.m3u8
-#EXTINF:-1,OCS CITY HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13994.m3u8
-#EXTINF:-1,OCS CHOC FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13834.m3u8
-#EXTINF:-1,OCS CHOC HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13995.m3u8
-#EXTINF:-1,CINE+ PREMIER FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13759.m3u8
-#EXTINF:-1,CINE+ PREMIER HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14021.m3u8
-#EXTINF:-1,CINE+ PREMIER SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28332.m3u8
-#EXTINF:-1,CINE+ FRISSON FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13754.m3u8
-#EXTINF:-1,CINE+ FRISSON HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14023.m3u8
-#EXTINF:-1,CINE+ FRISSON SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28331.m3u8
-#EXTINF:-1,CINE+ FAMIZ FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13755.m3u8
-#EXTINF:-1,CINE+ FAMIZ HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13941.m3u8
-#EXTINF:-1,CINE+ FAMIZ SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28329.m3u8
-#EXTINF:-1,CINE+ EMOTION FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13756.m3u8
-#EXTINF:-1,CINE+ EMOTION HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14024.m3u8
-#EXTINF:-1,CINE+ EMOTION SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28330.m3u8
-#EXTINF:-1,ACTION FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13790.m3u8
-#EXTINF:-1,ACTION HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14045.m3u8
-#EXTINF:-1,ACTION SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28334.m3u8
-#EXTINF:-1,CINE+ CLUB FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13757.m3u8
-#EXTINF:-1,CINE+ CLUB HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14025.m3u8
-#EXTINF:-1,CINE+ CLUB SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28328.m3u8
-#EXTINF:-1,CINE POLAR FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13752.m3u8
-#EXTINF:-1,CINE+ POLAR HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14027.m3u8
-#EXTINF:-1,CINE+ POLAR SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28335.m3u8
-#EXTINF:-1,WARNER TV FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13784.m3u8
-#EXTINF:-1,POLAR+  FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13763.m3u8
-#EXTINF:-1,POLAR+ HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25041.m3u8
-#EXTINF:-1,TCM CINEMA FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13697.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13980.m3u8
-#EXTINF:-1,TCM CINEMA SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28337.m3u8
-#EXTINF:-1,CINE+ CLASSIC FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13758.m3u8
-#EXTINF:-1,CINE+ CLASSIC HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14026.m3u8
-#EXTINF:-1,CINE+ CLASSIC SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28327.m3u8
-#EXTINF:-1,CINE+ FX FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13753.m3u8
-#EXTINF:-1,CINE+ FX HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14022.m3u8
-#EXTINF:-1,CINE+ FX SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28336.m3u8
-#EXTINF:-1,EUROCHANNEL SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28333.m3u8
-#EXTINF:-1,SUNDANCE CHANNEL SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28338.m3u8
-#EXTINF:-1,ALTICE STUDIO FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13787.m3u8
-#EXTINF:-1,ALTICE STUDIO HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28413.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13713.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13911.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28340.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL DECALE SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28339.m3u8
-#EXTINF:-1,PARAMOUNT DECALE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13829.m3u8
-#EXTINF:-1,CANALPLAY 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13970.m3u8
-#EXTINF:-1,CANALPLAY 2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13962.m3u8
-#EXTINF:-1,CANALPLAY 3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13961.m3u8
-#EXTINF:-1,CANALPLAY 4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13960.m3u8
-#EXTINF:-1,CANALPLAY 5
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13959.m3u8
-#EXTINF:-1,CANALPLAY 6
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13958.m3u8
-#EXTINF:-1,CANALPLAY 7
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13957.m3u8
-#EXTINF:-1,CANALPLAY 8
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13956.m3u8
-#EXTINF:-1,CANALPLAY 9
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13955.m3u8
-#EXTINF:-1,CANALPLAY 10
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13969.m3u8
-#EXTINF:-1,CANALPLAY 11
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13968.m3u8
-#EXTINF:-1,CANALPLAY 12
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13967.m3u8
-#EXTINF:-1,CANALPLAY 13
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13966.m3u8
-#EXTINF:-1,CANALPLAY 14
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13965.m3u8
-#EXTINF:-1,CANALPLAY 15
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13964.m3u8
-#EXTINF:-1,CANALPLAY 16
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13963.m3u8
-#EXTINF:-1,ORANGE CINE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13926.m3u8
-#EXTINF:-1,ORANGE CINE 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13925.m3u8
-#EXTINF:-1,ORANGE CINE 2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13924.m3u8
-#EXTINF:-1,ORANGE CINE 3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13923.m3u8
-#EXTINF:-1,ORANGE CINE 4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13922.m3u8
-#EXTINF:-1,ORANGE CINE 5
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13921.m3u8
-#EXTINF:-1,ORANGE CINE 6
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13920.m3u8
-#EXTINF:-1,ORANGE CINE 7
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13919.m3u8
-#EXTINF:-1,ORANGE CINE 8
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13918.m3u8
-#EXTINF:-1,ALACARTE 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13949.m3u8
-#EXTINF:-1,ALACARTE 2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13947.m3u8
-#EXTINF:-1,ALACARTE 3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13946.m3u8
-#EXTINF:-1,ALACARTE 4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13945.m3u8
-#EXTINF:-1,ALACARTE 5
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13954.m3u8
-#EXTINF:-1,ALACARTE 6
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13953.m3u8
-#EXTINF:-1,ALACARTE 7
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13952.m3u8
-#EXTINF:-1,ALACARTE 8
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13951.m3u8
-#EXTINF:-1,ALACARTE 9
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13950.m3u8
-#EXTINF:-1,ALACARTE 10
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13948.m3u8
-#EXTINF:-1,RMC SPORT 1 FHD
-http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/1.ts
-#EXTINF:-1,RMC SPORT 1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28945.m3u8
-#EXTINF:-1,RMC SPORT 2 FHD
-http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/5.ts
-#EXTINF:-1,RMC SPORT 2 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13982.m3u8
-#EXTINF:-1,RMC SPORT 3 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13700.m3u8
-#EXTINF:-1,RMC SPORT 3 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13985.m3u8
-#EXTINF:-1,RMC SPORT 4 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13699.m3u8
-#EXTINF:-1,RMC SPORT 4 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13984.m3u8
-#EXTINF:-1,BEINSPORTS 1 F.HD
-http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/4.ts
-#EXTINF:-1,BEINSPORTS 2 F.HD
-http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/6.ts
-#EXTINF:-1,BEINSPORTS 3 F.HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14158.m3u8
-#EXTINF:-1,BEINSPORTS 1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28941.m3u8
-#EXTINF:-1,BEINSPORTS 2 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28943.m3u8
-#EXTINF:-1,BEINSPORTS 3 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14163.m3u8
-#EXTINF:-1,BEINSPORT 1 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/92.m3u8
-#EXTINF:-1,BEINSPORT 2 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/93.m3u8
-#EXTINF:-1,BEINSPORT 3 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/94.m3u8
-#EXTINF:-1,BEINSPORT MAX 4FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13779.m3u8
-#EXTINF:-1,BEINSPORT MAX 4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/95.m3u8
-#EXTINF:-1,BEINSPORT MAX 5FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13778.m3u8
-#EXTINF:-1,BEINSPORT MAX 6FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13777.m3u8
-#EXTINF:-1,BEINSPORT MAX 6
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1089.m3u8
-#EXTINF:-1,BEINSPORT MAX 7FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13776.m3u8
-#EXTINF:-1,BEINSPORT MAX 7
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1113.m3u8
-#EXTINF:-1,BEINSPORT MAX 8FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13775.m3u8
-#EXTINF:-1,BEINSPORT MAX 8
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1468.m3u8
-#EXTINF:-1,BEINSPORT MAX 9FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13774.m3u8
-#EXTINF:-1,BEINSPORT MAX 9
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1469.m3u8
-#EXTINF:-1,BEINSPORT MAX 10FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13773.m3u8
-#EXTINF:-1,BEIN SPORT MAX 10
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1470.m3u8
-#EXTINF:-1,CANAL + SPORT FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14155.m3u8
-#EXTINF:-1,CANAL+ SPORT HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14161.m3u8
-#EXTINF:-1,SPORT 365 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25040.m3u8
-#EXTINF:-1,FOOT+
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13937.m3u8
-#EXTINF:-1,FOOT+24 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/425.m3u8
-#EXTINF:-1,FOOT  HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13936.m3u8
-#EXTINF:-1,ONZEO FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13786.m3u8
-#EXTINF:-1,MULTISPORTS 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13807.m3u8
-#EXTINF:-1,MULTISPORTS 2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13802.m3u8
-#EXTINF:-1,MULTISPORTS 3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13806.m3u8
-#EXTINF:-1,MULTISPORTS 4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13805.m3u8
-#EXTINF:-1,MULTISPORTS 5
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13804.m3u8
-#EXTINF:-1,MULTISPORTS 6
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13803.m3u8
-#EXTINF:-1,TRACE SPORT FULLHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13797.m3u8
-#EXTINF:-1,BFM SPORT FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13843.m3u8
-#EXTINF:-1,BFM SPORTS HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13943.m3u8
-#EXTINF:-1,BFM HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13839.m3u8
-#EXTINF:-1,INFOSPORT FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13729.m3u8
-#EXTINF:-1,LEQUIPE 21 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13728.m3u8
-#EXTINF:-1,EQUIPE 21 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1023.m3u8
-#EXTINF:-1,OL TV FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13842.m3u8
-#EXTINF:-1,EXTREME SPORTS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13740.m3u8
-#EXTINF:-1,MUSCULATION TV HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13801.m3u8
-#EXTINF:-1,AUTOMOTO  HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1035.m3u8
-#EXTINF:-1,MOTORSPORT HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13782.m3u8
-#EXTINF:-1,MOTORSPORT FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13722.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13742.m3u8
-#EXTINF:-1,EUROSPORT1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14011.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13741.m3u8
-#EXTINF:-1,EUROSPORT2 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14010.m3u8
-#EXTINF:-1,EQUIDIA LIVE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13743.m3u8
-#EXTINF:-1,EQUIDIA LIVE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14012.m3u8
-#EXTINF:-1,EQUIDIA LIFE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13744.m3u8
-#EXTINF:-1,EQUIDIA LIFE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14013.m3u8
-#EXTINF:-1,FRANCE O
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/89.m3u8
-#EXTINF:-1,EQUIDIA LIVE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1036.m3u8
-#EXTINF:-1,EQUIDIA LIFE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/85.m3u8
-#EXTINF:-1,GOLF+ FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13734.m3u8
-#EXTINF:-1,GOLF CHANNEL FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13689.m3u8
-#EXTINF:-1,GOLF CHANNELS HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13977.m3u8
-#EXTINF:-1,SERIE CLUB FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13830.m3u8
-#EXTINF:-1,SERIE CLUB HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13986.m3u8
-#EXTINF:-1,CANAL+ SERIES FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13766.m3u8
-#EXTINF:-1,CANAL + SERIES HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28944.m3u8
-#EXTINF:-1,13EME RUE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13794.m3u8
-#EXTINF:-1,13EME RUE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14048.m3u8
-#EXTINF:-1,SYFY HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13981.m3u8
-#EXTINF:-1,SYFY FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13698.m3u8
-#EXTINF:-1,SUNDANCE TV FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13733.m3u8
-#EXTINF:-1,TEVA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25039.m3u8
-#EXTINF:-1,TEVA SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1031.m3u8
-#EXTINF:-1,COMEDIE+ FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13751.m3u8
-#EXTINF:-1,COMEDIE  HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14019.m3u8
-#EXTINF:-1,MY CUISINE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13781.m3u8
-#EXTINF:-1,E! ENTERTAINMENT FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13746.m3u8
-#EXTINF:-1,E! ENTERTAINEMENT HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14015.m3u8
-#EXTINF:-1,NO STOP PEOPLE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13780.m3u8
-#EXTINF:-1,NON STOP PEOPE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13928.m3u8
-#EXTINF:-1,VIVOLTA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25044.m3u8
-#EXTINF:-1,IL TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13934.m3u8
-#EXTINF:-1,NRJ12 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13717.m3u8
-#EXTINF:-1,NRJ12 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14047.m3u8
-#EXTINF:-1,NRJ12 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1019.m3u8
-#EXTINF:-1,ELLE GIRL FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13745.m3u8
-#EXTINF:-1,ELLE GIRL HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14014.m3u8
-#EXTINF:-1,BET FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13841.m3u8
-#EXTINF:-1,BET HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28341.m3u8
-#EXTINF:-1,VICELAND FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13772.m3u8
-#EXTINF:-1,TV5 MONDE STYLE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25042.m3u8
-#EXTINF:-1,TV 5 monde
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1033.m3u8
-#EXTINF:-1,CHERIE 25 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13760.m3u8
-#EXTINF:-1,CHERIE 25 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14028.m3u8
-#EXTINF:-1,CHERIE 25 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1027.m3u8
-#EXTINF:-1,TF1 FILM ET SERIE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13732.m3u8
-#EXTINF:-1,TF1 SÉRIES FILMS SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1022.m3u8
-#EXTINF:-1,C8 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13823.m3u8
-#EXTINF:-1,C8 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14036.m3u8
-#EXTINF:-1,C8 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/188.m3u8
-#EXTINF:-1,CSTAR FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13749.m3u8
-#EXTINF:-1,DIRECT8
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1091.m3u8
-#EXTINF:-1,CSTAR HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13940.m3u8
-#EXTINF:-1,AZUR TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25043.m3u8
-#EXTINF:-1,WEO FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13795.m3u8
-#EXTINF:-1,WEO HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25045.m3u8
-#EXTINF:-1,TV8 MONT BLANC FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13796.m3u8
-#EXTINF:-1,RTL9 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13707.m3u8
-#EXTINF:-1,RTL9 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13989.m3u8
-#EXTINF:-1,RTL9 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1029.m3u8
-#EXTINF:-1,A+  FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13695.m3u8
-#EXTINF:-1,RMC STORY FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13715.m3u8
-#EXTINF:-1,RMC STORY HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13997.m3u8
-#EXTINF:-1,RMC STORY   SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1025.m3u8
-#EXTINF:-1,TFX FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13716.m3u8
-#EXTINF:-1,TFX HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13998.m3u8
-#EXTINF:-1,TFX SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1015.m3u8
-#EXTINF:-1,W9 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13690.m3u8
+#EXTINF:-1,TF1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4916.m3u8
+#EXTINF:-1,France 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4910.m3u8
+#EXTINF:-1,FRANCE 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4909.m3u8
+#EXTINF:-1,FRANCE 4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4908.m3u8
+#EXTINF:-1,FRANCE 5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4907.m3u8
+#EXTINF:-1,France O
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4906.m3u8
+#EXTINF:-1,RTL 9
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4892.m3u8
 #EXTINF:-1,W9
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13973.m3u8
-#EXTINF:-1,W9 SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/421.m3u8
-#EXTINF:-1,OFIVE TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1038.m3u8
-#EXTINF:-1,LUXE TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1054.m3u8
-#EXTINF:-1,GUYSEN TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1063.m3u8
-#EXTINF:-1,ALSACE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25048.m3u8
-#EXTINF:-1,VOSGES
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1102.m3u8
-#EXTINF:-1,M6 BOUTIQUE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1097.m3u8
-#EXTINF:-1,FASHIONTV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1064.m3u8
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13861.m3u8
-#EXTINF:-1,DISNEY CHANNEL  HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24948.m3u8
-#EXTINF:-1,DISNEY CHA SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1040.m3u8
-#EXTINF:-1,DISNEY CHA +1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13849.m3u8
-#EXTINF:-1,DISNEY CHA+1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1041.m3u8
-#EXTINF:-1,DISNEY XD FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13862.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24942.m3u8
-#EXTINF:-1,DISNEY JUNIOR FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13863.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24934.m3u8
-#EXTINF:-1,DISNEY CINEMA FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13860.m3u8
-#EXTINF:-1,DISNEY CINEMA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24940.m3u8
-#EXTINF:-1,NICKELODEON  FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13854.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14037.m3u8
-#EXTINF:-1,NICKELODEON JUN FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13851.m3u8
-#EXTINF:-1,NICKELODEON JUNIOR HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24935.m3u8
-#EXTINF:-1,NICKELODEON JUN SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/28344.m3u8
-#EXTINF:-1,NICKELODEON 4 TEEN FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24957.m3u8
-#EXTINF:-1,TOONAMI FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13850.m3u8
-#EXTINF:-1,TELETOON+  FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13855.m3u8
-#EXTINF:-1,TELETOON+ HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24958.m3u8
-#EXTINF:-1,TELETOON + 1 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13869.m3u8
-#EXTINF:-1,PIWI FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13867.m3u8
-#EXTINF:-1,PIWI+ HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24937.m3u8
-#EXTINF:-1,MONDE DES PETITS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13848.m3u8
-#EXTINF:-1,CANAL J FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13764.m3u8
-#EXTINF:-1,Canal J HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24941.m3u8
-#EXTINF:-1,TIJI FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13868.m3u8
-#EXTINF:-1,TIJI HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24949.m3u8
-#EXTINF:-1,BOOMERANG FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13858.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4904.m3u8
+#EXTINF:-1,M6
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4905.m3u8
+#EXTINF:-1,M6 Music
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/8546.m3u8
+#EXTINF:-1, TRACE URBAN
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/8547.m3u8
+#EXTINF:-1,CSTAR
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4890.m3u8
+#EXTINF:-1,HD1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4901.m3u8
+#EXTINF:-1,6Ter HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4893.m3u8
+#EXTINF:-1,C8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4903.m3u8
+#EXTINF:-1,AB1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4900.m3u8
+#EXTINF:-1,NRJ 12
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4894.m3u8
+#EXTINF:-1,NT1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4884.m3u8
+#EXTINF:-1,Numer23
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4891.m3u8
+#EXTINF:-1,E! Entertainment
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4881.m3u8
+#EXTINF:-1,PARAMOUNT Channel
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4883.m3u8
+#EXTINF:-1,PARIS PREMIERE
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4880.m3u8
+#EXTINF:-1,CHASSE & PECHE
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4854.m3u8
+#EXTINF:-1,Arte
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4902.m3u8
+#EXTINF:-1,BFM TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/8799.m3u8
+#EXTINF:-1,Cherie 25
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4895.m3u8
+#EXTINF:-1,CANAL  HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4851.m3u8
+#EXTINF:-1,CANAL + HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4852.m3u8
+#EXTINF:-1,Canal Decale HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4850.m3u8
+#EXTINF:-1,CANAL  CINEMA
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4848.m3u8
+#EXTINF:-1,CANAL   SERIES
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4846.m3u8
+#EXTINF:-1,CANAL  CINEMA HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4847.m3u8
+#EXTINF:-1,CANAL+DECALE HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4849.m3u8
+#EXTINF:-1,Canal  Family
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4845.m3u8
+#EXTINF:-1,CANAL  FAMILY HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4844.m3u8
+#EXTINF:-1,CANAL  SPORT HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4822.m3u8
+#EXTINF:-1,CINE Classic
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4838.m3u8
+#EXTINF:-1,CINE  Emotion
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4839.m3u8
+#EXTINF:-1,CINE  Famiz
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4840.m3u8
+#EXTINF:-1,CINE  FRISSON
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4843.m3u8
+#EXTINF:-1,CINE  Premier
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4841.m3u8
+#EXTINF:-1,Cine FX
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4896.m3u8
+#EXTINF:-1,Cine Polar
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4897.m3u8
+#EXTINF:-1,ACTION
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4887.m3u8
+#EXTINF:-1,13eme RUE
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4888.m3u8
+#EXTINF:-1,COMEDIE
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4842.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4835.m3u8
+#EXTINF:-1,OCS City HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4837.m3u8
+#EXTINF:-1,Ocs Geants HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4834.m3u8
+#EXTINF:-1,OCS MAX
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4836.m3u8
+#EXTINF:-1,SERIE CLUB
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4889.m3u8
+#EXTINF:-1,Syfy HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4899.m3u8
+#EXTINF:-1,Téva HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4886.m3u8
+#EXTINF:-1,TMC
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4885.m3u8
+#EXTINF:-1,TCM Cinema
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4882.m3u8
+#EXTINF:-1,A_La_Carte_1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6106.m3u8
+#EXTINF:-1,A_La_Carte_2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6105.m3u8
+#EXTINF:-1,A_La_Carte_3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6104.m3u8
+#EXTINF:-1,A_La_Carte_4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6103.m3u8
+#EXTINF:-1,A_La_Carte_5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6102.m3u8
+#EXTINF:-1,A_La_Carte_6
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6101.m3u8
+#EXTINF:-1,A_La_Carte_7
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6100.m3u8
+#EXTINF:-1,A_La_Carte_8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6099.m3u8
+#EXTINF:-1,A_La_Carte_9
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6098.m3u8
+#EXTINF:-1,A_La_Carte_10
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6097.m3u8
+#EXTINF:-1,Canal Play 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9448.m3u8
+#EXTINF:-1,Canal Play 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9447.m3u8
+#EXTINF:-1,Canal Play 3 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9446.m3u8
+#EXTINF:-1,Canal Play 4 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9445.m3u8
+#EXTINF:-1,Canal Play 5 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9444.m3u8
+#EXTINF:-1,Canal Play 6 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9443.m3u8
+#EXTINF:-1,Canal Play 7 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9442.m3u8
+#EXTINF:-1,Canal Play 8 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9441.m3u8
+#EXTINF:-1,Canal Play 9 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9440.m3u8
+#EXTINF:-1,Canal Play 10 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9439.m3u8
+#EXTINF:-1,Canal Play 11 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9438.m3u8
+#EXTINF:-1,Canal Play 12 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9437.m3u8
+#EXTINF:-1,Canal Play 13 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9436.m3u8
+#EXTINF:-1,Canal Play 14 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9435.m3u8
+#EXTINF:-1,Canal Play 15 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9434.m3u8
+#EXTINF:-1,Canal Play 16 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9433.m3u8
+#EXTINF:-1,Canal Play 17 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9432.m3u8
+#EXTINF:-1,Orange_Premium_1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6084.m3u8
+#EXTINF:-1,Orange_Premium_2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6083.m3u8
+#EXTINF:-1,Orange_Premium_3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6082.m3u8
+#EXTINF:-1,Orange_Premium_4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6081.m3u8
+#EXTINF:-1,Orange_Premium_5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6080.m3u8
+#EXTINF:-1,Orange_Premium_6
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6079.m3u8
+#EXTINF:-1,Orange_Premium_7
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6078.m3u8
+#EXTINF:-1,GULLI
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4877.m3u8
+#EXTINF:-1,CANAL J
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4912.m3u8
 #EXTINF:-1,BOOMERANG HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24954.m3u8
-#EXTINF:-1,BOING FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13859.m3u8
-#EXTINF:-1,BOING HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24945.m3u8
-#EXTINF:-1,CARTOON NETWORK FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13761.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24933.m3u8
-#EXTINF:-1,GAME ONE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13856.m3u8
-#EXTINF:-1,GAMEONE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24952.m3u8
-#EXTINF:-1,GAMEONE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1034.m3u8
-#EXTINF:-1,GAME ONE +1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13857.m3u8
-#EXTINF:-1,J ONE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13852.m3u8
-#EXTINF:-1,J ONE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24938.m3u8
-#EXTINF:-1,GULLI FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13864.m3u8
-#EXTINF:-1,GULLI SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1020.m3u8
-#EXTINF:-1,GONG
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24936.m3u8
-#EXTINF:-1,MANGAS FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13865.m3u8
-#EXTINF:-1,MANGAS HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24932.m3u8
-#EXTINF:-1,CINE KIDS HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24959.m3u8
-#EXTINF:-1,DISNEY ORANGE 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24939.m3u8
-#EXTINF:-1,DISNEY ORANGE 2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24950.m3u8
-#EXTINF:-1,DISNEY ORANGE 3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24951.m3u8
-#EXTINF:-1,PEPPA PIG
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/6700.m3u8
-#EXTINF:-1,DISNEYS CARTOON CLASSIC
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/6713.m3u8
-#EXTINF:-1,MILA MILA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/6736.m3u8
-#EXTINF:-1,TOM AND JERRY
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/6757.m3u8
-#EXTINF:-1,MASHA ET MICHKA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/7185.m3u8
-#EXTINF:-1,LAPIN CRETIN
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/7258.m3u8
-#EXTINF:-1,PLANETE+ FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13712.m3u8
-#EXTINF:-1,PLANETE  HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13991.m3u8
-#EXTINF:-1,PLANETE+ CI FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13710.m3u8
-#EXTINF:-1,PLANETE  CI HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13992.m3u8
-#EXTINF:-1,PLANETE+ AE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13711.m3u8
-#EXTINF:-1,PLANETE A&E HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13971.m3u8
-#EXTINF:-1,DISCOVERY FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13748.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4871.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4879.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4875.m3u8
+#EXTINF:-1, NICKELODEON JUNIOR
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4872.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4874.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4873.m3u8
+#EXTINF:-1,Disney XD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4868.m3u8
+#EXTINF:-1,GAME ONE
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4869.m3u8
+#EXTINF:-1,MANGA
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4876.m3u8
+#EXTINF:-1,TELETOON + HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4867.m3u8
+#EXTINF:-1,PIWI
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4878.m3u8
 #EXTINF:-1,DISCOVERY HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14017.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13747.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14016.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13836.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13828.m3u8
-#EXTINF:-1,DISCOVERY FAMILY FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13811.m3u8
-#EXTINF:-1,DISCOVERY FAMLIY HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25047.m3u8
-#EXTINF:-1,NATIONAL GEO WILD FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13719.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13999.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14000.m3u8
-#EXTINF:-1,SCIENCES & VIE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13704.m3u8
-#EXTINF:-1,ANIMAUX FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13789.m3u8
-#EXTINF:-1,ANIMAUX HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14044.m3u8
-#EXTINF:-1,USHUAIA TV FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13692.m3u8
-#EXTINF:-1,USHUAIA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13974.m3u8
-#EXTINF:-1,USHUAIA SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1055.m3u8
-#EXTINF:-1,ULTRA NATURE UHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25049.m3u8
-#EXTINF:-1,RMC HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13990.m3u8
-#EXTINF:-1,RMC STORY SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1026.m3u8
-#EXTINF:-1,VOYAGE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13691.m3u8
-#EXTINF:-1,VOYAGE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13972.m3u8
-#EXTINF:-1,TREK FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13694.m3u8
-#EXTINF:-1,TREK HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13976.m3u8
-#EXTINF:-1,CHASSE&PECHE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13837.m3u8
-#EXTINF:-1,CHASSE & PECHE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14029.m3u8
-#EXTINF:-1,SEASON FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13703.m3u8
-#EXTINF:-1,SEASON HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13988.m3u8
-#EXTINF:-1,CAMPAGNE TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13942.m3u8
-#EXTINF:-1,CRIME DISTRICT FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13750.m3u8
-#EXTINF:-1,CRIME DISTRICT HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14018.m3u8
-#EXTINF:-1,MUSEUM CHANNEL FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13714.m3u8
-#EXTINF:-1,HISTOIRE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13731.m3u8
-#EXTINF:-1,HISTOIRE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14007.m3u8
-#EXTINF:-1,TOUTE L'HISTOIRE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13832.m3u8
-#EXTINF:-1,TOUTE L'HISTOIRE HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25050.m3u8
-#EXTINF:-1,HISTOIRE SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1056.m3u8
-#EXTINF:-1,LA CHAINE METEO FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13783.m3u8
-#EXTINF:-1,EURONEWS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13938.m3u8
-#EXTINF:-1,FRANCE 24
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/162.m3u8
-#EXTINF:-1,BFMTV HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14039.m3u8
-#EXTINF:-1,BFM BUISINESS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1045.m3u8
-#EXTINF:-1,BFM TV SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/424.m3u8
-#EXTINF:-1,LCI FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13727.m3u8
-#EXTINF:-1,LCI sd
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1042.m3u8
-#EXTINF:-1,LCP FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13809.m3u8
-#EXTINF:-1,LCP
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1016.m3u8
-#EXTINF:-1,LCP100%
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1046.m3u8
-#EXTINF:-1,CNEWS HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14020.m3u8
-#EXTINF:-1,CNEWS SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1017.m3u8
-#EXTINF:-1,FRANCE INFO HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13935.m3u8
-#EXTINF:-1,FRANCE INFO SD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1917.m3u8
-#EXTINF:-1,TV5 MONDE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25051.m3u8
-#EXTINF:-1,TV5 MONDE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25052.m3u8
-#EXTINF:-1,I24 NEWS FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13730.m3u8
-#EXTINF:-1,i24 NEWS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1050.m3u8
-#EXTINF:-1,M6 MUSIC FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13826.m3u8
-#EXTINF:-1,TRACE URBAN FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13844.m3u8
-#EXTINF:-1,TRACE URBAN HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13978.m3u8
-#EXTINF:-1,TRACE URBAIN
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1099.m3u8
-#EXTINF:-1,TRACE URBAN INTER
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/9127.m3u8
-#EXTINF:-1,TRACE URBAN TROPICAL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/9128.m3u8
-#EXTINF:-1,TRACE TROPICAL FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13771.m3u8
-#EXTINF:-1,TRACE AFRICA FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13720.m3u8
-#EXTINF:-1,TRACE GOSPEL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25054.m3u8
-#EXTINF:-1,TRACE MZIKI
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25057.m3u8
-#EXTINF:-1,TRACE NAIJA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25055.m3u8
-#EXTINF:-1,TRACE PRIME
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25053.m3u8
-#EXTINF:-1,TRACE TOCA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25056.m3u8
-#EXTINF:-1,BBLACK CARIBBEAN
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/8050.m3u8
-#EXTINF:-1,BBLACK CLASSIK
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/8052.m3u8
-#EXTINF:-1,INDIES LIVE MUSIC
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/25058.m3u8
-#EXTINF:-1,MTV MUSIC FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13721.m3u8
-#EXTINF:-1,MTV MUSIC
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13930.m3u8
-#EXTINF:-1,MTV DANCE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13931.m3u8
-#EXTINF:-1,MTV BASE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13932.m3u8
-#EXTINF:-1,MTV HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14009.m3u8
-#EXTINF:-1,MCM FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13725.m3u8
-#EXTINF:-1,MCM HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14002.m3u8
-#EXTINF:-1,MCM
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1037.m3u8
-#EXTINF:-1,MCM TOP FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13724.m3u8
-#EXTINF:-1,RFM TV FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13709.m3u8
-#EXTINF:-1,RFM HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24960.m3u8
-#EXTINF:-1,NRJ12 HITS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13927.m3u8
-#EXTINF:-1,MEZZO HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14001.m3u8
-#EXTINF:-1,MEZZO LIVE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13723.m3u8
-#EXTINF:-1,VH1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13840.m3u8
-#EXTINF:-1,VH1 CLASSIC FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13815.m3u8
-#EXTINF:-1,MELODY TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13808.m3u8
-#EXTINF:-1,BRAVA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14038.m3u8
-#EXTINF:-1,DJAZZ TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/13939.m3u8
-#EXTINF:-1,TELESUD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/1101.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4857.m3u8
+#EXTINF:-1,DISCOVERY SCIENCES
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4856.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4863.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4864.m3u8
+#EXTINF:-1,PLANETE+
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4862.m3u8
+#EXTINF:-1,ANIMAUX
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4853.m3u8
+#EXTINF:-1,Planete A&E
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4860.m3u8
+#EXTINF:-1,PLANETE CI
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4861.m3u8
+#EXTINF:-1,Science&Vie TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4855.m3u8
+#EXTINF:-1,toute l'histoire
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4859.m3u8
+#EXTINF:-1,Tv Breizh
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4898.m3u8
+#EXTINF:-1,USHUAIA TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4858.m3u8
+#EXTINF:-1,AB Moteur
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4866.m3u8
+#EXTINF:-1,FOOT 24/24 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4818.m3u8
+#EXTINF:-1,KOMBAT SPORT
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4819.m3u8
+#EXTINF:-1,CANAL SPORT
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4823.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4821.m3u8
+#EXTINF:-1,Eurosport 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4820.m3u8
+#EXTINF:-1,SFR SPORTS 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3594.m3u8
+#EXTINF:-1,SFR SPORTS 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3593.m3u8
+#EXTINF:-1,SFR SPORTS 3 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3592.m3u8
+#EXTINF:-1, SFR SPORT 4 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4817.m3u8
+#EXTINF:-1,SFR SPORTS  5 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4815.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3602.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3601.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3600.m3u8
+#EXTINF:-1,BEIN MAX 4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3599.m3u8
+#EXTINF:-1,BEIN MAX 5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3598.m3u8
+#EXTINF:-1,BEIN MAX 6
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3597.m3u8
+#EXTINF:-1,BEIN MAX 7
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3596.m3u8
+#EXTINF:-1,BEIN MAX 8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3595.m3u8
+#EXTINF:-1, BeIN Sports Max 9
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6970.m3u8
+#EXTINF:-1, BeIN Sports Max 10
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6971.m3u8
