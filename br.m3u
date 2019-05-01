@@ -1,47 +1,281 @@
 #EXTM3U
-#EXTINF:-1,TV GLOBO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24902.m3u8
-#EXTINF:-1,TV BRASIL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24903.m3u8
-#EXTINF:-1,SBT
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24911.m3u8
-#EXTINF:-1,BAND CAMPINAS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24923.m3u8
-#EXTINF:-1,REDE TV !
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24925.m3u8
-#EXTINF:-1,SPACE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24910.m3u8
-#EXTINF:-1,TNT
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24906.m3u8
-#EXTINF:-1,MULTISHOW
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24913.m3u8
-#EXTINF:-1,MEGAPIX
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24914.m3u8
-#EXTINF:-1,LIFETIME
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24915.m3u8
-#EXTINF:-1,TRU TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24904.m3u8
-#EXTINF:-1,SPORTV1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24909.m3u8
-#EXTINF:-1,SPORTV2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24908.m3u8
-#EXTINF:-1,SPORTV3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24907.m3u8
-#EXTINF:-1,FOX SPORT
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24917.m3u8
-#EXTINF:-1,FOX SPORT2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24916.m3u8
-#EXTINF:-1,COMBATE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24920.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24918.m3u8
-#EXTINF:-1,DISCOVERY KIDS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24919.m3u8
-#EXTINF:-1,TOONCAST
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24905.m3u8
-#EXTINF:-1,BAND NEWS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24922.m3u8
+#EXTINF:-1,A&E
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/503.m3u8
+#EXTINF:-1,AMC
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/502.m3u8
+#EXTINF:-1,AXN
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/499.m3u8
+#EXTINF:-1,Animal Planet
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/501.m3u8
+#EXTINF:-1,Arte 1
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/500.m3u8
 #EXTINF:-1,BIS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24921.m3u8
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/495.m3u8
+#EXTINF:-1,Baby TV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/498.m3u8
+#EXTINF:-1,Band News
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/497.m3u8
+#EXTINF:-1,Band Sports
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/496.m3u8
+#EXTINF:-1,Bandeirantes
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/380.m3u8
+#EXTINF:-1,Boa Vontade TV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/494.m3u8
+#EXTINF:-1,Boomerang
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/493.m3u8
+#EXTINF:-1,CNN Espanol
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/486.m3u8
+#EXTINF:-1,CNN Internacional
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/378.m3u8
+#EXTINF:-1,CNT
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/485.m3u8
+#EXTINF:-1,Canal Brasil
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/492.m3u8
+#EXTINF:-1,Canal Claro
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/491.m3u8
+#EXTINF:-1,Canal Nova
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/490.m3u8
+#EXTINF:-1,Canal Rural
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/489.m3u8
+#EXTINF:-1,Canal Sony
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/488.m3u8
+#EXTINF:-1,Cartoon Network
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/487.m3u8
+#EXTINF:-1,Cinemax
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/379.m3u8
+#EXTINF:-1,Combate
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/484.m3u8
+#EXTINF:-1,Comedy Central
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/483.m3u8
+#EXTINF:-1,Curta
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/482.m3u8
+#EXTINF:-1,DW (Deutsch )
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/376.m3u8
+#EXTINF:-1,Discovery Channel
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/481.m3u8
+#EXTINF:-1,Discovery H&H
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/480.m3u8
+#EXTINF:-1,Discovery Kids
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/377.m3u8
+#EXTINF:-1,Discovery Turbo
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/479.m3u8
+#EXTINF:-1,Disney
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/478.m3u8
+#EXTINF:-1,Disney Junior
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/477.m3u8
+#EXTINF:-1,Disney XD
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/476.m3u8
+#EXTINF:-1,E!
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/475.m3u8
+#EXTINF:-1,CURTA 2
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/474.m3u8
+#EXTINF:-1,EI 2
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/473.m3u8
+#EXTINF:-1,ESPN
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/472.m3u8
+#EXTINF:-1,ESPN Brasil
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/471.m3u8
+#EXTINF:-1,FOX
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/468.m3u8
+#EXTINF:-1,FX
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/464.m3u8
+#EXTINF:-1,Fish TV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/470.m3u8
+#EXTINF:-1,Food Network
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/469.m3u8
+#EXTINF:-1,Fox Life
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/467.m3u8
+#EXTINF:-1,Fox Sports
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/466.m3u8
+#EXTINF:-1,Fox Sports 2
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/465.m3u8
+#EXTINF:-1,Futura
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/375.m3u8
+#EXTINF:-1,GNT
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/460.m3u8
+#EXTINF:-1,Globo SP
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/463.m3u8
+#EXTINF:-1,GloboNews
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/462.m3u8
+#EXTINF:-1,Gloob
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/461.m3u8
+#EXTINF:-1,H2
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/459.m3u8
+#EXTINF:-1,HBO
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/458.m3u8
+#EXTINF:-1,HBO Family
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/457.m3u8
+#EXTINF:-1,HBO Plus
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/456.m3u8
+#EXTINF:-1,HBO Plus*e
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/455.m3u8
+#EXTINF:-1,HBO Signature
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/454.m3u8
+#EXTINF:-1,HBO2
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/453.m3u8
+#EXTINF:-1,I-SAT
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/452.m3u8
+#EXTINF:-1,ID - Investigation Discovery
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/451.m3u8
+#EXTINF:-1,Lifetime
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/450.m3u8
+#EXTINF:-1,MAX
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/448.m3u8
+#EXTINF:-1,MAX Prime
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/374.m3u8
+#EXTINF:-1,MAX Prime*e
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/447.m3u8
+#EXTINF:-1,MAX UP
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/446.m3u8
+#EXTINF:-1,MTV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/445.m3u8
+#EXTINF:-1,Mais Globosat
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/449.m3u8
+#EXTINF:-1,MegaPix
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/373.m3u8
+#EXTINF:-1,Multishow
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/444.m3u8
+#EXTINF:-1,Music Box Brazil
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/443.m3u8
+#EXTINF:-1,NHK
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/439.m3u8
+#EXTINF:-1,NatGeo Kids
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/442.m3u8
+#EXTINF:-1,NatGeo Wild
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/441.m3u8
+#EXTINF:-1,National Geographic
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/440.m3u8
+#EXTINF:-1,Nick Jr
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/438.m3u8
+#EXTINF:-1,Nickelodeon
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/437.m3u8
 #EXTINF:-1,OFF
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/24912.m3u8
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/436.m3u8
+#EXTINF:-1,Paramount
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/435.m3u8
+#EXTINF:-1,Play TV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/372.m3u8
+#EXTINF:-1,Polishop TV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/433.m3u8
+#EXTINF:-1,Premiere 2
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/432.m3u8
+#EXTINF:-1,Premiere 3
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/431.m3u8
+#EXTINF:-1,Premiere 4
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/430.m3u8
+#EXTINF:-1,Premiere 5
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/429.m3u8
+#EXTINF:-1,Premiere 6
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/428.m3u8
+#EXTINF:-1,Premiere 7
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/427.m3u8
+#EXTINF:-1,Premiere 8
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/426.m3u8
+#EXTINF:-1,Premiere 9
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/425.m3u8
+#EXTINF:-1,Premiere Clubes
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/362.m3u8
+#EXTINF:-1,Prime Box Brazil
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/424.m3u8
+#EXTINF:-1,RAI
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/371.m3u8
+#EXTINF:-1,RBI
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/423.m3u8
+#EXTINF:-1,RBS TV Porto Alegre
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/361.m3u8
+#EXTINF:-1,RECORDTV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/421.m3u8
+#EXTINF:-1,RIT
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/418.m3u8
+#EXTINF:-1,Record News
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/422.m3u8
+#EXTINF:-1,Rede Brasil
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/420.m3u8
+#EXTINF:-1,TV Meio Norte
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/370.m3u8
+#EXTINF:-1,Rede Vida
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/419.m3u8
+#EXTINF:-1,SBT
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/360.m3u8
+#EXTINF:-1,SIC Internacional
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/369.m3u8
+#EXTINF:-1,Space
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/415.m3u8
+#EXTINF:-1,SporTV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/414.m3u8
+#EXTINF:-1,SporTV 2
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/413.m3u8
+#EXTINF:-1,SporTV 2 Alternativo
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/412.m3u8
+#EXTINF:-1,SporTV 3
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/368.m3u8
+#EXTINF:-1,SporTV Alternativo
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/367.m3u8
+#EXTINF:-1,Studio Universal
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/411.m3u8
+#EXTINF:-1,SyFy
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/366.m3u8
+#EXTINF:-1,TBS
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/410.m3u8
+#EXTINF:-1,TCM
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/409.m3u8
+#EXTINF:-1,TLC
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/401.m3u8
+#EXTINF:-1,TNT
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/400.m3u8
+#EXTINF:-1,TNT Series
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/399.m3u8
+#EXTINF:-1,TV Brasil
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/396.m3u8
+#EXTINF:-1,TV Cultura
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/394.m3u8
+#EXTINF:-1,TV Camara
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/395.m3u8
+#EXTINF:-1,TV Escola
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/393.m3u8
+#EXTINF:-1,TV Justila
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/392.m3u8
+#EXTINF:-1,TV Novo Tempo
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/364.m3u8
+#EXTINF:-1,TV RÆ tim bum
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/391.m3u8
+#EXTINF:-1,TV Senado
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/390.m3u8
+#EXTINF:-1,TV Tem Sao Jose do Rio Preto
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/389.m3u8
+#EXTINF:-1,TV Tribuna Santos
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/363.m3u8
+#EXTINF:-1,TV5 Monde
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/388.m3u8
+#EXTINF:-1,TVE
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/387.m3u8
+#EXTINF:-1,Telecine Action
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/408.m3u8
+#EXTINF:-1,Telecine Cult
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/407.m3u8
+#EXTINF:-1,Telecine Fun
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/406.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/405.m3u8
+#EXTINF:-1,Telecine Premium
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/404.m3u8
+#EXTINF:-1,Telecine Touch
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/403.m3u8
+#EXTINF:-1,Terra Viva
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/402.m3u8
+#EXTINF:-1,The History Channel
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/365.m3u8
+#EXTINF:-1,Tooncast
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/398.m3u8
+#EXTINF:-1,TruTV
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/397.m3u8
+#EXTINF:-1,Universal Channel
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/386.m3u8
+#EXTINF:-1,VH1 Megahits
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/385.m3u8
+#EXTINF:-1,Viva
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/384.m3u8
+#EXTINF:-1,Warner Channel
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/383.m3u8
+#EXTINF:-1,Woohoo
+http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/382.m3u8
