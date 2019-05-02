@@ -1,271 +1,445 @@
 #EXTM3U
-#EXTINF:-1,TF1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4916.m3u8
-#EXTINF:-1,France 2
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4910.m3u8
-#EXTINF:-1,FRANCE 3
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4909.m3u8
-#EXTINF:-1,FRANCE 4
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4908.m3u8
-#EXTINF:-1,FRANCE 5
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4907.m3u8
-#EXTINF:-1,France O
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4906.m3u8
-#EXTINF:-1,RTL 9
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4892.m3u8
-#EXTINF:-1,W9
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4904.m3u8
-#EXTINF:-1,M6
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4905.m3u8
-#EXTINF:-1,M6 Music
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/8546.m3u8
-#EXTINF:-1, TRACE URBAN
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/8547.m3u8
-#EXTINF:-1,CSTAR
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4890.m3u8
-#EXTINF:-1,HD1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4901.m3u8
-#EXTINF:-1,6Ter HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4893.m3u8
+#EXTINF:-1,AB1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14165.m3u8
+#EXTINF:-1,AB3 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14164.m3u8
+#EXTINF:-1,ABXplore HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14163.m3u8
+#EXTINF:-1,Arte HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14162.m3u8
+#EXTINF:-1,BFM TV HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14161.m3u8
 #EXTINF:-1,C8
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4903.m3u8
-#EXTINF:-1,AB1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4900.m3u8
-#EXTINF:-1,NRJ 12
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4894.m3u8
-#EXTINF:-1,NT1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4884.m3u8
-#EXTINF:-1,Numer23
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4891.m3u8
-#EXTINF:-1,E! Entertainment
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4881.m3u8
-#EXTINF:-1,PARAMOUNT Channel
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4883.m3u8
-#EXTINF:-1,PARIS PREMIERE
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4880.m3u8
-#EXTINF:-1,CHASSE & PECHE
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4854.m3u8
-#EXTINF:-1,Arte
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4902.m3u8
-#EXTINF:-1,BFM TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/8799.m3u8
-#EXTINF:-1,Cherie 25
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4895.m3u8
-#EXTINF:-1,CANAL  HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4851.m3u8
-#EXTINF:-1,CANAL + HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4852.m3u8
-#EXTINF:-1,Canal Decale HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4850.m3u8
-#EXTINF:-1,CANAL  CINEMA
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4848.m3u8
-#EXTINF:-1,CANAL   SERIES
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4846.m3u8
-#EXTINF:-1,CANAL  CINEMA HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4847.m3u8
-#EXTINF:-1,CANAL+DECALE HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4849.m3u8
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14160.m3u8
+#EXTINF:-1,C8 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14159.m3u8
+#EXTINF:-1,Cherie 25 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14158.m3u8
+#EXTINF:-1,CNews HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14157.m3u8
+#EXTINF:-1,CStar
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14156.m3u8
+#EXTINF:-1,CStar HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14155.m3u8
+#EXTINF:-1,France 2
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14177.m3u8
+#EXTINF:-1,France 2 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14176.m3u8
+#EXTINF:-1,France 3
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14175.m3u8
+#EXTINF:-1,France 3 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14174.m3u8
+#EXTINF:-1,France 4
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14173.m3u8
+#EXTINF:-1,France 4 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14172.m3u8
+#EXTINF:-1,France 5
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14171.m3u8
+#EXTINF:-1,France 5 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14170.m3u8
+#EXTINF:-1,France O
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14169.m3u8
+#EXTINF:-1,France O HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14168.m3u8
+#EXTINF:-1,M6
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14154.m3u8
+#EXTINF:-1,M6 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14153.m3u8
+#EXTINF:-1,NRJ 12 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14152.m3u8
+#EXTINF:-1,Paris Premiere HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14151.m3u8
+#EXTINF:-1,RTL 9 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14150.m3u8
+#EXTINF:-1,Teva
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14149.m3u8
+#EXTINF:-1,TF1
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14178.m3u8
+#EXTINF:-1,TF1 Full HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14179.m3u8
+#EXTINF:-1,TF1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14180.m3u8
+#EXTINF:-1,TFX
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14167.m3u8
+#EXTINF:-1,TFX HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14166.m3u8
+#EXTINF:-1,TMC  1
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14148.m3u8
+#EXTINF:-1,TMC HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14147.m3u8
+#EXTINF:-1,TV Breizh HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14146.m3u8
+#EXTINF:-1,W9
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14145.m3u8
+#EXTINF:-1,W9 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14144.m3u8
+#EXTINF:-1,Canal
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14143.m3u8
+#EXTINF:-1,Canal  Cinema
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14140.m3u8
+#EXTINF:-1,Canal  Cinema HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14139.m3u8
+#EXTINF:-1,Canal  Decale
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14138.m3u8
+#EXTINF:-1,Canal  Decale HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14137.m3u8
 #EXTINF:-1,Canal  Family
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4845.m3u8
-#EXTINF:-1,CANAL  FAMILY HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4844.m3u8
-#EXTINF:-1,CANAL  SPORT HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4822.m3u8
-#EXTINF:-1,CINE Classic
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4838.m3u8
-#EXTINF:-1,CINE  Emotion
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4839.m3u8
-#EXTINF:-1,CINE  Famiz
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4840.m3u8
-#EXTINF:-1,CINE  FRISSON
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4843.m3u8
-#EXTINF:-1,CINE  Premier
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4841.m3u8
-#EXTINF:-1,Cine FX
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4896.m3u8
-#EXTINF:-1,Cine Polar
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4897.m3u8
-#EXTINF:-1,ACTION
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4887.m3u8
-#EXTINF:-1,13eme RUE
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4888.m3u8
-#EXTINF:-1,COMEDIE
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4842.m3u8
-#EXTINF:-1,OCS CHOC HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4835.m3u8
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14136.m3u8
+#EXTINF:-1,Canal  Family HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14135.m3u8
+#EXTINF:-1,Canal  FullHD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14141.m3u8
+#EXTINF:-1,Canal  HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14142.m3u8
+#EXTINF:-1,Canal  Series
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14134.m3u8
+#EXTINF:-1,Canal  Series HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14133.m3u8
+#EXTINF:-1,Cine  Classic HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14132.m3u8
+#EXTINF:-1,Cine  Club
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14131.m3u8
+#EXTINF:-1,Cine  Club HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14130.m3u8
+#EXTINF:-1,Cine  Emotion
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14129.m3u8
+#EXTINF:-1,Cine  Emotion HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14128.m3u8
+#EXTINF:-1,Cine  Famiz
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14127.m3u8
+#EXTINF:-1,Cine  Famiz HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14126.m3u8
+#EXTINF:-1,Cine  Frisson
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14125.m3u8
+#EXTINF:-1,Cine  Frisson HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14124.m3u8
+#EXTINF:-1,Cine  Premier
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14123.m3u8
+#EXTINF:-1,Cine  Premier HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14122.m3u8
+#EXTINF:-1,Cine FX HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14121.m3u8
+#EXTINF:-1,Cine Polar HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14120.m3u8
+#EXTINF:-1,OCS Choc
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14119.m3u8
+#EXTINF:-1,OCS Choc HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14118.m3u8
+#EXTINF:-1,OCS City
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14117.m3u8
 #EXTINF:-1,OCS City HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4837.m3u8
-#EXTINF:-1,Ocs Geants HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4834.m3u8
-#EXTINF:-1,OCS MAX
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4836.m3u8
-#EXTINF:-1,SERIE CLUB
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4889.m3u8
-#EXTINF:-1,Syfy HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4899.m3u8
-#EXTINF:-1,Téva HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4886.m3u8
-#EXTINF:-1,TMC
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4885.m3u8
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14116.m3u8
+#EXTINF:-1,OCS Geants
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14115.m3u8
+#EXTINF:-1,OCS Geants HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14114.m3u8
+#EXTINF:-1,OCS Max
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14113.m3u8
+#EXTINF:-1,OCS Max HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14112.m3u8
+#EXTINF:-1,13eme Rue
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14111.m3u8
+#EXTINF:-1,13eme Rue HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14110.m3u8
+#EXTINF:-1,6Ter HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14108.m3u8
+#EXTINF:-1,Action HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14107.m3u8
+#EXTINF:-1,Altice Studio HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14106.m3u8
+#EXTINF:-1,BET HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14091.m3u8
+#EXTINF:-1,Canal Play 1
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14095.m3u8
+#EXTINF:-1,Canal Play 2
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14094.m3u8
+#EXTINF:-1,Canal Play 3
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14093.m3u8
+#EXTINF:-1,Comedie  HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14105.m3u8
+#EXTINF:-1,E! Entertainment HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14092.m3u8
+#EXTINF:-1,Lucky Jack TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14090.m3u8
+#EXTINF:-1,My Cuisine HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14089.m3u8
+#EXTINF:-1,Paramount Channel Decale HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14103.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14104.m3u8
+#EXTINF:-1,Polar  HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14102.m3u8
+#EXTINF:-1,Serie Club HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14109.m3u8
+#EXTINF:-1,Sundance Channel HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14101.m3u8
+#EXTINF:-1,SyFy HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14100.m3u8
 #EXTINF:-1,TCM Cinema
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4882.m3u8
-#EXTINF:-1,A_La_Carte_1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6106.m3u8
-#EXTINF:-1,A_La_Carte_2
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6105.m3u8
-#EXTINF:-1,A_La_Carte_3
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6104.m3u8
-#EXTINF:-1,A_La_Carte_4
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6103.m3u8
-#EXTINF:-1,A_La_Carte_5
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6102.m3u8
-#EXTINF:-1,A_La_Carte_6
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6101.m3u8
-#EXTINF:-1,A_La_Carte_7
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6100.m3u8
-#EXTINF:-1,A_La_Carte_8
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6099.m3u8
-#EXTINF:-1,A_La_Carte_9
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6098.m3u8
-#EXTINF:-1,A_La_Carte_10
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6097.m3u8
-#EXTINF:-1,Canal Play 1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9448.m3u8
-#EXTINF:-1,Canal Play 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9447.m3u8
-#EXTINF:-1,Canal Play 3 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9446.m3u8
-#EXTINF:-1,Canal Play 4 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9445.m3u8
-#EXTINF:-1,Canal Play 5 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9444.m3u8
-#EXTINF:-1,Canal Play 6 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9443.m3u8
-#EXTINF:-1,Canal Play 7 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9442.m3u8
-#EXTINF:-1,Canal Play 8 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9441.m3u8
-#EXTINF:-1,Canal Play 9 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9440.m3u8
-#EXTINF:-1,Canal Play 10 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9439.m3u8
-#EXTINF:-1,Canal Play 11 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9438.m3u8
-#EXTINF:-1,Canal Play 12 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9437.m3u8
-#EXTINF:-1,Canal Play 13 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9436.m3u8
-#EXTINF:-1,Canal Play 14 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9435.m3u8
-#EXTINF:-1,Canal Play 15 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9434.m3u8
-#EXTINF:-1,Canal Play 16 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9433.m3u8
-#EXTINF:-1,Canal Play 17 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9432.m3u8
-#EXTINF:-1,Orange_Premium_1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6084.m3u8
-#EXTINF:-1,Orange_Premium_2
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6083.m3u8
-#EXTINF:-1,Orange_Premium_3
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6082.m3u8
-#EXTINF:-1,Orange_Premium_4
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6081.m3u8
-#EXTINF:-1,Orange_Premium_5
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6080.m3u8
-#EXTINF:-1,Orange_Premium_6
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6079.m3u8
-#EXTINF:-1,Orange_Premium_7
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6078.m3u8
-#EXTINF:-1,GULLI
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4877.m3u8
-#EXTINF:-1,CANAL J
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4912.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4871.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4879.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4875.m3u8
-#EXTINF:-1, NICKELODEON JUNIOR
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4872.m3u8
-#EXTINF:-1,DISNEY CINEMA HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4874.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4873.m3u8
-#EXTINF:-1,Disney XD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4868.m3u8
-#EXTINF:-1,GAME ONE
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4869.m3u8
-#EXTINF:-1,MANGA
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4876.m3u8
-#EXTINF:-1,TELETOON + HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4867.m3u8
-#EXTINF:-1,PIWI
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4878.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4857.m3u8
-#EXTINF:-1,DISCOVERY SCIENCES
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4856.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4863.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4864.m3u8
-#EXTINF:-1,PLANETE+
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4862.m3u8
-#EXTINF:-1,ANIMAUX
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4853.m3u8
-#EXTINF:-1,Planete A&E
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4860.m3u8
-#EXTINF:-1,PLANETE CI
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4861.m3u8
-#EXTINF:-1,Science&Vie TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4855.m3u8
-#EXTINF:-1,toute l'histoire
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4859.m3u8
-#EXTINF:-1,Tv Breizh
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4898.m3u8
-#EXTINF:-1,USHUAIA TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4858.m3u8
-#EXTINF:-1,AB Moteur
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4866.m3u8
-#EXTINF:-1,FOOT 24/24 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4818.m3u8
-#EXTINF:-1,KOMBAT SPORT
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4819.m3u8
-#EXTINF:-1,CANAL SPORT
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4823.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4821.m3u8
-#EXTINF:-1,Eurosport 2
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4820.m3u8
-#EXTINF:-1,SFR SPORTS 1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3594.m3u8
-#EXTINF:-1,SFR SPORTS 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3593.m3u8
-#EXTINF:-1,SFR SPORTS 3 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3592.m3u8
-#EXTINF:-1, SFR SPORT 4 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4817.m3u8
-#EXTINF:-1,SFR SPORTS  5 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/4815.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3602.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3601.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3600.m3u8
-#EXTINF:-1,BEIN MAX 4
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3599.m3u8
-#EXTINF:-1,BEIN MAX 5
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3598.m3u8
-#EXTINF:-1,BEIN MAX 6
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3597.m3u8
-#EXTINF:-1,BEIN MAX 7
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3596.m3u8
-#EXTINF:-1,BEIN MAX 8
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/3595.m3u8
-#EXTINF:-1, BeIN Sports Max 9
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6970.m3u8
-#EXTINF:-1, BeIN Sports Max 10
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/6971.m3u8
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14099.m3u8
+#EXTINF:-1,TCM Cinema HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14098.m3u8
+#EXTINF:-1,TF1 Series Films HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14097.m3u8
+#EXTINF:-1,Warner TV HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14096.m3u8
+#EXTINF:-1,AB Moteurs HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14088.m3u8
+#EXTINF:-1,Animeaux
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14087.m3u8
+#EXTINF:-1,Chasse et Peche HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14086.m3u8
+#EXTINF:-1,Crime District HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14085.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14084.m3u8
+#EXTINF:-1,Discovery Family HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14083.m3u8
+#EXTINF:-1,Discovery Investigation HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14082.m3u8
+#EXTINF:-1,Discovery Science HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14081.m3u8
+#EXTINF:-1,Elle Girl HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14080.m3u8
+#EXTINF:-1,Histoire
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14079.m3u8
+#EXTINF:-1,M6 Boutique
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14078.m3u8
+#EXTINF:-1,Myzen TV HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14077.m3u8
+#EXTINF:-1,National Geographic HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14076.m3u8
+#EXTINF:-1,National Geographic Wild HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14075.m3u8
+#EXTINF:-1,Ouatch TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14074.m3u8
+#EXTINF:-1,Planete   HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14071.m3u8
+#EXTINF:-1,Planete  AE HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14073.m3u8
+#EXTINF:-1,Planete  CI HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14072.m3u8
+#EXTINF:-1,QVC HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14070.m3u8
+#EXTINF:-1,RMC Decouverte
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14069.m3u8
+#EXTINF:-1,RMC Decouverte HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14068.m3u8
+#EXTINF:-1,RMC Story
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14067.m3u8
+#EXTINF:-1,RMC Story HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14066.m3u8
+#EXTINF:-1,Science et Vie TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14065.m3u8
+#EXTINF:-1,Seasons HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14064.m3u8
+#EXTINF:-1,Toute L' Histoire
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14063.m3u8
+#EXTINF:-1,Trek HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14062.m3u8
+#EXTINF:-1,Ushuaia TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14061.m3u8
+#EXTINF:-1,Vivolta
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14060.m3u8
+#EXTINF:-1,Voyage HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14059.m3u8
+#EXTINF:-1,BBlack Africa
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14047.m3u8
+#EXTINF:-1,BBlack Caribean
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14046.m3u8
+#EXTINF:-1,BBlack Classic
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14045.m3u8
+#EXTINF:-1,BFM Business HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14058.m3u8
+#EXTINF:-1,BFM Paris HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14057.m3u8
+#EXTINF:-1,Brava
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14044.m3u8
+#EXTINF:-1,Clubbing TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14043.m3u8
+#EXTINF:-1,Euronews HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14056.m3u8
+#EXTINF:-1,France 24 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14055.m3u8
+#EXTINF:-1,France Info HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14054.m3u8
+#EXTINF:-1,I24 News HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14053.m3u8
+#EXTINF:-1,La Chaine Meteo
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14052.m3u8
+#EXTINF:-1,LCI HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14051.m3u8
+#EXTINF:-1,LCP 100%
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14050.m3u8
+#EXTINF:-1,M6 Music
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14042.m3u8
+#EXTINF:-1,MCM
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14041.m3u8
+#EXTINF:-1,MCM Top
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14040.m3u8
+#EXTINF:-1,Mezzo
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14039.m3u8
+#EXTINF:-1,MTV HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14038.m3u8
+#EXTINF:-1,NRJ Hits
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14037.m3u8
+#EXTINF:-1,RFM TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14048.m3u8
+#EXTINF:-1,Trace Africa HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14036.m3u8
+#EXTINF:-1,Trace Tropical HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14035.m3u8
+#EXTINF:-1,Trace Urban HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14034.m3u8
+#EXTINF:-1,TV5 Monde HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14049.m3u8
+#EXTINF:-1,Baby TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14033.m3u8
+#EXTINF:-1,Boing HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14032.m3u8
+#EXTINF:-1,Boomerang  1
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14031.m3u8
+#EXTINF:-1,Boomerang HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14030.m3u8
+#EXTINF:-1,Canal J HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14029.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14028.m3u8
+#EXTINF:-1,Disney Channel  1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14027.m3u8
+#EXTINF:-1,Disney Channel HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14026.m3u8
+#EXTINF:-1,Disney Cinema HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14025.m3u8
+#EXTINF:-1,Disney Junior HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14024.m3u8
+#EXTINF:-1,Disney XD HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14023.m3u8
+#EXTINF:-1,Game One  1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14022.m3u8
+#EXTINF:-1,FR8: Game One HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14021.m3u8
+#EXTINF:-1,Ginx
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14020.m3u8
+#EXTINF:-1,Gong
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14019.m3u8
+#EXTINF:-1,Gong Max
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14018.m3u8
+#EXTINF:-1,Gulli HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14017.m3u8
+#EXTINF:-1,J-One HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14016.m3u8
+#EXTINF:-1,Mangas HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14015.m3u8
+#EXTINF:-1,Nickelodeon  1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14014.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14013.m3u8
+#EXTINF:-1,Nickelodeon Junior HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14012.m3u8
+#EXTINF:-1,Nickelodeon Teen HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14011.m3u8
+#EXTINF:-1,Pitchoun TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14010.m3u8
+#EXTINF:-1,Piwi HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14009.m3u8
+#EXTINF:-1,Teletoon   HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14008.m3u8
+#EXTINF:-1,Teletoon  1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14007.m3u8
+#EXTINF:-1,FR8: Tiji
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14006.m3u8
+#EXTINF:-1,FR8: Toonami
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14005.m3u8
+#EXTINF:-1, RMC Sport Live 10 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13965.m3u8
+#EXTINF:-1,BeIN Sports 1
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13990.m3u8
+#EXTINF:-1,BeIN Sports 1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13989.m3u8
+#EXTINF:-1,BeIN Sports 2
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13988.m3u8
+#EXTINF:-1,BeIN Sports 2 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13987.m3u8
+#EXTINF:-1,BeIN Sports 3
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13986.m3u8
+#EXTINF:-1,BeIN Sports 3 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13985.m3u8
+#EXTINF:-1,BeIN Sports Max 10
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13978.m3u8
+#EXTINF:-1,BeIN Sports Max 4
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13984.m3u8
+#EXTINF:-1,BeIN Sports Max 5
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13983.m3u8
+#EXTINF:-1,BeIN Sports Max 6
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13982.m3u8
+#EXTINF:-1,BeIN Sports Max 7
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13981.m3u8
+#EXTINF:-1,BeIN Sports Max 8
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13980.m3u8
+#EXTINF:-1,BeIN Sports Max 9
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13979.m3u8
+#EXTINF:-1,Canal  Sport
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14004.m3u8
+#EXTINF:-1,Canal  Sport HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14003.m3u8
+#EXTINF:-1,Equidia HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14002.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14001.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14000.m3u8
+#EXTINF:-1,Foot  24/24 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13999.m3u8
+#EXTINF:-1,Golf  HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13998.m3u8
+#EXTINF:-1,Golf Channel HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13997.m3u8
+#EXTINF:-1,Infosport  HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13996.m3u8
+#EXTINF:-1,L' Equipe 21 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13995.m3u8
+#EXTINF:-1,Motorsport TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13994.m3u8
+#EXTINF:-1,OL TV
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13992.m3u8
+#EXTINF:-1,RMC Sport 1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13977.m3u8
+#EXTINF:-1,RMC Sport 2 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13976.m3u8
+#EXTINF:-1,RMC Sport 3 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13975.m3u8
+#EXTINF:-1,RMC Sport 4 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13974.m3u8
+#EXTINF:-1,RMC Sport Access 1 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13973.m3u8
+#EXTINF:-1,RMC Sport Access 2 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13972.m3u8
+#EXTINF:-1,RMC Sport Access 3 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13971.m3u8
+#EXTINF:-1,RMC Sport Live 11 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13964.m3u8
+#EXTINF:-1,RMC Sport Live 12 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13963.m3u8
+#EXTINF:-1,RMC Sport Live 13 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13962.m3u8
+#EXTINF:-1,RMC Sport Live 14 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13961.m3u8
+#EXTINF:-1,RMC Sport Live 15 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13960.m3u8
+#EXTINF:-1,RMC Sport Live 16 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13959.m3u8
+#EXTINF:-1,RMC Sport Live 5 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13970.m3u8
+#EXTINF:-1,RMC Sport Live 6 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13969.m3u8
+#EXTINF:-1,RMC Sport Live 7 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13968.m3u8
+#EXTINF:-1,RMC Sport Live 8 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13967.m3u8
+#EXTINF:-1,RMC Sport Live 9 HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13966.m3u8
+#EXTINF:-1,RMC Sport News HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13991.m3u8
+#EXTINF:-1,Trace Sport Star HD
+http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13993.m3u8
