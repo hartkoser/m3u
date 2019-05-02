@@ -1,445 +1,941 @@
 #EXTM3U
-#EXTINF:-1,AB1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14165.m3u8
-#EXTINF:-1,AB3 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14164.m3u8
-#EXTINF:-1,ABXplore HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14163.m3u8
-#EXTINF:-1,Arte HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14162.m3u8
-#EXTINF:-1,BFM TV HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14161.m3u8
-#EXTINF:-1,C8
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14160.m3u8
-#EXTINF:-1,C8 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14159.m3u8
-#EXTINF:-1,Cherie 25 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14158.m3u8
-#EXTINF:-1,CNews HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14157.m3u8
-#EXTINF:-1,CStar
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14156.m3u8
-#EXTINF:-1,CStar HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14155.m3u8
-#EXTINF:-1,France 2
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14177.m3u8
-#EXTINF:-1,France 2 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14176.m3u8
-#EXTINF:-1,France 3
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14175.m3u8
-#EXTINF:-1,France 3 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14174.m3u8
-#EXTINF:-1,France 4
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14173.m3u8
-#EXTINF:-1,France 4 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14172.m3u8
-#EXTINF:-1,France 5
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14171.m3u8
-#EXTINF:-1,France 5 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14170.m3u8
-#EXTINF:-1,France O
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14169.m3u8
-#EXTINF:-1,France O HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14168.m3u8
-#EXTINF:-1,M6
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14154.m3u8
 #EXTINF:-1,M6 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14153.m3u8
-#EXTINF:-1,NRJ 12 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14152.m3u8
-#EXTINF:-1,Paris Premiere HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14151.m3u8
-#EXTINF:-1,RTL 9 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14150.m3u8
-#EXTINF:-1,Teva
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14149.m3u8
-#EXTINF:-1,TF1
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14178.m3u8
-#EXTINF:-1,TF1 Full HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14179.m3u8
-#EXTINF:-1,TF1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14180.m3u8
-#EXTINF:-1,TFX
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14167.m3u8
-#EXTINF:-1,TFX HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14166.m3u8
-#EXTINF:-1,TMC  1
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14148.m3u8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14003.m3u8
+#EXTINF:-1,M6 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/90.m3u8
+#EXTINF:-1,M6 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13726.m3u8
+#EXTINF:-1,PARIS PREMIERE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13824.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13993.m3u8
+#EXTINF:-1,PARIS PREMIERE SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1030.m3u8
+#EXTINF:-1,TMC FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13696.m3u8
 #EXTINF:-1,TMC HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14147.m3u8
-#EXTINF:-1,TV Breizh HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14146.m3u8
-#EXTINF:-1,W9
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14145.m3u8
-#EXTINF:-1,W9 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14144.m3u8
-#EXTINF:-1,Canal
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14143.m3u8
-#EXTINF:-1,Canal  Cinema
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14140.m3u8
-#EXTINF:-1,Canal  Cinema HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14139.m3u8
-#EXTINF:-1,Canal  Decale
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14138.m3u8
-#EXTINF:-1,Canal  Decale HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14137.m3u8
-#EXTINF:-1,Canal  Family
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14136.m3u8
-#EXTINF:-1,Canal  Family HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14135.m3u8
-#EXTINF:-1,Canal  FullHD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14141.m3u8
-#EXTINF:-1,Canal  HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14142.m3u8
-#EXTINF:-1,Canal  Series
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14134.m3u8
-#EXTINF:-1,Canal  Series HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14133.m3u8
-#EXTINF:-1,Cine  Classic HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14132.m3u8
-#EXTINF:-1,Cine  Club
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14131.m3u8
-#EXTINF:-1,Cine  Club HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14130.m3u8
-#EXTINF:-1,Cine  Emotion
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14129.m3u8
-#EXTINF:-1,Cine  Emotion HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14128.m3u8
-#EXTINF:-1,Cine  Famiz
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14127.m3u8
-#EXTINF:-1,Cine  Famiz HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14126.m3u8
-#EXTINF:-1,Cine  Frisson
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14125.m3u8
-#EXTINF:-1,Cine  Frisson HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14124.m3u8
-#EXTINF:-1,Cine  Premier
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14123.m3u8
-#EXTINF:-1,Cine  Premier HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14122.m3u8
-#EXTINF:-1,Cine FX HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14121.m3u8
-#EXTINF:-1,Cine Polar HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14120.m3u8
-#EXTINF:-1,OCS Choc
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14119.m3u8
-#EXTINF:-1,OCS Choc HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14118.m3u8
-#EXTINF:-1,OCS City
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14117.m3u8
-#EXTINF:-1,OCS City HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14116.m3u8
-#EXTINF:-1,OCS Geants
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14115.m3u8
-#EXTINF:-1,OCS Geants HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14114.m3u8
-#EXTINF:-1,OCS Max
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14113.m3u8
-#EXTINF:-1,OCS Max HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14112.m3u8
-#EXTINF:-1,13eme Rue
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14111.m3u8
-#EXTINF:-1,13eme Rue HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14110.m3u8
-#EXTINF:-1,6Ter HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14108.m3u8
-#EXTINF:-1,Action HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14107.m3u8
-#EXTINF:-1,Altice Studio HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14106.m3u8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13979.m3u8
+#EXTINF:-1,TMC SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1014.m3u8
+#EXTINF:-1,TV BREIZH FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13693.m3u8
+#EXTINF:-1,TV BREIZH HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13975.m3u8
+#EXTINF:-1,TV BREIZH SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1032.m3u8
+#EXTINF:-1,6TER FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13793.m3u8
+#EXTINF:-1,6TER SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1024.m3u8
+#EXTINF:-1,ARTE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13788.m3u8
+#EXTINF:-1,ARTE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14043.m3u8
+#EXTINF:-1,ARTE SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/426.m3u8
+#EXTINF:-1,IDF
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13810.m3u8
+#EXTINF:-1,TF1 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13847.m3u8
+#EXTINF:-1,TF1 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13917.m3u8
+#EXTINF:-1,TF1 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/84.m3u8
+#EXTINF:-1,TF1 +1 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13817.m3u8
+#EXTINF:-1,FRANCE 2 FHD
+http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/3.ts
+#EXTINF:-1,FRANCE 2 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13916.m3u8
+#EXTINF:-1,FRANCE 2 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1007.m3u8
+#EXTINF:-1,FRANCE 3 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13738.m3u8
+#EXTINF:-1,FRANCE 3 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13915.m3u8
+#EXTINF:-1,FRANCE 3 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1008.m3u8
+#EXTINF:-1,FRANCE 4 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13737.m3u8
+#EXTINF:-1,FRANCE 4 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13914.m3u8
+#EXTINF:-1,FRANCE 4 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1009.m3u8
+#EXTINF:-1,FRANCE 5 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13736.m3u8
+#EXTINF:-1,FRANCE 5 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13913.m3u8
+#EXTINF:-1,FRANCE 5 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1013.m3u8
+#EXTINF:-1,FRANCE O HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13735.m3u8
+#EXTINF:-1,FRANCE O SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1021.m3u8
+#EXTINF:-1,|FR|*****CINEMA FRANCE*****|FR|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24927.m3u8
+#EXTINF:-1,CANAL + FHD
+http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/2.ts
+#EXTINF:-1,CANAL + SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28345.m3u8
+#EXTINF:-1,CANAL + DECALE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13768.m3u8
+#EXTINF:-1,CANAL + DECALE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14035.m3u8
+#EXTINF:-1,CANAL + DECALE SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28346.m3u8
+#EXTINF:-1,CANAL + FAMILY FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13767.m3u8
+#EXTINF:-1,CANAL + FAMILY HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14033.m3u8
+#EXTINF:-1,CANAL + FAMILY SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28348.m3u8
+#EXTINF:-1,CANAL + CINEMA FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13769.m3u8
+#EXTINF:-1,CANAL + CINEMA HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28942.m3u8
+#EXTINF:-1,CANAL + CINEMA SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28347.m3u8
+#EXTINF:-1,OCS MAX FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13825.m3u8
+#EXTINF:-1,OCS MAX HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13996.m3u8
+#EXTINF:-1,OCS GEANTS FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13833.m3u8
+#EXTINF:-1,OCS GEANTS HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13846.m3u8
+#EXTINF:-1,OCS CITY FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13827.m3u8
+#EXTINF:-1,OCS CITY HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13994.m3u8
+#EXTINF:-1,OCS CHOC FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13834.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13995.m3u8
+#EXTINF:-1,CINE+ PREMIER FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13759.m3u8
+#EXTINF:-1,CINE+ PREMIER HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14021.m3u8
+#EXTINF:-1,CINE+ PREMIER SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28332.m3u8
+#EXTINF:-1,CINE+ FRISSON FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13754.m3u8
+#EXTINF:-1,CINE+ FRISSON HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14023.m3u8
+#EXTINF:-1,CINE+ FRISSON SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28331.m3u8
+#EXTINF:-1,CINE+ FAMIZ FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13755.m3u8
+#EXTINF:-1,CINE+ FAMIZ HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13941.m3u8
+#EXTINF:-1,CINE+ FAMIZ SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28329.m3u8
+#EXTINF:-1,CINE+ EMOTION FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13756.m3u8
+#EXTINF:-1,CINE+ EMOTION HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14024.m3u8
+#EXTINF:-1,CINE+ EMOTION SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28330.m3u8
+#EXTINF:-1,ACTION FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13790.m3u8
+#EXTINF:-1,ACTION HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14045.m3u8
+#EXTINF:-1,ACTION SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28334.m3u8
+#EXTINF:-1,CINE+ CLUB FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13757.m3u8
+#EXTINF:-1,CINE+ CLUB HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14025.m3u8
+#EXTINF:-1,CINE+ CLUB SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28328.m3u8
+#EXTINF:-1,CINE POLAR FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13752.m3u8
+#EXTINF:-1,CINE+ POLAR HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14027.m3u8
+#EXTINF:-1,CINE+ POLAR SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28335.m3u8
+#EXTINF:-1,WARNER TV FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13784.m3u8
+#EXTINF:-1,POLAR+  FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13763.m3u8
+#EXTINF:-1,POLAR+ HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25041.m3u8
+#EXTINF:-1,TCM CINEMA FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13697.m3u8
+#EXTINF:-1,TCM CINEMA HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13980.m3u8
+#EXTINF:-1,TCM CINEMA SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28337.m3u8
+#EXTINF:-1,CINE+ CLASSIC FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13758.m3u8
+#EXTINF:-1,CINE+ CLASSIC HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14026.m3u8
+#EXTINF:-1,CINE+ CLASSIC SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28327.m3u8
+#EXTINF:-1,CINE+ FX FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13753.m3u8
+#EXTINF:-1,CINE+ FX HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14022.m3u8
+#EXTINF:-1,CINE+ FX SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28336.m3u8
+#EXTINF:-1,EUROCHANNEL SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28333.m3u8
+#EXTINF:-1,SUNDANCE CHANNEL SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28338.m3u8
+#EXTINF:-1,ALTICE STUDIO FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13787.m3u8
+#EXTINF:-1,ALTICE STUDIO HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28413.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13713.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13911.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28340.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL DECALE SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28339.m3u8
+#EXTINF:-1,PARAMOUNT DECALE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13829.m3u8
+#EXTINF:-1,CANALPLAY 1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13970.m3u8
+#EXTINF:-1,CANALPLAY 2
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13962.m3u8
+#EXTINF:-1,CANALPLAY 3
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13961.m3u8
+#EXTINF:-1,CANALPLAY 4
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13960.m3u8
+#EXTINF:-1,CANALPLAY 5
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13959.m3u8
+#EXTINF:-1,CANALPLAY 6
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13958.m3u8
+#EXTINF:-1,CANALPLAY 7
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13957.m3u8
+#EXTINF:-1,CANALPLAY 8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13956.m3u8
+#EXTINF:-1,CANALPLAY 9
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13955.m3u8
+#EXTINF:-1,CANALPLAY 10
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13969.m3u8
+#EXTINF:-1,CANALPLAY 11
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13968.m3u8
+#EXTINF:-1,CANALPLAY 12
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13967.m3u8
+#EXTINF:-1,CANALPLAY 13
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13966.m3u8
+#EXTINF:-1,CANALPLAY 14
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13965.m3u8
+#EXTINF:-1,CANALPLAY 15
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13964.m3u8
+#EXTINF:-1,CANALPLAY 16
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13963.m3u8
+#EXTINF:-1,|FR|***ORANGE***|FR|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24928.m3u8
+#EXTINF:-1,ORANGE CINE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13926.m3u8
+#EXTINF:-1,ORANGE CINE 1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13925.m3u8
+#EXTINF:-1,ORANGE CINE 2
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13924.m3u8
+#EXTINF:-1,ORANGE CINE 3
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13923.m3u8
+#EXTINF:-1,ORANGE CINE 4
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13922.m3u8
+#EXTINF:-1,ORANGE CINE 5
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13921.m3u8
+#EXTINF:-1,ORANGE CINE 6
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13920.m3u8
+#EXTINF:-1,ORANGE CINE 7
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13919.m3u8
+#EXTINF:-1,ORANGE CINE 8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13918.m3u8
+#EXTINF:-1,ALACARTE 1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13949.m3u8
+#EXTINF:-1,ALACARTE 2
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13947.m3u8
+#EXTINF:-1,ALACARTE 3
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13946.m3u8
+#EXTINF:-1,ALACARTE 4
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13945.m3u8
+#EXTINF:-1,ALACARTE 5
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13954.m3u8
+#EXTINF:-1,ALACARTE 6
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13953.m3u8
+#EXTINF:-1,ALACARTE 7
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13952.m3u8
+#EXTINF:-1,ALACARTE 8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13951.m3u8
+#EXTINF:-1,ALACARTE 9
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13950.m3u8
+#EXTINF:-1,ALACARTE 10
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13948.m3u8
+#EXTINF:-1,|FR|***SPORT***|FR|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24929.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD
+http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/1.ts
+#EXTINF:-1,RMC SPORT 1 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28945.m3u8
+#EXTINF:-1,RMC SPORT 2 FHD
+http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/5.ts
+#EXTINF:-1,RMC SPORT 2 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13982.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13700.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13985.m3u8
+#EXTINF:-1,RMC SPORT 4 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13699.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13984.m3u8
+#EXTINF:-1,BEINSPORTS 1 F.HD
+http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/4.ts
+#EXTINF:-1,BEINSPORTS 2 F.HD
+http://163.172.52.182:8789/live/dGZeOJdm14/frLDGgdsfr11/6.ts
+#EXTINF:-1,BEINSPORTS 3 F.HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14158.m3u8
+#EXTINF:-1,BEINSPORTS 1 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28941.m3u8
+#EXTINF:-1,BEINSPORTS 2 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28943.m3u8
+#EXTINF:-1,BEINSPORTS 3 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14163.m3u8
+#EXTINF:-1,BEINSPORT 1 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/92.m3u8
+#EXTINF:-1,BEINSPORT 2 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/93.m3u8
+#EXTINF:-1,BEINSPORT 3 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/94.m3u8
+#EXTINF:-1,BEINSPORT MAX 4FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13779.m3u8
+#EXTINF:-1,BEINSPORT MAX 4
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/95.m3u8
+#EXTINF:-1,BEINSPORT MAX 5FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13778.m3u8
+#EXTINF:-1,BEINSPORT MAX 6FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13777.m3u8
+#EXTINF:-1,BEINSPORT MAX 6
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1089.m3u8
+#EXTINF:-1,BEINSPORT MAX 7FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13776.m3u8
+#EXTINF:-1,BEINSPORT MAX 7
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1113.m3u8
+#EXTINF:-1,BEINSPORT MAX 8FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13775.m3u8
+#EXTINF:-1,BEINSPORT MAX 8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1468.m3u8
+#EXTINF:-1,BEINSPORT MAX 9FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13774.m3u8
+#EXTINF:-1,BEINSPORT MAX 9
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1469.m3u8
+#EXTINF:-1,BEINSPORT MAX 10FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13773.m3u8
+#EXTINF:-1,BEIN SPORT MAX 10
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1470.m3u8
+#EXTINF:-1,CANAL + SPORT FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14155.m3u8
+#EXTINF:-1,CANAL+ SPORT HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14161.m3u8
+#EXTINF:-1,SPORT 365 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25040.m3u8
+#EXTINF:-1,FOOT+
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13937.m3u8
+#EXTINF:-1,FOOT+24 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/425.m3u8
+#EXTINF:-1,FOOT  HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13936.m3u8
+#EXTINF:-1,ONZEO FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13786.m3u8
+#EXTINF:-1,MULTISPORTS 1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13807.m3u8
+#EXTINF:-1,MULTISPORTS 2
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13802.m3u8
+#EXTINF:-1,MULTISPORTS 3
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13806.m3u8
+#EXTINF:-1,MULTISPORTS 4
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13805.m3u8
+#EXTINF:-1,MULTISPORTS 5
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13804.m3u8
+#EXTINF:-1,MULTISPORTS 6
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13803.m3u8
+#EXTINF:-1,TRACE SPORT FULLHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13797.m3u8
+#EXTINF:-1,BFM SPORT FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13843.m3u8
+#EXTINF:-1,BFM SPORTS HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13943.m3u8
+#EXTINF:-1,BFM HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13839.m3u8
+#EXTINF:-1,INFOSPORT FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13729.m3u8
+#EXTINF:-1,LEQUIPE 21 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13728.m3u8
+#EXTINF:-1,EQUIPE 21 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1023.m3u8
+#EXTINF:-1,OL TV FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13842.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13740.m3u8
+#EXTINF:-1,MUSCULATION TV HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13801.m3u8
+#EXTINF:-1,AUTOMOTO  HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1035.m3u8
+#EXTINF:-1,MOTORSPORT HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13782.m3u8
+#EXTINF:-1,MOTORSPORT FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13722.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13742.m3u8
+#EXTINF:-1,EUROSPORT1 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14011.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13741.m3u8
+#EXTINF:-1,EUROSPORT2 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14010.m3u8
+#EXTINF:-1,EQUIDIA LIVE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13743.m3u8
+#EXTINF:-1,EQUIDIA LIVE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14012.m3u8
+#EXTINF:-1,EQUIDIA LIFE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13744.m3u8
+#EXTINF:-1,EQUIDIA LIFE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14013.m3u8
+#EXTINF:-1,FRANCE O
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/89.m3u8
+#EXTINF:-1,EQUIDIA LIVE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1036.m3u8
+#EXTINF:-1,EQUIDIA LIFE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/85.m3u8
+#EXTINF:-1,|FR|***SPORT GOLF***|FR|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24930.m3u8
+#EXTINF:-1,GOLF+ FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13734.m3u8
+#EXTINF:-1,GOLF CHANNEL FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13689.m3u8
+#EXTINF:-1,GOLF CHANNELS HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13977.m3u8
+#EXTINF:-1,|FR|***DIVERTISSEMENT***|FR|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24931.m3u8
+#EXTINF:-1,SERIE CLUB FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13830.m3u8
+#EXTINF:-1,SERIE CLUB HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13986.m3u8
+#EXTINF:-1,CANAL+ SERIES FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13766.m3u8
+#EXTINF:-1,CANAL + SERIES HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28944.m3u8
+#EXTINF:-1,13EME RUE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13794.m3u8
+#EXTINF:-1,13EME RUE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14048.m3u8
+#EXTINF:-1,SYFY HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13981.m3u8
+#EXTINF:-1,SYFY FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13698.m3u8
+#EXTINF:-1,SUNDANCE TV FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13733.m3u8
+#EXTINF:-1,TEVA HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25039.m3u8
+#EXTINF:-1,TEVA SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1031.m3u8
+#EXTINF:-1,COMEDIE+ FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13751.m3u8
+#EXTINF:-1,COMEDIE  HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14019.m3u8
+#EXTINF:-1,MY CUISINE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13781.m3u8
+#EXTINF:-1,E! ENTERTAINMENT FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13746.m3u8
+#EXTINF:-1,E! ENTERTAINEMENT HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14015.m3u8
+#EXTINF:-1,NO STOP PEOPLE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13780.m3u8
+#EXTINF:-1,NON STOP PEOPE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13928.m3u8
+#EXTINF:-1,VIVOLTA HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25044.m3u8
+#EXTINF:-1,IL TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13934.m3u8
+#EXTINF:-1,NRJ12 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13717.m3u8
+#EXTINF:-1,NRJ12 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14047.m3u8
+#EXTINF:-1,NRJ12 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1019.m3u8
+#EXTINF:-1,ELLE GIRL FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13745.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14014.m3u8
+#EXTINF:-1,BET FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13841.m3u8
 #EXTINF:-1,BET HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14091.m3u8
-#EXTINF:-1,Canal Play 1
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14095.m3u8
-#EXTINF:-1,Canal Play 2
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14094.m3u8
-#EXTINF:-1,Canal Play 3
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14093.m3u8
-#EXTINF:-1,Comedie  HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14105.m3u8
-#EXTINF:-1,E! Entertainment HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14092.m3u8
-#EXTINF:-1,Lucky Jack TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14090.m3u8
-#EXTINF:-1,My Cuisine HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14089.m3u8
-#EXTINF:-1,Paramount Channel Decale HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14103.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14104.m3u8
-#EXTINF:-1,Polar  HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14102.m3u8
-#EXTINF:-1,Serie Club HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14109.m3u8
-#EXTINF:-1,Sundance Channel HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14101.m3u8
-#EXTINF:-1,SyFy HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14100.m3u8
-#EXTINF:-1,TCM Cinema
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14099.m3u8
-#EXTINF:-1,TCM Cinema HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14098.m3u8
-#EXTINF:-1,TF1 Series Films HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14097.m3u8
-#EXTINF:-1,Warner TV HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14096.m3u8
-#EXTINF:-1,AB Moteurs HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14088.m3u8
-#EXTINF:-1,Animeaux
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14087.m3u8
-#EXTINF:-1,Chasse et Peche HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14086.m3u8
-#EXTINF:-1,Crime District HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14085.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14084.m3u8
-#EXTINF:-1,Discovery Family HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14083.m3u8
-#EXTINF:-1,Discovery Investigation HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14082.m3u8
-#EXTINF:-1,Discovery Science HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14081.m3u8
-#EXTINF:-1,Elle Girl HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14080.m3u8
-#EXTINF:-1,Histoire
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14079.m3u8
-#EXTINF:-1,M6 Boutique
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14078.m3u8
-#EXTINF:-1,Myzen TV HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14077.m3u8
-#EXTINF:-1,National Geographic HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14076.m3u8
-#EXTINF:-1,National Geographic Wild HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14075.m3u8
-#EXTINF:-1,Ouatch TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14074.m3u8
-#EXTINF:-1,Planete   HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14071.m3u8
-#EXTINF:-1,Planete  AE HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14073.m3u8
-#EXTINF:-1,Planete  CI HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14072.m3u8
-#EXTINF:-1,QVC HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14070.m3u8
-#EXTINF:-1,RMC Decouverte
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14069.m3u8
-#EXTINF:-1,RMC Decouverte HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14068.m3u8
-#EXTINF:-1,RMC Story
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14067.m3u8
-#EXTINF:-1,RMC Story HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14066.m3u8
-#EXTINF:-1,Science et Vie TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14065.m3u8
-#EXTINF:-1,Seasons HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14064.m3u8
-#EXTINF:-1,Toute L' Histoire
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14063.m3u8
-#EXTINF:-1,Trek HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14062.m3u8
-#EXTINF:-1,Ushuaia TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14061.m3u8
-#EXTINF:-1,Vivolta
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14060.m3u8
-#EXTINF:-1,Voyage HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14059.m3u8
-#EXTINF:-1,BBlack Africa
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14047.m3u8
-#EXTINF:-1,BBlack Caribean
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14046.m3u8
-#EXTINF:-1,BBlack Classic
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14045.m3u8
-#EXTINF:-1,BFM Business HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14058.m3u8
-#EXTINF:-1,BFM Paris HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14057.m3u8
-#EXTINF:-1,Brava
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14044.m3u8
-#EXTINF:-1,Clubbing TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14043.m3u8
-#EXTINF:-1,Euronews HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14056.m3u8
-#EXTINF:-1,France 24 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14055.m3u8
-#EXTINF:-1,France Info HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14054.m3u8
-#EXTINF:-1,I24 News HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14053.m3u8
-#EXTINF:-1,La Chaine Meteo
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14052.m3u8
-#EXTINF:-1,LCI HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14051.m3u8
-#EXTINF:-1,LCP 100%
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14050.m3u8
-#EXTINF:-1,M6 Music
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14042.m3u8
-#EXTINF:-1,MCM
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14041.m3u8
-#EXTINF:-1,MCM Top
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14040.m3u8
-#EXTINF:-1,Mezzo
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14039.m3u8
-#EXTINF:-1,MTV HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14038.m3u8
-#EXTINF:-1,NRJ Hits
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14037.m3u8
-#EXTINF:-1,RFM TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14048.m3u8
-#EXTINF:-1,Trace Africa HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14036.m3u8
-#EXTINF:-1,Trace Tropical HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14035.m3u8
-#EXTINF:-1,Trace Urban HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14034.m3u8
-#EXTINF:-1,TV5 Monde HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14049.m3u8
-#EXTINF:-1,Baby TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14033.m3u8
-#EXTINF:-1,Boing HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14032.m3u8
-#EXTINF:-1,Boomerang  1
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14031.m3u8
-#EXTINF:-1,Boomerang HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14030.m3u8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28341.m3u8
+#EXTINF:-1,VICELAND FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13772.m3u8
+#EXTINF:-1,TV5 MONDE STYLE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25042.m3u8
+#EXTINF:-1,TV 5 monde
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1033.m3u8
+#EXTINF:-1,CHERIE 25 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13760.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14028.m3u8
+#EXTINF:-1,CHERIE 25 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1027.m3u8
+#EXTINF:-1,TF1 FILM ET SERIE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13732.m3u8
+#EXTINF:-1,TF1 SÉRIES FILMS SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1022.m3u8
+#EXTINF:-1,C8 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13823.m3u8
+#EXTINF:-1,C8 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14036.m3u8
+#EXTINF:-1,C8 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/188.m3u8
+#EXTINF:-1,CSTAR FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13749.m3u8
+#EXTINF:-1,DIRECT8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1091.m3u8
+#EXTINF:-1,CSTAR HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13940.m3u8
+#EXTINF:-1,AZUR TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25043.m3u8
+#EXTINF:-1,WEO FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13795.m3u8
+#EXTINF:-1,WEO HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25045.m3u8
+#EXTINF:-1,TV8 MONT BLANC FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13796.m3u8
+#EXTINF:-1,RTL9 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13707.m3u8
+#EXTINF:-1,RTL9 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13989.m3u8
+#EXTINF:-1,RTL9 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1029.m3u8
+#EXTINF:-1,A+  FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13695.m3u8
+#EXTINF:-1,RMC STORY FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13715.m3u8
+#EXTINF:-1,RMC STORY HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13997.m3u8
+#EXTINF:-1,RMC STORY   SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1025.m3u8
+#EXTINF:-1,TFX FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13716.m3u8
+#EXTINF:-1,TFX HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13998.m3u8
+#EXTINF:-1,TFX SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1015.m3u8
+#EXTINF:-1,W9 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13690.m3u8
+#EXTINF:-1,W9
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13973.m3u8
+#EXTINF:-1,W9 SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/421.m3u8
+#EXTINF:-1,OFIVE TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1038.m3u8
+#EXTINF:-1,LUXE TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1054.m3u8
+#EXTINF:-1,GUYSEN TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1063.m3u8
+#EXTINF:-1,ALSACE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25048.m3u8
+#EXTINF:-1,VOSGES
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1102.m3u8
+#EXTINF:-1,M6 BOUTIQUE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1097.m3u8
+#EXTINF:-1,FASHIONTV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1064.m3u8
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13861.m3u8
+#EXTINF:-1,DISNEY CHANNEL  HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24948.m3u8
+#EXTINF:-1,DISNEY CHA SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1040.m3u8
+#EXTINF:-1,DISNEY CHA +1 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13849.m3u8
+#EXTINF:-1,DISNEY CHA+1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1041.m3u8
+#EXTINF:-1,DISNEY XD FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13862.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24942.m3u8
+#EXTINF:-1,DISNEY JUNIOR FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13863.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24934.m3u8
+#EXTINF:-1,DISNEY CINEMA FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13860.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24940.m3u8
+#EXTINF:-1,NICKELODEON  FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13854.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14037.m3u8
+#EXTINF:-1,NICKELODEON JUN FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13851.m3u8
+#EXTINF:-1,NICKELODEON JUNIOR HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24935.m3u8
+#EXTINF:-1,NICKELODEON JUN SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/28344.m3u8
+#EXTINF:-1,NICKELODEON 4 TEEN FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24957.m3u8
+#EXTINF:-1,TOONAMI FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13850.m3u8
+#EXTINF:-1,TELETOON+  FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13855.m3u8
+#EXTINF:-1,TELETOON+ HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24958.m3u8
+#EXTINF:-1,TELETOON + 1 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13869.m3u8
+#EXTINF:-1,PIWI FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13867.m3u8
+#EXTINF:-1,PIWI+ HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24937.m3u8
+#EXTINF:-1,MONDE DES PETITS
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13848.m3u8
+#EXTINF:-1,CANAL J FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13764.m3u8
 #EXTINF:-1,Canal J HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14029.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14028.m3u8
-#EXTINF:-1,Disney Channel  1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14027.m3u8
-#EXTINF:-1,Disney Channel HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14026.m3u8
-#EXTINF:-1,Disney Cinema HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14025.m3u8
-#EXTINF:-1,Disney Junior HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14024.m3u8
-#EXTINF:-1,Disney XD HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14023.m3u8
-#EXTINF:-1,Game One  1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14022.m3u8
-#EXTINF:-1,FR8: Game One HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14021.m3u8
-#EXTINF:-1,Ginx
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14020.m3u8
-#EXTINF:-1,Gong
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14019.m3u8
-#EXTINF:-1,Gong Max
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14018.m3u8
-#EXTINF:-1,Gulli HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14017.m3u8
-#EXTINF:-1,J-One HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14016.m3u8
-#EXTINF:-1,Mangas HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14015.m3u8
-#EXTINF:-1,Nickelodeon  1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14014.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14013.m3u8
-#EXTINF:-1,Nickelodeon Junior HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14012.m3u8
-#EXTINF:-1,Nickelodeon Teen HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14011.m3u8
-#EXTINF:-1,Pitchoun TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14010.m3u8
-#EXTINF:-1,Piwi HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14009.m3u8
-#EXTINF:-1,Teletoon   HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14008.m3u8
-#EXTINF:-1,Teletoon  1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14007.m3u8
-#EXTINF:-1,FR8: Tiji
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14006.m3u8
-#EXTINF:-1,FR8: Toonami
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14005.m3u8
-#EXTINF:-1, RMC Sport Live 10 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13965.m3u8
-#EXTINF:-1,BeIN Sports 1
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13990.m3u8
-#EXTINF:-1,BeIN Sports 1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13989.m3u8
-#EXTINF:-1,BeIN Sports 2
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13988.m3u8
-#EXTINF:-1,BeIN Sports 2 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13987.m3u8
-#EXTINF:-1,BeIN Sports 3
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13986.m3u8
-#EXTINF:-1,BeIN Sports 3 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13985.m3u8
-#EXTINF:-1,BeIN Sports Max 10
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13978.m3u8
-#EXTINF:-1,BeIN Sports Max 4
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13984.m3u8
-#EXTINF:-1,BeIN Sports Max 5
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13983.m3u8
-#EXTINF:-1,BeIN Sports Max 6
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13982.m3u8
-#EXTINF:-1,BeIN Sports Max 7
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13981.m3u8
-#EXTINF:-1,BeIN Sports Max 8
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13980.m3u8
-#EXTINF:-1,BeIN Sports Max 9
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13979.m3u8
-#EXTINF:-1,Canal  Sport
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14004.m3u8
-#EXTINF:-1,Canal  Sport HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14003.m3u8
-#EXTINF:-1,Equidia HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14002.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14001.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/14000.m3u8
-#EXTINF:-1,Foot  24/24 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13999.m3u8
-#EXTINF:-1,Golf  HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13998.m3u8
-#EXTINF:-1,Golf Channel HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13997.m3u8
-#EXTINF:-1,Infosport  HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13996.m3u8
-#EXTINF:-1,L' Equipe 21 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13995.m3u8
-#EXTINF:-1,Motorsport TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13994.m3u8
-#EXTINF:-1,OL TV
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13992.m3u8
-#EXTINF:-1,RMC Sport 1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13977.m3u8
-#EXTINF:-1,RMC Sport 2 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13976.m3u8
-#EXTINF:-1,RMC Sport 3 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13975.m3u8
-#EXTINF:-1,RMC Sport 4 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13974.m3u8
-#EXTINF:-1,RMC Sport Access 1 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13973.m3u8
-#EXTINF:-1,RMC Sport Access 2 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13972.m3u8
-#EXTINF:-1,RMC Sport Access 3 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13971.m3u8
-#EXTINF:-1,RMC Sport Live 11 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13964.m3u8
-#EXTINF:-1,RMC Sport Live 12 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13963.m3u8
-#EXTINF:-1,RMC Sport Live 13 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13962.m3u8
-#EXTINF:-1,RMC Sport Live 14 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13961.m3u8
-#EXTINF:-1,RMC Sport Live 15 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13960.m3u8
-#EXTINF:-1,RMC Sport Live 16 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13959.m3u8
-#EXTINF:-1,RMC Sport Live 5 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13970.m3u8
-#EXTINF:-1,RMC Sport Live 6 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13969.m3u8
-#EXTINF:-1,RMC Sport Live 7 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13968.m3u8
-#EXTINF:-1,RMC Sport Live 8 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13967.m3u8
-#EXTINF:-1,RMC Sport Live 9 HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13966.m3u8
-#EXTINF:-1,RMC Sport News HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13991.m3u8
-#EXTINF:-1,Trace Sport Star HD
-http://ma-tv.magica.club:8080/live/UUcYuZZhGT/QSyki0bzaT/13993.m3u8
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24941.m3u8
+#EXTINF:-1,TIJI FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13868.m3u8
+#EXTINF:-1,TIJI HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24949.m3u8
+#EXTINF:-1,BOOMERANG FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13858.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24954.m3u8
+#EXTINF:-1,BOING FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13859.m3u8
+#EXTINF:-1,BOING HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24945.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13761.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24933.m3u8
+#EXTINF:-1,GAME ONE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13856.m3u8
+#EXTINF:-1,GAMEONE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24952.m3u8
+#EXTINF:-1,GAMEONE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1034.m3u8
+#EXTINF:-1,GAME ONE +1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13857.m3u8
+#EXTINF:-1,J ONE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13852.m3u8
+#EXTINF:-1,J ONE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24938.m3u8
+#EXTINF:-1,GULLI FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13864.m3u8
+#EXTINF:-1,GULLI SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1020.m3u8
+#EXTINF:-1,GONG
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24936.m3u8
+#EXTINF:-1,MANGAS FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13865.m3u8
+#EXTINF:-1,MANGAS HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24932.m3u8
+#EXTINF:-1,CINE KIDS HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24959.m3u8
+#EXTINF:-1,DISNEY ORANGE 1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24939.m3u8
+#EXTINF:-1,DISNEY ORANGE 2
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24950.m3u8
+#EXTINF:-1,DISNEY ORANGE 3
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24951.m3u8
+#EXTINF:-1,***** DOCUMENTAIRE ***** |FR|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24961.m3u8
+#EXTINF:-1,PEPPA PIG
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/6700.m3u8
+#EXTINF:-1,DISNEYS CARTOON CLASSIC
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/6713.m3u8
+#EXTINF:-1,MILA MILA
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/6736.m3u8
+#EXTINF:-1,TOM AND JERRY
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/6757.m3u8
+#EXTINF:-1,MASHA ET MICHKA
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/7185.m3u8
+#EXTINF:-1,LAPIN CRETIN
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/7258.m3u8
+#EXTINF:-1,PLANETE+ FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13712.m3u8
+#EXTINF:-1,PLANETE  HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13991.m3u8
+#EXTINF:-1,PLANETE+ CI FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13710.m3u8
+#EXTINF:-1,PLANETE  CI HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13992.m3u8
+#EXTINF:-1,PLANETE+ AE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13711.m3u8
+#EXTINF:-1,PLANETE A&E HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13971.m3u8
+#EXTINF:-1,DISCOVERY FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13748.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14017.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13747.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14016.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13836.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13828.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13811.m3u8
+#EXTINF:-1,DISCOVERY FAMLIY HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25047.m3u8
+#EXTINF:-1,NATIONAL GEO WILD FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13719.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13999.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14000.m3u8
+#EXTINF:-1,SCIENCES & VIE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13704.m3u8
+#EXTINF:-1,ANIMAUX FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13789.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14044.m3u8
+#EXTINF:-1,USHUAIA TV FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13692.m3u8
+#EXTINF:-1,USHUAIA HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13974.m3u8
+#EXTINF:-1,USHUAIA SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1055.m3u8
+#EXTINF:-1,ULTRA NATURE UHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25049.m3u8
+#EXTINF:-1,RMC HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13990.m3u8
+#EXTINF:-1,RMC STORY SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1026.m3u8
+#EXTINF:-1,VOYAGE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13691.m3u8
+#EXTINF:-1,VOYAGE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13972.m3u8
+#EXTINF:-1,TREK FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13694.m3u8
+#EXTINF:-1,TREK HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13976.m3u8
+#EXTINF:-1,CHASSE&PECHE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13837.m3u8
+#EXTINF:-1,CHASSE & PECHE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14029.m3u8
+#EXTINF:-1,SEASON FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13703.m3u8
+#EXTINF:-1,SEASON HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13988.m3u8
+#EXTINF:-1,CAMPAGNE TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13942.m3u8
+#EXTINF:-1,CRIME DISTRICT FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13750.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14018.m3u8
+#EXTINF:-1,MUSEUM CHANNEL FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13714.m3u8
+#EXTINF:-1,HISTOIRE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13731.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14007.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13832.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25050.m3u8
+#EXTINF:-1,HISTOIRE SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1056.m3u8
+#EXTINF:-1,|FR|***FRANCE INFO***|FR|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24963.m3u8
+#EXTINF:-1,LA CHAINE METEO FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13783.m3u8
+#EXTINF:-1,EURONEWS
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13938.m3u8
+#EXTINF:-1,FRANCE 24
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/162.m3u8
+#EXTINF:-1,BFMTV HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14039.m3u8
+#EXTINF:-1,BFM BUISINESS
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1045.m3u8
+#EXTINF:-1,BFM TV SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/424.m3u8
+#EXTINF:-1,LCI FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13727.m3u8
+#EXTINF:-1,LCI sd
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1042.m3u8
+#EXTINF:-1,LCP FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13809.m3u8
+#EXTINF:-1,LCP
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1016.m3u8
+#EXTINF:-1,LCP100%
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1046.m3u8
+#EXTINF:-1,CNEWS HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14020.m3u8
+#EXTINF:-1,CNEWS SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1017.m3u8
+#EXTINF:-1,FRANCE INFO HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13935.m3u8
+#EXTINF:-1,FRANCE INFO SD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1917.m3u8
+#EXTINF:-1,TV5 MONDE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25051.m3u8
+#EXTINF:-1,TV5 MONDE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25052.m3u8
+#EXTINF:-1,I24 NEWS FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13730.m3u8
+#EXTINF:-1,i24 NEWS
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1050.m3u8
+#EXTINF:-1,|FR|***MUSSIC***|FR|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24964.m3u8
+#EXTINF:-1,M6 MUSIC FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13826.m3u8
+#EXTINF:-1,TRACE URBAN FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13844.m3u8
+#EXTINF:-1,TRACE URBAN HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13978.m3u8
+#EXTINF:-1,TRACE URBAIN
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1099.m3u8
+#EXTINF:-1,TRACE URBAN INTER
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/9127.m3u8
+#EXTINF:-1,TRACE URBAN TROPICAL
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/9128.m3u8
+#EXTINF:-1,TRACE TROPICAL FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13771.m3u8
+#EXTINF:-1,TRACE AFRICA FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13720.m3u8
+#EXTINF:-1,TRACE GOSPEL
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25054.m3u8
+#EXTINF:-1,TRACE MZIKI
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25057.m3u8
+#EXTINF:-1,TRACE NAIJA
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25055.m3u8
+#EXTINF:-1,TRACE PRIME
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25053.m3u8
+#EXTINF:-1,TRACE TOCA
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25056.m3u8
+#EXTINF:-1,BBLACK CARIBBEAN
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/8050.m3u8
+#EXTINF:-1,BBLACK CLASSIK
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/8052.m3u8
+#EXTINF:-1,INDIES LIVE MUSIC
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25058.m3u8
+#EXTINF:-1,MTV MUSIC FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13721.m3u8
+#EXTINF:-1,MTV MUSIC
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13930.m3u8
+#EXTINF:-1,MTV DANCE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13931.m3u8
+#EXTINF:-1,MTV BASE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13932.m3u8
+#EXTINF:-1,MTV HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14009.m3u8
+#EXTINF:-1,MCM FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13725.m3u8
+#EXTINF:-1,MCM HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14002.m3u8
+#EXTINF:-1,MCM
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1037.m3u8
+#EXTINF:-1,MCM TOP FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13724.m3u8
+#EXTINF:-1,RFM TV FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13709.m3u8
+#EXTINF:-1,RFM HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24960.m3u8
+#EXTINF:-1,NRJ12 HITS
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13927.m3u8
+#EXTINF:-1,MEZZO HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14001.m3u8
+#EXTINF:-1,MEZZO LIVE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13723.m3u8
+#EXTINF:-1,VH1 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13840.m3u8
+#EXTINF:-1,VH1 CLASSIC FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13815.m3u8
+#EXTINF:-1,MELODY TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13808.m3u8
+#EXTINF:-1,BRAVA HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14038.m3u8
+#EXTINF:-1,DJAZZ TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/13939.m3u8
+#EXTINF:-1,TELESUD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1101.m3u8
+#EXTINF:-1,|BE|*******BELGIQUE*******|BE|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24965.m3u8
+#EXTINF:-1,|BE| LA UNE HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14150.m3u8
+#EXTINF:-1,|BE| LA DEUX
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14149.m3u8
+#EXTINF:-1,|BE| LA TROIS
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14148.m3u8
+#EXTINF:-1,|BE| CLUB RTL
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14144.m3u8
+#EXTINF:-1,|BE| PLUG RTL
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14147.m3u8
+#EXTINF:-1,|BE| RTL TVi FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14145.m3u8
+#EXTINF:-1,|BE| RTL TVi HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14146.m3u8
+#EXTINF:-1,|BE| AB1 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14143.m3u8
+#EXTINF:-1,|BE| AB3 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14115.m3u8
+#EXTINF:-1,|BE| AB3 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14142.m3u8
+#EXTINF:-1,|BE| CINEMA 1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14141.m3u8
+#EXTINF:-1,|BE| 2BE FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25060.m3u8
+#EXTINF:-1,|BE| ZES
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14140.m3u8
+#EXTINF:-1,|BE| TELE BRUXELLES
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25117.m3u8
+#EXTINF:-1,|BE|*******SPORTS*******|BE|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24966.m3u8
+#EXTINF:-1,|BE| VOO SPORT 1 FHD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14137.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 1
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14136.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 2
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14128.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 3
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14135.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14134.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14133.m3u8
+#EXTINF:-1,|BE|*******VLAANDEREN*******|BE|
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24967.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 3 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/33590.m3u8
+#EXTINF:-1,|BE| EEN HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14122.m3u8
+#EXTINF:-1,|BE| VIER HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14111.m3u8
+#EXTINF:-1,|BE| VIJF
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14112.m3u8
+#EXTINF:-1,|BE|  VITAYA  HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14109.m3u8
+#EXTINF:-1,|BE| CANVAS HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14110.m3u8
+#EXTINF:-1,|BE| 192 TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14124.m3u8
+#EXTINF:-1,|BE| KETNET
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14119.m3u8
+#EXTINF:-1,|BE| TVO
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14117.m3u8
+#EXTINF:-1,|BE| VTM HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14126.m3u8
+#EXTINF:-1,|BE| VTM KAZOOM HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14125.m3u8
+#EXTINF:-1,|BE| Q2 HD
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14127.m3u8
+#EXTINF:-1,|BE| KET OP2
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14120.m3u8
+#EXTINF:-1,|BE| ACHT TV
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14113.m3u8
+#EXTINF:-1,|BE| KADET
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14121.m3u8
+#EXTINF:-1,|BE| ATV ANTWERPEN
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14123.m3u8
+#EXTINF:-1,|BE| NO TELE
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25119.m3u8
+#EXTINF:-1,|BE| CANAL ZOOM
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25120.m3u8
+#EXTINF:-1,|BE| CANAL C
+http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/25118.m3u8
