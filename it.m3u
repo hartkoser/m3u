@@ -1,663 +1,433 @@
 #EXTM3U
-#EXTINF:-1,Animal Planet
-http://primestreams.tv:826/live/peterd/peterd/86491.m3u8
-#EXTINF:-1,Canal 5 HD
-http://primestreams.tv:826/live/peterd/peterd/86490.m3u8
-#EXTINF:-1,Canale5 HD
-http://primestreams.tv:826/live/peterd/peterd/86489.m3u8
-#EXTINF:-1,Cartoonito
-http://primestreams.tv:826/live/peterd/peterd/86488.m3u8
-#EXTINF:-1,Cielo
-http://primestreams.tv:826/live/peterd/peterd/86487.m3u8
-#EXTINF:-1,Discovery HD
-http://primestreams.tv:826/live/peterd/peterd/86486.m3u8
-#EXTINF:-1,Discovery Science HD
-http://primestreams.tv:826/live/peterd/peterd/86485.m3u8
-#EXTINF:-1,Discovery Travel&Living HD
-http://primestreams.tv:826/live/peterd/peterd/86484.m3u8
-#EXTINF:-1,Dmax HD
-http://primestreams.tv:826/live/peterd/peterd/86483.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://primestreams.tv:826/live/peterd/peterd/86482.m3u8
-#EXTINF:-1,Fox Crime HD
-http://primestreams.tv:826/live/peterd/peterd/86481.m3u8
-#EXTINF:-1,FOX HD
-http://primestreams.tv:826/live/peterd/peterd/86480.m3u8
-#EXTINF:-1,Fox Life HD
-http://primestreams.tv:826/live/peterd/peterd/86479.m3u8
-#EXTINF:-1,FOX Sport HD
-http://primestreams.tv:826/live/peterd/peterd/86478.m3u8
-#EXTINF:-1,Inter Channel
-http://primestreams.tv:826/live/peterd/peterd/86477.m3u8
-#EXTINF:-1,Italia 2
-http://primestreams.tv:826/live/peterd/peterd/86476.m3u8
-#EXTINF:-1,italia1 HD
-http://primestreams.tv:826/live/peterd/peterd/86475.m3u8
-#EXTINF:-1,Juventus TV
-http://primestreams.tv:826/live/peterd/peterd/86474.m3u8
-#EXTINF:-1,La7
-http://primestreams.tv:826/live/peterd/peterd/86473.m3u8
-#EXTINF:-1,Mediaset Extra
-http://primestreams.tv:826/live/peterd/peterd/86472.m3u8
-#EXTINF:-1,Mediaset Iris
-http://primestreams.tv:826/live/peterd/peterd/86471.m3u8
-#EXTINF:-1,Milan Channel
-http://primestreams.tv:826/live/peterd/peterd/86470.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://primestreams.tv:826/live/peterd/peterd/86469.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://primestreams.tv:826/live/peterd/peterd/86468.m3u8
-#EXTINF:-1,Pesca e Caccia
-http://primestreams.tv:826/live/peterd/peterd/86467.m3u8
-#EXTINF:-1,Premium Action
-http://primestreams.tv:826/live/peterd/peterd/86466.m3u8
-#EXTINF:-1,Premium Calcio
-http://primestreams.tv:826/live/peterd/peterd/86465.m3u8
-#EXTINF:-1,Premium Calcio 3*
-http://primestreams.tv:826/live/peterd/peterd/86464.m3u8
-#EXTINF:-1,Premium Cinema 2
-http://primestreams.tv:826/live/peterd/peterd/86463.m3u8
-#EXTINF:-1,Premium Cinema Energy
-http://primestreams.tv:826/live/peterd/peterd/86462.m3u8
-#EXTINF:-1,Premium Comedy
-http://primestreams.tv:826/live/peterd/peterd/86461.m3u8
-#EXTINF:-1,Premium Crime
-http://primestreams.tv:826/live/peterd/peterd/86460.m3u8
-#EXTINF:-1,Premium Disney Junior
-http://primestreams.tv:826/live/peterd/peterd/86459.m3u8
-#EXTINF:-1,Premium Emotion
-http://primestreams.tv:826/live/peterd/peterd/86458.m3u8
-#EXTINF:-1,Premium Sport 2
-http://primestreams.tv:826/live/peterd/peterd/86457.m3u8
-#EXTINF:-1,Premium Sport HD
-http://primestreams.tv:826/live/peterd/peterd/86456.m3u8
-#EXTINF:-1,Premium Studio Universal
-http://primestreams.tv:826/live/peterd/peterd/86455.m3u8
-#EXTINF:-1,Rai Gulp
-http://primestreams.tv:826/live/peterd/peterd/86454.m3u8
-#EXTINF:-1,Rai Movie
-http://primestreams.tv:826/live/peterd/peterd/86453.m3u8
-#EXTINF:-1,Rai Premium
-http://primestreams.tv:826/live/peterd/peterd/86452.m3u8
-#EXTINF:-1,Rai Sport1
-http://primestreams.tv:826/live/peterd/peterd/86451.m3u8
-#EXTINF:-1,Rai Sport2
-http://primestreams.tv:826/live/peterd/peterd/86450.m3u8
+#EXTINF:-1,Rai 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9798.m3u8
+#EXTINF:-1,Rai 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9797.m3u8
+#EXTINF:-1,Rai 3 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9796.m3u8
+#EXTINF:-1,Rai 4 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9795.m3u8
+#EXTINF:-1,Rai 5 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9794.m3u8
+#EXTINF:-1,Rai Movie HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9793.m3u8
+#EXTINF:-1,Rai Premium HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9792.m3u8
+#EXTINF:-1,Rai Gulp HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9790.m3u8
 #EXTINF:-1,Rai Yoyo
-http://primestreams.tv:826/live/peterd/peterd/86449.m3u8
-#EXTINF:-1,Rai3 HD
-http://primestreams.tv:826/live/peterd/peterd/86448.m3u8
-#EXTINF:-1,Rai5
-http://primestreams.tv:826/live/peterd/peterd/86447.m3u8
-#EXTINF:-1,Rete4 HD
-http://primestreams.tv:826/live/peterd/peterd/86445.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9791.m3u8
+#EXTINF:-1,Rai News 24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9732.m3u8
+#EXTINF:-1,Rai Scuola
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9789.m3u8
+#EXTINF:-1,Rai Sport 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9706.m3u8
+#EXTINF:-1,Rai Storia
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9752.m3u8
+#EXTINF:-1,Real Time HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9750.m3u8
+#EXTINF:-1,Rete 4 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9784.m3u8
+#EXTINF:-1,Rete Sport
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9632.m3u8
 #EXTINF:-1,RSI La1 HD
-http://primestreams.tv:826/live/peterd/peterd/86444.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9788.m3u8
 #EXTINF:-1,RSI La2 HD
-http://primestreams.tv:826/live/peterd/peterd/86443.m3u8
-#EXTINF:-1,Sky Calcio 1
-http://primestreams.tv:826/live/peterd/peterd/86442.m3u8
-#EXTINF:-1,Sky Calcio 2
-http://primestreams.tv:826/live/peterd/peterd/86441.m3u8
-#EXTINF:-1,Sky Calcio 3
-http://primestreams.tv:826/live/peterd/peterd/86440.m3u8
-#EXTINF:-1,Sky Calcio 4
-http://primestreams.tv:826/live/peterd/peterd/86439.m3u8
-#EXTINF:-1,Sky Calcio 5
-http://primestreams.tv:826/live/peterd/peterd/86438.m3u8
-#EXTINF:-1,Sky Calcio 6
-http://primestreams.tv:826/live/peterd/peterd/86437.m3u8
-#EXTINF:-1,Sky Calcio 7
-http://primestreams.tv:826/live/peterd/peterd/86436.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://primestreams.tv:826/live/peterd/peterd/86435.m3u8
-#EXTINF:-1,Sky Cinema Max HD
-http://primestreams.tv:826/live/peterd/peterd/86434.m3u8
-#EXTINF:-1,Sky Cinema Passion HD
-http://primestreams.tv:826/live/peterd/peterd/86433.m3u8
-#EXTINF:-1,Sky Cinema1 HD
-http://primestreams.tv:826/live/peterd/peterd/86432.m3u8
-#EXTINF:-1,SKY CINEMA24 HD
-http://primestreams.tv:826/live/peterd/peterd/86431.m3u8
-#EXTINF:-1,SKY F1 HD
-http://primestreams.tv:826/live/peterd/peterd/86430.m3u8
-#EXTINF:-1,Sky Fox Comedy HD
-http://primestreams.tv:826/live/peterd/peterd/86429.m3u8
-#EXTINF:-1,Sky Moto GP HD
-http://primestreams.tv:826/live/peterd/peterd/86428.m3u8
-#EXTINF:-1,SKY Primafila 3
-http://primestreams.tv:826/live/peterd/peterd/86427.m3u8
-#EXTINF:-1,Sky Primafila 6
-http://primestreams.tv:826/live/peterd/peterd/86426.m3u8
-#EXTINF:-1,Sky Primafila 7
-http://primestreams.tv:826/live/peterd/peterd/86425.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://primestreams.tv:826/live/peterd/peterd/86423.m3u8
-#EXTINF:-1,Sky Sport F1 HD
-http://primestreams.tv:826/live/peterd/peterd/86422.m3u8
-#EXTINF:-1,Sky Sport1 HD
-http://primestreams.tv:826/live/peterd/peterd/86421.m3u8
-#EXTINF:-1,Sky Sport2 HD
-http://primestreams.tv:826/live/peterd/peterd/86420.m3u8
-#EXTINF:-1,Sky Sport3 HD
-http://primestreams.tv:826/live/peterd/peterd/86419.m3u8
-#EXTINF:-1,SKY TG 24
-http://primestreams.tv:826/live/peterd/peterd/86418.m3u8
-#EXTINF:-1,SPORT ITALIA
-http://primestreams.tv:826/live/peterd/peterd/86417.m3u8
-#EXTINF:-1,Supercalcio HD
-http://primestreams.tv:826/live/peterd/peterd/86416.m3u8
-#EXTINF:-1,Teleticino
-http://primestreams.tv:826/live/peterd/peterd/86415.m3u8
-#EXTINF:-1,TOP CRIME
-http://primestreams.tv:826/live/peterd/peterd/86414.m3u8
-#EXTINF:-1,CARTOON  NETWORK
-http://primestreams.tv:826/live/peterd/peterd/86413.m3u8
-#EXTINF:-1,Discovery Focus
-http://primestreams.tv:826/live/peterd/peterd/86412.m3u8
-#EXTINF:-1,Premium Disney Junior
-http://primestreams.tv:826/live/peterd/peterd/86411.m3u8
-#EXTINF:-1,SKY Cinema 3D
-http://primestreams.tv:826/live/peterd/peterd/86410.m3u8
-#EXTINF:-1,SKY Primafila 1
-http://primestreams.tv:826/live/peterd/peterd/86409.m3u8
-#EXTINF:-1,Sky Primafila 10
-http://primestreams.tv:826/live/peterd/peterd/86408.m3u8
-#EXTINF:-1,Sky Primafila 12
-http://primestreams.tv:826/live/peterd/peterd/86407.m3u8
-#EXTINF:-1,Sky Primafila 13
-http://primestreams.tv:826/live/peterd/peterd/86406.m3u8
-#EXTINF:-1,Sky Primafila 14
-http://primestreams.tv:826/live/peterd/peterd/86405.m3u8
-#EXTINF:-1,SKY Primafila 2
-http://primestreams.tv:826/live/peterd/peterd/86404.m3u8
-#EXTINF:-1,Sky Primafila 4
-http://primestreams.tv:826/live/peterd/peterd/86403.m3u8
-#EXTINF:-1,Sky Primafila 5
-http://primestreams.tv:826/live/peterd/peterd/86402.m3u8
-#EXTINF:-1,Super Tennis
-http://primestreams.tv:826/live/peterd/peterd/86400.m3u8
-#EXTINF:-1,RAI 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92460.m3u8
-#EXTINF:-1,RAI 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92459.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://primestreams.tv:826/live/peterd/peterd/92457.m3u8
-#EXTINF:-1,Sky Sport Football HD
-http://primestreams.tv:826/live/peterd/peterd/92418.m3u8
-#EXTINF:-1,SKY Sport MotoGP HD
-http://primestreams.tv:826/live/peterd/peterd/92456.m3u8
-#EXTINF:-1,Sky Sport Seri A  HD
-http://primestreams.tv:826/live/peterd/peterd/92420.m3u8
-#EXTINF:-1,Sky Sports 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92455.m3u8
-#EXTINF:-1,Sky Sports 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92454.m3u8
-#EXTINF:-1,Sky Supercalcio HD
-http://primestreams.tv:826/live/peterd/peterd/92453.m3u8
-#EXTINF:-1,SKY TG24 HD
-http://primestreams.tv:826/live/peterd/peterd/92452.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9787.m3u8
+#EXTINF:-1,Italia 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9786.m3u8
+#EXTINF:-1,Mediaset ITALIA DUE
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9785.m3u8
+#EXTINF:-1,Mediaset EXTRA
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9607.m3u8
+#EXTINF:-1,K2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9736.m3u8
+#EXTINF:-1,LA5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9782.m3u8
+#EXTINF:-1,LA7 D
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9640.m3u8
+#EXTINF:-1,La7 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9781.m3u8
 #EXTINF:-1,Sky Uno HD
-http://primestreams.tv:826/live/peterd/peterd/92451.m3u8
-#EXTINF:-1,Gambero Rosso HD
-http://primestreams.tv:826/live/peterd/peterd/92433.m3u8
-#EXTINF:-1,Italia1 HD
-http://primestreams.tv:826/live/peterd/peterd/92461.m3u8
-#EXTINF:-1,Sky  DISNEY JUNIOR
-http://primestreams.tv:826/live/peterd/peterd/92417.m3u8
-#EXTINF:-1,Sky Sport Arena HD
-http://primestreams.tv:826/live/peterd/peterd/92419.m3u8
-#EXTINF:-1,FOCUS
-http://primestreams.tv:826/live/peterd/peterd/92659.m3u8
-#EXTINF:-1,ALICE
-http://primestreams.tv:826/live/peterd/peterd/92658.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://primestreams.tv:826/live/peterd/peterd/92657.m3u8
-#EXTINF:-1,Automoto Tv
-http://primestreams.tv:826/live/peterd/peterd/92656.m3u8
-#EXTINF:-1,BOING
-http://primestreams.tv:826/live/peterd/peterd/92655.m3u8
-#EXTINF:-1,CANAL 5 HD
-http://primestreams.tv:826/live/peterd/peterd/92654.m3u8
-#EXTINF:-1,CANALE 5 HD
-http://primestreams.tv:826/live/peterd/peterd/92653.m3u8
-#EXTINF:-1,Canale 7 TV Puglia
-http://primestreams.tv:826/live/peterd/peterd/92652.m3u8
-#EXTINF:-1,Canale 8
-http://primestreams.tv:826/live/peterd/peterd/92651.m3u8
-#EXTINF:-1,Carina TV
-http://primestreams.tv:826/live/peterd/peterd/92650.m3u8
-#EXTINF:-1,Cartoonito
-http://primestreams.tv:826/live/peterd/peterd/92649.m3u8
-#EXTINF:-1,CIELO
-http://primestreams.tv:826/live/peterd/peterd/92648.m3u8
-#EXTINF:-1,Cine Sony
-http://primestreams.tv:826/live/peterd/peterd/92647.m3u8
-#EXTINF:-1,DAZN 1
-http://primestreams.tv:826/live/peterd/peterd/92646.m3u8
-#EXTINF:-1,Dea Kids
-http://primestreams.tv:826/live/peterd/peterd/92645.m3u8
-#EXTINF:-1,Deejay TV
-http://primestreams.tv:826/live/peterd/peterd/92644.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://primestreams.tv:826/live/peterd/peterd/92643.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://primestreams.tv:826/live/peterd/peterd/92642.m3u8
-#EXTINF:-1,DISCOVERY WORLD
-http://primestreams.tv:826/live/peterd/peterd/92641.m3u8
-#EXTINF:-1,Disney Channel
-http://primestreams.tv:826/live/peterd/peterd/92640.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://primestreams.tv:826/live/peterd/peterd/92639.m3u8
-#EXTINF:-1,Disney XD
-http://primestreams.tv:826/live/peterd/peterd/92638.m3u8
-#EXTINF:-1,DMAX
-http://primestreams.tv:826/live/peterd/peterd/92637.m3u8
-#EXTINF:-1,EuroNews
-http://primestreams.tv:826/live/peterd/peterd/92636.m3u8
-#EXTINF:-1,Eurosport 1
-http://primestreams.tv:826/live/peterd/peterd/92635.m3u8
-#EXTINF:-1,Eurosport 2
-http://primestreams.tv:826/live/peterd/peterd/92634.m3u8
-#EXTINF:-1,FOOD NETWORK.
-http://primestreams.tv:826/live/peterd/peterd/92633.m3u8
-#EXTINF:-1,FOX ANIMATION
-http://primestreams.tv:826/live/peterd/peterd/92632.m3u8
-#EXTINF:-1,FOX COMEDY
-http://primestreams.tv:826/live/peterd/peterd/92631.m3u8
-#EXTINF:-1,FOX CRIME
-http://primestreams.tv:826/live/peterd/peterd/92630.m3u8
-#EXTINF:-1,FOX HD
-http://primestreams.tv:826/live/peterd/peterd/92629.m3u8
-#EXTINF:-1,FOX LIFE
-http://primestreams.tv:826/live/peterd/peterd/92628.m3u8
-#EXTINF:-1,FRISBEE
-http://primestreams.tv:826/live/peterd/peterd/92627.m3u8
-#EXTINF:-1,GIALLO
-http://primestreams.tv:826/live/peterd/peterd/92626.m3u8
-#EXTINF:-1,INTER CHANNEL
-http://primestreams.tv:826/live/peterd/peterd/92625.m3u8
-#EXTINF:-1,IRIS HD
-http://primestreams.tv:826/live/peterd/peterd/92624.m3u8
-#EXTINF:-1,IRIS TV
-http://primestreams.tv:826/live/peterd/peterd/92623.m3u8
-#EXTINF:-1,ITALIA 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92622.m3u8
-#EXTINF:-1,ITALIA 2
-http://primestreams.tv:826/live/peterd/peterd/92621.m3u8
-#EXTINF:-1,Italia 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92620.m3u8
-#EXTINF:-1,K2  Cartoons
-http://primestreams.tv:826/live/peterd/peterd/92619.m3u8
-#EXTINF:-1,L7
-http://primestreams.tv:826/live/peterd/peterd/92618.m3u8
-#EXTINF:-1,LA 5
-http://primestreams.tv:826/live/peterd/peterd/92617.m3u8
-#EXTINF:-1,LA 5 HD
-http://primestreams.tv:826/live/peterd/peterd/92616.m3u8
-#EXTINF:-1,Laeffe
-http://primestreams.tv:826/live/peterd/peterd/92615.m3u8
-#EXTINF:-1,m20 TV
-http://primestreams.tv:826/live/peterd/peterd/92614.m3u8
-#EXTINF:-1,Marcopolo
-http://primestreams.tv:826/live/peterd/peterd/92613.m3u8
-#EXTINF:-1,MEDIASET 20 HD
-http://primestreams.tv:826/live/peterd/peterd/92612.m3u8
-#EXTINF:-1,MEDIASET EXTRA HD
-http://primestreams.tv:826/live/peterd/peterd/92611.m3u8
-#EXTINF:-1,MILAN CHANNEL
-http://primestreams.tv:826/live/peterd/peterd/92610.m3u8
-#EXTINF:-1,MTV
-http://primestreams.tv:826/live/peterd/peterd/92609.m3u8
-#EXTINF:-1,NOVE
-http://primestreams.tv:826/live/peterd/peterd/92608.m3u8
-#EXTINF:-1,NOVE HD
-http://primestreams.tv:826/live/peterd/peterd/92607.m3u8
-#EXTINF:-1,Paramount Channel
-http://primestreams.tv:826/live/peterd/peterd/92606.m3u8
-#EXTINF:-1,PREMIUM  ACTION HD
-http://primestreams.tv:826/live/peterd/peterd/92605.m3u8
-#EXTINF:-1,PREMIUM  CINEMA   24
-http://primestreams.tv:826/live/peterd/peterd/92604.m3u8
-#EXTINF:-1,PREMIUM  CINEMA  ENERGY
-http://primestreams.tv:826/live/peterd/peterd/92603.m3u8
-#EXTINF:-1,PREMIUM  CINEMA  HD
-http://primestreams.tv:826/live/peterd/peterd/92602.m3u8
-#EXTINF:-1,Premium  Comedy
-http://primestreams.tv:826/live/peterd/peterd/92601.m3u8
-#EXTINF:-1,Premium  Emotion
-http://primestreams.tv:826/live/peterd/peterd/92600.m3u8
-#EXTINF:-1,PREMIUM  JOY
-http://primestreams.tv:826/live/peterd/peterd/92599.m3u8
-#EXTINF:-1,Premium Action
-http://primestreams.tv:826/live/peterd/peterd/92598.m3u8
-#EXTINF:-1,PREMIUM CALCIO
-http://primestreams.tv:826/live/peterd/peterd/92597.m3u8
-#EXTINF:-1,Premium Cinema
-http://primestreams.tv:826/live/peterd/peterd/92596.m3u8
-#EXTINF:-1,Premium Cinema 24
-http://primestreams.tv:826/live/peterd/peterd/92595.m3u8
-#EXTINF:-1,PREMIUM CINEMA EMOTION HD
-http://primestreams.tv:826/live/peterd/peterd/92594.m3u8
-#EXTINF:-1,Premium Crime
-http://primestreams.tv:826/live/peterd/peterd/92593.m3u8
-#EXTINF:-1,PREMIUM CRIME HD
-http://primestreams.tv:826/live/peterd/peterd/92592.m3u8
-#EXTINF:-1,Premium Energy
-http://primestreams.tv:826/live/peterd/peterd/92591.m3u8
-#EXTINF:-1,Premium Joi
-http://primestreams.tv:826/live/peterd/peterd/92590.m3u8
-#EXTINF:-1,PREMIUM SPORT
-http://primestreams.tv:826/live/peterd/peterd/92589.m3u8
-#EXTINF:-1,Premium Stories
-http://primestreams.tv:826/live/peterd/peterd/92588.m3u8
-#EXTINF:-1,Prima Fila 1/2 HD
-http://primestreams.tv:826/live/peterd/peterd/92587.m3u8
-#EXTINF:-1,Prima Fila 11/12 HD
-http://primestreams.tv:826/live/peterd/peterd/92586.m3u8
-#EXTINF:-1,Prima Fila 13/14 HD
-http://primestreams.tv:826/live/peterd/peterd/92585.m3u8
-#EXTINF:-1,Prima Fila 15/16 HD
-http://primestreams.tv:826/live/peterd/peterd/92584.m3u8
-#EXTINF:-1,Prima Fila 17/18 HD
-http://primestreams.tv:826/live/peterd/peterd/92583.m3u8
-#EXTINF:-1,Prima Fila 19/20 HD
-http://primestreams.tv:826/live/peterd/peterd/92582.m3u8
-#EXTINF:-1,Prima Fila 3/4 HD
-http://primestreams.tv:826/live/peterd/peterd/92581.m3u8
-#EXTINF:-1,Prima Fila 5/6 HD
-http://primestreams.tv:826/live/peterd/peterd/92580.m3u8
-#EXTINF:-1,Prima Fila 7/8 HD
-http://primestreams.tv:826/live/peterd/peterd/92579.m3u8
-#EXTINF:-1,Prima Fila 9/10 HD
-http://primestreams.tv:826/live/peterd/peterd/92578.m3u8
-#EXTINF:-1,PRIMAFILA 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92577.m3u8
-#EXTINF:-1,PRIMAFILA 10 HD
-http://primestreams.tv:826/live/peterd/peterd/92576.m3u8
-#EXTINF:-1,PRIMAFILA 11/12 Live (Atomica Bionda)
-http://primestreams.tv:826/live/peterd/peterd/92575.m3u8
-#EXTINF:-1,PRIMAFILA 13/14 Live
-http://primestreams.tv:826/live/peterd/peterd/92574.m3u8
-#EXTINF:-1,PRIMAFILA 15 Live (Parigi pu
-http://primestreams.tv:826/live/peterd/peterd/92573.m3u8
-#EXTINF:-1,PRIMAFILA 18/19 Live (Noi siamo tutto)
-http://primestreams.tv:826/live/peterd/peterd/92572.m3u8
-#EXTINF:-1,PRIMAFILA 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92571.m3u8
-#EXTINF:-1,PRIMAFILA 3/4 HD
-http://primestreams.tv:826/live/peterd/peterd/92570.m3u8
-#EXTINF:-1,PRIMAFILA 5 HD
-http://primestreams.tv:826/live/peterd/peterd/92569.m3u8
-#EXTINF:-1,PRIMAFILA 5/6
-http://primestreams.tv:826/live/peterd/peterd/92568.m3u8
-#EXTINF:-1,PRIMAFILA 6 HD
-http://primestreams.tv:826/live/peterd/peterd/92567.m3u8
-#EXTINF:-1,PRIMAFILA 7 HD
-http://primestreams.tv:826/live/peterd/peterd/92566.m3u8
-#EXTINF:-1,PRIMAFILA 7/8
-http://primestreams.tv:826/live/peterd/peterd/92565.m3u8
-#EXTINF:-1,PRIMAFILA 8 HD
-http://primestreams.tv:826/live/peterd/peterd/92564.m3u8
-#EXTINF:-1,PRIMAFILA 9 HD
-http://primestreams.tv:826/live/peterd/peterd/92563.m3u8
-#EXTINF:-1,PRIMAFILA 9/10 Live (Black Butterfly)
-http://primestreams.tv:826/live/peterd/peterd/92562.m3u8
-#EXTINF:-1,PRIMAFILA PRO Live 3D (Animali fantastici e dove trovarli 3D)
-http://primestreams.tv:826/live/peterd/peterd/92561.m3u8
-#EXTINF:-1,PRIMAFILA PRO Live 3D (Oceania)
-http://primestreams.tv:826/live/peterd/peterd/92560.m3u8
-#EXTINF:-1,RAI 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92559.m3u8
-#EXTINF:-1,RAI 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92558.m3u8
-#EXTINF:-1,RAI 3 HD
-http://primestreams.tv:826/live/peterd/peterd/92557.m3u8
-#EXTINF:-1,RAI 4 HD
-http://primestreams.tv:826/live/peterd/peterd/92556.m3u8
-#EXTINF:-1,RAI 5 HD
-http://primestreams.tv:826/live/peterd/peterd/92555.m3u8
-#EXTINF:-1,Rai Gulp
-http://primestreams.tv:826/live/peterd/peterd/92554.m3u8
-#EXTINF:-1,Rai Movie
-http://primestreams.tv:826/live/peterd/peterd/92553.m3u8
-#EXTINF:-1,RAI MOVIE HD
-http://primestreams.tv:826/live/peterd/peterd/92552.m3u8
-#EXTINF:-1,RAI NEWS
-http://primestreams.tv:826/live/peterd/peterd/92551.m3u8
-#EXTINF:-1,RAI NEWS 24
-http://primestreams.tv:826/live/peterd/peterd/92550.m3u8
-#EXTINF:-1,Rai Premium
-http://primestreams.tv:826/live/peterd/peterd/92549.m3u8
-#EXTINF:-1,RAI SPORT
-http://primestreams.tv:826/live/peterd/peterd/92548.m3u8
-#EXTINF:-1,RAI SPORT 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92547.m3u8
-#EXTINF:-1,RAI SPORT 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92546.m3u8
-#EXTINF:-1,RAI YOYO
-http://primestreams.tv:826/live/peterd/peterd/92545.m3u8
-#EXTINF:-1,REAL TIME HD
-http://primestreams.tv:826/live/peterd/peterd/92544.m3u8
-#EXTINF:-1,RETE 4
-http://primestreams.tv:826/live/peterd/peterd/92543.m3u8
-#EXTINF:-1,RETE 4 HD
-http://primestreams.tv:826/live/peterd/peterd/92542.m3u8
-#EXTINF:-1,ROMA CHANNEL
-http://primestreams.tv:826/live/peterd/peterd/92541.m3u8
-#EXTINF:-1,RSI LA 1
-http://primestreams.tv:826/live/peterd/peterd/92540.m3u8
-#EXTINF:-1,RSI LA 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92539.m3u8
-#EXTINF:-1,RSI LA 2
-http://primestreams.tv:826/live/peterd/peterd/92538.m3u8
-#EXTINF:-1,RSI LA 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92537.m3u8
-#EXTINF:-1,RTL 102.5 TV
-http://primestreams.tv:826/live/peterd/peterd/92536.m3u8
-#EXTINF:-1,SKY ANIMAL PLANET
-http://primestreams.tv:826/live/peterd/peterd/92535.m3u8
-#EXTINF:-1,Sky Arte
-http://primestreams.tv:826/live/peterd/peterd/92534.m3u8
-#EXTINF:-1,SKY ATLANTIC
-http://primestreams.tv:826/live/peterd/peterd/92533.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://primestreams.tv:826/live/peterd/peterd/92532.m3u8
-#EXTINF:-1,Sky Calcio 1
-http://primestreams.tv:826/live/peterd/peterd/92531.m3u8
-#EXTINF:-1,SKY CALCIO 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92530.m3u8
-#EXTINF:-1,Sky Calcio 2
-http://primestreams.tv:826/live/peterd/peterd/92529.m3u8
-#EXTINF:-1,SKY CALCIO 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92528.m3u8
-#EXTINF:-1,Sky Calcio 3
-http://primestreams.tv:826/live/peterd/peterd/92527.m3u8
-#EXTINF:-1,SKY CALCIO 3 HD
-http://primestreams.tv:826/live/peterd/peterd/92526.m3u8
-#EXTINF:-1,Sky Calcio 4
-http://primestreams.tv:826/live/peterd/peterd/92525.m3u8
-#EXTINF:-1,SKY CALCIO 4 HD
-http://primestreams.tv:826/live/peterd/peterd/92524.m3u8
-#EXTINF:-1,SKY CINEMA  1
-http://primestreams.tv:826/live/peterd/peterd/92523.m3u8
-#EXTINF:-1,SKY CINEMA  24
-http://primestreams.tv:826/live/peterd/peterd/92522.m3u8
-#EXTINF:-1,SKY CINEMA 1
-http://primestreams.tv:826/live/peterd/peterd/92521.m3u8
-#EXTINF:-1,SKY CINEMA 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92520.m3u8
-#EXTINF:-1,SKY CINEMA CLASSIC
-http://primestreams.tv:826/live/peterd/peterd/92519.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY
-http://primestreams.tv:826/live/peterd/peterd/92518.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://primestreams.tv:826/live/peterd/peterd/92517.m3u8
-#EXTINF:-1,SKY CINEMA CULT
-http://primestreams.tv:826/live/peterd/peterd/92516.m3u8
-#EXTINF:-1,SKY CINEMA CULT HD
-http://primestreams.tv:826/live/peterd/peterd/92515.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY
-http://primestreams.tv:826/live/peterd/peterd/92514.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY  1 HD
-http://primestreams.tv:826/live/peterd/peterd/92513.m3u8
-#EXTINF:-1,SKY CINEMA HITS
-http://primestreams.tv:826/live/peterd/peterd/92512.m3u8
-#EXTINF:-1,SKY CINEMA MAX
-http://primestreams.tv:826/live/peterd/peterd/92511.m3u8
-#EXTINF:-1,SKY CINEMA MAX HD
-http://primestreams.tv:826/live/peterd/peterd/92510.m3u8
-#EXTINF:-1,SKY CINEMA PASSION
-http://primestreams.tv:826/live/peterd/peterd/92509.m3u8
-#EXTINF:-1,SKY DISCOVERY SCIENCE
-http://primestreams.tv:826/live/peterd/peterd/92508.m3u8
-#EXTINF:-1,SKY DISCOVERY TRAVEL LIVING
-http://primestreams.tv:826/live/peterd/peterd/92507.m3u8
-#EXTINF:-1,SKY DISCOVERY.
-http://primestreams.tv:826/live/peterd/peterd/92506.m3u8
-#EXTINF:-1,Sky Fox Comedy HD
-http://primestreams.tv:826/live/peterd/peterd/92505.m3u8
-#EXTINF:-1,SKY HISTORY
-http://primestreams.tv:826/live/peterd/peterd/92504.m3u8
-#EXTINF:-1,SKY ITALIA SPORT 24 HD
-http://primestreams.tv:826/live/peterd/peterd/92503.m3u8
-#EXTINF:-1,SKY MOTOGP
-http://primestreams.tv:826/live/peterd/peterd/92502.m3u8
-#EXTINF:-1,SKY NATGEO PEOPLE
-http://primestreams.tv:826/live/peterd/peterd/92501.m3u8
-#EXTINF:-1,SKY NATIONAL GEO
-http://primestreams.tv:826/live/peterd/peterd/92500.m3u8
-#EXTINF:-1,SKY PESCA E CACCIA
-http://primestreams.tv:826/live/peterd/peterd/92499.m3u8
-#EXTINF:-1,SKY SPORT  F1
-http://primestreams.tv:826/live/peterd/peterd/92498.m3u8
-#EXTINF:-1,SKY SPORT  FOOTBALL
-http://primestreams.tv:826/live/peterd/peterd/92497.m3u8
-#EXTINF:-1,SKY SPORT  GOLF*
-http://primestreams.tv:826/live/peterd/peterd/92496.m3u8
-#EXTINF:-1,SKY SPORT  NBA*
-http://primestreams.tv:826/live/peterd/peterd/92495.m3u8
-#EXTINF:-1,SKY SPORT 24
-http://primestreams.tv:826/live/peterd/peterd/92494.m3u8
-#EXTINF:-1,SKY SPORT 3 ARENA
-http://primestreams.tv:826/live/peterd/peterd/92493.m3u8
-#EXTINF:-1,SKY SPORT ARENA HD
-http://primestreams.tv:826/live/peterd/peterd/92492.m3u8
-#EXTINF:-1,SKY SPORT MOTOGP
-http://primestreams.tv:826/live/peterd/peterd/92491.m3u8
-#EXTINF:-1,SKY SPORT Seria A
-http://primestreams.tv:826/live/peterd/peterd/92490.m3u8
-#EXTINF:-1,SKY SPORT Seria A  sd
-http://primestreams.tv:826/live/peterd/peterd/92489.m3u8
-#EXTINF:-1,SKY SPORT UNO
-http://primestreams.tv:826/live/peterd/peterd/92488.m3u8
-#EXTINF:-1,SKY SPORT UNO HD
-http://primestreams.tv:826/live/peterd/peterd/92487.m3u8
-#EXTINF:-1,SKY SUPER CALCIO HD
-http://primestreams.tv:826/live/peterd/peterd/92486.m3u8
-#EXTINF:-1,SKY UNO
-http://primestreams.tv:826/live/peterd/peterd/92485.m3u8
-#EXTINF:-1,SKYTG 24
-http://primestreams.tv:826/live/peterd/peterd/92484.m3u8
-#EXTINF:-1,Spike
-http://primestreams.tv:826/live/peterd/peterd/92483.m3u8
-#EXTINF:-1,SPOR TITALIA
-http://primestreams.tv:826/live/peterd/peterd/92482.m3u8
-#EXTINF:-1,Sportitalia
-http://primestreams.tv:826/live/peterd/peterd/92481.m3u8
-#EXTINF:-1,Studio Universal
-http://primestreams.tv:826/live/peterd/peterd/92480.m3u8
-#EXTINF:-1,Super Tennis
-http://primestreams.tv:826/live/peterd/peterd/92479.m3u8
-#EXTINF:-1,TeleBari
-http://primestreams.tv:826/live/peterd/peterd/92478.m3u8
-#EXTINF:-1,TG NORBA 24
-http://primestreams.tv:826/live/peterd/peterd/92477.m3u8
-#EXTINF:-1,TGCOM24
-http://primestreams.tv:826/live/peterd/peterd/92476.m3u8
-#EXTINF:-1,Top Crime
-http://primestreams.tv:826/live/peterd/peterd/92475.m3u8
-#EXTINF:-1,TV 8
-http://primestreams.tv:826/live/peterd/peterd/92474.m3u8
-#EXTINF:-1,TV8
-http://primestreams.tv:826/live/peterd/peterd/92473.m3u8
-#EXTINF:-1,TVA Vicenza
-http://primestreams.tv:826/live/peterd/peterd/92472.m3u8
-#EXTINF:-1,VH1
-http://primestreams.tv:826/live/peterd/peterd/92471.m3u8
-#EXTINF:-1,IT| Eurosport 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92432.m3u8
-#EXTINF:-1,Eurosport 2
-http://primestreams.tv:826/live/peterd/peterd/92431.m3u8
-#EXTINF:-1,Inter Channel
-http://primestreams.tv:826/live/peterd/peterd/92430.m3u8
-#EXTINF:-1,Juventus Channel
-http://primestreams.tv:826/live/peterd/peterd/92429.m3u8
-#EXTINF:-1,Rai Sport 2
-http://primestreams.tv:826/live/peterd/peterd/92428.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92426.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92425.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://primestreams.tv:826/live/peterd/peterd/92424.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://primestreams.tv:826/live/peterd/peterd/92423.m3u8
-#EXTINF:-1,SKY Sport F1 HD
-http://primestreams.tv:826/live/peterd/peterd/92422.m3u8
-#EXTINF:-1,Sky sport seria A 3 hd
-http://primestreams.tv:826/live/peterd/peterd/92427.m3u8
-#EXTINF:-1,SuperTennis HD
-http://primestreams.tv:826/live/peterd/peterd/92421.m3u8
-#EXTINF:-1,CARTOONITO
-http://primestreams.tv:826/live/peterd/peterd/92438.m3u8
-#EXTINF:-1,Sky Cartoon Network
-http://primestreams.tv:826/live/peterd/peterd/92435.m3u8
-#EXTINF:-1,Sky Disney Junior HD
-http://primestreams.tv:826/live/peterd/peterd/92434.m3u8
-#EXTINF:-1,BOING
-http://primestreams.tv:826/live/peterd/peterd/92439.m3u8
-#EXTINF:-1,Fox HD
-http://primestreams.tv:826/live/peterd/peterd/92470.m3u8
-#EXTINF:-1,IRIS
-http://primestreams.tv:826/live/peterd/peterd/92469.m3u8
-#EXTINF:-1,Paramount Channel Ita HD
-http://primestreams.tv:826/live/peterd/peterd/92468.m3u8
-#EXTINF:-1,Rai gulp
-http://primestreams.tv:826/live/peterd/peterd/92437.m3u8
-#EXTINF:-1,Rai Yoyo
-http://primestreams.tv:826/live/peterd/peterd/92436.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://primestreams.tv:826/live/peterd/peterd/92450.m3u8
-#EXTINF:-1,Sky Cinema   1 HD
-http://primestreams.tv:826/live/peterd/peterd/92467.m3u8
-#EXTINF:-1,SKY CINEMA  24 HD
-http://primestreams.tv:826/live/peterd/peterd/92449.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9753.m3u8
+#EXTINF:-1,Sky Cinema  24 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9770.m3u8
 #EXTINF:-1,Sky Cinema 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92448.m3u8
-#EXTINF:-1,Sky Cinema Classics HD
-http://primestreams.tv:826/live/peterd/peterd/92447.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9777.m3u8
+#EXTINF:-1,Sky Cinema Classic HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9766.m3u8
 #EXTINF:-1,Sky Cinema Comedy HD
-http://primestreams.tv:826/live/peterd/peterd/92446.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9767.m3u8
 #EXTINF:-1,Sky Cinema Cult HD
-http://primestreams.tv:826/live/peterd/peterd/92445.m3u8
-#EXTINF:-1,SKY Cinema Hits HD
-http://primestreams.tv:826/live/peterd/peterd/92444.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9764.m3u8
+#EXTINF:-1,Sky Cinema Family  1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9768.m3u8
+#EXTINF:-1,SKY Cinema Family HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9769.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9771.m3u8
+#EXTINF:-1,Sky Cinema Max  1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9774.m3u8
 #EXTINF:-1,Sky Cinema Max HD
-http://primestreams.tv:826/live/peterd/peterd/92466.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9775.m3u8
 #EXTINF:-1,Sky Cinema Passion HD
-http://primestreams.tv:826/live/peterd/peterd/92443.m3u8
-#EXTINF:-1,SKY FOX COMEDY HD
-http://primestreams.tv:826/live/peterd/peterd/92442.m3u8
-#EXTINF:-1,Sky Fox HD
-http://primestreams.tv:826/live/peterd/peterd/92441.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://primestreams.tv:826/live/peterd/peterd/92465.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9765.m3u8
+#EXTINF:-1,Sky History HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9756.m3u8
+#EXTINF:-1,Sky Moto GP HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9710.m3u8
+#EXTINF:-1,Sky National Geo HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9762.m3u8
+#EXTINF:-1,Sky Atlantic  1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9772.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9773.m3u8
+#EXTINF:-1,Premium Action HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9680.m3u8
+#EXTINF:-1,Premium ACTION  24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9679.m3u8
+#EXTINF:-1,IT : Premium Cinema 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9676.m3u8
+#EXTINF:-1,Premium Cinema  24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9674.m3u8
+#EXTINF:-1,Premium Cinema 2 24 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9673.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9675.m3u8
+#EXTINF:-1,Premium Cinema 24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9678.m3u8
+#EXTINF:-1,Premium Cinema Comedy
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9665.m3u8
+#EXTINF:-1,Premium Cinema Emotion
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9669.m3u8
+#EXTINF:-1,Premium Cinema Energy
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9670.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9677.m3u8
+#EXTINF:-1,Premium Crime  24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9666.m3u8
+#EXTINF:-1,Premium Crime HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9667.m3u8
+#EXTINF:-1,Premium Disney Channel
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9660.m3u8
+#EXTINF:-1,Premium Disney Junior
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9663.m3u8
+#EXTINF:-1,Premium Joi  24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9661.m3u8
+#EXTINF:-1,Premium Joy
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9662.m3u8
+#EXTINF:-1,Premium Stories
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9672.m3u8
+#EXTINF:-1,Premium Stories 24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9671.m3u8
+#EXTINF:-1,Premium Studio Universal HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9668.m3u8
+#EXTINF:-1,Premium Cartoon Network
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9664.m3u8
+#EXTINF:-1,Dazn 1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12347.m3u8
+#EXTINF:-1,Dazn 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12346.m3u8
+#EXTINF:-1,Dazn 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12345.m3u8
+#EXTINF:-1,Dazn 4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12344.m3u8
+#EXTINF:-1,Dazn 5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12343.m3u8
+#EXTINF:-1,Dazn 6
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12342.m3u8
+#EXTINF:-1,Dazn 7
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12341.m3u8
+#EXTINF:-1,Dazn 8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12340.m3u8
+#EXTINF:-1,Dazn 9
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12339.m3u8
+#EXTINF:-1,Dazn 10
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12338.m3u8
+#EXTINF:-1,Dazn 11
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/12337.m3u8
+#EXTINF:-1,Premium Calcio
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9652.m3u8
+#EXTINF:-1,Premium Calcio 1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9651.m3u8
+#EXTINF:-1,Premium Calcio 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9654.m3u8
+#EXTINF:-1,Premium Calcio 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9650.m3u8
+#EXTINF:-1,Premium Calcio 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9653.m3u8
+#EXTINF:-1,Premium Calcio 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9649.m3u8
+#EXTINF:-1,Premium Calcio 4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9648.m3u8
+#EXTINF:-1,Premium Calcio 5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9647.m3u8
+#EXTINF:-1,Premium Calcio 6
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9646.m3u8
+#EXTINF:-1,Premium Calcio 7
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9645.m3u8
+#EXTINF:-1,Premium Calcio HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9655.m3u8
+#EXTINF:-1,Premium Sport 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9658.m3u8
+#EXTINF:-1,Premium Sport 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9656.m3u8
+#EXTINF:-1,Premium Sport 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9657.m3u8
+#EXTINF:-1,Premium Sport HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9659.m3u8
+#EXTINF:-1,Sky Calcio 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9703.m3u8
+#EXTINF:-1,Sky Calcio 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9702.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9701.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9700.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9699.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9698.m3u8
+#EXTINF:-1,Sky Calcio 7 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9697.m3u8
+#EXTINF:-1,Sky Sport 1 UHD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9714.m3u8
 #EXTINF:-1,Sky Sport 2 HD
-http://primestreams.tv:826/live/peterd/peterd/92464.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9713.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9711.m3u8
 #EXTINF:-1,Sky Sport 3 HD
-http://primestreams.tv:826/live/peterd/peterd/92463.m3u8
-#EXTINF:-1,Sky Uno  1 HD
-http://primestreams.tv:826/live/peterd/peterd/92440.m3u8
-#EXTINF:-1,Sky Uno HD
-http://primestreams.tv:826/live/peterd/peterd/92462.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9712.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9707.m3u8
+#EXTINF:-1,Sky Sport Plus HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9715.m3u8
+#EXTINF:-1,Sky Supercalcio HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9704.m3u8
+#EXTINF:-1,Sky TG 24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9731.m3u8
+#EXTINF:-1,Sport Italia
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9705.m3u8
+#EXTINF:-1,Sport Virtuali 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9717.m3u8
+#EXTINF:-1,Studio Universal HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9744.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9709.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9708.m3u8
+#EXTINF:-1,FOX ANIMATION HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9733.m3u8
+#EXTINF:-1,Fox Crime HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9747.m3u8
+#EXTINF:-1,FOX HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9749.m3u8
+#EXTINF:-1,Fox Sports 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9716.m3u8
+#EXTINF:-1,Sky Prima fila 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9695.m3u8
+#EXTINF:-1,Sky Prima fila 2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9694.m3u8
+#EXTINF:-1,Sky Prima fila 3 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9693.m3u8
+#EXTINF:-1,Sky Prima fila 4 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9692.m3u8
+#EXTINF:-1,Sky Prima fila 5 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9691.m3u8
+#EXTINF:-1,Sky Prima fila 6 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9690.m3u8
+#EXTINF:-1,Sky Prima fila 7 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9689.m3u8
+#EXTINF:-1,Sky Prima fila 8 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9688.m3u8
+#EXTINF:-1,Sky Prima fila 9 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9687.m3u8
+#EXTINF:-1,Sky Prima fila 10 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9686.m3u8
+#EXTINF:-1,Sky Prima fila 11 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9685.m3u8
+#EXTINF:-1,Sky Prima fila 12 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9684.m3u8
+#EXTINF:-1,Sky Prima fila 13 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9683.m3u8
+#EXTINF:-1,Sky Prima fila 14 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9682.m3u8
+#EXTINF:-1,Sky Prima fila 15 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9681.m3u8
+#EXTINF:-1,IT:Primafila 1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5938.m3u8
+#EXTINF:-1,IT:Primafila 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5937.m3u8
+#EXTINF:-1,IT:Primafila 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5936.m3u8
+#EXTINF:-1,IT:Primafila 4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5935.m3u8
+#EXTINF:-1,IT:Primafila 5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5934.m3u8
+#EXTINF:-1,IT:Primafila 6
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5933.m3u8
+#EXTINF:-1,IT:Primafila 7
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5932.m3u8
+#EXTINF:-1,IT:Primafila 8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5931.m3u8
+#EXTINF:-1,IT:Primafila 9
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5930.m3u8
+#EXTINF:-1,IT:Primafila 10
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5929.m3u8
+#EXTINF:-1,IT:Primafila 11
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5928.m3u8
+#EXTINF:-1,IT:Primafila 12
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5927.m3u8
+#EXTINF:-1,IT:Primafila 13
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5926.m3u8
+#EXTINF:-1,IT:Primafila 14
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5925.m3u8
+#EXTINF:-1,IT:Primafila 15
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5924.m3u8
+#EXTINF:-1,IT:Primafila 16
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5923.m3u8
+#EXTINF:-1,IT:Primafila 17
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5922.m3u8
+#EXTINF:-1,IT:Primafila 18
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/5921.m3u8
+#EXTINF:-1,Alice TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9628.m3u8
+#EXTINF:-1,Alto Adige TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9596.m3u8
+#EXTINF:-1,Animal Planet
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9755.m3u8
+#EXTINF:-1,Automoto TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9620.m3u8
+#EXTINF:-1,Boing
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9734.m3u8
+#EXTINF:-1,BRESCIA LIVE TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9644.m3u8
+#EXTINF:-1,Caccia & Pesca
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9754.m3u8
+#EXTINF:-1,CANALE 10
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9595.m3u8
+#EXTINF:-1,Canale 5 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9783.m3u8
+#EXTINF:-1,CANALE 7
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9643.m3u8
+#EXTINF:-1,Canale 8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9641.m3u8
+#EXTINF:-1,Cartoon Network
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9739.m3u8
+#EXTINF:-1,Cartoonito
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9735.m3u8
+#EXTINF:-1,CI Crime Investigation HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9745.m3u8
+#EXTINF:-1,CIELO TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9638.m3u8
+#EXTINF:-1,Class Horse TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9627.m3u8
+#EXTINF:-1,Classica HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9639.m3u8
+#EXTINF:-1,DeeJay TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9728.m3u8
+#EXTINF:-1,Discovery HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9759.m3u8
+#EXTINF:-1,Discovery Sci HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9757.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9758.m3u8
+#EXTINF:-1,Disney Channel
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9737.m3u8
+#EXTINF:-1,Disney XD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9738.m3u8
+#EXTINF:-1,DMAX HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9751.m3u8
+#EXTINF:-1,E TV MARCHE
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9612.m3u8
+#EXTINF:-1,eTV Marche
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9593.m3u8
+#EXTINF:-1,Fine Living
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9778.m3u8
+#EXTINF:-1,Fm italia TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9615.m3u8
+#EXTINF:-1,Focus TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9642.m3u8
+#EXTINF:-1,Frisbee TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9743.m3u8
+#EXTINF:-1,Giallo TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9630.m3u8
+#EXTINF:-1,LUCANIA TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9611.m3u8
+#EXTINF:-1,M2O
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9610.m3u8
+#EXTINF:-1,MTV 8 Musica
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9725.m3u8
+#EXTINF:-1,MTV Hits
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9723.m3u8
+#EXTINF:-1,MTV Music
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9718.m3u8
+#EXTINF:-1,MTV Rocks HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9724.m3u8
+#EXTINF:-1,NatGeo People HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9760.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9761.m3u8
+#EXTINF:-1,Nuvolari
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9742.m3u8
+#EXTINF:-1,Paramount TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9741.m3u8
+#EXTINF:-1,R.Italia TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9618.m3u8
+#EXTINF:-1,RADIO 105 TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9719.m3u8
+#EXTINF:-1,Radio Italia Tv
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9748.m3u8
+#EXTINF:-1,RADIO MONTE CARLO TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9720.m3u8
+#EXTINF:-1,RADIO NORBA TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9721.m3u8
+#EXTINF:-1,RADIO TAORMINA TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9609.m3u8
+#EXTINF:-1,RADIO VIRGIN TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9722.m3u8
+#EXTINF:-1,Super TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9633.m3u8
+#EXTINF:-1,Super!
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9629.m3u8
+#EXTINF:-1,Supertennis HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9696.m3u8
+#EXTINF:-1,TELE ARENA
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9622.m3u8
+#EXTINF:-1,TELE MIA
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9606.m3u8
+#EXTINF:-1,TELE MONTE NEVE
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9605.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9604.m3u8
+#EXTINF:-1,TELESTAR
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9625.m3u8
+#EXTINF:-1,TG Norba 24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9730.m3u8
+#EXTINF:-1,TIRRENO SAT
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9602.m3u8
+#EXTINF:-1,Top Crime Mediaset
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9780.m3u8
+#EXTINF:-1,TRENTINO TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9601.m3u8
+#EXTINF:-1,TSN
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9600.m3u8
+#EXTINF:-1,TV 2000
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9635.m3u8
+#EXTINF:-1,TV 7 DIGITAL
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9631.m3u8
+#EXTINF:-1,TV Luna TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9636.m3u8
+#EXTINF:-1,TVRS
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9599.m3u8
+#EXTINF:-1,VERA TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9598.m3u8
+#EXTINF:-1,VH1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9726.m3u8
+#EXTINF:-1,VIDEO BRESCIA
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9597.m3u8
+#EXTINF:-1,Video Calabria
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9740.m3u8
+#EXTINF:-1,Virgin Radio TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/9727.m3u8
