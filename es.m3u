@@ -1,151 +1,253 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 1" tvg-logo="" group-title="Spain",Taquilla 1
-http://m-iptv.net:6204/live/hamed1/hamed1/8957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 2" tvg-logo="" group-title="Spain",Taquilla 2
-http://m-iptv.net:6204/live/hamed1/hamed1/8955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 3" tvg-logo="" group-title="Spain",Taquilla 3
-http://m-iptv.net:6204/live/hamed1/hamed1/8954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 4" tvg-logo="" group-title="Spain",Taquilla 4
-http://m-iptv.net:6204/live/hamed1/hamed1/8953.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 5" tvg-logo="" group-title="Spain",Taquilla 5
-http://m-iptv.net:6204/live/hamed1/hamed1/8952.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 6" tvg-logo="" group-title="Spain",Taquilla 6
-http://m-iptv.net:6204/live/hamed1/hamed1/8951.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 7" tvg-logo="" group-title="Spain",Taquilla 7
-http://m-iptv.net:6204/live/hamed1/hamed1/8950.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 8" tvg-logo="" group-title="Spain",Taquilla 8
-http://m-iptv.net:6204/live/hamed1/hamed1/8949.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 9" tvg-logo="" group-title="Spain",Taquilla 9
-http://m-iptv.net:6204/live/hamed1/hamed1/8948.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Taquilla 10" tvg-logo="" group-title="Spain",Taquilla 10
-http://m-iptv.net:6204/live/hamed1/hamed1/8956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="#0" tvg-logo="http://www.vod-logo.net/photos/295f6c2107ea215a751e84a1f15a52b1.jpg" group-title="Spain",#0
-http://m-iptv.net:6204/live/hamed1/hamed1/10021.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="http://www.vod-logo.net/photos/8ab77baa402759c178ac694bc440f579.jpg" group-title="Spain",24 HORAS
-http://m-iptv.net:6204/live/hamed1/hamed1/10020.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="A&E" tvg-logo="http://www.vod-logo.net/photos/9ee9da1d1fee2b01d12140390022eb2f.jpg" group-title="Spain",A&E
-http://m-iptv.net:6204/live/hamed1/hamed1/10019.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="http://www.vod-logo.net/photos/32c864b0f605248af7f487a419ea5791.jpg" group-title="Spain",AMC
-http://m-iptv.net:6204/live/hamed1/hamed1/10018.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ANTENA 3" tvg-logo="http://www.vod-logo.net/photos/e5d4cdb66826f6ba362826776c308052.jpg" group-title="Spain",ANTENA 3
-http://m-iptv.net:6204/live/hamed1/hamed1/10017.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="http://www.vod-logo.net/photos/f3859438b5218a653024e55e6d36cb5b.jpg" group-title="Spain",AXN
-http://m-iptv.net:6204/live/hamed1/hamed1/10016.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AXN WHITE" tvg-logo="http://www.vod-logo.net/photos/3ddb2283290fbe5c797a446923dd890e.jpg" group-title="Spain",AXN WHITE
-http://m-iptv.net:6204/live/hamed1/hamed1/10015.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BARCA TV" tvg-logo="http://www.vod-logo.net/photos/1384cc30eccdc85011df8ec6d87760d7.jpg" group-title="Spain",BARCA TV
-http://m-iptv.net:6204/live/hamed1/hamed1/10014.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN LALIGA" tvg-logo="http://www.vod-logo.net/photos/212fb3be69b87f228a2a22cbe2dbfd6f.jpg" group-title="Spain",BEIN LALIGA
-http://m-iptv.net:6204/live/hamed1/hamed1/10013.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS" tvg-logo="http://www.vod-logo.net/photos/a698c02ea568244a5e634118a46f4bc6.jpg" group-title="Spain",BEIN SPORTS
-http://m-iptv.net:6204/live/hamed1/hamed1/10012.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BOING" tvg-logo="http://www.vod-logo.net/photos/43a8033763fe5efd191a5fa851bdd260.jpg" group-title="Spain",BOING
-http://m-iptv.net:6204/live/hamed1/hamed1/10011.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CALLE 13" tvg-logo="http://www.vod-logo.net/photos/291142ae39bc3effd61abd726a8a2606.jpg" group-title="Spain",CALLE 13
-http://m-iptv.net:6204/live/hamed1/hamed1/10010.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL COCINA" tvg-logo="http://www.vod-logo.net/photos/ea0c82de942dab3ad49d6fcb9814021a.jpg" group-title="Spain",CANAL COCINA
-http://m-iptv.net:6204/live/hamed1/hamed1/10009.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DECASA" tvg-logo="http://www.vod-logo.net/photos/75dca4c20e5d9d9c704937c0ecbdc1f5.jpg" group-title="Spain",CANAL DECASA
-http://m-iptv.net:6204/live/hamed1/hamed1/10008.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CANAL ODISEA" tvg-logo="http://www.vod-logo.net/photos/bc193e2929bc2579c5de57a3bbe13160.jpg" group-title="Spain",CANAL ODISEA
-http://m-iptv.net:6204/live/hamed1/hamed1/10007.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CAZA Y PESCA" tvg-logo="http://www.vod-logo.net/photos/54b88a898efb4675d88dbb2728e63b33.jpg" group-title="Spain",CAZA Y PESCA
-http://m-iptv.net:6204/live/hamed1/hamed1/10006.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CLAN TVE" tvg-logo="http://www.vod-logo.net/photos/7db9243ca2c3947d9b66d705fa1b640f.jpg" group-title="Spain",CLAN TVE
-http://m-iptv.net:6204/live/hamed1/hamed1/10005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COMEDY CENTRAL" tvg-logo="http://www.vod-logo.net/photos/27e7f45c7277b11731807022d9667d23.jpg" group-title="Spain",COMEDY CENTRAL
-http://m-iptv.net:6204/live/hamed1/hamed1/10004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="COSMO" tvg-logo="http://www.vod-logo.net/photos/31843d238dcee3cad764fc4692d0aee9.jpg" group-title="Spain",COSMO
-http://m-iptv.net:6204/live/hamed1/hamed1/10003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="CUATRO" tvg-logo="http://www.vod-logo.net/photos/da98a15e56d35bdc5bee44cf15f18a1e.jpg" group-title="Spain",CUATRO
-http://m-iptv.net:6204/live/hamed1/hamed1/10001.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY" tvg-logo="http://www.vod-logo.net/photos/0dfbb996150521a3c7092a6038844802.jpg" group-title="Spain",DISCOVERY
-http://m-iptv.net:6204/live/hamed1/hamed1/10000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://www.vod-logo.net/photos/08021eb92e8f317c9735a40ebeb728e0.jpg" group-title="Spain",DISNEY CHANNEL HD
-http://m-iptv.net:6204/live/hamed1/hamed1/9999.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY JR" tvg-logo="http://www.vod-logo.net/photos/d93b7accab52ca9dfe11ecd17ab72f9f.jpg" group-title="Spain",DISNEY JR
-http://m-iptv.net:6204/live/hamed1/hamed1/9998.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DISNEY XD" tvg-logo="http://www.vod-logo.net/photos/00d4c3a6715b7d4d598fe48b4856510c.jpg" group-title="Spain",DISNEY XD
-http://m-iptv.net:6204/live/hamed1/hamed1/9997.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="DIVINITY" tvg-logo="http://www.vod-logo.net/photos/beefd15740df0f2e6143725847288d33.jpg" group-title="Spain",DIVINITY
-http://m-iptv.net:6204/live/hamed1/hamed1/9996.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ENERGY" tvg-logo="http://www.vod-logo.net/photos/2d9413a9ea2773993e6be5c0f770c274.jpg" group-title="Spain",ENERGY
-http://m-iptv.net:6204/live/hamed1/hamed1/9995.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1" tvg-logo="http://www.vod-logo.net/photos/e457bd7b830ead2819fb2b8ef6946477.jpg" group-title="Spain",EUROSPORT 1
-http://m-iptv.net:6204/live/hamed1/hamed1/9994.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2" tvg-logo="http://www.vod-logo.net/photos/99337a3ec5f42a38ad0a86b8feb2ae36.jpg" group-title="Spain",EUROSPORT 2
-http://m-iptv.net:6204/live/hamed1/hamed1/9993.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX" tvg-logo="http://www.vod-logo.net/photos/326e82baf0df91adcdc3427608b7b96f.jpg" group-title="Spain",FOX
-http://m-iptv.net:6204/live/hamed1/hamed1/9992.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE" tvg-logo="http://www.vod-logo.net/photos/adcd889b0cdbe1b39c36f807fcb1c620.jpg" group-title="Spain",FOX LIFE
-http://m-iptv.net:6204/live/hamed1/hamed1/9991.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="GOL TV" tvg-logo="http://www.vod-logo.net/photos/115bda58b2227bb5ef8f5e9bb4b317ca.jpg" group-title="Spain",GOL TV
-http://m-iptv.net:6204/live/hamed1/hamed1/9990.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HISTORIA" tvg-logo="http://www.vod-logo.net/photos/a95137f79078176e4926e61c9e584670.jpg" group-title="Spain",HISTORIA
-http://m-iptv.net:6204/live/hamed1/hamed1/9989.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOLLYWOOD" tvg-logo="http://www.vod-logo.net/photos/adbec9b0cf39927de8d300fe11ffe797.jpg" group-title="Spain",HOLLYWOOD
-http://m-iptv.net:6204/live/hamed1/hamed1/9988.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA 1" tvg-logo="http://www.vod-logo.net/photos/fe695abad54f56501ec709dbb3db5159.jpg" group-title="Spain",LA 1
-http://m-iptv.net:6204/live/hamed1/hamed1/9986.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA 2" tvg-logo="http://www.vod-logo.net/photos/df5a362a597a63fd353f2783308546d7.jpg" group-title="Spain",LA 2
-http://m-iptv.net:6204/live/hamed1/hamed1/9985.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LA SEXTA" tvg-logo="http://www.vod-logo.net/photos/613a53f9e77efe6646fdd42753d9b668.jpg" group-title="Spain",LA SEXTA
-http://m-iptv.net:6204/live/hamed1/hamed1/9984.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="LALIGA TV BAR" tvg-logo="http://www.vod-logo.net/photos/6e0b4e4b2ce45cfb8cb63b0e69ac7df0.jpg" group-title="Spain",LALIGA TV BAR
-http://m-iptv.net:6204/live/hamed1/hamed1/9983.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.ACCION" tvg-logo="http://www.vod-logo.net/photos/3dd5d5405bbfca8697f33d0b5629bd1b.jpg" group-title="Spain",M.ACCION
-http://m-iptv.net:6204/live/hamed1/hamed1/9982.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.CINE ESPANOL" tvg-logo="http://www.vod-logo.net/photos/d6df9e1c5391dca23f48232e4c5bfccd.JPG" group-title="Spain",M.CINE ESPANOL
-http://m-iptv.net:6204/live/hamed1/hamed1/9981.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.COMEDIA" tvg-logo="http://www.vod-logo.net/photos/cff2b8fd6facb65e5a10dd9f13c84455.jpg" group-title="Spain",M.COMEDIA
-http://m-iptv.net:6204/live/hamed1/hamed1/9980.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.DCINE" tvg-logo="http://www.vod-logo.net/photos/69ac9e60365554c25deef085eef5d861.jpg" group-title="Spain",M.DCINE
-http://m-iptv.net:6204/live/hamed1/hamed1/9979.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.DEP 1" tvg-logo="" group-title="Spain",M.DEP 1
-http://m-iptv.net:6204/live/hamed1/hamed1/9978.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.DEP 2" tvg-logo="" group-title="Spain",M.DEP 2
-http://m-iptv.net:6204/live/hamed1/hamed1/9977.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.ESTRENOS" tvg-logo="http://www.vod-logo.net/photos/cd4906391e5635893dc9834a3f5f81e2.JPG" group-title="Spain",M.ESTRENOS
-http://m-iptv.net:6204/live/hamed1/hamed1/9976.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.FORMULA 1" tvg-logo="http://www.vod-logo.net/photos/c390d72e443975adc0001efc5f73955e.jpg" group-title="Spain",M.FORMULA 1
-http://m-iptv.net:6204/live/hamed1/hamed1/9975.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.FUTBOL" tvg-logo="" group-title="Spain",M.FUTBOL
-http://m-iptv.net:6204/live/hamed1/hamed1/9974.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.GOLF" tvg-logo="" group-title="Spain",M.GOLF
-http://m-iptv.net:6204/live/hamed1/hamed1/9973.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.MOTOGP" tvg-logo="http://www.vod-logo.net/photos/7f10540ad4b7fa26adb7f72f0469e348.jpg" group-title="Spain",M.MOTOGP
-http://m-iptv.net:6204/live/hamed1/hamed1/9972.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.SERIES" tvg-logo="http://www.vod-logo.net/photos/aaef39b33f8deb239b7426d4f02e569d.jpg" group-title="Spain",M.SERIES
-http://m-iptv.net:6204/live/hamed1/hamed1/9971.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.SERIESXTRA" tvg-logo="" group-title="Spain",M.SERIESXTRA
-http://m-iptv.net:6204/live/hamed1/hamed1/9970.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="M.XTRA" tvg-logo="" group-title="Spain",M.XTRA
-http://m-iptv.net:6204/live/hamed1/hamed1/9969.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="http://www.vod-logo.net/photos/3e9d0d1bcd1624376455fe6f36594671.jpg" group-title="Spain",NAT GEO WILD
-http://m-iptv.net:6204/live/hamed1/hamed1/9967.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="http://www.vod-logo.net/photos/9606c5afb889de6fb018a305dbb8b373.jpg" group-title="Spain",NATIONAL GEOGRAPHIC
-http://m-iptv.net:6204/live/hamed1/hamed1/9966.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NEOX" tvg-logo="http://www.vod-logo.net/photos/940413d3396c197d20ae35f57fbbba15.jpg" group-title="Spain",NEOX
-http://m-iptv.net:6204/live/hamed1/hamed1/9965.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="http://www.vod-logo.net/photos/3a7c7f88082196470ce48d3c6f49cbce.jpg" group-title="Spain",NICKELODEON
-http://m-iptv.net:6204/live/hamed1/hamed1/9964.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="NOVA" tvg-logo="http://www.vod-logo.net/photos/4f8c699cb91315d7b22b3518f1e4cae1.jpg" group-title="Spain",NOVA
-http://m-iptv.net:6204/live/hamed1/hamed1/9962.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PARAMOUNT" tvg-logo="http://www.vod-logo.net/photos/bd46c19a8fc339471b259ee1a686f6b4.jpg" group-title="Spain",PARAMOUNT
-http://m-iptv.net:6204/live/hamed1/hamed1/9961.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Real Madrid TV" tvg-logo="http://www.vod-logo.net/photos/8efb2f090186f86636fc741009f8319e.jpg" group-title="Spain",Real Madrid TV
-http://m-iptv.net:6204/live/hamed1/hamed1/9960.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SUNDANCE" tvg-logo="http://www.vod-logo.net/photos/29f2c1b18eeee521f8409a287dd592c0.jpg" group-title="Spain",SUNDANCE
-http://m-iptv.net:6204/live/hamed1/hamed1/9959.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="SYFY" tvg-logo="http://www.vod-logo.net/photos/458ea1b04f052078408f348448d87d0e.jpg" group-title="Spain",SYFY
-http://m-iptv.net:6204/live/hamed1/hamed1/9958.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="http://www.vod-logo.net/photos/d2d78c759a1a83c528ea1960f4105298.jpg" group-title="Spain",TCM
-http://m-iptv.net:6204/live/hamed1/hamed1/9957.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELECINCO" tvg-logo="http://www.vod-logo.net/photos/84747f1da5a0bac7f6bff8d7f5cb19cd.jpg" group-title="Spain",TELECINCO
-http://m-iptv.net:6204/live/hamed1/hamed1/9956.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TELEDEPORTE" tvg-logo="http://www.vod-logo.net/photos/78d688c86885396c5c358625ba5803b3.jpg" group-title="Spain",TELEDEPORTE
-http://m-iptv.net:6204/live/hamed1/hamed1/9955.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="http://www.vod-logo.net/photos/01f3869164d8b1299b002affe7463018.jpg" group-title="Spain",TNT
-http://m-iptv.net:6204/live/hamed1/hamed1/9954.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TOROS TV" tvg-logo="http://www.vod-logo.net/photos/a6e2313c35900e0cd740c01a9bf6ae3e.jpg" group-title="Spain",TOROS TV
-http://m-iptv.net:6204/live/hamed1/hamed1/9953.m3u8
+#EXTINF:-1,TDN Local
+http://primestreams.tv:826/live/peterd/peterd/95778.m3u8
+#EXTINF:-1,A&E
+http://primestreams.tv:826/live/peterd/peterd/73888.m3u8
+#EXTINF:-1,AMC Local
+http://primestreams.tv:826/live/peterd/peterd/73885.m3u8
+#EXTINF:-1,Animal Planet
+http://primestreams.tv:826/live/peterd/peterd/73807.m3u8
+#EXTINF:-1,Antena 3 Local
+http://primestreams.tv:826/live/peterd/peterd/73884.m3u8
+#EXTINF:-1,AXN Local
+http://primestreams.tv:826/live/peterd/peterd/73883.m3u8
+#EXTINF:-1,AZTECA 7
+http://primestreams.tv:826/live/peterd/peterd/91139.m3u8
+#EXTINF:-1,AzMundo
+http://primestreams.tv:826/live/peterd/peterd/73878.m3u8
+#EXTINF:-1,BANDAMAX
+http://primestreams.tv:826/live/peterd/peterd/90682.m3u8
+#EXTINF:-1,Bloomberg Local
+http://primestreams.tv:826/live/peterd/peterd/73876.m3u8
+#EXTINF:-1,Baby TV Local
+http://primestreams.tv:826/live/peterd/peterd/73877.m3u8
+#EXTINF:-1,Cartoon Network
+http://primestreams.tv:826/live/peterd/peterd/73871.m3u8
+#EXTINF:-1,CANAL 5
+http://primestreams.tv:826/live/peterd/peterd/73920.m3u8
+#EXTINF:-1,CINE Latino Local
+http://primestreams.tv:826/live/peterd/peterd/40074.m3u8
+#EXTINF:-1,CINE SONY Local
+http://primestreams.tv:826/live/peterd/peterd/91156.m3u8
+#EXTINF:-1,CINECANAL Local
+http://primestreams.tv:826/live/peterd/peterd/90555.m3u8
+#EXTINF:-1,Cinemax
+http://primestreams.tv:826/live/peterd/peterd/73870.m3u8
+#EXTINF:-1,CNN EN ESPANOL Local
+http://primestreams.tv:826/live/peterd/peterd/73917.m3u8
+#EXTINF:-1,Comedy Central Local
+http://primestreams.tv:826/live/peterd/peterd/73869.m3u8
+#EXTINF:-1,De Película Local
+http://primestreams.tv:826/live/peterd/peterd/73789.m3u8
+#EXTINF:-1,Boomerang
+http://primestreams.tv:826/live/peterd/peterd/73868.m3u8
+#EXTINF:-1,DISCOVERY Local
+http://primestreams.tv:826/live/peterd/peterd/88178.m3u8
+#EXTINF:-1,Discovery Channel Local
+http://primestreams.tv:826/live/peterd/peterd/73806.m3u8
+#EXTINF:-1,DISCOVERY FAMILIA Local
+http://primestreams.tv:826/live/peterd/peterd/88177.m3u8
+#EXTINF:-1,Discovery Home & Heatlh Local
+http://primestreams.tv:826/live/peterd/peterd/73805.m3u8
+#EXTINF:-1,Discovery Kids Local
+http://primestreams.tv:826/live/peterd/peterd/73801.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE Local
+http://primestreams.tv:826/live/peterd/peterd/90548.m3u8
+#EXTINF:-1,DISCOVERY THEATER Local
+http://primestreams.tv:826/live/peterd/peterd/73804.m3u8
+#EXTINF:-1,Discovery Turbo
+http://primestreams.tv:826/live/peterd/peterd/73803.m3u8
+#EXTINF:-1,Discovery World Local
+http://primestreams.tv:826/live/peterd/peterd/73802.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://primestreams.tv:826/live/peterd/peterd/73916.m3u8
+#EXTINF:-1,DISNEY JR Local
+http://primestreams.tv:826/live/peterd/peterd/90549.m3u8
+#EXTINF:-1,DISNEY XD Local
+http://primestreams.tv:826/live/peterd/peterd/73915.m3u8
+#EXTINF:-1,Distrito Comedia
+http://primestreams.tv:826/live/peterd/peterd/73867.m3u8
+#EXTINF:-1,E! Local
+http://primestreams.tv:826/live/peterd/peterd/73866.m3u8
+#EXTINF:-1,El Gourmet Local
+http://primestreams.tv:826/live/peterd/peterd/73865.m3u8
+#EXTINF:-1,ESPN 2 Local
+http://primestreams.tv:826/live/peterd/peterd/73796.m3u8
+#EXTINF:-1,ESPN DEPORTES Local
+http://primestreams.tv:826/live/peterd/peterd/40073.m3u8
+#EXTINF:-1,Foro
+http://primestreams.tv:826/live/peterd/peterd/73863.m3u8
+#EXTINF:-1,Fox
+http://primestreams.tv:826/live/peterd/peterd/73861.m3u8
+#EXTINF:-1,Fox Action Local
+http://primestreams.tv:826/live/peterd/peterd/73860.m3u8
+#EXTINF:-1,Fox Life Local
+http://primestreams.tv:826/live/peterd/peterd/73862.m3u8
+#EXTINF:-1,FOX SERIES Local
+http://primestreams.tv:826/live/peterd/peterd/77100.m3u8
+#EXTINF:-1,FOX PREMIUM CINEMA Local
+http://primestreams.tv:826/live/peterd/peterd/90551.m3u8
+#EXTINF:-1,FOX PREMIUM CLASSICS Local
+http://primestreams.tv:826/live/peterd/peterd/90552.m3u8
+#EXTINF:-1,Fox Premium Movies Local
+http://primestreams.tv:826/live/peterd/peterd/73859.m3u8
+#EXTINF:-1,Fox Premium Series Local
+http://primestreams.tv:826/live/peterd/peterd/73858.m3u8
+#EXTINF:-1,Fox Sports Local
+http://primestreams.tv:826/live/peterd/peterd/73857.m3u8
+#EXTINF:-1,Fox Sports 2 Local
+http://primestreams.tv:826/live/peterd/peterd/73856.m3u8
+#EXTINF:-1,Fox Sports 3 Local
+http://primestreams.tv:826/live/peterd/peterd/73855.m3u8
+#EXTINF:-1,FoxFX Local
+http://primestreams.tv:826/live/peterd/peterd/90550.m3u8
+#EXTINF:-1,FXM
+http://primestreams.tv:826/live/peterd/peterd/73853.m3u8
+#EXTINF:-1,FX Local
+http://primestreams.tv:826/live/peterd/peterd/73854.m3u8
+#EXTINF:-1,Gala TV
+http://primestreams.tv:826/live/peterd/peterd/73852.m3u8
+#EXTINF:-1,Glitz
+http://primestreams.tv:826/live/peterd/peterd/73851.m3u8
+#EXTINF:-1,Golden Local
+http://primestreams.tv:826/live/peterd/peterd/73850.m3u8
+#EXTINF:-1,GOLDEN PREMIER 1 Local
+http://primestreams.tv:826/live/peterd/peterd/90554.m3u8
+#EXTINF:-1,Golf Local
+http://primestreams.tv:826/live/peterd/peterd/73849.m3u8
+#EXTINF:-1,HISTORY
+http://primestreams.tv:826/live/peterd/peterd/73908.m3u8
+#EXTINF:-1,H2
+http://primestreams.tv:826/live/peterd/peterd/73914.m3u8
+#EXTINF:-1,HBO Local
+http://primestreams.tv:826/live/peterd/peterd/73913.m3u8
+#EXTINF:-1,HBO 2
+http://primestreams.tv:826/live/peterd/peterd/73911.m3u8
+#EXTINF:-1,HBO FAMILY Local
+http://primestreams.tv:826/live/peterd/peterd/73910.m3u8
+#EXTINF:-1,HBO PLUS HD
+http://primestreams.tv:826/live/peterd/peterd/73909.m3u8
+#EXTINF:-1,HBO Signature Local
+http://primestreams.tv:826/live/peterd/peterd/73912.m3u8
+#EXTINF:-1,INVESTIGATION DISCOVERY Local
+http://primestreams.tv:826/live/peterd/peterd/73794.m3u8
+#EXTINF:-1,Las Estrellas Local
+http://primestreams.tv:826/live/peterd/peterd/73843.m3u8
+#EXTINF:-1,Lifetime Local
+http://primestreams.tv:826/live/peterd/peterd/73799.m3u8
+#EXTINF:-1,MAXUP Local
+http://primestreams.tv:826/live/peterd/peterd/90556.m3u8
+#EXTINF:-1,MEGA
+http://primestreams.tv:826/live/peterd/peterd/90685.m3u8
+#EXTINF:-1,MTV Live
+http://primestreams.tv:826/live/peterd/peterd/73838.m3u8
+#EXTINF:-1,MTV Local
+http://primestreams.tv:826/live/peterd/peterd/73791.m3u8
+#EXTINF:-1,Multipremier
+http://primestreams.tv:826/live/peterd/peterd/73837.m3u8
+#EXTINF:-1,Natgeo Kids
+http://primestreams.tv:826/live/peterd/peterd/73798.m3u8
+#EXTINF:-1,Natgeo Wild Local
+http://primestreams.tv:826/live/peterd/peterd/73790.m3u8
+#EXTINF:-1,NICKELODEON Local
+http://primestreams.tv:826/live/peterd/peterd/73834.m3u8
+#EXTINF:-1,NICK 2
+http://primestreams.tv:826/live/peterd/peterd/73902.m3u8
+#EXTINF:-1,NICK JR Local
+http://primestreams.tv:826/live/peterd/peterd/73903.m3u8
+#EXTINF:-1,NAT GEO Local
+http://primestreams.tv:826/live/peterd/peterd/73906.m3u8
+#EXTINF:-1,NAT GEO MUNDO Local
+http://primestreams.tv:826/live/peterd/peterd/91155.m3u8
+#EXTINF:-1,Paramount Local
+http://primestreams.tv:826/live/peterd/peterd/73832.m3u8
+#EXTINF:-1,Pasiones Local
+http://primestreams.tv:826/live/peterd/peterd/40078.m3u8
+#EXTINF:-1,Sony Local
+http://primestreams.tv:826/live/peterd/peterd/73828.m3u8
+#EXTINF:-1,SPACE Local
+http://primestreams.tv:826/live/peterd/peterd/90553.m3u8
+#EXTINF:-1,Studio Universal
+http://primestreams.tv:826/live/peterd/peterd/73825.m3u8
+#EXTINF:-1,Sundance Local
+http://primestreams.tv:826/live/peterd/peterd/73824.m3u8
+#EXTINF:-1,Syfy
+http://primestreams.tv:826/live/peterd/peterd/73823.m3u8
+#EXTINF:-1,TBS Local
+http://primestreams.tv:826/live/peterd/peterd/90557.m3u8
+#EXTINF:-1,TCM
+http://primestreams.tv:826/live/peterd/peterd/73899.m3u8
+#EXTINF:-1,Telefórmula
+http://primestreams.tv:826/live/peterd/peterd/73822.m3u8
+#EXTINF:-1,Telehit
+http://primestreams.tv:826/live/peterd/peterd/73821.m3u8
+#EXTINF:-1,TELEMUNDO 40 Local
+http://primestreams.tv:826/live/peterd/peterd/90568.m3u8
+#EXTINF:-1,TELEMUNDO 51 Local
+http://primestreams.tv:826/live/peterd/peterd/90565.m3u8
+#EXTINF:-1,TELEMUNDO BOSTON Local
+http://primestreams.tv:826/live/peterd/peterd/90571.m3u8
+#EXTINF:-1,TELEMUNDO D.C.
+http://primestreams.tv:826/live/peterd/peterd/90562.m3u8
+#EXTINF:-1,TELEMUNDO DENVER Local
+http://primestreams.tv:826/live/peterd/peterd/90566.m3u8
+#EXTINF:-1,TELEMUNDO LAS VEGAS Local
+http://primestreams.tv:826/live/peterd/peterd/90567.m3u8
+#EXTINF:-1,Telemundo Los Angeles USA
+http://primestreams.tv:826/live/peterd/peterd/73892.m3u8
+#EXTINF:-1,Telemundo Miami USA
+http://primestreams.tv:826/live/peterd/peterd/73891.m3u8
+#EXTINF:-1,TELEMUNDO NY Local
+http://primestreams.tv:826/live/peterd/peterd/73890.m3u8
+#EXTINF:-1,TELEMUNDO PHOENIX Local
+http://primestreams.tv:826/live/peterd/peterd/90564.m3u8
+#EXTINF:-1,TELEMUNDO PUERTO RICO
+http://primestreams.tv:826/live/peterd/peterd/90561.m3u8
+#EXTINF:-1,TELEMUNDO SALT LAKE CITY
+http://primestreams.tv:826/live/peterd/peterd/90559.m3u8
+#EXTINF:-1,TELEMUNDO SAN ANTONIO Local
+http://primestreams.tv:826/live/peterd/peterd/90569.m3u8
+#EXTINF:-1,TELEMUNDO SAN FRANCISCO
+http://primestreams.tv:826/live/peterd/peterd/90560.m3u8
+#EXTINF:-1,TELEMUNDO TUCSON Local
+http://primestreams.tv:826/live/peterd/peterd/90570.m3u8
+#EXTINF:-1,TELEXITOS
+http://primestreams.tv:826/live/peterd/peterd/95010.m3u8
+#EXTINF:-1,TLNOVELAS Local
+http://primestreams.tv:826/live/peterd/peterd/90558.m3u8
+#EXTINF:-1,TLC Local
+http://primestreams.tv:826/live/peterd/peterd/73898.m3u8
+#EXTINF:-1,TNT Local
+http://primestreams.tv:826/live/peterd/peterd/73818.m3u8
+#EXTINF:-1,TNT SERIES Local
+http://primestreams.tv:826/live/peterd/peterd/73817.m3u8
+#EXTINF:-1,TOONCAST
+http://primestreams.tv:826/live/peterd/peterd/73897.m3u8
+#EXTINF:-1,Tru TV Local
+http://primestreams.tv:826/live/peterd/peterd/73816.m3u8
+#EXTINF:-1,TV MAS
+http://primestreams.tv:826/live/peterd/peterd/73895.m3u8
+#EXTINF:-1,TVE
+http://primestreams.tv:826/live/peterd/peterd/73826.m3u8
+#EXTINF:-1,TVMás OK
+http://primestreams.tv:826/live/peterd/peterd/73813.m3u8
+#EXTINF:-1,TYC SPORTS
+http://primestreams.tv:826/live/peterd/peterd/95009.m3u8
+#EXTINF:-1,UFC
+http://primestreams.tv:826/live/peterd/peterd/73893.m3u8
+#EXTINF:-1,Unicable Local
+http://primestreams.tv:826/live/peterd/peterd/40077.m3u8
+#EXTINF:-1,Unimas
+http://primestreams.tv:826/live/peterd/peterd/40076.m3u8
+#EXTINF:-1,Universal Channel
+http://primestreams.tv:826/live/peterd/peterd/73811.m3u8
+#EXTINF:-1,Universo Local
+http://primestreams.tv:826/live/peterd/peterd/40075.m3u8
+#EXTINF:-1,VH1 Local
+http://primestreams.tv:826/live/peterd/peterd/73810.m3u8
+#EXTINF:-1,Wapa
+http://primestreams.tv:826/live/peterd/peterd/75479.m3u8
+#EXTINF:-1,Warner Bros Channel
+http://primestreams.tv:826/live/peterd/peterd/73809.m3u8
+#EXTINF:-1,Wobi TV
+http://primestreams.tv:826/live/peterd/peterd/73808.m3u8
