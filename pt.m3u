@@ -1,269 +1,169 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23261.m3u8
-#EXTINF:-1,RTP 1
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23260.m3u8
-#EXTINF:-1,RTP2 HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23259.m3u8
-#EXTINF:-1,RTP 2
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23258.m3u8
-#EXTINF:-1,RTP 3
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23257.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23256.m3u8
-#EXTINF:-1,RTP AFRICA
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23255.m3u8
-#EXTINF:-1,TCV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23254.m3u8
-#EXTINF:-1,RTP ACORES
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23253.m3u8
-#EXTINF:-1,SIC RADICAL
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23252.m3u8
-#EXTINF:-1,SIC MULHER
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23251.m3u8
-#EXTINF:-1,SIC CARAS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23250.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23249.m3u8
-#EXTINF:-1,SIC HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23248.m3u8
-#EXTINF:-1,SIC
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23247.m3u8
-#EXTINF:-1,TVI HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23246.m3u8
-#EXTINF:-1,TVI
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23245.m3u8
-#EXTINF:-1,TVI FICCAO
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23244.m3u8
-#EXTINF:-1,CANAL Q
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23243.m3u8
-#EXTINF:-1,GLOBO PREM
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23242.m3u8
-#EXTINF:-1,TV RECORD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23241.m3u8
-#EXTINF:-1,TVI24
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23240.m3u8
-#EXTINF:-1,CM TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23239.m3u8
-#EXTINF:-1,TV GLOBO
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23238.m3u8
-#EXTINF:-1,RECORD NEWS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/1061.m3u8
-#EXTINF:-1,EURONEWS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23237.m3u8
-#EXTINF:-1,PORTO CANAL
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23236.m3u8
-#EXTINF:-1,|PT|*****SPORT*****|PT|
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23235.m3u8
-#EXTINF:-1,SPORT TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14108.m3u8
-#EXTINF:-1,SPORT TV1 HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14102.m3u8
-#EXTINF:-1,SPORT TV1
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14107.m3u8
-#EXTINF:-1,SPORT TV2 HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14101.m3u8
-#EXTINF:-1,SPORT TV2
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14106.m3u8
-#EXTINF:-1,SPORT TV3 HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14100.m3u8
-#EXTINF:-1,SPORT TV3
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14105.m3u8
-#EXTINF:-1,SPORT TV4 HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14099.m3u8
-#EXTINF:-1,SPORT TV4
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14104.m3u8
-#EXTINF:-1,SPORT TV5 HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14098.m3u8
-#EXTINF:-1,SPORT TV5
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14103.m3u8
-#EXTINF:-1,BENIFICA TV FHD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14092.m3u8
-#EXTINF:-1,BENIFICA TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14093.m3u8
-#EXTINF:-1,SPORTING TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14091.m3u8
-#EXTINF:-1,A BOLA TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14087.m3u8
-#EXTINF:-1,PFC
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14086.m3u8
-#EXTINF:-1,KOMBATSPORT
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14090.m3u8
-#EXTINF:-1,EUROSPORT NEWS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14096.m3u8
-#EXTINF:-1,EUROSPORT 1HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14097.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14095.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14094.m3u8
-#EXTINF:-1,FUEL TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23234.m3u8
-#EXTINF:-1,MOTORSPORT TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14089.m3u8
-#EXTINF:-1,MOTORVISION
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/14088.m3u8
-#EXTINF:-1,TOROS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23233.m3u8
-#EXTINF:-1,|PT|*****ENFANTS*****|PT|
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23232.m3u8
-#EXTINF:-1,JIM JAM
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23231.m3u8
-#EXTINF:-1,BABY FIRST
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23230.m3u8
-#EXTINF:-1,BABY TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23229.m3u8
-#EXTINF:-1,CANAL PANDA
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23228.m3u8
-#EXTINF:-1,BIGGS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23227.m3u8
-#EXTINF:-1,NICKELODEON
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23226.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23225.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23224.m3u8
-#EXTINF:-1,CARTOONNETWORK
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23223.m3u8
-#EXTINF:-1,SIC K
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23222.m3u8
-#EXTINF:-1,|PT|*****CINEMA*****|PT|
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23221.m3u8
-#EXTINF:-1,TVCINE1 HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23220.m3u8
-#EXTINF:-1,TVCINE1
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23219.m3u8
-#EXTINF:-1,TVCINE 2HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23218.m3u8
-#EXTINF:-1,TVCINE2
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23217.m3u8
-#EXTINF:-1,TVCINE  3HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23216.m3u8
-#EXTINF:-1,TVCINE3
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23215.m3u8
-#EXTINF:-1,TVCINE 4HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23214.m3u8
-#EXTINF:-1,TVCINE4
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23213.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23212.m3u8
-#EXTINF:-1,NATGEO HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23211.m3u8
-#EXTINF:-1,FOX MOVIES
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23210.m3u8
-#EXTINF:-1,AMC
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23209.m3u8
-#EXTINF:-1,CINEMUNDO
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23208.m3u8
-#EXTINF:-1,|PT|*****CULTURE*****|PT|
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23207.m3u8
-#EXTINF:-1,ODISSEIA
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23206.m3u8
-#EXTINF:-1,NATGEO WILD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23205.m3u8
-#EXTINF:-1,DISCOVERY
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23204.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE FHD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23203.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23202.m3u8
-#EXTINF:-1, HISTORIA
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23201.m3u8
-#EXTINF:-1,CAÃ‡A E PESCA
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23200.m3u8
-#EXTINF:-1,FOOD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23199.m3u8
-#EXTINF:-1,NATGEO
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23198.m3u8
-#EXTINF:-1,CASAVISION
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23197.m3u8
-#EXTINF:-1,|PT|*****SERIES*****|PT|
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23196.m3u8
-#EXTINF:-1,FOX HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23195.m3u8
-#EXTINF:-1,FOX CRIME FHD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23194.m3u8
-#EXTINF:-1,FOX CRIME
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23193.m3u8
-#EXTINF:-1,FOX COMEDY
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23192.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23191.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23190.m3u8
-#EXTINF:-1,AXN HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23189.m3u8
-#EXTINF:-1,AXN BLACK FHD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23188.m3u8
-#EXTINF:-1,AXN BLACK
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23187.m3u8
+#EXTINF:-1,TV CINE 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7691.m3u8
+#EXTINF:-1,TV Cine 1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7718.m3u8
+#EXTINF:-1,TV Cine 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7717.m3u8
+#EXTINF:-1,TV Cine 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7716.m3u8
+#EXTINF:-1,TV Cine 4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7715.m3u8
+#EXTINF:-1,MOV HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7719.m3u8
+#EXTINF:-1,TV SERIES HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7699.m3u8
+#EXTINF:-1,PT:HOLLYWOOD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7720.m3u8
 #EXTINF:-1,SYFY HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23186.m3u8
-#EXTINF:-1,SYFY
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23185.m3u8
-#EXTINF:-1,TLC
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23184.m3u8
-#EXTINF:-1,TVSERIE FHD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23183.m3u8
-#EXTINF:-1,TVSERIES
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23182.m3u8
-#EXTINF:-1,MCS LIFESTYLE
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23181.m3u8
-#EXTINF:-1,CBSREALITY
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23180.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7725.m3u8
+#EXTINF:-1,SYFY SD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7724.m3u8
+#EXTINF:-1,AXN.HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7722.m3u8
+#EXTINF:-1,AXN Black HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7732.m3u8
+#EXTINF:-1,AXN White HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7723.m3u8
+#EXTINF:-1,Fox HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7731.m3u8
+#EXTINF:-1,Fox Movies
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7729.m3u8
+#EXTINF:-1,Fox Crime
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7727.m3u8
+#EXTINF:-1,Fox Comedy
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7728.m3u8
+#EXTINF:-1,Fox Life HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7730.m3u8
+#EXTINF:-1,Sport TV1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7747.m3u8
+#EXTINF:-1,Sport TV2 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7748.m3u8
+#EXTINF:-1,SPORT TV+
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7749.m3u8
+#EXTINF:-1,Sport TV 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7750.m3u8
+#EXTINF:-1,Sport TV3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7752.m3u8
+#EXTINF:-1,Sport TV 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7751.m3u8
+#EXTINF:-1,Sport TV 4
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7753.m3u8
+#EXTINF:-1,Sport TV 5
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7754.m3u8
+#EXTINF:-1,Sporting TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7755.m3u8
+#EXTINF:-1,Benfica TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7666.m3u8
+#EXTINF:-1,PT:BENFICA TV 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7665.m3u8
+#EXTINF:-1,PT:BENFICA TV 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7664.m3u8
+#EXTINF:-1,PT:EUROSPORT
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7686.m3u8
+#EXTINF:-1,Sic
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7678.m3u8
+#EXTINF:-1,Sic Kids
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7706.m3u8
+#EXTINF:-1,Sic Mulher
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7676.m3u8
+#EXTINF:-1,Sic Noticias
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7677.m3u8
+#EXTINF:-1,Sic Radical
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7703.m3u8
+#EXTINF:-1,TV Record
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7733.m3u8
+#EXTINF:-1,RTP 1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7741.m3u8
+#EXTINF:-1,RTP 2
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7740.m3u8
+#EXTINF:-1,RTP 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7739.m3u8
+#EXTINF:-1,RTP Acores
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7735.m3u8
+#EXTINF:-1,RTP Africa
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7734.m3u8
+#EXTINF:-1,RTP Madeira
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7737.m3u8
+#EXTINF:-1,RTP Memoria
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7736.m3u8
+#EXTINF:-1,TVI
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7674.m3u8
+#EXTINF:-1,Tvi 24
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7673.m3u8
 #EXTINF:-1,TVI REALITY
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23179.m3u8
-#EXTINF:-1,E!
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23178.m3u8
-#EXTINF:-1,A&E
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23177.m3u8
-#EXTINF:-1,24 KITCHEN HD
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/23176.m3u8
-#EXTINF:-1,|BR|*****BRASIL*****|BR|
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24926.m3u8
-#EXTINF:-1,|BR| TV GLOBO
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24902.m3u8
-#EXTINF:-1,|BR| TV BRASIL
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24903.m3u8
-#EXTINF:-1,|BR| SBT
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24911.m3u8
-#EXTINF:-1,|BR| BAND CAMPINAS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24923.m3u8
-#EXTINF:-1,|BR| REDE TV !
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24925.m3u8
-#EXTINF:-1,|BR| SPACE
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24910.m3u8
-#EXTINF:-1,|BR| TNT
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24906.m3u8
-#EXTINF:-1,|BR| MULTISHOW
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24913.m3u8
-#EXTINF:-1,|BR| MEGAPIX
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24914.m3u8
-#EXTINF:-1,|BR| LIFETIME
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24915.m3u8
-#EXTINF:-1,|BR| TRU TV
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24904.m3u8
-#EXTINF:-1,|BR| SPORTV1
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24909.m3u8
-#EXTINF:-1,|BR| SPORTV2
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24908.m3u8
-#EXTINF:-1,|BR| SPORTV3
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24907.m3u8
-#EXTINF:-1,|BR| FOX SPORT
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24917.m3u8
-#EXTINF:-1,|BR| FOX SPORT2
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24916.m3u8
-#EXTINF:-1,|BR| COMBATE
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24920.m3u8
-#EXTINF:-1,|BR| DISNEY CHANNEL
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24918.m3u8
-#EXTINF:-1,|BR| DISCOVERY KIDS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24919.m3u8
-#EXTINF:-1,|BR| TOONCAST
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24905.m3u8
-#EXTINF:-1,|BR| BAND NEWS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24922.m3u8
-#EXTINF:-1,|BR| BIS
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24921.m3u8
-#EXTINF:-1,|BR| OFF
-http://iptvpro.premium-tv.media:8789/live/sourcepanel3/tK2KqmSBQO/24912.m3u8
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7683.m3u8
+#EXTINF:-1,PT:A&E
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7675.m3u8
+#EXTINF:-1,PT:BABY TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7714.m3u8
+#EXTINF:-1,PT:BIGGS
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7679.m3u8
+#EXTINF:-1,PT:CACAVISION HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7682.m3u8
+#EXTINF:-1,PT:CANAL PANDA
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7713.m3u8
+#EXTINF:-1,PT:CBS REALITY
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7692.m3u8
+#EXTINF:-1,PT:FUEL TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7687.m3u8
+#EXTINF:-1,PT:GLOBO TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7688.m3u8
+#EXTINF:-1,PT:JIM JAM
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7707.m3u8
+#EXTINF:-1,PT:MOTORVISION
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7689.m3u8
+#EXTINF:-1,PT:MOTORVISION HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7690.m3u8
+#EXTINF:-1,PT:NICKELODEON
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7710.m3u8
+#EXTINF:-1,PT:PANDA BIGGS
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7712.m3u8
+#EXTINF:-1,PT:PFC HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7693.m3u8
+#EXTINF:-1,PT:Q CANAL
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7694.m3u8
+#EXTINF:-1,PT:REDE TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7695.m3u8
+#EXTINF:-1,PT:RTP 1 HD
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7742.m3u8
+#EXTINF:-1,PT:RTP 3
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7738.m3u8
+#EXTINF:-1,PT:SIC CARAS
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7696.m3u8
+#EXTINF:-1,PT:SPORTING TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7697.m3u8
+#EXTINF:-1,PT:TLC
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7698.m3u8
+#EXTINF:-1,PT:TVI REALITY
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7700.m3u8
+#EXTINF:-1,PT:VH1
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7662.m3u8
+#EXTINF:-1,CACA E PESCA
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7681.m3u8
+#EXTINF:-1,Canal Panda
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7669.m3u8
+#EXTINF:-1,CARTOON  NETWORK
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7711.m3u8
+#EXTINF:-1,Cine Mundo
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7726.m3u8
+#EXTINF:-1,Disney JR
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7708.m3u8
+#EXTINF:-1,ENTERTAINMENT
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7680.m3u8
+#EXTINF:-1,Euronews
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7667.m3u8
+#EXTINF:-1,Historia
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7672.m3u8
+#EXTINF:-1,Kombat Sports
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7685.m3u8
+#EXTINF:-1,LIfestyle TV
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7701.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7661.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7671.m3u8
+#EXTINF:-1,Nickelodeon
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7709.m3u8
+#EXTINF:-1,Porto Canal
+http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/7704.m3u8
