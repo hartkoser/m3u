@@ -1,79 +1,153 @@
 #EXTM3U
-#EXTINF:-1,24-kitchen
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13936.m3u8
-#EXTINF:-1,Babytv
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13975.m3u8
-#EXTINF:-1,Crime & Investigation
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13937.m3u8
-#EXTINF:-1,discovery
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13952.m3u8
-#EXTINF:-1,Drama
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13956.m3u8
-#EXTINF:-1,Eurosport1
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13941.m3u8
-#EXTINF:-1,Film1family
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13960.m3u8
-#EXTINF:-1,Fox
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13961.m3u8
-#EXTINF:-1,FoxSport-HD1
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13949.m3u8
-#EXTINF:-1,FoxSport-HD2
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13948.m3u8
-#EXTINF:-1,FoxSport-HD3
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13947.m3u8
-#EXTINF:-1,FoxSport-HD4
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13946.m3u8
-#EXTINF:-1,FoxSport-HD5
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13945.m3u8
-#EXTINF:-1,FoxSport-HD6
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13953.m3u8
-#EXTINF:-1,Golf
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13940.m3u8
-#EXTINF:-1,Hbo1
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13966.m3u8
-#EXTINF:-1,Hbo2
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13965.m3u8
-#EXTINF:-1,Hbo3
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13964.m3u8
-#EXTINF:-1,mtv
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13958.m3u8
-#EXTINF:-1,nat.geo.
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13951.m3u8
-#EXTINF:-1,Net5
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13971.m3u8
-#EXTINF:-1,NickToons
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13962.m3u8
-#EXTINF:-1,Npo1
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13976.m3u8
-#EXTINF:-1,ons-tv
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13974.m3u8
-#EXTINF:-1,Premiere
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13963.m3u8
-#EXTINF:-1,Rtl-Z
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13939.m3u8
-#EXTINF:-1,Rtl4
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13973.m3u8
-#EXTINF:-1,Rtl5
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13972.m3u8
-#EXTINF:-1,Rtl7
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13969.m3u8
-#EXTINF:-1,Rtl8
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13968.m3u8
+#EXTINF:-1,Fox tv
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/1100
+#EXTINF:-1,Veronica / Disney XD
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/192
+#EXTINF:-1,Sport 1 Voetbal
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/605
+#EXTINF:-1,Ziggo Sport Select 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/519
+#EXTINF:-1,Ziggo Sport Extra 1
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/10552
+#EXTINF:-1,Ziggo Sport Extra 2
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/10553
+#EXTINF:-1,SBS 6 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/591
+#EXTINF:-1,SBS 9 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/585
+#EXTINF:-1,RTL 4 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/179
+#EXTINF:-1,RTL 5 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/193
+#EXTINF:-1,RTL 7 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/332
+#EXTINF:-1,RTL 8
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/333
+#EXTINF:-1,NPO 1 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/588
+#EXTINF:-1,NPO 2 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/589
+#EXTINF:-1,NPO 3 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/590
+#EXTINF:-1,NET 5
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/587
+#EXTINF:-1,Fox Sports 1 4K+
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/312
+#EXTINF:-1,Fox Sports 1 (backup)
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/1098
+#EXTINF:-1,Fox Sports 2
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/311
+#EXTINF:-1,Fox Sports 3
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/310
+#EXTINF:-1,Fox Sports 4
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/346
+#EXTINF:-1,Fox Sports 5
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/308
+#EXTINF:-1,Film1 Premiere HD
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/334
+#EXTINF:-1,Boomerang
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/1545
+#EXTINF:-1,Film 1 Action
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/345
+#EXTINF:-1, DISCOVERY ID
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/2740
+#EXTINF:-1, MTV
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/4022
+#EXTINF:-1,24 Kitchen
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/3163
+#EXTINF:-1,DISCOVERY
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/3167
+#EXTINF:-1,ViceLand
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/2755
+#EXTINF:-1,Film1 Premiere HD 1080P
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/4066
+#EXTINF:-1,NICK TOONS
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/2747
+#EXTINF:-1,RTL Lounge
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/3164
+#EXTINF:-1,RTL Z
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/3165
+#EXTINF:-1,Sport 1 Golf
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/2745
+#EXTINF:-1,Sport 1 Racing
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/3166
+#EXTINF:-1,TLC HD
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/2748
+#EXTINF:-1,FILM DRAMA
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/4871
+#EXTINF:-1,FOX SPORTS 6
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/4873
+#EXTINF:-1,National Geographic HD
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/4980
+#EXTINF:-1,Nickelodeon
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5157
+#EXTINF:-1,Nick JR
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/9979
+#EXTINF:-1,Spike
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/11053
+#EXTINF:-1,Baby TV
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/7783
+#EXTINF:-1,Comedy Central
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5590
+#EXTINF:-1,Comedy Central Extra
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5585
+#EXTINF:-1,Den Haag TV
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/7697
+#EXTINF:-1,Disney Channel
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/7781
+#EXTINF:-1,Disney JR
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/7780
+#EXTINF:-1,DTV Oss
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5667
+#EXTINF:-1,Eurosport 1
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/6138
+#EXTINF:-1,JimJam
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/7782
+#EXTINF:-1,MerweTV
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5664
+#EXTINF:-1,Nat Geo Wild
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/7779
+#EXTINF:-1,NPO Politiek
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5428
+#EXTINF:-1,Omroep Brabant
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5653
+#EXTINF:-1,Omroep West
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/7696
+#EXTINF:-1,Omroep Zeeland
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5652
+#EXTINF:-1,Omrop Fryslân TV
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5666
+#EXTINF:-1,RTL Crime
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/7698
+#EXTINF:-1,RTV Dordrecht
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5662
 #EXTINF:-1,Rtv Drenthe
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13957.m3u8
-#EXTINF:-1,Sbs6
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13970.m3u8
-#EXTINF:-1,Sbs9
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13967.m3u8
-#EXTINF:-1,sportracing
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13942.m3u8
-#EXTINF:-1,SportSelect1
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13943.m3u8
-#EXTINF:-1,Tlc
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13954.m3u8
-#EXTINF:-1,Veronica-Disney
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13955.m3u8
-#EXTINF:-1,Voetbal
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13944.m3u8
-#EXTINF:-1,zappelin-exra
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/13938.m3u8
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5650
+#EXTINF:-1,RTV Slingeland
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5660
+#EXTINF:-1,RTV Totaal
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5659
+#EXTINF:-1,Salto 1
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5648
+#EXTINF:-1,Salto 2
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5649
+#EXTINF:-1,Wos Tv
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/5654
+#EXTINF:-1,%100 [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8341
+#EXTINF:-1,538 [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8340
+#EXTINF:-1,NPO 1 [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8335
+#EXTINF:-1,NPO 2 [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8336
+#EXTINF:-1,NPO 3 [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8337
+#EXTINF:-1,NPO 4 [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8338
+#EXTINF:-1,Sky 101 FM [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8342
+#EXTINF:-1,Slam FM [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8343
+#EXTINF:-1,Veronica [radio]
+http://suleyman.restream.nl:8000/SuLeYmanReStrEaM/i3PqfIreL3/8339
