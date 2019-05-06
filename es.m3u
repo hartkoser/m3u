@@ -1,219 +1,223 @@
 #EXTM3U
-#EXTINF:-1,LA 1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23174.m3u8
-#EXTINF:-1,LA1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23173.m3u8
-#EXTINF:-1,CLAN TVE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23172.m3u8
-#EXTINF:-1,LA2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23171.m3u8
-#EXTINF:-1,ANTENA 3HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23170.m3u8
-#EXTINF:-1,ANTENA3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23169.m3u8
+#EXTINF:-1,ANTENA 3 FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5434.m3u8
+#EXTINF:-1,BEIN SPORTS ESPANAA FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5417.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5426.m3u8
+#EXTINF:-1,CUATRO FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5433.m3u8
+#EXTINF:-1,HOLLYWOOD FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5424.m3u8
+#EXTINF:-1,LA 1 FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5435.m3u8
+#EXTINF:-1,MOVISTAR DCINE FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5429.m3u8
+#EXTINF:-1,MOVISTAR XTRA FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5428.m3u8
+#EXTINF:-1,SYFY FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5423.m3u8
+#EXTINF:-1,TELECINCO FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5432.m3u8
+#EXTINF:-1,TNT FHD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5422.m3u8
+#EXTINF:-1,LA UNA 1 HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3182.m3u8
+#EXTINF:-1,LA DOS 2 HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3183.m3u8
+#EXTINF:-1,TV3 CATALONIA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3589.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3184.m3u8
 #EXTINF:-1,CUATRO HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23168.m3u8
-#EXTINF:-1,CUATRO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23167.m3u8
-#EXTINF:-1,TELECINCO HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23166.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3277.m3u8
 #EXTINF:-1,TELECINCO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23165.m3u8
-#EXTINF:-1,LA SEXTA FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23164.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3141.m3u8
 #EXTINF:-1,LA SEXTA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23163.m3u8
-#EXTINF:-1,LA SEXTA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23162.m3u8
-#EXTINF:-1,TV GALICIA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23161.m3u8
-#EXTINF:-1,CANAL ANDALUCIA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23160.m3u8
-#EXTINF:-1,TV3 CATALUNYA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23159.m3u8
-#EXTINF:-1,CANAL 24 HORAS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23157.m3u8
-#EXTINF:-1,FOXNEWS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23156.m3u8
-#EXTINF:-1,M DEPORTES 1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14065.m3u8
-#EXTINF:-1,M DEPORTES 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14066.m3u8
-#EXTINF:-1,M DEPORTES 2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14064.m3u8
-#EXTINF:-1,M DEPORTES 2 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14062.m3u8
-#EXTINF:-1,TOROS TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23154.m3u8
-#EXTINF:-1,M GOL TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14082.m3u8
-#EXTINF:-1,M FÚTBOL FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14081.m3u8
-#EXTINF:-1,M FÚTBOL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14080.m3u8
-#EXTINF:-1,M TELEDEPORTE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14061.m3u8
-#EXTINF:-1,M beINSPORT HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14076.m3u8
-#EXTINF:-1,M beINSPORTS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14077.m3u8
-#EXTINF:-1,M beIN LALIGA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14075.m3u8
-#EXTINF:-1,M beIN LALIGA FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14073.m3u8
-#EXTINF:-1,M LALIGA TV BAR
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14072.m3u8
-#EXTINF:-1,M LALIGA TV Bar HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14071.m3u8
-#EXTINF:-1,M REAL MADRID TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14084.m3u8
-#EXTINF:-1,M BARCA TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14085.m3u8
-#EXTINF:-1,M EUROSPORT 1 FULLHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14060.m3u8
-#EXTINF:-1,M EUROSPORT 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14059.m3u8
-#EXTINF:-1,M PARTIDAZO HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14068.m3u8
-#EXTINF:-1,M PARTIDAZO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14069.m3u8
-#EXTINF:-1,M FORMULA 1 FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14053.m3u8
-#EXTINF:-1,M FORMULA 1 HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14052.m3u8
-#EXTINF:-1,M MOTOGP HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14050.m3u8
-#EXTINF:-1,M GOLF HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/14057.m3u8
-#EXTINF:-1,M ESTRENOS FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23152.m3u8
-#EXTINF:-1,M ESTRENOS
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23151.m3u8
-#EXTINF:-1,M XTRA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23150.m3u8
-#EXTINF:-1,M ACCION FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23149.m3u8
-#EXTINF:-1,M ACCION
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23148.m3u8
-#EXTINF:-1,M COMEDIA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23147.m3u8
-#EXTINF:-1,M Comedia
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23146.m3u8
-#EXTINF:-1,M DCINE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23145.m3u8
-#EXTINF:-1,LIFE TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23144.m3u8
-#EXTINF:-1,M DCINE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23143.m3u8
-#EXTINF:-1,M DCINE ESPANOL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23142.m3u8
-#EXTINF:-1,M HOLLYWOOD HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23141.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3185.m3u8
 #EXTINF:-1,TCM
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23140.m3u8
-#EXTINF:-1,M TNT FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23139.m3u8
-#EXTINF:-1,M #0
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23137.m3u8
-#EXTINF:-1,M SERIES
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23136.m3u8
-#EXTINF:-1,M SERIES XTRA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23135.m3u8
-#EXTINF:-1,M COMEDY CENTRAL FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23134.m3u8
-#EXTINF:-1,COMEDYCENTRAL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23133.m3u8
-#EXTINF:-1,FDF
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23132.m3u8
-#EXTINF:-1,A3SERIES
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23131.m3u8
-#EXTINF:-1,FOX
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23130.m3u8
-#EXTINF:-1,FOX LIFE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23129.m3u8
-#EXTINF:-1,M AMC FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23128.m3u8
-#EXTINF:-1,M AMC
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23127.m3u8
-#EXTINF:-1,M AXN FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23126.m3u8
-#EXTINF:-1,M AXN
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23125.m3u8
-#EXTINF:-1,M AXN WHITE FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23124.m3u8
-#EXTINF:-1,M SYFY FHD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23123.m3u8
-#EXTINF:-1,M CALLE13
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23122.m3u8
-#EXTINF:-1,M ENERGY
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23121.m3u8
-#EXTINF:-1,M COSMO
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23120.m3u8
-#EXTINF:-1,MEGA TV HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23119.m3u8
-#EXTINF:-1,M DECASA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23118.m3u8
-#EXTINF:-1,M NON STOP PEOPLE
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23117.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3253.m3u8
+#EXTINF:-1,TVE 24H
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3242.m3u8
+#EXTINF:-1,CANAL ORBE21
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3187.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3976.m3u8
+#EXTINF:-1,ANDALUCIA TV
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3974.m3u8
+#EXTINF:-1,TV GALICIA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3139.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4040.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3198.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3152.m3u8
+#EXTINF:-1,MOVISTAR DCINE HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3151.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3190.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3268.m3u8
+#EXTINF:-1,MOVISTAR XTRA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3153.m3u8
+#EXTINF:-1,TNT HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3140.m3u8
+#EXTINF:-1,ENERGY
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3972.m3u8
+#EXTINF:-1,NOVA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3975.m3u8
+#EXTINF:-1,NEOX TV
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3927.m3u8
+#EXTINF:-1,AMC
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3679.m3u8
+#EXTINF:-1,FOX HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3194.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3195.m3u8
+#EXTINF:-1,MOVISTAR SERIES HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3149.m3u8
+#EXTINF:-1,MOVISTAR SERIES EXTRA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3148.m3u8
+#EXTINF:-1,AXN HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3259.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3260.m3u8
+#EXTINF:-1,SYFY HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3267.m3u8
+#EXTINF:-1,CALLE 13
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3197.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3196.m3u8
+#EXTINF:-1,COSMO
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3236.m3u8
+#EXTINF:-1,CANAL+ COCINA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3186.m3u8
+#EXTINF:-1,CANAL+ TOROS
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3189.m3u8
+#EXTINF:-1,CANAL  GOL
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3928.m3u8
+#EXTINF:-1,LIGA 123
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4044.m3u8
+#EXTINF:-1,CANAL LIGA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3191.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES 1
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3155.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES 2
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3154.m3u8
+#EXTINF:-1,CANAL GOL
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3192.m3u8
+#EXTINF:-1,BEIN-SPORT SPAIN
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3258.m3u8
+#EXTINF:-1,BEIN LA LIGA HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3636.m3u8
+#EXTINF:-1,BEIN LIGA 2
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3637.m3u8
+#EXTINF:-1,BEIN LIGA 3
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3638.m3u8
+#EXTINF:-1,LA LIGATV BAR HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3635.m3u8
+#EXTINF:-1,REAL MADRID  TV
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3143.m3u8
+#EXTINF:-1,BARCA TV
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3255.m3u8
+#EXTINF:-1,MOVISTAR GOLF
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3639.m3u8
+#EXTINF:-1,MOVISTAR F1
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3147.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3150.m3u8
+#EXTINF:-1,MOVISTAR MOTO GP
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3146.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3222.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3221.m3u8
+#EXTINF:-1,FOX SPORT
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3624.m3u8
+#EXTINF:-1,FOX SPORT 2
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3625.m3u8
+#EXTINF:-1,ESPN
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3622.m3u8
+#EXTINF:-1,ESPN 2
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3623.m3u8
+#EXTINF:-1,CANAL 26 HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3585.m3u8
+#EXTINF:-1,VIAJAR
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3641.m3u8
+#EXTINF:-1,SUNDANCE
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4042.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3145.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3144.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3214.m3u8
+#EXTINF:-1,DISCOVERY MAX
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4038.m3u8
 #EXTINF:-1,ODISEA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23115.m3u8
-#EXTINF:-1,NATGEOGRAPHIC HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23114.m3u8
-#EXTINF:-1,NATGEOWILD HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23113.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23112.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23110.m3u8
-#EXTINF:-1,HISTORIA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23109.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3265.m3u8
+#EXTINF:-1,CANAL DECASA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3193.m3u8
 #EXTINF:-1,A&E
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23108.m3u8
-#EXTINF:-1,CAZA Y PESCA HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23107.m3u8
-#EXTINF:-1,IBERALIA TV
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23106.m3u8
-#EXTINF:-1,VIAJAR HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23105.m3u8
-#EXTINF:-1,CANAL COCINA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23104.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23102.m3u8
-#EXTINF:-1,NICKELODEON ESP HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23101.m3u8
-#EXTINF:-1,NICK JR
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23100.m3u8
-#EXTINF:-1,DISNEY ESP XD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23099.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23098.m3u8
-#EXTINF:-1,DISNEY JR
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23097.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23096.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3239.m3u8
+#EXTINF:-1,CAZA Y PESCA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3215.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3212.m3u8
+#EXTINF:-1,MEGA HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3587.m3u8
+#EXTINF:-1,HISTORIA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3929.m3u8
+#EXTINF:-1,TRECE HD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3588.m3u8
+#EXTINF:-1,======== NINOS ========
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3640.m3u8
+#EXTINF:-1,BABY TV
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4330.m3u8
+#EXTINF:-1,TVE CLAN
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3243.m3u8
+#EXTINF:-1,CLAN TVE
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3973.m3u8
 #EXTINF:-1,CANAL PANDA
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23095.m3u8
-#EXTINF:-1,BOING ESP
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23094.m3u8
-#EXTINF:-1,BABY ESP
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23093.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3188.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3247.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3966.m3u8
+#EXTINF:-1,DISNEY XD
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3249.m3u8
+#EXTINF:-1,NICKELODEON
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3931.m3u8
+#EXTINF:-1,NICK JUNIOR
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3933.m3u8
+#EXTINF:-1,PANDA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4043.m3u8
+#EXTINF:-1,BOING
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3246.m3u8
+#EXTINF:-1,MTV ESPANA
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3642.m3u8
+#EXTINF:-1,DIVINITY
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4039.m3u8
+#EXTINF:-1,NON STOP POEPLE
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3926.m3u8
 #EXTINF:-1,TAQUILLA 1
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23091.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3643.m3u8
 #EXTINF:-1,TAQUILLA 2
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23090.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3644.m3u8
 #EXTINF:-1,TAQUILLA 3
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23089.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3645.m3u8
 #EXTINF:-1,TAQUILLA 4
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23088.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3646.m3u8
 #EXTINF:-1,TAQUILLA 5
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23087.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3132.m3u8
 #EXTINF:-1,TAQUILLA 6
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23086.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3647.m3u8
 #EXTINF:-1,TAQUILLA 7
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23085.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3134.m3u8
 #EXTINF:-1,TAQUILLA 8
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23084.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3135.m3u8
 #EXTINF:-1,TAQUILLA 9
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23083.m3u8
-#EXTINF:-1,TAQUILLA 10
-http://185.23.213.162:8789/live/sourcepanel3/tK2KqmSBQO/23082.m3u8
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3136.m3u8
+#EXTINF:-1,TAQUILLA10
+http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3801.m3u8
