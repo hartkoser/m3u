@@ -1,381 +1,199 @@
 #EXTM3U
-#EXTINF:-1,TVP HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17381.m3u8
-#EXTINF:-1,TVP 1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17378.m3u8
-#EXTINF:-1,TVP 1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17380.m3u8
-#EXTINF:-1,TVP Sport HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17246.m3u8
-#EXTINF:-1,TVP 2
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17377.m3u8
-#EXTINF:-1,TVP 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17379.m3u8
-#EXTINF:-1,TVP 3
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17376.m3u8
-#EXTINF:-1,TV4
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17374.m3u8
-#EXTINF:-1,TV6
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17338.m3u8
-#EXTINF:-1,TVN
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17372.m3u8
-#EXTINF:-1,TVN 7
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17370.m3u8
-#EXTINF:-1,TVN 7 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17371.m3u8
-#EXTINF:-1,TVN Fabula HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17364.m3u8
-#EXTINF:-1,TVN HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17373.m3u8
-#EXTINF:-1,TVN Style
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17366.m3u8
-#EXTINF:-1,TVN Style HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17368.m3u8
-#EXTINF:-1,TVN Turbo HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17363.m3u8
-#EXTINF:-1,TVN24
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17367.m3u8
-#EXTINF:-1,TVN24 BIS
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17365.m3u8
-#EXTINF:-1,TVN24 BiS HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17362.m3u8
-#EXTINF:-1,TVN24 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17369.m3u8
-#EXTINF:-1,TVP ABC
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17355.m3u8
-#EXTINF:-1,TLC
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17337.m3u8
-#EXTINF:-1,TLC HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17344.m3u8
-#EXTINF:-1,TNT HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17343.m3u8
-#EXTINF:-1,TO!TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17336.m3u8
-#EXTINF:-1,TRACE TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17225.m3u8
-#EXTINF:-1,Travel Channel HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17196.m3u8
-#EXTINF:-1,TTV HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17335.m3u8
-#EXTINF:-1,TV Republika
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17341.m3u8
-#EXTINF:-1,TV Trwam
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17345.m3u8
-#EXTINF:-1,TVP Historia
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17339.m3u8
-#EXTINF:-1,TVP INFO HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17375.m3u8
-#EXTINF:-1,TVP Kultura
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17354.m3u8
-#EXTINF:-1,TVP Rozrywka
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17353.m3u8
-#EXTINF:-1,TVP Seriale
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17334.m3u8
-#EXTINF:-1,TVS
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17346.m3u8
-#EXTINF:-1,Canal  HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17321.m3u8
-#EXTINF:-1,CANAL  1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17192.m3u8
-#EXTINF:-1,CANAL   FILM HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17324.m3u8
-#EXTINF:-1,CANAL   SERIALE HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17323.m3u8
-#EXTINF:-1,CANAL   FAMILY HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17325.m3u8
-#EXTINF:-1,CANAL  SPORT 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17322.m3u8
-#EXTINF:-1,CANAL  SPORT HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17286.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17219.m3u8
-#EXTINF:-1,Cinemax HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17318.m3u8
-#EXTINF:-1,Filmbox Arthouse
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17305.m3u8
-#EXTINF:-1,FILMBOX EXTRA HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17277.m3u8
-#EXTINF:-1,Filmbox Family
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17304.m3u8
-#EXTINF:-1,Filmbox Premium
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17303.m3u8
-#EXTINF:-1,VOD 205
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17292.m3u8
-#EXTINF:-1,VOD 206
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17204.m3u8
-#EXTINF:-1,VOD 207
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17291.m3u8
-#EXTINF:-1,VOD 208
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17290.m3u8
-#EXTINF:-1, Disney Channel HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17333.m3u8
-#EXTINF:-1,13 Ulica HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17287.m3u8
-#EXTINF:-1,4Fun Dance
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17262.m3u8
-#EXTINF:-1,4Fun Gold Hits
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17261.m3u8
-#EXTINF:-1,4Fun.TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17230.m3u8
-#EXTINF:-1,Active Family
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17221.m3u8
-#EXTINF:-1,ADVENTURE HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17332.m3u8
-#EXTINF:-1,Ale Kino   HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17331.m3u8
-#EXTINF:-1,AMC
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17349.m3u8
-#EXTINF:-1,Animal Planet HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17330.m3u8
-#EXTINF:-1,ATM Rozrywka
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17342.m3u8
-#EXTINF:-1,AXN
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17329.m3u8
-#EXTINF:-1,AXN Black
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17328.m3u8
-#EXTINF:-1,AXN HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17220.m3u8
-#EXTINF:-1,AXN SPIN HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17327.m3u8
-#EXTINF:-1,AXN White
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17326.m3u8
-#EXTINF:-1,Baby Tv
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17201.m3u8
-#EXTINF:-1,BBC BRIT
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17199.m3u8
-#EXTINF:-1,BBC CBeebies
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17206.m3u8
-#EXTINF:-1,BBC Earth HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17260.m3u8
-#EXTINF:-1,BBC HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17259.m3u8
-#EXTINF:-1,BBC LIFESTYLE HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17198.m3u8
-#EXTINF:-1,Boomerang
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17258.m3u8
-#EXTINF:-1,CANAL  DISCOVERY HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17241.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17285.m3u8
-#EXTINF:-1,CBS Action
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17320.m3u8
-#EXTINF:-1,CBS Europa HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17284.m3u8
-#EXTINF:-1,CBS Reality
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17319.m3u8
-#EXTINF:-1,Comedy Central
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17257.m3u8
-#EXTINF:-1,Comedy Central Family
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17240.m3u8
-#EXTINF:-1,Comedy Central Poland HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17239.m3u8
-#EXTINF:-1,Crime and Investigation hd
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17197.m3u8
-#EXTINF:-1,Da Vinci Learning
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17317.m3u8
-#EXTINF:-1,Disco Polo Music
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17218.m3u8
-#EXTINF:-1,Discovery
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17217.m3u8
-#EXTINF:-1,Discovery Channel
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17316.m3u8
-#EXTINF:-1,Discovery HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17232.m3u8
-#EXTINF:-1,Discovery Historia
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17315.m3u8
-#EXTINF:-1,Discovery Life HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17314.m3u8
-#EXTINF:-1,Discovery Science HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17313.m3u8
-#EXTINF:-1,Disney Channel HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17256.m3u8
-#EXTINF:-1,Disney Junior
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17283.m3u8
-#EXTINF:-1,Disney XD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17312.m3u8
-#EXTINF:-1,DOMO  HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17205.m3u8
-#EXTINF:-1,DTX
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17229.m3u8
-#EXTINF:-1,E! Entertainment
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17282.m3u8
-#EXTINF:-1,Eleven Sports 1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17309.m3u8
-#EXTINF:-1,Eleven Sports 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17310.m3u8
-#EXTINF:-1,Eleven Sports 3 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17311.m3u8
-#EXTINF:-1,Eleven Sports 4 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17208.m3u8
-#EXTINF:-1,Epic Drama HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17193.m3u8
-#EXTINF:-1,Eska TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17255.m3u8
-#EXTINF:-1,ESKA TV Extra
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17216.m3u8
-#EXTINF:-1,Eurosport 1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17308.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17281.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17280.m3u8
-#EXTINF:-1,Extreme Sports HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17279.m3u8
-#EXTINF:-1,Fightbox HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17278.m3u8
-#EXTINF:-1,Filmbox Action
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17306.m3u8
-#EXTINF:-1,FOKUS TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17340.m3u8
-#EXTINF:-1,Food Network HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17215.m3u8
-#EXTINF:-1,Fox Comedy
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17214.m3u8
-#EXTINF:-1,Fox Comedy HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17276.m3u8
-#EXTINF:-1,FOX HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17275.m3u8
-#EXTINF:-1,Golf Channel HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17274.m3u8
-#EXTINF:-1,H2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17273.m3u8
-#EXTINF:-1,HBO 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17302.m3u8
-#EXTINF:-1,HBO 3 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17301.m3u8
-#EXTINF:-1,HBO HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17272.m3u8
-#EXTINF:-1,HGTV HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17300.m3u8
-#EXTINF:-1,HIP HOP TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17254.m3u8
-#EXTINF:-1,History
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17299.m3u8
-#EXTINF:-1,History HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17253.m3u8
-#EXTINF:-1,ID HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17228.m3u8
-#EXTINF:-1,KINO POLSKA
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17271.m3u8
-#EXTINF:-1,Kino Polska Muzyka
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17227.m3u8
-#EXTINF:-1,Kino Tv
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17307.m3u8
-#EXTINF:-1,Kuchnia   HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17298.m3u8
-#EXTINF:-1,Lifetime HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17270.m3u8
-#EXTINF:-1,Metro
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17222.m3u8
-#EXTINF:-1,MiniMini  HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17269.m3u8
-#EXTINF:-1,MOTOWIZJA
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17207.m3u8
-#EXTINF:-1,MTV Live HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17238.m3u8
-#EXTINF:-1,MTV POLSKA
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17243.m3u8
-#EXTINF:-1,MTV Polska HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17237.m3u8
-#EXTINF:-1,Nat Geo People HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17288.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17297.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17268.m3u8
-#EXTINF:-1,Nick Jr Polska
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17236.m3u8
-#EXTINF:-1,Nickelodeon
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17235.m3u8
-#EXTINF:-1,NOWA TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17252.m3u8
-#EXTINF:-1,nsport  HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17251.m3u8
-#EXTINF:-1,Nuta TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17250.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17234.m3u8
-#EXTINF:-1,Planete  HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17296.m3u8
-#EXTINF:-1,Polo TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17213.m3u8
-#EXTINF:-1,Polonia
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17361.m3u8
-#EXTINF:-1,Polsat 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17359.m3u8
-#EXTINF:-1,Polsat Cafe HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17358.m3u8
-#EXTINF:-1,Polsat Doku HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17212.m3u8
-#EXTINF:-1,Polsat Film HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17267.m3u8
-#EXTINF:-1,Polsat Games HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17195.m3u8
+#EXTINF:-1,CANAL HD
+http://m-iptv.net:6204/live/Noori31/noori31/10573.m3u8
+#EXTINF:-1,CANAL FAMILY
+http://m-iptv.net:6204/live/Noori31/noori31/10575.m3u8
+#EXTINF:-1,CANAL FILM
+http://m-iptv.net:6204/live/Noori31/noori31/10574.m3u8
+#EXTINF:-1,CANAL SERIALE
+http://m-iptv.net:6204/live/Noori31/noori31/10572.m3u8
+#EXTINF:-1,Polsat
+http://m-iptv.net:6204/live/Noori31/noori31/10519.m3u8
+#EXTINF:-1,Polsat 2
+http://m-iptv.net:6204/live/Noori31/noori31/10518.m3u8
+#EXTINF:-1,Polsat Cafe
+http://m-iptv.net:6204/live/Noori31/noori31/10517.m3u8
+#EXTINF:-1,Polsat Film
+http://m-iptv.net:6204/live/Noori31/noori31/10516.m3u8
 #EXTINF:-1,Polsat HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17360.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/10515.m3u8
 #EXTINF:-1,Polsat Jim Jam
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17249.m3u8
-#EXTINF:-1,Polsat Music HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17248.m3u8
-#EXTINF:-1,Polsat News 2
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17351.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/10514.m3u8
 #EXTINF:-1,Polsat News HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17357.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/10513.m3u8
+#EXTINF:-1,Polsat Play
+http://m-iptv.net:6204/live/Noori31/noori31/10512.m3u8
 #EXTINF:-1,Polsat Play HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17356.m3u8
-#EXTINF:-1,Polsat Rodzina
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17194.m3u8
-#EXTINF:-1,Polsat Romans
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17350.m3u8
-#EXTINF:-1,Polsat Sport Extra HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17211.m3u8
-#EXTINF:-1,Polsat Sport Fight HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17266.m3u8
-#EXTINF:-1,Polsat Sport HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17242.m3u8
-#EXTINF:-1,Polsat Sport News HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17265.m3u8
-#EXTINF:-1,Polsat Sport Premium 1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17203.m3u8
-#EXTINF:-1,Polsat Sport Premium 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17202.m3u8
-#EXTINF:-1,Polsat Viasat Explore HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17295.m3u8
-#EXTINF:-1,Polsat Viasat History HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17210.m3u8
-#EXTINF:-1,Polsat Viasat Nature
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17209.m3u8
-#EXTINF:-1,Power TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17247.m3u8
-#EXTINF:-1,PPV KSW FIGHTS
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17200.m3u8
-#EXTINF:-1,Puls 2
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17347.m3u8
-#EXTINF:-1,PULS HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17348.m3u8
-#EXTINF:-1,Romance TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17231.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/10511.m3u8
+#EXTINF:-1,TVN
+http://m-iptv.net:6204/live/Noori31/noori31/10495.m3u8
+#EXTINF:-1,TVP1
+http://m-iptv.net:6204/live/Noori31/noori31/10485.m3u8
+#EXTINF:-1,TVP2 HD
+http://m-iptv.net:6204/live/Noori31/noori31/10484.m3u8
+#EXTINF:-1,TVP3
+http://m-iptv.net:6204/live/Noori31/noori31/10483.m3u8
+#EXTINF:-1,TV4
+http://m-iptv.net:6204/live/Noori31/noori31/10498.m3u8
+#EXTINF:-1,TV4 HD
+http://m-iptv.net:6204/live/Noori31/noori31/10497.m3u8
+#EXTINF:-1,TV6 Polska
+http://m-iptv.net:6204/live/Noori31/noori31/10496.m3u8
+#EXTINF:-1,TV Puls HD
+http://m-iptv.net:6204/live/Noori31/noori31/10499.m3u8
+#EXTINF:-1,TVN 24
+http://m-iptv.net:6204/live/Noori31/noori31/10494.m3u8
+#EXTINF:-1,TVS
+http://m-iptv.net:6204/live/Noori31/noori31/10482.m3u8
+#EXTINF:-1,TVN Fabula
+http://m-iptv.net:6204/live/Noori31/noori31/10493.m3u8
+#EXTINF:-1,TVN Style
+http://m-iptv.net:6204/live/Noori31/noori31/10492.m3u8
+#EXTINF:-1,TVN Style HD
+http://m-iptv.net:6204/live/Noori31/noori31/10491.m3u8
+#EXTINF:-1,TVN Turbo
+http://m-iptv.net:6204/live/Noori31/noori31/10490.m3u8
+#EXTINF:-1,TVP ABC
+http://m-iptv.net:6204/live/Noori31/noori31/10489.m3u8
+#EXTINF:-1,TVP Historia
+http://m-iptv.net:6204/live/Noori31/noori31/10488.m3u8
+#EXTINF:-1,TVP Kultura
+http://m-iptv.net:6204/live/Noori31/noori31/10487.m3u8
+#EXTINF:-1,TVP SERIALE
+http://m-iptv.net:6204/live/Noori31/noori31/10486.m3u8
+#EXTINF:-1,HBO HD
+http://m-iptv.net:6204/live/Noori31/noori31/10536.m3u8
+#EXTINF:-1,HBO 2 HD
+http://m-iptv.net:6204/live/Noori31/noori31/10537.m3u8
+#EXTINF:-1,AXN Black
+http://m-iptv.net:6204/live/Noori31/noori31/10578.m3u8
+#EXTINF:-1,AXN White Poland
+http://m-iptv.net:6204/live/Noori31/noori31/10577.m3u8
+#EXTINF:-1,Filmbox
+http://m-iptv.net:6204/live/Noori31/noori31/10550.m3u8
+#EXTINF:-1,Filmbox Action
+http://m-iptv.net:6204/live/Noori31/noori31/10549.m3u8
+#EXTINF:-1,FilmBox Extra
+http://m-iptv.net:6204/live/Noori31/noori31/10548.m3u8
+#EXTINF:-1,FILMBOX EXTRA HD
+http://m-iptv.net:6204/live/Noori31/noori31/10547.m3u8
+#EXTINF:-1,Filmbox Family
+http://m-iptv.net:6204/live/Noori31/noori31/10546.m3u8
+#EXTINF:-1,Filmbox Premium
+http://m-iptv.net:6204/live/Noori31/noori31/10545.m3u8
+#EXTINF:-1,FilmBox Premium HD
+http://m-iptv.net:6204/live/Noori31/noori31/10544.m3u8
+#EXTINF:-1,Fightbox HD
+http://m-iptv.net:6204/live/Noori31/noori31/10551.m3u8
+#EXTINF:-1,Ale Kino HD
+http://m-iptv.net:6204/live/Noori31/noori31/10580.m3u8
+#EXTINF:-1,CBS Reality
+http://m-iptv.net:6204/live/Noori31/noori31/10569.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://m-iptv.net:6204/live/Noori31/noori31/10568.m3u8
+#EXTINF:-1,ESKA TV
+http://m-iptv.net:6204/live/Noori31/noori31/10557.m3u8
+#EXTINF:-1,ESKA TV Extra
+http://m-iptv.net:6204/live/Noori31/noori31/10556.m3u8
+#EXTINF:-1,Disco Polo Music
+http://m-iptv.net:6204/live/Noori31/noori31/10567.m3u8
+#EXTINF:-1,Boomerang
+http://m-iptv.net:6204/live/Noori31/noori31/10576.m3u8
+#EXTINF:-1,Disney Channel HD
+http://m-iptv.net:6204/live/Noori31/noori31/10562.m3u8
+#EXTINF:-1,Disney XD
+http://m-iptv.net:6204/live/Noori31/noori31/10561.m3u8
+#EXTINF:-1,E! Entertainment
+http://m-iptv.net:6204/live/Noori31/noori31/10560.m3u8
+#EXTINF:-1,FOKUS TV
+http://m-iptv.net:6204/live/Noori31/noori31/10543.m3u8
+#EXTINF:-1,Food Network HD
+http://m-iptv.net:6204/live/Noori31/noori31/10542.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://m-iptv.net:6204/live/Noori31/noori31/10541.m3u8
+#EXTINF:-1,Golf Channel
+http://m-iptv.net:6204/live/Noori31/noori31/10539.m3u8
+#EXTINF:-1,Hip Hop TV
+http://m-iptv.net:6204/live/Noori31/noori31/10535.m3u8
+#EXTINF:-1,History HD
+http://m-iptv.net:6204/live/Noori31/noori31/10534.m3u8
+#EXTINF:-1,Investigation Discovery Polska
+http://m-iptv.net:6204/live/Noori31/noori31/10533.m3u8
+#EXTINF:-1,KINO POLSKA
+http://m-iptv.net:6204/live/Noori31/noori31/10532.m3u8
+#EXTINF:-1,KUCHNIA HD
+http://m-iptv.net:6204/live/Noori31/noori31/10531.m3u8
+#EXTINF:-1,Lifetime HD
+http://m-iptv.net:6204/live/Noori31/noori31/10530.m3u8
+#EXTINF:-1,MiniMini  HD
+http://m-iptv.net:6204/live/Noori31/noori31/10529.m3u8
+#EXTINF:-1,MTV Live HD
+http://m-iptv.net:6204/live/Noori31/noori31/10528.m3u8
+#EXTINF:-1,MTV POLSKA
+http://m-iptv.net:6204/live/Noori31/noori31/10527.m3u8
+#EXTINF:-1,MTV Polska HD
+http://m-iptv.net:6204/live/Noori31/noori31/10526.m3u8
+#EXTINF:-1,POWER TV
+http://m-iptv.net:6204/live/Noori31/noori31/10506.m3u8
 #EXTINF:-1,SciFi Universal
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17264.m3u8
-#EXTINF:-1,Sportklub HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17223.m3u8
-#EXTINF:-1,STARS.TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17224.m3u8
-#EXTINF:-1,Stopklatka TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17294.m3u8
-#EXTINF:-1,Sundance Tv
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17263.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/10505.m3u8
+#EXTINF:-1,Sundance HD
+http://m-iptv.net:6204/live/Noori31/noori31/10504.m3u8
 #EXTINF:-1,Super Polsat
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17352.m3u8
-#EXTINF:-1,TeleToon  HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17293.m3u8
-#EXTINF:-1,VH1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17233.m3u8
-#EXTINF:-1,VOX MUSIC TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17289.m3u8
-#EXTINF:-1,Wellbeing
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17226.m3u8
-#EXTINF:-1,WP
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17245.m3u8
-#EXTINF:-1,Zoom TV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/17244.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/10503.m3u8
+#EXTINF:-1,TLC
+http://m-iptv.net:6204/live/Noori31/noori31/10502.m3u8
+#EXTINF:-1,TLC HD
+http://m-iptv.net:6204/live/Noori31/noori31/10501.m3u8
+#EXTINF:-1,TNT HD
+http://m-iptv.net:6204/live/Noori31/noori31/10500.m3u8
+#EXTINF:-1,VOX Music TV
+http://m-iptv.net:6204/live/Noori31/noori31/10481.m3u8
+#EXTINF:-1,H2 HD
+http://m-iptv.net:6204/live/Noori31/noori31/10538.m3u8
+#EXTINF:-1,NATIONAL GEO
+http://m-iptv.net:6204/live/Noori31/noori31/10523.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://m-iptv.net:6204/live/Noori31/noori31/10522.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://m-iptv.net:6204/live/Noori31/noori31/10524.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://m-iptv.net:6204/live/Noori31/noori31/10525.m3u8
+#EXTINF:-1,National Geographic Polska
+http://m-iptv.net:6204/live/Noori31/noori31/10521.m3u8
+#EXTINF:-1,Discovery Life
+http://m-iptv.net:6204/live/Noori31/noori31/10565.m3u8
+#EXTINF:-1,Discovery Life  Poland HD
+http://m-iptv.net:6204/live/Noori31/noori31/10564.m3u8
+#EXTINF:-1,Discovery HD
+http://m-iptv.net:6204/live/Noori31/noori31/10566.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://m-iptv.net:6204/live/Noori31/noori31/10563.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://m-iptv.net:6204/live/Noori31/noori31/10579.m3u8
+#EXTINF:-1,nSport
+http://m-iptv.net:6204/live/Noori31/noori31/10520.m3u8
+#EXTINF:-1,ELEVEN HD
+http://m-iptv.net:6204/live/Noori31/noori31/10559.m3u8
+#EXTINF:-1,ELEVEN Sport HD
+http://m-iptv.net:6204/live/Noori31/noori31/10558.m3u8
+#EXTINF:-1,CANAL SPORT
+http://m-iptv.net:6204/live/Noori31/noori31/10571.m3u8
+#EXTINF:-1,CANAL SPORT 2
+http://m-iptv.net:6204/live/Noori31/noori31/10570.m3u8
+#EXTINF:-1,Eurosport 1
+http://m-iptv.net:6204/live/Noori31/noori31/10555.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://m-iptv.net:6204/live/Noori31/noori31/10554.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://m-iptv.net:6204/live/Noori31/noori31/10553.m3u8
+#EXTINF:-1,Polsat Sport
+http://m-iptv.net:6204/live/Noori31/noori31/10510.m3u8
+#EXTINF:-1,Polsat Sport HD
+http://m-iptv.net:6204/live/Noori31/noori31/10508.m3u8
+#EXTINF:-1,Polsat Sport Extra HD
+http://m-iptv.net:6204/live/Noori31/noori31/10509.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://m-iptv.net:6204/live/Noori31/noori31/10507.m3u8
+#EXTINF:-1,Extreme Sports HD
+http://m-iptv.net:6204/live/Noori31/noori31/10552.m3u8
