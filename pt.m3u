@@ -1,258 +1,163 @@
 #EXTM3U
-#EXTINF:-1,SPORT TV 1 UHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5335.m3u8
-#EXTINF:-1,SIC FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5338.m3u8
-#EXTINF:-1,RTP 1 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5336.m3u8
-#EXTINF:-1,RTP 2 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5337.m3u8
-#EXTINF:-1,HOLLYWOOD FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/7212.m3u8
-#EXTINF:-1,SIC  RADICAL FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5339.m3u8
-#EXTINF:-1,SPORT TV + FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5340.m3u8
-#EXTINF:-1,SPORT TV 1 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5341.m3u8
-#EXTINF:-1,SPORT TV 3 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5342.m3u8
-#EXTINF:-1,SPORT TV 4 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5343.m3u8
-#EXTINF:-1,SPORT TV 5 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/5344.m3u8
-#EXTINF:-1,BENFICA TV FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4269.m3u8
-#EXTINF:-1,24 KITCHEN FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4268.m3u8
-#EXTINF:-1,SPORT TV 1 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4445.m3u8
-#EXTINF:-1,SPORT TV 2 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4444.m3u8
-#EXTINF:-1,SPORT TV 3 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4443.m3u8
-#EXTINF:-1,SPORT TV 4 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4441.m3u8
-#EXTINF:-1,SPORT TV 5 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4439.m3u8
-#EXTINF:-1,RTP 1  FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4492.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/6510.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/6509.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/6511.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/6513.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/6729.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 FHD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/6512.m3u8
-#EXTINF:-1,RTP 1 HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1727.m3u8
-#EXTINF:-1,RTP 2
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1726.m3u8
-#EXTINF:-1,RTP 3
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1715.m3u8
-#EXTINF:-1,TVI HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4493.m3u8
-#EXTINF:-1,TVI
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1674.m3u8
-#EXTINF:-1,TVI REALITY (Quinta)
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1672.m3u8
-#EXTINF:-1,TVI FICCAO
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2647.m3u8
-#EXTINF:-1,RTP  MADEIRA
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2321.m3u8
-#EXTINF:-1,RTP ACORES
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2649.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1683.m3u8
-#EXTINF:-1,RTP INTERNATIONAL
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1658.m3u8
-#EXTINF:-1,RTP INFORMACAO
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1659.m3u8
-#EXTINF:-1,RTP ACORESS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1685.m3u8
-#EXTINF:-1,RTP AFRICA
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1684.m3u8
-#EXTINF:-1,SIC RADICAL
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1656.m3u8
-#EXTINF:-1,CANAL Q
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1704.m3u8
-#EXTINF:-1,SIC MULHER
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1682.m3u8
-#EXTINF:-1,SIC HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1725.m3u8
-#EXTINF:-1,STV NOTICIAS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2334.m3u8
-#EXTINF:-1,CM TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1700.m3u8
-#EXTINF:-1,TVI 24
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1673.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1657.m3u8
-#EXTINF:-1,E! HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1695.m3u8
-#EXTINF:-1,EURONEWS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2335.m3u8
-#EXTINF:-1,FOX NEWS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2331.m3u8
-#EXTINF:-1,SIC KIDS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2329.m3u8
-#EXTINF:-1,BABY TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1708.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1696.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1697.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2330.m3u8
-#EXTINF:-1,CANAL PANDA
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1705.m3u8
-#EXTINF:-1,NICKELODEON
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1688.m3u8
-#EXTINF:-1,JIM JAM
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1661.m3u8
-#EXTINF:-1,BIGGS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2328.m3u8
-#EXTINF:-1,TV CINE 1  HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1716.m3u8
-#EXTINF:-1,TV CINE 2  HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1717.m3u8
-#EXTINF:-1,TV CINE 3 HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1718.m3u8
-#EXTINF:-1,TV CINE 4
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1719.m3u8
-#EXTINF:-1,CINEMUNDO
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1701.m3u8
-#EXTINF:-1,TV SERIES
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1675.m3u8
+#EXTINF:-1,24Kitchen
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8078.m3u8
+#EXTINF:-1,A&E
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8098.m3u8
+#EXTINF:-1,ABOLA_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8118.m3u8
+#EXTINF:-1,AFRO_MUSIC
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8092.m3u8
 #EXTINF:-1,AMC
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1709.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1662.m3u8
-#EXTINF:-1,FOX TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1663.m3u8
-#EXTINF:-1,FOX MOVIES
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1729.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1694.m3u8
-#EXTINF:-1,FOX LIFE
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1664.m3u8
-#EXTINF:-1,FOX CRIME
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1665.m3u8
-#EXTINF:-1,AXN HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1714.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2140.m3u8
-#EXTINF:-1,AXN WHITE
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1713.m3u8
-#EXTINF:-1,SYFY
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1655.m3u8
-#EXTINF:-1,MOV HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1728.m3u8
-#EXTINF:-1,NBA HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/6730.m3u8
-#EXTINF:-1,SPORT TV+
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2324.m3u8
-#EXTINF:-1,SPORT TV 1 HD 720p
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4437.m3u8
-#EXTINF:-1,SPORT TV 1 SD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/4438.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1721.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1722.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1723.m3u8
-#EXTINF:-1,SPORT TV 4 HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1724.m3u8
-#EXTINF:-1,SPORT TV  5
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2139.m3u8
-#EXTINF:-1,SPORT TV 5
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2295.m3u8
-#EXTINF:-1,BENFICA TV 1
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1670.m3u8
-#EXTINF:-1,BENFICA TV 2
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1669.m3u8
-#EXTINF:-1,SPORTING TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1720.m3u8
-#EXTINF:-1,EUROSPORT
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1667.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1666.m3u8
-#EXTINF:-1,PORTO CANAL
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1660.m3u8
-#EXTINF:-1,PORTO  CANAL
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2772.m3u8
-#EXTINF:-1,TOUROS TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1680.m3u8
-#EXTINF:-1,MOTORS TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1692.m3u8
-#EXTINF:-1,FUEL TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1693.m3u8
-#EXTINF:-1, A BOLA TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1710.m3u8
-#EXTINF:-1,EUROSPORT  NEWS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2325.m3u8
-#EXTINF:-1,MOTORVISION
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2327.m3u8
-#EXTINF:-1,PFC HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1686.m3u8
-#EXTINF:-1,MY CUISINE TV HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/9353.m3u8
-#EXTINF:-1,24 KITCHEN
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1712.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1690.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1689.m3u8
-#EXTINF:-1,ODISSEIA
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1687.m3u8
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1698.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1699.m3u8
-#EXTINF:-1,CBS REALITY
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1703.m3u8
-#EXTINF:-1,CANAL HISTORIA
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1706.m3u8
-#EXTINF:-1,CACA & PESCA
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1707.m3u8
-#EXTINF:-1,CACA VISION
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2323.m3u8
-#EXTINF:-1,CACA E PESCA
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2322.m3u8
-#EXTINF:-1,A & E
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1711.m3u8
-#EXTINF:-1,CANAL  TOROS
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2554.m3u8
-#EXTINF:-1,TLC
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1681.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2773.m3u8
-#EXTINF:-1,TPA INTERN
-#EXTINF:-1,MTV Dance
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2145.m3u8
-#EXTINF:-1,MCM TOP
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2146.m3u8
-#EXTINF:-1,VH1 CLASSIC HD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/3091.m3u8
-#EXTINF:-1,VH1
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2143.m3u8
-#EXTINF:-1,VH1+
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1671.m3u8
-#EXTINF:-1,TRACE URBAN TV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2142.m3u8
-#EXTINF:-1,AFRO MUSIC
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/2141.m3u8
-#EXTINF:-1,TV RECORD
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1676.m3u8
-#EXTINF:-1,TV GLOBO PREMUIM
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1677.m3u8
-#EXTINF:-1,TV GLOBO
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1678.m3u8
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8137.m3u8
+#EXTINF:-1,AXN_BLACK_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8144.m3u8
+#EXTINF:-1,AXN_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8146.m3u8
+#EXTINF:-1,AXN_WHITE_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8145.m3u8
+#EXTINF:-1,bABY_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8082.m3u8
+#EXTINF:-1,Benfica_TV_FullHD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8123.m3u8
+#EXTINF:-1,biggs
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8072.m3u8
+#EXTINF:-1,BTV_1_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8122.m3u8
+#EXTINF:-1,cacavision
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8099.m3u8
+#EXTINF:-1,Caca_&_Pesca
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8100.m3u8
+#EXTINF:-1,Canal_Historia_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8101.m3u8
+#EXTINF:-1,CANAL_PANDA
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8079.m3u8
+#EXTINF:-1,Cartoon_NetWork
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8080.m3u8
+#EXTINF:-1,CBC_REALITY
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8073.m3u8
+#EXTINF:-1,chealse_TV_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8113.m3u8
+#EXTINF:-1,CMTV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8158.m3u8
+#EXTINF:-1,Discovery_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8105.m3u8
+#EXTINF:-1,DISCOVERY_HD_SHOWCASE
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8071.m3u8
+#EXTINF:-1,Disney_Channel
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8085.m3u8
+#EXTINF:-1,Disney_Junior
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8086.m3u8
+#EXTINF:-1,E!_Entertaunment
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8094.m3u8
+#EXTINF:-1,EURONEWS
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8070.m3u8
+#EXTINF:-1,EuroSport1_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8117.m3u8
+#EXTINF:-1,EuroSport2_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8116.m3u8
+#EXTINF:-1,FOX_COMEDY
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8138.m3u8
+#EXTINF:-1,FOX_Crime_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8139.m3u8
+#EXTINF:-1,Fox_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8140.m3u8
+#EXTINF:-1,Fox_Life_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8141.m3u8
+#EXTINF:-1,FOX_Movies
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8142.m3u8
+#EXTINF:-1,FUEL_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8093.m3u8
+#EXTINF:-1,FX
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8143.m3u8
+#EXTINF:-1,HollyWood_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8148.m3u8
+#EXTINF:-1,JIM_JAM
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8081.m3u8
+#EXTINF:-1,MCM_POP
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8090.m3u8
+#EXTINF:-1,Motors_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8106.m3u8
+#EXTINF:-1,MOV_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8147.m3u8
 #EXTINF:-1,MTV
-http://localhd.tv:8081/live/Erwan/vOqdCLLGfm/1691.m3u8
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8091.m3u8
+#EXTINF:-1,Nat_Geographic_Channel
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8104.m3u8
+#EXTINF:-1,Nat_Geo_Wild
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8103.m3u8
+#EXTINF:-1,Nickelodeon
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8083.m3u8
+#EXTINF:-1,Odisseia
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8102.m3u8
+#EXTINF:-1,Panda_Biggs
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8084.m3u8
+#EXTINF:-1,PFC_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8077.m3u8
+#EXTINF:-1,Porto_Canal
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8120.m3u8
+#EXTINF:-1,REALMADRID_TV_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8121.m3u8
+#EXTINF:-1,RTP1_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8162.m3u8
+#EXTINF:-1,RTP2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8161.m3u8
+#EXTINF:-1,RTP_Acores
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8108.m3u8
+#EXTINF:-1,RTP_África
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8109.m3u8
+#EXTINF:-1,RTP_int
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8112.m3u8
+#EXTINF:-1,RTP_Madeira
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8110.m3u8
+#EXTINF:-1,RTP_Memoria
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8111.m3u8
+#EXTINF:-1,SIC_CARAS
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8107.m3u8
+#EXTINF:-1,SIC_Kids
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8087.m3u8
+#EXTINF:-1,SIC_noticias
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8160.m3u8
+#EXTINF:-1,SportTV1
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8132.m3u8
+#EXTINF:-1,SportTV2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8131.m3u8
+#EXTINF:-1,SportTV3
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8130.m3u8
+#EXTINF:-1,SportTV4
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8129.m3u8
+#EXTINF:-1,SportTV5
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8124.m3u8
+#EXTINF:-1,syfy
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8135.m3u8
+#EXTINF:-1,TIGO_MUSIC
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8095.m3u8
+#EXTINF:-1,TLC
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8096.m3u8
+#EXTINF:-1,Toros_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8097.m3u8
+#EXTINF:-1,TVCine3_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8152.m3u8
+#EXTINF:-1,TVCine4_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8151.m3u8
+#EXTINF:-1,TVCine_1_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8154.m3u8
+#EXTINF:-1,TVCine_2_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8153.m3u8
+#EXTINF:-1,TVI_24
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8159.m3u8
+#EXTINF:-1,Tvi_ficcao
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8157.m3u8
+#EXTINF:-1,TVI_REALITY
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8156.m3u8
+#EXTINF:-1,TV_Globo
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8074.m3u8
+#EXTINF:-1,TV_Globo_Premium
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8075.m3u8
+#EXTINF:-1,TV_PALAMENTO
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8115.m3u8
+#EXTINF:-1,TV_Record
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8076.m3u8
+#EXTINF:-1,TV_Series_HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8150.m3u8
+#EXTINF:-1,vh1_SHUFFLE
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8089.m3u8

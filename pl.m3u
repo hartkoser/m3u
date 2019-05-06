@@ -1,199 +1,171 @@
 #EXTM3U
-#EXTINF:-1,CANAL HD
-http://m-iptv.net:6204/live/Noori31/noori31/10573.m3u8
-#EXTINF:-1,CANAL FAMILY
-http://m-iptv.net:6204/live/Noori31/noori31/10575.m3u8
-#EXTINF:-1,CANAL FILM
-http://m-iptv.net:6204/live/Noori31/noori31/10574.m3u8
-#EXTINF:-1,CANAL SERIALE
-http://m-iptv.net:6204/live/Noori31/noori31/10572.m3u8
-#EXTINF:-1,Polsat
-http://m-iptv.net:6204/live/Noori31/noori31/10519.m3u8
-#EXTINF:-1,Polsat 2
-http://m-iptv.net:6204/live/Noori31/noori31/10518.m3u8
-#EXTINF:-1,Polsat Cafe
-http://m-iptv.net:6204/live/Noori31/noori31/10517.m3u8
-#EXTINF:-1,Polsat Film
-http://m-iptv.net:6204/live/Noori31/noori31/10516.m3u8
-#EXTINF:-1,Polsat HD
-http://m-iptv.net:6204/live/Noori31/noori31/10515.m3u8
-#EXTINF:-1,Polsat Jim Jam
-http://m-iptv.net:6204/live/Noori31/noori31/10514.m3u8
-#EXTINF:-1,Polsat News HD
-http://m-iptv.net:6204/live/Noori31/noori31/10513.m3u8
-#EXTINF:-1,Polsat Play
-http://m-iptv.net:6204/live/Noori31/noori31/10512.m3u8
-#EXTINF:-1,Polsat Play HD
-http://m-iptv.net:6204/live/Noori31/noori31/10511.m3u8
-#EXTINF:-1,TVN
-http://m-iptv.net:6204/live/Noori31/noori31/10495.m3u8
-#EXTINF:-1,TVP1
-http://m-iptv.net:6204/live/Noori31/noori31/10485.m3u8
-#EXTINF:-1,TVP2 HD
-http://m-iptv.net:6204/live/Noori31/noori31/10484.m3u8
-#EXTINF:-1,TVP3
-http://m-iptv.net:6204/live/Noori31/noori31/10483.m3u8
-#EXTINF:-1,TV4
-http://m-iptv.net:6204/live/Noori31/noori31/10498.m3u8
-#EXTINF:-1,TV4 HD
-http://m-iptv.net:6204/live/Noori31/noori31/10497.m3u8
-#EXTINF:-1,TV6 Polska
-http://m-iptv.net:6204/live/Noori31/noori31/10496.m3u8
-#EXTINF:-1,TV Puls HD
-http://m-iptv.net:6204/live/Noori31/noori31/10499.m3u8
-#EXTINF:-1,TVN 24
-http://m-iptv.net:6204/live/Noori31/noori31/10494.m3u8
-#EXTINF:-1,TVS
-http://m-iptv.net:6204/live/Noori31/noori31/10482.m3u8
-#EXTINF:-1,TVN Fabula
-http://m-iptv.net:6204/live/Noori31/noori31/10493.m3u8
-#EXTINF:-1,TVN Style
-http://m-iptv.net:6204/live/Noori31/noori31/10492.m3u8
-#EXTINF:-1,TVN Style HD
-http://m-iptv.net:6204/live/Noori31/noori31/10491.m3u8
-#EXTINF:-1,TVN Turbo
-http://m-iptv.net:6204/live/Noori31/noori31/10490.m3u8
-#EXTINF:-1,TVP ABC
-http://m-iptv.net:6204/live/Noori31/noori31/10489.m3u8
+#EXTINF:-1,TVP 1 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24605.m3u8
+#EXTINF:-1,TVP 2 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24604.m3u8
+#EXTINF:-1,TVP 3 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24603.m3u8
+#EXTINF:-1,TVP HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24606.m3u8
 #EXTINF:-1,TVP Historia
-http://m-iptv.net:6204/live/Noori31/noori31/10488.m3u8
-#EXTINF:-1,TVP Kultura
-http://m-iptv.net:6204/live/Noori31/noori31/10487.m3u8
-#EXTINF:-1,TVP SERIALE
-http://m-iptv.net:6204/live/Noori31/noori31/10486.m3u8
-#EXTINF:-1,HBO HD
-http://m-iptv.net:6204/live/Noori31/noori31/10536.m3u8
-#EXTINF:-1,HBO 2 HD
-http://m-iptv.net:6204/live/Noori31/noori31/10537.m3u8
-#EXTINF:-1,AXN Black
-http://m-iptv.net:6204/live/Noori31/noori31/10578.m3u8
-#EXTINF:-1,AXN White Poland
-http://m-iptv.net:6204/live/Noori31/noori31/10577.m3u8
-#EXTINF:-1,Filmbox
-http://m-iptv.net:6204/live/Noori31/noori31/10550.m3u8
-#EXTINF:-1,Filmbox Action
-http://m-iptv.net:6204/live/Noori31/noori31/10549.m3u8
-#EXTINF:-1,FilmBox Extra
-http://m-iptv.net:6204/live/Noori31/noori31/10548.m3u8
-#EXTINF:-1,FILMBOX EXTRA HD
-http://m-iptv.net:6204/live/Noori31/noori31/10547.m3u8
-#EXTINF:-1,Filmbox Family
-http://m-iptv.net:6204/live/Noori31/noori31/10546.m3u8
-#EXTINF:-1,Filmbox Premium
-http://m-iptv.net:6204/live/Noori31/noori31/10545.m3u8
-#EXTINF:-1,FilmBox Premium HD
-http://m-iptv.net:6204/live/Noori31/noori31/10544.m3u8
-#EXTINF:-1,Fightbox HD
-http://m-iptv.net:6204/live/Noori31/noori31/10551.m3u8
-#EXTINF:-1,Ale Kino HD
-http://m-iptv.net:6204/live/Noori31/noori31/10580.m3u8
-#EXTINF:-1,CBS Reality
-http://m-iptv.net:6204/live/Noori31/noori31/10569.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://m-iptv.net:6204/live/Noori31/noori31/10568.m3u8
-#EXTINF:-1,ESKA TV
-http://m-iptv.net:6204/live/Noori31/noori31/10557.m3u8
-#EXTINF:-1,ESKA TV Extra
-http://m-iptv.net:6204/live/Noori31/noori31/10556.m3u8
-#EXTINF:-1,Disco Polo Music
-http://m-iptv.net:6204/live/Noori31/noori31/10567.m3u8
-#EXTINF:-1,Boomerang
-http://m-iptv.net:6204/live/Noori31/noori31/10576.m3u8
-#EXTINF:-1,Disney Channel HD
-http://m-iptv.net:6204/live/Noori31/noori31/10562.m3u8
-#EXTINF:-1,Disney XD
-http://m-iptv.net:6204/live/Noori31/noori31/10561.m3u8
-#EXTINF:-1,E! Entertainment
-http://m-iptv.net:6204/live/Noori31/noori31/10560.m3u8
-#EXTINF:-1,FOKUS TV
-http://m-iptv.net:6204/live/Noori31/noori31/10543.m3u8
-#EXTINF:-1,Food Network HD
-http://m-iptv.net:6204/live/Noori31/noori31/10542.m3u8
-#EXTINF:-1,Fox Comedy HD
-http://m-iptv.net:6204/live/Noori31/noori31/10541.m3u8
-#EXTINF:-1,Golf Channel
-http://m-iptv.net:6204/live/Noori31/noori31/10539.m3u8
-#EXTINF:-1,Hip Hop TV
-http://m-iptv.net:6204/live/Noori31/noori31/10535.m3u8
-#EXTINF:-1,History HD
-http://m-iptv.net:6204/live/Noori31/noori31/10534.m3u8
-#EXTINF:-1,Investigation Discovery Polska
-http://m-iptv.net:6204/live/Noori31/noori31/10533.m3u8
-#EXTINF:-1,KINO POLSKA
-http://m-iptv.net:6204/live/Noori31/noori31/10532.m3u8
-#EXTINF:-1,KUCHNIA HD
-http://m-iptv.net:6204/live/Noori31/noori31/10531.m3u8
-#EXTINF:-1,Lifetime HD
-http://m-iptv.net:6204/live/Noori31/noori31/10530.m3u8
-#EXTINF:-1,MiniMini  HD
-http://m-iptv.net:6204/live/Noori31/noori31/10529.m3u8
-#EXTINF:-1,MTV Live HD
-http://m-iptv.net:6204/live/Noori31/noori31/10528.m3u8
-#EXTINF:-1,MTV POLSKA
-http://m-iptv.net:6204/live/Noori31/noori31/10527.m3u8
-#EXTINF:-1,MTV Polska HD
-http://m-iptv.net:6204/live/Noori31/noori31/10526.m3u8
-#EXTINF:-1,POWER TV
-http://m-iptv.net:6204/live/Noori31/noori31/10506.m3u8
-#EXTINF:-1,SciFi Universal
-http://m-iptv.net:6204/live/Noori31/noori31/10505.m3u8
-#EXTINF:-1,Sundance HD
-http://m-iptv.net:6204/live/Noori31/noori31/10504.m3u8
-#EXTINF:-1,Super Polsat
-http://m-iptv.net:6204/live/Noori31/noori31/10503.m3u8
-#EXTINF:-1,TLC
-http://m-iptv.net:6204/live/Noori31/noori31/10502.m3u8
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24522.m3u8
+#EXTINF:-1,TVP Info
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24602.m3u8
+#EXTINF:-1,TVP Seriale
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24554.m3u8
+#EXTINF:-1,Polsat
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24557.m3u8
+#EXTINF:-1,Polsat 1 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24568.m3u8
+#EXTINF:-1,Polsat 2 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24567.m3u8
+#EXTINF:-1,Polsat Cafe
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24555.m3u8
+#EXTINF:-1,Polsat Film
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24556.m3u8
+#EXTINF:-1,Polsat Film HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24566.m3u8
+#EXTINF:-1,Polsat HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24558.m3u8
+#EXTINF:-1,Polsat News
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24593.m3u8
+#EXTINF:-1,Polsat Play HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24565.m3u8
+#EXTINF:-1,Polsat Viasat Explore
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24529.m3u8
+#EXTINF:-1,Polsat Viasat Explore HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24528.m3u8
+#EXTINF:-1,Polsat Viasat History
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24527.m3u8
+#EXTINF:-1,Polsat Viasat Nature
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24526.m3u8
+#EXTINF:-1,SCI Discovery Science
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24525.m3u8
+#EXTINF:-1,SCI Discovery Science HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24524.m3u8
+#EXTINF:-1,SciFi
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24564.m3u8
+#EXTINF:-1,Sundance TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24560.m3u8
+#EXTINF:-1,Superstacja
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24592.m3u8
 #EXTINF:-1,TLC HD
-http://m-iptv.net:6204/live/Noori31/noori31/10501.m3u8
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24559.m3u8
 #EXTINF:-1,TNT HD
-http://m-iptv.net:6204/live/Noori31/noori31/10500.m3u8
-#EXTINF:-1,VOX Music TV
-http://m-iptv.net:6204/live/Noori31/noori31/10481.m3u8
-#EXTINF:-1,H2 HD
-http://m-iptv.net:6204/live/Noori31/noori31/10538.m3u8
-#EXTINF:-1,NATIONAL GEO
-http://m-iptv.net:6204/live/Noori31/noori31/10523.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://m-iptv.net:6204/live/Noori31/noori31/10522.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://m-iptv.net:6204/live/Noori31/noori31/10524.m3u8
-#EXTINF:-1,Nat Geo People HD
-http://m-iptv.net:6204/live/Noori31/noori31/10525.m3u8
-#EXTINF:-1,National Geographic Polska
-http://m-iptv.net:6204/live/Noori31/noori31/10521.m3u8
-#EXTINF:-1,Discovery Life
-http://m-iptv.net:6204/live/Noori31/noori31/10565.m3u8
-#EXTINF:-1,Discovery Life  Poland HD
-http://m-iptv.net:6204/live/Noori31/noori31/10564.m3u8
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24561.m3u8
+#EXTINF:-1,Travel Channel HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24523.m3u8
+#EXTINF:-1,TV 4 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24599.m3u8
+#EXTINF:-1,TV Puls HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24596.m3u8
+#EXTINF:-1,TVN 24
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24585.m3u8
+#EXTINF:-1,TVN HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24595.m3u8
+#EXTINF:-1,TVN Style
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24584.m3u8
+#EXTINF:-1,TVN Turbo HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24597.m3u8
+#EXTINF:-1,Universal HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24562.m3u8
+#EXTINF:-1,WP
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24594.m3u8
+#EXTINF:-1,13 Ulica HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24591.m3u8
+#EXTINF:-1,4FUN Dance
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24544.m3u8
+#EXTINF:-1,4FUN Gold
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24543.m3u8
+#EXTINF:-1,4FUN TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24542.m3u8
+#EXTINF:-1,Ale Kino
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24588.m3u8
+#EXTINF:-1,Animal Planet
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24540.m3u8
+#EXTINF:-1,AXN Black
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24587.m3u8
+#EXTINF:-1,AXN HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24570.m3u8
+#EXTINF:-1,AXN White
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24586.m3u8
+#EXTINF:-1,Canal   Film HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24580.m3u8
+#EXTINF:-1,Canal  1 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24582.m3u8
+#EXTINF:-1,Canal  Family HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24579.m3u8
+#EXTINF:-1,Canal  Film HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24581.m3u8
+#EXTINF:-1,Canal  HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24583.m3u8
+#EXTINF:-1,Canal  Seriale HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24578.m3u8
+#EXTINF:-1,Canal Discovery HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24537.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24550.m3u8
+#EXTINF:-1,Cinemax HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24569.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24521.m3u8
 #EXTINF:-1,Discovery HD
-http://m-iptv.net:6204/live/Noori31/noori31/10566.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://m-iptv.net:6204/live/Noori31/noori31/10563.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://m-iptv.net:6204/live/Noori31/noori31/10579.m3u8
-#EXTINF:-1,nSport
-http://m-iptv.net:6204/live/Noori31/noori31/10520.m3u8
-#EXTINF:-1,ELEVEN HD
-http://m-iptv.net:6204/live/Noori31/noori31/10559.m3u8
-#EXTINF:-1,ELEVEN Sport HD
-http://m-iptv.net:6204/live/Noori31/noori31/10558.m3u8
-#EXTINF:-1,CANAL SPORT
-http://m-iptv.net:6204/live/Noori31/noori31/10571.m3u8
-#EXTINF:-1,CANAL SPORT 2
-http://m-iptv.net:6204/live/Noori31/noori31/10570.m3u8
-#EXTINF:-1,Eurosport 1
-http://m-iptv.net:6204/live/Noori31/noori31/10555.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://m-iptv.net:6204/live/Noori31/noori31/10554.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://m-iptv.net:6204/live/Noori31/noori31/10553.m3u8
-#EXTINF:-1,Polsat Sport
-http://m-iptv.net:6204/live/Noori31/noori31/10510.m3u8
-#EXTINF:-1,Polsat Sport HD
-http://m-iptv.net:6204/live/Noori31/noori31/10508.m3u8
-#EXTINF:-1,Polsat Sport Extra HD
-http://m-iptv.net:6204/live/Noori31/noori31/10509.m3u8
-#EXTINF:-1,Polsat Sport News HD
-http://m-iptv.net:6204/live/Noori31/noori31/10507.m3u8
-#EXTINF:-1,Extreme Sports HD
-http://m-iptv.net:6204/live/Noori31/noori31/10552.m3u8
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24539.m3u8
+#EXTINF:-1,Discovery Turbo Xtra
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24538.m3u8
+#EXTINF:-1,Disney Channel HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24553.m3u8
+#EXTINF:-1,Disney Junior
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24552.m3u8
+#EXTINF:-1,Disney XD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24551.m3u8
+#EXTINF:-1,Eska Best Music TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24541.m3u8
+#EXTINF:-1,FILMBOX
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24577.m3u8
+#EXTINF:-1,FilmBox Action
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24576.m3u8
+#EXTINF:-1,Filmbox Family
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24574.m3u8
+#EXTINF:-1,FilmBox Premium
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24575.m3u8
+#EXTINF:-1,Fokus TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24533.m3u8
+#EXTINF:-1,HBO 2 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24572.m3u8
+#EXTINF:-1,HBO 3 HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24571.m3u8
+#EXTINF:-1,HBO HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24573.m3u8
+#EXTINF:-1,History
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24532.m3u8
+#EXTINF:-1,Kino Polska
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24589.m3u8
+#EXTINF:-1,Kino TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24590.m3u8
+#EXTINF:-1,Kuchnia  HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24520.m3u8
+#EXTINF:-1,Lifetime HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24519.m3u8
+#EXTINF:-1,MiniMini HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24547.m3u8
+#EXTINF:-1,MTV MUSIC
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24545.m3u8
+#EXTINF:-1,MTV Polska
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24546.m3u8
+#EXTINF:-1,Nat Geo HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24535.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24534.m3u8
+#EXTINF:-1,National Geographic
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24536.m3u8
+#EXTINF:-1,Nick Junior
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24548.m3u8
+#EXTINF:-1,Nickelodeon
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24549.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24563.m3u8
+#EXTINF:-1,Planete
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24531.m3u8
+#EXTINF:-1,Planete  HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/24530.m3u8

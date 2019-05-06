@@ -1,85 +1,157 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://m-iptv.net:6204/live/Noori31/noori31/9057.m3u8
-#EXTINF:-1,Acasa Gold
-http://m-iptv.net:6204/live/Noori31/noori31/9056.m3u8
-#EXTINF:-1,Acasa TV
-http://m-iptv.net:6204/live/Noori31/noori31/5904.m3u8
-#EXTINF:-1,Antena 1
-http://m-iptv.net:6204/live/Noori31/noori31/9055.m3u8
-#EXTINF:-1,Antena 3
-http://m-iptv.net:6204/live/Noori31/noori31/9054.m3u8
-#EXTINF:-1,Antena Stars
-http://m-iptv.net:6204/live/Noori31/noori31/9053.m3u8
-#EXTINF:-1,1 HD
-http://m-iptv.net:6204/live/Noori31/noori31/16254.m3u8
-#EXTINF:-1,Bucuresti TV
-http://m-iptv.net:6204/live/Noori31/noori31/16253.m3u8
-#EXTINF:-1,Columnta TV
-http://m-iptv.net:6204/live/Noori31/noori31/16252.m3u8
-#EXTINF:-1,DIASPORA TV
-http://m-iptv.net:6204/live/Noori31/noori31/16251.m3u8
-#EXTINF:-1,DIBI TV HD
-http://m-iptv.net:6204/live/Noori31/noori31/16250.m3u8
-#EXTINF:-1,ETNIC TV
-http://m-iptv.net:6204/live/Noori31/noori31/16249.m3u8
-#EXTINF:-1,ETNO TV
-http://m-iptv.net:6204/live/Noori31/noori31/16248.m3u8
-#EXTINF:-1,MIORITA TV
-http://m-iptv.net:6204/live/Noori31/noori31/16247.m3u8
-#EXTINF:-1,Pro TV backup
-http://m-iptv.net:6204/live/Noori31/noori31/16246.m3u8
-#EXTINF:-1,Romania TV backup
-http://m-iptv.net:6204/live/Noori31/noori31/16245.m3u8
-#EXTINF:-1,TEZAUR TV
-http://m-iptv.net:6204/live/Noori31/noori31/16244.m3u8
-#EXTINF:-1,Traditii TV
-http://m-iptv.net:6204/live/Noori31/noori31/16243.m3u8
-#EXTINF:-1,Travel Mix
-http://m-iptv.net:6204/live/Noori31/noori31/16242.m3u8
-#EXTINF:-1,TV H
-http://m-iptv.net:6204/live/Noori31/noori31/16241.m3u8
-#EXTINF:-1,TVR HD
-http://m-iptv.net:6204/live/Noori31/noori31/16240.m3u8
-#EXTINF:-1,TVR1 HD
-http://m-iptv.net:6204/live/Noori31/noori31/16239.m3u8
-#EXTINF:-1,TVR2 HD
-http://m-iptv.net:6204/live/Noori31/noori31/16238.m3u8
-#EXTINF:-1,TVR3 HD
-http://m-iptv.net:6204/live/Noori31/noori31/16237.m3u8
-#EXTINF:-1,UTV
-http://m-iptv.net:6204/live/Noori31/noori31/16236.m3u8
-#EXTINF:-1,VPTV
-http://m-iptv.net:6204/live/Noori31/noori31/16235.m3u8
-#EXTINF:-1,B1 TV
-http://m-iptv.net:6204/live/Noori31/noori31/5798.m3u8
-#EXTINF:-1,CBS Reality
-http://m-iptv.net:6204/live/Noori31/noori31/9051.m3u8
-#EXTINF:-1,Digi 24
-http://m-iptv.net:6204/live/Noori31/noori31/9050.m3u8
-#EXTINF:-1,Dolce Sport 1 HD
-http://m-iptv.net:6204/live/Noori31/noori31/9049.m3u8
-#EXTINF:-1,Dolce Sport 2 HD
-http://m-iptv.net:6204/live/Noori31/noori31/9048.m3u8
-#EXTINF:-1,HBO
-http://m-iptv.net:6204/live/Noori31/noori31/9045.m3u8
+#EXTINF:-1,Acasa_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/5063.m3u8
+#EXTINF:-1,ANTENASTARS
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9157.m3u8
+#EXTINF:-1,ANTENA_1
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/5062.m3u8
+#EXTINF:-1,Antena_3
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/5061.m3u8
+#EXTINF:-1,DIGISPORT1
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9161.m3u8
+#EXTINF:-1,DIGISPORT2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9160.m3u8
+#EXTINF:-1,DIGISPORT3
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9159.m3u8
+#EXTINF:-1,DIGISPORT4
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9158.m3u8
+#EXTINF:-1,ETNOTVHD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9155.m3u8
+#EXTINF:-1,HBO2HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9154.m3u8
+#EXTINF:-1,HBO3HD
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9153.m3u8
+#EXTINF:-1,KANAL_D
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/5060.m3u8
+#EXTINF:-1,PRIMA_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/5059.m3u8
+#EXTINF:-1,PTV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/5064.m3u8
+#EXTINF:-1,Romania_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/5065.m3u8
+#EXTINF:-1,TV1000
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9156.m3u8
+#EXTINF:-1,TVR1
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9152.m3u8
+#EXTINF:-1,TVR2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/9151.m3u8
+#EXTINF:-1,1 Music_Channel
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12125.m3u8
+#EXTINF:-1,Acasa_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12113.m3u8
+#EXTINF:-1,AgTv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12114.m3u8
+#EXTINF:-1,Antena_1
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12099.m3u8
+#EXTINF:-1,Antena_3
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12100.m3u8
+#EXTINF:-1,Antena_Stars
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12096.m3u8
+#EXTINF:-1,AXN Romania
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12097.m3u8
+#EXTINF:-1,AXN_White
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12098.m3u8
+#EXTINF:-1,B1_Tv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12115.m3u8
+#EXTINF:-1,Boomerang
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12109.m3u8
+#EXTINF:-1,Cinemax_2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12095.m3u8
+#EXTINF:-1,Cinemax_Ro
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12094.m3u8
+#EXTINF:-1,Digi World
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12076.m3u8
+#EXTINF:-1,DIGISPORT1
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12067.m3u8
+#EXTINF:-1,DIGISPORT2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12068.m3u8
+#EXTINF:-1,DIGISPORT3
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12069.m3u8
+#EXTINF:-1,DIGISPORT4
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12070.m3u8
+#EXTINF:-1,Digi_24
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12078.m3u8
+#EXTINF:-1,Digi_Animal_World
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12077.m3u8
+#EXTINF:-1,Digi_Film
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12074.m3u8
+#EXTINF:-1,Digi_Life
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12075.m3u8
+#EXTINF:-1,Disney Junior
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12110.m3u8
+#EXTINF:-1,Etno_Tv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12116.m3u8
+#EXTINF:-1,Eurosport
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12071.m3u8
+#EXTINF:-1,Eurosport 2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12072.m3u8
+#EXTINF:-1,Favorit_Tv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12112.m3u8
+#EXTINF:-1,Fishing_&_Hunting
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12120.m3u8
+#EXTINF:-1,Happy_Channel
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12111.m3u8
+#EXTINF:-1,HBO_2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12091.m3u8
+#EXTINF:-1,HBO_3
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12092.m3u8
+#EXTINF:-1,HBO_Romania
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12093.m3u8
+#EXTINF:-1,History Channel
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12119.m3u8
 #EXTINF:-1,Kanal D
-http://m-iptv.net:6204/live/Noori31/noori31/9044.m3u8
-#EXTINF:-1,Kiss TV
-http://m-iptv.net:6204/live/Noori31/noori31/9043.m3u8
-#EXTINF:-1,Na?ional TV
-http://m-iptv.net:6204/live/Noori31/noori31/9041.m3u8
-#EXTINF:-1,National Geographic Wild
-http://m-iptv.net:6204/live/Noori31/noori31/9039.m3u8
-#EXTINF:-1,Prima TV
-http://m-iptv.net:6204/live/Noori31/noori31/9038.m3u8
-#EXTINF:-1,Pro TV
-http://m-iptv.net:6204/live/Noori31/noori31/9036.m3u8
-#EXTINF:-1,Pro TV International
-http://m-iptv.net:6204/live/Noori31/noori31/9035.m3u8
-#EXTINF:-1,Realitatea TV
-http://m-iptv.net:6204/live/Noori31/noori31/9034.m3u8
-#EXTINF:-1,Romania TV
-http://m-iptv.net:6204/live/Noori31/noori31/9033.m3u8
-#EXTINF:-1,Taraf TV
-http://m-iptv.net:6204/live/Noori31/noori31/9032.m3u8
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12103.m3u8
+#EXTINF:-1,KISS_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12104.m3u8
+#EXTINF:-1,Look_Plus
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12105.m3u8
+#EXTINF:-1,Look_Tv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12106.m3u8
+#EXTINF:-1,Megamax
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12107.m3u8
+#EXTINF:-1,Minimax
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12108.m3u8
+#EXTINF:-1,Music Channe_hu
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12124.m3u8
+#EXTINF:-1,National_Geographic
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12121.m3u8
+#EXTINF:-1,National_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12123.m3u8
+#EXTINF:-1,Nat_Geo_Wild
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12122.m3u8
+#EXTINF:-1,Nickelodeon
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12082.m3u8
+#EXTINF:-1,Paramount_Channel
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12081.m3u8
+#EXTINF:-1,Prima_Tv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12083.m3u8
+#EXTINF:-1,ProCinema
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12080.m3u8
+#EXTINF:-1,ProTV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12084.m3u8
+#EXTINF:-1,Realitatea_Tv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12101.m3u8
+#EXTINF:-1,Romania_Tv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12102.m3u8
+#EXTINF:-1,Sport.ro
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12073.m3u8
+#EXTINF:-1,Taraf_Tv
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12085.m3u8
+#EXTINF:-1,TNT
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12086.m3u8
+#EXTINF:-1,Trinitas
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12087.m3u8
+#EXTINF:-1,TV1000
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12079.m3u8
+#EXTINF:-1,TV5_MONDE
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12126.m3u8
+#EXTINF:-1,TVR_2
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12089.m3u8
+#EXTINF:-1,TV_1
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12090.m3u8
+#EXTINF:-1,U_TV
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12088.m3u8
+#EXTINF:-1,Viasat_History
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12117.m3u8
+#EXTINF:-1,Viasat_Nature
+http://tv2iptv.com:8000/live/Yusuf/Yusuf123/12118.m3u8
