@@ -1,103 +1,295 @@
 #EXTM3U
-#EXTINF:-1,Film 1 Action
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2720.m3u8
-#EXTINF:-1,Film 1 Comedy
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2717.m3u8
-#EXTINF:-1,Film 1 Premiere HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2721.m3u8
-#EXTINF:-1,Film 1 Spotlight
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2718.m3u8
-#EXTINF:-1,Film 1 Sundance
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2719.m3u8
-#EXTINF:-1,24 Kitchen HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2738.m3u8
-#EXTINF:-1,Cartoon Network
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2715.m3u8
-#EXTINF:-1,Comedy Central
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2704.m3u8
-#EXTINF:-1,Comedy Central extra
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2705.m3u8
-#EXTINF:-1,Crime & Investigation
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2706.m3u8
-#EXTINF:-1,Discovery
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2736.m3u8
-#EXTINF:-1,Disney Channel HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2714.m3u8
-#EXTINF:-1,Disney Junior
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2709.m3u8
-#EXTINF:-1,E! entertainement HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2700.m3u8
-#EXTINF:-1,FOX HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2737.m3u8
-#EXTINF:-1,Ketnet HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2710.m3u8
-#EXTINF:-1,MTV HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2701.m3u8
-#EXTINF:-1,Nat Geo Wild NL
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2735.m3u8
-#EXTINF:-1,National Geographic HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2707.m3u8
-#EXTINF:-1,Net5 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2743.m3u8
-#EXTINF:-1,Nick Jr
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2712.m3u8
-#EXTINF:-1,NICK TOONS
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2708.m3u8
-#EXTINF:-1,Nickelodeon
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2716.m3u8
-#EXTINF:-1,Nicktoons
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2713.m3u8
-#EXTINF:-1,NPO 1HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2752.m3u8
-#EXTINF:-1,NPO 2HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2751.m3u8
-#EXTINF:-1,NPO 3HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2750.m3u8
-#EXTINF:-1,Omroep Brabant
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2702.m3u8
-#EXTINF:-1,RTL 4
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2749.m3u8
-#EXTINF:-1,RTL 5
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2748.m3u8
-#EXTINF:-1,RTL 7
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2746.m3u8
-#EXTINF:-1,RTL 8
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2745.m3u8
-#EXTINF:-1,RTL Z
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2740.m3u8
-#EXTINF:-1,RTV
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2703.m3u8
-#EXTINF:-1,RTV Drenthe
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2697.m3u8
-#EXTINF:-1,SBS 6 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2747.m3u8
+#EXTINF:-1,NPO 1 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9541.m3u8
+#EXTINF:-1,NPO 2 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9539.m3u8
+#EXTINF:-1,NPO 3 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9538.m3u8
+#EXTINF:-1,RTL 4 FHD
+http://m-iptv.net:6204/live/Noori31/noori31/9534.m3u8
+#EXTINF:-1,RTL 5 FHD
+http://m-iptv.net:6204/live/Noori31/noori31/9533.m3u8
+#EXTINF:-1,SBS6 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9526.m3u8
+#EXTINF:-1,RTL 7 FHD
+http://m-iptv.net:6204/live/Noori31/noori31/9532.m3u8
+#EXTINF:-1,Veronica Disney XD Full HD
+http://m-iptv.net:6204/live/Noori31/noori31/11191.m3u8
+#EXTINF:-1,RTL 8 FHD
+http://m-iptv.net:6204/live/Noori31/noori31/9531.m3u8
+#EXTINF:-1,NET 5 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9545.m3u8
+#EXTINF:-1,Fox Channel HD
+http://m-iptv.net:6204/live/Noori31/noori31/9562.m3u8
 #EXTINF:-1,SBS 9
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2744.m3u8
-#EXTINF:-1,TLC
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2739.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/9527.m3u8
+#EXTINF:-1,RTL Z
+http://m-iptv.net:6204/live/Noori31/noori31/9528.m3u8
+#EXTINF:-1,Comedy Central HD
+http://m-iptv.net:6204/live/Noori31/noori31/9577.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://m-iptv.net:6204/live/Noori31/noori31/9574.m3u8
+#EXTINF:-1,National Geographic HD NL
+http://m-iptv.net:6204/live/Noori31/noori31/11056.m3u8
+#EXTINF:-1,Spike NL
+http://m-iptv.net:6204/live/Noori31/noori31/11009.m3u8
+#EXTINF:-1,Film1 Premiere HD
+http://m-iptv.net:6204/live/Noori31/noori31/9565.m3u8
+#EXTINF:-1,Film1 Family HD
+http://m-iptv.net:6204/live/Noori31/noori31/9566.m3u8
+#EXTINF:-1,Film1 Action HD
+http://m-iptv.net:6204/live/Noori31/noori31/9567.m3u8
+#EXTINF:-1,Film1 Drama HD
+http://m-iptv.net:6204/live/Noori31/noori31/9564.m3u8
+#EXTINF:-1,EuroSport 1 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9570.m3u8
+#EXTINF:-1,EuroSport 2 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9569.m3u8
 #EXTINF:-1,Fox Sport 1 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2728.m3u8
-#EXTINF:-1,Fox Sports 2 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2727.m3u8
-#EXTINF:-1,Fox Sports 3 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2726.m3u8
-#EXTINF:-1,Fox Sports 4 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2725.m3u8
-#EXTINF:-1,Fox Sports 5 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2724.m3u8
-#EXTINF:-1,Fox Sports 6 HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2723.m3u8
-#EXTINF:-1,Ziggo Sport eXtra 1
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2730.m3u8
-#EXTINF:-1,Ziggo Sport eXtra 2
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2729.m3u8
-#EXTINF:-1,Ziggo Sport Golf
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2731.m3u8
-#EXTINF:-1,Ziggo Sport Racing
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2732.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/9561.m3u8
+#EXTINF:-1,Fox Sport 2 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9560.m3u8
+#EXTINF:-1,Fox Sport 4 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9558.m3u8
 #EXTINF:-1,Ziggo Sport Select HD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2733.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/9518.m3u8
 #EXTINF:-1,Ziggo Sport Voetbal
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2734.m3u8
-#EXTINF:-1,Veronica Disney XD
-http://hv-iptv.ddns.net:88/live/DEM2TFGErX/ADrpwwlheA/2742.m3u8
+http://m-iptv.net:6204/live/Noori31/noori31/9517.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://m-iptv.net:6204/live/Noori31/noori31/9520.m3u8
+#EXTINF:-1,EDGE Sport HD NL
+http://m-iptv.net:6204/live/Noori31/noori31/11062.m3u8
+#EXTINF:-1,Disney Channel
+http://m-iptv.net:6204/live/Noori31/noori31/9573.m3u8
+#EXTINF:-1,Nick Toons
+http://m-iptv.net:6204/live/Noori31/noori31/9543.m3u8
+#EXTINF:-1,Nick JR.
+http://m-iptv.net:6204/live/Noori31/noori31/9544.m3u8
+#EXTINF:-1,Cartoon Network
+http://m-iptv.net:6204/live/Noori31/noori31/9579.m3u8
+#EXTINF:-1,Boomerang
+http://m-iptv.net:6204/live/Noori31/noori31/9580.m3u8
+#EXTINF:-1,Discovery Channel
+http://m-iptv.net:6204/live/Noori31/noori31/9575.m3u8
+#EXTINF:-1,TLC
+http://m-iptv.net:6204/live/Noori31/noori31/9525.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://m-iptv.net:6204/live/Noori31/noori31/9546.m3u8
+#EXTINF:-1,Animal Planet
+http://m-iptv.net:6204/live/Noori31/noori31/9582.m3u8
+#EXTINF:-1,History HD DUT
+http://m-iptv.net:6204/live/Noori31/noori31/9552.m3u8
+#EXTINF:-1,Investigation Discovery
+http://m-iptv.net:6204/live/Noori31/noori31/9550.m3u8
+#EXTINF:-1,RTL Crime HD
+http://m-iptv.net:6204/live/Noori31/noori31/9530.m3u8
+#EXTINF:-1,Stringray Djazz FHD NL
+http://m-iptv.net:6204/live/Noori31/noori31/11039.m3u8
+#EXTINF:-1,192TV
+http://m-iptv.net:6204/live/Noori31/noori31/9584.m3u8
+#EXTINF:-1,ONS NL
+http://m-iptv.net:6204/live/Noori31/noori31/11013.m3u8
+#EXTINF:-1,NPO Politiek
+http://m-iptv.net:6204/live/Noori31/noori31/9536.m3u8
+#EXTINF:-1,NPO Zapp Xtra/NPO Humor TV
+http://m-iptv.net:6204/live/Noori31/noori31/9535.m3u8
+#EXTINF:-1,E!
+http://m-iptv.net:6204/live/Noori31/noori31/9571.m3u8
+#EXTINF:-1,The Q You HD NL
+http://m-iptv.net:6204/live/Noori31/noori31/11008.m3u8
+#EXTINF:-1,Duck TV
+http://m-iptv.net:6204/live/Noori31/noori31/9572.m3u8
+#EXTINF:-1,Baby TV
+http://m-iptv.net:6204/live/Noori31/noori31/9581.m3u8
+#EXTINF:-1,RTL Telekids FHD
+http://m-iptv.net:6204/live/Noori31/noori31/13531.m3u8
+#EXTINF:-1,RTL Lounge
+http://m-iptv.net:6204/live/Noori31/noori31/9529.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://m-iptv.net:6204/live/Noori31/noori31/9583.m3u8
+#EXTINF:-1,Ketnet HD
+http://m-iptv.net:6204/live/Noori31/noori31/9548.m3u8
+#EXTINF:-1,MTV NL
+http://m-iptv.net:6204/live/Noori31/noori31/11057.m3u8
+#EXTINF:-1,Omroep Brabant NL
+http://m-iptv.net:6204/live/Noori31/noori31/11019.m3u8
+#EXTINF:-1,Omroep Zeeland NL
+http://m-iptv.net:6204/live/Noori31/noori31/11015.m3u8
+#EXTINF:-1,AT 5 NL
+http://m-iptv.net:6204/live/Noori31/noori31/11024.m3u8
+#EXTINF:-1,Omroep Flevoland NL
+http://m-iptv.net:6204/live/Noori31/noori31/11018.m3u8
+#EXTINF:-1,Omroep Gelderland NL
+http://m-iptv.net:6204/live/Noori31/noori31/11017.m3u8
+#EXTINF:-1,RTV Drenthe NL
+http://m-iptv.net:6204/live/Noori31/noori31/11012.m3u8
+#EXTINF:-1,RTV Oost NL
+http://m-iptv.net:6204/live/Noori31/noori31/11010.m3u8
+#EXTINF:-1,RTV Noord NL
+http://m-iptv.net:6204/live/Noori31/noori31/11011.m3u8
+#EXTINF:-1,Omrop Fryslan NL
+http://m-iptv.net:6204/live/Noori31/noori31/11014.m3u8
+#EXTINF:-1,RTL Telekids HD
+http://m-iptv.net:6204/live/Noori31/noori31/13530.m3u8
+#EXTINF:-1,RTL Telekids
+http://m-iptv.net:6204/live/Noori31/noori31/11051.m3u8
+#EXTINF:-1,NPO 101
+http://m-iptv.net:6204/live/Noori31/noori31/9540.m3u8
+#EXTINF:-1,NPO HUMOR
+http://m-iptv.net:6204/live/Noori31/noori31/9537.m3u8
+#EXTINF:-1,NPO Best/Zapp Xtra NL
+http://m-iptv.net:6204/live/Noori31/noori31/11055.m3u8
+#EXTINF:-1,NPO Cultura NL
+http://m-iptv.net:6204/live/Noori31/noori31/11054.m3u8
+#EXTINF:-1,NPO Humor TV NL
+http://m-iptv.net:6204/live/Noori31/noori31/11053.m3u8
+#EXTINF:-1,NPO Politiek NL
+http://m-iptv.net:6204/live/Noori31/noori31/11052.m3u8
+#EXTINF:-1,Omroep West NL
+http://m-iptv.net:6204/live/Noori31/noori31/11016.m3u8
+#EXTINF:-1,RTV Dordrecht NL
+http://m-iptv.net:6204/live/Noori31/noori31/11050.m3u8
+#EXTINF:-1,RTV Purmerend NL
+http://m-iptv.net:6204/live/Noori31/noori31/11049.m3u8
+#EXTINF:-1,RTV Rijnmond NL
+http://m-iptv.net:6204/live/Noori31/noori31/11048.m3u8
+#EXTINF:-1,RTV Slingeland NL
+http://m-iptv.net:6204/live/Noori31/noori31/11047.m3u8
+#EXTINF:-1,RTV Slos NL
+http://m-iptv.net:6204/live/Noori31/noori31/11046.m3u8
+#EXTINF:-1,RTV Totaal NL
+http://m-iptv.net:6204/live/Noori31/noori31/11045.m3u8
+#EXTINF:-1,RTV Utrecht NL
+http://m-iptv.net:6204/live/Noori31/noori31/11044.m3u8
+#EXTINF:-1,MTV Hits NL
+http://m-iptv.net:6204/live/Noori31/noori31/11059.m3u8
+#EXTINF:-1,MTV Music 24 NL
+http://m-iptv.net:6204/live/Noori31/noori31/11058.m3u8
+#EXTINF:-1,iConcerts HD
+http://m-iptv.net:6204/live/Noori31/noori31/9551.m3u8
+#EXTINF:-1,Nick Music NL
+http://m-iptv.net:6204/live/Noori31/noori31/11021.m3u8
+#EXTINF:-1,Comedy Central Eextra
+http://m-iptv.net:6204/live/Noori31/noori31/9578.m3u8
+#EXTINF:-1,Crime & Investigation
+http://m-iptv.net:6204/live/Noori31/noori31/9576.m3u8
+#EXTINF:-1,L1 TV NL
+http://m-iptv.net:6204/live/Noori31/noori31/11022.m3u8
+#EXTINF:-1,TV 538 NL
+http://m-iptv.net:6204/live/Noori31/noori31/11007.m3u8
+#EXTINF:-1,WOS NL
+http://m-iptv.net:6204/live/Noori31/noori31/11006.m3u8
+#EXTINF:-1,BBC Entertainment NL
+http://m-iptv.net:6204/live/Noori31/noori31/11066.m3u8
+#EXTINF:-1,EDE TV NL
+http://m-iptv.net:6204/live/Noori31/noori31/11063.m3u8
+#EXTINF:-1,Feel Good TV NL
+http://m-iptv.net:6204/live/Noori31/noori31/11061.m3u8
+#EXTINF:-1,Klipkar TV NL
+http://m-iptv.net:6204/live/Noori31/noori31/11060.m3u8
+#EXTINF:-1,Salto 1 NL
+http://m-iptv.net:6204/live/Noori31/noori31/11043.m3u8
+#EXTINF:-1,Salto 2 NL
+http://m-iptv.net:6204/live/Noori31/noori31/11042.m3u8
+#EXTINF:-1,Slam! NL
+http://m-iptv.net:6204/live/Noori31/noori31/11041.m3u8
+#EXTINF:-1,Slotstad RTV NL
+http://m-iptv.net:6204/live/Noori31/noori31/11040.m3u8
+#EXTINF:-1,Viceland HD NL
+http://m-iptv.net:6204/live/Noori31/noori31/11038.m3u8
+#EXTINF:-1,TV Oranje
+http://m-iptv.net:6204/live/Noori31/noori31/9524.m3u8
+#EXTINF:-1,Disney Junior NL
+http://m-iptv.net:6204/live/Noori31/noori31/11064.m3u8
+#EXTINF:-1,Disney Channel NL
+http://m-iptv.net:6204/live/Noori31/noori31/11065.m3u8
+#EXTINF:-1,Veronica/DisneyXD
+http://m-iptv.net:6204/live/Noori31/noori31/9523.m3u8
+#EXTINF:-1,Nickenldeon HD / Spike Channel
+http://m-iptv.net:6204/live/Noori31/noori31/9542.m3u8
+#EXTINF:-1,Extreme Sports
+http://m-iptv.net:6204/live/Noori31/noori31/9568.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1
+http://m-iptv.net:6204/live/Noori31/noori31/9522.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2
+http://m-iptv.net:6204/live/Noori31/noori31/9521.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://m-iptv.net:6204/live/Noori31/noori31/9519.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal Backup
+http://m-iptv.net:6204/live/Noori31/noori31/11192.m3u8
+#EXTINF:-1,Ziggo Sport Select HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/11193.m3u8
+#EXTINF:-1,Ziggo Sport Golf Backup
+http://m-iptv.net:6204/live/Noori31/noori31/11194.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1 Backup
+http://m-iptv.net:6204/live/Noori31/noori31/11196.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2 Backup
+http://m-iptv.net:6204/live/Noori31/noori31/11195.m3u8
+#EXTINF:-1,Fox Sport 3 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9559.m3u8
+#EXTINF:-1,Fox Sport 5 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9557.m3u8
+#EXTINF:-1,Fox Sport 6 HD
+http://m-iptv.net:6204/live/Noori31/noori31/9556.m3u8
+#EXTINF:-1,Fox Sport 1 HD backup
+http://m-iptv.net:6204/live/Noori31/noori31/11202.m3u8
+#EXTINF:-1,Fox Sport 2 HD backup
+http://m-iptv.net:6204/live/Noori31/noori31/11201.m3u8
+#EXTINF:-1,Fox Sport 3 HD backup
+http://m-iptv.net:6204/live/Noori31/noori31/11200.m3u8
+#EXTINF:-1,Fox Sport 4 HD backup
+http://m-iptv.net:6204/live/Noori31/noori31/11199.m3u8
+#EXTINF:-1,Fox Sport 5 HD backup
+http://m-iptv.net:6204/live/Noori31/noori31/11198.m3u8
+#EXTINF:-1,Fox Sport 6 HD backup
+http://m-iptv.net:6204/live/Noori31/noori31/11197.m3u8
+#EXTINF:-1,FOX Sports 1 HD Backup2
+http://m-iptv.net:6204/live/Noori31/noori31/13549.m3u8
+#EXTINF:-1,FOX Sports 2 HD Backup2
+http://m-iptv.net:6204/live/Noori31/noori31/13548.m3u8
+#EXTINF:-1,FOX Sports 3 HD Backup2
+http://m-iptv.net:6204/live/Noori31/noori31/13547.m3u8
+#EXTINF:-1,FOX Sports 4 HD Backup2
+http://m-iptv.net:6204/live/Noori31/noori31/13546.m3u8
+#EXTINF:-1,FOX Sports 5 HD Backup2
+http://m-iptv.net:6204/live/Noori31/noori31/13545.m3u8
+#EXTINF:-1,FOX Sports 6 HD Backup2
+http://m-iptv.net:6204/live/Noori31/noori31/13544.m3u8
+#EXTINF:-1,RTL 4 FHD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13537.m3u8
+#EXTINF:-1,RTL 5 FHD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13536.m3u8
+#EXTINF:-1,RTL 7 FHD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13535.m3u8
+#EXTINF:-1,RTL 8 FHD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13534.m3u8
+#EXTINF:-1,RTL Crime HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13533.m3u8
+#EXTINF:-1,RTL Lounge Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13532.m3u8
+#EXTINF:-1,RTL Z Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13529.m3u8
+#EXTINF:-1,NPO 1 HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13543.m3u8
+#EXTINF:-1,NPO 2 HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13542.m3u8
+#EXTINF:-1,NPO 3 Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13541.m3u8
+#EXTINF:-1,NPO 3 Extra Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13540.m3u8
+#EXTINF:-1,NPO Politiek Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13539.m3u8
+#EXTINF:-1,NPO Zapp HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13538.m3u8
+#EXTINF:-1,SBS 9 HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13551.m3u8
+#EXTINF:-1,SBS6 HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13550.m3u8
+#EXTINF:-1,Film1 Action HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13528.m3u8
+#EXTINF:-1,Film1 Family HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13526.m3u8
+#EXTINF:-1,Film1 Premiere HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13525.m3u8
+#EXTINF:-1,Film1 Drama HD Backup
+http://m-iptv.net:6204/live/Noori31/noori31/13527.m3u8
