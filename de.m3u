@@ -1,102 +1,479 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:-1,Atlantic HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9045.ts
+#EXTINF:-1,WDR HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/8961.m3u8
+#EXTINF:-1,3Sat HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1849.m3u8
+#EXTINF:-1,Arte
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1857.m3u8
+#EXTINF:-1,SRF 1 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1583.m3u8
+#EXTINF:-1,SRF 2
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1538.m3u8
+#EXTINF:-1,NDR HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1532.m3u8
+#EXTINF:-1,RTL HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1048.m3u8
+#EXTINF:-1,RTL II
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1047.m3u8
+#EXTINF:-1,RTL Living HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3375.m3u8
+#EXTINF:-1,RTL Passion
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3392.m3u8
+#EXTINF:-1,RTL Crime
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3393.m3u8
+#EXTINF:-1,NITRO
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1850.m3u8
+#EXTINF:-1,Super RTL HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1514.m3u8
+#EXTINF:-1,VOX
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1193.m3u8
+#EXTINF:-1,Pro 7
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1540.m3u8
+#EXTINF:-1,Pro 7 Maxx HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3378.m3u8
+#EXTINF:-1,Pro7 Fun HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3377.m3u8
+#EXTINF:-1,Kabel 1
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/959.m3u8
+#EXTINF:-1,Kabel 1  HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1731.m3u8
+#EXTINF:-1,Kabel 1 Classic HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3383.m3u8
+#EXTINF:-1,Kabel 1 Doku
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/5831.m3u8
+#EXTINF:-1,Sat 1
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1056.m3u8
+#EXTINF:-1,Sat 1 Gold
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3376.m3u8
+#EXTINF:-1,Anixe SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9721.m3u8
+#EXTINF:-1,Deluxe Music HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9724.m3u8
+#EXTINF:-1,Jukebox
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9509.m3u8
+#EXTINF:-1,N-TV
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9528.m3u8
+#EXTINF:-1,Phoenix HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9723.m3u8
+#EXTINF:-1,Spiegel Geschichte HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9524.m3u8
+#EXTINF:-1,Spiegel TV Wissen
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9726.m3u8
+#EXTINF:-1,Welt Der Wunder
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9728.m3u8
+#EXTINF:-1,Sat 1 Emotions HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/8962.m3u8
+#EXTINF:-1,Sixx
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1581.m3u8
+#EXTINF:-1,WELT HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/4925.m3u8
+#EXTINF:-1,Das Erste SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/917.m3u8
+#EXTINF:-1,ZDF FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1504.m3u8
+#EXTINF:-1,ZDF Info SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1506.m3u8
+#EXTINF:-1,ORF 1 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1002.m3u8
+#EXTINF:-1,ORF 2 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1531.m3u8
+#EXTINF:-1,ORF 3 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1852.m3u8
+#EXTINF:-1,Tele 5 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3379.m3u8
+#EXTINF:-1,13th Street HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3384.m3u8
+#EXTINF:-1,TNT Film HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1584.m3u8
+#EXTINF:-1,TNT Serie HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1515.m3u8
+#EXTINF:-1,TNT Comedy HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2587.m3u8
+#EXTINF:-1,AXN HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1535.m3u8
 #EXTINF:-1,FOX
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9017.ts
-#EXTINF:-1,Syfy HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9046.ts
-#EXTINF:-1,National Geo HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9041.ts
-#EXTINF:-1,National Geo Wild HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9040.ts
-#EXTINF:-1,Discovery
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9016.ts
-#EXTINF:-1,CARTOON NETWORK
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9006.ts
-#EXTINF:-1,DISNEY CHANNEL
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9008.ts
-#EXTINF:-1,DISNEY CINEMAGIC
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9007.ts
-#EXTINF:-1,DISNEY JUNIOR
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9011.ts
-#EXTINF:-1,DISNEY XD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9012.ts
-#EXTINF:-1,SPORT 1
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8988.ts
-#EXTINF:-1,SPORT 2
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8987.ts
-#EXTINF:-1,Sport News HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8977.ts
-#EXTINF:-1,Sport Digital HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9000.ts
-#EXTINF:-1,Eurosport 1 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9004.ts
-#EXTINF:-1,Eurosport 2 FHD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9003.ts
-#EXTINF:-1,FC Bayern TV
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8999.ts
-#EXTINF:-1,Motorvision TV
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8998.ts
-#EXTINF:-1,Sport Austria FHD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/9005.ts
-#EXTINF:-1,Sport Bundesliga 1 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8997.ts
-#EXTINF:-1,Sport Bundesliga 2 HD (Live Event)
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8996.ts
-#EXTINF:-1,Sport Bundesliga 3 HD (Live Event)
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8995.ts
-#EXTINF:-1,Cinema  24 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8846.ts
-#EXTINF:-1,Cinema Action HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8845.ts
-#EXTINF:-1,Cinema Comedy HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8844.ts
-#EXTINF:-1,Cinema Emotion HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8842.ts
-#EXTINF:-1,Cinema Family HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8841.ts
-#EXTINF:-1,Cinema HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8848.ts
-#EXTINF:-1,Cinema Hits HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8840.ts
-#EXTINF:-1,Cinema Nostalgie
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8839.ts
-#EXTINF:-1,Krimi
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8838.ts
-#EXTINF:-1,Popcorn Select 1 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8837.ts
-#EXTINF:-1,Popcorn Select 2 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8836.ts
-#EXTINF:-1,Popcorn Select 4 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8834.ts
-#EXTINF:-1,Popcorn Select 5 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8833.ts
-#EXTINF:-1,Popcorn Select 6 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8832.ts
-#EXTINF:-1,MOVIESINEMA 1 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8818.ts
-#EXTINF:-1,MOVIESINEMA 2 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8817.ts
-#EXTINF:-1,MOVIESINEMA 3 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8816.ts
-#EXTINF:-1,MOVIESINEMA 4 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8815.ts
-#EXTINF:-1,MOVIESINEMA 5 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8814.ts
-#EXTINF:-1,Select 1 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8831.ts
-#EXTINF:-1,Select 2 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8829.ts
-#EXTINF:-1,SELECT 3 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8826.ts
-#EXTINF:-1,Select 4 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8825.ts
-#EXTINF:-1,Select 5 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8823.ts
-#EXTINF:-1,Select 6 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8821.ts
-#EXTINF:-1,Select 7 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8820.ts
-#EXTINF:-1,Select 8 HD
-http://tvtelevision.no-ip.net:8000/live/cciptv.multimediaskype1327/1328skypecciptv.multimedia/8819.ts
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2539.m3u8
+#EXTINF:-1,SYFY
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3385.m3u8
+#EXTINF:-1,Sony HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3374.m3u8
+#EXTINF:-1,MTV Germany HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/6288.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1087.m3u8
+#EXTINF:-1,Universal Channel HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3386.m3u8
+#EXTINF:-1,Sky 1
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/7331.m3u8
+#EXTINF:-1,Sky Arts HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9523.m3u8
+#EXTINF:-1,Sky Cinema HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1517.m3u8
+#EXTINF:-1,Sky Cinema +24 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1917.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1758.m3u8
+#EXTINF:-1,Sky Cinema Family FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9531.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1522.m3u8
+#EXTINF:-1,Sky Cinema Emotion FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1554.m3u8
+#EXTINF:-1,Sky Cinema Comedy FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1081.m3u8
+#EXTINF:-1,Sky Cinema WESTERN
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2586.m3u8
+#EXTINF:-1,Sky Atlantic
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1062.m3u8
+#EXTINF:-1,Sky Krimi
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1086.m3u8
+#EXTINF:-1,Romance TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1763.m3u8
+#EXTINF:-1,Kinowelt TV F
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1094.m3u8
+#EXTINF:-1,Heimat Kanal HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2585.m3u8
+#EXTINF:-1,KIKA HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1765.m3u8
+#EXTINF:-1,Disney Channel
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2584.m3u8
+#EXTINF:-1,Disney Cinemagic
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1082.m3u8
+#EXTINF:-1,Disney Junior
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2621.m3u8
+#EXTINF:-1,Disney XD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1779.m3u8
+#EXTINF:-1,Junior HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2589.m3u8
+#EXTINF:-1,Cartoon Network
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3395.m3u8
+#EXTINF:-1,Boomerang
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2588.m3u8
+#EXTINF:-1,Nickelodeon Schweiz HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2590.m3u8
+#EXTINF:-1,Nick Jr
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1528.m3u8
+#EXTINF:-1,Zee one HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3380.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1084.m3u8
+#EXTINF:-1,Film Club 1 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/6570.m3u8
+#EXTINF:-1,Film Club 2 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/6571.m3u8
+#EXTINF:-1,Film Club 3 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/6572.m3u8
+#EXTINF:-1,Film Club 4 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/6573.m3u8
+#EXTINF:-1,Film Club 5 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/6574.m3u8
+#EXTINF:-1,Animal Planet HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9762.m3u8
+#EXTINF:-1,ARD One HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/18809.m3u8
+#EXTINF:-1,ATV 2
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22499.m3u8
+#EXTINF:-1,ATV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11179.m3u8
+#EXTINF:-1,Auto Motor Sport HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11017.m3u8
+#EXTINF:-1,AXN
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9763.m3u8
+#EXTINF:-1,Baby TV
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/19778.m3u8
+#EXTINF:-1,Beatz TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/17126.m3u8
+#EXTINF:-1,Blizz HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/17124.m3u8
+#EXTINF:-1,BR Süd TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/20117.m3u8
+#EXTINF:-1,Das Erste HD D3
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9764.m3u8
+#EXTINF:-1,DAZN 1 Bar FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22500.m3u8
+#EXTINF:-1,DAZN 2 Bar FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22501.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9765.m3u8
+#EXTINF:-1,Eurosport 2 HD XTRA
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10862.m3u8
+#EXTINF:-1,FC BAYERN TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/14348.m3u8
+#EXTINF:-1,FOX HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9766.m3u8
+#EXTINF:-1,GO TV
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11833.m3u8
+#EXTINF:-1,Health TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/20186.m3u8
+#EXTINF:-1,History Channel HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9767.m3u8
+#EXTINF:-1,KroneHit TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10962.m3u8
+#EXTINF:-1,MDR HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13242.m3u8
+#EXTINF:-1,N-TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9788.m3u8
+#EXTINF:-1,N24 Doku
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/17122.m3u8
+#EXTINF:-1,Nat Geo Wild  HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9770.m3u8
+#EXTINF:-1,National Geographic HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9769.m3u8
+#EXTINF:-1,Pro 7 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9771.m3u8
+#EXTINF:-1,Pro 7 Maxx
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9772.m3u8
+#EXTINF:-1,Puls 4
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22498.m3u8
+#EXTINF:-1,RTL FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9756.m3u8
+#EXTINF:-1,RTL II HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9757.m3u8
+#EXTINF:-1,RTL Plus
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9918.m3u8
+#EXTINF:-1,Sat 1 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9758.m3u8
+#EXTINF:-1,Servus TV
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/20254.m3u8
+#EXTINF:-1,Sky 1 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9774.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9775.m3u8
+#EXTINF:-1,Sky Cinema +1 SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13896.m3u8
+#EXTINF:-1,Sky Cinema +24 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9780.m3u8
+#EXTINF:-1,Sky Cinema +24 SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13897.m3u8
+#EXTINF:-1,Sky Cinema Action FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9778.m3u8
+#EXTINF:-1,Sky Cinema Action SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13907.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13910.m3u8
+#EXTINF:-1,Sky Cinema Comedy SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13909.m3u8
+#EXTINF:-1,Sky Cinema Emotion HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10942.m3u8
+#EXTINF:-1,Sky Cinema Emotion SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13908.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13905.m3u8
+#EXTINF:-1,Sky Cinema Family SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13906.m3u8
+#EXTINF:-1,Sky Cinema FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9777.m3u8
+#EXTINF:-1,Sky Cinema Hits FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9781.m3u8
+#EXTINF:-1,Sky Cinema Hits SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13898.m3u8
+#EXTINF:-1,Sky Cinema SD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13895.m3u8
+#EXTINF:-1,Sky Select 3D Live
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/14528.m3u8
+#EXTINF:-1,Sky Select Vitrine HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/6151.m3u8
+#EXTINF:-1,Sky Sport News HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10811.m3u8
+#EXTINF:-1,Sonnenklar TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10094.m3u8
+#EXTINF:-1,Spiegel TV Wissen HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9790.m3u8
+#EXTINF:-1,Sportdigital HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10709.m3u8
+#EXTINF:-1,SWR TV HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/20118.m3u8
+#EXTINF:-1,TLC HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10053.m3u8
+#EXTINF:-1,Toggo Plus
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/14907.m3u8
+#EXTINF:-1,Travel Channel HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22135.m3u8
+#EXTINF:-1,UPC My Sports HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/12489.m3u8
+#EXTINF:-1,VOX  HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9787.m3u8
+#EXTINF:-1,WELT
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/9789.m3u8
+#EXTINF:-1,XITE
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11465.m3u8
+#EXTINF:-1,ZDF HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13893.m3u8
+#EXTINF:-1,ZDF info HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/13892.m3u8
+#EXTINF:-1,Sky Select 1 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11003.m3u8
+#EXTINF:-1,Sky Select 10 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10737.m3u8
+#EXTINF:-1,Sky Select 11 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10742.m3u8
+#EXTINF:-1,Sky Select 12 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/10743.m3u8
+#EXTINF:-1,Sky Select 2 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11004.m3u8
+#EXTINF:-1,Sky Select 3 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11005.m3u8
+#EXTINF:-1,Sky Select 4 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11006.m3u8
+#EXTINF:-1,Sky Select 5 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11007.m3u8
+#EXTINF:-1,Sky Select 6 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11009.m3u8
+#EXTINF:-1,Sky Select 7 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11011.m3u8
+#EXTINF:-1,Sky Select 8 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11012.m3u8
+#EXTINF:-1,Sky Select 9 FHD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/11014.m3u8
+#EXTINF:-1,E! HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3389.m3u8
+#EXTINF:-1,National Geographic
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1089.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3387.m3u8
+#EXTINF:-1,Discovery Channel
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3394.m3u8
+#EXTINF:-1,History Channel
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1844.m3u8
+#EXTINF:-1,Animal Planet
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1088.m3u8
+#EXTINF:-1,Sky DMAX
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1579.m3u8
+#EXTINF:-1,Anixe HD Series
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3396.m3u8
+#EXTINF:-1,Motorvision HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/3391.m3u8
+#EXTINF:-1,Underworld Blood Wars (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8425.mp4
+#EXTINF:-1,Voll Verkatert (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8467.mp4
+#EXTINF:-1,Sing (2016) Deutsch 
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8512.mp4
+#EXTINF:-1,The Girl On The Train (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8511.mp4
+#EXTINF:-1,Mein Ziemlich Kleiner Freund (2016) Deutschhd
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8517.mp4
+#EXTINF:-1,Snowden (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8429.mp4
+#EXTINF:-1,Jack Reacher Kein Wegzurück (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8285.mp4
+#EXTINF:-1,Störche Abenteuerim Anflug (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8284.mp4
+#EXTINF:-1,The Darkness (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8187.mp4
+#EXTINF:-1,Trolls (2016) Deutsch 
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8125.mp4
+#EXTINF:-1,Arrival (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8360.flv
+#EXTINF:-1,100 Streets (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8290.mp4
+#EXTINF:-1,Escobar (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8476.mp4
+#EXTINF:-1,Deepwater Horizon (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8292.mp4
+#EXTINF:-1,Mothers Day-liebe Ist Kein Kinderspiel (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8288.mp4
+#EXTINF:-1,Findet Dorie (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/7749.mp4
+#EXTINF:-1,Suicide Squad (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/7748.mp4
+#EXTINF:-1,Die Glorreichen Sieben (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6264.mp4
+#EXTINF:-1,Death Race 2050 (2017) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/7319.mp4
+#EXTINF:-1,Schweinskopf Al Dente (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/7318.mp4
+#EXTINF:-1,Blair Witch (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/7069.mp4
+#EXTINF:-1,Doctor Strange (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/7739.mp4
+#EXTINF:-1,Complete Unknown (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6473.mp4
+#EXTINF:-1,Die Insel Der Besonderen Kinder (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/7074.mp4
+#EXTINF:-1,Fack Ju Göhte 2 (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6504.mp4
+#EXTINF:-1,Independence Day-wiederkehr (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6503.mp4
+#EXTINF:-1,Marauders Die Reichen Werden Bezahlen (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6474.mp4
+#EXTINF:-1,The Infiltrator (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/7070.mp4
+#EXTINF:-1,The Light Between Oceans (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6475.mp4
+#EXTINF:-1,Rupture-Überwinde Deine Ängste (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6265.mp4
+#EXTINF:-1,The Purge-election Year (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6263.mp4
+#EXTINF:-1,Nerve (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6091.mp4
+#EXTINF:-1,Bad Moms (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6090.mp4
+#EXTINF:-1,Barbershop: Jeder Braucht 'nen Frischen Haarschnitt (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6154.mp4
+#EXTINF:-1,Ben Hur (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5815.mkv
+#EXTINF:-1,In A Valley Of Violence (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5817.mkv
+#EXTINF:-1,Puls-wenn Alle Vernetzt Sind Ist Keiner Sicher (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5816.mkv
+#EXTINF:-1,Don't Breathe (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5574.mp4
+#EXTINF:-1,Eliminators (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5573.mp4
+#EXTINF:-1,Operation Chromite (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6320.mp4
+#EXTINF:-1,Mike And Dave Need Wedding Dates (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5454.mp4
+#EXTINF:-1,Die Unfassbaren 2  (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5429.mp4
+#EXTINF:-1,The Mechanic-resurrection (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5430.mp4
+#EXTINF:-1,The Shallows-gefahr Aus Der Tiefe (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5435.mp4
+#EXTINF:-1,Elliot-der Drache (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5431.mp4
+#EXTINF:-1,Absolutely Fabulous-der Film (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6155.mp4
+#EXTINF:-1,Verräter Wie Wir (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6157.mp4
+#EXTINF:-1,Mother's Day-liebe Ist Kein Kinderspiel (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6158.mp4
+#EXTINF:-1,Toni Erdmann (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/6215.MP4
+#EXTINF:-1,Lights Out (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5432.mp4
+#EXTINF:-1,Jason Bourne (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5433.mp4
+#EXTINF:-1,Teenage Mutant Ninja Turtles-out Of The Shadows (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5434.mp4
+#EXTINF:-1,Pets (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5438.mp4
+#EXTINF:-1,Batman Vs Superman-dawn Of Justice (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5443.mp4
+#EXTINF:-1,Bad Neighbors 2 (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5453.mp4
+#EXTINF:-1,Jack Reacher-never Go Back (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5455.mp4
+#EXTINF:-1,10 Cloverfield Lane (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8524.mkv
+#EXTINF:-1,Angry Birds–der Film (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8525.mkv
+#EXTINF:-1,Captain America-civil War (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8520.mkv
+#EXTINF:-1,Das Jerico Projekt-im Kopf Des Killers (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8519.mkv
+#EXTINF:-1,Extraction-operation Condor (2015) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8523.mkv
+#EXTINF:-1,Money Monster (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8518.mkv
+#EXTINF:-1,Point Break (2015) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8563.mp4
+#EXTINF:-1,The Witch (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8526.mp4
+#EXTINF:-1,Warcraft-the Beginning (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8521.mkv
+#EXTINF:-1,X-men Apocalypse (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/8522.mkv
+#EXTINF:-1,Ice Age-kollision Voraus! (2016) Deutsch
+http://ksportiptv.com:1557/movie/Topsatchina/OcZLdxtVPu/5456.mp4
