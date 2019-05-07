@@ -1,61 +1,123 @@
 #EXTM3U
-#EXTINF:-1,MOVISTAR_FUTBOL
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/11946.m3u8
-#EXTINF:-1,PINK_1
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3200.m3u8
-#EXTINF:-1,PINK_2
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3199.m3u8
-#EXTINF:-1,PINK_3
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3198.m3u8
-#EXTINF:-1,PINK_ACTION
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3197.m3u8
-#EXTINF:-1,PINK_BH
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3196.m3u8
-#EXTINF:-1,PINK_Comedy
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3195.m3u8
-#EXTINF:-1,PINK_CRIME&MISTERY
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3194.m3u8
-#EXTINF:-1,PINK_Extra
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3193.m3u8
-#EXTINF:-1,PINK_Film
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3192.m3u8
-#EXTINF:-1,PINK_FOLK_1
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3191.m3u8
-#EXTINF:-1,PINK_Folk2
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3190.m3u8
-#EXTINF:-1,PINK_Hits2
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3189.m3u8
-#EXTINF:-1,PINK_HOROR
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3188.m3u8
-#EXTINF:-1,PINK_Kids
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3187.m3u8
-#EXTINF:-1,PINK_Kuvar
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3186.m3u8
-#EXTINF:-1,PINK_Movies
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3185.m3u8
-#EXTINF:-1,PINK_Music
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3184.m3u8
-#EXTINF:-1,PINK_Pedia
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3183.m3u8
-#EXTINF:-1,PINK_Plus
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3182.m3u8
-#EXTINF:-1,PINK_PREMIUM
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3181.m3u8
-#EXTINF:-1,PINK_REALITY
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3180.m3u8
-#EXTINF:-1,PINK_ROMANCE
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3179.m3u8
-#EXTINF:-1,PINK_SCI-FI&FANTASY
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3178.m3u8
-#EXTINF:-1,PINK_Serije
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3177.m3u8
-#EXTINF:-1,PINK_SOAP
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3176.m3u8
-#EXTINF:-1,PINK_THRILLER
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3175.m3u8
-#EXTINF:-1,PINK_Western
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3174.m3u8
-#EXTINF:-1,PINK_WORLD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3173.m3u8
-#EXTINF:-1,PINK_ZABAVA
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/3172.m3u8
+#EXTINF:-1,HBO GO
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22982.m3u8
+#EXTINF:-1,MAXBEST COMEDY & ROMANCE HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22917.m3u8
+#EXTINF:-1,MAXBEST FANTASY HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22910.m3u8
+#EXTINF:-1,MAXBEST FILM HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22908.m3u8
+#EXTINF:-1,MAXBEST HOROR HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22913.m3u8
+#EXTINF:-1,MAXBEST KIDS HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22912.m3u8
+#EXTINF:-1,MAXBEST PREMIERE HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22907.m3u8
+#EXTINF:-1,MAXBEST SCI-FI HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22911.m3u8
+#EXTINF:-1,MAXBEST SELECT 1 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22914.m3u8
+#EXTINF:-1,MAXBEST SELECT 2 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22915.m3u8
+#EXTINF:-1,MAXBEST SELECT 3 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22916.m3u8
+#EXTINF:-1,MAXBEST SERIJA HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22909.m3u8
+#EXTINF:-1,Pikaboo
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22665.m3u8
+#EXTINF:-1,TNT KIDS
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22667.m3u8
+#EXTINF:-1,Vavoom
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22666.m3u8
+#EXTINF:-1,ALFA TV BH
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22656.m3u8
+#EXTINF:-1,AURORA TV
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22659.m3u8
+#EXTINF:-1,HIT TELEVIZIJA
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22655.m3u8
+#EXTINF:-1,IDJ TV
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22660.m3u8
+#EXTINF:-1,K3 PRNJAVOR
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22654.m3u8
+#EXTINF:-1,NTV 101 HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22657.m3u8
+#EXTINF:-1,NTV IC Kakanj
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22658.m3u8
+#EXTINF:-1,NOVA M
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2812.m3u8
+#EXTINF:-1,PINK 1 TV
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2758.m3u8
+#EXTINF:-1,PINK 1 (reserve)
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2759.m3u8
+#EXTINF:-1,PINK2
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1005.m3u8
+#EXTINF:-1,PINK2.
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2760.m3u8
+#EXTINF:-1,PINK 3.
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1986.m3u8
+#EXTINF:-1,PINK 3
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2761.m3u8
+#EXTINF:-1,NOVA BH
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1624.m3u8
+#EXTINF:-1,Pink Plus
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1625.m3u8
+#EXTINF:-1,Pink Extra
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1009.m3u8
+#EXTINF:-1,Pink Zabava
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2912.m3u8
+#EXTINF:-1,Pink Action
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1006.m3u8
+#EXTINF:-1,Pink Comedy
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1008.m3u8
+#EXTINF:-1,Pink Premium
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1626.m3u8
+#EXTINF:-1,Pink Movies
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1013.m3u8
+#EXTINF:-1,Pink Thriller
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1631.m3u8
+#EXTINF:-1,Pink Film
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1011.m3u8
+#EXTINF:-1,Pink Crime&Mystery
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2896.m3u8
+#EXTINF:-1,Pink Crime & Mystery
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1684.m3u8
+#EXTINF:-1,Pink Sci-Fi & Fantasy
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1629.m3u8
+#EXTINF:-1,Pink Sci-Fi&Fantasy
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2895.m3u8
+#EXTINF:-1,Pink Romance
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1628.m3u8
+#EXTINF:-1,Pink Western
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1632.m3u8
+#EXTINF:-1,Pink Horror
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1012.m3u8
+#EXTINF:-1,Pink Soap
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2894.m3u8
+#EXTINF:-1,Pink Serije
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1630.m3u8
+#EXTINF:-1,Pink World
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2914.m3u8
+#EXTINF:-1,Pink Pedia
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1014.m3u8
+#EXTINF:-1,Pink Kuvar
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2913.m3u8
+#EXTINF:-1,Pink Koncert
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2865.m3u8
+#EXTINF:-1,Pink Show
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2872.m3u8
+#EXTINF:-1,Pink Music
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2867.m3u8
+#EXTINF:-1,Pink Music 2
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2868.m3u8
+#EXTINF:-1,Pink Hits 2
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2866.m3u8
+#EXTINF:-1,Pink Folk
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2869.m3u8
+#EXTINF:-1,Pink Folk 2
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2870.m3u8
+#EXTINF:-1,Fox Movies HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2888.m3u8
+#EXTINF:-1,Fox Life HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1615.m3u8
+#EXTINF:-1,Fox Crime HD
+http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2889.m3u8
