@@ -1,59 +1,549 @@
 #EXTM3U
-#EXTINF:-1,Rai 1 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/97.m3u8
-#EXTINF:-1,Rai 2 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/96.m3u8
-#EXTINF:-1,Rai 3 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/95.m3u8
-#EXTINF:-1,Rai 4 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/94.m3u8
-#EXTINF:-1,Rai 5 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/93.m3u8
-#EXTINF:-1,Rai Movie
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/89.m3u8
-#EXTINF:-1,Rai News 24
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/79.m3u8
-#EXTINF:-1,Rai Premium
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/88.m3u8
-#EXTINF:-1,Rai Storia
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/84.m3u8
-#EXTINF:-1,Canale 5 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/91.m3u8
-#EXTINF:-1,Rete 4 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/92.m3u8
-#EXTINF:-1,Italia 1 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/90.m3u8
-#EXTINF:-1,Antenna Sicilia
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/82.m3u8
-#EXTINF:-1,Mediaset Extra
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/87.m3u8
-#EXTINF:-1,Mediaset Italia 2
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/86.m3u8
-#EXTINF:-1,Premium Action
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/75.m3u8
-#EXTINF:-1,Premium Cinema
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/76.m3u8
-#EXTINF:-1,Premium Comedy
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/74.m3u8
-#EXTINF:-1,Premium Emotion
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/73.m3u8
-#EXTINF:-1,Premium Energy
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/72.m3u8
-#EXTINF:-1,Premium Joi
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/71.m3u8
-#EXTINF:-1,Premium Stories
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/69.m3u8
-#EXTINF:-1,Sky Tg24
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/78.m3u8
-#EXTINF:-1,Sport Italia
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/70.m3u8
-#EXTINF:-1,Tele Sondrio News
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/81.m3u8
+#EXTINF:-1,Alice
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20695.m3u8
+#EXTINF:-1,Alpa Uno TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20651.m3u8
+#EXTINF:-1,Alto Adige
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20652.m3u8
+#EXTINF:-1,Animal Planet HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20701.m3u8
+#EXTINF:-1,AutoMoto TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20703.m3u8
+#EXTINF:-1,Boing
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20787.m3u8
+#EXTINF:-1,CANALE 5 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20801.m3u8
+#EXTINF:-1,AXN HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20755.m3u8
+#EXTINF:-1,Caffe Tv 24
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20604.m3u8
+#EXTINF:-1,CTS TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20638.m3u8
+#EXTINF:-1,Antenna Sicilia TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20646.m3u8
+#EXTINF:-1,Videostar Tv
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20634.m3u8
+#EXTINF:-1,Video Tolento
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20680.m3u8
+#EXTINF:-1,Video Calabria
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20684.m3u8
+#EXTINF:-1,Video Brescia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20621.m3u8
+#EXTINF:-1,Video 33 TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20679.m3u8
+#EXTINF:-1,Vetrina Primafila
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20727.m3u8
+#EXTINF:-1,Vera TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20677.m3u8
+#EXTINF:-1,Umbria TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20590.m3u8
+#EXTINF:-1,TVRS
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20620.m3u8
+#EXTINF:-1,TV2000
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20619.m3u8
+#EXTINF:-1,TV Luna
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20676.m3u8
+#EXTINF:-1,Tv Avicenza
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20675.m3u8
+#EXTINF:-1,TRM TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20674.m3u8
+#EXTINF:-1,Trentino TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20673.m3u8
+#EXTINF:-1,Topolino Cip e Ciop Paperino
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20666.m3u8
+#EXTINF:-1,TOP Crime Mediaset
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20734.m3u8
 #EXTINF:-1,TG Norba 24
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/77.m3u8
-#EXTINF:-1,Tgcom24 HD
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/80.m3u8
-#EXTINF:-1,Tsn Livingo
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/83.m3u8
-#EXTINF:-1,TV 2000
-http://db-iptv.ddnsking.com:80/live/telefon/telefon/85.m3u8
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20691.m3u8
+#EXTINF:-1,TG Com 24 Premium
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20690.m3u8
+#EXTINF:-1,TeleVenezia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20671.m3u8
+#EXTINF:-1,Televaldarno RTV38
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20598.m3u8
+#EXTINF:-1,TeleTicino HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20656.m3u8
+#EXTINF:-1,TeleTicino
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20670.m3u8
+#EXTINF:-1,TeleStar1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20599.m3u8
+#EXTINF:-1,TeleSondrioNews
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20618.m3u8
+#EXTINF:-1,TeleSondrio Livigno
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20617.m3u8
+#EXTINF:-1,Teleromagna News
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20660.m3u8
+#EXTINF:-1,Canale 21 Lazio
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20631.m3u8
+#EXTINF:-1,Teleromagna
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20622.m3u8
+#EXTINF:-1,TeleRoma 56 Lazio
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20600.m3u8
+#EXTINF:-1,TeleRadioSciacca
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20669.m3u8
+#EXTINF:-1,TelePace Tv
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20667.m3u8
+#EXTINF:-1,TeleNorba TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20681.m3u8
+#EXTINF:-1,TeleMonteNeve3
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20602.m3u8
+#EXTINF:-1,TeleMonteNeve
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20616.m3u8
+#EXTINF:-1,TeleMIa
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20615.m3u8
+#EXTINF:-1,Teleliguria Sud
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20603.m3u8
+#EXTINF:-1,TeleDehonTV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20665.m3u8
+#EXTINF:-1,TeleColore
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20664.m3u8
+#EXTINF:-1,Telecolor Lombardia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20592.m3u8
+#EXTINF:-1,TeleBari Tv
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20683.m3u8
+#EXTINF:-1,Tele8
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20636.m3u8
+#EXTINF:-1,Tele Video Agrigento
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20663.m3u8
+#EXTINF:-1,Tele Pordenone
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20593.m3u8
+#EXTINF:-1,Tele Padova Telecitt
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20661.m3u8
+#EXTINF:-1,Tele Milano
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20659.m3u8
+#EXTINF:-1,Tele Diogene
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20589.m3u8
+#EXTINF:-1,Tele Chiara
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20644.m3u8
+#EXTINF:-1,Tele Boario
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20658.m3u8
+#EXTINF:-1,Tele Arena Siena
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20685.m3u8
+#EXTINF:-1,TcsTV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20657.m3u8
+#EXTINF:-1,Super!
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20783.m3u8
+#EXTINF:-1,Super TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20605.m3u8
+#EXTINF:-1,Super Tennis HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20823.m3u8
+#EXTINF:-1,Studio 100
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20624.m3u8
+#EXTINF:-1,Sport Italia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20820.m3u8
+#EXTINF:-1,SkyTG24
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20692.m3u8
+#EXTINF:-1,Sky Uno HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20761.m3u8
+#EXTINF:-1,Sky TG 24
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20693.m3u8
+#EXTINF:-1,Sky Supercalcio HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20847.m3u8
+#EXTINF:-1,Sky Sport Uno HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20855.m3u8
+#EXTINF:-1,Sky Sport Serie A HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20853.m3u8
+#EXTINF:-1,Sky Sport NBA HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20850.m3u8
+#EXTINF:-1,Sky Sport MotoGP HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20848.m3u8
+#EXTINF:-1,Sky Sport Golf HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20851.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20854.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20849.m3u8
+#EXTINF:-1,Sky Sport Arena HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20852.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20856.m3u8
+#EXTINF:-1,Sky Cinema Passion HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20766.m3u8
+#EXTINF:-1,Sky Cinema Max HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20767.m3u8
+#EXTINF:-1,Sky Cinema Hits HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20770.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20769.m3u8
+#EXTINF:-1,Sky Cinema Cult HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20765.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20768.m3u8
+#EXTINF:-1,Sky Cinema Classic HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20764.m3u8
+#EXTINF:-1,Sky Cinema 3D
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20773.m3u8
+#EXTINF:-1,Sky Cinema 1  24 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20771.m3u8
+#EXTINF:-1,Sky Cinema 1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20772.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20839.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20840.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20841.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20842.m3u8
+#EXTINF:-1,Sky Calcio 2 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20843.m3u8
+#EXTINF:-1,Sky Calcio 2
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20845.m3u8
+#EXTINF:-1,Sky Calcio 1 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20844.m3u8
+#EXTINF:-1,Sky Calcio 1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20846.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20763.m3u8
+#EXTINF:-1,Sky Atlantic  1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20762.m3u8
+#EXTINF:-1,Sardegna Uno TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20682.m3u8
+#EXTINF:-1,RTV 105
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20586.m3u8
+#EXTINF:-1,RtpTV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20655.m3u8
+#EXTINF:-1,RTL 102.5 TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20587.m3u8
+#EXTINF:-1,Rossini TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20662.m3u8
+#EXTINF:-1,ROMA CHANNEL
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20827.m3u8
+#EXTINF:-1,ReteSole Umbria
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20649.m3u8
+#EXTINF:-1,ReteSole Lazio
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20650.m3u8
+#EXTINF:-1,ReteBiella TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20654.m3u8
+#EXTINF:-1,Rete 55 Live
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20628.m3u8
+#EXTINF:-1,Rete 4 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20799.m3u8
+#EXTINF:-1,Rete 4
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20798.m3u8
+#EXTINF:-1,Real Time  1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20713.m3u8
+#EXTINF:-1,Real Time
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20714.m3u8
+#EXTINF:-1,Rai Yoyo
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20788.m3u8
+#EXTINF:-1,Rai Storia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20807.m3u8
+#EXTINF:-1,Rai Sport 2 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20825.m3u8
+#EXTINF:-1,Rai Sport 2
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20824.m3u8
+#EXTINF:-1,Rai Sport   HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20826.m3u8
+#EXTINF:-1,Rai Scuola
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20806.m3u8
+#EXTINF:-1,Rai Premium
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20809.m3u8
+#EXTINF:-1,Rai News 24
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20694.m3u8
+#EXTINF:-1,Rai Nettuno
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20805.m3u8
+#EXTINF:-1,Rai Movie
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20808.m3u8
+#EXTINF:-1,Rai Gulp
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20789.m3u8
+#EXTINF:-1,Rai 5 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20815.m3u8
+#EXTINF:-1,Rai 5
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20810.m3u8
+#EXTINF:-1,Rai 4 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20816.m3u8
+#EXTINF:-1,Rai 4
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20811.m3u8
+#EXTINF:-1,RAI 3 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20817.m3u8
+#EXTINF:-1,Rai 3
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20812.m3u8
+#EXTINF:-1,RAI 2 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20818.m3u8
+#EXTINF:-1,Rai 2
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20813.m3u8
+#EXTINF:-1,Rai 1 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20819.m3u8
+#EXTINF:-1,Rai 1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20814.m3u8
+#EXTINF:-1,RadioMonteCarlo
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20585.m3u8
+#EXTINF:-1,Radio Universal TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20594.m3u8
+#EXTINF:-1,Radio Tv Azzura
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20595.m3u8
+#EXTINF:-1,Radio Taormina TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20606.m3u8
+#EXTINF:-1,Radio Radicale TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20614.m3u8
+#EXTINF:-1,Radio Radicale Senato TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20610.m3u8
+#EXTINF:-1,Radio Radicale Camera TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20609.m3u8
+#EXTINF:-1,Radio Norba TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20584.m3u8
+#EXTINF:-1,Radio Italia TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20583.m3u8
+#EXTINF:-1,Radio Bruno TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20607.m3u8
+#EXTINF:-1,QVC Italia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20697.m3u8
+#EXTINF:-1,Quarta Rete TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20793.m3u8
+#EXTINF:-1,Primocanale TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20642.m3u8
+#EXTINF:-1,Primarete Lombardia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20596.m3u8
+#EXTINF:-1,PRIMAFILA PRO FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20716.m3u8
+#EXTINF:-1,PRIMAFILA 9/10 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20722.m3u8
+#EXTINF:-1,PRIMAFILA 7/8 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20723.m3u8
+#EXTINF:-1,PRIMAFILA 5/6 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20724.m3u8
+#EXTINF:-1,PRIMAFILA 3D
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20715.m3u8
+#EXTINF:-1,PRIMAFILA 3/4 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20725.m3u8
+#EXTINF:-1,PRIMAFILA 18/19 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20717.m3u8
+#EXTINF:-1,PRIMAFILA 17 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20718.m3u8
+#EXTINF:-1,PRIMAFILA 15/16 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20719.m3u8
+#EXTINF:-1,PRIMAFILA 13/14 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20720.m3u8
+#EXTINF:-1,PRIMAFILA 11/12 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20721.m3u8
+#EXTINF:-1,PRIMAFILA 1/2 FHD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20726.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20729.m3u8
+#EXTINF:-1,Premium Stories
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20735.m3u8
+#EXTINF:-1,Premium Sport 2 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20837.m3u8
+#EXTINF:-1,Premium Sport 1 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20838.m3u8
+#EXTINF:-1,Premium Joy HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20738.m3u8
+#EXTINF:-1,Premium Joy  24
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20736.m3u8
+#EXTINF:-1,Premium Joy
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20737.m3u8
+#EXTINF:-1,Premium Energy HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20742.m3u8
+#EXTINF:-1,Premium Energy  1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20741.m3u8
+#EXTINF:-1,Premium Emotion HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20740.m3u8
+#EXTINF:-1,Premium Emotion
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20739.m3u8
+#EXTINF:-1,Premium Discovery HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20712.m3u8
+#EXTINF:-1,Premium Crime HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20733.m3u8
+#EXTINF:-1,Premium Crime 24 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20732.m3u8
+#EXTINF:-1,Premium Crime 24
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20731.m3u8
+#EXTINF:-1,Premium Crime  24
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20730.m3u8
+#EXTINF:-1,Premium Comedy HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20744.m3u8
+#EXTINF:-1,Premium Comedy
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20743.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20752.m3u8
+#EXTINF:-1,Premium Cinema 24 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20750.m3u8
+#EXTINF:-1,Premium Cinema 24
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20749.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20748.m3u8
+#EXTINF:-1,Premium Cinema 2 24 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20747.m3u8
+#EXTINF:-1,Premium Cinema 1 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20753.m3u8
+#EXTINF:-1,Premium Cinema
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20751.m3u8
+#EXTINF:-1,Premium Cartoon Network
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20774.m3u8
+#EXTINF:-1,Premium Calcio 6 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20831.m3u8
+#EXTINF:-1,Premium Calcio 5 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20832.m3u8
+#EXTINF:-1,Premium Calcio 4 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20833.m3u8
+#EXTINF:-1,Premium Calcio 3 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20834.m3u8
+#EXTINF:-1,Premium Calcio 2 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20835.m3u8
+#EXTINF:-1,Premium Calcio 1 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20836.m3u8
+#EXTINF:-1,Premium Action HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20746.m3u8
+#EXTINF:-1,Premium Action  24 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20745.m3u8
+#EXTINF:-1,Paramount Channel Ita HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20754.m3u8
+#EXTINF:-1,OTTO 8fm TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20588.m3u8
+#EXTINF:-1,Orler TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20648.m3u8
+#EXTINF:-1,Onda TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20647.m3u8
+#EXTINF:-1,National Geographic HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20708.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20706.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20707.m3u8
+#EXTINF:-1,Napoli Canale 21 TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20632.m3u8
+#EXTINF:-1,Milan Channel
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20829.m3u8
+#EXTINF:-1,Mediaset Extra
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20797.m3u8
+#EXTINF:-1,Masha e Orso Channel
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20777.m3u8
+#EXTINF:-1,Masha and Bear
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20775.m3u8
+#EXTINF:-1,MAN-GA
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20782.m3u8
+#EXTINF:-1,Luna tv Sport
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20672.m3u8
+#EXTINF:-1,Lucania.TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20613.m3u8
+#EXTINF:-1,LA5
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20794.m3u8
+#EXTINF:-1,LA 7D
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20790.m3u8
+#EXTINF:-1,La 7 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20791.m3u8
+#EXTINF:-1,Kung Fu Panda-Mitiche avventure Channel
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20776.m3u8
+#EXTINF:-1,K2
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20786.m3u8
+#EXTINF:-1,Juventus Channel
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20830.m3u8
+#EXTINF:-1,Julie Italia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20653.m3u8
+#EXTINF:-1,Italia 2 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20802.m3u8
+#EXTINF:-1,Italia 1 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20804.m3u8
+#EXTINF:-1,Italia 1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20803.m3u8
+#EXTINF:-1,IRIS
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20796.m3u8
+#EXTINF:-1,INTER CHANNEL
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20828.m3u8
+#EXTINF:-1,Il Meteo Italia Oggi
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20688.m3u8
+#EXTINF:-1,Il Meteo Italia Dopodomani
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20686.m3u8
+#EXTINF:-1,Il Meteo Italia Domani
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20687.m3u8
+#EXTINF:-1,History Channel
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20704.m3u8
+#EXTINF:-1,Giallo
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20728.m3u8
+#EXTINF:-1,Gambero Rosso
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20696.m3u8
+#EXTINF:-1,Frisbee
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20784.m3u8
+#EXTINF:-1,Fox Life HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20759.m3u8
+#EXTINF:-1,Fox HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20760.m3u8
+#EXTINF:-1,FOX CRIME HD ITA
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20758.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20756.m3u8
+#EXTINF:-1,FOX ANIMATION
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20757.m3u8
+#EXTINF:-1,Fishing Tv italiano
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20702.m3u8
+#EXTINF:-1,Fano TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20645.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20821.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20822.m3u8
+#EXTINF:-1,Euronews Italiano
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20689.m3u8
+#EXTINF:-1,Esperia TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20643.m3u8
+#EXTINF:-1,E20 Sicilia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20633.m3u8
+#EXTINF:-1,Dmax HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20700.m3u8
+#EXTINF:-1,Dmax  1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20698.m3u8
+#EXTINF:-1,Dmax
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20699.m3u8
+#EXTINF:-1,Disney XD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20781.m3u8
+#EXTINF:-1,Disney Junior
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20780.m3u8
+#EXTINF:-1,Disney Channel HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20779.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20709.m3u8
+#EXTINF:-1,Discovery Science HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20710.m3u8
+#EXTINF:-1,Discovery Focus
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20705.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20711.m3u8
+#EXTINF:-1,Di TV 3
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20639.m3u8
+#EXTINF:-1,Di TV 2
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20640.m3u8
+#EXTINF:-1,Di TV 1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20641.m3u8
+#EXTINF:-1,Cremona 1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20597.m3u8
+#EXTINF:-1,Cielo
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20795.m3u8
+#EXTINF:-1,Cartoonito
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20785.m3u8
+#EXTINF:-1,Cartoon Network
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20778.m3u8
+#EXTINF:-1,Carina TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20678.m3u8
+#EXTINF:-1,Canale8
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20635.m3u8
+#EXTINF:-1,Canale10
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20612.m3u8
+#EXTINF:-1,Canale 8
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20792.m3u8
+#EXTINF:-1,Canale 7 Ita
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20637.m3u8
+#EXTINF:-1,Canale 5
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20800.m3u8
+#EXTINF:-1,Canale 46
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20629.m3u8
+#EXTINF:-1,Canale 21 Campania
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20630.m3u8
+#EXTINF:-1,Teleromagna Lifestyle
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20591.m3u8
+#EXTINF:-1,eTV Marche
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20668.m3u8
+#EXTINF:-1,m2o
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20608.m3u8
+#EXTINF:-1,VisualRadio TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20623.m3u8
+#EXTINF:-1,Vitalia1
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20627.m3u8
+#EXTINF:-1,Vitalia2
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20626.m3u8
+#EXTINF:-1,Vitalia3
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20625.m3u8
+#EXTINF:-1,Wrestling WIVA TV
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20601.m3u8
+#EXTINF:-1,Telepavia
+http://nasaiptv.com:8000/live/Yusuf/Yusuf123/20611.m3u8
