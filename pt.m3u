@@ -1,163 +1,239 @@
 #EXTM3U
-#EXTINF:-1,24Kitchen
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8078.m3u8
-#EXTINF:-1,A&E
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8098.m3u8
-#EXTINF:-1,ABOLA_TV
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8118.m3u8
-#EXTINF:-1,AFRO_MUSIC
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8092.m3u8
-#EXTINF:-1,AMC
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8137.m3u8
-#EXTINF:-1,AXN_BLACK_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8144.m3u8
-#EXTINF:-1,AXN_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8146.m3u8
-#EXTINF:-1,AXN_WHITE_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8145.m3u8
-#EXTINF:-1,bABY_TV
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8082.m3u8
-#EXTINF:-1,Benfica_TV_FullHD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8123.m3u8
-#EXTINF:-1,biggs
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8072.m3u8
-#EXTINF:-1,BTV_1_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8122.m3u8
-#EXTINF:-1,cacavision
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8099.m3u8
-#EXTINF:-1,Caca_&_Pesca
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8100.m3u8
-#EXTINF:-1,Canal_Historia_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8101.m3u8
-#EXTINF:-1,CANAL_PANDA
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8079.m3u8
-#EXTINF:-1,Cartoon_NetWork
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8080.m3u8
-#EXTINF:-1,CBC_REALITY
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8073.m3u8
-#EXTINF:-1,chealse_TV_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8113.m3u8
-#EXTINF:-1,CMTV
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8158.m3u8
-#EXTINF:-1,Discovery_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8105.m3u8
-#EXTINF:-1,DISCOVERY_HD_SHOWCASE
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8071.m3u8
-#EXTINF:-1,Disney_Channel
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8085.m3u8
-#EXTINF:-1,Disney_Junior
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8086.m3u8
-#EXTINF:-1,E!_Entertaunment
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8094.m3u8
+#EXTINF:-1,RTP 1 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23261
+#EXTINF:-1,RTP 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23260
+#EXTINF:-1,RTP2 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23259
+#EXTINF:-1,RTP 2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23258
+#EXTINF:-1,RTP 3
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23257
+#EXTINF:-1,RTP MEMORIA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23256
+#EXTINF:-1,RTP AFRICA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23255
+#EXTINF:-1,TCV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23254
+#EXTINF:-1,RTP ACORES
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23253
+#EXTINF:-1,SIC RADICAL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23252
+#EXTINF:-1,SIC MULHER
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23251
+#EXTINF:-1,SIC CARAS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23250
+#EXTINF:-1,SIC NOTICIAS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23249
+#EXTINF:-1,SIC HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23248
+#EXTINF:-1,SIC
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23247
+#EXTINF:-1,TVI HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23246
+#EXTINF:-1,TVI
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23245
+#EXTINF:-1,TVI FICCAO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23244
+#EXTINF:-1,CANAL Q
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23243
+#EXTINF:-1,GLOBO PREM
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23242
+#EXTINF:-1,TV RECORD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23241
+#EXTINF:-1,TVI24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23240
+#EXTINF:-1,CM TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23239
+#EXTINF:-1,TV GLOBO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23238
+#EXTINF:-1,RECORD NEWS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/1061
 #EXTINF:-1,EURONEWS
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8070.m3u8
-#EXTINF:-1,EuroSport1_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8117.m3u8
-#EXTINF:-1,EuroSport2_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8116.m3u8
-#EXTINF:-1,FOX_COMEDY
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8138.m3u8
-#EXTINF:-1,FOX_Crime_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8139.m3u8
-#EXTINF:-1,Fox_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8140.m3u8
-#EXTINF:-1,Fox_Life_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8141.m3u8
-#EXTINF:-1,FOX_Movies
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8142.m3u8
-#EXTINF:-1,FUEL_TV
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8093.m3u8
-#EXTINF:-1,FX
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8143.m3u8
-#EXTINF:-1,HollyWood_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8148.m3u8
-#EXTINF:-1,JIM_JAM
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8081.m3u8
-#EXTINF:-1,MCM_POP
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8090.m3u8
-#EXTINF:-1,Motors_TV
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8106.m3u8
-#EXTINF:-1,MOV_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8147.m3u8
-#EXTINF:-1,MTV
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8091.m3u8
-#EXTINF:-1,Nat_Geographic_Channel
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8104.m3u8
-#EXTINF:-1,Nat_Geo_Wild
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8103.m3u8
-#EXTINF:-1,Nickelodeon
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8083.m3u8
-#EXTINF:-1,Odisseia
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8102.m3u8
-#EXTINF:-1,Panda_Biggs
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8084.m3u8
-#EXTINF:-1,PFC_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8077.m3u8
-#EXTINF:-1,Porto_Canal
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8120.m3u8
-#EXTINF:-1,REALMADRID_TV_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8121.m3u8
-#EXTINF:-1,RTP1_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8162.m3u8
-#EXTINF:-1,RTP2
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8161.m3u8
-#EXTINF:-1,RTP_Acores
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8108.m3u8
-#EXTINF:-1,RTP_África
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8109.m3u8
-#EXTINF:-1,RTP_int
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8112.m3u8
-#EXTINF:-1,RTP_Madeira
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8110.m3u8
-#EXTINF:-1,RTP_Memoria
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8111.m3u8
-#EXTINF:-1,SIC_CARAS
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8107.m3u8
-#EXTINF:-1,SIC_Kids
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8087.m3u8
-#EXTINF:-1,SIC_noticias
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8160.m3u8
-#EXTINF:-1,SportTV1
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8132.m3u8
-#EXTINF:-1,SportTV2
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8131.m3u8
-#EXTINF:-1,SportTV3
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8130.m3u8
-#EXTINF:-1,SportTV4
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8129.m3u8
-#EXTINF:-1,SportTV5
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8124.m3u8
-#EXTINF:-1,syfy
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8135.m3u8
-#EXTINF:-1,TIGO_MUSIC
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8095.m3u8
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23237
+#EXTINF:-1,PORTO CANAL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23236
+#EXTINF:-1,|PT|*****SPORT*****|PT|
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23235
+#EXTINF:-1,SPORT TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14108
+#EXTINF:-1,SPORT TV1 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14102
+#EXTINF:-1,SPORT TV1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14107
+#EXTINF:-1,SPORT TV2 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14101
+#EXTINF:-1,SPORT TV2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14106
+#EXTINF:-1,SPORT TV3 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14100
+#EXTINF:-1,SPORT TV3
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14105
+#EXTINF:-1,SPORT TV4 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14099
+#EXTINF:-1,SPORT TV4
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14104
+#EXTINF:-1,SPORT TV5 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14098
+#EXTINF:-1,SPORT TV5
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14103
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/29988
+#EXTINF:-1,ELEVEN SPORTS 1 BKP
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/35371
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/29987
+#EXTINF:-1,ELEVEN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/35372
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/29986
+#EXTINF:-1,ELEVEN SPORTS 3 BKP
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/35373
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/29985
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/29984
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/29983
+#EXTINF:-1,BENIFICA TV FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14092
+#EXTINF:-1,BENIFICA TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14093
+#EXTINF:-1,SPORTING TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14091
+#EXTINF:-1,A BOLA TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14087
+#EXTINF:-1,PFC
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14086
+#EXTINF:-1,KOMBATSPORT
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14090
+#EXTINF:-1,EUROSPORT NEWS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14096
+#EXTINF:-1,EUROSPORT 1HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14097
+#EXTINF:-1,EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14095
+#EXTINF:-1,EUROSPORT 2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14094
+#EXTINF:-1,FUEL TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23234
+#EXTINF:-1,MOTORSPORT TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14089
+#EXTINF:-1,MOTORVISION
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/14088
+#EXTINF:-1,TOROS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23233
+#EXTINF:-1,|PT|*****ENFANTS*****|PT|
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23232
+#EXTINF:-1,JIM JAM
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23231
+#EXTINF:-1,BABY FIRST
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23230
+#EXTINF:-1,BABY TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23229
+#EXTINF:-1,CANAL PANDA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23228
+#EXTINF:-1,BIGGS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23227
+#EXTINF:-1,NICKELODEON
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23226
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23225
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23224
+#EXTINF:-1,CARTOONNETWORK
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23223
+#EXTINF:-1,SIC K
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23222
+#EXTINF:-1,|PT|*****CINEMA*****|PT|
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23221
+#EXTINF:-1,TVCINE1 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23220
+#EXTINF:-1,TVCINE1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23219
+#EXTINF:-1,TVCINE 2HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23218
+#EXTINF:-1,TVCINE2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23217
+#EXTINF:-1,TVCINE  3HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23216
+#EXTINF:-1,TVCINE3
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23215
+#EXTINF:-1,TVCINE 4HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23214
+#EXTINF:-1,TVCINE4
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23213
+#EXTINF:-1,HOLLYWOOD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23212
+#EXTINF:-1,NATGEO HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23211
+#EXTINF:-1,FOX MOVIES
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23210
+#EXTINF:-1,AMC
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23209
+#EXTINF:-1,CINEMUNDO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23208
+#EXTINF:-1,|PT|*****CULTURE*****|PT|
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23207
+#EXTINF:-1,ODISSEIA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23206
+#EXTINF:-1,NATGEO WILD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23205
+#EXTINF:-1,DISCOVERY
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23204
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23203
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23202
+#EXTINF:-1, HISTORIA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23201
+#EXTINF:-1,CAÃ‡A E PESCA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23200
+#EXTINF:-1,FOOD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23199
+#EXTINF:-1,NATGEO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23198
+#EXTINF:-1,CASAVISION
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23197
+#EXTINF:-1,|PT|*****SERIES*****|PT|
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23196
+#EXTINF:-1,FOX HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23195
+#EXTINF:-1,FOX CRIME FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23194
+#EXTINF:-1,FOX CRIME
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23193
+#EXTINF:-1,FOX COMEDY
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23192
+#EXTINF:-1,FOX LIFE HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23191
+#EXTINF:-1,AXN WHITE HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23190
+#EXTINF:-1,AXN HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23189
+#EXTINF:-1,AXN BLACK FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23188
+#EXTINF:-1,AXN BLACK
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23187
+#EXTINF:-1,SYFY HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23186
+#EXTINF:-1,SYFY
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23185
 #EXTINF:-1,TLC
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8096.m3u8
-#EXTINF:-1,Toros_TV
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8097.m3u8
-#EXTINF:-1,TVCine3_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8152.m3u8
-#EXTINF:-1,TVCine4_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8151.m3u8
-#EXTINF:-1,TVCine_1_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8154.m3u8
-#EXTINF:-1,TVCine_2_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8153.m3u8
-#EXTINF:-1,TVI_24
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8159.m3u8
-#EXTINF:-1,Tvi_ficcao
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8157.m3u8
-#EXTINF:-1,TVI_REALITY
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8156.m3u8
-#EXTINF:-1,TV_Globo
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8074.m3u8
-#EXTINF:-1,TV_Globo_Premium
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8075.m3u8
-#EXTINF:-1,TV_PALAMENTO
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8115.m3u8
-#EXTINF:-1,TV_Record
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8076.m3u8
-#EXTINF:-1,TV_Series_HD
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8150.m3u8
-#EXTINF:-1,vh1_SHUFFLE
-http://tv2iptv.com:8000/live/Yusuf/Yusuf123/8089.m3u8
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23184
+#EXTINF:-1,TVSERIE FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23183
+#EXTINF:-1,TVSERIES
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23182
+#EXTINF:-1,MCS LIFESTYLE
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23181
+#EXTINF:-1,CBSREALITY
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23180
+#EXTINF:-1,TVI REALITY
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23179
+#EXTINF:-1,E!
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23178
+#EXTINF:-1,A&E
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23177
+#EXTINF:-1,24 KITCHEN HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23176
