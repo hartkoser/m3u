@@ -1,279 +1,219 @@
 #EXTM3U
-#EXTINF:-1,HBO 1 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1986.m3u8
-#EXTINF:-1,HBO1 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/558.m3u8
-#EXTINF:-1,HBO 2 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1988.m3u8
-#EXTINF:-1,HBO2 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/559.m3u8
-#EXTINF:-1,HBO 3 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1987.m3u8
-#EXTINF:-1,HBO3 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/560.m3u8
 #EXTINF:-1,NPO 1 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1972.m3u8
-#EXTINF:-1,NPO 1 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/541.m3u8
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23859.m3u8
 #EXTINF:-1,NPO 2 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1970.m3u8
-#EXTINF:-1,NPO 2 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/542.m3u8
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23858.m3u8
 #EXTINF:-1,NPO 3 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1969.m3u8
-#EXTINF:-1,NPO 3 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/543.m3u8
-#EXTINF:-1,RTL 4 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1962.m3u8
-#EXTINF:-1,RTL4 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/545.m3u8
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23857.m3u8
+#EXTINF:-1,RTL 4
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23856.m3u8
 #EXTINF:-1,RTL 5 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1961.m3u8
-#EXTINF:-1,RTL5 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/546.m3u8
-#EXTINF:-1,SBS 6 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1953.m3u8
-#EXTINF:-1,SBS 6 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/550.m3u8
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23855.m3u8
 #EXTINF:-1,RTL 7 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1960.m3u8
-#EXTINF:-1,RTL7 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/547.m3u8
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23854.m3u8
 #EXTINF:-1,RTL 8 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1959.m3u8
-#EXTINF:-1,RTL8 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/548.m3u8
-#EXTINF:-1,SBS 9 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1952.m3u8
-#EXTINF:-1,SBS 9 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/549.m3u8
-#EXTINF:-1,NET 5 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1976.m3u8
-#EXTINF:-1,NET5 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/544.m3u8
-#EXTINF:-1,NPO CULTURA HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1968.m3u8
-#EXTINF:-1,NPO POLITIEK HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1967.m3u8
-#EXTINF:-1,NPO NIEUWS HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1966.m3u8
-#EXTINF:-1,RTL LOUNGE HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1958.m3u8
-#EXTINF:-1,RTL Z HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1957.m3u8
-#EXTINF:-1,ONS HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1964.m3u8
-#EXTINF:-1,AT5 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2020.m3u8
-#EXTINF:-1,EDE TV HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2007.m3u8
-#EXTINF:-1,OOST HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1963.m3u8
-#EXTINF:-1,TV RIJNMOND HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1955.m3u8
-#EXTINF:-1,TV ORANJE HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1945.m3u8
-#EXTINF:-1,ZEELAND HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1941.m3u8
-#EXTINF:-1,NOORD HOLLANDA HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1942.m3u8
-#EXTINF:-1,RTV DORDRECHT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10233.m3u8
-#EXTINF:-1,RTV MEPPEL HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10232.m3u8
-#EXTINF:-1,RTV RIDDERKERK HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10231.m3u8
-#EXTINF:-1,RTV DRENTHE HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1956.m3u8
-#EXTINF:-1,RTV UTRECHT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1989.m3u8
-#EXTINF:-1,RTV WEST HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1984.m3u8
-#EXTINF:-1,OMROEP BRABAND HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10230.m3u8
-#EXTINF:-1,OMROEP FLEVOLAND HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2019.m3u8
-#EXTINF:-1,OMROEP ZEELAND HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1965.m3u8
-#EXTINF:-1,OMROEP FRYSLAN HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1990.m3u8
-#EXTINF:-1,L1 LIMBURG HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1981.m3u8
-#EXTINF:-1,BERG EN DAL TV HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10228.m3u8
-#EXTINF:-1,DRTV DEVENTER HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10226.m3u8
-#EXTINF:-1,KLIPKAR TV HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10225.m3u8
-#EXTINF:-1,LOKALE OMROEP ECHT SUSTEREN HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10227.m3u8
-#EXTINF:-1,TV ELLEF HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10234.m3u8
-#EXTINF:-1,TV GELDERLAND HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10229.m3u8
-#EXTINF:-1,FILM 1 ACTION HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2002.m3u8
-#EXTINF:-1,FILM 1 ACTION SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/561.m3u8
-#EXTINF:-1,FILM 1 COMEDY HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2001.m3u8
-#EXTINF:-1,FILM 1 COMEDY KIDS HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/565.m3u8
-#EXTINF:-1,FILM 1 PREMIERE HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2000.m3u8
-#EXTINF:-1,FILM 1 PREMIERE SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/564.m3u8
-#EXTINF:-1,FILM 1 SUNDANCE HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1999.m3u8
-#EXTINF:-1,FILM 1 SPOTLIGHT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1998.m3u8
-#EXTINF:-1,FILM 1 SPOTLGHT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/562.m3u8
-#EXTINF:-1,FILM 1 SUNDANCE SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/563.m3u8
-#EXTINF:-1,FOX HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1997.m3u8
-#EXTINF:-1,FOX SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/568.m3u8
-#EXTINF:-1,RTL CRIME HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1950.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2016.m3u8
-#EXTINF:-1,COMEDY CENTRAL SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/569.m3u8
-#EXTINF:-1,COMEDY CENTRAL EXTRA HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2015.m3u8
-#EXTINF:-1,COMEDY CENTRAL FAMILY HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2014.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2017.m3u8
-#EXTINF:-1,CARTOON NETWORK SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/573.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2010.m3u8
-#EXTINF:-1,DISNEY CHANNEL SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/572.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2009.m3u8
-#EXTINF:-1,VERONICA / DISNEY XD HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1943.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1974.m3u8
-#EXTINF:-1,NICKELODEON SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/571.m3u8
-#EXTINF:-1,JIMJAM HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1982.m3u8
-#EXTINF:-1,NICK JR HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1975.m3u8
-#EXTINF:-1,NICKTOONS HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1973.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1949.m3u8
-#EXTINF:-1,BABY TV HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1948.m3u8
-#EXTINF:-1,RTL TELEKIDS HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1954.m3u8
-#EXTINF:-1,ZIGGO SPORT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/551.m3u8
-#EXTINF:-1,ZIGGO SPORT EXTRA 1 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1940.m3u8
-#EXTINF:-1,ZIGGO SPORT EXTRA 2 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1939.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10237.m3u8
-#EXTINF:-1,ZIGGO SPORT GOLF SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1938.m3u8
-#EXTINF:-1,ZIGGO SPORT RACING HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10238.m3u8
-#EXTINF:-1,ZIGGO SPORT RACING SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1937.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10236.m3u8
-#EXTINF:-1,ZIGGO SPORT SELECT SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1936.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/10235.m3u8
-#EXTINF:-1,ZIGGO SPORT VOETBAL SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1935.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1996.m3u8
-#EXTINF:-1,FOX SPORTS 1 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/552.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1995.m3u8
-#EXTINF:-1,FOX SPORTS 2 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/553.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1994.m3u8
-#EXTINF:-1,FOX SPORTS 3 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/554.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1993.m3u8
-#EXTINF:-1,FOX SPORTS 4 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/555.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1992.m3u8
-#EXTINF:-1,FOX SPORTS 5 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/556.m3u8
-#EXTINF:-1,FOX SPORTS 6 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1991.m3u8
-#EXTINF:-1,FOX SPORTS 6 SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/557.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2005.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2004.m3u8
-#EXTINF:-1,EXTREME SPORTS HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2003.m3u8
-#EXTINF:-1,EDGE SPORT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2006.m3u8
-#EXTINF:-1,MOTOR SPORT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1944.m3u8
-#EXTINF:-1,24 KITCHEN HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2022.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2021.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2018.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2013.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2012.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/570.m3u8
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23853.m3u8
+#EXTINF:-1,RTV Drenthe
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23852.m3u8
+#EXTINF:-1,RTL.Lounge
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23851.m3u8
+#EXTINF:-1,RTV.Rijnmond
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23850.m3u8
+#EXTINF:-1,RTL Z
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23849.m3u8
+#EXTINF:-1,|NL|SBS 6HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23848.m3u8
+#EXTINF:-1,SBS 9HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23847.m3u8
+#EXTINF:-1,AT 5 HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23846.m3u8
+#EXTINF:-1,|AR| CARTHAGE TV
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23845.m3u8
+#EXTINF:-1, NET5 HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23844.m3u8
+#EXTINF:-1,CANVAS HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33589.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33574.m3u8
 #EXTINF:-1,DISCOVERY SCIENCE HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2011.m3u8
-#EXTINF:-1,DISCOVERY WORLD HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1951.m3u8
-#EXTINF:-1,E! ENTERTAINEMENT HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2008.m3u8
-#EXTINF:-1,HISTORY CHANNEL HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1985.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1983.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1978.m3u8
-#EXTINF:-1,NAT GEO HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/567.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1977.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/566.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1971.m3u8
-#EXTINF:-1,TLC HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1947.m3u8
-#EXTINF:-1,NICK MUSIC HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2025.m3u8
-#EXTINF:-1,MTV MUSIC 24 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2024.m3u8
-#EXTINF:-1,192 TV HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/2023.m3u8
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33573.m3u8
+#EXTINF:-1,DISCOVERY WORLD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33572.m3u8
+#EXTINF:-1,een HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33588.m3u8
+#EXTINF:-1,HBO2
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23807.m3u8
+#EXTINF:-1,HBO3
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23806.m3u8
+#EXTINF:-1,KETOP12
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33587.m3u8
+#EXTINF:-1,L1MBURG
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33586.m3u8
+#EXTINF:-1,Mezzo
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33571.m3u8
+#EXTINF:-1,MOTOR SPORT
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33570.m3u8
 #EXTINF:-1,MTV HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1980.m3u8
-#EXTINF:-1,MTV SD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/574.m3u8
-#EXTINF:-1,MEZZO HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1979.m3u8
-#EXTINF:-1,TV 538 HD
-http://toptv-show.com:25461/live/ricardosanta/il4ZwlXPMw/1946.m3u8
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33569.m3u8
+#EXTINF:-1,MTV Music 24
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33568.m3u8
+#EXTINF:-1,MTV Music24
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33585.m3u8
+#EXTINF:-1,NOORD Holland TV
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33567.m3u8
+#EXTINF:-1,NPO Nieuws
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33566.m3u8
+#EXTINF:-1,NPO Politiek
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33584.m3u8
+#EXTINF:-1,NPO Zapp Xtra NPO BEST
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33583.m3u8
+#EXTINF:-1,OMROEP Brabant
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33565.m3u8
+#EXTINF:-1,OMROEP Flevoland
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33564.m3u8
+#EXTINF:-1,OMROEP Frysland
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33563.m3u8
+#EXTINF:-1,OMROEP Zeeland
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33562.m3u8
+#EXTINF:-1,ONS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33582.m3u8
+#EXTINF:-1,Q2.HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33581.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33561.m3u8
+#EXTINF:-1,TV Gelderland
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33560.m3u8
+#EXTINF:-1,TV Oost
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33559.m3u8
+#EXTINF:-1,TV ORANJE
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33580.m3u8
+#EXTINF:-1,VIER HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33579.m3u8
+#EXTINF:-1,VIJF
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33578.m3u8
+#EXTINF:-1,VITAYA
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33577.m3u8
+#EXTINF:-1,VTM HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33576.m3u8
+#EXTINF:-1,ZES
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33575.m3u8
+#EXTINF:-1,N1
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23843.m3u8
+#EXTINF:-1,FOX SPORT1 EREDIVISIE HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23841.m3u8
+#EXTINF:-1,FOX SPORT 2HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23840.m3u8
+#EXTINF:-1,FOX SPORT 3 EREDIVISIE HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23839.m3u8
+#EXTINF:-1,FOX  SPORT 4HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23838.m3u8
+#EXTINF:-1,FOX SPORT 5 EREDIVISIE HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23837.m3u8
+#EXTINF:-1,FOX SPORTS 6HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23836.m3u8
+#EXTINF:-1,ELEVEN SPORT 1 HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33593.m3u8
+#EXTINF:-1,ELEVEN SPORT 2 HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33592.m3u8
+#EXTINF:-1,ELEVEN SPORT 3 HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/33591.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23835.m3u8
+#EXTINF:-1,Ziggo Sport Extra1
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23834.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23833.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23832.m3u8
+#EXTINF:-1,Ziggo Sport Select
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23831.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23830.m3u8
+#EXTINF:-1,Sport 1 SelectHD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23829.m3u8
+#EXTINF:-1,EUROSPORT
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23828.m3u8
+#EXTINF:-1,EUROSPORT 2HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23827.m3u8
+#EXTINF:-1,EDGE SPORT  HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23826.m3u8
+#EXTINF:-1,Sport1 Voetbal
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23825.m3u8
+#EXTINF:-1,NL| NAT GEO
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23823.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23822.m3u8
+#EXTINF:-1,Discover Channel HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23821.m3u8
+#EXTINF:-1,Crime&lnvestigation
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23820.m3u8
+#EXTINF:-1, NPO CULTURA
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23819.m3u8
+#EXTINF:-1,DISCOVERY CHOWCASE
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23818.m3u8
+#EXTINF:-1,DiscoveryID
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23817.m3u8
+#EXTINF:-1,HISTORY
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23816.m3u8
+#EXTINF:-1,FILM 1 PREMIERE
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23814.m3u8
+#EXTINF:-1, FILM 1 ACTION
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23813.m3u8
+#EXTINF:-1,Film 1 Sundance
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23812.m3u8
+#EXTINF:-1, FILM 1 FAMILY
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23811.m3u8
+#EXTINF:-1,HBO 1 HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23810.m3u8
+#EXTINF:-1,HBO 3 HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23809.m3u8
+#EXTINF:-1,FOX ND
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23805.m3u8
+#EXTINF:-1,Fox Life
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23804.m3u8
+#EXTINF:-1,Syfy
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23803.m3u8
+#EXTINF:-1,13th Street
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23802.m3u8
+#EXTINF:-1,E! entertainement HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23801.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23800.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23799.m3u8
+#EXTINF:-1,Comedy Central extra
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23798.m3u8
+#EXTINF:-1,Film1 Comedy and Kids
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23797.m3u8
+#EXTINF:-1,Ketnet HD KIDS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23795.m3u8
+#EXTINF:-1,Cartoon Network
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23794.m3u8
+#EXTINF:-1,Cartoon Network KIDS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23793.m3u8
+#EXTINF:-1,Disney Channel
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23792.m3u8
+#EXTINF:-1,Disney Channel KIDS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23791.m3u8
+#EXTINF:-1,Disney Junior
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23790.m3u8
+#EXTINF:-1,Disney Junior KIDS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23789.m3u8
+#EXTINF:-1, Disney Channel
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23788.m3u8
+#EXTINF:-1, Veronica Disney XD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23787.m3u8
+#EXTINF:-1,Nick Jr KIDS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23786.m3u8
+#EXTINF:-1,NICK TOONS KIDS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23785.m3u8
+#EXTINF:-1,Nickelodeon
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23784.m3u8
+#EXTINF:-1,Nickelodeon KIDS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23783.m3u8
+#EXTINF:-1,Nicktoons
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23782.m3u8
+#EXTINF:-1,JimJam KIDS
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23781.m3u8
+#EXTINF:-1,Veronica Disney XD HD
+http://iptvpro.premium-tv.media:8789/live/panel3/hrM1Dunt8B/23780.m3u8
