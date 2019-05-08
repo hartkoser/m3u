@@ -1,37 +1,85 @@
 #EXTM3U
-#EXTINF:-1,Acasa_TV
-http://tv2iptv.com:8000/khalil/khalil/5063
-#EXTINF:-1,ANTENASTARS
-http://tv2iptv.com:8000/khalil/khalil/9157
-#EXTINF:-1,ANTENA_1
-http://tv2iptv.com:8000/khalil/khalil/5062
-#EXTINF:-1,Antena_3
-http://tv2iptv.com:8000/khalil/khalil/5061
-#EXTINF:-1,DIGISPORT1
-http://tv2iptv.com:8000/khalil/khalil/9161
-#EXTINF:-1,DIGISPORT2
-http://tv2iptv.com:8000/khalil/khalil/9160
-#EXTINF:-1,DIGISPORT3
-http://tv2iptv.com:8000/khalil/khalil/9159
-#EXTINF:-1,DIGISPORT4
-http://tv2iptv.com:8000/khalil/khalil/9158
-#EXTINF:-1,ETNOTVHD
-http://tv2iptv.com:8000/khalil/khalil/9155
-#EXTINF:-1,HBO2HD
-http://tv2iptv.com:8000/khalil/khalil/9154
-#EXTINF:-1,HBO3HD
-http://tv2iptv.com:8000/khalil/khalil/9153
-#EXTINF:-1,KANAL_D
-http://tv2iptv.com:8000/khalil/khalil/5060
-#EXTINF:-1,PRIMA_TV
-http://tv2iptv.com:8000/khalil/khalil/5059
-#EXTINF:-1,PRO_TV
-http://tv2iptv.com:8000/khalil/khalil/5064
-#EXTINF:-1,Romania_TV
-http://tv2iptv.com:8000/khalil/khalil/5065
-#EXTINF:-1,TV1000
-http://tv2iptv.com:8000/khalil/khalil/9156
-#EXTINF:-1,TVR1
-http://tv2iptv.com:8000/khalil/khalil/9152
-#EXTINF:-1,TVR2
-http://tv2iptv.com:8000/khalil/khalil/9151
+#EXTINF:-1,1 Music Channel
+http://m-iptv.net:6204/live/987654123/987654123/9057.m3u8
+#EXTINF:-1,Acasa Gold
+http://m-iptv.net:6204/live/987654123/987654123/9056.m3u8
+#EXTINF:-1,Acasa TV
+http://m-iptv.net:6204/live/987654123/987654123/5904.m3u8
+#EXTINF:-1,Antena 1
+http://m-iptv.net:6204/live/987654123/987654123/9055.m3u8
+#EXTINF:-1,Antena 3
+http://m-iptv.net:6204/live/987654123/987654123/9054.m3u8
+#EXTINF:-1,Antena Stars
+http://m-iptv.net:6204/live/987654123/987654123/9053.m3u8
+#EXTINF:-1,1 HD
+http://m-iptv.net:6204/live/987654123/987654123/16254.m3u8
+#EXTINF:-1,Bucuresti TV
+http://m-iptv.net:6204/live/987654123/987654123/16253.m3u8
+#EXTINF:-1,Columnta TV
+http://m-iptv.net:6204/live/987654123/987654123/16252.m3u8
+#EXTINF:-1,DIASPORA TV
+http://m-iptv.net:6204/live/987654123/987654123/16251.m3u8
+#EXTINF:-1,DIBI TV HD
+http://m-iptv.net:6204/live/987654123/987654123/16250.m3u8
+#EXTINF:-1,ETNIC TV
+http://m-iptv.net:6204/live/987654123/987654123/16249.m3u8
+#EXTINF:-1,ETNO TV
+http://m-iptv.net:6204/live/987654123/987654123/16248.m3u8
+#EXTINF:-1,MIORITA TV
+http://m-iptv.net:6204/live/987654123/987654123/16247.m3u8
+#EXTINF:-1,Pro TV backup
+http://m-iptv.net:6204/live/987654123/987654123/16246.m3u8
+#EXTINF:-1,Romania TV backup
+http://m-iptv.net:6204/live/987654123/987654123/16245.m3u8
+#EXTINF:-1,TEZAUR TV
+http://m-iptv.net:6204/live/987654123/987654123/16244.m3u8
+#EXTINF:-1,Traditii TV
+http://m-iptv.net:6204/live/987654123/987654123/16243.m3u8
+#EXTINF:-1,Travel Mix
+http://m-iptv.net:6204/live/987654123/987654123/16242.m3u8
+#EXTINF:-1,TV H
+http://m-iptv.net:6204/live/987654123/987654123/16241.m3u8
+#EXTINF:-1,TVR HD
+http://m-iptv.net:6204/live/987654123/987654123/16240.m3u8
+#EXTINF:-1,TVR1 HD
+http://m-iptv.net:6204/live/987654123/987654123/16239.m3u8
+#EXTINF:-1,TVR2 HD
+http://m-iptv.net:6204/live/987654123/987654123/16238.m3u8
+#EXTINF:-1,TVR3 HD
+http://m-iptv.net:6204/live/987654123/987654123/16237.m3u8
+#EXTINF:-1,UTV
+http://m-iptv.net:6204/live/987654123/987654123/16236.m3u8
+#EXTINF:-1,VPTV
+http://m-iptv.net:6204/live/987654123/987654123/16235.m3u8
+#EXTINF:-1,B1 TV
+http://m-iptv.net:6204/live/987654123/987654123/5798.m3u8
+#EXTINF:-1,CBS Reality
+http://m-iptv.net:6204/live/987654123/987654123/9051.m3u8
+#EXTINF:-1,Digi 24
+http://m-iptv.net:6204/live/987654123/987654123/9050.m3u8
+#EXTINF:-1,Dolce Sport 1 HD
+http://m-iptv.net:6204/live/987654123/987654123/9049.m3u8
+#EXTINF:-1,Dolce Sport 2 HD
+http://m-iptv.net:6204/live/987654123/987654123/9048.m3u8
+#EXTINF:-1,HBO
+http://m-iptv.net:6204/live/987654123/987654123/9045.m3u8
+#EXTINF:-1,Kanal D
+http://m-iptv.net:6204/live/987654123/987654123/9044.m3u8
+#EXTINF:-1,Kiss TV
+http://m-iptv.net:6204/live/987654123/987654123/9043.m3u8
+#EXTINF:-1,Na?ional TV
+http://m-iptv.net:6204/live/987654123/987654123/9041.m3u8
+#EXTINF:-1,National Geographic Wild
+http://m-iptv.net:6204/live/987654123/987654123/9039.m3u8
+#EXTINF:-1,Prima TV
+http://m-iptv.net:6204/live/987654123/987654123/9038.m3u8
+#EXTINF:-1,Pro TV
+http://m-iptv.net:6204/live/987654123/987654123/9036.m3u8
+#EXTINF:-1,Pro TV International
+http://m-iptv.net:6204/live/987654123/987654123/9035.m3u8
+#EXTINF:-1,Realitatea TV
+http://m-iptv.net:6204/live/987654123/987654123/9034.m3u8
+#EXTINF:-1,Romania TV
+http://m-iptv.net:6204/live/987654123/987654123/9033.m3u8
+#EXTINF:-1,Taraf TV
+http://m-iptv.net:6204/live/987654123/987654123/9032.m3u8
