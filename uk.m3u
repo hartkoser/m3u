@@ -1,117 +1,185 @@
 #EXTM3U
-#EXTINF:-1,Al Jazeera English (Opt-1)
-http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-2)
-http://199.167.151.237:1935/live/sp15_9.stream/gmswf.m3u8
-#EXTINF:-1,Al Jazeera English (Opt-3)
-http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221226109/1.m3u8
-#EXTINF:-1,Animal Planet
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/01.m3u8
-#EXTINF:-1,Arise News
-http://contributionstreams.ashttp9.visionip.tv/live/visiontv-contributionstreams-arise-tv-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1,AXN
-http://cshms1.airtel.tv/wh7f454c46tw2394210507_339596980/PLTV/88888888/224/3221226443/04.m3u8
-#EXTINF:-1,BBC World News (Opt-1)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226051/01.m3u8
-#EXTINF:-1,BBC World News (Opt-2)
-http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,Bloomberg TV UK
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-#EXTINF:-1,Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-#EXTINF:-1,BoxNation (Geo)
-http://50.7.198.170:8081/abcd/boxnation/playlist.m3u8
-#EXTINF:-1,Capital TV
-http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
-#EXTINF:-1,CGTN English (Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1,CGTN English (Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1,CNBC World
-http://161.0.157.9/PLTV/88888888/224/3221227005/03.m3u8
-#EXTINF:-1,Create and Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8
-#EXTINF:-1,Discovery Science
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225778/01.m3u8
-#EXTINF:-1,Discovery World (Opt-1)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/01.m3u8
-#EXTINF:-1,Discovery World (Opt-2)
-http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
-#EXTINF:-1,DW English
-http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
-#EXTINF:-1,English Club TV
-http://ott-cdn.ucom.am/s37/index.m3u8
-#EXTINF:-1,Euronews (Opt-1)
-http://61.58.60.230:9000/live/129.m3u8
-#EXTINF:-1,Euronews (Opt-2)
-https://stream-03.nyc.dailymotion.com/25/dm/3/x2j4h4m/live-3.m3u8
-#EXTINF:-1,Extreme Sports Channel
-http://persik.by/stream/1418/252987/10309.m3u8
-#EXTINF:-1,Flow Sports
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8
-#EXTINF:-1,France 24 English (Opt-1)
-http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
-#EXTINF:-1,France 24 English (Opt-2)
-http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
-#EXTINF:-1,Gemporia
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-#EXTINF:-1,Heart
-http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
-#EXTINF:-1,ITV
-http://62.210.93.115:80/live?channelId=6&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,ITV 2
-http://62.210.93.115:80/live?channelId=14&uid=3126&deviceMac=00:1A:79:3C:C7:B7
-#EXTINF:-1,Jewellery Maker
-http://edge01.cdn.aws.subset.host/JewelleryMakerLive/JewelleryMakerLive/playlist.m3u8
-#EXTINF:-1,KIX (Asia)
-http://210.210.155.35/session/e269237c-7e3d-11e8-a249-b82a72d63267/uq2663/h/h07/01.m3u8
-#EXTINF:-1,Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-#EXTINF:-1,Landscape TV
-http://130.88.20.237:1235/monitor.flv
-#EXTINF:-1,London Live
-http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
-#EXTINF:-1,NHK World (Opt-1)
-http://nhkwtvglobal-i.akamaihd.net/hls/live/263941/nhkwtvglobal/index_1180.m3u8
-#EXTINF:-1,NHK World (Opt-2)
-http://mhms10.airtel.tv/wh7f454c46tw1262349124_1691091773/PLTV/88888888/224/3221226544/04.m3u8
-#EXTINF:-1,RT UK
-https://secure-streams.akamaized.net/rt-uk/index.m3u8
-#EXTINF:-1,QVC
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC UK +1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
-#EXTINF:-1,QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-#EXTINF:-1,Sky News (Opt-1)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-#EXTINF:-1,Sky News (Opt-2)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-#EXTINF:-1,Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
-#EXTINF:-1,TLC HD World (Opt-1)
-http://cshms2.airtel.tv/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-2)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/01.m3u8
-#EXTINF:-1,TLC HD World (Opt-3)
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/04.m3u8
-#EXTINF:-1,Travel XP
-http://125.17.105.168/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221225813/01.m3u8
-#EXTINF:-1,TRT World
-http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1,~ Ireland TV ~
-http://www.lengua.com/anthems/Ireland.mp3
-#EXTINF:-1,TG4
-http://csm-e.cds1.yospace.com/csm/live/74246610.m3u8
-#EXTINF:-1,RTE News Now
-http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
-#EXTINF:-1,RTE 1
-http://akamai.rasset.ie/hls-live/_definst_/rte1/rte1-720.m3u8
-#EXTINF:-1,RTE 2
-http://akamai.rasset.ie/hls-live/_definst_/rte2/rte2-720.m3u8
-#EXTINF:-1,RTE Jr.
-https://cdn.rasset.ie/hls-live/_definst_/rtejr/rtejr-576.m3u8
+#EXTINF:-1,Sky 1 FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24119.m3u8
+#EXTINF:-1,Sky 1 HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24120.m3u8
+#EXTINF:-1,Sky 2 HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24118.m3u8
+#EXTINF:-1,Sky Atlantic FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24116.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24491.m3u8
+#EXTINF:-1,Sky Arts FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/40655.m3u8
+#EXTINF:-1,Sky Witness FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/40708.m3u8
+#EXTINF:-1,AMC FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/44620.m3u8
+#EXTINF:-1,FOX HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/23915.m3u8
+#EXTINF:-1,Gold FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24114.m3u8
+#EXTINF:-1,Comedy Central HD.
+http://s1.platinumhostingtech.com:80/live/rose/rose/24025.m3u8
+#EXTINF:-1,Comedy Central Xtra
+http://s1.platinumhostingtech.com:80/live/rose/rose/24085.m3u8
+#EXTINF:-1,Lifetime FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24446.m3u8
+#EXTINF:-1,ID
+http://s1.platinumhostingtech.com:80/live/rose/rose/24110.m3u8
+#EXTINF:-1,Pick
+http://s1.platinumhostingtech.com:80/live/rose/rose/24104.m3u8
+#EXTINF:-1,Drama (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24011.m3u8
+#EXTINF:-1,Quest HD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24103.m3u8
+#EXTINF:-1,Quest SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/60123.m3u8
+#EXTINF:-1,Quest +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/60124.m3u8
+#EXTINF:-1,Quest Red SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/60352.m3u8
+#EXTINF:-1,Quest Red +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/60353.m3u8
+#EXTINF:-1,SyFy HD.(L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24087.m3u8
+#EXTINF:-1,Horror Channel (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24112.m3u8
+#EXTINF:-1,Horror Channel +1 (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/46437.m3u8
+#EXTINF:-1,Real Lives
+http://s1.platinumhostingtech.com:80/live/rose/rose/24088.m3u8
+#EXTINF:-1,Really (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24100.m3u8
+#EXTINF:-1,Alibi FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24066.m3u8
+#EXTINF:-1,Alibi +1
+http://s1.platinumhostingtech.com:80/live/rose/rose/40865.m3u8
+#EXTINF:-1,DMAX (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24012.m3u8
+#EXTINF:-1,DMAX +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/60122.m3u8
+#EXTINF:-1,Spike HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24101.m3u8
+#EXTINF:-1,Sony Crime (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37655.m3u8
+#EXTINF:-1,Sony Crime +1 (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37657.m3u8
+#EXTINF:-1,Universal Channel
+http://s1.platinumhostingtech.com:80/live/rose/rose/24111.m3u8
+#EXTINF:-1,Watch
+http://s1.platinumhostingtech.com:80/live/rose/rose/24099.m3u8
+#EXTINF:-1,Yesterday (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24013.m3u8
+#EXTINF:-1,TLC  FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24065.m3u8
+#EXTINF:-1,GOOD FOOD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24068.m3u8
+#EXTINF:-1,Home & Health
+http://s1.platinumhostingtech.com:80/live/rose/rose/24070.m3u8
+#EXTINF:-1,Food Network (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24064.m3u8
+#EXTINF:-1,Tru TV (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24096.m3u8
+#EXTINF:-1,Tru TV +1 (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37647.m3u8
+#EXTINF:-1,True Entertainment (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24091.m3u8
+#EXTINF:-1,True Entertainment +1 (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37654.m3u8
+#EXTINF:-1,Challenge
+http://s1.platinumhostingtech.com:80/live/rose/rose/24007.m3u8
+#EXTINF:-1,BBC One NI FHD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24181.m3u8
+#EXTINF:-1,BBC One NI SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/28730.m3u8
+#EXTINF:-1,BBC One FHD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24183.m3u8
+#EXTINF:-1,BBC One HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24182.m3u8
+#EXTINF:-1,BBC One London SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24176.m3u8
+#EXTINF:-1,BBC Scotland FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/57634.m3u8
+#EXTINF:-1,BBC One Wales FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/58426.m3u8
+#EXTINF:-1,BBC Two HD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24175.m3u8
+#EXTINF:-1,BBC Two SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24173.m3u8
+#EXTINF:-1,BBC Two NI HD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37261.m3u8
+#EXTINF:-1,BBC Four (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/64840.m3u8
+#EXTINF:-1,UTV FHD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24121.m3u8
+#EXTINF:-1,UTV HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24122.m3u8
+#EXTINF:-1,UTV SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/39641.m3u8
+#EXTINF:-1,UTV SD +1 (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/39642.m3u8
+#EXTINF:-1,ITV 1 FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24165.m3u8
+#EXTINF:-1,ITV 1 FHD.
+http://s1.platinumhostingtech.com:80/live/rose/rose/24166.m3u8
+#EXTINF:-1,ITV 1 HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24167.m3u8
+#EXTINF:-1,ITV 1 Granada SD
+http://s1.platinumhostingtech.com:80/live/rose/rose/37660.m3u8
+#EXTINF:-1,ITV 1 Anglia East SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37658.m3u8
+#EXTINF:-1,ITV 1 Wales FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/58425.m3u8
+#EXTINF:-1,ITV 1 Anglia East  +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37802.m3u8
+#EXTINF:-1,ITV 1 Central West SD
+http://s1.platinumhostingtech.com:80/live/rose/rose/37659.m3u8
+#EXTINF:-1,ITV 1 Westcountry South West SD
+http://s1.platinumhostingtech.com:80/live/rose/rose/37800.m3u8
+#EXTINF:-1,ITV 1 London SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37661.m3u8
+#EXTINF:-1,ITVBe FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/46462.m3u8
+#EXTINF:-1,ITVBe SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37789.m3u8
+#EXTINF:-1,ITV 1 +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37504.m3u8
+#EXTINF:-1,ITV 2 HD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24163.m3u8
+#EXTINF:-1,ITV 2 HD.
+http://s1.platinumhostingtech.com:80/live/rose/rose/24161.m3u8
+#EXTINF:-1,ITV 3 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24159.m3u8
+#EXTINF:-1,ITV 3 +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/39631.m3u8
+#EXTINF:-1,ITV 4 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/24157.m3u8
+#EXTINF:-1,ITV 4 +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37505.m3u8
+#EXTINF:-1,Channel 4 FHD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24008.m3u8
+#EXTINF:-1,Channel 4 HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24137.m3u8
+#EXTINF:-1,Channel 4 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37500.m3u8
+#EXTINF:-1,Channel 4 London SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37835.m3u8
+#EXTINF:-1,Channel 4 +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37834.m3u8
+#EXTINF:-1,Channel 4 Midlands SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37498.m3u8
+#EXTINF:-1,Channel 4 North SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37497.m3u8
+#EXTINF:-1,Channel 4 Scotland SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37502.m3u8
+#EXTINF:-1,Channel 4 South & East SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37499.m3u8
+#EXTINF:-1,Channel 5 FHD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/30507.m3u8
+#EXTINF:-1,Channel 5 HD
+http://s1.platinumhostingtech.com:80/live/rose/rose/24134.m3u8
+#EXTINF:-1,Channel 5 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/37822.m3u8
+#EXTINF:-1,Channel 5 +1 SD (L)
+http://s1.platinumhostingtech.com:80/live/rose/rose/39619.m3u8
