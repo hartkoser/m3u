@@ -705,8 +705,7 @@ http://psrv.io:80/live/CaS01XxWvu4/6879304603/18805.m3u8
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/18596.m3u8
 #EXTINF:-1,Paramount SD
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/18597.m3u8
-#EXTINF:-1,[XXX] PlayBoy FHD
-http://psrv.io:80/live/CaS01XxWvu4/6879304603/18787.m3u8
+
 #EXTINF:-1,PlayKids FHD
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/18747.m3u8
 #EXTINF:-1,PlayKids HD
@@ -1093,16 +1092,6 @@ http://psrv.io:80/live/CaS01XxWvu4/6879304603/19182.m3u8
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/19181.m3u8
 #EXTINF:-1,[24H] Yu-Gi-Oh!
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/19180.m3u8
-#EXTINF:-1,[XXX] PlayBoy HD
-http://psrv.io:80/live/CaS01XxWvu4/6879304603/18487.m3u8
-#EXTINF:-1,[XXX] PlayBoy SD
-http://psrv.io:80/live/CaS01XxWvu4/6879304603/18488.m3u8
-#EXTINF:-1,[XXX] Sextreme SD
-http://psrv.io:80/live/CaS01XxWvu4/6879304603/18486.m3u8
-#EXTINF:-1,[XXX] SexyHot SD
-http://psrv.io:80/live/CaS01XxWvu4/6879304603/18485.m3u8
-#EXTINF:-1,[XXX] Venus SD
-http://psrv.io:80/live/CaS01XxWvu4/6879304603/18484.m3u8
 #EXTINF:-1,[MG] Alvorada FM - 94.9 FM
 http://psrv.io:80/live/CaS01XxWvu4/6879304603/549.m3u8
 #EXTINF:-1,[MG] Autêntica Favela FM - 106.7 FM
