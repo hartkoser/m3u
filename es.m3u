@@ -1,131 +1,103 @@
 #EXTM3U
-#EXTINF:-1,#0
-http://m-iptv.net:6204/live/987654123/987654123/10021.m3u8
-#EXTINF:-1,24 HORAS
-http://m-iptv.net:6204/live/987654123/987654123/10020.m3u8
-#EXTINF:-1,A&E
-http://m-iptv.net:6204/live/987654123/987654123/10019.m3u8
-#EXTINF:-1,AMC
-http://m-iptv.net:6204/live/987654123/987654123/10018.m3u8
-#EXTINF:-1,ANTENA 3
-http://m-iptv.net:6204/live/987654123/987654123/10017.m3u8
-#EXTINF:-1,AXN
-http://m-iptv.net:6204/live/987654123/987654123/10016.m3u8
-#EXTINF:-1,AXN WHITE
-http://m-iptv.net:6204/live/987654123/987654123/10015.m3u8
-#EXTINF:-1,BARCA TV
-http://m-iptv.net:6204/live/987654123/987654123/10014.m3u8
-#EXTINF:-1,BEIN LALIGA
-http://m-iptv.net:6204/live/987654123/987654123/10013.m3u8
-#EXTINF:-1,BEIN SPORTS
-http://m-iptv.net:6204/live/987654123/987654123/10012.m3u8
-#EXTINF:-1,BOING
-http://m-iptv.net:6204/live/987654123/987654123/10011.m3u8
-#EXTINF:-1,CALLE 13
-http://m-iptv.net:6204/live/987654123/987654123/10010.m3u8
-#EXTINF:-1,CANAL COCINA
-http://m-iptv.net:6204/live/987654123/987654123/10009.m3u8
-#EXTINF:-1,CANAL DECASA
-http://m-iptv.net:6204/live/987654123/987654123/10008.m3u8
-#EXTINF:-1,CANAL ODISEA
-http://m-iptv.net:6204/live/987654123/987654123/10007.m3u8
-#EXTINF:-1,CAZA Y PESCA
-http://m-iptv.net:6204/live/987654123/987654123/10006.m3u8
-#EXTINF:-1,CLAN TVE
-http://m-iptv.net:6204/live/987654123/987654123/10005.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://m-iptv.net:6204/live/987654123/987654123/10004.m3u8
-#EXTINF:-1,COSMO
-http://m-iptv.net:6204/live/987654123/987654123/10003.m3u8
-#EXTINF:-1,CUATRO
-http://m-iptv.net:6204/live/987654123/987654123/10001.m3u8
-#EXTINF:-1,DISCOVERY
-http://m-iptv.net:6204/live/987654123/987654123/10000.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://m-iptv.net:6204/live/987654123/987654123/9999.m3u8
-#EXTINF:-1,DISNEY JR
-http://m-iptv.net:6204/live/987654123/987654123/9998.m3u8
-#EXTINF:-1,DISNEY XD
-http://m-iptv.net:6204/live/987654123/987654123/9997.m3u8
-#EXTINF:-1,DIVINITY
-http://m-iptv.net:6204/live/987654123/987654123/9996.m3u8
-#EXTINF:-1,ENERGY
-http://m-iptv.net:6204/live/987654123/987654123/9995.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://m-iptv.net:6204/live/987654123/987654123/9994.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://m-iptv.net:6204/live/987654123/987654123/9993.m3u8
-#EXTINF:-1,FOX
-http://m-iptv.net:6204/live/987654123/987654123/9992.m3u8
-#EXTINF:-1,FOX LIFE
-http://m-iptv.net:6204/live/987654123/987654123/9991.m3u8
-#EXTINF:-1,GOL TV
-http://m-iptv.net:6204/live/987654123/987654123/9990.m3u8
-#EXTINF:-1,HISTORIA
-http://m-iptv.net:6204/live/987654123/987654123/9989.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://m-iptv.net:6204/live/987654123/987654123/9988.m3u8
-#EXTINF:-1,LA 1
-http://m-iptv.net:6204/live/987654123/987654123/9986.m3u8
+#EXTINF:-1,LA 1 HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15039
 #EXTINF:-1,LA 2
-http://m-iptv.net:6204/live/987654123/987654123/9985.m3u8
-#EXTINF:-1,LA SEXTA
-http://m-iptv.net:6204/live/987654123/987654123/9984.m3u8
-#EXTINF:-1,LALIGA TV BAR
-http://m-iptv.net:6204/live/987654123/987654123/9983.m3u8
-#EXTINF:-1,M.ACCION
-http://m-iptv.net:6204/live/987654123/987654123/9982.m3u8
-#EXTINF:-1,M.CINE ESPANOL
-http://m-iptv.net:6204/live/987654123/987654123/9981.m3u8
-#EXTINF:-1,M.COMEDIA
-http://m-iptv.net:6204/live/987654123/987654123/9980.m3u8
-#EXTINF:-1,M.DCINE
-http://m-iptv.net:6204/live/987654123/987654123/9979.m3u8
-#EXTINF:-1,M.DEP 1
-http://m-iptv.net:6204/live/987654123/987654123/9978.m3u8
-#EXTINF:-1,M.DEP 2
-http://m-iptv.net:6204/live/987654123/987654123/9977.m3u8
-#EXTINF:-1,M.ESTRENOS
-http://m-iptv.net:6204/live/987654123/987654123/9976.m3u8
-#EXTINF:-1,M.FORMULA 1
-http://m-iptv.net:6204/live/987654123/987654123/9975.m3u8
-#EXTINF:-1,M.FUTBOL
-http://m-iptv.net:6204/live/987654123/987654123/9974.m3u8
-#EXTINF:-1,M.GOLF
-http://m-iptv.net:6204/live/987654123/987654123/9973.m3u8
-#EXTINF:-1,M.MOTOGP
-http://m-iptv.net:6204/live/987654123/987654123/9972.m3u8
-#EXTINF:-1,M.SERIES
-http://m-iptv.net:6204/live/987654123/987654123/9971.m3u8
-#EXTINF:-1,M.SERIESXTRA
-http://m-iptv.net:6204/live/987654123/987654123/9970.m3u8
-#EXTINF:-1,M.XTRA
-http://m-iptv.net:6204/live/987654123/987654123/9969.m3u8
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15038
+#EXTINF:-1,LA SEXTA HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15037
+#EXTINF:-1,ANTENA 3 HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15036
+#EXTINF:-1,CUATRO HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15035
+#EXTINF:-1,TELECINCO HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15034
+#EXTINF:-1,24 HORAS
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15032
+#EXTINF:-1,TVE INTERNACIONAL
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15031
+#EXTINF:-1,FDF
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15030
+#EXTINF:-1,#VAMOS HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/24973
+#EXTINF:-1,CLAN TVE
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15029
+#EXTINF:-1,HOLLYWOOD HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15028
+#EXTINF:-1,IBERALIA
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15027
+#EXTINF:-1,FOX HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15026
+#EXTINF:-1,FOX LIFE HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15025
+#EXTINF:-1,FOX NEWS
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15024
+#EXTINF:-1,0 HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15023
+#EXTINF:-1,AMC HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15022
+#EXTINF:-1,ARAGON
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15021
+#EXTINF:-1,AXN HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15020
+#EXTINF:-1,AXN
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15019
+#EXTINF:-1,AXN WHITE HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15018
+#EXTINF:-1,A3 SERIES HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/29608
+#EXTINF:-1,SYFY HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15017
+#EXTINF:-1,TCM HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15016
+#EXTINF:-1,TNT HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15015
+#EXTINF:-1,BE MAD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15014
+#EXTINF:-1,BLAZE
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15013
+#EXTINF:-1,CAZA Y PESCA HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15007
+#EXTINF:-1,CLASSICA
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15006
+#EXTINF:-1,COSMO HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15005
+#EXTINF:-1,CRIMEN Y INVES
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15004
+#EXTINF:-1,DIVINITY
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15003
+#EXTINF:-1,ENERGY
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15002
+#EXTINF:-1,BABY TV
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/15001
+#EXTINF:-1,COMEDY CENTRAL HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14998
+#EXTINF:-1,DISNEY HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14997
+#EXTINF:-1,DISNEY JR
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14996
+#EXTINF:-1,DISNEY XD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14995
+#EXTINF:-1,MEGA
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/19757
+#EXTINF:-1,MTV ROCKS
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14963
+#EXTINF:-1,DISCOVERY
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14962
+#EXTINF:-1,HISTORIA
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14961
+#EXTINF:-1,NAT GEO HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14960
 #EXTINF:-1,NAT GEO WILD
-http://m-iptv.net:6204/live/987654123/987654123/9967.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://m-iptv.net:6204/live/987654123/987654123/9966.m3u8
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14959
+#EXTINF:-1,NAT WILD HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14958
 #EXTINF:-1,NEOX
-http://m-iptv.net:6204/live/987654123/987654123/9965.m3u8
-#EXTINF:-1,NICKELODEON
-http://m-iptv.net:6204/live/987654123/987654123/9964.m3u8
-#EXTINF:-1,NOVA
-http://m-iptv.net:6204/live/987654123/987654123/9962.m3u8
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14957
 #EXTINF:-1,PARAMOUNT
-http://m-iptv.net:6204/live/987654123/987654123/9961.m3u8
-#EXTINF:-1,Real Madrid TV
-http://m-iptv.net:6204/live/987654123/987654123/9960.m3u8
-#EXTINF:-1,SUNDANCE
-http://m-iptv.net:6204/live/987654123/987654123/9959.m3u8
-#EXTINF:-1,SYFY
-http://m-iptv.net:6204/live/987654123/987654123/9958.m3u8
-#EXTINF:-1,TCM
-http://m-iptv.net:6204/live/987654123/987654123/9957.m3u8
-#EXTINF:-1,TELECINCO
-http://m-iptv.net:6204/live/987654123/987654123/9956.m3u8
-#EXTINF:-1,TELEDEPORTE
-http://m-iptv.net:6204/live/987654123/987654123/9955.m3u8
-#EXTINF:-1,TNT
-http://m-iptv.net:6204/live/987654123/987654123/9954.m3u8
-#EXTINF:-1,TOROS TV
-http://m-iptv.net:6204/live/987654123/987654123/9953.m3u8
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14956
+#EXTINF:-1,VH1
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14955
+#EXTINF:-1,VIAJAR HD
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14954
+#EXTINF:-1,BAR TV
+http://www.sansat.net:25461/12x0218j13/eRtraFv5Cv/14983
