@@ -1,137 +1,199 @@
 #EXTM3U
-#EXTINF:-1,TVP 1 HD
-http://tv2iptv.com:8000/khalil/khalil/24605
-#EXTINF:-1,TVP 2 HD
-http://tv2iptv.com:8000/khalil/khalil/24604
-#EXTINF:-1,TVP 3 HD
-http://tv2iptv.com:8000/khalil/khalil/24603
-#EXTINF:-1,TVP HD
-http://tv2iptv.com:8000/khalil/khalil/24606
-#EXTINF:-1,TVP Historia
-http://tv2iptv.com:8000/khalil/khalil/24522
-#EXTINF:-1,TVP Info
-http://tv2iptv.com:8000/khalil/khalil/24602
-#EXTINF:-1,TVP Seriale
-http://tv2iptv.com:8000/khalil/khalil/24554
-#EXTINF:-1,Polsat
-http://tv2iptv.com:8000/khalil/khalil/24557
-#EXTINF:-1,Polsat 1 HD
-http://tv2iptv.com:8000/khalil/khalil/24568
-#EXTINF:-1,Polsat 2 HD
-http://tv2iptv.com:8000/khalil/khalil/24567
-#EXTINF:-1,Polsat Cafe
-http://tv2iptv.com:8000/khalil/khalil/24555
-#EXTINF:-1,Polsat Film HD
-http://tv2iptv.com:8000/khalil/khalil/24566
-#EXTINF:-1,Polsat HD
-http://tv2iptv.com:8000/khalil/khalil/24558
-#EXTINF:-1,Polsat News
-http://tv2iptv.com:8000/khalil/khalil/24593
-#EXTINF:-1,Polsat Play HD
-http://tv2iptv.com:8000/khalil/khalil/24565
-#EXTINF:-1,Polsat Viasat Explore
-http://tv2iptv.com:8000/khalil/khalil/24529
-#EXTINF:-1,Polsat Viasat Explore HD
-http://tv2iptv.com:8000/khalil/khalil/24528
-#EXTINF:-1,Polsat Viasat History
-http://tv2iptv.com:8000/khalil/khalil/24527
-#EXTINF:-1,Polsat Viasat Nature
-http://tv2iptv.com:8000/khalil/khalil/24526
-#EXTINF:-1,SCI Discovery Science
-http://tv2iptv.com:8000/khalil/khalil/24525
-#EXTINF:-1,SCI Discovery Science HD
-http://tv2iptv.com:8000/khalil/khalil/24524
-#EXTINF:-1,SciFi
-http://tv2iptv.com:8000/khalil/khalil/24564
-#EXTINF:-1,Sundance TV
-http://tv2iptv.com:8000/khalil/khalil/24560
-#EXTINF:-1,Superstacja
-http://tv2iptv.com:8000/khalil/khalil/24592
-#EXTINF:-1,TLC HD
-http://tv2iptv.com:8000/khalil/khalil/24559
-#EXTINF:-1,TNT HD
-http://tv2iptv.com:8000/khalil/khalil/24561
-#EXTINF:-1,Travel Channel HD
-http://tv2iptv.com:8000/khalil/khalil/24523
-#EXTINF:-1,TV 4 HD
-http://tv2iptv.com:8000/khalil/khalil/24599
-#EXTINF:-1,TV Puls HD
-http://tv2iptv.com:8000/khalil/khalil/24596
-#EXTINF:-1,TVN 24
-http://tv2iptv.com:8000/khalil/khalil/24585
-#EXTINF:-1,TVN HD
-http://tv2iptv.com:8000/khalil/khalil/24595
-#EXTINF:-1,TVN Style
-http://tv2iptv.com:8000/khalil/khalil/24584
-#EXTINF:-1,TVN Turbo HD
-http://tv2iptv.com:8000/khalil/khalil/24597
-#EXTINF:-1,Universal HD
-http://tv2iptv.com:8000/khalil/khalil/24562
-#EXTINF:-1,WP
-http://tv2iptv.com:8000/khalil/khalil/24594
-#EXTINF:-1,13 Ulica HD
-http://tv2iptv.com:8000/khalil/khalil/24591
-#EXTINF:-1,4FUN Dance
-http://tv2iptv.com:8000/khalil/khalil/24544
-#EXTINF:-1,4FUN Gold
-http://tv2iptv.com:8000/khalil/khalil/24543
-#EXTINF:-1,4FUN TV
-http://tv2iptv.com:8000/khalil/khalil/24542
-#EXTINF:-1,Ale Kino
-http://tv2iptv.com:8000/khalil/khalil/24588
-#EXTINF:-1,Animal Planet
-http://tv2iptv.com:8000/khalil/khalil/24540
+#EXTINF:-1,Ale Kino HD
+http://m-iptv.net:6204/live/miran/123/10580.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://m-iptv.net:6204/live/miran/123/10579.m3u8
 #EXTINF:-1,AXN Black
-http://tv2iptv.com:8000/khalil/khalil/24587
-#EXTINF:-1,AXN HD
-http://tv2iptv.com:8000/khalil/khalil/24570
-#EXTINF:-1,AXN White
-http://tv2iptv.com:8000/khalil/khalil/24586
-#EXTINF:-1,Da Vinci Learning
-http://tv2iptv.com:8000/khalil/khalil/24521
+http://m-iptv.net:6204/live/miran/123/10578.m3u8
+#EXTINF:-1,AXN White Poland
+http://m-iptv.net:6204/live/miran/123/10577.m3u8
+#EXTINF:-1,Boomerang
+http://m-iptv.net:6204/live/miran/123/10576.m3u8
+#EXTINF:-1,CANAL FAMILY
+http://m-iptv.net:6204/live/miran/123/10575.m3u8
+#EXTINF:-1,CANAL FILM
+http://m-iptv.net:6204/live/miran/123/10574.m3u8
+#EXTINF:-1,CANAL HD
+http://m-iptv.net:6204/live/miran/123/10573.m3u8
+#EXTINF:-1,CANAL SERIALE
+http://m-iptv.net:6204/live/miran/123/10572.m3u8
+#EXTINF:-1,CANAL SPORT
+http://m-iptv.net:6204/live/miran/123/10571.m3u8
+#EXTINF:-1,CANAL SPORT 2
+http://m-iptv.net:6204/live/miran/123/10570.m3u8
+#EXTINF:-1,CBS Reality
+http://m-iptv.net:6204/live/miran/123/10569.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://m-iptv.net:6204/live/miran/123/10568.m3u8
+#EXTINF:-1,Disco Polo Music
+http://m-iptv.net:6204/live/miran/123/10567.m3u8
 #EXTINF:-1,Discovery HD
-http://tv2iptv.com:8000/khalil/khalil/24539
-#EXTINF:-1,Discovery Turbo Xtra
-http://tv2iptv.com:8000/khalil/khalil/24538
+http://m-iptv.net:6204/live/miran/123/10566.m3u8
+#EXTINF:-1,Discovery Life
+http://m-iptv.net:6204/live/miran/123/10565.m3u8
+#EXTINF:-1,Discovery Life  Poland HD
+http://m-iptv.net:6204/live/miran/123/10564.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://m-iptv.net:6204/live/miran/123/10563.m3u8
 #EXTINF:-1,Disney Channel HD
-http://tv2iptv.com:8000/khalil/khalil/24553
-#EXTINF:-1,Disney Junior
-http://tv2iptv.com:8000/khalil/khalil/24552
+http://m-iptv.net:6204/live/miran/123/10562.m3u8
 #EXTINF:-1,Disney XD
-http://tv2iptv.com:8000/khalil/khalil/24551
-#EXTINF:-1,Eska Best Music TV
-http://tv2iptv.com:8000/khalil/khalil/24541
-#EXTINF:-1,Fokus TV
-http://tv2iptv.com:8000/khalil/khalil/24533
+http://m-iptv.net:6204/live/miran/123/10561.m3u8
+#EXTINF:-1,E! Entertainment
+http://m-iptv.net:6204/live/miran/123/10560.m3u8
+#EXTINF:-1,ELEVEN HD
+http://m-iptv.net:6204/live/miran/123/10559.m3u8
+#EXTINF:-1,ELEVEN Sport HD
+http://m-iptv.net:6204/live/miran/123/10558.m3u8
+#EXTINF:-1,ESKA TV
+http://m-iptv.net:6204/live/miran/123/10557.m3u8
+#EXTINF:-1,ESKA TV Extra
+http://m-iptv.net:6204/live/miran/123/10556.m3u8
+#EXTINF:-1,Eurosport 1
+http://m-iptv.net:6204/live/miran/123/10555.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://m-iptv.net:6204/live/miran/123/10554.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://m-iptv.net:6204/live/miran/123/10553.m3u8
+#EXTINF:-1,Extreme Sports HD
+http://m-iptv.net:6204/live/miran/123/10552.m3u8
+#EXTINF:-1,Fightbox HD
+http://m-iptv.net:6204/live/miran/123/10551.m3u8
+#EXTINF:-1,Filmbox
+http://m-iptv.net:6204/live/miran/123/10550.m3u8
+#EXTINF:-1,Filmbox Action
+http://m-iptv.net:6204/live/miran/123/10549.m3u8
+#EXTINF:-1,FilmBox Extra
+http://m-iptv.net:6204/live/miran/123/10548.m3u8
+#EXTINF:-1,FILMBOX EXTRA HD
+http://m-iptv.net:6204/live/miran/123/10547.m3u8
+#EXTINF:-1,Filmbox Family
+http://m-iptv.net:6204/live/miran/123/10546.m3u8
+#EXTINF:-1,Filmbox Premium
+http://m-iptv.net:6204/live/miran/123/10545.m3u8
+#EXTINF:-1,FilmBox Premium HD
+http://m-iptv.net:6204/live/miran/123/10544.m3u8
+#EXTINF:-1,FOKUS TV
+http://m-iptv.net:6204/live/miran/123/10543.m3u8
+#EXTINF:-1,Food Network HD
+http://m-iptv.net:6204/live/miran/123/10542.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://m-iptv.net:6204/live/miran/123/10541.m3u8
+#EXTINF:-1,Golf Channel
+http://m-iptv.net:6204/live/miran/123/10539.m3u8
+#EXTINF:-1,H2 HD
+http://m-iptv.net:6204/live/miran/123/10538.m3u8
 #EXTINF:-1,HBO 2 HD
-http://tv2iptv.com:8000/khalil/khalil/24572
-#EXTINF:-1,HBO 3 HD
-http://tv2iptv.com:8000/khalil/khalil/24571
+http://m-iptv.net:6204/live/miran/123/10537.m3u8
 #EXTINF:-1,HBO HD
-http://tv2iptv.com:8000/khalil/khalil/24573
-#EXTINF:-1,History
-http://tv2iptv.com:8000/khalil/khalil/24532
-#EXTINF:-1,Kino Polska
-http://tv2iptv.com:8000/khalil/khalil/24589
-#EXTINF:-1,Kino TV
-http://tv2iptv.com:8000/khalil/khalil/24590
-#EXTINF:-1,Kuchnia  HD
-http://tv2iptv.com:8000/khalil/khalil/24520
+http://m-iptv.net:6204/live/miran/123/10536.m3u8
+#EXTINF:-1,Hip Hop TV
+http://m-iptv.net:6204/live/miran/123/10535.m3u8
+#EXTINF:-1,History HD
+http://m-iptv.net:6204/live/miran/123/10534.m3u8
+#EXTINF:-1,Investigation Discovery Polska
+http://m-iptv.net:6204/live/miran/123/10533.m3u8
+#EXTINF:-1,KINO POLSKA
+http://m-iptv.net:6204/live/miran/123/10532.m3u8
+#EXTINF:-1,KUCHNIA HD
+http://m-iptv.net:6204/live/miran/123/10531.m3u8
 #EXTINF:-1,Lifetime HD
-http://tv2iptv.com:8000/khalil/khalil/24519
-#EXTINF:-1,MTV MUSIC
-http://tv2iptv.com:8000/khalil/khalil/24545
-#EXTINF:-1,MTV Polska
-http://tv2iptv.com:8000/khalil/khalil/24546
-#EXTINF:-1,Nat Geo HD
-http://tv2iptv.com:8000/khalil/khalil/24535
-#EXTINF:-1,NAT GEO WILD HD
-http://tv2iptv.com:8000/khalil/khalil/24534
-#EXTINF:-1,National Geographic
-http://tv2iptv.com:8000/khalil/khalil/24536
-#EXTINF:-1,Nick Junior
-http://tv2iptv.com:8000/khalil/khalil/24548
-#EXTINF:-1,Nickelodeon
-http://tv2iptv.com:8000/khalil/khalil/24549
-#EXTINF:-1,Paramount Channel HD
-http://tv2iptv.com:8000/khalil/khalil/24563
+http://m-iptv.net:6204/live/miran/123/10530.m3u8
+#EXTINF:-1,MiniMini  HD
+http://m-iptv.net:6204/live/miran/123/10529.m3u8
+#EXTINF:-1,MTV Live HD
+http://m-iptv.net:6204/live/miran/123/10528.m3u8
+#EXTINF:-1,MTV POLSKA
+http://m-iptv.net:6204/live/miran/123/10527.m3u8
+#EXTINF:-1,MTV Polska HD
+http://m-iptv.net:6204/live/miran/123/10526.m3u8
+#EXTINF:-1,Nat Geo People HD
+http://m-iptv.net:6204/live/miran/123/10525.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://m-iptv.net:6204/live/miran/123/10524.m3u8
+#EXTINF:-1,NATIONAL GEO
+http://m-iptv.net:6204/live/miran/123/10523.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://m-iptv.net:6204/live/miran/123/10522.m3u8
+#EXTINF:-1,National Geographic Polska
+http://m-iptv.net:6204/live/miran/123/10521.m3u8
+#EXTINF:-1,nSport
+http://m-iptv.net:6204/live/miran/123/10520.m3u8
+#EXTINF:-1,Polsat
+http://m-iptv.net:6204/live/miran/123/10519.m3u8
+#EXTINF:-1,Polsat 2
+http://m-iptv.net:6204/live/miran/123/10518.m3u8
+#EXTINF:-1,Polsat Cafe
+http://m-iptv.net:6204/live/miran/123/10517.m3u8
+#EXTINF:-1,Polsat Film
+http://m-iptv.net:6204/live/miran/123/10516.m3u8
+#EXTINF:-1,Polsat HD
+http://m-iptv.net:6204/live/miran/123/10515.m3u8
+#EXTINF:-1,Polsat Jim Jam
+http://m-iptv.net:6204/live/miran/123/10514.m3u8
+#EXTINF:-1,Polsat News HD
+http://m-iptv.net:6204/live/miran/123/10513.m3u8
+#EXTINF:-1,Polsat Play
+http://m-iptv.net:6204/live/miran/123/10512.m3u8
+#EXTINF:-1,Polsat Play HD
+http://m-iptv.net:6204/live/miran/123/10511.m3u8
+#EXTINF:-1,Polsat Sport
+http://m-iptv.net:6204/live/miran/123/10510.m3u8
+#EXTINF:-1,Polsat Sport Extra HD
+http://m-iptv.net:6204/live/miran/123/10509.m3u8
+#EXTINF:-1,Polsat Sport HD
+http://m-iptv.net:6204/live/miran/123/10508.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://m-iptv.net:6204/live/miran/123/10507.m3u8
+#EXTINF:-1,POWER TV
+http://m-iptv.net:6204/live/miran/123/10506.m3u8
+#EXTINF:-1,SciFi Universal
+http://m-iptv.net:6204/live/miran/123/10505.m3u8
+#EXTINF:-1,Sundance HD
+http://m-iptv.net:6204/live/miran/123/10504.m3u8
+#EXTINF:-1,Super Polsat
+http://m-iptv.net:6204/live/miran/123/10503.m3u8
+#EXTINF:-1,TLC
+http://m-iptv.net:6204/live/miran/123/10502.m3u8
+#EXTINF:-1,TLC HD
+http://m-iptv.net:6204/live/miran/123/10501.m3u8
+#EXTINF:-1,TNT HD
+http://m-iptv.net:6204/live/miran/123/10500.m3u8
+#EXTINF:-1,TV Puls HD
+http://m-iptv.net:6204/live/miran/123/10499.m3u8
+#EXTINF:-1,TV4
+http://m-iptv.net:6204/live/miran/123/10498.m3u8
+#EXTINF:-1,TV4 HD
+http://m-iptv.net:6204/live/miran/123/10497.m3u8
+#EXTINF:-1,TV6 Polska
+http://m-iptv.net:6204/live/miran/123/10496.m3u8
+#EXTINF:-1,TVN
+http://m-iptv.net:6204/live/miran/123/10495.m3u8
+#EXTINF:-1,TVN 24
+http://m-iptv.net:6204/live/miran/123/10494.m3u8
+#EXTINF:-1,TVN Fabula
+http://m-iptv.net:6204/live/miran/123/10493.m3u8
+#EXTINF:-1,TVN Style
+http://m-iptv.net:6204/live/miran/123/10492.m3u8
+#EXTINF:-1,TVN Style HD
+http://m-iptv.net:6204/live/miran/123/10491.m3u8
+#EXTINF:-1,TVN Turbo
+http://m-iptv.net:6204/live/miran/123/10490.m3u8
+#EXTINF:-1,TVP ABC
+http://m-iptv.net:6204/live/miran/123/10489.m3u8
+#EXTINF:-1,TVP Historia
+http://m-iptv.net:6204/live/miran/123/10488.m3u8
+#EXTINF:-1,VOX Music TV
+http://m-iptv.net:6204/live/miran/123/10481.m3u8
+#EXTINF:-1,TVP Kultura
+http://m-iptv.net:6204/live/miran/123/10487.m3u8
+#EXTINF:-1,TVP SERIALE
+http://m-iptv.net:6204/live/miran/123/10486.m3u8
+#EXTINF:-1,TVP1
+http://m-iptv.net:6204/live/miran/123/10485.m3u8
+#EXTINF:-1,TVP2 HD
+http://m-iptv.net:6204/live/miran/123/10484.m3u8
+#EXTINF:-1,TVP3
+http://m-iptv.net:6204/live/miran/123/10483.m3u8
+#EXTINF:-1,TVS
+http://m-iptv.net:6204/live/miran/123/10482.m3u8

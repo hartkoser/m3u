@@ -1,75 +1,131 @@
 #EXTM3U
-#EXTINF:-1,LA 1 HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23174
-#EXTINF:-1,LA1
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23173
-#EXTINF:-1,CLAN TVE
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23172
-#EXTINF:-1,LA2
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23171
-#EXTINF:-1,ANTENA 3HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23170
-#EXTINF:-1,ANTENA3
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23169
-#EXTINF:-1,CUATRO HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23168
-#EXTINF:-1,CUATRO
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23167
-#EXTINF:-1,TELECINCO HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23166
-#EXTINF:-1,TELECINCO
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23165
-#EXTINF:-1,LA SEXTA FHD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23164
-#EXTINF:-1,LA SEXTA HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23163
-#EXTINF:-1,LA SEXTA
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23162
-#EXTINF:-1,TV GALICIA
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23161
-#EXTINF:-1,CANAL ANDALUCIA
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23160
-#EXTINF:-1,TV3 CATALUNYA
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23159
-#EXTINF:-1,ODISEA
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23115
-#EXTINF:-1,NATGEOGRAPHIC HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23114
-#EXTINF:-1,NATGEOWILD HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23113
-#EXTINF:-1,NAT GEO WILD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23112
-#EXTINF:-1,DISCOVERY CHANNEL HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23110
-#EXTINF:-1,HISTORIA
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23109
+#EXTINF:-1,#0
+http://m-iptv.net:6204/live/miran/123/10021.m3u8
+#EXTINF:-1,24 HORAS
+http://m-iptv.net:6204/live/miran/123/10020.m3u8
 #EXTINF:-1,A&E
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23108
-#EXTINF:-1,CAZA Y PESCA HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23107
-#EXTINF:-1,IBERALIA TV
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23106
-#EXTINF:-1,VIAJAR HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23105
+http://m-iptv.net:6204/live/miran/123/10019.m3u8
+#EXTINF:-1,AMC
+http://m-iptv.net:6204/live/miran/123/10018.m3u8
+#EXTINF:-1,ANTENA 3
+http://m-iptv.net:6204/live/miran/123/10017.m3u8
+#EXTINF:-1,AXN
+http://m-iptv.net:6204/live/miran/123/10016.m3u8
+#EXTINF:-1,AXN WHITE
+http://m-iptv.net:6204/live/miran/123/10015.m3u8
+#EXTINF:-1,BARCA TV
+http://m-iptv.net:6204/live/miran/123/10014.m3u8
+#EXTINF:-1,BEIN LALIGA
+http://m-iptv.net:6204/live/miran/123/10013.m3u8
+#EXTINF:-1,BEIN SPORTS
+http://m-iptv.net:6204/live/miran/123/10012.m3u8
+#EXTINF:-1,BOING
+http://m-iptv.net:6204/live/miran/123/10011.m3u8
+#EXTINF:-1,CALLE 13
+http://m-iptv.net:6204/live/miran/123/10010.m3u8
 #EXTINF:-1,CANAL COCINA
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23104
-#EXTINF:-1,NICKELODEON HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23102
-#EXTINF:-1,NICKELODEON ESP HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23101
-#EXTINF:-1,NICK JR
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23100
-#EXTINF:-1,DISNEY ESP XD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23099
+http://m-iptv.net:6204/live/miran/123/10009.m3u8
+#EXTINF:-1,CANAL DECASA
+http://m-iptv.net:6204/live/miran/123/10008.m3u8
+#EXTINF:-1,CANAL ODISEA
+http://m-iptv.net:6204/live/miran/123/10007.m3u8
+#EXTINF:-1,CAZA Y PESCA
+http://m-iptv.net:6204/live/miran/123/10006.m3u8
+#EXTINF:-1,CLAN TVE
+http://m-iptv.net:6204/live/miran/123/10005.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://m-iptv.net:6204/live/miran/123/10004.m3u8
+#EXTINF:-1,COSMO
+http://m-iptv.net:6204/live/miran/123/10003.m3u8
+#EXTINF:-1,CUATRO
+http://m-iptv.net:6204/live/miran/123/10001.m3u8
+#EXTINF:-1,DISCOVERY
+http://m-iptv.net:6204/live/miran/123/10000.m3u8
 #EXTINF:-1,DISNEY CHANNEL HD
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23098
+http://m-iptv.net:6204/live/miran/123/9999.m3u8
 #EXTINF:-1,DISNEY JR
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23097
-#EXTINF:-1,DISNEY CHANNEL
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23096
-#EXTINF:-1,CANAL PANDA
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23095
-#EXTINF:-1,BOING ESP
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23094
-#EXTINF:-1,BABY ESP
-http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23093
+http://m-iptv.net:6204/live/miran/123/9998.m3u8
+#EXTINF:-1,DISNEY XD
+http://m-iptv.net:6204/live/miran/123/9997.m3u8
+#EXTINF:-1,DIVINITY
+http://m-iptv.net:6204/live/miran/123/9996.m3u8
+#EXTINF:-1,ENERGY
+http://m-iptv.net:6204/live/miran/123/9995.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://m-iptv.net:6204/live/miran/123/9994.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://m-iptv.net:6204/live/miran/123/9993.m3u8
+#EXTINF:-1,FOX
+http://m-iptv.net:6204/live/miran/123/9992.m3u8
+#EXTINF:-1,FOX LIFE
+http://m-iptv.net:6204/live/miran/123/9991.m3u8
+#EXTINF:-1,GOL TV
+http://m-iptv.net:6204/live/miran/123/9990.m3u8
+#EXTINF:-1,HISTORIA
+http://m-iptv.net:6204/live/miran/123/9989.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://m-iptv.net:6204/live/miran/123/9988.m3u8
+#EXTINF:-1,LA 1
+http://m-iptv.net:6204/live/miran/123/9986.m3u8
+#EXTINF:-1,LA 2
+http://m-iptv.net:6204/live/miran/123/9985.m3u8
+#EXTINF:-1,LA SEXTA
+http://m-iptv.net:6204/live/miran/123/9984.m3u8
+#EXTINF:-1,LALIGA TV BAR
+http://m-iptv.net:6204/live/miran/123/9983.m3u8
+#EXTINF:-1,M.ACCION
+http://m-iptv.net:6204/live/miran/123/9982.m3u8
+#EXTINF:-1,M.CINE ESPANOL
+http://m-iptv.net:6204/live/miran/123/9981.m3u8
+#EXTINF:-1,M.COMEDIA
+http://m-iptv.net:6204/live/miran/123/9980.m3u8
+#EXTINF:-1,M.DCINE
+http://m-iptv.net:6204/live/miran/123/9979.m3u8
+#EXTINF:-1,M.DEP 1
+http://m-iptv.net:6204/live/miran/123/9978.m3u8
+#EXTINF:-1,M.DEP 2
+http://m-iptv.net:6204/live/miran/123/9977.m3u8
+#EXTINF:-1,M.ESTRENOS
+http://m-iptv.net:6204/live/miran/123/9976.m3u8
+#EXTINF:-1,M.FORMULA 1
+http://m-iptv.net:6204/live/miran/123/9975.m3u8
+#EXTINF:-1,M.FUTBOL
+http://m-iptv.net:6204/live/miran/123/9974.m3u8
+#EXTINF:-1,M.GOLF
+http://m-iptv.net:6204/live/miran/123/9973.m3u8
+#EXTINF:-1,M.MOTOGP
+http://m-iptv.net:6204/live/miran/123/9972.m3u8
+#EXTINF:-1,M.SERIES
+http://m-iptv.net:6204/live/miran/123/9971.m3u8
+#EXTINF:-1,M.SERIESXTRA
+http://m-iptv.net:6204/live/miran/123/9970.m3u8
+#EXTINF:-1,M.XTRA
+http://m-iptv.net:6204/live/miran/123/9969.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://m-iptv.net:6204/live/miran/123/9967.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://m-iptv.net:6204/live/miran/123/9966.m3u8
+#EXTINF:-1,NEOX
+http://m-iptv.net:6204/live/miran/123/9965.m3u8
+#EXTINF:-1,NICKELODEON
+http://m-iptv.net:6204/live/miran/123/9964.m3u8
+#EXTINF:-1,NOVA
+http://m-iptv.net:6204/live/miran/123/9962.m3u8
+#EXTINF:-1,PARAMOUNT
+http://m-iptv.net:6204/live/miran/123/9961.m3u8
+#EXTINF:-1,Real Madrid TV
+http://m-iptv.net:6204/live/miran/123/9960.m3u8
+#EXTINF:-1,SUNDANCE
+http://m-iptv.net:6204/live/miran/123/9959.m3u8
+#EXTINF:-1,SYFY
+http://m-iptv.net:6204/live/miran/123/9958.m3u8
+#EXTINF:-1,TCM
+http://m-iptv.net:6204/live/miran/123/9957.m3u8
+#EXTINF:-1,TELECINCO
+http://m-iptv.net:6204/live/miran/123/9956.m3u8
+#EXTINF:-1,TELEDEPORTE
+http://m-iptv.net:6204/live/miran/123/9955.m3u8
+#EXTINF:-1,TNT
+http://m-iptv.net:6204/live/miran/123/9954.m3u8
+#EXTINF:-1,TOROS TV
+http://m-iptv.net:6204/live/miran/123/9953.m3u8
