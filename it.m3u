@@ -1,471 +1,359 @@
 #EXTM3U
-#EXTINF:-1,AutoMoto TV
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15899.m3u8
-#EXTINF:-1,AutoMoto TV VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15898.m3u8
-#EXTINF:-1,Bike Channel HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15897.m3u8
-#EXTINF:-1,Caccia e Pesca
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15904.m3u8
-#EXTINF:-1,Caccia e Pesca VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15903.m3u8
-#EXTINF:-1,Canale 5 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16084.m3u8
-#EXTINF:-1,Canale 5 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16083.m3u8
-#EXTINF:-1,Canale 5
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16082.m3u8
-#EXTINF:-1,Dea Junior VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15895.m3u8
-#EXTINF:-1,Dea Kids VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15894.m3u8
-#EXTINF:-1,DeeJay TV
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15893.m3u8
-#EXTINF:-1,Eagle Cinema Animazione FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16029.m3u8
-#EXTINF:-1,Eagle Cinema Avventura FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16028.m3u8
-#EXTINF:-1,Eagle Cinema Azione FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16027.m3u8
-#EXTINF:-1,Eagle Cinema Comico Cult FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16026.m3u8
-#EXTINF:-1,Eagle Cinema Commedia FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16025.m3u8
-#EXTINF:-1,Eagle Cinema Drammatico FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16024.m3u8
-#EXTINF:-1,Eagle Cinema Fantastico FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16023.m3u8
-#EXTINF:-1,Eagle Cinema Film in Sala FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16022.m3u8
-#EXTINF:-1,Eagle Cinema Horror FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16021.m3u8
-#EXTINF:-1,Eagle Cinema Mitologia HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16020.m3u8
-#EXTINF:-1,Eagle Cinema Passione FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16019.m3u8
-#EXTINF:-1,Eagle Cinema Prima Visione FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16018.m3u8
-#EXTINF:-1,Eagle Cinema Sorriso FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16017.m3u8
-#EXTINF:-1,Eagle Cinema Storico FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16016.m3u8
-#EXTINF:-1,Eagle Cinema Thriller FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16015.m3u8
-#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16014.m3u8
-#EXTINF:-1,Disney XD HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15887.m3u8
-#EXTINF:-1,Eagle Fiabe Magiche HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16013.m3u8
-#EXTINF:-1,Eagle Le Fiabe Disney HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16012.m3u8
-#EXTINF:-1,Eagle Looney Toons HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16011.m3u8
-#EXTINF:-1,Eagle Masha e Orso HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16010.m3u8
-#EXTINF:-1,Eagle Peppa Pig HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16009.m3u8
-#EXTINF:-1,EuroSport 1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15901.m3u8
-#EXTINF:-1,FOX Animation  1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16048.m3u8
-#EXTINF:-1,FOX Animation FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16051.m3u8
-#EXTINF:-1,FOX Animation HD (LowRes)
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16049.m3u8
-#EXTINF:-1,FOX Animation HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16050.m3u8
-#EXTINF:-1,FOX Comedy  1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16044.m3u8
-#EXTINF:-1,FOX Comedy FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16047.m3u8
-#EXTINF:-1,FOX Comedy HD (LowRes)
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16045.m3u8
-#EXTINF:-1,FOX Comedy HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16046.m3u8
-#EXTINF:-1,Fox Crime  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16043.m3u8
-#EXTINF:-1,Fox Crime FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16042.m3u8
-#EXTINF:-1,Fox Crime HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16041.m3u8
-#EXTINF:-1,Fox Crime HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16040.m3u8
-#EXTINF:-1,Fox Crime VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16039.m3u8
-#EXTINF:-1,FOX HD (LowRes)
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16053.m3u8
-#EXTINF:-1,EuroSport 1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15902.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15900.m3u8
-#EXTINF:-1,FOX FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16055.m3u8
-#EXTINF:-1,FOX HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16054.m3u8
-#EXTINF:-1,FOX
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16052.m3u8
-#EXTINF:-1,Fox Life  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16037.m3u8
-#EXTINF:-1,Fox Life  1
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16038.m3u8
-#EXTINF:-1,Fox Life FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16036.m3u8
-#EXTINF:-1,Fox Life HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16035.m3u8
-#EXTINF:-1,Fox Life HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16034.m3u8
-#EXTINF:-1,Fox Life VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16033.m3u8
-#EXTINF:-1,Fox Movies HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16032.m3u8
-#EXTINF:-1,FOX Movies VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16031.m3u8
-#EXTINF:-1,Fox Sports FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15916.m3u8
-#EXTINF:-1,Fox Sports HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15915.m3u8
-#EXTINF:-1,Fox Sports VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15914.m3u8
-#EXTINF:-1,Italia 1 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16086.m3u8
-#EXTINF:-1,Italia 2 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16085.m3u8
-#EXTINF:-1,Juventus Channel VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15913.m3u8
-#EXTINF:-1,Italia Uno
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16087.m3u8
-#EXTINF:-1,Lazio Channel VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15912.m3u8
-#EXTINF:-1,Lazio Style Channel
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15911.m3u8
-#EXTINF:-1,Pesca e Caccia
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15906.m3u8
-#EXTINF:-1,Pesca e Caccia VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15905.m3u8
-#EXTINF:-1,Premium Action  24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15984.m3u8
-#EXTINF:-1,Premium Action HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15983.m3u8
-#EXTINF:-1,Premium Calcio 1
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15962.m3u8
-#EXTINF:-1,Premium Calcio 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15961.m3u8
-#EXTINF:-1,Premium Calcio 3
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15960.m3u8
-#EXTINF:-1,Premium Calcio 4
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15959.m3u8
-#EXTINF:-1,Premium Calcio 5
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15958.m3u8
-#EXTINF:-1,Premium Calcio 6
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15957.m3u8
-#EXTINF:-1,Premium Cinema  24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15998.m3u8
-#EXTINF:-1,Premium Cinema 2  24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15997.m3u8
-#EXTINF:-1,Premium Cinema 2 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15996.m3u8
-#EXTINF:-1,Premium Cinema Comedy
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15995.m3u8
-#EXTINF:-1,Premium Cinema Energy
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15994.m3u8
-#EXTINF:-1,Premium Cinema HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15993.m3u8
-#EXTINF:-1,Premium Crime  24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15992.m3u8
-#EXTINF:-1,Premium Crime HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15991.m3u8
-#EXTINF:-1,Premium Emotion
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15990.m3u8
-#EXTINF:-1,Premium Joi
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15989.m3u8
-#EXTINF:-1,Premium Sport 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15988.m3u8
-#EXTINF:-1,Premium Sport HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15987.m3u8
-#EXTINF:-1,Premium Stories
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15986.m3u8
-#EXTINF:-1,Premium Studio Universal
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15985.m3u8
-#EXTINF:-1,Mediaset Extra
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16079.m3u8
-#EXTINF:-1,Mediaset Extra VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16078.m3u8
-#EXTINF:-1,Mediasetalie Due VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16077.m3u8
-#EXTINF:-1,Mediaset TGCOM24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16076.m3u8
-#EXTINF:-1,Mediaset TGCOM24 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16075.m3u8
-#EXTINF:-1,Milan Channel
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15910.m3u8
-#EXTINF:-1,Nick Junior
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15886.m3u8
-#EXTINF:-1,Rai 1 FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16124.m3u8
-#EXTINF:-1,Rai 1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16123.m3u8
-#EXTINF:-1,Rai 1
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16122.m3u8
-#EXTINF:-1,Rai 2 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16121.m3u8
-#EXTINF:-1,Rai 2 HD2 
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16120.m3u8
-#EXTINF:-1,Rai 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16119.m3u8
-#EXTINF:-1,Rai 3 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16118.m3u8
-#EXTINF:-1,Rai 3 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16117.m3u8
-#EXTINF:-1,Rai 4 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16116.m3u8
-#EXTINF:-1,Rai 4
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16115.m3u8
-#EXTINF:-1,Rai 5 1080i
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16112.m3u8
-#EXTINF:-1,Rai 5 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16114.m3u8
-#EXTINF:-1,Rai 5 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16113.m3u8
-#EXTINF:-1,Rai 5
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16111.m3u8
-#EXTINF:-1,Rai Gulp FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16110.m3u8
-#EXTINF:-1,Rai Gulp
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16109.m3u8
-#EXTINF:-1,Rai Movie HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16108.m3u8
-#EXTINF:-1,Rai Movie
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16107.m3u8
-#EXTINF:-1,Rai News 24 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16106.m3u8
-#EXTINF:-1,Rai News 24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16105.m3u8
-#EXTINF:-1,Rai Premium HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16104.m3u8
-#EXTINF:-1,Rai Premium
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16103.m3u8
-#EXTINF:-1,Rai Scuola HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16102.m3u8
-#EXTINF:-1,Rai Scuola
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16101.m3u8
-#EXTINF:-1,Rai Sport 1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16100.m3u8
-#EXTINF:-1,Rai Sport 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16099.m3u8
-#EXTINF:-1,Rai Sport Plus HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16098.m3u8
-#EXTINF:-1,Rai Storia HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16097.m3u8
-#EXTINF:-1,Rai Storia
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16096.m3u8
-#EXTINF:-1,Rai YoYo HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16095.m3u8
-#EXTINF:-1,Rai YoYo HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16094.m3u8
-#EXTINF:-1,Real Giallo
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16093.m3u8
-#EXTINF:-1,Real Time  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16092.m3u8
-#EXTINF:-1,Real Time FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16091.m3u8
-#EXTINF:-1,Real Time HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16090.m3u8
-#EXTINF:-1,Rete 4
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16089.m3u8
-#EXTINF:-1,Rete 4 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16088.m3u8
-#EXTINF:-1,Roma Channel
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15909.m3u8
-#EXTINF:-1,Senato VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16074.m3u8
-#EXTINF:-1,Sky Arte FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16059.m3u8
-#EXTINF:-1,Sky Arte HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16060.m3u8
-#EXTINF:-1,Sky 3D
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16061.m3u8
-#EXTINF:-1,Sky Calcio 1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15980.m3u8
-#EXTINF:-1,Sky Calcio 1
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15979.m3u8
-#EXTINF:-1,Sky Calcio 1 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15978.m3u8
-#EXTINF:-1,Sky Calcio 10 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15963.m3u8
-#EXTINF:-1,Sky Calcio 2 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15977.m3u8
-#EXTINF:-1,Sky Calcio 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15976.m3u8
-#EXTINF:-1,Sky Calcio 2 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15975.m3u8
-#EXTINF:-1,Sky Calcio 3 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15974.m3u8
-#EXTINF:-1,Sky Calcio 3 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15973.m3u8
-#EXTINF:-1,Sky Calcio 4 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15972.m3u8
-#EXTINF:-1,Sky Calcio 4 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15971.m3u8
-#EXTINF:-1,Sky Calcio 5 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15970.m3u8
-#EXTINF:-1,Sky Calcio 5 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15969.m3u8
-#EXTINF:-1,Sky Calcio 6 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15968.m3u8
-#EXTINF:-1,Sky Calcio 6 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15967.m3u8
-#EXTINF:-1,Sky Calcio 7 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15966.m3u8
-#EXTINF:-1,Sky Calcio 8 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15965.m3u8
-#EXTINF:-1,Sky Calcio 9 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15964.m3u8
-#EXTINF:-1,Sky Calcio Info VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15981.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16063.m3u8
-#EXTINF:-1,Sky Cinema Collection HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16069.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16068.m3u8
-#EXTINF:-1,Sky Cinema Drama FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16066.m3u8
-#EXTINF:-1,Sky Cinema Drama HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16067.m3u8
-#EXTINF:-1,Sky Cinema Due HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16065.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16064.m3u8
-#EXTINF:-1,Sky Cinema Romance HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16062.m3u8
-#EXTINF:-1,Sky Cinema Uno  24 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16070.m3u8
-#EXTINF:-1,Sky Cinema Uno HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16071.m3u8
-#EXTINF:-1,Sky Atlantic FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16058.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16057.m3u8
-#EXTINF:-1,Sky Atlantic
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16056.m3u8
-#EXTINF:-1,Sky Cinema Uno SD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16072.m3u8
-#EXTINF:-1,Sky Formula 1  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15949.m3u8
-#EXTINF:-1,Sky Formula 1 FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15948.m3u8
-#EXTINF:-1,Sky Formula 1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15947.m3u8
-#EXTINF:-1,Sky Formula 1 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15946.m3u8
-#EXTINF:-1,Sky Moto GP  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15945.m3u8
-#EXTINF:-1,Sky Moto GP FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15944.m3u8
-#EXTINF:-1,Sky Moto GP HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15943.m3u8
-#EXTINF:-1,Sky Moto GP VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15942.m3u8
-#EXTINF:-1,Sky Sport 1 FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15940.m3u8
-#EXTINF:-1,Sky Sport 1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15939.m3u8
-#EXTINF:-1,Sky Sport 1 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15938.m3u8
-#EXTINF:-1,Sky Sport 2 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15937.m3u8
-#EXTINF:-1,Sky Sport 2 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15936.m3u8
-#EXTINF:-1,Sky Sport 24 FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15933.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15932.m3u8
-#EXTINF:-1,Sky Sport 24 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15931.m3u8
-#EXTINF:-1,Sky Sport 24 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15930.m3u8
-#EXTINF:-1,Sky Sport 3 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15935.m3u8
-#EXTINF:-1,Sky Sport 3 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15934.m3u8
-#EXTINF:-1,Sky Sport F1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15950.m3u8
-#EXTINF:-1,Sky Sport Football HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15929.m3u8
-#EXTINF:-1,Sky Sport Mix HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15928.m3u8
-#EXTINF:-1,Sky Sport MotoGP HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15941.m3u8
-#EXTINF:-1,Sky Sport NBA HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15927.m3u8
-#EXTINF:-1,Sky Sport Plus HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15926.m3u8
-#EXTINF:-1,Sky Sport Plus VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15925.m3u8
-#EXTINF:-1,Sky Sport Serie A FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15952.m3u8
-#EXTINF:-1,Sky Sport Uno FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15924.m3u8
-#EXTINF:-1,Sky Supercalcio FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15956.m3u8
-#EXTINF:-1,Sky Supercalcio HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15955.m3u8
-#EXTINF:-1,Sky Supercalcio VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15954.m3u8
-#EXTINF:-1,Sportalia
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15923.m3u8
-#EXTINF:-1,Sportalia VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15922.m3u8
-#EXTINF:-1,Super Tennis HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15920.m3u8
-#EXTINF:-1,Super TV
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15921.m3u8
-#EXTINF:-1,Super!
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15919.m3u8
-#EXTINF:-1,Super! VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15918.m3u8
-#EXTINF:-1,SuperTennis VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15917.m3u8
-#EXTINF:-1,Top Calcio 24 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15953.m3u8
-#EXTINF:-1,Nick Junior VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15885.m3u8
-#EXTINF:-1,Nickelodeon VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15884.m3u8
-#EXTINF:-1,Wrestling
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15907.m3u8
-#EXTINF:-1,Cartoon Network
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15883.m3u8
-#EXTINF:-1,Cartoonito
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15882.m3u8
-#EXTINF:-1,Cartoonito VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15881.m3u8
-#EXTINF:-1,Disney Channel  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15892.m3u8
-#EXTINF:-1,Disney Channel HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15891.m3u8
-#EXTINF:-1,Disney Channel HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15890.m3u8
-#EXTINF:-1,Disney Channel VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15889.m3u8
-#EXTINF:-1,Disney Junior
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15888.m3u8
-#EXTINF:-1,PrimaFila 1 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16008.m3u8
-#EXTINF:-1,PrimaFila 2 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16007.m3u8
-#EXTINF:-1,PrimaFila 3 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16006.m3u8
-#EXTINF:-1,PrimaFila 4 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16005.m3u8
-#EXTINF:-1,PrimaFila 5 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16004.m3u8
-#EXTINF:-1,PrimaFila 6 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16003.m3u8
-#EXTINF:-1,PrimaFila 7 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16002.m3u8
-#EXTINF:-1,PrimaFila 8 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16001.m3u8
-#EXTINF:-1,PrimaFila 9 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16000.m3u8
+#EXTINF:0,RAI 1 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23655
+#EXTINF:0,RAI 2 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23654
+#EXTINF:0,RAI 3 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23653
+#EXTINF:0,RAI 4
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23652
+#EXTINF:0,RAI 5
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23651
+#EXTINF:0,RAI MOVIE HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23650
+#EXTINF:0,RAI SPORT
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23649
+#EXTINF:0,RAI PREMIUM
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23648
+#EXTINF:0,RAI NEWS  24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23647
+#EXTINF:0,RAI NEWS 24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23646
+#EXTINF:0,RAI GULP
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23645
+#EXTINF:0,RAI YOYO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23644
+#EXTINF:0,ITALIA 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23640
+#EXTINF:0,RETE 4 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23639
+#EXTINF:0,CANALE 5 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23638
+#EXTINF:0,CANALE 5
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23637
+#EXTINF:0,DONNA TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23636
+#EXTINF:0,LA 5
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23635
+#EXTINF:0,LA 7 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23634
+#EXTINF:0,LA7d
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23633
+#EXTINF:0,MEDIASET ITALA 2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23632
+#EXTINF:0,MEDIASET EXTRA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23631
+#EXTINF:0,TV8
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23630
+#EXTINF:0,RSI LA 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23629
+#EXTINF:0,RSI LA 2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23628
+#EXTINF:0,TGCOM
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23626
+#EXTINF:0,SKY CINEMA UNO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23624
+#EXTINF:0,SKY CINEMA UNO   1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23623
+#EXTINF:0,SKY CINEMA 24 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23622
+#EXTINF:0,SKY CINEMA HITS HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23621
+#EXTINF:0,SKY CINEMA FAMILY HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23620
+#EXTINF:0,SKY CINEMA FAMILY   1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23619
+#EXTINF:0,SKY CINEMA PASSION HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23617
+#EXTINF:0,|IT|SKY-CINEMA-PASSION.HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23618
+#EXTINF:0,SKY CINEMA COMEDY HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23616
+#EXTINF:0,SKY CINEMA MAX HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23615
+#EXTINF:0,SKY CINEMA MAX   1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23614
+#EXTINF:0,SKY CINEMA CULT HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23613
+#EXTINF:0,SKY CINEMA CLASSIC HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23612
+#EXTINF:0,PARAMOUNT CHANNEL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23611
+#EXTINF:0,IRIS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23610
+#EXTINF:0,SKY CINEMA 3D
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23609
+#EXTINF:0,SKY UNO HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23607
+#EXTINF:0,SKY UNO  1 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23606
+#EXTINF:0,SKY ATLANTIC HD.
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23605
+#EXTINF:0,SKY ATLANTIC 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23604
+#EXTINF:0,SKY ARTE HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23603
+#EXTINF:0,FOX HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23602
+#EXTINF:0,FOX LIFE HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23601
+#EXTINF:0,FOX CRIME HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23600
+#EXTINF:0,FOX ANIMATION HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23598
+#EXTINF:0,COMEDY CENTRAL HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23597
+#EXTINF:0,BLAZE HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23596
+#EXTINF:0,GIALLO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23595
+#EXTINF:0,NOVE HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23594
+#EXTINF:0,REAL TIME
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23593
+#EXTINF:0,TOPCRIME
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23592
+#EXTINF:0,LEI HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23591
+#EXTINF:0,SPIKE
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23590
+#EXTINF:0,SKY SPORT 24 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23588
+#EXTINF:0,SKY SPORT UNO HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23587
+#EXTINF:0,SKY SPORT 2 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23586
+#EXTINF:0,SKY SPORT FOOTBALL  HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23585
+#EXTINF:0,SKY SPORT ARENA FHD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23584
+#EXTINF:0,SKY SPORT MIX HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23583
+#EXTINF:0,SKY SUPERCALCIO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23582
+#EXTINF:0,SKY SPORT F1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23580
+#EXTINF:0,SKY MOTO GP
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23579
+#EXTINF:0,EUROSPORT 1 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23578
+#EXTINF:0,EUROSPORT 2 HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23577
+#EXTINF:0,SPORT ITALIA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23576
+#EXTINF:0,FIGHT CHANNEL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23575
+#EXTINF:0,SUPER TENNIS HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23574
+#EXTINF:0,AUTOMOTO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23573
+#EXTINF:0,BIKE CHANNEL HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23572
+#EXTINF:0,MILAN CHANNEL HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23571
+#EXTINF:0,JUVENTUS TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23570
+#EXTINF:0,INTER CHANNEL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23569
+#EXTINF:0,ROMA TV
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23568
+#EXTINF:0,LAZIO CHANNEL HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23567
+#EXTINF:0,TOP CALCIO 24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23566
+#EXTINF:0,SKY CALCIO 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23564
+#EXTINF:0,SKY CALCIO 2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23563
+#EXTINF:0,SKY CALCIO 3
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23562
+#EXTINF:0,SKY CALCIO 4
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23561
+#EXTINF:0,SKY CALCIO 5
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23560
+#EXTINF:0,SKY CALCIO 6
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23559
+#EXTINF:0,SKY CALCIO 7
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23558
+#EXTINF:0,SKY CALCIO 8
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23557
+#EXTINF:0,SKY CALCIO 9
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23556
+#EXTINF:0,SKY CALCIO 10
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23555
+#EXTINF:0,DISCOVERY CHANNEL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23553
+#EXTINF:0,DISCOVERY SCIENCE
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23552
+#EXTINF:0,CRIME&INVESTIGATION HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23551
+#EXTINF:0,DISCOVERY TRAVEL & LIVING HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23550
+#EXTINF:0,NATIONAL GEOGRAPHIC HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23549
+#EXTINF:0,NAT GEO PEOPLE
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23548
+#EXTINF:0,NAT GEO WILD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23547
+#EXTINF:0,ANIMAL PLANET
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23546
+#EXTINF:0,GAMBERO ROSSO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23545
+#EXTINF:0,DOVE TV HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23544
+#EXTINF:0,FOCUS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23543
+#EXTINF:0,DMAX
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23542
+#EXTINF:0,CIELO HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23541
+#EXTINF:0,MARCO POLO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23540
+#EXTINF:0,ALICE
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23539
+#EXTINF:0,RAI STORIA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23537
+#EXTINF:0,CACCIA HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23536
+#EXTINF:0,PESCA HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23535
+#EXTINF:0,PESCARE E CACCIARE
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23534
+#EXTINF:0,ITALIAN FISHING
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23533
+#EXTINF:0,HISTORY HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23532
+#EXTINF:0,DISNEY CHANNEL HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23530
+#EXTINF:0,DISNEY JUNIOR HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23529
+#EXTINF:0,DISNEY XD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23528
+#EXTINF:0,NICK JR
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23527
+#EXTINF:0,CARTOONITO
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23526
+#EXTINF:0,CARTOON NETWORK
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23525
+#EXTINF:0,DEA JUNIOR
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23524
+#EXTINF:0,DEA KIDS
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23523
+#EXTINF:0,BOOMERANG
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23522
+#EXTINF:0,NICKELODEON
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23521
+#EXTINF:0,K2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23520
+#EXTINF:0,BOING
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23519
+#EXTINF:0, SUPER
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23518
+#EXTINF:0,MANGA
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23517
+#EXTINF:0,POP
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23515
+#EXTINF:0,PRIMAFILA 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23513
+#EXTINF:0,PRIMAFILA 2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23512
+#EXTINF:0,PRIMAFILA 3
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23511
+#EXTINF:0,PRIMAFILA 4
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23510
+#EXTINF:0,PRIMAFILA 5
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23509
+#EXTINF:0,PRIMAFILA 6
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23508
+#EXTINF:0,PRIMAFILA 7
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23507
+#EXTINF:0,PRIMAFILA 8
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23506
+#EXTINF:0,PRIMAFILA 9
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23505
+#EXTINF:0,PRIMAFILA 10
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23504
+#EXTINF:0,PRIMAFILA 11
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23503
+#EXTINF:0,PRIMAFILA 12
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23502
+#EXTINF:0,PRIMAFILA 13
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23501
+#EXTINF:0,PRIMAFILA 14
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23500
+#EXTINF:0,PRIMAFILA 15
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23499
+#EXTINF:0,PRIMAFILA 16
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23498
+#EXTINF:0,PRIMAFILA 17
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23497
+#EXTINF:0,PRIMAFILA 18
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23496
+#EXTINF:0,PRIMAFILA 19
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23495
+#EXTINF:0,PRIMAFILA 20
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23494
+#EXTINF:0,PREMIUM CINEMA HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23492
+#EXTINF:0,PREMIUM CINEMA2 24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23489
+#EXTINF:0,PREMIUM CINEMA 24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23491
+#EXTINF:0,PREMIUM CINEMA ACTION
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23488
+#EXTINF:0,PREMIUM CINEMA ACTION 24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23487
+#EXTINF:0,PREMIUM ENERGY
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23486
+#EXTINF:0,PREMIUM ENERGY 24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23485
+#EXTINF:0,PREMIUM EMOTION
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23484
+#EXTINF:0,PREMIUM COMEDY
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23483
+#EXTINF:0,PREMIUM CRIME
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23482
+#EXTINF:0,PREMIUM CRIME 24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23481
+#EXTINF:0,PREMIUM STUDIO UNIVERSAL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23480
+#EXTINF:0, PREMIUM CINEMA EMOTION
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23479
+#EXTINF:0,PREMIUM STORIES
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23478
+#EXTINF:0,PREMIUM JOI
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23477
+#EXTINF:0,PREMIUM JOI 24
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23476
+#EXTINF:0,PREMIUM STUDIO UNIVERSAL
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23475
+#EXTINF:0,PREMIUM DISCOVERY INVESTIGATION
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23474
+#EXTINF:0,PREMIUM CARTOON NETWORK
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23473
+#EXTINF:0,PREMIUM DISNEY JUNIOR
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23472
+#EXTINF:0,PREMIUM SPORT HD
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23471
+#EXTINF:0,PREMIUM SPORT 2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23470
+#EXTINF:0,FOX SPORT
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23581
+#EXTINF:0,IT|PREMIUM EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23468
+#EXTINF:0,PREMIUM_EUROSPORT-2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23467
+#EXTINF:0,PREMIUM CALCIO 1
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23466
+#EXTINF:0,PREMIUM CALCIO 2
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23465
+#EXTINF:0,PREMIUM CALCIO 3
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23464
+#EXTINF:0,PREMIUM CALCIO 4
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23463
+#EXTINF:0,PREMIUM CALCIO 5
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23462
+#EXTINF:0,PREMIUM CALCIO 6
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23461
+#EXTINF:0,PREMIUM CALCIO 7
+http://iptvpro.premium-itv.com:8789/panel3/hrM1Dunt8B/23460
