@@ -1,85 +1,99 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://m-iptv.net:6204/live/987654123/987654123/9057.m3u8
-#EXTINF:-1,Acasa Gold
-http://m-iptv.net:6204/live/987654123/987654123/9056.m3u8
 #EXTINF:-1,Acasa TV
-http://m-iptv.net:6204/live/987654123/987654123/5904.m3u8
+http://195.154.156.46:8000/farid22/farid22/2714
 #EXTINF:-1,Antena 1
-http://m-iptv.net:6204/live/987654123/987654123/9055.m3u8
+http://195.154.156.46:8000/farid22/farid22/2709
 #EXTINF:-1,Antena 3
-http://m-iptv.net:6204/live/987654123/987654123/9054.m3u8
+http://195.154.156.46:8000/farid22/farid22/2710
 #EXTINF:-1,Antena Stars
-http://m-iptv.net:6204/live/987654123/987654123/9053.m3u8
-#EXTINF:-1,1 HD
-http://m-iptv.net:6204/live/987654123/987654123/16254.m3u8
-#EXTINF:-1,Bucuresti TV
-http://m-iptv.net:6204/live/987654123/987654123/16253.m3u8
-#EXTINF:-1,Columnta TV
-http://m-iptv.net:6204/live/987654123/987654123/16252.m3u8
-#EXTINF:-1,DIASPORA TV
-http://m-iptv.net:6204/live/987654123/987654123/16251.m3u8
-#EXTINF:-1,DIBI TV HD
-http://m-iptv.net:6204/live/987654123/987654123/16250.m3u8
-#EXTINF:-1,ETNIC TV
-http://m-iptv.net:6204/live/987654123/987654123/16249.m3u8
-#EXTINF:-1,ETNO TV
-http://m-iptv.net:6204/live/987654123/987654123/16248.m3u8
-#EXTINF:-1,MIORITA TV
-http://m-iptv.net:6204/live/987654123/987654123/16247.m3u8
-#EXTINF:-1,Pro TV backup
-http://m-iptv.net:6204/live/987654123/987654123/16246.m3u8
-#EXTINF:-1,Romania TV backup
-http://m-iptv.net:6204/live/987654123/987654123/16245.m3u8
-#EXTINF:-1,TEZAUR TV
-http://m-iptv.net:6204/live/987654123/987654123/16244.m3u8
-#EXTINF:-1,Traditii TV
-http://m-iptv.net:6204/live/987654123/987654123/16243.m3u8
-#EXTINF:-1,Travel Mix
-http://m-iptv.net:6204/live/987654123/987654123/16242.m3u8
-#EXTINF:-1,TV H
-http://m-iptv.net:6204/live/987654123/987654123/16241.m3u8
-#EXTINF:-1,TVR HD
-http://m-iptv.net:6204/live/987654123/987654123/16240.m3u8
-#EXTINF:-1,TVR1 HD
-http://m-iptv.net:6204/live/987654123/987654123/16239.m3u8
-#EXTINF:-1,TVR2 HD
-http://m-iptv.net:6204/live/987654123/987654123/16238.m3u8
-#EXTINF:-1,TVR3 HD
-http://m-iptv.net:6204/live/987654123/987654123/16237.m3u8
-#EXTINF:-1,UTV
-http://m-iptv.net:6204/live/987654123/987654123/16236.m3u8
-#EXTINF:-1,VPTV
-http://m-iptv.net:6204/live/987654123/987654123/16235.m3u8
+http://195.154.156.46:8000/farid22/farid22/2711
+#EXTINF:-1,AXN
+http://195.154.156.46:8000/farid22/farid22/2731
 #EXTINF:-1,B1 TV
-http://m-iptv.net:6204/live/987654123/987654123/5798.m3u8
-#EXTINF:-1,CBS Reality
-http://m-iptv.net:6204/live/987654123/987654123/9051.m3u8
+http://195.154.156.46:8000/farid22/farid22/2735
+#EXTINF:-1,Boomerang
+http://195.154.156.46:8000/farid22/farid22/2722
+#EXTINF:-1,Boomrang
+http://195.154.156.46:8000/farid22/farid22/2386
+#EXTINF:-1,Cinemax 2
+http://195.154.156.46:8000/farid22/farid22/2727
 #EXTINF:-1,Digi 24
-http://m-iptv.net:6204/live/987654123/987654123/9050.m3u8
-#EXTINF:-1,Dolce Sport 1 HD
-http://m-iptv.net:6204/live/987654123/987654123/9049.m3u8
-#EXTINF:-1,Dolce Sport 2 HD
-http://m-iptv.net:6204/live/987654123/987654123/9048.m3u8
-#EXTINF:-1,HBO
-http://m-iptv.net:6204/live/987654123/987654123/9045.m3u8
-#EXTINF:-1,Kanal D
-http://m-iptv.net:6204/live/987654123/987654123/9044.m3u8
+http://195.154.156.46:8000/farid22/farid22/2732
+#EXTINF:-1,DIGI 24 GALATI
+http://195.154.156.46:8000/farid22/farid22/2740
+#EXTINF:-1,Digi Animal World
+http://195.154.156.46:8000/farid22/farid22/2733
+#EXTINF:-1,Digi Life
+http://195.154.156.46:8000/farid22/farid22/2730
+#EXTINF:-1,DIGI SPORT 1
+http://195.154.156.46:8000/farid22/farid22/2377
+#EXTINF:-1,DIGI SPORT 2
+http://195.154.156.46:8000/farid22/farid22/2378
+#EXTINF:-1,DIGI SPORT 3
+http://195.154.156.46:8000/farid22/farid22/2379
+#EXTINF:-1,DIGI SPORT 4
+http://195.154.156.46:8000/farid22/farid22/2380
+#EXTINF:-1,Digi World
+http://195.154.156.46:8000/farid22/farid22/2387
+#EXTINF:-1,Disney Junior
+http://195.154.156.46:8000/farid22/farid22/2728
+#EXTINF:-1,Eurosport 1
+http://195.154.156.46:8000/farid22/farid22/2743
+#EXTINF:-1,Eurosport 2
+http://195.154.156.46:8000/farid22/farid22/2744
+#EXTINF:-1,Fishing & Hunting
+http://195.154.156.46:8000/farid22/farid22/2726
+#EXTINF:-1,Happy Channel
+http://195.154.156.46:8000/farid22/farid22/2383
+#EXTINF:-1,HBO 2
+http://195.154.156.46:8000/farid22/farid22/2718
+#EXTINF:-1,HBO 3
+http://195.154.156.46:8000/farid22/farid22/2719
+#EXTINF:-1,HBO Romania
+http://195.154.156.46:8000/farid22/farid22/2717
+#EXTINF:-1,HBO2
+http://195.154.156.46:8000/farid22/farid22/2374
+#EXTINF:-1,HBO3
+http://195.154.156.46:8000/farid22/farid22/2385
+#EXTINF:-1,History Channel
+http://195.154.156.46:8000/farid22/farid22/2741
+#EXTINF:-1,Hit Music Channel
+http://195.154.156.46:8000/farid22/farid22/2723
+#EXTINF:-1,Kanal D HD
+http://195.154.156.46:8000/farid22/farid22/2725
 #EXTINF:-1,Kiss TV
-http://m-iptv.net:6204/live/987654123/987654123/9043.m3u8
-#EXTINF:-1,Na?ional TV
-http://m-iptv.net:6204/live/987654123/987654123/9041.m3u8
-#EXTINF:-1,National Geographic Wild
-http://m-iptv.net:6204/live/987654123/987654123/9039.m3u8
-#EXTINF:-1,Prima TV
-http://m-iptv.net:6204/live/987654123/987654123/9038.m3u8
-#EXTINF:-1,Pro TV
-http://m-iptv.net:6204/live/987654123/987654123/9036.m3u8
-#EXTINF:-1,Pro TV International
-http://m-iptv.net:6204/live/987654123/987654123/9035.m3u8
-#EXTINF:-1,Realitatea TV
-http://m-iptv.net:6204/live/987654123/987654123/9034.m3u8
-#EXTINF:-1,Romania TV
-http://m-iptv.net:6204/live/987654123/987654123/9033.m3u8
-#EXTINF:-1,Taraf TV
-http://m-iptv.net:6204/live/987654123/987654123/9032.m3u8
+http://195.154.156.46:8000/farid22/farid22/2715
+#EXTINF:-1,Look Plus
+http://195.154.156.46:8000/farid22/farid22/2720
+#EXTINF:-1,Look tv
+http://195.154.156.46:8000/farid22/farid22/2384
+#EXTINF:-1,MINIMAX
+http://195.154.156.46:8000/farid22/farid22/2376
+#EXTINF:-1,Nat Geo Wild
+http://195.154.156.46:8000/farid22/farid22/2742
+#EXTINF:-1,National Geographic
+http://195.154.156.46:8000/farid22/farid22/2737
+#EXTINF:-1,National TV
+http://195.154.156.46:8000/farid22/farid22/2712
+#EXTINF:-1,Nickelodeon
+http://195.154.156.46:8000/farid22/farid22/2729
+#EXTINF:-1,Paramount Channel
+http://195.154.156.46:8000/farid22/farid22/2736
+#EXTINF:-1,PRIMA TV
+http://195.154.156.46:8000/farid22/farid22/2381
+#EXTINF:-1,PRO TV
+http://195.154.156.46:8000/farid22/farid22/2388
+#EXTINF:-1,Realitatea Tv
+http://195.154.156.46:8000/farid22/farid22/2724
+#EXTINF:-1,Romania tv
+http://195.154.156.46:8000/farid22/farid22/2382
+#EXTINF:-1,Sport RO
+http://195.154.156.46:8000/farid22/farid22/2745
+#EXTINF:-1,Taraf Tv
+http://195.154.156.46:8000/farid22/farid22/2716
+#EXTINF:-1,TV1000
+http://195.154.156.46:8000/farid22/farid22/2721
+#EXTINF:-1,TVR 1
+http://195.154.156.46:8000/farid22/farid22/2373
+#EXTINF:-1,TVR 2
+http://195.154.156.46:8000/farid22/farid22/2713
