@@ -1,123 +1,101 @@
 #EXTM3U
-#EXTINF:-1,HBO GO
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22982.m3u8
-#EXTINF:-1,MAXBEST COMEDY & ROMANCE HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22917.m3u8
-#EXTINF:-1,MAXBEST FANTASY HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22910.m3u8
-#EXTINF:-1,MAXBEST FILM HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22908.m3u8
-#EXTINF:-1,MAXBEST HOROR HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22913.m3u8
-#EXTINF:-1,MAXBEST KIDS HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22912.m3u8
-#EXTINF:-1,MAXBEST PREMIERE HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22907.m3u8
-#EXTINF:-1,MAXBEST SCI-FI HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22911.m3u8
-#EXTINF:-1,MAXBEST SELECT 1 HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22914.m3u8
-#EXTINF:-1,MAXBEST SELECT 2 HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22915.m3u8
-#EXTINF:-1,MAXBEST SELECT 3 HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22916.m3u8
-#EXTINF:-1,MAXBEST SERIJA HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22909.m3u8
-#EXTINF:-1,Pikaboo
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22665.m3u8
-#EXTINF:-1,TNT KIDS
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22667.m3u8
-#EXTINF:-1,Vavoom
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22666.m3u8
-#EXTINF:-1,ALFA TV BH
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22656.m3u8
-#EXTINF:-1,AURORA TV
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22659.m3u8
-#EXTINF:-1,HIT TELEVIZIJA
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22655.m3u8
-#EXTINF:-1,IDJ TV
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22660.m3u8
-#EXTINF:-1,K3 PRNJAVOR
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22654.m3u8
-#EXTINF:-1,NTV 101 HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22657.m3u8
-#EXTINF:-1,NTV IC Kakanj
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/22658.m3u8
-#EXTINF:-1,NOVA M
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2812.m3u8
-#EXTINF:-1,PINK 1 TV
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2758.m3u8
-#EXTINF:-1,PINK 1 (reserve)
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2759.m3u8
-#EXTINF:-1,PINK2
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1005.m3u8
-#EXTINF:-1,PINK2.
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2760.m3u8
-#EXTINF:-1,PINK 3.
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1986.m3u8
-#EXTINF:-1,PINK 3
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2761.m3u8
-#EXTINF:-1,NOVA BH
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1624.m3u8
-#EXTINF:-1,Pink Plus
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1625.m3u8
-#EXTINF:-1,Pink Extra
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1009.m3u8
-#EXTINF:-1,Pink Zabava
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2912.m3u8
+#EXTINF:-1,Arena Sport 1
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/74.m3u8
+#EXTINF:-1,Arena Sport 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/75.m3u8
+#EXTINF:-1,Arena Sport 3
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/76.m3u8
+#EXTINF:-1,Arena Sport 4
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/77.m3u8
+#EXTINF:-1,Arena Sport 5
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/78.m3u8
+#EXTINF:-1,Sport Klub 1
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/983.m3u8
+#EXTINF:-1,Sport Klub 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/72.m3u8
+#EXTINF:-1,Sport Klub 3
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/73.m3u8
+#EXTINF:-1,Sport Klub 4
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/70.m3u8
+#EXTINF:-1,Sport Klub 5
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/222.m3u8
+#EXTINF:-1,Sport Klub 6
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/711.m3u8
+#EXTINF:-1,HR: HRT 1
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/83.m3u8
+#EXTINF:-1,HR:HRT 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/84.m3u8
+#EXTINF:-1,HR: RTL Croatia
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/85.m3u8
+#EXTINF:-1,HR: RTL 2 Croatia
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/237.m3u8
+#EXTINF:-1,HR: RTL Crime Croatia
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/239.m3u8
+#EXTINF:-1,Happy TV
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/240.m3u8
+#EXTINF:-1,Al Jazeera Balkans
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/86.m3u8
+#EXTINF:-1,RTS 1
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/87.m3u8
+#EXTINF:-1,RTS 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/88.m3u8
+#EXTINF:-1,RTS 3
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/186.m3u8
+#EXTINF:-1,B92
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/94.m3u8
+#EXTINF:-1,Pink
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/95.m3u8
+#EXTINF:-1,Prva TV
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/89.m3u8
+#EXTINF:-1,OBN
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/127.m3u8
+#EXTINF:-1,Cartoon Network
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/227.m3u8
+#EXTINF:-1,Cinestar TV
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/230.m3u8
+#EXTINF:-1,Cinemax 1
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/231.m3u8
+#EXTINF:-1,Cinemax 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/232.m3u8
+#EXTINF:-1,HBO
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/224.m3u8
+#EXTINF:-1,HBO 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/223.m3u8
+#EXTINF:-1,CineStar Premiere 1
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/228.m3u8
+#EXTINF:-1,CineStar Premiere 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/229.m3u8
+#EXTINF:-1,Discovery Channel
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/225.m3u8
+#EXTINF:-1,Discovery ID
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/226.m3u8
+#EXTINF:-1,Pink 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/150.m3u8
+#EXTINF:-1,Pink 3
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/151.m3u8
 #EXTINF:-1,Pink Action
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1006.m3u8
-#EXTINF:-1,Pink Comedy
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1008.m3u8
-#EXTINF:-1,Pink Premium
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1626.m3u8
-#EXTINF:-1,Pink Movies
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1013.m3u8
-#EXTINF:-1,Pink Thriller
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1631.m3u8
-#EXTINF:-1,Pink Film
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1011.m3u8
-#EXTINF:-1,Pink Crime&Mystery
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2896.m3u8
-#EXTINF:-1,Pink Crime & Mystery
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1684.m3u8
-#EXTINF:-1,Pink Sci-Fi & Fantasy
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1629.m3u8
-#EXTINF:-1,Pink Sci-Fi&Fantasy
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2895.m3u8
-#EXTINF:-1,Pink Romance
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1628.m3u8
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/152.m3u8
 #EXTINF:-1,Pink Western
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1632.m3u8
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/155.m3u8
+#EXTINF:-1,Pink Comedy
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/153.m3u8
+#EXTINF:-1,Pink Thriller
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/156.m3u8
 #EXTINF:-1,Pink Horror
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1012.m3u8
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/154.m3u8
 #EXTINF:-1,Pink Soap
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2894.m3u8
-#EXTINF:-1,Pink Serije
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1630.m3u8
-#EXTINF:-1,Pink World
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2914.m3u8
-#EXTINF:-1,Pink Pedia
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1014.m3u8
-#EXTINF:-1,Pink Kuvar
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2913.m3u8
-#EXTINF:-1,Pink Koncert
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2865.m3u8
-#EXTINF:-1,Pink Show
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2872.m3u8
-#EXTINF:-1,Pink Music
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2867.m3u8
-#EXTINF:-1,Pink Music 2
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2868.m3u8
-#EXTINF:-1,Pink Hits 2
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2866.m3u8
-#EXTINF:-1,Pink Folk
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2869.m3u8
-#EXTINF:-1,Pink Folk 2
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2870.m3u8
-#EXTINF:-1,Fox Movies HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2888.m3u8
-#EXTINF:-1,Fox Life HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/1615.m3u8
-#EXTINF:-1,Fox Crime HD
-http://ksportiptv.com:1557/live/Topsatchina/OcZLdxtVPu/2889.m3u8
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/159.m3u8
+#EXTINF:-1,Pink Premium
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/158.m3u8
+#EXTINF:-1,Pink SCI-FI & Fantasy
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/157.m3u8
+#EXTINF:-1,Slovenia TV 1 HD
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/572.m3u8
+#EXTINF:-1,DE:EuroSport 1
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/125.m3u8
+#EXTINF:-1,DE:EuroSport 2
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/126.m3u8
+#EXTINF:-1,EuroNews
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/242.m3u8
+#EXTINF:-1,CNN News
+http://cmskos.bekaks.net:777/live/RamushKurti/pQWJnuCgDK/243.m3u8
