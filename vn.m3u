@@ -28,34 +28,28 @@ https://kcdn-livestream.vtvgiaitri.vn/vtvgtlivestream/vtv8_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-04-01/7849376-logo-anninhtg.png",AN NINH THE GIOI HD
 http://live.cdn.mobifonetv.vn/motv/antg_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/1586931-logo-htv1a.png",HTV1
-http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-04-02/8763616-135119-logo-htv.png",HTV2 - Vie Channel SD
-https://live.vieplay.vn/live/htv2-channel/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-04-02/8763616-135119-logo-htv.png",HTV2 - Vie Channel HD
-http://hplus.tranvinh.tk/?id=htv2hd&type=playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2015-03-26/7068413-logo-htv3a.png",HTV3
-http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://assets.htv.com.vn/Images/1/Channel/14/htvkey.png",HTV Key
-http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2015-03-26/9900806-logo-htv7hd-a.png",HTV7
-http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://tduc.tk/logo/htv9.png",HTV9
-http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://assets.htv.com.vn/Images/1/Banner/104.png",HTV THE THAO
-http://live.cdn.mobifonetv.vn/motv/myhtvcthethao_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/2028200-ca-nhac-01.png",HTVC CA NHAC
-http://live.cdn.mobifonetv.vn/motv/myhtvccanhac_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-31/2977024-8502386-logodlc.png",HTVC DU LICH CUOC SONG
-http://live.cdn.mobifonetv.vn/motv/myhtvcdulich_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2018-06-06/3590945-logo-htvc-gia-d.png",HTVC GIA DINH
-http://live.cdn.mobifonetv.vn/motv/myhtvcgiadinh_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2017-04-10/563560-logo-kenh-phim-.png",HTVC PHIM
-http://live.cdn.mobifonetv.vn/motv/myhtvcphim_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-10-20/5657089-logo-phunu-fina.png",HTVC PHU NU
-http://live.cdn.mobifonetv.vn/motv/myhtvcphunu_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-08-16/2581034-365940-logoc-th.png",HTVC Thuần Việt
-http://live.cdn.mobifonetv.vn/motv/myhtvcthuanviet_hls.smil/playlist.m3u8
+
+
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv1.png", HTV1
+http://live.cdn.mobifonetv.vn/motv/myhtv1_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv2.png", HTV2 - Vie Channel 
+http://live.cdn.mobifonetv.vn/motv/myhtv2_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv2.png", HTV2 HD- Vie Channel 
+http://hplus.huuvinh.ooo/v5live.m3u8?id=htv2hd&type=mp2
+
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv3.png", HTV3 - Dreams TV
+http://live.cdn.mobifonetv.vn/motv/myhtv3_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htvkey.png", HTV4 Key
+http://live.cdn.mobifonetv.vn/motv/myhtv4_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv7.png", HTV7
+http://live.cdn.mobifonetv.vn/motv/myhtv7_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv7.png", HTV7 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV7-HD/playlist.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv9.png", HTV9
+http://live.cdn.mobifonetv.vn/motv/myhtv9_hls.smil/chunklist_b1200000.m3u8
+#EXTINF:-1 group-title="HTV" tvg-logo="http://hoangthanh.tk/icon-channel/HTV/htv9.png", HTV9 HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD/chunks.m3u8
+
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-09-23/1901392-470154-logo-phi.png",PHIM HAY HD
 http://live.cdn.mobifonetv.vn/motv3/phimhay_hls.smil/chunklist_b1200000.m3u8
 #EXTINF:-1 tvg-logo="http://www.htvc.vn/uploads/cache/thumbnail/2016-09-23/8108709-2941273-logo-bt.png",BTV6-VIETTEEN HD
