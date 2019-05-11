@@ -1,577 +1,1293 @@
 #EXTM3U
-#EXTINF:-1,RTS Un HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21230
-#EXTINF:-1,RTS Deux HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21229
-#EXTINF:-1,TF1
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21228
-#EXTINF:-1,TF1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21227
-#EXTINF:-1,TF1 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19536
-#EXTINF:-1,France 2
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21226
-#EXTINF:-1,France 2 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21225
-#EXTINF:-1,France 3
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21224
-#EXTINF:-1,France 3 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21223
-#EXTINF:-1,France 4 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21222
-#EXTINF:-1,France 5
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21221
-#EXTINF:-1,M6
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21220
-#EXTINF:-1,M6 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19567
-#EXTINF:-1,Syfy
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21218
-#EXTINF:-1,Syfy FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19539
-#EXTINF:-1,NT1 (TFX)
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21217
-#EXTINF:-1,NT1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21216
 #EXTINF:-1,W9 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21215
-#EXTINF:-1,W9 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19523
-#EXTINF:-1,HD1
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21214
-#EXTINF:-1,TF1 Series Film FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19535
-#EXTINF:-1,C-8 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21213
-#EXTINF:-1,C8 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19601
-#EXTINF:-1,C-Star
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21212
-#EXTINF:-1,C-Star HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21211
-#EXTINF:-1,6ter
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21210
-#EXTINF:-1,6ter HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21209
-#EXTINF:-1,6ter FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19614
-#EXTINF:-1,RTL 9
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21208
-#EXTINF:-1,RTL 9 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19541
-#EXTINF:-1,Chérie 25
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21207
-#EXTINF:-1,Chérie 25 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19591
-#EXTINF:-1,13eme Rue
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21206
-#EXTINF:-1,13eme Rue FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19615
-#EXTINF:-1,AB1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21205
-#EXTINF:-1,AB3
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21204
-#EXTINF:-1,NRJ 12
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21203
-#EXTINF:-1,E!
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21202
-#EXTINF:-1,Elle Girl HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21201
-#EXTINF:-1,Elle Girl FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19578
-#EXTINF:-1,Seasons HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21200
-#EXTINF:-1,serieclub
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21199
-#EXTINF:-1,serie Club FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19522
-#EXTINF:-1,Comédie+
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21198
-#EXTINF:-1,CANAL+ HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21197
-#EXTINF:-1,CANAL+ FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19598
-#EXTINF:-1,CANAL+ Cinema HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21196
-#EXTINF:-1,CANAL+ Cinema FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19600
-#EXTINF:-1,CANAL+ Decale HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21195
-#EXTINF:-1,CANAL+ Décalé FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19599
-#EXTINF:-1,CANAL+ Family HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21194
-#EXTINF:-1,CANAL+ Family FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19597
-#EXTINF:-1,CANAL+ Series HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21193
-#EXTINF:-1,CANAL+ Series FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19596
-#EXTINF:-1,Ciné FX HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21192
-#EXTINF:-1,Ciné Polar
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21191
-#EXTINF:-1,Ciné Polar HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/32297
-#EXTINF:-1,Ciné+ Classic FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21190
-#EXTINF:-1,Ciné+ Club FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19589
-#EXTINF:-1,Ciné Emotion HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21189
-#EXTINF:-1,Ciné+ Emotion FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19588
-#EXTINF:-1,Ciné+ Famiz
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21188
-#EXTINF:-1,Ciné+ Famiz HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21187
-#EXTINF:-1,Ciné+ Frisson HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21186
-#EXTINF:-1,Ciné+ Frisson FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19587
-#EXTINF:-1,Ciné Premier HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21185
-#EXTINF:-1,Ciné+ Premier FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19586
-#EXTINF:-1,Canal Play 1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21184
-#EXTINF:-1,Canal Play 2 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21183
-#EXTINF:-1,Canal Play 3 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21182
-#EXTINF:-1,Canal Play 4 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21181
-#EXTINF:-1,Canal Play 5 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21180
-#EXTINF:-1,A La Carte 1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21179
-#EXTINF:-1,A La Carte 2 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21178
-#EXTINF:-1,A La Carte 3 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21177
-#EXTINF:-1,A La Carte 4 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21176
-#EXTINF:-1,A La Carte 5 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21175
-#EXTINF:-1,OCS Choc
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21174
-#EXTINF:-1,OCS City
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21173
-#EXTINF:-1,OCS City FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19553
-#EXTINF:-1,OCS Geants
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21172
-#EXTINF:-1,OCS Geants FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19552
-#EXTINF:-1,OCS Max
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21171
-#EXTINF:-1,OCS MAX FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19551
-#EXTINF:-1,OCS Go Cinema 1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21170
-#EXTINF:-1,OCS Go Cinema 2 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21169
-#EXTINF:-1,OCS Go Cinema 3 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21168
-#EXTINF:-1,OCS Go Cinema 4 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21167
-#EXTINF:-1,OCS Go Cinema 5 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21166
-#EXTINF:-1,Orange Cinema 1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21165
-#EXTINF:-1,Orange Cinema 2 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21164
-#EXTINF:-1,Orange Cinema 3 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21163
-#EXTINF:-1,Orange Cinema 4 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21162
-#EXTINF:-1,Orange Cinema 5 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21161
-#EXTINF:-1,Orange Cinema HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21160
-#EXTINF:-1,Orange Cinema Action HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21159
-#EXTINF:-1,Orange Cinema Aventure HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21158
-#EXTINF:-1,Orange Cinema Horreur HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21157
-#EXTINF:-1,Orange Comment C'Est Fait HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21156
-#EXTINF:-1,Paramount Channel HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21153
-#EXTINF:-1,Paramount Channel FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19546
-#EXTINF:-1,PARAMOUNT DECALE FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19547
-#EXTINF:-1,TCM Cinéma HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21152
-#EXTINF:-1,TCM Cinéma FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19538
-#EXTINF:-1,TMC
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21151
-#EXTINF:-1,Boing
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21150
-#EXTINF:-1,Boing FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19602
-#EXTINF:-1,Boomerang
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21149
-#EXTINF:-1,Cartoon Network
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21148
-#EXTINF:-1,Cartoon Network FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19592
-#EXTINF:-1,Gulli HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21147
-#EXTINF:-1,Gulli FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19572
-#EXTINF:-1,Nickelodeon FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19554
-#EXTINF:-1,NICKELODEON 4 TEEN HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19558
-#EXTINF:-1,Piwi HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21144
-#EXTINF:-1,Piwi+ FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19545
-#EXTINF:-1,téléTOON+
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21143
-#EXTINF:-1,téléTOON+ HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/32296
-#EXTINF:-1,TELETOON +1 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19537
-#EXTINF:-1,Zouzous
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21142
-#EXTINF:-1,TOONAMI FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19534
-#EXTINF:-1,Tiji HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21141
-#EXTINF:-1,Canal J
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21140
-#EXTINF:-1,Disney Channel HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21139
-#EXTINF:-1,Disney Channel FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19582
-#EXTINF:-1,Disney Channel +1
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21138
-#EXTINF:-1,DISNEY CHANNEL +1 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19585
-#EXTINF:-1,Disney Cinema
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21137
-#EXTINF:-1,Disney Cinema HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21136
-#EXTINF:-1,Disney Cinema FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19581
-#EXTINF:-1,Disney Junior HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21135
-#EXTINF:-1,Disney Junior FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19580
-#EXTINF:-1,Disney XD HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21134
-#EXTINF:-1,Disney XD FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19579
-#EXTINF:-1,Mangas HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21133
-#EXTINF:-1,J-One
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21132
-#EXTINF:-1,Game One
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21131
-#EXTINF:-1,Discovery Channel HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21130
-#EXTINF:-1,Discovery FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19584
-#EXTINF:-1,Discovery Science HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21129
-#EXTINF:-1,Discovery Science FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19583
-#EXTINF:-1,Planète+ HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21127
-#EXTINF:-1,Planète+ A&E HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21126
-#EXTINF:-1,Planète+ CI HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21125
-#EXTINF:-1,National Geographic HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21124
-#EXTINF:-1,Nat Geo FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19556
-#EXTINF:-1,Nat Geo Wild HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21123
-#EXTINF:-1,Nat Geo Wild FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19555
-#EXTINF:-1,Action
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21122
-#EXTINF:-1,Action FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/47338
-#EXTINF:-1,Animaux HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21121
-#EXTINF:-1,Animaux FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19609
-#EXTINF:-1,Arte
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21120
-#EXTINF:-1,Arte HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/47337
-#EXTINF:-1,AB Moteurs
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21119
-#EXTINF:-1,Be Curious TV FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/47339
-#EXTINF:-1,Chasse et Pêche
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21118
-#EXTINF:-1,KTO
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21117
-#EXTINF:-1,M6 Music
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21116
-#EXTINF:-1,MCM
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21115
-#EXTINF:-1,MCM FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19566
-#EXTINF:-1,MCM TOP HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19565
-#EXTINF:-1,Mezzo Live HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21114
-#EXTINF:-1,MEZZO LIVE FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19564
-#EXTINF:-1,MTV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21113
-#EXTINF:-1,MTV FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19563
-#EXTINF:-1,MTV Base
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21112
-#EXTINF:-1,MTV Hits
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21111
-#EXTINF:-1,MTV HITS FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19562
-#EXTINF:-1,NRJ Hits
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21109
-#EXTINF:-1,Trace Urban
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21108
-#EXTINF:-1,RMC Sport 1
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49956
-#EXTINF:-1,RMC Sport 2
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49955
-#EXTINF:-1,RMC Sport 3
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49954
-#EXTINF:-1,RMC Sport 4
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49953
-#EXTINF:-1,beIN SPORTS 1
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21107
-#EXTINF:-1,beIN SPORTS 1 SD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21106
-#EXTINF:-1,beIN SPORTS 1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21105
-#EXTINF:-1,beIN SPORTS 2
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21104
-#EXTINF:-1,beIN SPORTS 2 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21103
-#EXTINF:-1,beIN SPORTS 2 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19505
-#EXTINF:-1,beIN SPORTS 3
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21102
-#EXTINF:-1,beIN SPORTS 3 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21101
-#EXTINF:-1,beIN SPORTS MAX 4 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21100
-#EXTINF:-1,beIN Sports MAX 4 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19503
-#EXTINF:-1,beIN SPORTS MAX 5 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21099
-#EXTINF:-1,beIN Sports MAX 5 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19502
-#EXTINF:-1,beIN SPORTS MAX 6 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21098
-#EXTINF:-1,beIN Sports MAX 6 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19501
-#EXTINF:-1,beIN SPORTS MAX 7 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21097
-#EXTINF:-1,beIN Sports MAX 7 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19500
-#EXTINF:-1,beIN SPORTS MAX 8
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21096
-#EXTINF:-1,beIN SPORTS MAX 8 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21095
-#EXTINF:-1,beIN Sports MAX 8 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19499
-#EXTINF:-1,beIN Sports MAX 9 FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19498
-#EXTINF:-1,Equidia Life
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21094
-#EXTINF:-1,Equidia Live HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21093
-#EXTINF:-1,BFM Sport FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19605
-#EXTINF:-1,CANAL+ Sport HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21092
-#EXTINF:-1,CANAL+ Sport FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19595
-#EXTINF:-1,ciné CLASSIC HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40588
-#EXTINF:-1,ciné FAMIZ HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40583
-#EXTINF:-1,Eurosport 1
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19577
-#EXTINF:-1,Eurosport 2
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19576
-#EXTINF:-1,FOOT+ 24/24
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21089
-#EXTINF:-1,GOLF+ HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21088
-#EXTINF:-1,GOLF+ FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19574
-#EXTINF:-1,TRACE SPORT STARS FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19532
-#EXTINF:-1,InfoSport+
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21087
-#EXTINF:-1,SFR Sport 1 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21086
-#EXTINF:-1,SFR Sport 2 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21085
-#EXTINF:-1,SFR Sport 3 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21084
-#EXTINF:-1,C-News
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21083
-#EXTINF:-1,C-News FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19594
-#EXTINF:-1,Euronews
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21082
-#EXTINF:-1,France 24
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21081
-#EXTINF:-1,France Info
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21080
-#EXTINF:-1,France Ô
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21079
-#EXTINF:-1,i24NEWS
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21078
-#EXTINF:-1,i24NEWS (B)
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/50264
-#EXTINF:-1,Africa 24
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21077
-#EXTINF:-1,Alsace 20
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21076
-#EXTINF:-1,ILTV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21075
-#EXTINF:-1,Histoire
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21074
-#EXTINF:-1,Histoire FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19571
-#EXTINF:-1,Canal Alpha JU
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21073
-#EXTINF:-1,L'Equipe 21 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21072
-#EXTINF:-1,MY CUISINE FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19561
-#EXTINF:-1,BFM Business HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21071
-#EXTINF:-1,BFM Business FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19606
-#EXTINF:-1,BFM TV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21070
-#EXTINF:-1,BFM TV HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/50504
-#EXTINF:-1,A+ FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19613
-#EXTINF:-1,ALTICE STUDIO FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19612
-#EXTINF:-1,Bet HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21069
-#EXTINF:-1,BET FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19607
-#EXTINF:-1,BRAVA FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19604
-#EXTINF:-1,Weo HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21068
-#EXTINF:-1,Clubbing TV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21067
-#EXTINF:-1,CRIME DISTRICT FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19593
-#EXTINF:-1,eNORME TV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21065
-#EXTINF:-1,La Chaine Normande HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19569
-#EXTINF:-1,La Chaîne Normande TV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21064
-#EXTINF:-1,La Une HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21063
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4772.m3u8
+#EXTINF:-1,W9 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13207.m3u8
+#EXTINF:-1,W9 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1909.m3u8
+#EXTINF:-1,M6 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1907.m3u8
+#EXTINF:-1,M6 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4773.m3u8
+#EXTINF:-1,M6 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13336.m3u8
+#EXTINF:-1,C8 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2039.m3u8
+#EXTINF:-1,C8 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4766.m3u8
+#EXTINF:-1,C8 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13217.m3u8
+#EXTINF:-1,CSTAR Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2040.m3u8
+#EXTINF:-1,CSTAR HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4765.m3u8
+#EXTINF:-1,CSTAR SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13216.m3u8
+#EXTINF:-1,RTS UN Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2634.m3u8
+#EXTINF:-1,RTS UN HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4742.m3u8
+#EXTINF:-1,RTS DEUX Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2635.m3u8
+#EXTINF:-1,RTS DEUX HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4741.m3u8
+#EXTINF:-1,6TER Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3703.m3u8
+#EXTINF:-1,6TER HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4764.m3u8
+#EXTINF:-1,6TER SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13332.m3u8
+#EXTINF:-1,RTL 9 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1479.m3u8
+#EXTINF:-1,RTL9 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13211.m3u8
+#EXTINF:-1,TEVA HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1513.m3u8
+#EXTINF:-1,TEVA SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13232.m3u8
+#EXTINF:-1,TF1 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1905.m3u8
+#EXTINF:-1,TF1 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4779.m3u8
+#EXTINF:-1,TF1 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13342.m3u8
+#EXTINF:-1,TF1 +1 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13415.m3u8
+#EXTINF:-1,FRANCE 2 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1906.m3u8
+#EXTINF:-1,ANCE 2 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4778.m3u8
+#EXTINF:-1,FR:ANCE2 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13341.m3u8
+#EXTINF:-1,FRANCE 3 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1953.m3u8
+#EXTINF:-1,ANCE 3 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4777.m3u8
+#EXTINF:-1,FR:ANCE3 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13340.m3u8
+#EXTINF:-1,FRANCE 4 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2596.m3u8
+#EXTINF:-1,ANCE 4 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4776.m3u8
+#EXTINF:-1,FR:ANCE4 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13339.m3u8
+#EXTINF:-1,FRANCE 5 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2204.m3u8
+#EXTINF:-1,ANCE 5 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4775.m3u8
+#EXTINF:-1,FR:ANCE5 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13338.m3u8
+#EXTINF:-1,FRANCE Ô Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5064.m3u8
+#EXTINF:-1,ANCE Ô HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4774.m3u8
+#EXTINF:-1,FR:ANCE O SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13337.m3u8
+#EXTINF:-1,CNEWS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5083.m3u8
+#EXTINF:-1,CNEWS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4685.m3u8
+#EXTINF:-1,CNEWS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13138.m3u8
+#EXTINF:-1,I24 NEWS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5084.m3u8
+#EXTINF:-1,LCI Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5085.m3u8
+#EXTINF:-1,LCI
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13141.m3u8
+#EXTINF:-1,LCP
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13140.m3u8
 #EXTINF:-1,LUXE TV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19568
-#EXTINF:-1,M6 Boutique
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21062
-#EXTINF:-1,Numéro 23
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21061
-#EXTINF:-1,Ofive TV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21060
-#EXTINF:-1,OLTV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21059
-#EXTINF:-1,OLTV FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19550
-#EXTINF:-1,OM TV HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19549
-#EXTINF:-1,ONE TV FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19548
-#EXTINF:-1,Paris Premiere
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21058
-#EXTINF:-1,RFM HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21057
-#EXTINF:-1,RFM TV HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19542
-#EXTINF:-1,RMC Decouverte HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21056
-#EXTINF:-1,Science & Vie TV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21055
-#EXTINF:-1,Stingray Brava
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21054
-#EXTINF:-1,Toute l'Histoire
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21053
-#EXTINF:-1,TRACE AFRICA HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19533
-#EXTINF:-1,TRACE TROPICAL FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19531
-#EXTINF:-1,Trek HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21052
-#EXTINF:-1,Trek FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19527
-#EXTINF:-1,TV Breizh
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21051
-#EXTINF:-1,TV Breizh HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21050
-#EXTINF:-1,TV5 Monde
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21049
-#EXTINF:-1,TV5 Monde FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19529
-#EXTINF:-1,TV8 MONT BLANC FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19528
-#EXTINF:-1,téva
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21048
-#EXTINF:-1,téva HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21047
-#EXTINF:-1,Ushuaïa TV
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21046
-#EXTINF:-1,Ushuaia FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19526
-#EXTINF:-1,Voyage
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21045
-#EXTINF:-1,Vosges Télévision HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21044
-#EXTINF:-1,Voyage FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19524
-#EXTINF:-1,CANAL 31 HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21043
-#EXTINF:-1,Cherie25
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40590
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13205.m3u8
+#EXTINF:-1,FASHIONTV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13200.m3u8
+#EXTINF:-1,BFM TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2704.m3u8
+#EXTINF:-1,BFM TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4722.m3u8
+#EXTINF:-1,BFM TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13143.m3u8
+#EXTINF:-1,BFM BUSINESS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4687.m3u8
+#EXTINF:-1,BFM BUISINESS
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13142.m3u8
+#EXTINF:-1,La Chainne Météo
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7759.m3u8
+#EXTINF:-1,EURONEWS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4680.m3u8
+#EXTINF:-1,EURONEWS
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13145.m3u8
+#EXTINF:-1,EURO NEWS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13312.m3u8
+#EXTINF:-1,ANCE INFO HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4683.m3u8
+#EXTINF:-1,FR:ANCE INFO SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13137.m3u8
+#EXTINF:-1,LA CHAINE METEO
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13146.m3u8
+#EXTINF:-1,FR:ANCE 24
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13144.m3u8
+#EXTINF:-1,TV5MONDE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7576.m3u8
+#EXTINF:-1,TV 5 monde
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13135.m3u8
+#EXTINF:-1,TV5 MONDE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13136.m3u8
+#EXTINF:-1,ALTICE STUDIO Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5065.m3u8
+#EXTINF:-1,ALTICE STUDIO HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13313.m3u8
+#EXTINF:-1,NON STOP PEOPLE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5028.m3u8
+#EXTINF:-1,TV8 MONT BLANC HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7574.m3u8
+#EXTINF:-1,TF1 SÉRIES FILMS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2209.m3u8
+#EXTINF:-1,TF1 SÉRIES FILMS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4769.m3u8
+#EXTINF:-1,TF1 SÉRIES FILMS SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13219.m3u8
+#EXTINF:-1,SUNDANCE TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5069.m3u8
+#EXTINF:-1,SUNDANCE CHANNEL SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13233.m3u8
+#EXTINF:-1,E! Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1927.m3u8
+#EXTINF:-1,E! HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4721.m3u8
+#EXTINF:-1,E! ENTERTAINEMENT SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13228.m3u8
+#EXTINF:-1,LUXE TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5991.m3u8
+#EXTINF:-1,ELLE GIRL Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2073.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4743.m3u8
+#EXTINF:-1,ELLE GIRL SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13223.m3u8
+#EXTINF:-1,ARTE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2598.m3u8
+#EXTINF:-1,ARTE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4767.m3u8
+#EXTINF:-1,ARTE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13331.m3u8
+#EXTINF:-1,SYFY Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1924.m3u8
 #EXTINF:-1,SYFY HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40643
-#EXTINF:-1,TeleToon + FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40639
-#EXTINF:-1,TIJI FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40636
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4746.m3u8
+#EXTINF:-1,SYFY SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13234.m3u8
+#EXTINF:-1,13EME RUE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3117.m3u8
+#EXTINF:-1,13EME RUE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4771.m3u8
+#EXTINF:-1,13Eme Rue SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13235.m3u8
+#EXTINF:-1,CHERIE 25 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2597.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4761.m3u8
+#EXTINF:-1,CHERIE 25 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13220.m3u8
+#EXTINF:-1,AB1 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4706.m3u8
+#EXTINF:-1,AB1 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4705.m3u8
+#EXTINF:-1,AB1 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13218.m3u8
+#EXTINF:-1,AB3 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5086.m3u8
+#EXTINF:-1,AB3 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5089.m3u8
+#EXTINF:-1,TFX Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2208.m3u8
+#EXTINF:-1,TFX HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4770.m3u8
+#EXTINF:-1,TFX SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13208.m3u8
+#EXTINF:-1,RMC STORY Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3134.m3u8
+#EXTINF:-1,RMC STORY HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4762.m3u8
+#EXTINF:-1,RMC STORY SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13209.m3u8
+#EXTINF:-1,SERIE CLUB Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1923.m3u8
+#EXTINF:-1,SERIE CLUB HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/329.m3u8
+#EXTINF:-1, SERIE CLUB SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13237.m3u8
+#EXTINF:-1,A+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7575.m3u8
+#EXTINF:-1,POLAR+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7578.m3u8
+#EXTINF:-1,POLAR+   HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13317.m3u8
+#EXTINF:-1,NOVELAS TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/6035.m3u8
+#EXTINF:-1,WARNER TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/6036.m3u8
+#EXTINF:-1,WARNER HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13318.m3u8
+#EXTINF:-1,TV BREIZH Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2045.m3u8
+#EXTINF:-1,TV BREIZH HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4763.m3u8
+#EXTINF:-1,TV BREIZH SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13333.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2688.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4745.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13310.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL DECALE  Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7577.m3u8
+#EXTINF:-1,TCM CINEMA Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5080.m3u8
+#EXTINF:-1,TCM CINEMA HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5092.m3u8
+#EXTINF:-1,TCM SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13316.m3u8
+#EXTINF:-1,TMC Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1925.m3u8
 #EXTINF:-1,TMC HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40634
-#EXTINF:-1,TV5 MONDE HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40629
-#EXTINF:-1,GIRONDINS TV HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21042
-#EXTINF:-1,GONG MAX HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21041
-#EXTINF:-1,MOTORSPORT TV HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21039
-#EXTINF:-1,NOLLYWOOD HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21038
-#EXTINF:-1,PORTAIL CANALPLAY HD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21037
-#EXTINF:-1,Discovery Investigation FHD
-http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/61179
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4768.m3u8
+#EXTINF:-1,TMC HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13334.m3u8
+#EXTINF:-1,TMC +1 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13416.m3u8
+#EXTINF:-1,NOLLYWOOD Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3673.m3u8
+#EXTINF:-1,PARIS PREMIERE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5073.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1186.m3u8
+#EXTINF:-1,PARIS PREMIERE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13335.m3u8
+#EXTINF:-1,ACTION Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5090.m3u8
+#EXTINF:-1,ACTION HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4760.m3u8
+#EXTINF:-1,COMEDIE+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5074.m3u8
+#EXTINF:-1,COMEDIE+ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4686.m3u8
+#EXTINF:-1,COMEDIE+ SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13230.m3u8
+#EXTINF:-1,GEULO Full  HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4676.m3u8
+#EXTINF:-1,BET SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13222.m3u8
+#EXTINF:-1,CANAL+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1912.m3u8
+#EXTINF:-1,CANAL+ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4759.m3u8
+#EXTINF:-1,CANAL+ SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13328.m3u8
+#EXTINF:-1,CANAL+ CINEMA Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1913.m3u8
+#EXTINF:-1,CANAL+ CINEMA HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4755.m3u8
+#EXTINF:-1,CANAL+ CINEMA SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13325.m3u8
+#EXTINF:-1,CANAL+ DECALE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1915.m3u8
+#EXTINF:-1,CANAL+ DECALE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4756.m3u8
+#EXTINF:-1,CANAL+ DECALE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13327.m3u8
+#EXTINF:-1,CANAL+ FAMILY Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1914.m3u8
+#EXTINF:-1,CANAL+ FAMILY HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4757.m3u8
+#EXTINF:-1,CANAL+ FAMILY SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13326.m3u8
+#EXTINF:-1,CANAL+ SERIES Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1916.m3u8
+#EXTINF:-1,CANAL+ SERIES HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4758.m3u8
+#EXTINF:-1,CANAL+  SERIES HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13236.m3u8
+#EXTINF:-1,CINE+ PREMIER Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2687.m3u8
+#EXTINF:-1,CINE+ PREMIER HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4750.m3u8
+#EXTINF:-1,CINE+ PREMIER SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13324.m3u8
+#EXTINF:-1,CINE+ FAMIZ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2628.m3u8
+#EXTINF:-1,CINE+ FAMIZ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4753.m3u8
+#EXTINF:-1,CINE+ FAMIZ SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13322.m3u8
+#EXTINF:-1,CINE+ CLASSIC Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2686.m3u8
+#EXTINF:-1,CINE+ CLASSIC HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4747.m3u8
+#EXTINF:-1,CINE+ CLASSIC SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13315.m3u8
+#EXTINF:-1,CINE+ CLUB Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2685.m3u8
+#EXTINF:-1,CINE+ CLUB HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4748.m3u8
+#EXTINF:-1,CINE+ CLUB SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13320.m3u8
+#EXTINF:-1,CINE+ EMOTION Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2684.m3u8
+#EXTINF:-1,CINE+ EMOTION HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4749.m3u8
+#EXTINF:-1,CINE+ EMOTION SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13321.m3u8
+#EXTINF:-1,CINE+ISSON Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2585.m3u8
+#EXTINF:-1,CINE+ISSON HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4754.m3u8
+#EXTINF:-1,CINE+ISSON SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13323.m3u8
+#EXTINF:-1,CINE POLAR Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2689.m3u8
+#EXTINF:-1,POLAR+ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4752.m3u8
+#EXTINF:-1,CINE FX Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2690.m3u8
+#EXTINF:-1,CINE FX HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4751.m3u8
+#EXTINF:-1,OCS CHOC Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3128.m3u8
+#EXTINF:-1,OCS Choc
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4847.m3u8
+#EXTINF:-1,OCS CITY Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3129.m3u8
+#EXTINF:-1,OCS CITY
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4908.m3u8
+#EXTINF:-1,OCS GEANTS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3126.m3u8
+#EXTINF:-1,OCS GEANTS
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4909.m3u8
+#EXTINF:-1,OCS MAX Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3127.m3u8
+#EXTINF:-1,CANAL+ SPORT Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1917.m3u8
+#EXTINF:-1,CANAL+ SPORT HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4694.m3u8
+#EXTINF:-1,CANAL+ SPORT SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13262.m3u8
+#EXTINF:-1,Eleven SPORTS 1 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12502.m3u8
+#EXTINF:-1,Eleven SPORTS 2 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12503.m3u8
+#EXTINF:-1,Eleven SPORTS 3 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12504.m3u8
+#EXTINF:-1,beIN SPORTS 1 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1941.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4701.m3u8
+#EXTINF:-1,beIN SPORTS 1 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13260.m3u8
+#EXTINF:-1,beIN SPORTS 2 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1942.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4700.m3u8
+#EXTINF:-1,beIN SPORTS 2 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13259.m3u8
+#EXTINF:-1,beIN SPORTS 3 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1943.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4699.m3u8
+#EXTINF:-1,beIN SPORTS 3 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13258.m3u8
+#EXTINF:-1,beIN SPORTS MAX 4 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2631.m3u8
+#EXTINF:-1,FR:beIN SPORTS MAX 4 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13170.m3u8
+#EXTINF:-1,beIN SPORTS MAX 5 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2630.m3u8
+#EXTINF:-1,FR:beIN SPORTS MAX 5 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13147.m3u8
+#EXTINF:-1,beIN SPORTS MAX 6 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2632.m3u8
+#EXTINF:-1,FR:beIN SPORTS MAX 6 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13329.m3u8
+#EXTINF:-1,beIN SPORTS MAX 7 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2633.m3u8
+#EXTINF:-1,FR:beIN SPORTS MAX 7 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13343.m3u8
+#EXTINF:-1,beIN SPORTS MAX 8 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3681.m3u8
+#EXTINF:-1,FR:beIN SPORTS MAX 8 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/14187.m3u8
+#EXTINF:-1,beIN SPORTS  MAX 9 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3682.m3u8
+#EXTINF:-1,FR:beIN SPORTS MAX 9 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/14188.m3u8
+#EXTINF:-1,beIN SPORTS MAX 10 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3683.m3u8
+#EXTINF:-1,FR:beIN SPORTS MAX 10 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/14189.m3u8
+#EXTINF:-1,RMC SPORT NEWS FULL HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12980.m3u8
+#EXTINF:-1,RMC SPORT NEWS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2638.m3u8
+#EXTINF:-1,RMC SPORT NEWS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13256.m3u8
+#EXTINF:-1,RMC SPORT UHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2592.m3u8
+#EXTINF:-1,RMC SPORT 1 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2043.m3u8
+#EXTINF:-1,RMC SPORT 1 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4698.m3u8
+#EXTINF:-1,RMC SPORT 2 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2046.m3u8
+#EXTINF:-1,RMC SPORT 2 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4697.m3u8
+#EXTINF:-1,RMC SPORT 3 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2047.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4696.m3u8
+#EXTINF:-1,RMC SPORT 4 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3125.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4695.m3u8
+#EXTINF:-1,RMC SPORT LIVE 5 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13272.m3u8
+#EXTINF:-1,RMC SPORT LIVE 6 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13271.m3u8
+#EXTINF:-1,RMC SPORT LIVE 7 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13270.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13269.m3u8
+#EXTINF:-1,RMC SPORT LIVE 9 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13268.m3u8
+#EXTINF:-1,RMC SPORT LIVE 10 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13273.m3u8
+#EXTINF:-1,RMC SPORT LIVE 11 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13267.m3u8
+#EXTINF:-1,RMC SPORT LIVE 12 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13266.m3u8
+#EXTINF:-1,RMC SPORT LIVE 14 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13265.m3u8
+#EXTINF:-1,RMC SPORT LIVE 15 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13241.m3u8
+#EXTINF:-1,RMC SPORT LIVE 16 FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13238.m3u8
+#EXTINF:-1,MULTI SPORTS 1HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5985.m3u8
+#EXTINF:-1,MULTI SPORTS 2HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5986.m3u8
+#EXTINF:-1,MULTI SPORTS 3HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5987.m3u8
+#EXTINF:-1,MULTI SPORTS 4HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5988.m3u8
+#EXTINF:-1,MULTI SPORTS 5HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5989.m3u8
+#EXTINF:-1,MULTI SPORTS 6HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5990.m3u8
+#EXTINF:-1,INFOSPORT+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2471.m3u8
+#EXTINF:-1,INFOSPORT+ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4691.m3u8
+#EXTINF:-1,INFOSPORT HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13255.m3u8
+#EXTINF:-1,L'EQUIPE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2041.m3u8
+#EXTINF:-1,L'EQUIPE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4690.m3u8
+#EXTINF:-1,L'EQUIPE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13254.m3u8
+#EXTINF:-1,EQUIDIA LIFE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4682.m3u8
+#EXTINF:-1,EQUIDIA LIVE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2600.m3u8
+#EXTINF:-1,EQUIDIA LIVE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13243.m3u8
+#EXTINF:-1,EQUIDIA LIFE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4681.m3u8
+#EXTINF:-1,EQUIDIA LIFE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13242.m3u8
+#EXTINF:-1,EQUIDIA LIVE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4689.m3u8
+#EXTINF:-1,EUROSPORT 1 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1936.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4693.m3u8
+#EXTINF:-1,EUROSPORT1 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13245.m3u8
+#EXTINF:-1,EUROSPORT 2 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1937.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4692.m3u8
+#EXTINF:-1,EUROSPORT2 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13244.m3u8
+#EXTINF:-1,GOLF CHANNEL Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1939.m3u8
+#EXTINF:-1,GOLF CHANNELS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4688.m3u8
+#EXTINF:-1,GOLF CHANNELS SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13239.m3u8
+#EXTINF:-1,GOLF+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2028.m3u8
+#EXTINF:-1,GOLF+ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5072.m3u8
+#EXTINF:-1,GOLF+  SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13240.m3u8
+#EXTINF:-1,OM TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3691.m3u8
+#EXTINF:-1,FOOT+ 24/24 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5082.m3u8
+#EXTINF:-1,FOOT+ 24/24 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1631.m3u8
+#EXTINF:-1,FOOT+ 24 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13264.m3u8
+#EXTINF:-1,TRACE SPORT * STARS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/7573.m3u8
+#EXTINF:-1,TRACE SPORT STARS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13257.m3u8
+#EXTINF:-1,AB MOTEURS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5079.m3u8
+#EXTINF:-1,AB MOTEURS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1947.m3u8
+#EXTINF:-1,AB MOTEUR HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13247.m3u8
+#EXTINF:-1,MOTOR SPORT HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13246.m3u8
+#EXTINF:-1,AB MOTEUR
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13248.m3u8
+#EXTINF:-1,EXTREME SPORTS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5094.m3u8
+#EXTINF:-1,EXTREME SPORTS
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13250.m3u8
+#EXTINF:-1,OM TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13253.m3u8
+#EXTINF:-1,OL TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13252.m3u8
+#EXTINF:-1,GIRONDINS TV
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13251.m3u8
+#EXTINF:-1,ONZEO FHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13263.m3u8
+#EXTINF:-1,SEASONS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1946.m3u8
+#EXTINF:-1,SEASON HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4712.m3u8
+#EXTINF:-1,SEASON SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13153.m3u8
+#EXTINF:-1,TREK Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1944.m3u8
+#EXTINF:-1,TREK HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4711.m3u8
+#EXTINF:-1,TREK SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13155.m3u8
+#EXTINF:-1,USHUAIA Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2587.m3u8
+#EXTINF:-1,USHUAIA HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4720.m3u8
+#EXTINF:-1,USHUAIA SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13158.m3u8
+#EXTINF:-1,ANIMAUX Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1945.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4710.m3u8
+#EXTINF:-1,ANIMAUX SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13159.m3u8
+#EXTINF:-1,PLANETE+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1928.m3u8
+#EXTINF:-1,PLANETE+ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4704.m3u8
+#EXTINF:-1,PLANETE+ SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13169.m3u8
+#EXTINF:-1,PLANETE+ CI Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2692.m3u8
+#EXTINF:-1,PLANETE+ CI HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4703.m3u8
+#EXTINF:-1,PLANETE+ CI SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13168.m3u8
+#EXTINF:-1,PLANETE+ A&E Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2691.m3u8
+#EXTINF:-1,PLANETE+ A&E HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4702.m3u8
+#EXTINF:-1,PLANETE+ A&E SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13167.m3u8
+#EXTINF:-1,RMC DECOUVERTE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1910.m3u8
+#EXTINF:-1,RMC DECOUVERTE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4708.m3u8
+#EXTINF:-1,RMC DECOUVERTE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13157.m3u8
+#EXTINF:-1,NAT GEO WILD Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2693.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4718.m3u8
+#EXTINF:-1,NAT GEO WILD SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13161.m3u8
+#EXTINF:-1,NATIONAL GEO Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1952.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4719.m3u8
+#EXTINF:-1,NATIONAL GEO SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13162.m3u8
+#EXTINF:-1,HISTOIRE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4373.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4709.m3u8
+#EXTINF:-1,HISTOIRE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13149.m3u8
+#EXTINF:-1,SCIENCE ET VIE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1929.m3u8
+#EXTINF:-1,SCIENCE&VIE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4717.m3u8
+#EXTINF:-1,SCIENCE&VIE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13160.m3u8
+#EXTINF:-1,CRIME DISTRICT Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4266.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4713.m3u8
+#EXTINF:-1,CRIME DISTRICT SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13151.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1935.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4714.m3u8
+#EXTINF:-1,DISCOVERY SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13166.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FULL HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5227.m3u8
+#EXTINF:-1,DISCOVERY FAMILY SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13163.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3704.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13164.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1930.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4715.m3u8
+#EXTINF:-1,DISCOVERY SC SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13165.m3u8
+#EXTINF:-1,CAMPAGNES TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2601.m3u8
+#EXTINF:-1,CAMPAGNES TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4707.m3u8
+#EXTINF:-1,FR:CAMPAGNE-TV SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13152.m3u8
+#EXTINF:-1,VOYAGE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4780.m3u8
+#EXTINF:-1,VOYAGE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4679.m3u8
+#EXTINF:-1,VOYAGE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13156.m3u8
+#EXTINF:-1,VOSGES
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13202.m3u8
+#EXTINF:-1,VICELAND Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4912.m3u8
+#EXTINF:-1,MY ZEN TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4911.m3u8
+#EXTINF:-1,MY CUISINE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4372.m3u8
+#EXTINF:-1,MUSEUM HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13150.m3u8
+#EXTINF:-1,ULTRA NATURE UHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4677.m3u8
+#EXTINF:-1,BE CURIOUS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4675.m3u8
+#EXTINF:-1,Wéo Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5992.m3u8
+#EXTINF:-1,AZUR TV FULLHD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13215.m3u8
+#EXTINF:-1,TN TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13204.m3u8
+#EXTINF:-1,MUSCULATION TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13249.m3u8
+#EXTINF:-1,VIVOLTA HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12963.m3u8
+#EXTINF:-1,VIVOLTA HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13226.m3u8
+#EXTINF:-1,BET° Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4678.m3u8
+#EXTINF:-1,TOUTE L'HISTOIRE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1737.m3u8
+#EXTINF:-1,CHASSE ET PECHE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/330.m3u8
+#EXTINF:-1,CHASSE&PECHE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13154.m3u8
+#EXTINF:-1,FR:TOUTE.L'HISTOIRE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13148.m3u8
+#EXTINF:-1,NAUTICAL CHANNELS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13214.m3u8
+#EXTINF:-1,CANAL J Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2699.m3u8
+#EXTINF:-1,CANAL J HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4740.m3u8
+#EXTINF:-1,CANAL J SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13184.m3u8
+#EXTINF:-1,J-ONE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3695.m3u8
+#EXTINF:-1,J ONE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13175.m3u8
+#EXTINF:-1,J-ONE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4728.m3u8
+#EXTINF:-1,GAME ONE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1934.m3u8
+#EXTINF:-1,GAME ONE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4729.m3u8
+#EXTINF:-1,GAMEONE SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13177.m3u8
+#EXTINF:-1,GAMEONE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13178.m3u8
+#EXTINF:-1,GAME ONE 1 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13176.m3u8
+#EXTINF:-1,GINX HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13171.m3u8
+#EXTINF:-1,GONG SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13173.m3u8
+#EXTINF:-1,BABY TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13186.m3u8
+#EXTINF:-1,MANGAS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3696.m3u8
+#EXTINF:-1,MANGAS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4727.m3u8
+#EXTINF:-1,MANGAS SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13172.m3u8
+#EXTINF:-1,PIWI+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2696.m3u8
+#EXTINF:-1,PIWI+ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4735.m3u8
+#EXTINF:-1,PIWI SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13187.m3u8
+#EXTINF:-1,GULLI Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2015.m3u8
+#EXTINF:-1,GULLI HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4726.m3u8
+#EXTINF:-1,GULLI SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13174.m3u8
+#EXTINF:-1,TÉLÉTOON+ Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2698.m3u8
+#EXTINF:-1,TÉLÉTOON+ HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4737.m3u8
+#EXTINF:-1,TELETOON+ SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13188.m3u8
+#EXTINF:-1,TIJI Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2697.m3u8
+#EXTINF:-1,TIJI HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4738.m3u8
+#EXTINF:-1,TIJI SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13183.m3u8
+#EXTINF:-1,TOONAMI Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4218.m3u8
+#EXTINF:-1,TOONAMI HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4846.m3u8
+#EXTINF:-1,TOONAMI SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13189.m3u8
+#EXTINF:-1,BOOMERANG Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2700.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4739.m3u8
+#EXTINF:-1,BOOMERANG 1 SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13181.m3u8
+#EXTINF:-1,BOOMERANG SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13182.m3u8
+#EXTINF:-1,TOM Y JERRY
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/15001.m3u8
+#EXTINF:-1,BOING Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5081.m3u8
+#EXTINF:-1,BOING HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5088.m3u8
+#EXTINF:-1,BOING SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13180.m3u8
+#EXTINF:-1,DISNEY CHANNEL Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2694.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4733.m3u8
+#EXTINF:-1,DISNEY CHANNELS SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13199.m3u8
+#EXTINF:-1,DISNEY CHA 1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13198.m3u8
+#EXTINF:-1,DISNEY CINEMA Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2016.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4731.m3u8
+#EXTINF:-1,DISNEY CINEMA SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13195.m3u8
+#EXTINF:-1,DISNEY JUNIOR Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2695.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4734.m3u8
+#EXTINF:-1,DISNEY JUNIOR SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13196.m3u8
+#EXTINF:-1,DISNEY XD Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4371.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4736.m3u8
+#EXTINF:-1,DISNEY XD SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13197.m3u8
+#EXTINF:-1,NICKELODEON Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1931.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4730.m3u8
+#EXTINF:-1,NICKELODEON  1 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13193.m3u8
+#EXTINF:-1,NICKELODEON SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13194.m3u8
+#EXTINF:-1,NICKELODEON JUN SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13192.m3u8
+#EXTINF:-1,NICK JUNIOR SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13191.m3u8
+#EXTINF:-1,Nickelodeon 4 TEEN Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2629.m3u8
+#EXTINF:-1,NICKELODEON 4 TEEN HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13190.m3u8
+#EXTINF:-1,CARTOON NETWORK Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2211.m3u8
+#EXTINF:-1,CARTOON NET SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13179.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4732.m3u8
+#EXTINF:-1,ZOUZOUS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1898.m3u8
+#EXTINF:-1,LUCKY JACK HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13133.m3u8
+#EXTINF:-1,ZOUZOUS SD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13185.m3u8
+#EXTINF:-1,ONE TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5093.m3u8
+#EXTINF:-1,NRJ 12 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1926.m3u8
+#EXTINF:-1,NRJ 12 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4744.m3u8
+#EXTINF:-1,NRJ12 HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13224.m3u8
+#EXTINF:-1,NRJ HITS
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4195.m3u8
+#EXTINF:-1,MCM Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2702.m3u8
+#EXTINF:-1,MCM HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4724.m3u8
+#EXTINF:-1,MCM TOP Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2703.m3u8
+#EXTINF:-1,MCM TOP HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4723.m3u8
+#EXTINF:-1,MTVANCE Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1933.m3u8
+#EXTINF:-1,FR[ MTV
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4725.m3u8
+#EXTINF:-1,MTV HITS Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5078.m3u8
+#EXTINF:-1,M6 MUSIC Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5076.m3u8
+#EXTINF:-1,M6 MUSIC HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1187.m3u8
+#EXTINF:-1,M6 BOUTIQUE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13201.m3u8
+#EXTINF:-1,RFM TV Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5075.m3u8
+#EXTINF:-1,RFM TV
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5087.m3u8
+#EXTINF:-1,TRACE AFRICA Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5077.m3u8
+#EXTINF:-1,TRACE URBAN Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/5091.m3u8
+#EXTINF:-1,Trace urban
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4684.m3u8
+#EXTINF:-1,TRACE GOSPEL
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12977.m3u8
+#EXTINF:-1,TRACE MZIKI
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12976.m3u8
+#EXTINF:-1,TRACE NAIJA
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12975.m3u8
+#EXTINF:-1,TRACE TOCA
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12974.m3u8
+#EXTINF:-1,TRACE TROPICAL HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12978.m3u8
+#EXTINF:-1,OKLM HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12973.m3u8
+#EXTINF:-1,NRJ HITS HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12971.m3u8
+#EXTINF:-1,RFM TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12972.m3u8
+#EXTINF:-1,VH1 Full HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12970.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12969.m3u8
+#EXTINF:-1,MELODY TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12968.m3u8
+#EXTINF:-1,DJAZZ TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12967.m3u8
+#EXTINF:-1,BRAVA HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12966.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12965.m3u8
+#EXTINF:-1,ONE TV HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/12964.m3u8
+#EXTINF:-1,Virgin HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1265.m3u8
+#EXTINF:-1,FUEL TV
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13225.m3u8
+#EXTINF:-1,ALSACE 20
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13203.m3u8
+#EXTINF:-1,MENSUP TV
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13139.m3u8
+#EXTINF:-1,FR:OFIVE TV
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13206.m3u8
+#EXTINF:-1,SOUVENIRSOM EHART HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13212.m3u8
+#EXTINF:-1,CANAL PLAY 1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1037.m3u8
+#EXTINF:-1,CANAL PLAY 2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1038.m3u8
+#EXTINF:-1,CANAL PLAY 3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1039.m3u8
+#EXTINF:-1,CANAL PLAY 4
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1040.m3u8
+#EXTINF:-1,CANAL PLAY 5
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1041.m3u8
+#EXTINF:-1,CANAL PLAY 6
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1036.m3u8
+#EXTINF:-1,ORANGE CINEMA 1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4670.m3u8
+#EXTINF:-1,ORANGE CINEMA 2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4671.m3u8
+#EXTINF:-1,ORANGE CINEMA 3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4672.m3u8
+#EXTINF:-1,ORANGE CINEMA 4
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4673.m3u8
+#EXTINF:-1,ORANGE CINEMA 5
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4674.m3u8
+#EXTINF:-1,CANAL PLAY 1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13309.m3u8
+#EXTINF:-1,CANAL PLAY 2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13308.m3u8
+#EXTINF:-1,CANAL PLAY 3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13307.m3u8
+#EXTINF:-1,CANAL PLAY 4
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13306.m3u8
+#EXTINF:-1,CANAL PLAY 5
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13305.m3u8
+#EXTINF:-1,CANAL PLAY 6
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13304.m3u8
+#EXTINF:-1,CANAL PLAY 7
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13303.m3u8
+#EXTINF:-1,CANAL PLAY 8
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13302.m3u8
+#EXTINF:-1,CANAL PLAY 9
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13301.m3u8
+#EXTINF:-1,CANAL PLAY 10
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13300.m3u8
+#EXTINF:-1,CANAL PLAY 11
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13299.m3u8
+#EXTINF:-1,CANAL PLAY 12
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13298.m3u8
+#EXTINF:-1,CANAL PLAY 13
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13297.m3u8
+#EXTINF:-1,CANAL PLAY 14
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13296.m3u8
+#EXTINF:-1,CANAL PLAY 15
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13295.m3u8
+#EXTINF:-1, CANAL PLAY 16
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13294.m3u8
+#EXTINF:-1,ALACARTE 1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13284.m3u8
+#EXTINF:-1,ALACARTE 2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13283.m3u8
+#EXTINF:-1,ALACARTE 3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13282.m3u8
+#EXTINF:-1,ALACARTE 4
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13281.m3u8
+#EXTINF:-1,ALACARTE 5
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13280.m3u8
+#EXTINF:-1,ALACARTE 6
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13279.m3u8
+#EXTINF:-1,ALACARTE 7
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13278.m3u8
+#EXTINF:-1,ALACARTE 8
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13277.m3u8
+#EXTINF:-1,ALACARTE 9
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13276.m3u8
+#EXTINF:-1,ALACARTE 10
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13275.m3u8
+#EXTINF:-1,ORANGE CINE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13293.m3u8
+#EXTINF:-1,ORANGE CINE  1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13292.m3u8
+#EXTINF:-1,ORANGE CINE  2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13291.m3u8
+#EXTINF:-1,ORANGE CINE  3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13290.m3u8
+#EXTINF:-1,ORANGE CINE  4
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13289.m3u8
+#EXTINF:-1,ORANGE CINE  5
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13288.m3u8
+#EXTINF:-1,ORANGE CINE  6
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13287.m3u8
+#EXTINF:-1,ORANGE CINE  7
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13286.m3u8
+#EXTINF:-1,ORANGE CINE  8
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/13285.m3u8
+#EXTINF:-1,LA UNE HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8684.m3u8
+#EXTINF:-1,La Deux BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8683.m3u8
+#EXTINF:-1,La Trois BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8682.m3u8
+#EXTINF:-1,RTL TVI HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8664.m3u8
+#EXTINF:-1,Plug RTL BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8667.m3u8
+#EXTINF:-1,Club RTL BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8691.m3u8
+#EXTINF:-1,192 TV BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8700.m3u8
+#EXTINF:-1,2BE FHD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8699.m3u8
+#EXTINF:-1,Acht BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8698.m3u8
+#EXTINF:-1,BX1 BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8697.m3u8
+#EXTINF:-1,Canvas HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8695.m3u8
+#EXTINF:-1,CAZ BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8696.m3u8
+#EXTINF:-1,één HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8649.m3u8
+#EXTINF:-1,Kadet BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8687.m3u8
+#EXTINF:-1,Ketnet BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8686.m3u8
+#EXTINF:-1,Nat Geo HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8681.m3u8
+#EXTINF:-1,Q2 HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8665.m3u8
+#EXTINF:-1,Vier FHD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8654.m3u8
+#EXTINF:-1,VIJF BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8660.m3u8
+#EXTINF:-1,Vitaya BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8659.m3u8
+#EXTINF:-1,VTM HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8656.m3u8
+#EXTINF:-1,Voo Sport 1 BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8701.m3u8
+#EXTINF:-1,Voo Sport 2 BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2029.m3u8
+#EXTINF:-1,Voo Sport World 1 BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8653.m3u8
+#EXTINF:-1,Voo Sport World 2 BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8652.m3u8
+#EXTINF:-1,Voo Sport World 3 BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8651.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8689.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD BE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/8688.m3u8
+#EXTINF:-1,TF1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1775.m3u8
+#EXTINF:-1,FRANCE 2 
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1776.m3u8
+#EXTINF:-1,FRANCE 3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1814.m3u8
+#EXTINF:-1,FRANCE 4
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/314.m3u8
+#EXTINF:-1,FRANCE 5
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/315.m3u8
+#EXTINF:-1,FRANCE Ô
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/316.m3u8
+#EXTINF:-1,M6
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1777.m3u8
+#EXTINF:-1,W9
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1778.m3u8
+#EXTINF:-1,6TER
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1811.m3u8
+#EXTINF:-1,RTL 9
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/318.m3u8
+#EXTINF:-1,RTS Un
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/995.m3u8
+#EXTINF:-1,RTS Deux
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1653.m3u8
+#EXTINF:-1,C STAR
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1008.m3u8
+#EXTINF:-1,C8
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/321.m3u8
+#EXTINF:-1,AB1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1786.m3u8
+#EXTINF:-1,TFX
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/926.m3u8
+#EXTINF:-1,TF1 SÉRIES FILMS 
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1185.m3u8
+#EXTINF:-1,ARTE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/324.m3u8
+#EXTINF:-1,ACTION
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/317.m3u8
+#EXTINF:-1,POLAR+
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1216.m3u8
+#EXTINF:-1,CANAL+
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/331.m3u8
+#EXTINF:-1,CANAL+ CINEMA
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1803.m3u8
+#EXTINF:-1,CANAL+ DECALE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/337.m3u8
+#EXTINF:-1,CANAL+ FAMIILY
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1804.m3u8
+#EXTINF:-1,CANAL+ SERIES
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1832.m3u8
+#EXTINF:-1,Ciné +Famiz
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/827.m3u8
+#EXTINF:-1,Cine+ Premier
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1805.m3u8
+#EXTINF:-1,CINE+ CLASSIC
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1218.m3u8
+#EXTINF:-1,CINE+ EMOTION
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/336.m3u8
+#EXTINF:-1,CINE+ISSON
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3217.m3u8
+#EXTINF:-1,Cherie 25
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1125.m3u8
+#EXTINF:-1,E! HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1124.m3u8
+#EXTINF:-1,Elle Girl
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4376.m3u8
+#EXTINF:-1,RMC STORY
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1772.m3u8
+#EXTINF:-1,13EME RUE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/826.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1630.m3u8
+#EXTINF:-1,SERIE CLUB
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1833.m3u8
+#EXTINF:-1,SYFY
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/328.m3u8
+#EXTINF:-1,TCM Cinema
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1891.m3u8
+#EXTINF:-1,TMC
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1816.m3u8
+#EXTINF:-1,TV BREIZH
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1773.m3u8
+#EXTINF:-1,Comedie +
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1806.m3u8
+#EXTINF:-1,MY CUISINE TV
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/3124.m3u8
+#EXTINF:-1,RMC SPORTS 1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2590.m3u8
+#EXTINF:-1,RMC SPORTS 2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1267.m3u8
+#EXTINF:-1,RMC SPORTS 3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2595.m3u8
+#EXTINF:-1,RMC SPORTS 4
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4194.m3u8
+#EXTINF:-1,beIN SPORTS 1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1780.m3u8
+#EXTINF:-1,beIN SPORTS 2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1781.m3u8
+#EXTINF:-1,beIN SPORTS 3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2593.m3u8
+#EXTINF:-1,beIN SPORTS HD1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2654.m3u8
+#EXTINF:-1,beIN SPORTS HD2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2655.m3u8
+#EXTINF:-1,beIN SPORTS HD3
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/829.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 4
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1303.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 5
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1304.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 6
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1305.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 7
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1306.m3u8
+#EXTINF:-1,BeIN SPORTS MAX 8
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1307.m3u8
+#EXTINF:-1,CANAL+ SPORT
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1779.m3u8
+#EXTINF:-1,RMC SPORT NEWS
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/4294.m3u8
+#EXTINF:-1,Equidia Live
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1774.m3u8
+#EXTINF:-1,EURO SPORTS 1
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/872.m3u8
+#EXTINF:-1,EURO SPORTS 2
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1103.m3u8
+#EXTINF:-1,INFOSPORT+
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/873.m3u8
+#EXTINF:-1,L'EQUIPE 
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/326.m3u8
+#EXTINF:-1,GOLF+
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1782.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/921.m3u8
+#EXTINF:-1,DISNEY CINEMA
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1104.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/822.m3u8
+#EXTINF:-1,Boomerang
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/868.m3u8
+#EXTINF:-1,CANAL J
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/820.m3u8
+#EXTINF:-1,Game One
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1839.m3u8
+#EXTINF:-1,MANGAS
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1035.m3u8
+#EXTINF:-1,Gulli
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/327.m3u8
+#EXTINF:-1,PIWI+
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/819.m3u8
+#EXTINF:-1,TéléToon+
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1264.m3u8
+#EXTINF:-1,TIJI
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/871.m3u8
+#EXTINF:-1,TOONAMI
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1217.m3u8
+#EXTINF:-1,NICK JR
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1785.m3u8
+#EXTINF:-1,NICKELODEON
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1787.m3u8
+#EXTINF:-1,Discovery
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1810.m3u8
+#EXTINF:-1,Discovery Science
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1831.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/343.m3u8
+#EXTINF:-1,National Geo HD
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1809.m3u8
+#EXTINF:-1,PLANETE+
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/345.m3u8
+#EXTINF:-1,PLANETE+ A&E
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/347.m3u8
+#EXTINF:-1,PLANETE+ CI
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1807.m3u8
+#EXTINF:-1,RMC Decouverte
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1009.m3u8
+#EXTINF:-1,VOYAGE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/925.m3u8
+#EXTINF:-1,USHUAIA TV
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/828.m3u8
+#EXTINF:-1,TREK
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1783.m3u8
+#EXTINF:-1,SCIENCE ET VIE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2074.m3u8
+#EXTINF:-1,SEASON
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1784.m3u8
+#EXTINF:-1,Animaux
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1808.m3u8
+#EXTINF:-1,BFM
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1105.m3u8
+#EXTINF:-1,Euronews
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1484.m3u8
+#EXTINF:-1,France24
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1486.m3u8
+#EXTINF:-1,NRJ12
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/823.m3u8
+#EXTINF:-1,OCS CITY
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/824.m3u8
+#EXTINF:-1,OCS MAX
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1100.m3u8
+#EXTINF:-1,OCS CHOC
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1102.m3u8
+#EXTINF:-1,OCS GEANTS
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/1101.m3u8
+#EXTINF:-1,OCS ACTION
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2020.m3u8
+#EXTINF:-1,OCS AVENTURE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2021.m3u8
+#EXTINF:-1,OCS GO COMEDIE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2017.m3u8
+#EXTINF:-1,OCS HORREUR
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2019.m3u8
+#EXTINF:-1,OCS DOCUMENTAIRE
+http://satfrog-tv.ddns.net:5890/live/f.aimonetto@wanadoo.fr/yMsZRDGi6k/2018.m3u8
