@@ -1,185 +1,447 @@
 #EXTM3U
-#EXTINF:-1,Sky 1 FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24119.m3u8
-#EXTINF:-1,Sky 1 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24120.m3u8
-#EXTINF:-1,Sky 2 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24118.m3u8
-#EXTINF:-1,Sky Atlantic FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24116.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24491.m3u8
-#EXTINF:-1,Sky Arts FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/40655.m3u8
-#EXTINF:-1,Sky Witness FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/40708.m3u8
-#EXTINF:-1,AMC FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/44620.m3u8
-#EXTINF:-1,FOX HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/23915.m3u8
-#EXTINF:-1,Gold FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24114.m3u8
-#EXTINF:-1,Comedy Central HD.
-http://s1.platinumhostingtech.com:80/live/rose/rose/24025.m3u8
-#EXTINF:-1,Comedy Central Xtra
-http://s1.platinumhostingtech.com:80/live/rose/rose/24085.m3u8
-#EXTINF:-1,Lifetime FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24446.m3u8
+#EXTINF:-1,True Movies 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1031.m3u8
+#EXTINF:-1,TLC - IRELAND
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/421.m3u8
+#EXTINF:-1,Sky Movies Modern
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/425.m3u8
+#EXTINF:-1,HBO 2
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1033.m3u8
+#EXTINF:-1,HBO 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1034.m3u8
+#EXTINF:-1,BBC World News
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/384.m3u8
+#EXTINF:-1,4Seven
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/388.m3u8
+#EXTINF:-1,W   1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4450.m3u8
+#EXTINF:-1,VH1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1035.m3u8
+#EXTINF:-1,Universal + 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4453.m3u8
+#EXTINF:-1,True Movies 2
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1036.m3u8
+#EXTINF:-1,Travel Channel
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1037.m3u8
+#EXTINF:-1,TLC   1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4445.m3u8
+#EXTINF:-1,TLC
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1415.m3u8
+#EXTINF:-1,Tiny Pop  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4461.m3u8
+#EXTINF:-1,Syfy + 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4452.m3u8
+#EXTINF:-1,Sony Chnl   1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4442.m3u8
+#EXTINF:-1,SkySpBoxOff (PPV Events Only)
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5212.m3u8
+#EXTINF:-1,Sky Two
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/423.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2459.m3u8
+#EXTINF:-1,SKY SPORTS GOLF
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2460.m3u8
+#EXTINF:-1,SKY SPORTS ACTION
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2461.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2462.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2463.m3u8
+#EXTINF:-1,Sky Movies Select HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/424.m3u8
+#EXTINF:-1,Sky Living +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4446.m3u8
+#EXTINF:-1,Sky Cinema Premiere  1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4471.m3u8
+#EXTINF:-1,Sky Atlantic  1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4447.m3u8
+#EXTINF:-1,Setanta Sports 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1026.m3u8
+#EXTINF:-1,RTE Two
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1425.m3u8
+#EXTINF:-1,RTE One
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1426.m3u8
+#EXTINF:-1,Racing UK
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/391.m3u8
+#EXTINF:-1,PREMIERE SPORT HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1028.m3u8
+#EXTINF:-1,Nickelodeon  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4462.m3u8
+#EXTINF:-1,Nickelodeon
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/383.m3u8
+#EXTINF:-1,Nick Jr +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4463.m3u8
+#EXTINF:-1,Nick Jr Too
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4464.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/430.m3u8
+#EXTINF:-1,MUTV
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/758.m3u8
+#EXTINF:-1,MTV  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4470.m3u8
+#EXTINF:-1,LFC TV
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2895.m3u8
+#EXTINF:-1,ITV4
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/379.m3u8
+#EXTINF:-1,ITV3
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/380.m3u8
+#EXTINF:-1,ITV2
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/381.m3u8
+#EXTINF:-1,ITV1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/382.m3u8
+#EXTINF:-1,ID + 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4449.m3u8
+#EXTINF:-1,Horror Channel  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4444.m3u8
+#EXTINF:-1,Home&Health  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4458.m3u8
+#EXTINF:-1,History +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4459.m3u8
+#EXTINF:-1,Good Food
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1038.m3u8
+#EXTINF:-1,Food Network  1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4443.m3u8
+#EXTINF:-1,Food Network
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1039.m3u8
+#EXTINF:-1,Eurosport 2
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4473.m3u8
+#EXTINF:-1,Eurosport 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4472.m3u8
+#EXTINF:-1,Eir Sports2
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4684.m3u8
+#EXTINF:-1,Eir Sports1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4683.m3u8
+#EXTINF:-1,E!  + 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4448.m3u8
+#EXTINF:-1,E!
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1040.m3u8
+#EXTINF:-1,Disney XD  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4465.m3u8
+#EXTINF:-1,Disney Channel  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4466.m3u8
+#EXTINF:-1,Discovery Science  1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4467.m3u8
+#EXTINF:-1,Discovery History +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4468.m3u8
+#EXTINF:-1,Discovery  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4469.m3u8
+#EXTINF:-1,Crime investigation  1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4455.m3u8
+#EXTINF:-1,Comedy Central Extra  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4456.m3u8
+#EXTINF:-1,Chelsea FC
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1030.m3u8
+#EXTINF:-1,Challenge  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4454.m3u8
+#EXTINF:-1,Cartoon Network
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1041.m3u8
+#EXTINF:-1,BT Sports 2 SD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2464.m3u8
+#EXTINF:-1,BT Sport Mosaic 2
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4474.m3u8
+#EXTINF:-1,BT Sport Mosaic
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4475.m3u8
+#EXTINF:-1,BT Sport Extra 5
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4480.m3u8
+#EXTINF:-1,BT Sport Extra 4
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4479.m3u8
+#EXTINF:-1,BT Sport Extra 3
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4478.m3u8
+#EXTINF:-1,BT Sport Extra 2
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4477.m3u8
+#EXTINF:-1,BT Sport Extra 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4476.m3u8
+#EXTINF:-1,BT Sport 3 SD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4954.m3u8
+#EXTINF:-1,BBC 4 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/385.m3u8
+#EXTINF:-1,BBC TWO HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/852.m3u8
+#EXTINF:-1,At The Races
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/440.m3u8
+#EXTINF:-1,Animal Planet  +1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4457.m3u8
+#EXTINF:-1,Alibi
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/390.m3u8
+#EXTINF:-1,5Star
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/387.m3u8
+#EXTINF:-1,3e
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/389.m3u8
 #EXTINF:-1,ID
-http://s1.platinumhostingtech.com:80/live/rose/rose/24110.m3u8
-#EXTINF:-1,Pick
-http://s1.platinumhostingtech.com:80/live/rose/rose/24104.m3u8
-#EXTINF:-1,Drama (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24011.m3u8
-#EXTINF:-1,Quest HD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24103.m3u8
-#EXTINF:-1,Quest SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60123.m3u8
-#EXTINF:-1,Quest +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60124.m3u8
-#EXTINF:-1,Quest Red SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60352.m3u8
-#EXTINF:-1,Quest Red +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60353.m3u8
-#EXTINF:-1,SyFy HD.(L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24087.m3u8
-#EXTINF:-1,Horror Channel (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24112.m3u8
-#EXTINF:-1,Horror Channel +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/46437.m3u8
-#EXTINF:-1,Real Lives
-http://s1.platinumhostingtech.com:80/live/rose/rose/24088.m3u8
-#EXTINF:-1,Really (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24100.m3u8
-#EXTINF:-1,Alibi FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24066.m3u8
-#EXTINF:-1,Alibi +1
-http://s1.platinumhostingtech.com:80/live/rose/rose/40865.m3u8
-#EXTINF:-1,DMAX (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24012.m3u8
-#EXTINF:-1,DMAX +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60122.m3u8
-#EXTINF:-1,Spike HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24101.m3u8
-#EXTINF:-1,Sony Crime (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37655.m3u8
-#EXTINF:-1,Sony Crime +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37657.m3u8
-#EXTINF:-1,Universal Channel
-http://s1.platinumhostingtech.com:80/live/rose/rose/24111.m3u8
-#EXTINF:-1,Watch
-http://s1.platinumhostingtech.com:80/live/rose/rose/24099.m3u8
-#EXTINF:-1,Yesterday (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24013.m3u8
-#EXTINF:-1,TLC  FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24065.m3u8
-#EXTINF:-1,GOOD FOOD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24068.m3u8
-#EXTINF:-1,Home & Health
-http://s1.platinumhostingtech.com:80/live/rose/rose/24070.m3u8
-#EXTINF:-1,Food Network (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24064.m3u8
-#EXTINF:-1,Tru TV (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24096.m3u8
-#EXTINF:-1,Tru TV +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37647.m3u8
-#EXTINF:-1,True Entertainment (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24091.m3u8
-#EXTINF:-1,True Entertainment +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37654.m3u8
-#EXTINF:-1,Challenge
-http://s1.platinumhostingtech.com:80/live/rose/rose/24007.m3u8
-#EXTINF:-1,BBC One NI FHD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24181.m3u8
-#EXTINF:-1,BBC One NI SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/28730.m3u8
-#EXTINF:-1,BBC One FHD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24183.m3u8
-#EXTINF:-1,BBC One HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24182.m3u8
-#EXTINF:-1,BBC One London SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24176.m3u8
-#EXTINF:-1,BBC Scotland FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/57634.m3u8
-#EXTINF:-1,BBC One Wales FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/58426.m3u8
-#EXTINF:-1,BBC Two HD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24175.m3u8
-#EXTINF:-1,BBC Two SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24173.m3u8
-#EXTINF:-1,BBC Two NI HD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37261.m3u8
-#EXTINF:-1,BBC Four (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/64840.m3u8
-#EXTINF:-1,UTV FHD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24121.m3u8
-#EXTINF:-1,UTV HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24122.m3u8
-#EXTINF:-1,UTV SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/39641.m3u8
-#EXTINF:-1,UTV SD +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/39642.m3u8
-#EXTINF:-1,ITV 1 FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24165.m3u8
-#EXTINF:-1,ITV 1 FHD.
-http://s1.platinumhostingtech.com:80/live/rose/rose/24166.m3u8
-#EXTINF:-1,ITV 1 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24167.m3u8
-#EXTINF:-1,ITV 1 Granada SD
-http://s1.platinumhostingtech.com:80/live/rose/rose/37660.m3u8
-#EXTINF:-1,ITV 1 Anglia East SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37658.m3u8
-#EXTINF:-1,ITV 1 Wales FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/58425.m3u8
-#EXTINF:-1,ITV 1 Anglia East  +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37802.m3u8
-#EXTINF:-1,ITV 1 Central West SD
-http://s1.platinumhostingtech.com:80/live/rose/rose/37659.m3u8
-#EXTINF:-1,ITV 1 Westcountry South West SD
-http://s1.platinumhostingtech.com:80/live/rose/rose/37800.m3u8
-#EXTINF:-1,ITV 1 London SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37661.m3u8
-#EXTINF:-1,ITVBe FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/46462.m3u8
-#EXTINF:-1,ITVBe SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37789.m3u8
-#EXTINF:-1,ITV 1 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37504.m3u8
-#EXTINF:-1,ITV 2 HD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24163.m3u8
-#EXTINF:-1,ITV 2 HD.
-http://s1.platinumhostingtech.com:80/live/rose/rose/24161.m3u8
-#EXTINF:-1,ITV 3 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24159.m3u8
-#EXTINF:-1,ITV 3 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/39631.m3u8
-#EXTINF:-1,ITV 4 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24157.m3u8
-#EXTINF:-1,ITV 4 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37505.m3u8
-#EXTINF:-1,Channel 4 FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24008.m3u8
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1429.m3u8
+#EXTINF:-1,BT Sport 3 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5547.m3u8
+#EXTINF:-1,Crime & Investigiation
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5497.m3u8
+#EXTINF:-1,Sky Sports Mix
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5496.m3u8
+#EXTINF:-1,Premier Sports HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1427.m3u8
+#EXTINF:-1,5USA
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/386.m3u8
+#EXTINF:-1,VIP Cartoon network HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5642.m3u8
+#EXTINF:-1,AMC FROM BT
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5805.m3u8
+#EXTINF:-1,BBC ALBA
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5806.m3u8
+#EXTINF:-1,BBC Parliament
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5809.m3u8
+#EXTINF:-1,BET
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5771.m3u8
+#EXTINF:-1,Channel 4
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5811.m3u8
 #EXTINF:-1,Channel 4 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24137.m3u8
-#EXTINF:-1,Channel 4 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37500.m3u8
-#EXTINF:-1,Channel 4 London SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37835.m3u8
-#EXTINF:-1,Channel 4 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37834.m3u8
-#EXTINF:-1,Channel 4 Midlands SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37498.m3u8
-#EXTINF:-1,Channel 4 North SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37497.m3u8
-#EXTINF:-1,Channel 4 Scotland SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37502.m3u8
-#EXTINF:-1,Channel 4 South & East SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37499.m3u8
-#EXTINF:-1,Channel 5 FHD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/30507.m3u8
-#EXTINF:-1,Channel 5 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24134.m3u8
-#EXTINF:-1,Channel 5 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37822.m3u8
-#EXTINF:-1,Channel 5 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/39619.m3u8
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5810.m3u8
+#EXTINF:-1,CHANNEL 5
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5813.m3u8
+#EXTINF:-1,CHANNEL 5 FHD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5812.m3u8
+#EXTINF:-1,CNBC Europe
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5769.m3u8
+#EXTINF:-1,FOX News
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5782.m3u8
+#EXTINF:-1,Investigation Discovery
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5780.m3u8
+#EXTINF:-1,ITV ENCORE
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5804.m3u8
+#EXTINF:-1,KERRANG
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5786.m3u8
+#EXTINF:-1,KISS UK
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5785.m3u8
+#EXTINF:-1,Movies 4 Men
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5779.m3u8
+#EXTINF:-1,QUEST
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5778.m3u8
+#EXTINF:-1,Real Lives
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5776.m3u8
+#EXTINF:-1,SKY NEWS
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5784.m3u8
+#EXTINF:-1,Sony Movie
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5775.m3u8
+#EXTINF:-1,Sony Channel
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5774.m3u8
+#EXTINF:-1,VICELAND
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5807.m3u8
+#EXTINF:-1,Watch
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5783.m3u8
+#EXTINF:-1,SKY NEWS HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6001.m3u8
+#EXTINF:-1,VIP HBO HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6210.m3u8
+#EXTINF:-1,VIP MTV LIVE HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6209.m3u8
+#EXTINF:-1,VIP BT Sport 2 HD 1080p
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6630.m3u8
+#EXTINF:-1,VIP BT Sport 3 HD 1080p
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6631.m3u8
+#EXTINF:-1,VIP Sky Sports 1 HD 1080p
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6623.m3u8
+#EXTINF:-1,VIP Sky Sports 2 HD 1080p
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6624.m3u8
+#EXTINF:-1,VIP Sky Sports 4 HD 1080p
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6626.m3u8
+#EXTINF:-1,VIP Sky Sports 5 HD 1080p
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6627.m3u8
+#EXTINF:-1,VIP Sky Sports F1 HD 1080p
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6628.m3u8
+#EXTINF:-1,VIP Sky Sports News HD 1080p
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6629.m3u8
+#EXTINF:-1,VIP BBC 1 HD ( 1080P )
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6744.m3u8
+#EXTINF:-1,VIP ITV1 FHD 1080
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6973.m3u8
+#EXTINF:-1,VIP ITV2 FHD 1080
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6972.m3u8
+#EXTINF:-1,VIP Premier Sports FHD 1080
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6971.m3u8
+#EXTINF:-1,VIP SKY NEWS 1080P HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6979.m3u8
+#EXTINF:-1,Cartoonito
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7144.m3u8
+#EXTINF:-1,Sky Cinema Action HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7300.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7297.m3u8
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7293.m3u8
+#EXTINF:-1,Sky Cinema Disney HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7298.m3u8
+#EXTINF:-1,Sky Cinema Drama & Romance HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7294.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7299.m3u8
+#EXTINF:-1,Sky Cinema Premier HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7301.m3u8
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7296.m3u8
+#EXTINF:-1,Sky Cinema Select HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7292.m3u8
+#EXTINF:-1,Cbeebies
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7439.m3u8
+#EXTINF:-1,History
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7437.m3u8
+#EXTINF:-1,Magic
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7436.m3u8
+#EXTINF:-1,MTV
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7438.m3u8
+#EXTINF:-1,Scuzz
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7435.m3u8
+#EXTINF:-1,TCM
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7440.m3u8
+#EXTINF:-1,National Geographic
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7441.m3u8
+#EXTINF:-1,H2
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7442.m3u8
+#EXTINF:-1,NATGEO WILD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7463.m3u8
+#EXTINF:-1,VIVA
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/7472.m3u8
+#EXTINF:-1,Yesterday
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/420.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/443.m3u8
+#EXTINF:-1,Sky Sport 1 SD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1922.m3u8
+#EXTINF:-1,SKY One
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/422.m3u8
+#EXTINF:-1,UK : Sky Movies Drama
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/427.m3u8
+#EXTINF:-1,SKY Atlantic HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/428.m3u8
+#EXTINF:-1,Sky Arts
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/429.m3u8
+#EXTINF:-1,Nat Geo Graphic
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/431.m3u8
+#EXTINF:-1,Mototrs TV
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1029.m3u8
+#EXTINF:-1,More 4
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/432.m3u8
+#EXTINF:-1,Manchester United TV
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/433.m3u8
+#EXTINF:-1,Living UK
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/426.m3u8
+#EXTINF:-1,Life time
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/894.m3u8
+#EXTINF:-1,FOX
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/434.m3u8
+#EXTINF:-1,UK : Eden
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/436.m3u8
+#EXTINF:-1,Dave
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/437.m3u8
+#EXTINF:-1,UK : Comedy Central
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/438.m3u8
+#EXTINF:-1,CNN
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/3134.m3u8
+#EXTINF:-1,Chelsea TV1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/439.m3u8
+#EXTINF:-1,Animal Planet
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/441.m3u8
+#EXTINF:-1,UTV
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1416.m3u8
+#EXTINF:-1,Tiny POP
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4460.m3u8
+#EXTINF:-1,Syfy
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/74.m3u8
+#EXTINF:-1,SKY SPORTS MAIN EVENT HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/26.m3u8
+#EXTINF:-1,Sky Sport News
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/16.m3u8
+#EXTINF:-1,SKY SPORTS PREMIER LEAGUE HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/18.m3u8
+#EXTINF:-1,SKY SPORTS GOLF HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/20.m3u8
+#EXTINF:-1,SKY SPORTS ACTION HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/22.m3u8
+#EXTINF:-1,SKY SPORTS CRICKET HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/24.m3u8
+#EXTINF:-1,Sky Movies Thriller
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/54.m3u8
+#EXTINF:-1,Sky Movies Showcase
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/55.m3u8
+#EXTINF:-1,Sky Movies Premiere
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/56.m3u8
+#EXTINF:-1,Sky Movies Greats
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/57.m3u8
+#EXTINF:-1,Sky Movies Family
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/58.m3u8
+#EXTINF:-1,Sky Movies Disney
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/59.m3u8
+#EXTINF:-1,Sky Movies Comedy
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/60.m3u8
+#EXTINF:-1,Sky Movies Action
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/61.m3u8
+#EXTINF:-1,Sky Movie Sci-Fi
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/62.m3u8
+#EXTINF:-1,Nicktoons
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1433.m3u8
+#EXTINF:-1,Nick Jr
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1434.m3u8
+#EXTINF:-1,London Live
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1417.m3u8
+#EXTINF:-1,ITV be
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1627.m3u8
+#EXTINF:-1,Irish Tv
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1418.m3u8
+#EXTINF:-1,Home & Health
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/66.m3u8
+#EXTINF:-1, Good Food
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1414.m3u8
+#EXTINF:-1,gold
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1432.m3u8
+#EXTINF:-1,Film 4
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1419.m3u8
+#EXTINF:-1,E4
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1420.m3u8
+#EXTINF:-1,E!(1)
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1430.m3u8
+#EXTINF:-1,Drama
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/174.m3u8
+#EXTINF:-1,DMax
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/853.m3u8
+#EXTINF:-1,Disney XD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/47.m3u8
+#EXTINF:-1,Disney Junior
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/48.m3u8
+#EXTINF:-1,Disney
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/49.m3u8
+#EXTINF:-1,Discovery Turbo
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/63.m3u8
+#EXTINF:-1,Discovery Shed
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/64.m3u8
+#EXTINF:-1,Discovery Science
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/65.m3u8
+#EXTINF:-1,Discovery History
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/67.m3u8
+#EXTINF:-1,DISCOVERY
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/68.m3u8
+#EXTINF:-1,CBS reality
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1421.m3u8
+#EXTINF:-1,CBS Drama
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1422.m3u8
+#EXTINF:-1,CBS Action
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1423.m3u8
+#EXTINF:-1,UK | BT Sport Europe HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/3.m3u8
+#EXTINF:-1,BT Sport ESPN
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/4.m3u8
+#EXTINF:-1,BT Sport 2 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6.m3u8
+#EXTINF:-1,BT Sport 1 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/8.m3u8
+#EXTINF:-1,Boxnation
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/9.m3u8
+#EXTINF:-1,Boomerang
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1424.m3u8
+#EXTINF:-1,BBC World News(1)
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/761.m3u8
+#EXTINF:-1,Pick(1)
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/1428.m3u8
+#EXTINF:-1,CBBC
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/167.m3u8
+#EXTINF:-1,BBC Three HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/184.m3u8
+#EXTINF:-1,UK BBC ONE HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/185.m3u8
+#EXTINF:-1,Baby TV
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/171.m3u8
