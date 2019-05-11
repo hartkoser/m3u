@@ -1,471 +1,673 @@
 #EXTM3U
-#EXTINF:-1,AutoMoto TV
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15899.m3u8
-#EXTINF:-1,AutoMoto TV VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15898.m3u8
-#EXTINF:-1,Bike Channel HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15897.m3u8
-#EXTINF:-1,Caccia e Pesca
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15904.m3u8
-#EXTINF:-1,Caccia e Pesca VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15903.m3u8
-#EXTINF:-1,Canale 5 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16084.m3u8
+#EXTINF:-1,NRJ Hits HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155945.m3u8
+#EXTINF:-1,Sky Sport 9 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/130891.m3u8
+#EXTINF:-1,Sky Sport 10 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/130892.m3u8
+#EXTINF:-1,105 TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155953.m3u8
+#EXTINF:-1,51 Radio TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144952.m3u8
+#EXTINF:-1,Al Jazeera
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212628.m3u8
+#EXTINF:-1,Alice HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155936.m3u8
+#EXTINF:-1,Alto Adige Tv
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63973.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64022.m3u8
+#EXTINF:-1,Antenna Tre Nordest
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144954.m3u8
+#EXTINF:-1,Antennasud
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144955.m3u8
+#EXTINF:-1,Arte HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/130899.m3u8
+#EXTINF:-1,Auto Motor TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64024.m3u8
+#EXTINF:-1,AXN FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64108.m3u8
+#EXTINF:-1,Baby TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/175381.m3u8
+#EXTINF:-1,BIKE CHANNEL HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/89364.m3u8
+#EXTINF:-1,Bloomberg TV Europe
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212631.m3u8
+#EXTINF:-1,BOING HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62077.m3u8
+#EXTINF:-1,Boomerang
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/175382.m3u8
+#EXTINF:-1,BOX OFFICE 10
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/159127.m3u8
+#EXTINF:-1,BRESCIA LIVE TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/136045.m3u8
+#EXTINF:-1,Caccia e Pesca HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/89378.m3u8
+#EXTINF:-1,Caffe TV 24
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63911.m3u8
+#EXTINF:-1,CANAL 5
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/211941.m3u8
 #EXTINF:-1,Canale 5 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16083.m3u8
-#EXTINF:-1,Canale 5
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16082.m3u8
-#EXTINF:-1,Dea Junior VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15895.m3u8
-#EXTINF:-1,Dea Kids VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15894.m3u8
-#EXTINF:-1,DeeJay TV
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15893.m3u8
-#EXTINF:-1,Eagle Cinema Animazione FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16029.m3u8
-#EXTINF:-1,Eagle Cinema Avventura FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16028.m3u8
-#EXTINF:-1,Eagle Cinema Azione FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16027.m3u8
-#EXTINF:-1,Eagle Cinema Comico Cult FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16026.m3u8
-#EXTINF:-1,Eagle Cinema Commedia FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16025.m3u8
-#EXTINF:-1,Eagle Cinema Drammatico FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16024.m3u8
-#EXTINF:-1,Eagle Cinema Fantastico FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16023.m3u8
-#EXTINF:-1,Eagle Cinema Film in Sala FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16022.m3u8
-#EXTINF:-1,Eagle Cinema Horror FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16021.m3u8
-#EXTINF:-1,Eagle Cinema Mitologia HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16020.m3u8
-#EXTINF:-1,Eagle Cinema Passione FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16019.m3u8
-#EXTINF:-1,Eagle Cinema Prima Visione FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16018.m3u8
-#EXTINF:-1,Eagle Cinema Sorriso FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16017.m3u8
-#EXTINF:-1,Eagle Cinema Storico FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16016.m3u8
-#EXTINF:-1,Eagle Cinema Thriller FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16015.m3u8
-#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16014.m3u8
-#EXTINF:-1,Disney XD HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15887.m3u8
-#EXTINF:-1,Eagle Fiabe Magiche HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16013.m3u8
-#EXTINF:-1,Eagle Le Fiabe Disney HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16012.m3u8
-#EXTINF:-1,Eagle Looney Toons HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16011.m3u8
-#EXTINF:-1,Eagle Masha e Orso HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16010.m3u8
-#EXTINF:-1,Eagle Peppa Pig HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16009.m3u8
-#EXTINF:-1,EuroSport 1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15901.m3u8
-#EXTINF:-1,FOX Animation  1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16048.m3u8
-#EXTINF:-1,FOX Animation FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16051.m3u8
-#EXTINF:-1,FOX Animation HD (LowRes)
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16049.m3u8
-#EXTINF:-1,FOX Animation HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16050.m3u8
-#EXTINF:-1,FOX Comedy  1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16044.m3u8
-#EXTINF:-1,FOX Comedy FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16047.m3u8
-#EXTINF:-1,FOX Comedy HD (LowRes)
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16045.m3u8
-#EXTINF:-1,FOX Comedy HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16046.m3u8
-#EXTINF:-1,Fox Crime  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16043.m3u8
-#EXTINF:-1,Fox Crime FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16042.m3u8
-#EXTINF:-1,Fox Crime HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16041.m3u8
-#EXTINF:-1,Fox Crime HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16040.m3u8
-#EXTINF:-1,Fox Crime VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16039.m3u8
-#EXTINF:-1,FOX HD (LowRes)
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16053.m3u8
-#EXTINF:-1,EuroSport 1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15902.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15900.m3u8
-#EXTINF:-1,FOX FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16055.m3u8
-#EXTINF:-1,FOX HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16054.m3u8
-#EXTINF:-1,FOX
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16052.m3u8
-#EXTINF:-1,Fox Life  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16037.m3u8
-#EXTINF:-1,Fox Life  1
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16038.m3u8
-#EXTINF:-1,Fox Life FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16036.m3u8
-#EXTINF:-1,Fox Life HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16035.m3u8
-#EXTINF:-1,Fox Life HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16034.m3u8
-#EXTINF:-1,Fox Life VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16033.m3u8
-#EXTINF:-1,Fox Movies HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16032.m3u8
-#EXTINF:-1,FOX Movies VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16031.m3u8
-#EXTINF:-1,Fox Sports FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15916.m3u8
-#EXTINF:-1,Fox Sports HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15915.m3u8
-#EXTINF:-1,Fox Sports VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15914.m3u8
-#EXTINF:-1,Italia 1 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16086.m3u8
-#EXTINF:-1,Italia 2 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16085.m3u8
-#EXTINF:-1,Juventus Channel VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15913.m3u8
-#EXTINF:-1,Italia Uno
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16087.m3u8
-#EXTINF:-1,Lazio Channel VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15912.m3u8
-#EXTINF:-1,Lazio Style Channel
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15911.m3u8
-#EXTINF:-1,Pesca e Caccia
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15906.m3u8
-#EXTINF:-1,Pesca e Caccia VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15905.m3u8
-#EXTINF:-1,Premium Action  24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15984.m3u8
-#EXTINF:-1,Premium Action HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15983.m3u8
-#EXTINF:-1,Premium Calcio 1
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15962.m3u8
-#EXTINF:-1,Premium Calcio 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15961.m3u8
-#EXTINF:-1,Premium Calcio 3
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15960.m3u8
-#EXTINF:-1,Premium Calcio 4
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15959.m3u8
-#EXTINF:-1,Premium Calcio 5
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15958.m3u8
-#EXTINF:-1,Premium Calcio 6
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15957.m3u8
-#EXTINF:-1,Premium Cinema  24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15998.m3u8
-#EXTINF:-1,Premium Cinema 2  24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15997.m3u8
-#EXTINF:-1,Premium Cinema 2 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15996.m3u8
-#EXTINF:-1,Premium Cinema Comedy
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15995.m3u8
-#EXTINF:-1,Premium Cinema Energy
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15994.m3u8
-#EXTINF:-1,Premium Cinema HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15993.m3u8
-#EXTINF:-1,Premium Crime  24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15992.m3u8
-#EXTINF:-1,Premium Crime HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15991.m3u8
-#EXTINF:-1,Premium Emotion
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15990.m3u8
-#EXTINF:-1,Premium Joi
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15989.m3u8
-#EXTINF:-1,Premium Sport 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15988.m3u8
-#EXTINF:-1,Premium Sport HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15987.m3u8
-#EXTINF:-1,Premium Stories
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15986.m3u8
-#EXTINF:-1,Premium Studio Universal
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15985.m3u8
-#EXTINF:-1,Mediaset Extra
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16079.m3u8
-#EXTINF:-1,Mediaset Extra VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16078.m3u8
-#EXTINF:-1,Mediasetalie Due VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16077.m3u8
-#EXTINF:-1,Mediaset TGCOM24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16076.m3u8
-#EXTINF:-1,Mediaset TGCOM24 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16075.m3u8
-#EXTINF:-1,Milan Channel
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15910.m3u8
-#EXTINF:-1,Nick Junior
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15886.m3u8
-#EXTINF:-1,Rai 1 FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16124.m3u8
-#EXTINF:-1,Rai 1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16123.m3u8
-#EXTINF:-1,Rai 1
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16122.m3u8
-#EXTINF:-1,Rai 2 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16121.m3u8
-#EXTINF:-1,Rai 2 HD2 
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16120.m3u8
-#EXTINF:-1,Rai 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16119.m3u8
-#EXTINF:-1,Rai 3 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16118.m3u8
-#EXTINF:-1,Rai 3 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16117.m3u8
-#EXTINF:-1,Rai 4 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16116.m3u8
-#EXTINF:-1,Rai 4
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16115.m3u8
-#EXTINF:-1,Rai 5 1080i
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16112.m3u8
-#EXTINF:-1,Rai 5 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16114.m3u8
-#EXTINF:-1,Rai 5 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16113.m3u8
-#EXTINF:-1,Rai 5
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16111.m3u8
-#EXTINF:-1,Rai Gulp FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16110.m3u8
-#EXTINF:-1,Rai Gulp
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16109.m3u8
-#EXTINF:-1,Rai Movie HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16108.m3u8
-#EXTINF:-1,Rai Movie
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16107.m3u8
-#EXTINF:-1,Rai News 24 FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16106.m3u8
-#EXTINF:-1,Rai News 24
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16105.m3u8
-#EXTINF:-1,Rai Premium HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16104.m3u8
-#EXTINF:-1,Rai Premium
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16103.m3u8
-#EXTINF:-1,Rai Scuola HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16102.m3u8
-#EXTINF:-1,Rai Scuola
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16101.m3u8
-#EXTINF:-1,Rai Sport 1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16100.m3u8
-#EXTINF:-1,Rai Sport 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16099.m3u8
-#EXTINF:-1,Rai Sport Plus HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16098.m3u8
-#EXTINF:-1,Rai Storia HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16097.m3u8
-#EXTINF:-1,Rai Storia
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16096.m3u8
-#EXTINF:-1,Rai YoYo HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16095.m3u8
-#EXTINF:-1,Rai YoYo HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16094.m3u8
-#EXTINF:-1,Real Giallo
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16093.m3u8
-#EXTINF:-1,Real Time  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16092.m3u8
-#EXTINF:-1,Real Time FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16091.m3u8
-#EXTINF:-1,Real Time HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16090.m3u8
-#EXTINF:-1,Rete 4
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16089.m3u8
-#EXTINF:-1,Rete 4 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16088.m3u8
-#EXTINF:-1,Roma Channel
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15909.m3u8
-#EXTINF:-1,Senato VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16074.m3u8
-#EXTINF:-1,Sky Arte FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16059.m3u8
-#EXTINF:-1,Sky Arte HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16060.m3u8
-#EXTINF:-1,Sky 3D
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16061.m3u8
-#EXTINF:-1,Sky Calcio 1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15980.m3u8
-#EXTINF:-1,Sky Calcio 1
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15979.m3u8
-#EXTINF:-1,Sky Calcio 1 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15978.m3u8
-#EXTINF:-1,Sky Calcio 10 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15963.m3u8
-#EXTINF:-1,Sky Calcio 2 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15977.m3u8
-#EXTINF:-1,Sky Calcio 2
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15976.m3u8
-#EXTINF:-1,Sky Calcio 2 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15975.m3u8
-#EXTINF:-1,Sky Calcio 3 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15974.m3u8
-#EXTINF:-1,Sky Calcio 3 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15973.m3u8
-#EXTINF:-1,Sky Calcio 4 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15972.m3u8
-#EXTINF:-1,Sky Calcio 4 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15971.m3u8
-#EXTINF:-1,Sky Calcio 5 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15970.m3u8
-#EXTINF:-1,Sky Calcio 5 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15969.m3u8
-#EXTINF:-1,Sky Calcio 6 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15968.m3u8
-#EXTINF:-1,Sky Calcio 6 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15967.m3u8
-#EXTINF:-1,Sky Calcio 7 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15966.m3u8
-#EXTINF:-1,Sky Calcio 8 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15965.m3u8
-#EXTINF:-1,Sky Calcio 9 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15964.m3u8
-#EXTINF:-1,Sky Calcio Info VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15981.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16063.m3u8
-#EXTINF:-1,Sky Cinema Collection HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16069.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16068.m3u8
-#EXTINF:-1,Sky Cinema Drama FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16066.m3u8
-#EXTINF:-1,Sky Cinema Drama HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16067.m3u8
-#EXTINF:-1,Sky Cinema Due HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16065.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16064.m3u8
-#EXTINF:-1,Sky Cinema Romance HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16062.m3u8
-#EXTINF:-1,Sky Cinema Uno  24 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16070.m3u8
-#EXTINF:-1,Sky Cinema Uno HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16071.m3u8
-#EXTINF:-1,Sky Atlantic FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16058.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16057.m3u8
-#EXTINF:-1,Sky Atlantic
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16056.m3u8
-#EXTINF:-1,Sky Cinema Uno SD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16072.m3u8
-#EXTINF:-1,Sky Formula 1  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15949.m3u8
-#EXTINF:-1,Sky Formula 1 FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15948.m3u8
-#EXTINF:-1,Sky Formula 1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15947.m3u8
-#EXTINF:-1,Sky Formula 1 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15946.m3u8
-#EXTINF:-1,Sky Moto GP  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15945.m3u8
-#EXTINF:-1,Sky Moto GP FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15944.m3u8
-#EXTINF:-1,Sky Moto GP HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15943.m3u8
-#EXTINF:-1,Sky Moto GP VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15942.m3u8
-#EXTINF:-1,Sky Sport 1 FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15940.m3u8
-#EXTINF:-1,Sky Sport 1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15939.m3u8
-#EXTINF:-1,Sky Sport 1 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15938.m3u8
-#EXTINF:-1,Sky Sport 2 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15937.m3u8
-#EXTINF:-1,Sky Sport 2 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15936.m3u8
-#EXTINF:-1,Sky Sport 24 FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15933.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15932.m3u8
-#EXTINF:-1,Sky Sport 24 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15931.m3u8
-#EXTINF:-1,Sky Sport 24 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15930.m3u8
-#EXTINF:-1,Sky Sport 3 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15935.m3u8
-#EXTINF:-1,Sky Sport 3 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15934.m3u8
-#EXTINF:-1,Sky Sport F1 HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15950.m3u8
-#EXTINF:-1,Sky Sport Football HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15929.m3u8
-#EXTINF:-1,Sky Sport Mix HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15928.m3u8
-#EXTINF:-1,Sky Sport MotoGP HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15941.m3u8
-#EXTINF:-1,Sky Sport NBA HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15927.m3u8
-#EXTINF:-1,Sky Sport Plus HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15926.m3u8
-#EXTINF:-1,Sky Sport Plus VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15925.m3u8
-#EXTINF:-1,Sky Sport Serie A FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15952.m3u8
-#EXTINF:-1,Sky Sport Uno FHD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15924.m3u8
-#EXTINF:-1,Sky Supercalcio FHD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15956.m3u8
-#EXTINF:-1,Sky Supercalcio HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15955.m3u8
-#EXTINF:-1,Sky Supercalcio VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15954.m3u8
-#EXTINF:-1,Sportalia
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15923.m3u8
-#EXTINF:-1,Sportalia VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15922.m3u8
-#EXTINF:-1,Super Tennis HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15920.m3u8
-#EXTINF:-1,Super TV
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15921.m3u8
-#EXTINF:-1,Super!
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15919.m3u8
-#EXTINF:-1,Super! VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15918.m3u8
-#EXTINF:-1,SuperTennis VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15917.m3u8
-#EXTINF:-1,Top Calcio 24 VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15953.m3u8
-#EXTINF:-1,Nick Junior VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15885.m3u8
-#EXTINF:-1,Nickelodeon VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15884.m3u8
-#EXTINF:-1,Wrestling
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15907.m3u8
-#EXTINF:-1,Cartoon Network
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15883.m3u8
-#EXTINF:-1,Cartoonito
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15882.m3u8
-#EXTINF:-1,Cartoonito VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15881.m3u8
-#EXTINF:-1,Disney Channel  1 HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15892.m3u8
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62022.m3u8
+#EXTINF:-1,Canale 7
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63957.m3u8
+#EXTINF:-1,Canale 8
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63955.m3u8
+#EXTINF:-1,Canale 10
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63922.m3u8
+#EXTINF:-1,Canale 85
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144962.m3u8
+#EXTINF:-1,Carina TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63999.m3u8
+#EXTINF:-1,Cartonito TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/91202.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64127.m3u8
+#EXTINF:-1,Cartoonito HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64134.m3u8
+#EXTINF:-1,CBS News
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212638.m3u8
+#EXTINF:-1,Channel 636 of the DTT
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155954.m3u8
+#EXTINF:-1,CIELO HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/208418.m3u8
+#EXTINF:-1,Cine Sony
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212617.m3u8
+#EXTINF:-1,Classica HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/136071.m3u8
+#EXTINF:-1,CNN
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212630.m3u8
+#EXTINF:-1,COMEDY CENTRAL
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212616.m3u8
+#EXTINF:-1,Company TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144966.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/122273.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/128035.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/128036.m3u8
+#EXTINF:-1,DAZN 3 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/128037.m3u8
+#EXTINF:-1,DAZN 4 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/128038.m3u8
+#EXTINF:-1,DAZN 5 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/136049.m3u8
+#EXTINF:-1,DAZN 7 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/150125.m3u8
+#EXTINF:-1,DAZN 8 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/150126.m3u8
+#EXTINF:-1,DAZN 9 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/150127.m3u8
+#EXTINF:-1,DAZN 10 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/150128.m3u8
+#EXTINF:-1,DAZN 11 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/160980.m3u8
+#EXTINF:-1,Dea Junior
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/134620.m3u8
+#EXTINF:-1,Deejay TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/115616.m3u8
+#EXTINF:-1,Di TV 1
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63961.m3u8
+#EXTINF:-1,Di TV 2
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63960.m3u8
+#EXTINF:-1,Di TV 3
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63959.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64032.m3u8
+#EXTINF:-1,Discovery focus
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/93492.m3u8
+#EXTINF:-1,Discovery Science HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/175369.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/160977.m3u8
 #EXTINF:-1,Disney Channel HD
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15891.m3u8
-#EXTINF:-1,Disney Channel HD VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15890.m3u8
-#EXTINF:-1,Disney Channel VIP
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15889.m3u8
-#EXTINF:-1,Disney Junior
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/15888.m3u8
-#EXTINF:-1,PrimaFila 1 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16008.m3u8
-#EXTINF:-1,PrimaFila 2 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16007.m3u8
-#EXTINF:-1,PrimaFila 3 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16006.m3u8
-#EXTINF:-1,PrimaFila 4 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16005.m3u8
-#EXTINF:-1,PrimaFila 5 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16004.m3u8
-#EXTINF:-1,PrimaFila 6 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16003.m3u8
-#EXTINF:-1,PrimaFila 7 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16002.m3u8
-#EXTINF:-1,PrimaFila 8 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16001.m3u8
-#EXTINF:-1,PrimaFila 9 HD 1080P
-http://ma-tv.magica.club:8080/live/Alexandre/Alexandre/16000.m3u8
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64128.m3u8
+#EXTINF:-1,Disney Junior HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64129.m3u8
+#EXTINF:-1,Disney XD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64130.m3u8
+#EXTINF:-1,DMAX HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/88472.m3u8
+#EXTINF:-1,Dove TV HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/140037.m3u8
+#EXTINF:-1,Eagle Cinema Animazione FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206418.m3u8
+#EXTINF:-1,Eagle Cinema Avventura FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206419.m3u8
+#EXTINF:-1,Eagle Cinema Azione FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206438.m3u8
+#EXTINF:-1,Eagle Cinema Comico Cult FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206421.m3u8
+#EXTINF:-1,Eagle Cinema Commedia FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206422.m3u8
+#EXTINF:-1,Eagle Cinema Drammatico FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206423.m3u8
+#EXTINF:-1,Eagle Cinema Fantastico FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206420.m3u8
+#EXTINF:-1,Eagle Cinema Film in Sala FHD (qualita camera)
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206430.m3u8
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206425.m3u8
+#EXTINF:-1,Eagle Cinema Mitologia
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206428.m3u8
+#EXTINF:-1,Eagle Cinema Passione FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206427.m3u8
+#EXTINF:-1,Eagle Cinema Prima Visione FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206417.m3u8
+#EXTINF:-1,Eagle Cinema Sorriso FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206429.m3u8
+#EXTINF:-1,Eagle Cinema Storico FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206424.m3u8
+#EXTINF:-1,Eagle Cinema Thriller FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206426.m3u8
+#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206431.m3u8
+#EXTINF:-1,Eagle Fiabe Magiche
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206433.m3u8
+#EXTINF:-1,Eagle Le Fiabe Disney
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206434.m3u8
+#EXTINF:-1,Eagle Masha e Orso
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206436.m3u8
+#EXTINF:-1,Eagle Peppa Pig
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206435.m3u8
+#EXTINF:-1,Eagle Super Pigiamini FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206437.m3u8
+#EXTINF:-1,Energy HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64096.m3u8
+#EXTINF:-1,Esperia TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63964.m3u8
+#EXTINF:-1,ETV Marche
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/135958.m3u8
+#EXTINF:-1,ETV Rete7
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144970.m3u8
+#EXTINF:-1,EURONEWS
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/175393.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62019.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62018.m3u8
+#EXTINF:-1,Fano TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63966.m3u8
+#EXTINF:-1,FISHING TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/114084.m3u8
+#EXTINF:-1,Focus TV HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73958.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/117407.m3u8
+#EXTINF:-1,Fox Animation HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73959.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62015.m3u8
+#EXTINF:-1,Fox Crime HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62014.m3u8
+#EXTINF:-1,FOX HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73938.m3u8
+#EXTINF:-1,Fox Life HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62013.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63841.m3u8
+#EXTINF:-1,Frisbee TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64133.m3u8
+#EXTINF:-1,Gambero Rosso HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64018.m3u8
+#EXTINF:-1,Giallo HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155931.m3u8
+#EXTINF:-1,History Channel HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64025.m3u8
+#EXTINF:-1,History Lab HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/93182.m3u8
+#EXTINF:-1,Hit Music Channel
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155956.m3u8
+#EXTINF:-1,HSE24
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144973.m3u8
+#EXTINF:-1,Inter Channel HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73985.m3u8
+#EXTINF:-1,Investigation Disvovery
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73960.m3u8
+#EXTINF:-1,IRC Sport
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144975.m3u8
+#EXTINF:-1,Iris HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64142.m3u8
+#EXTINF:-1,ITALIA 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212888.m3u8
+#EXTINF:-1,Italian Fishing
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/159620.m3u8
+#EXTINF:-1,Julie Italia
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/94130.m3u8
+#EXTINF:-1,Juventus Channel
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63846.m3u8
+#EXTINF:-1,K2
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64135.m3u8
+#EXTINF:-1,Krimisa TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144958.m3u8
+#EXTINF:-1,L7
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/117355.m3u8
+#EXTINF:-1,LA 5 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64141.m3u8
+#EXTINF:-1,LA 7 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62008.m3u8
+#EXTINF:-1,LaEffe
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/175309.m3u8
+#EXTINF:-1,LAZIO CHANNEL HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/108794.m3u8
+#EXTINF:-1,LEI
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/199100.m3u8
+#EXTINF:-1,Lucania TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63925.m3u8
+#EXTINF:-1,m20 TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144981.m3u8
+#EXTINF:-1,Marcopolo HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64017.m3u8
+#EXTINF:-1,Mediaset 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/111113.m3u8
+#EXTINF:-1,Mediaset 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/111114.m3u8
+#EXTINF:-1,Mediaset 5
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/111116.m3u8
+#EXTINF:-1,MEDIASET 20 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/117348.m3u8
+#EXTINF:-1,MEDIASET EXTRA HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212612.m3u8
+#EXTINF:-1,MEDIASET ITALIA 2
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212903.m3u8
+#EXTINF:-1,Mexicana
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155950.m3u8
+#EXTINF:-1,Milan CHANNEL
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/97464.m3u8
+#EXTINF:-1,MotoGP HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/159446.m3u8
+#EXTINF:-1,Motor Trend HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/103406.m3u8
+#EXTINF:-1,MTV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212613.m3u8
+#EXTINF:-1,MTV 8 Musica
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/136026.m3u8
+#EXTINF:-1,MTV Music
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/136031.m3u8
+#EXTINF:-1,MTV Rock HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/136027.m3u8
+#EXTINF:-1,Napoli Canale 21
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63951.m3u8
+#EXTINF:-1,NAT GEO HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73928.m3u8
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62006.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62005.m3u8
+#EXTINF:-1,NOVE HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212611.m3u8
+#EXTINF:-1,OndaTV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/144984.m3u8
+#EXTINF:-1,Orler TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/94131.m3u8
+#EXTINF:-1,Otto Fm Tv
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155961.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64107.m3u8
+#EXTINF:-1,PEPPA PIG Channel
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/140049.m3u8
+#EXTINF:-1,Pesca e Caccia HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/121589.m3u8
+#EXTINF:-1,POP TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/140056.m3u8
+#EXTINF:-1,PREIMIUM CINEMA 24 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/114620.m3u8
+#EXTINF:-1,PREMIUM ACTION HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212907.m3u8
+#EXTINF:-1,Premium Calcio 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/114246.m3u8
+#EXTINF:-1,Premium Calcio 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63851.m3u8
+#EXTINF:-1,Premium Calcio 3 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63850.m3u8
+#EXTINF:-1,Premium Calcio 4 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63849.m3u8
+#EXTINF:-1,Premium Calcio 5 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63848.m3u8
+#EXTINF:-1,Premium Calcio 6 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63847.m3u8
+#EXTINF:-1,Premium CALCIO HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/89380.m3u8
+#EXTINF:-1,Premium Cartoon Network HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64124.m3u8
+#EXTINF:-1,Premium Cinema 2
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/199381.m3u8
+#EXTINF:-1,PREMIUM Cinema 24 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212619.m3u8
+#EXTINF:-1,Premium Cinema Action HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/111139.m3u8
+#EXTINF:-1,Premium Cinema Comedy HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62000.m3u8
+#EXTINF:-1,Premium Cinema Emotion HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/61998.m3u8
+#EXTINF:-1,Premium Cinema Energy HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73964.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/156575.m3u8
+#EXTINF:-1,PREMIUM CINEMA JOI
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/114416.m3u8
+#EXTINF:-1,Premium Cinema Plus 24
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73965.m3u8
+#EXTINF:-1,PREMIUM CINEMA STORIES
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/176117.m3u8
+#EXTINF:-1,PREMIUM CINEMA UNIVERSAL HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/114417.m3u8
+#EXTINF:-1,PREMIUM COMEDY
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212893.m3u8
+#EXTINF:-1,Premium Crime FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/61999.m3u8
+#EXTINF:-1,PREMIUM Emotion
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212621.m3u8
+#EXTINF:-1,PREMIUM Energy HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212620.m3u8
+#EXTINF:-1,PREMIUM JOI
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212909.m3u8
+#EXTINF:-1,Premium Sport 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/61996.m3u8
+#EXTINF:-1,Premium Stories HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64091.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/157165.m3u8
+#EXTINF:-1,Prenium Cinema HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73968.m3u8
+#EXTINF:-1,PrimaFila 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86201.m3u8
+#EXTINF:-1,PrimaFila 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73949.m3u8
+#EXTINF:-1,PrimaFila 3 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73948.m3u8
+#EXTINF:-1,PrimaFila 4 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73947.m3u8
+#EXTINF:-1,PrimaFila 5 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73946.m3u8
+#EXTINF:-1,PrimaFila 6 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73945.m3u8
+#EXTINF:-1,PrimaFila 7 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73944.m3u8
+#EXTINF:-1,PrimaFila 8 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73943.m3u8
+#EXTINF:-1,PrimaFila 9 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73942.m3u8
+#EXTINF:-1,PrimaFila 10 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73950.m3u8
+#EXTINF:-1,PrimaFila 11 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86460.m3u8
+#EXTINF:-1,PrimaFila 12 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86461.m3u8
+#EXTINF:-1,PrimaFila 13 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86473.m3u8
+#EXTINF:-1,PrimaFila 14 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86474.m3u8
+#EXTINF:-1,PrimaFila 15 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86475.m3u8
+#EXTINF:-1,PrimaFila 16 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/94606.m3u8
+#EXTINF:-1,PrimaFila 17 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/93504.m3u8
+#EXTINF:-1,Primafila 18
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212945.m3u8
+#EXTINF:-1,Primafila 19
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212946.m3u8
+#EXTINF:-1,Primafila Vetrina
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212934.m3u8
+#EXTINF:-1,PrimaFila WWE
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/159595.m3u8
+#EXTINF:-1,Primafilla 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/159605.m3u8
+#EXTINF:-1,Primafilla 10 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/159604.m3u8
+#EXTINF:-1,Primocanale TV HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63962.m3u8
+#EXTINF:-1,Quarta Rete TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64140.m3u8
+#EXTINF:-1,Qvc
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/128207.m3u8
+#EXTINF:-1,Radio Super
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/206222.m3u8
+#EXTINF:-1,Rai 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62053.m3u8
+#EXTINF:-1,Rai 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62052.m3u8
+#EXTINF:-1,Rai 3 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62051.m3u8
+#EXTINF:-1,Rai 4 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62050.m3u8
+#EXTINF:-1,Rai 5 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62049.m3u8
+#EXTINF:-1,Rai Gulp HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73920.m3u8
+#EXTINF:-1,Rai MOVIE HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73921.m3u8
+#EXTINF:-1,Rai Nettuno
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64148.m3u8
+#EXTINF:-1,Rai News 24 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64015.m3u8
+#EXTINF:-1,Rai Premium HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73923.m3u8
+#EXTINF:-1,Rai Scuola HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64149.m3u8
+#EXTINF:-1,Rai Sport + FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/156411.m3u8
+#EXTINF:-1,RAI SPORT HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212911.m3u8
+#EXTINF:-1,Rai Storia FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64150.m3u8
+#EXTINF:-1,Rai YoYo HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73924.m3u8
+#EXTINF:-1,RDS Social TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145001.m3u8
+#EXTINF:-1,Real Time HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64034.m3u8
+#EXTINF:-1,Rete 4 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62042.m3u8
+#EXTINF:-1,Rete 79 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145002.m3u8
+#EXTINF:-1,Rete Biella TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63975.m3u8
+#EXTINF:-1,ROMA CHANNEL HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63845.m3u8
+#EXTINF:-1,RSI 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/129976.m3u8
+#EXTINF:-1,RSI 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/120931.m3u8
+#EXTINF:-1,RSI LA 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73932.m3u8
+#EXTINF:-1,RSI LA 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73931.m3u8
+#EXTINF:-1,RTC Calabria Channel
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145005.m3u8
+#EXTINF:-1,RTE News
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212639.m3u8
+#EXTINF:-1,RTL 1025 TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63876.m3u8
+#EXTINF:-1,RTTR TV Trento
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145006.m3u8
+#EXTINF:-1,RTV Reggio
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145007.m3u8
+#EXTINF:-1,Sardegna Uno TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64003.m3u8
+#EXTINF:-1,Senato TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145011.m3u8
+#EXTINF:-1,Sky 3D FHD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86472.m3u8
+#EXTINF:-1,Sky Arte HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/114108.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/209276.m3u8
+#EXTINF:-1,Sky Calcio 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63869.m3u8
+#EXTINF:-1,Sky Calcio 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/100354.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63867.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63866.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63865.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63864.m3u8
+#EXTINF:-1,Sky Cartoon Network HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/130909.m3u8
+#EXTINF:-1,Sky Cielo HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/124147.m3u8
+#EXTINF:-1,SKY CINEMA +24 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64122.m3u8
+#EXTINF:-1,SKY CINEMA Action HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62031.m3u8
+#EXTINF:-1,Sky Cinema Atlantic 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62038.m3u8
+#EXTINF:-1,SKY CINEMA CLASSICS HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212898.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62035.m3u8
+#EXTINF:-1,SKY CINEMA COLLETION
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212507.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/156577.m3u8
+#EXTINF:-1,SKY CINEMA CULT HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64116.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212511.m3u8
+#EXTINF:-1,SKY CINEMA DUE
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212506.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62033.m3u8
+#EXTINF:-1,SKY CINEMA HITS HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62032.m3u8
+#EXTINF:-1,SKY CINEMA MAX HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212897.m3u8
+#EXTINF:-1,SKY CINEMA PASSION HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212896.m3u8
+#EXTINF:-1,SKY CINEMA ROMANC
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212510.m3u8
+#EXTINF:-1,Sky Cinema Romance HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/159585.m3u8
+#EXTINF:-1,SKY CINEMA Suspense HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212513.m3u8
+#EXTINF:-1,SKY CINEMA UNO +24 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86462.m3u8
+#EXTINF:-1,SKY CINEMA UNO HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/163330.m3u8
+#EXTINF:-1,Sky News
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212629.m3u8
+#EXTINF:-1,Sky Serie A
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62026.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/87636.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/159584.m3u8
+#EXTINF:-1,Sky Sport 3 ARENA
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212500.m3u8
+#EXTINF:-1,Sky Sport 6 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/130888.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/127134.m3u8
+#EXTINF:-1,Sky Sport Arena HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/175342.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/93168.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/128219.m3u8
+#EXTINF:-1,Sky Sport GOLF
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212502.m3u8
+#EXTINF:-1,Sky Sport Live
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212615.m3u8
+#EXTINF:-1,Sky Sport MotoGP HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/91943.m3u8
+#EXTINF:-1,Sky Sport NBA HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/128226.m3u8
+#EXTINF:-1,Sky Sport Seria A
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212614.m3u8
+#EXTINF:-1,Sky Sport Serie A HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/130887.m3u8
+#EXTINF:-1,Sky Sport Uno HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/128228.m3u8
+#EXTINF:-1,SKY SUPER CALCIO HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/86484.m3u8
+#EXTINF:-1,SKY SUPER TENNIS HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62023.m3u8
+#EXTINF:-1,Sky TG 24 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62096.m3u8
+#EXTINF:-1,Sky Uno HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/62024.m3u8
+#EXTINF:-1,SPIKE
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212906.m3u8
+#EXTINF:-1,Sport Italia
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/157167.m3u8
+#EXTINF:-1,Studio 100
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63942.m3u8
+#EXTINF:-1,Studio Universal
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/130001.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL PREMIUM
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212894.m3u8
+#EXTINF:-1,Super J
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145015.m3u8
+#EXTINF:-1,Super Tennis HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212625.m3u8
+#EXTINF:-1,Super!
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63913.m3u8
+#EXTINF:-1,Tele Arena Siena
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64006.m3u8
+#EXTINF:-1,Tele Boario
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63979.m3u8
+#EXTINF:-1,Tele Chiara
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63965.m3u8
+#EXTINF:-1,Tele Dehon TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63986.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63900.m3u8
+#EXTINF:-1,Tele Padova Telecitt
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63982.m3u8
+#EXTINF:-1,Tele Sondrio News
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63931.m3u8
+#EXTINF:-1,Teleabruzzo
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145019.m3u8
+#EXTINF:-1,TeleBari
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145021.m3u8
+#EXTINF:-1,Telemantova
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/145030.m3u8
+#EXTINF:-1,TeleMIa
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63928.m3u8
+#EXTINF:-1,TeleNorba 24 TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/64002.m3u8
+#EXTINF:-1,TeleNorba TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212846.m3u8
+#EXTINF:-1,Teleromagna
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63940.m3u8
+#EXTINF:-1,TeleSondrio Livigno
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63930.m3u8
+#EXTINF:-1,TeleTicino HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63991.m3u8
+#EXTINF:-1,TeleVenezia
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63992.m3u8
+#EXTINF:-1,TG 24
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/102233.m3u8
+#EXTINF:-1,TG com 24 HD
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/114118.m3u8
+#EXTINF:-1,TG NORBA 24
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/212634.m3u8
+#EXTINF:-1,Top Crime
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/73970.m3u8
+#EXTINF:-1,Trentino TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63994.m3u8
+#EXTINF:-1,TV 8
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/89408.m3u8
+#EXTINF:-1,TV 2000
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/155935.m3u8
+#EXTINF:-1,TV Avicenza
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63996.m3u8
+#EXTINF:-1,TV Videolina
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/208420.m3u8
+#EXTINF:-1,TVRS
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63938.m3u8
+#EXTINF:-1,Umbria TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63881.m3u8
+#EXTINF:-1,Vera TV
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63998.m3u8
+#EXTINF:-1,Vetrina Primafila
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/94124.m3u8
+#EXTINF:-1,VH1
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/136025.m3u8
+#EXTINF:-1,Video Brescia
+http://l.land02.live:8080/live/hossein1/Srhb613aeu/63939.m3u8
