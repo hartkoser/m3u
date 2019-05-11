@@ -1,113 +1,155 @@
 #EXTM3U
 #EXTINF:-1,VIAJAR HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2722
-#EXTINF:-1,ES:TELEDEPORTE HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2723
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2722.m3u8
+#EXTINF:-1,TELEDEPORTE HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2723.m3u8
 #EXTINF:-1,TELECINCO HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2695
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2695.m3u8
 #EXTINF:-1,TCM HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2726
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2726.m3u8
 #EXTINF:-1,NICK Jr
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2707
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2707.m3u8
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2702
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2702.m3u8
 #EXTINF:-1,NAT GEO WILD HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2701
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2701.m3u8
 #EXTINF:-1,MEGA
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2724
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2724.m3u8
 #EXTINF:-1,LA SEXTA HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2698
-#EXTINF:-1,ES:LA 1 HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2699
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2698.m3u8
+#EXTINF:-1,LA 1 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2699.m3u8
 #EXTINF:-1,HOLLYWOOD HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2725
-#EXTINF:-1,ES:HISTORIA
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2728
-#EXTINF:-1,ES:FOX LIFE HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2696
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2725.m3u8
+#EXTINF:-1,HISTORIA
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2728.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2696.m3u8
 #EXTINF:-1,FOX HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2697
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2697.m3u8
 #EXTINF:-1,DISNEY XD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2709
-#EXTINF:-1,ES:DISNEY JUNIOR
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2710
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2709.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2710.m3u8
 #EXTINF:-1,DISNEY CHANNEL HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2708
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2708.m3u8
 #EXTINF:-1,DISCOVERY
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2704
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2704.m3u8
 #EXTINF:-1,DISCOVERY CHANNEL HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2703
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2703.m3u8
+#EXTINF:-1,CUATRO HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2713.m3u8
+#EXTINF:-1,Movistar XTRA HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2715.m3u8
+#EXTINF:-1,Canal  TOROS HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2717.m3u8
+#EXTINF:-1,Canal SERIES XTRA HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2712.m3u8
+#EXTINF:-1,Canal  LIGA HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2690.m3u8
+#EXTINF:-1,Canal  GOLF HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2716.m3u8
+#EXTINF:-1,Canal  FUTBOL HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2692.m3u8
+#EXTINF:-1,Movistar ESTRENOS HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2718.m3u8
+#EXTINF:-1,Canal  DEPORTES HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2693.m3u8
+#EXTINF:-1,Canal  DEPORTES 2 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2694.m3u8
+#EXTINF:-1,Canal DCINE HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2719.m3u8
+#EXTINF:-1,M COMEDIA HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2720.m3u8
+#EXTINF:-1,Movistar Accion HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2688.m3u8
+#EXTINF:-1,CALLE 13 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2714.m3u8
 #EXTINF:-1,AXN WHITE HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2706
-#EXTINF:-1,ES:ANTENA 3 HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2721
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2706.m3u8
+#EXTINF:-1,ANTENA 3 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2721.m3u8
 #EXTINF:-1,TNT
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5416
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5416.m3u8
 #EXTINF:-1,SYFY
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5417
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5417.m3u8
 #EXTINF:-1,PANDA
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5428
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5428.m3u8
 #EXTINF:-1,NOVA
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5409
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5409.m3u8
 #EXTINF:-1,NICKELODEON HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5419
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5419.m3u8
 #EXTINF:-1,NEOX
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5408
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5408.m3u8
 #EXTINF:-1,La Liga BAR HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5424
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5424.m3u8
 #EXTINF:-1,LA 2 HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2700
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2700.m3u8
 #EXTINF:-1,IBERALIA
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5427
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5427.m3u8
 #EXTINF:-1,GOL Tv
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5421
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5421.m3u8
 #EXTINF:-1,FDF
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5411
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5411.m3u8
 #EXTINF:-1,DIVINITY
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5410
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5410.m3u8
 #EXTINF:-1,COSMO HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5412
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5412.m3u8
 #EXTINF:-1,Clan Tve
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5418
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5418.m3u8
 #EXTINF:-1,Caza y pesca
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5413
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5413.m3u8
+#EXTINF:-1,Canal SERIES HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2711.m3u8
+#EXTINF:-1,CANAL DECASA
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5426.m3u8
+#EXTINF:-1,CANAL COCINA
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5425.m3u8
 #EXTINF:-1,Boing
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5420
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5420.m3u8
+#EXTINF:-1,Bein Sport HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5422.m3u8
+#EXTINF:-1,Bein Liga HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5423.m3u8
 #EXTINF:-1,AXN HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2705
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2705.m3u8
 #EXTINF:-1,AMC
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5415
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5415.m3u8
 #EXTINF:-1,A&E
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/5414
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/5414.m3u8
 #EXTINF:-1,#0 HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/2729
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/2729.m3u8
 #EXTINF:-1,Energy
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6696
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6696.m3u8
 #EXTINF:-1,EUROSPORT 1
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6694
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6694.m3u8
 #EXTINF:-1,EUROSPORT 2
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6695
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6695.m3u8
 #EXTINF:-1,24 Horas
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6721
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6721.m3u8
 #EXTINF:-1,40 TV
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6720
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6720.m3u8
 #EXTINF:-1,BARCA TV
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6718
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6718.m3u8
 #EXTINF:-1,COMEDY CENTRAL HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6719
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6719.m3u8
 #EXTINF:-1,Nonstop People
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6722
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6722.m3u8
+#EXTINF:-1,VIP Bein Sports HD ( 1080P )
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6724.m3u8
+#EXTINF:-1,Canal De Las Estrellas
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6792.m3u8
 #EXTINF:-1,Paramount
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/6968
-#EXTINF:-1,BABY TV
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/9165
-#EXTINF:-1,BeiN Laliga FHD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/16861
-#EXTINF:-1,beIN Sport FHD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/11776
-#EXTINF:-1,DMAX
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/17733
-#EXTINF:-1,Odisea
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/17734
-#EXTINF:-1,EuroNews
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/17869
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6968.m3u8
+#EXTINF:-1,Crimen Investigation
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6984.m3u8
+#EXTINF:-1,MTV ESPANA
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/6985.m3u8
+#EXTINF:-1,MOVISTAR MOTOGP
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/3066.m3u8
+#EXTINF:-1,Movistar Futbol
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/3068.m3u8
+#EXTINF:-1,MOVISTAR FORMULA 1
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/3067.m3u8
+#EXTINF:-1,MOVISTAR F1 HD
+http://premium-iptv.link:6969/live/live:ramy07_2018/RM44deffDEKF585/3065.m3u8
