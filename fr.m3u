@@ -1,79 +1,577 @@
 #EXTM3U
-#EXTINF:-1,FRANCE 3
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/529
-#EXTINF:-1,RTL9
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/246
-#EXTINF:-1,AB1
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4966
-#EXTINF:-1,AB3
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4968
-#EXTINF:-1,ACTION
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4973
-#EXTINF:-1,ANIMAUX
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4985
-#EXTINF:-1,ARTE HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4405
-#EXTINF:-1,D8
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/243
-#EXTINF:-1,BFM TV
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/1549
-#EXTINF:-1,GULLI HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4957
-#EXTINF:-1,GAME ONE
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4967
-#EXTINF:-1,France O  HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/532
-#EXTINF:-1,France 5 HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/531
-#EXTINF:-1,France 4  HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/530
-#EXTINF:-1,FRANCE 2
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/528
-#EXTINF:-1,EUROSPORT2
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/1542
-#EXTINF:-1,Eurosport 2
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4975
-#EXTINF:-1,Eurosport 1
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/1541
-#EXTINF:-1,EQUIDIA live
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4990
-#EXTINF:-1,Disney XD HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/1553
-#EXTINF:-1,DISNEY CHANNEL
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/1544
-#EXTINF:-1,HD1
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/247
-#EXTINF:-1,i Tele
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4956
-#EXTINF:-1,INFOSPORT
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4978
-#EXTINF:-1,L'EQUIPE 21
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4977
-#EXTINF:-1,La Deux
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/3731
-#EXTINF:-1,La une BE
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/3730
-#EXTINF:-1,LCI
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/4955
-#EXTINF:-1,M6
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/242
-#EXTINF:-1,Mangas
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/3728
-#EXTINF:-1,National geo wild
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/3727
-#EXTINF:-1,NICKELODEON JUNIOR
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/1533
-#EXTINF:-1,NRJ Hits
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/3726
-#EXTINF:-1,NUMERO 23 HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/1527
+#EXTINF:-1,RTS Un HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21230
+#EXTINF:-1,RTS Deux HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21229
+#EXTINF:-1,TF1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21228
 #EXTINF:-1,TF1 HD
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/241
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21227
+#EXTINF:-1,TF1 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19536
+#EXTINF:-1,France 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21226
+#EXTINF:-1,France 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21225
+#EXTINF:-1,France 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21224
+#EXTINF:-1,France 3 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21223
+#EXTINF:-1,France 4 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21222
+#EXTINF:-1,France 5
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21221
+#EXTINF:-1,M6
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21220
+#EXTINF:-1,M6 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19567
+#EXTINF:-1,Syfy
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21218
+#EXTINF:-1,Syfy FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19539
+#EXTINF:-1,NT1 (TFX)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21217
+#EXTINF:-1,NT1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21216
+#EXTINF:-1,W9 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21215
+#EXTINF:-1,W9 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19523
+#EXTINF:-1,HD1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21214
+#EXTINF:-1,TF1 Series Film FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19535
+#EXTINF:-1,C-8 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21213
+#EXTINF:-1,C8 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19601
+#EXTINF:-1,C-Star
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21212
+#EXTINF:-1,C-Star HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21211
+#EXTINF:-1,6ter
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21210
+#EXTINF:-1,6ter HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21209
+#EXTINF:-1,6ter FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19614
+#EXTINF:-1,RTL 9
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21208
+#EXTINF:-1,RTL 9 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19541
+#EXTINF:-1,Chérie 25
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21207
+#EXTINF:-1,Chérie 25 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19591
+#EXTINF:-1,13eme Rue
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21206
+#EXTINF:-1,13eme Rue FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19615
+#EXTINF:-1,AB1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21205
+#EXTINF:-1,AB3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21204
+#EXTINF:-1,NRJ 12
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21203
+#EXTINF:-1,E!
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21202
+#EXTINF:-1,Elle Girl HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21201
+#EXTINF:-1,Elle Girl FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19578
+#EXTINF:-1,Seasons HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21200
+#EXTINF:-1,serieclub
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21199
+#EXTINF:-1,serie Club FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19522
+#EXTINF:-1,Comédie+
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21198
+#EXTINF:-1,CANAL+ HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21197
+#EXTINF:-1,CANAL+ FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19598
+#EXTINF:-1,CANAL+ Cinema HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21196
+#EXTINF:-1,CANAL+ Cinema FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19600
+#EXTINF:-1,CANAL+ Decale HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21195
+#EXTINF:-1,CANAL+ Décalé FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19599
+#EXTINF:-1,CANAL+ Family HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21194
+#EXTINF:-1,CANAL+ Family FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19597
+#EXTINF:-1,CANAL+ Series HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21193
+#EXTINF:-1,CANAL+ Series FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19596
+#EXTINF:-1,Ciné FX HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21192
+#EXTINF:-1,Ciné Polar
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21191
+#EXTINF:-1,Ciné Polar HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/32297
+#EXTINF:-1,Ciné+ Classic FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21190
+#EXTINF:-1,Ciné+ Club FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19589
+#EXTINF:-1,Ciné Emotion HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21189
+#EXTINF:-1,Ciné+ Emotion FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19588
+#EXTINF:-1,Ciné+ Famiz
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21188
+#EXTINF:-1,Ciné+ Famiz HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21187
+#EXTINF:-1,Ciné+ Frisson HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21186
+#EXTINF:-1,Ciné+ Frisson FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19587
+#EXTINF:-1,Ciné Premier HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21185
+#EXTINF:-1,Ciné+ Premier FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19586
+#EXTINF:-1,Canal Play 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21184
+#EXTINF:-1,Canal Play 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21183
+#EXTINF:-1,Canal Play 3 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21182
+#EXTINF:-1,Canal Play 4 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21181
+#EXTINF:-1,Canal Play 5 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21180
+#EXTINF:-1,A La Carte 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21179
+#EXTINF:-1,A La Carte 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21178
+#EXTINF:-1,A La Carte 3 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21177
+#EXTINF:-1,A La Carte 4 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21176
+#EXTINF:-1,A La Carte 5 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21175
+#EXTINF:-1,OCS Choc
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21174
+#EXTINF:-1,OCS City
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21173
+#EXTINF:-1,OCS City FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19553
+#EXTINF:-1,OCS Geants
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21172
+#EXTINF:-1,OCS Geants FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19552
+#EXTINF:-1,OCS Max
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21171
+#EXTINF:-1,OCS MAX FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19551
+#EXTINF:-1,OCS Go Cinema 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21170
+#EXTINF:-1,OCS Go Cinema 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21169
+#EXTINF:-1,OCS Go Cinema 3 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21168
+#EXTINF:-1,OCS Go Cinema 4 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21167
+#EXTINF:-1,OCS Go Cinema 5 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21166
+#EXTINF:-1,Orange Cinema 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21165
+#EXTINF:-1,Orange Cinema 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21164
+#EXTINF:-1,Orange Cinema 3 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21163
+#EXTINF:-1,Orange Cinema 4 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21162
+#EXTINF:-1,Orange Cinema 5 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21161
+#EXTINF:-1,Orange Cinema HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21160
+#EXTINF:-1,Orange Cinema Action HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21159
+#EXTINF:-1,Orange Cinema Aventure HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21158
+#EXTINF:-1,Orange Cinema Horreur HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21157
+#EXTINF:-1,Orange Comment C'Est Fait HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21156
+#EXTINF:-1,Paramount Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21153
+#EXTINF:-1,Paramount Channel FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19546
+#EXTINF:-1,PARAMOUNT DECALE FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19547
+#EXTINF:-1,TCM Cinéma HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21152
+#EXTINF:-1,TCM Cinéma FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19538
+#EXTINF:-1,TMC
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21151
+#EXTINF:-1,Boing
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21150
+#EXTINF:-1,Boing FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19602
+#EXTINF:-1,Boomerang
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21149
+#EXTINF:-1,Cartoon Network
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21148
+#EXTINF:-1,Cartoon Network FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19592
+#EXTINF:-1,Gulli HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21147
+#EXTINF:-1,Gulli FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19572
+#EXTINF:-1,Nickelodeon FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19554
+#EXTINF:-1,NICKELODEON 4 TEEN HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19558
+#EXTINF:-1,Piwi HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21144
+#EXTINF:-1,Piwi+ FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19545
+#EXTINF:-1,téléTOON+
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21143
+#EXTINF:-1,téléTOON+ HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/32296
+#EXTINF:-1,TELETOON +1 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19537
+#EXTINF:-1,Zouzous
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21142
+#EXTINF:-1,TOONAMI FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19534
+#EXTINF:-1,Tiji HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21141
+#EXTINF:-1,Canal J
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21140
+#EXTINF:-1,Disney Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21139
+#EXTINF:-1,Disney Channel FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19582
+#EXTINF:-1,Disney Channel +1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21138
+#EXTINF:-1,DISNEY CHANNEL +1 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19585
+#EXTINF:-1,Disney Cinema
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21137
+#EXTINF:-1,Disney Cinema HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21136
+#EXTINF:-1,Disney Cinema FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19581
+#EXTINF:-1,Disney Junior HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21135
+#EXTINF:-1,Disney Junior FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19580
+#EXTINF:-1,Disney XD HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21134
+#EXTINF:-1,Disney XD FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19579
+#EXTINF:-1,Mangas HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21133
+#EXTINF:-1,J-One
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21132
+#EXTINF:-1,Game One
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21131
+#EXTINF:-1,Discovery Channel HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21130
+#EXTINF:-1,Discovery FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19584
+#EXTINF:-1,Discovery Science HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21129
+#EXTINF:-1,Discovery Science FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19583
+#EXTINF:-1,Planète+ HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21127
+#EXTINF:-1,Planète+ A&E HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21126
+#EXTINF:-1,Planète+ CI HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21125
+#EXTINF:-1,National Geographic HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21124
+#EXTINF:-1,Nat Geo FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19556
+#EXTINF:-1,Nat Geo Wild HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21123
+#EXTINF:-1,Nat Geo Wild FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19555
+#EXTINF:-1,Action
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21122
+#EXTINF:-1,Action FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/47338
+#EXTINF:-1,Animaux HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21121
+#EXTINF:-1,Animaux FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19609
+#EXTINF:-1,Arte
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21120
+#EXTINF:-1,Arte HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/47337
+#EXTINF:-1,AB Moteurs
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21119
+#EXTINF:-1,Be Curious TV FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/47339
+#EXTINF:-1,Chasse et Pêche
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21118
+#EXTINF:-1,KTO
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21117
+#EXTINF:-1,M6 Music
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21116
 #EXTINF:-1,MCM
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/9162
-#EXTINF:-1,MCM TOP
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/9163
-#EXTINF:-1,Nick Jr
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/9161
-#EXTINF:-1,Seasons
-http://premium-iptv.link:6969/live:ramy07_2018/RM44deffDEKF585/9440
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21115
+#EXTINF:-1,MCM FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19566
+#EXTINF:-1,MCM TOP HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19565
+#EXTINF:-1,Mezzo Live HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21114
+#EXTINF:-1,MEZZO LIVE FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19564
+#EXTINF:-1,MTV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21113
+#EXTINF:-1,MTV FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19563
+#EXTINF:-1,MTV Base
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21112
+#EXTINF:-1,MTV Hits
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21111
+#EXTINF:-1,MTV HITS FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19562
+#EXTINF:-1,NRJ Hits
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21109
+#EXTINF:-1,Trace Urban
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21108
+#EXTINF:-1,RMC Sport 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49956
+#EXTINF:-1,RMC Sport 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49955
+#EXTINF:-1,RMC Sport 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49954
+#EXTINF:-1,RMC Sport 4
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/49953
+#EXTINF:-1,beIN SPORTS 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21107
+#EXTINF:-1,beIN SPORTS 1 SD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21106
+#EXTINF:-1,beIN SPORTS 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21105
+#EXTINF:-1,beIN SPORTS 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21104
+#EXTINF:-1,beIN SPORTS 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21103
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19505
+#EXTINF:-1,beIN SPORTS 3
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21102
+#EXTINF:-1,beIN SPORTS 3 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21101
+#EXTINF:-1,beIN SPORTS MAX 4 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21100
+#EXTINF:-1,beIN Sports MAX 4 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19503
+#EXTINF:-1,beIN SPORTS MAX 5 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21099
+#EXTINF:-1,beIN Sports MAX 5 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19502
+#EXTINF:-1,beIN SPORTS MAX 6 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21098
+#EXTINF:-1,beIN Sports MAX 6 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19501
+#EXTINF:-1,beIN SPORTS MAX 7 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21097
+#EXTINF:-1,beIN Sports MAX 7 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19500
+#EXTINF:-1,beIN SPORTS MAX 8
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21096
+#EXTINF:-1,beIN SPORTS MAX 8 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21095
+#EXTINF:-1,beIN Sports MAX 8 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19499
+#EXTINF:-1,beIN Sports MAX 9 FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19498
+#EXTINF:-1,Equidia Life
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21094
+#EXTINF:-1,Equidia Live HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21093
+#EXTINF:-1,BFM Sport FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19605
+#EXTINF:-1,CANAL+ Sport HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21092
+#EXTINF:-1,CANAL+ Sport FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19595
+#EXTINF:-1,ciné CLASSIC HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40588
+#EXTINF:-1,ciné FAMIZ HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40583
+#EXTINF:-1,Eurosport 1
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19577
+#EXTINF:-1,Eurosport 2
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19576
+#EXTINF:-1,FOOT+ 24/24
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21089
+#EXTINF:-1,GOLF+ HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21088
+#EXTINF:-1,GOLF+ FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19574
+#EXTINF:-1,TRACE SPORT STARS FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19532
+#EXTINF:-1,InfoSport+
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21087
+#EXTINF:-1,SFR Sport 1 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21086
+#EXTINF:-1,SFR Sport 2 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21085
+#EXTINF:-1,SFR Sport 3 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21084
+#EXTINF:-1,C-News
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21083
+#EXTINF:-1,C-News FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19594
+#EXTINF:-1,Euronews
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21082
+#EXTINF:-1,France 24
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21081
+#EXTINF:-1,France Info
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21080
+#EXTINF:-1,France Ô
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21079
+#EXTINF:-1,i24NEWS
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21078
+#EXTINF:-1,i24NEWS (B)
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/50264
+#EXTINF:-1,Africa 24
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21077
+#EXTINF:-1,Alsace 20
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21076
+#EXTINF:-1,ILTV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21075
+#EXTINF:-1,Histoire
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21074
+#EXTINF:-1,Histoire FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19571
+#EXTINF:-1,Canal Alpha JU
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21073
+#EXTINF:-1,L'Equipe 21 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21072
+#EXTINF:-1,MY CUISINE FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19561
+#EXTINF:-1,BFM Business HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21071
+#EXTINF:-1,BFM Business FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19606
+#EXTINF:-1,BFM TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21070
+#EXTINF:-1,BFM TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/50504
+#EXTINF:-1,A+ FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19613
+#EXTINF:-1,ALTICE STUDIO FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19612
+#EXTINF:-1,Bet HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21069
+#EXTINF:-1,BET FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19607
+#EXTINF:-1,BRAVA FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19604
+#EXTINF:-1,Weo HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21068
+#EXTINF:-1,Clubbing TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21067
+#EXTINF:-1,CRIME DISTRICT FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19593
+#EXTINF:-1,eNORME TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21065
+#EXTINF:-1,La Chaine Normande HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19569
+#EXTINF:-1,La Chaîne Normande TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21064
+#EXTINF:-1,La Une HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21063
+#EXTINF:-1,LUXE TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19568
+#EXTINF:-1,M6 Boutique
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21062
+#EXTINF:-1,Numéro 23
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21061
+#EXTINF:-1,Ofive TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21060
+#EXTINF:-1,OLTV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21059
+#EXTINF:-1,OLTV FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19550
+#EXTINF:-1,OM TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19549
+#EXTINF:-1,ONE TV FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19548
+#EXTINF:-1,Paris Premiere
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21058
+#EXTINF:-1,RFM HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21057
+#EXTINF:-1,RFM TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19542
+#EXTINF:-1,RMC Decouverte HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21056
+#EXTINF:-1,Science & Vie TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21055
+#EXTINF:-1,Stingray Brava
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21054
+#EXTINF:-1,Toute l'Histoire
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21053
+#EXTINF:-1,TRACE AFRICA HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19533
+#EXTINF:-1,TRACE TROPICAL FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19531
+#EXTINF:-1,Trek HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21052
+#EXTINF:-1,Trek FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19527
+#EXTINF:-1,TV Breizh
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21051
+#EXTINF:-1,TV Breizh HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21050
+#EXTINF:-1,TV5 Monde
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21049
+#EXTINF:-1,TV5 Monde FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19529
+#EXTINF:-1,TV8 MONT BLANC FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19528
+#EXTINF:-1,téva
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21048
+#EXTINF:-1,téva HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21047
+#EXTINF:-1,Ushuaïa TV
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21046
+#EXTINF:-1,Ushuaia FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19526
+#EXTINF:-1,Voyage
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21045
+#EXTINF:-1,Vosges Télévision HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21044
+#EXTINF:-1,Voyage FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/19524
+#EXTINF:-1,CANAL 31 HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21043
+#EXTINF:-1,Cherie25
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40590
+#EXTINF:-1,SYFY HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40643
+#EXTINF:-1,TeleToon + FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40639
+#EXTINF:-1,TIJI FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40636
+#EXTINF:-1,TMC HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40634
+#EXTINF:-1,TV5 MONDE HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/40629
+#EXTINF:-1,GIRONDINS TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21042
+#EXTINF:-1,GONG MAX HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21041
+#EXTINF:-1,MOTORSPORT TV HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21039
+#EXTINF:-1,NOLLYWOOD HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21038
+#EXTINF:-1,PORTAIL CANALPLAY HD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/21037
+#EXTINF:-1,Discovery Investigation FHD
+http://config.streamstv.me:8080/live:niko.tv/r3qASF8wapIAfr/61179
