@@ -1,247 +1,235 @@
 #EXTM3U
-#EXTINF:-1,RTP .frica
-http://iptvtool.es:9977/live/JESUS/JESUS/87492.m3u8
+#EXTINF:-1,RTP 1 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23261.m3u8
 #EXTINF:-1,RTP 1
-http://iptvtool.es:9977/live/JESUS/JESUS/87491.m3u8
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23260.m3u8
+#EXTINF:-1,RTP2 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23259.m3u8
 #EXTINF:-1,RTP 2
-http://iptvtool.es:9977/live/JESUS/JESUS/87490.m3u8
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23258.m3u8
 #EXTINF:-1,RTP 3
-http://iptvtool.es:9977/live/JESUS/JESUS/87489.m3u8
-#EXTINF:-1,RTP AĿores
-http://iptvtool.es:9977/live/JESUS/JESUS/87488.m3u8
-#EXTINF:-1,RTP Madeira
-http://iptvtool.es:9977/live/JESUS/JESUS/87487.m3u8
-#EXTINF:-1,RTP Memðria
-http://iptvtool.es:9977/live/JESUS/JESUS/87486.m3u8
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23257.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23256.m3u8
+#EXTINF:-1,RTP AFRICA
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23255.m3u8
+#EXTINF:-1,TCV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23254.m3u8
+#EXTINF:-1,RTP ACORES
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23253.m3u8
+#EXTINF:-1,SIC RADICAL
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23252.m3u8
+#EXTINF:-1,SIC MULHER
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23251.m3u8
+#EXTINF:-1,SIC CARAS
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23250.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23249.m3u8
+#EXTINF:-1,SIC HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23248.m3u8
 #EXTINF:-1,SIC
-http://iptvtool.es:9977/live/JESUS/JESUS/87485.m3u8
-#EXTINF:-1,SIC Caras
-http://iptvtool.es:9977/live/JESUS/JESUS/87484.m3u8
-#EXTINF:-1,SIC K
-http://iptvtool.es:9977/live/JESUS/JESUS/87483.m3u8
-#EXTINF:-1,SIC Mulher
-http://iptvtool.es:9977/live/JESUS/JESUS/87482.m3u8
-#EXTINF:-1,SIC NotŦcias
-http://iptvtool.es:9977/live/JESUS/JESUS/87481.m3u8
-#EXTINF:-1,SIC Radical
-http://iptvtool.es:9977/live/JESUS/JESUS/87480.m3u8
-#EXTINF:-1,SPORT TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87479.m3u8
-#EXTINF:-1,SPORT TV 1
-http://iptvtool.es:9977/live/JESUS/JESUS/87478.m3u8
-#EXTINF:-1,SPORT TV 1 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87477.m3u8
-#EXTINF:-1,SPORT TV 2
-http://iptvtool.es:9977/live/JESUS/JESUS/87476.m3u8
-#EXTINF:-1,SPORT TV 2 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87475.m3u8
-#EXTINF:-1,SPORT TV 3
-http://iptvtool.es:9977/live/JESUS/JESUS/87474.m3u8
-#EXTINF:-1,SPORT TV 3 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87473.m3u8
-#EXTINF:-1,Sport TV 5
-http://iptvtool.es:9977/live/JESUS/JESUS/87472.m3u8
-#EXTINF:-1,Sport TV NBA
-http://iptvtool.es:9977/live/JESUS/JESUS/87471.m3u8
-#EXTINF:-1,Sporting TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87470.m3u8
-#EXTINF:-1,Syfy
-http://iptvtool.es:9977/live/JESUS/JESUS/87469.m3u8
-#EXTINF:-1,TLC
-http://iptvtool.es:9977/live/JESUS/JESUS/87468.m3u8
-#EXTINF:-1,Toros TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87467.m3u8
-#EXTINF:-1,Trace Urban
-http://iptvtool.es:9977/live/JESUS/JESUS/87466.m3u8
-#EXTINF:-1,Travel Channel FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87465.m3u8
-#EXTINF:-1,TV Galicia
-http://iptvtool.es:9977/live/JESUS/JESUS/87464.m3u8
-#EXTINF:-1,TV Record
-http://iptvtool.es:9977/live/JESUS/JESUS/87463.m3u8
-#EXTINF:-1,TVCine 1
-http://iptvtool.es:9977/live/JESUS/JESUS/87462.m3u8
-#EXTINF:-1,TVCine 1 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87461.m3u8
-#EXTINF:-1,TVCine 2
-http://iptvtool.es:9977/live/JESUS/JESUS/87460.m3u8
-#EXTINF:-1,TVCine 2 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87459.m3u8
-#EXTINF:-1,TVCine 3
-http://iptvtool.es:9977/live/JESUS/JESUS/87458.m3u8
-#EXTINF:-1,TVCine 3 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87457.m3u8
-#EXTINF:-1,TVCine 4
-http://iptvtool.es:9977/live/JESUS/JESUS/87456.m3u8
-#EXTINF:-1,TVCine 4 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87455.m3u8
-#EXTINF:-1,TVE 24h
-http://iptvtool.es:9977/live/JESUS/JESUS/87454.m3u8
-#EXTINF:-1,TVE Internacional
-http://iptvtool.es:9977/live/JESUS/JESUS/87453.m3u8
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23247.m3u8
+#EXTINF:-1,TVI HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23246.m3u8
 #EXTINF:-1,TVI
-http://iptvtool.es:9977/live/JESUS/JESUS/87452.m3u8
-#EXTINF:-1,TVI 24
-http://iptvtool.es:9977/live/JESUS/JESUS/87451.m3u8
-#EXTINF:-1,TVI FicĿªo
-http://iptvtool.es:9977/live/JESUS/JESUS/87450.m3u8
-#EXTINF:-1,TVI Reality
-http://iptvtool.es:9977/live/JESUS/JESUS/87449.m3u8
-#EXTINF:-1,TVSØries
-http://iptvtool.es:9977/live/JESUS/JESUS/87448.m3u8
-#EXTINF:-1,TVSØries FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87447.m3u8
-#EXTINF:-1,VH1
-http://iptvtool.es:9977/live/JESUS/JESUS/87446.m3u8
-#EXTINF:-1,24 Kitchen FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87568.m3u8
-#EXTINF:-1,A Bola TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87567.m3u8
-#EXTINF:-1,Afro Music
-http://iptvtool.es:9977/live/JESUS/JESUS/87566.m3u8
-#EXTINF:-1,AMC
-http://iptvtool.es:9977/live/JESUS/JESUS/87565.m3u8
-#EXTINF:-1,AMC FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87564.m3u8
-#EXTINF:-1,Angelus TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87563.m3u8
-#EXTINF:-1,ARTV
-http://iptvtool.es:9977/live/JESUS/JESUS/87562.m3u8
-#EXTINF:-1,AXN Black FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87561.m3u8
-#EXTINF:-1,AXN FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87560.m3u8
-#EXTINF:-1,AXN White FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87559.m3u8
-#EXTINF:-1,Baby TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87558.m3u8
-#EXTINF:-1,BBC Entertainment
-http://iptvtool.es:9977/live/JESUS/JESUS/87557.m3u8
-#EXTINF:-1,BBC World News
-http://iptvtool.es:9977/live/JESUS/JESUS/87556.m3u8
-#EXTINF:-1,Biggs
-http://iptvtool.es:9977/live/JESUS/JESUS/87555.m3u8
-#EXTINF:-1,Blaze
-http://iptvtool.es:9977/live/JESUS/JESUS/87554.m3u8
-#EXTINF:-1,Bloomberg
-http://iptvtool.es:9977/live/JESUS/JESUS/87553.m3u8
-#EXTINF:-1,BTV FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87552.m3u8
-#EXTINF:-1,CaĿa e Pesca
-http://iptvtool.es:9977/live/JESUS/JESUS/87551.m3u8
-#EXTINF:-1,CaĿavision
-http://iptvtool.es:9977/live/JESUS/JESUS/87550.m3u8
-#EXTINF:-1,Canal NOS
-http://iptvtool.es:9977/live/JESUS/JESUS/87549.m3u8
-#EXTINF:-1,Canal Panda
-http://iptvtool.es:9977/live/JESUS/JESUS/87548.m3u8
-#EXTINF:-1,Canal Q
-http://iptvtool.es:9977/live/JESUS/JESUS/87547.m3u8
-#EXTINF:-1,CanĿªo Nova
-http://iptvtool.es:9977/live/JESUS/JESUS/87546.m3u8
-#EXTINF:-1,Cartoon Network
-http://iptvtool.es:9977/live/JESUS/JESUS/87545.m3u8
-#EXTINF:-1,CBS Reality
-http://iptvtool.es:9977/live/JESUS/JESUS/87544.m3u8
-#EXTINF:-1,Channel 1 Russia
-http://iptvtool.es:9977/live/JESUS/JESUS/87543.m3u8
-#EXTINF:-1,Cinemundo
-http://iptvtool.es:9977/live/JESUS/JESUS/87542.m3u8
-#EXTINF:-1,CMTV
-http://iptvtool.es:9977/live/JESUS/JESUS/87541.m3u8
-#EXTINF:-1,CNBC Europe
-http://iptvtool.es:9977/live/JESUS/JESUS/87540.m3u8
-#EXTINF:-1,Crime Investigation
-http://iptvtool.es:9977/live/JESUS/JESUS/87539.m3u8
-#EXTINF:-1,Deutsche Welle (A)
-http://iptvtool.es:9977/live/JESUS/JESUS/87538.m3u8
-#EXTINF:-1,Discovery Channel
-http://iptvtool.es:9977/live/JESUS/JESUS/87537.m3u8
-#EXTINF:-1,Disney Channel
-http://iptvtool.es:9977/live/JESUS/JESUS/87536.m3u8
-#EXTINF:-1,Disney Channel Wow
-http://iptvtool.es:9977/live/JESUS/JESUS/87535.m3u8
-#EXTINF:-1,Disney Junior
-http://iptvtool.es:9977/live/JESUS/JESUS/87534.m3u8
-#EXTINF:-1,E! Entertainment
-http://iptvtool.es:9977/live/JESUS/JESUS/87533.m3u8
-#EXTINF:-1,Eleven Sports 1
-http://iptvtool.es:9977/live/JESUS/JESUS/87531.m3u8
-#EXTINF:-1,Eleven Sports 1 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87532.m3u8
-#EXTINF:-1,Eleven Sports 2 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87530.m3u8
-#EXTINF:-1,Eleven Sports 3
-http://iptvtool.es:9977/live/JESUS/JESUS/87529.m3u8
-#EXTINF:-1,Eleven Sports 4
-http://iptvtool.es:9977/live/JESUS/JESUS/87528.m3u8
-#EXTINF:-1,Eleven Sports 5
-http://iptvtool.es:9977/live/JESUS/JESUS/87527.m3u8
-#EXTINF:-1,Eleven Sports 6
-http://iptvtool.es:9977/live/JESUS/JESUS/87526.m3u8
-#EXTINF:-1,Eurochannel
-http://iptvtool.es:9977/live/JESUS/JESUS/87525.m3u8
-#EXTINF:-1,Eurosport 1
-http://iptvtool.es:9977/live/JESUS/JESUS/87524.m3u8
-#EXTINF:-1,Eurosport 2
-http://iptvtool.es:9977/live/JESUS/JESUS/87523.m3u8
-#EXTINF:-1,FOX Comedy
-http://iptvtool.es:9977/live/JESUS/JESUS/87522.m3u8
-#EXTINF:-1,FOX Crime FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87521.m3u8
-#EXTINF:-1,FOX FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87520.m3u8
-#EXTINF:-1,FOX Life FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87519.m3u8
-#EXTINF:-1,FOX Movies
-http://iptvtool.es:9977/live/JESUS/JESUS/87518.m3u8
-#EXTINF:-1,FOX News
-http://iptvtool.es:9977/live/JESUS/JESUS/87517.m3u8
-#EXTINF:-1,FTV
-http://iptvtool.es:9977/live/JESUS/JESUS/87516.m3u8
-#EXTINF:-1,Globo
-http://iptvtool.es:9977/live/JESUS/JESUS/87515.m3u8
-#EXTINF:-1,Globo Now
-http://iptvtool.es:9977/live/JESUS/JESUS/87514.m3u8
-#EXTINF:-1,Histðria
-http://iptvtool.es:9977/live/JESUS/JESUS/87513.m3u8
-#EXTINF:-1,Hollywood
-http://iptvtool.es:9977/live/JESUS/JESUS/87512.m3u8
-#EXTINF:-1,Hollywood FFHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87511.m3u8
-#EXTINF:-1,Jim Jam
-http://iptvtool.es:9977/live/JESUS/JESUS/87510.m3u8
-#EXTINF:-1,Kombat Sport
-http://iptvtool.es:9977/live/JESUS/JESUS/87509.m3u8
-#EXTINF:-1,Kuriakos TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87508.m3u8
-#EXTINF:-1,MCM POP
-http://iptvtool.es:9977/live/JESUS/JESUS/87507.m3u8
-#EXTINF:-1,Mezzo
-http://iptvtool.es:9977/live/JESUS/JESUS/87506.m3u8
-#EXTINF:-1,Motorvision
-http://iptvtool.es:9977/live/JESUS/JESUS/87505.m3u8
-#EXTINF:-1,MTV Portugal
-http://iptvtool.es:9977/live/JESUS/JESUS/87504.m3u8
-#EXTINF:-1,My Cuisine
-http://iptvtool.es:9977/live/JESUS/JESUS/87503.m3u8
-#EXTINF:-1,National Geographic FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/87502.m3u8
-#EXTINF:-1,National Geographic Wild
-http://iptvtool.es:9977/live/JESUS/JESUS/87501.m3u8
-#EXTINF:-1,NBA TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87500.m3u8
-#EXTINF:-1,Nick Jr.
-http://iptvtool.es:9977/live/JESUS/JESUS/87499.m3u8
-#EXTINF:-1,Nickelodeon
-http://iptvtool.es:9977/live/JESUS/JESUS/87498.m3u8
-#EXTINF:-1,Odisseia
-http://iptvtool.es:9977/live/JESUS/JESUS/87497.m3u8
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23245.m3u8
+#EXTINF:-1,TVI FICCAO
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23244.m3u8
+#EXTINF:-1,CANAL Q
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23243.m3u8
+#EXTINF:-1,GLOBO PREM
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23242.m3u8
+#EXTINF:-1,TV RECORD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23241.m3u8
+#EXTINF:-1,TVI24
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23240.m3u8
+#EXTINF:-1,CM TV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23239.m3u8
+#EXTINF:-1,TV GLOBO
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23238.m3u8
+#EXTINF:-1,RECORD NEWS
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/1061.m3u8
+#EXTINF:-1,EURONEWS
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23237.m3u8
+#EXTINF:-1,PORTO CANAL
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23236.m3u8
+#EXTINF:-1,SPORT TV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14108.m3u8
+#EXTINF:-1,SPORT TV1 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14102.m3u8
+#EXTINF:-1,SPORT TV1
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14107.m3u8
+#EXTINF:-1,SPORT TV2 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14101.m3u8
+#EXTINF:-1,SPORT TV2
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14106.m3u8
+#EXTINF:-1,SPORT TV3 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14100.m3u8
+#EXTINF:-1,SPORT TV3
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14105.m3u8
+#EXTINF:-1,SPORT TV4 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14099.m3u8
+#EXTINF:-1,SPORT TV4
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14104.m3u8
+#EXTINF:-1,SPORT TV5 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14098.m3u8
+#EXTINF:-1,SPORT TV5
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14103.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/29988.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 BKP
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/35371.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/29987.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 BKP
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/35372.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/29986.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 BKP
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/35373.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/29985.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/29984.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/29983.m3u8
+#EXTINF:-1,BENIFICA TV FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14092.m3u8
+#EXTINF:-1,BENIFICA TV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14093.m3u8
+#EXTINF:-1,SPORTING TV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14091.m3u8
+#EXTINF:-1,A BOLA TV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14087.m3u8
 #EXTINF:-1,PFC
-http://iptvtool.es:9977/live/JESUS/JESUS/87496.m3u8
-#EXTINF:-1,Playboy TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87495.m3u8
-#EXTINF:-1,Porto Canal
-http://iptvtool.es:9977/live/JESUS/JESUS/87494.m3u8
-#EXTINF:-1,Real Madrid TV
-http://iptvtool.es:9977/live/JESUS/JESUS/87493.m3u8
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14086.m3u8
+#EXTINF:-1,KOMBATSPORT
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14090.m3u8
+#EXTINF:-1,EUROSPORT NEWS
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14096.m3u8
+#EXTINF:-1,EUROSPORT 1HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14097.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14095.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14094.m3u8
+#EXTINF:-1,FUEL TV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23234.m3u8
+#EXTINF:-1,MOTORSPORT TV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14089.m3u8
+#EXTINF:-1,MOTORVISION
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/14088.m3u8
+#EXTINF:-1,TOROS
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23233.m3u8
+#EXTINF:-1,JIM JAM
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23231.m3u8
+#EXTINF:-1,BABY FIRST
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23230.m3u8
+#EXTINF:-1,BABY TV
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23229.m3u8
+#EXTINF:-1,CANAL PANDA
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23228.m3u8
+#EXTINF:-1,BIGGS
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23227.m3u8
+#EXTINF:-1,NICKELODEON
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23226.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23225.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23224.m3u8
+#EXTINF:-1,CARTOONNETWORK
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23223.m3u8
+#EXTINF:-1,SIC K
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23222.m3u8
+#EXTINF:-1,|PT|*****CINEMA*****|PT|
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23221.m3u8
+#EXTINF:-1,TVCINE1 HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23220.m3u8
+#EXTINF:-1,TVCINE1
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23219.m3u8
+#EXTINF:-1,TVCINE 2HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23218.m3u8
+#EXTINF:-1,TVCINE2
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23217.m3u8
+#EXTINF:-1,TVCINE  3HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23216.m3u8
+#EXTINF:-1,TVCINE3
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23215.m3u8
+#EXTINF:-1,TVCINE 4HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23214.m3u8
+#EXTINF:-1,TVCINE4
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23213.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23212.m3u8
+#EXTINF:-1,NATGEO HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23211.m3u8
+#EXTINF:-1,FOX MOVIES
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23210.m3u8
+#EXTINF:-1,AMC
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23209.m3u8
+#EXTINF:-1,CINEMUNDO
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23208.m3u8
+#EXTINF:-1,|PT|*****CULTURE*****|PT|
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23207.m3u8
+#EXTINF:-1,ODISSEIA
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23206.m3u8
+#EXTINF:-1,NATGEO WILD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23205.m3u8
+#EXTINF:-1,DISCOVERY
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23204.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23203.m3u8
+#EXTINF:-1,TRAVEL CHANNEL HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23202.m3u8
+#EXTINF:-1, HISTORIA
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23201.m3u8
+#EXTINF:-1,CAÃ‡A E PESCA
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23200.m3u8
+#EXTINF:-1,FOOD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23199.m3u8
+#EXTINF:-1,NATGEO
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23198.m3u8
+#EXTINF:-1,CASAVISION
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23197.m3u8
+#EXTINF:-1,|PT|*****SERIES*****|PT|
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23196.m3u8
+#EXTINF:-1,FOX HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23195.m3u8
+#EXTINF:-1,FOX CRIME FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23194.m3u8
+#EXTINF:-1,FOX CRIME
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23193.m3u8
+#EXTINF:-1,FOX COMEDY
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23192.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23191.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23190.m3u8
+#EXTINF:-1,AXN HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23189.m3u8
+#EXTINF:-1,AXN BLACK FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23188.m3u8
+#EXTINF:-1,AXN BLACK
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23187.m3u8
+#EXTINF:-1,SYFY HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23186.m3u8
+#EXTINF:-1,SYFY
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23185.m3u8
+#EXTINF:-1,TLC
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23184.m3u8
+#EXTINF:-1,TVSERIE FHD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23183.m3u8
+#EXTINF:-1,TVSERIES
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23182.m3u8
+#EXTINF:-1,MCS LIFESTYLE
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23181.m3u8
+#EXTINF:-1,CBSREALITY
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23180.m3u8
+#EXTINF:-1,TVI REALITY
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23179.m3u8
+#EXTINF:-1,E!
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23178.m3u8
+#EXTINF:-1,A&E
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23177.m3u8
+#EXTINF:-1,24 KITCHEN HD
+http://iptvpro.premium-itv.com:8789/live/panel3/hrM1Dunt8B/23176.m3u8
