@@ -1,229 +1,163 @@
 #EXTM3U
-#EXTINF:-1,LA 1
-http://iptvtool.es:9977/live/JESUS/JESUS/37103.m3u8
-#EXTINF:-1,LA 1 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37102.m3u8
-#EXTINF:-1,LA 2
-http://iptvtool.es:9977/live/JESUS/JESUS/37100.m3u8
-#EXTINF:-1,La 2 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37099.m3u8
-#EXTINF:-1,ANTENA 3
-http://iptvtool.es:9977/live/JESUS/JESUS/37097.m3u8
-#EXTINF:-1,ANTENA 3 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37096.m3u8
-#EXTINF:-1,LA CUATRO
-http://iptvtool.es:9977/live/JESUS/JESUS/37094.m3u8
-#EXTINF:-1,LA CUATRO FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37093.m3u8
-#EXTINF:-1,TELECINCO
-http://iptvtool.es:9977/live/JESUS/JESUS/37091.m3u8
-#EXTINF:-1,TELECINCO FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37090.m3u8
-#EXTINF:-1,LA SEXTA
-http://iptvtool.es:9977/live/JESUS/JESUS/37088.m3u8
-#EXTINF:-1,LA SEXTA  FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37087.m3u8
-#EXTINF:-1,MOVISTAR  0#
-http://iptvtool.es:9977/live/JESUS/JESUS/37046.m3u8
-#EXTINF:-1,MOVISTAR 0# FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37044.m3u8
-#EXTINF:-1,MOVISTAR 0# HD
-http://iptvtool.es:9977/live/JESUS/JESUS/37045.m3u8
-#EXTINF:-1,Movistar Acion
-http://iptvtool.es:9977/live/JESUS/JESUS/37037.m3u8
-#EXTINF:-1,MOVISTAR ACCION FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37035.m3u8
-#EXTINF:-1,MOVISTAR ACCION HD
-http://iptvtool.es:9977/live/JESUS/JESUS/37036.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
-http://iptvtool.es:9977/live/JESUS/JESUS/37033.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37032.m3u8
-#EXTINF:-1,MOVISTAR DCINE
-http://iptvtool.es:9977/live/JESUS/JESUS/37031.m3u8
-#EXTINF:-1,MOVISTAR DCINE  Ñ
-http://iptvtool.es:9977/live/JESUS/JESUS/37029.m3u8
-#EXTINF:-1,MOVISTAR DCINE FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37030.m3u8
-#EXTINF:-1,MOVISTAR ESPORTS
-http://iptvtool.es:9977/live/JESUS/JESUS/36971.m3u8
-#EXTINF:-1,MOVISTAR ESTRENOS
-http://iptvtool.es:9977/live/JESUS/JESUS/37041.m3u8
-#EXTINF:-1,MOVISTAR ESTRENOS FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37039.m3u8
-#EXTINF:-1,MOVISTAR ESTRENOS HD
-http://iptvtool.es:9977/live/JESUS/JESUS/37040.m3u8
-#EXTINF:-1,MOVISTAR ESTRENOS PARA MOVILE
-http://iptvtool.es:9977/live/JESUS/JESUS/37042.m3u8
-#EXTINF:-1,MOVISTAR SERIES
-http://iptvtool.es:9977/live/JESUS/JESUS/37025.m3u8
-#EXTINF:-1,MOVISTAR SERIES FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37024.m3u8
-#EXTINF:-1,MOVISTAR SERIES XTRA
-http://iptvtool.es:9977/live/JESUS/JESUS/37022.m3u8
-#EXTINF:-1,MOVISTAR SERIES XTRA FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37019.m3u8
-#EXTINF:-1,MOVISTAR XTRA
-http://iptvtool.es:9977/live/JESUS/JESUS/37028.m3u8
-#EXTINF:-1,MOVISTAR XTRA FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37027.m3u8
-#EXTINF:-1,MTV
-http://iptvtool.es:9977/live/JESUS/JESUS/36987.m3u8
-#EXTINF:-1,NAT GEO
-http://iptvtool.es:9977/live/JESUS/JESUS/37002.m3u8
-#EXTINF:-1,NAT GEO  WILD
-http://iptvtool.es:9977/live/JESUS/JESUS/37000.m3u8
-#EXTINF:-1,NAT GEO FULLHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37003.m3u8
-#EXTINF:-1,NAT GEO WILD FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37001.m3u8
-#EXTINF:-1,NEOX
-http://iptvtool.es:9977/live/JESUS/JESUS/37055.m3u8
-#EXTINF:-1,NICK JR
-http://iptvtool.es:9977/live/JESUS/JESUS/37004.m3u8
-#EXTINF:-1,NICKELODEON
-http://iptvtool.es:9977/live/JESUS/JESUS/37005.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://iptvtool.es:9977/live/JESUS/JESUS/37006.m3u8
-#EXTINF:-1,ODISEA
-http://iptvtool.es:9977/live/JESUS/JESUS/36989.m3u8
-#EXTINF:-1,PANDA
-http://iptvtool.es:9977/live/JESUS/JESUS/37018.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://iptvtool.es:9977/live/JESUS/JESUS/37061.m3u8
-#EXTINF:-1,SOL Music
-http://iptvtool.es:9977/live/JESUS/JESUS/36974.m3u8
-#EXTINF:-1,SOMOS
-http://iptvtool.es:9977/live/JESUS/JESUS/37047.m3u8
-#EXTINF:-1,SUNDANCE
-http://iptvtool.es:9977/live/JESUS/JESUS/36976.m3u8
-#EXTINF:-1,SUNDANCE FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/36975.m3u8
-#EXTINF:-1,SYFY
-http://iptvtool.es:9977/live/JESUS/JESUS/37067.m3u8
-#EXTINF:-1,SYFY FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37066.m3u8
-#EXTINF:-1,TCM
-http://iptvtool.es:9977/live/JESUS/JESUS/37059.m3u8
-#EXTINF:-1,TCM FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37058.m3u8
-#EXTINF:-1,TEN
-http://iptvtool.es:9977/live/JESUS/JESUS/36982.m3u8
+#EXTINF:-1,Fox
+http://xxultraxx.com:80/uu123456/uu123456/1389
+#EXTINF:-1,#0
+http://xxultraxx.com:80/uu123456/uu123456/3062
+#EXTINF:-1,24 Horas
+http://xxultraxx.com:80/uu123456/uu123456/1408
+#EXTINF:-1,A&E
+http://xxultraxx.com:80/uu123456/uu123456/3051
+#EXTINF:-1,Amc
+http://xxultraxx.com:80/uu123456/uu123456/4641
+#EXTINF:-1,Andalucia
+http://xxultraxx.com:80/uu123456/uu123456/4647
+#EXTINF:-1,Antena3
+http://xxultraxx.com:80/uu123456/uu123456/1403
+#EXTINF:-1,Axn
+http://xxultraxx.com:80/uu123456/uu123456/1390
+#EXTINF:-1,Axn White
+http://xxultraxx.com:80/uu123456/uu123456/1391
+#EXTINF:-1,Barca TV
+http://xxultraxx.com:80/uu123456/uu123456/1378
+#EXTINF:-1,beIN Liga
+http://xxultraxx.com:80/uu123456/uu123456/4643
+#EXTINF:-1,beIN Sport
+http://xxultraxx.com:80/uu123456/uu123456/4642
+#EXTINF:-1,Calle13
+http://xxultraxx.com:80/uu123456/uu123456/1394
+#EXTINF:-1,Caza.Y.Pesca
+http://xxultraxx.com:80/uu123456/uu123456/3061
+#EXTINF:-1,Clan
+http://xxultraxx.com:80/uu123456/uu123456/3060
+#EXTINF:-1,Cocina
+http://xxultraxx.com:80/uu123456/uu123456/3049
+#EXTINF:-1,Comedy Central
+http://xxultraxx.com:80/uu123456/uu123456/3050
+#EXTINF:-1,Cosmo
+http://xxultraxx.com:80/uu123456/uu123456/4648
+#EXTINF:-1,Cuatro
+http://xxultraxx.com:80/uu123456/uu123456/3063
+#EXTINF:-1,Discovery
+http://xxultraxx.com:80/uu123456/uu123456/3066
+#EXTINF:-1,Disney
+http://xxultraxx.com:80/uu123456/uu123456/3057
+#EXTINF:-1,Disney JR
+http://xxultraxx.com:80/uu123456/uu123456/3059
+#EXTINF:-1,Disney XD
+http://xxultraxx.com:80/uu123456/uu123456/3058
+#EXTINF:-1,Energy
+http://xxultraxx.com:80/uu123456/uu123456/4644
+#EXTINF:-1,F Spain
+http://xxultraxx.com:80/uu123456/uu123456/4646
+#EXTINF:-1,Fox Life
+http://xxultraxx.com:80/uu123456/uu123456/1385
+#EXTINF:-1,Historia
+http://xxultraxx.com:80/uu123456/uu123456/1386
+#EXTINF:-1,Hollywood
+http://xxultraxx.com:80/uu123456/uu123456/1392
+#EXTINF:-1,LaSexta
+http://xxultraxx.com:80/uu123456/uu123456/1379
+#EXTINF:-1,LA_1
+http://xxultraxx.com:80/uu123456/uu123456/1405
+#EXTINF:-1,LA_2
+http://xxultraxx.com:80/uu123456/uu123456/1406
+#EXTINF:-1,Mega
+http://xxultraxx.com:80/uu123456/uu123456/1404
+#EXTINF:-1,Neox
+http://xxultraxx.com:80/uu123456/uu123456/3065
+#EXTINF:-1,NickeLodeon
+http://xxultraxx.com:80/uu123456/uu123456/3056
+#EXTINF:-1,Nova
+http://xxultraxx.com:80/uu123456/uu123456/3055
+#EXTINF:-1,ODIsea
+http://xxultraxx.com:80/uu123456/uu123456/3064
+#EXTINF:-1,Paramount
+http://xxultraxx.com:80/uu123456/uu123456/3052
+#EXTINF:-1,Real Madrid
+http://xxultraxx.com:80/uu123456/uu123456/1407
+#EXTINF:-1,SyFy
+http://xxultraxx.com:80/uu123456/uu123456/1393
+#EXTINF:-1,Tcm
+http://xxultraxx.com:80/uu123456/uu123456/4640
+#EXTINF:-1,Telecinco
+http://xxultraxx.com:80/uu123456/uu123456/4645
 #EXTINF:-1,TNT
-http://iptvtool.es:9977/live/JESUS/JESUS/37073.m3u8
-#EXTINF:-1,TNT FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37072.m3u8
-#EXTINF:-1,TV 13
-http://iptvtool.es:9977/live/JESUS/JESUS/37053.m3u8
+http://xxultraxx.com:80/uu123456/uu123456/4639
+#EXTINF:-1,Toros
+http://xxultraxx.com:80/uu123456/uu123456/3054
+#EXTINF:-1,Movie* Accion
+http://xxultraxx.com:80/uu123456/uu123456/1381
+#EXTINF:-1,Movie* Comedia
+http://xxultraxx.com:80/uu123456/uu123456/1382
+#EXTINF:-1,Nick JR
+http://xxultraxx.com:80/uu123456/uu123456/25663
+#EXTINF:-1,MTV Music
+http://xxultraxx.com:80/uu123456/uu123456/25664
+#EXTINF:-1,Vamos
+http://xxultraxx.com:80/uu123456/uu123456/25654
+#EXTINF:-1,Antena 3 ᴴᴰ
+http://xxultraxx.com:80/uu123456/uu123456/25670
+#EXTINF:-1,LA 1 ᴴᴰ
+http://xxultraxx.com:80/uu123456/uu123456/25668
+#EXTINF:-1,LA 2 ᴴᴰ
+http://xxultraxx.com:80/uu123456/uu123456/25669
+#EXTINF:-1,tdp
+http://xxultraxx.com:80/uu123456/uu123456/25641
+#EXTINF:-1,A3Series
+http://xxultraxx.com:80/uu123456/uu123456/25640
+#EXTINF:-1,Aragon
+http://xxultraxx.com:80/uu123456/uu123456/25642
+#EXTINF:-1,Blaze
+http://xxultraxx.com:80/uu123456/uu123456/25633
+#EXTINF:-1,Boing
+http://xxultraxx.com:80/uu123456/uu123456/25632
+#EXTINF:-1,Canal SUR
+http://xxultraxx.com:80/uu123456/uu123456/25652
+#EXTINF:-1,Classica
+http://xxultraxx.com:80/uu123456/uu123456/25634
+#EXTINF:-1,Crime Investigation
+http://xxultraxx.com:80/uu123456/uu123456/25651
+#EXTINF:-1,Decasa
+http://xxultraxx.com:80/uu123456/uu123456/25636
+#EXTINF:-1,Divinity
+http://xxultraxx.com:80/uu123456/uu123456/25637
+#EXTINF:-1,Movie* Formula1
+http://xxultraxx.com:80/uu123456/uu123456/25638
+#EXTINF:-1,Orbe21
+http://xxultraxx.com:80/uu123456/uu123456/25639
+#EXTINF:-1,Gol Tv
+http://xxultraxx.com:80/uu123456/uu123456/25628
+#EXTINF:-1,LaLiga123
+http://xxultraxx.com:80/uu123456/uu123456/25643
+#EXTINF:-1,Iberalia
+http://xxultraxx.com:80/uu123456/uu123456/25629
+#EXTINF:-1,Movie* Seriesmania
+http://xxultraxx.com:80/uu123456/uu123456/25630
+#EXTINF:-1,Panda
+http://xxultraxx.com:80/uu123456/uu123456/25644
+#EXTINF:-1,Movie* Drama
+http://xxultraxx.com:80/uu123456/uu123456/25650
+#EXTINF:-1,Sundance
+http://xxultraxx.com:80/uu123456/uu123456/25645
+#EXTINF:-1,Ten
+http://xxultraxx.com:80/uu123456/uu123456/25648
 #EXTINF:-1,Viajar
-http://iptvtool.es:9977/live/JESUS/JESUS/36996.m3u8
-#EXTINF:-1,VIAJAR FULLHD
-http://iptvtool.es:9977/live/JESUS/JESUS/36995.m3u8
-#EXTINF:-1,XTRM
-http://iptvtool.es:9977/live/JESUS/JESUS/37048.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://iptvtool.es:9977/live/JESUS/JESUS/37071.m3u8
-#EXTINF:-1, HOLLYWOOD FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37070.m3u8
-#EXTINF:-1, BOING
-http://iptvtool.es:9977/live/JESUS/JESUS/37016.m3u8
-#EXTINF:-1, NOVA
-http://iptvtool.es:9977/live/JESUS/JESUS/37054.m3u8
-#EXTINF:-1,24 HORAS
-http://iptvtool.es:9977/live/JESUS/JESUS/36981.m3u8
-#EXTINF:-1,8Tv
-http://iptvtool.es:9977/live/JESUS/JESUS/36980.m3u8
-#EXTINF:-1,A3SERIES
-http://iptvtool.es:9977/live/JESUS/JESUS/37056.m3u8
-#EXTINF:-1,AMC
-http://iptvtool.es:9977/live/JESUS/JESUS/37080.m3u8
-#EXTINF:-1,AMC FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37079.m3u8
-#EXTINF:-1,ANDALUCIA TV
-http://iptvtool.es:9977/live/JESUS/JESUS/36979.m3u8
-#EXTINF:-1,ARAGON TV
-http://iptvtool.es:9977/live/JESUS/JESUS/36978.m3u8
-#EXTINF:-1,AXN
-http://iptvtool.es:9977/live/JESUS/JESUS/37085.m3u8
-#EXTINF:-1,AXN  WHITE
-http://iptvtool.es:9977/live/JESUS/JESUS/37083.m3u8
-#EXTINF:-1,AXN  WHITE FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37082.m3u8
-#EXTINF:-1,AXN FULL HD
-http://iptvtool.es:9977/live/JESUS/JESUS/37084.m3u8
-#EXTINF:-1,BABY  TV
-http://iptvtool.es:9977/live/JESUS/JESUS/37007.m3u8
-#EXTINF:-1,BARCA TV
-http://iptvtool.es:9977/live/JESUS/JESUS/37020.m3u8
-#EXTINF:-1,BE MAD FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/36985.m3u8
-#EXTINF:-1,BLAZE
-http://iptvtool.es:9977/live/JESUS/JESUS/36969.m3u8
-#EXTINF:-1,CALLE 13
-http://iptvtool.es:9977/live/JESUS/JESUS/37069.m3u8
-#EXTINF:-1,CALLE 13 FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37068.m3u8
-#EXTINF:-1,CAZA  Y PESCA
-http://iptvtool.es:9977/live/JESUS/JESUS/36994.m3u8
-#EXTINF:-1,CAZA Y PESCA HD
-http://iptvtool.es:9977/live/JESUS/JESUS/36993.m3u8
-#EXTINF:-1,CI
-http://iptvtool.es:9977/live/JESUS/JESUS/36997.m3u8
-#EXTINF:-1,CLAN
-http://iptvtool.es:9977/live/JESUS/JESUS/37009.m3u8
-#EXTINF:-1,CLAN HD
-http://iptvtool.es:9977/live/JESUS/JESUS/37008.m3u8
-#EXTINF:-1,COCINA
-http://iptvtool.es:9977/live/JESUS/JESUS/36991.m3u8
-#EXTINF:-1,COCINA FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/36990.m3u8
-#EXTINF:-1,COMEDY  CENTRAL
-http://iptvtool.es:9977/live/JESUS/JESUS/37063.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://iptvtool.es:9977/live/JESUS/JESUS/37062.m3u8
-#EXTINF:-1,COSMOPOLITAN  FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37064.m3u8
-#EXTINF:-1,COSMOS
-http://iptvtool.es:9977/live/JESUS/JESUS/37065.m3u8
-#EXTINF:-1,DARK
-http://iptvtool.es:9977/live/JESUS/JESUS/37049.m3u8
-#EXTINF:-1,DECASA
-http://iptvtool.es:9977/live/JESUS/JESUS/36988.m3u8
-#EXTINF:-1,MOVISTAR  DISNEY
-http://iptvtool.es:9977/live/JESUS/JESUS/37043.m3u8
-#EXTINF:-1,DISCOVERY  CHANNEL
-http://iptvtool.es:9977/live/JESUS/JESUS/36992.m3u8
-#EXTINF:-1,DISNEY  JUNIOR
-http://iptvtool.es:9977/live/JESUS/JESUS/37013.m3u8
-#EXTINF:-1,DISNEY  XD
-http://iptvtool.es:9977/live/JESUS/JESUS/37014.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://iptvtool.es:9977/live/JESUS/JESUS/37011.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://iptvtool.es:9977/live/JESUS/JESUS/37010.m3u8
-#EXTINF:-1,DIVINITY
-http://iptvtool.es:9977/live/JESUS/JESUS/37057.m3u8
-#EXTINF:-1,DKISS
-http://iptvtool.es:9977/live/JESUS/JESUS/36977.m3u8
-#EXTINF:-1,DMAX
-http://iptvtool.es:9977/live/JESUS/JESUS/36984.m3u8
-#EXTINF:-1,ENERGY
-http://iptvtool.es:9977/live/JESUS/JESUS/37051.m3u8
-#EXTINF:-1,FDF
-http://iptvtool.es:9977/live/JESUS/JESUS/37052.m3u8
-#EXTINF:-1,FOX
-http://iptvtool.es:9977/live/JESUS/JESUS/37077.m3u8
-#EXTINF:-1,FOX FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37076.m3u8
-#EXTINF:-1,FOX LIFE
-http://iptvtool.es:9977/live/JESUS/JESUS/37075.m3u8
-#EXTINF:-1,FOX LIFE FHD
-http://iptvtool.es:9977/live/JESUS/JESUS/37074.m3u8
-#EXTINF:-1,HIT TV
-http://iptvtool.es:9977/live/JESUS/JESUS/36986.m3u8
-#EXTINF:-1,MEGA
-http://iptvtool.es:9977/live/JESUS/JESUS/37050.m3u8
-#EXTINF:-1,MEZZO LIVE
-http://iptvtool.es:9977/live/JESUS/JESUS/36973.m3u8
-#EXTINF:-1,MEZZO LIVE FULL HD
-http://iptvtool.es:9977/live/JESUS/JESUS/36972.m3u8
+http://xxultraxx.com:80/uu123456/uu123456/25627
+#EXTINF:-1,Movie* Fama 24
+http://xxultraxx.com:80/uu123456/uu123456/25626
+#EXTINF:-1,13 TV
+http://xxultraxx.com:80/uu123456/uu123456/25656
+#EXTINF:-1,Baby
+http://xxultraxx.com:80/uu123456/uu123456/25658
+#EXTINF:-1,Be Mad
+http://xxultraxx.com:80/uu123456/uu123456/25657
+#EXTINF:-1,Fox News
+http://xxultraxx.com:80/uu123456/uu123456/25655
+#EXTINF:-1,Movie* Disney
+http://xxultraxx.com:80/uu123456/uu123456/25653
+#EXTINF:-1,Eurosport 1
+http://xxultraxx.com:80/uu123456/uu123456/25659
+#EXTINF:-1,Eurosport 2
+http://xxultraxx.com:80/uu123456/uu123456/25660
+#EXTINF:-1,Mezzo
+http://xxultraxx.com:80/uu123456/uu123456/25661
