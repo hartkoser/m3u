@@ -1,123 +1,745 @@
 #EXTM3U
-#EXTINF:-1,13EMESTR
-http://s1.platinumhostingtech.com:80/live/rose/rose/50235.m3u8
-#EXTINF:-1,6TER
-http://s1.platinumhostingtech.com:80/live/rose/rose/50234.m3u8
-#EXTINF:-1,A La Carte 1
-http://s1.platinumhostingtech.com:80/live/rose/rose/50233.m3u8
-#EXTINF:-1,A La Carte 2
-http://s1.platinumhostingtech.com:80/live/rose/rose/50232.m3u8
-#EXTINF:-1,A La Carte 3
-http://s1.platinumhostingtech.com:80/live/rose/rose/50231.m3u8
-#EXTINF:-1,A La Carte 4
-http://s1.platinumhostingtech.com:80/live/rose/rose/50230.m3u8
-#EXTINF:-1,A La Carte 5
-http://s1.platinumhostingtech.com:80/live/rose/rose/50229.m3u8
-#EXTINF:-1,A La Carte 6
-http://s1.platinumhostingtech.com:80/live/rose/rose/50228.m3u8
-#EXTINF:-1,A La Carte 7
-http://s1.platinumhostingtech.com:80/live/rose/rose/50227.m3u8
-#EXTINF:-1,Action
-http://s1.platinumhostingtech.com:80/live/rose/rose/50225.m3u8
-#EXTINF:-1,Animaux
-http://s1.platinumhostingtech.com:80/live/rose/rose/50224.m3u8
+#EXTINF:-1,ANIMAUX FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198616
+#EXTINF:-1,USHUAIA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198637
+#EXTINF:-1,Africa 24
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88552
+#EXTINF:-1,beIN Sports 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198126
+#EXTINF:-1,beIN Sports 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198131
+#EXTINF:-1,beIN Sports 3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198125
+#EXTINF:-1,CINE+ CLASSIC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65800
+#EXTINF:-1,Clubbing TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/120001
+#EXTINF:-1,CRIME DISTRICT HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86397
+#EXTINF:-1,GONG MAX HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/114502
+#EXTINF:-1,GRAND LILLE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/100256
+#EXTINF:-1,M6 MUSIC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65676
+#EXTINF:-1,MCM TOP HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/163519
+#EXTINF:-1,MotorSport HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150349
+#EXTINF:-1,MTV HITS FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65694
+#EXTINF:-1,NOLLYWOOD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139956
+#EXTINF:-1,NRJ 12 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150764
+#EXTINF:-1,NRJ HIT HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62288
+#EXTINF:-1,OCS Go Cine 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/103363
+#EXTINF:-1,OCS GO CINE 4 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/196588
+#EXTINF:-1,Orange Comment CEst Fait HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/128286
+#EXTINF:-1,RMC SPORT 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208687
+#EXTINF:-1,RMC SPORT 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208689
+#EXTINF:-1,RMC SPORT 3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208691
+#EXTINF:-1,RMC SPORT 4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208693
+#EXTINF:-1,TRACE Kitoko
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199158
+#EXTINF:-1,TRACE LATINA
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208205
+#EXTINF:-1,TRACE Toca HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/192987
+#EXTINF:-1,TRACE TOPICAL
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/103086
+#EXTINF:-1,TRACE URBAN FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86443
+#EXTINF:-1,13EME RUE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98157
+#EXTINF:-1,6TER HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/126499
+#EXTINF:-1,A LA CARTE 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/87485
+#EXTINF:-1,A LA CARTE 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/119366
+#EXTINF:-1,A LA CARTE 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65846
+#EXTINF:-1,A LA CARTE 4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/158103
+#EXTINF:-1,A LA CARTE 5
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/119367
+#EXTINF:-1,A LA CARTE 6
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/158104
+#EXTINF:-1,A LA CARTE 7
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63572
+#EXTINF:-1,A LA CARTE 8
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88640
+#EXTINF:-1,A LA CARTE 9
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88641
+#EXTINF:-1,A LA CARTE 10
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/87494
+#EXTINF:-1,A LA CARTE 11
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88642
+#EXTINF:-1,AB EXPLORE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208160
+#EXTINF:-1,AB1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65831
+#EXTINF:-1,AB3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65830
+#EXTINF:-1,ACTION FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62340
+#EXTINF:-1,Alpha Ju HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91158
+#EXTINF:-1,Alsace 20 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65703
+#EXTINF:-1,ALTICE STUDIO FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88506
+#EXTINF:-1,ANIMAUX FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62339
+#EXTINF:-1,ANIMAUX HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198648
+#EXTINF:-1,Antenne Reunion
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/155685
 #EXTINF:-1,ARTE HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50226.m3u8
-#EXTINF:-1,beIN MAX 10 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50176.m3u8
-#EXTINF:-1,beIN MAX 4 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50182.m3u8
-#EXTINF:-1,beIN MAX 5 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50181.m3u8
-#EXTINF:-1,beIN MAX 6 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50180.m3u8
-#EXTINF:-1,beIN MAX 7 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50179.m3u8
-#EXTINF:-1,beIN MAX 8 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50178.m3u8
-#EXTINF:-1,beIN MAX 9 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50177.m3u8
-#EXTINF:-1,Bein Sports 1
-http://s1.platinumhostingtech.com:80/live/rose/rose/50185.m3u8
-#EXTINF:-1,Bein Sports 2
-http://s1.platinumhostingtech.com:80/live/rose/rose/50184.m3u8
-#EXTINF:-1,Bein Sports 3
-http://s1.platinumhostingtech.com:80/live/rose/rose/50183.m3u8
-#EXTINF:-1,Canal
-http://s1.platinumhostingtech.com:80/live/rose/rose/50216.m3u8
-#EXTINF:-1,Canal   Sport
-http://s1.platinumhostingtech.com:80/live/rose/rose/50217.m3u8
-#EXTINF:-1,Canal  Cinema
-http://s1.platinumhostingtech.com:80/live/rose/rose/50215.m3u8
-#EXTINF:-1,Canal  Decale
-http://s1.platinumhostingtech.com:80/live/rose/rose/50214.m3u8
-#EXTINF:-1,Canal  Family
-http://s1.platinumhostingtech.com:80/live/rose/rose/50213.m3u8
-#EXTINF:-1,Canal  Series
-http://s1.platinumhostingtech.com:80/live/rose/rose/50212.m3u8
-#EXTINF:-1,Chasse&Peche Peche
-http://s1.platinumhostingtech.com:80/live/rose/rose/50211.m3u8
-#EXTINF:-1,Cherie 25
-http://s1.platinumhostingtech.com:80/live/rose/rose/50210.m3u8
-#EXTINF:-1,CINE  Classic
-http://s1.platinumhostingtech.com:80/live/rose/rose/50222.m3u8
-#EXTINF:-1,CINE  CLUB HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50223.m3u8
-#EXTINF:-1,CINE  FAMIZ
-http://s1.platinumhostingtech.com:80/live/rose/rose/50221.m3u8
-#EXTINF:-1,CINE  FRISSON
-http://s1.platinumhostingtech.com:80/live/rose/rose/50220.m3u8
-#EXTINF:-1,CINE  Polar
-http://s1.platinumhostingtech.com:80/live/rose/rose/50218.m3u8
-#EXTINF:-1,CINE  PREMIER
-http://s1.platinumhostingtech.com:80/live/rose/rose/50219.m3u8
-#EXTINF:-1,Discovery Channel
-http://s1.platinumhostingtech.com:80/live/rose/rose/50209.m3u8
-#EXTINF:-1,Disney Jr
-http://s1.platinumhostingtech.com:80/live/rose/rose/50208.m3u8
-#EXTINF:-1,Euronews
-http://s1.platinumhostingtech.com:80/live/rose/rose/50207.m3u8
-#EXTINF:-1,France 0
-http://s1.platinumhostingtech.com:80/live/rose/rose/50206.m3u8
-#EXTINF:-1,France 2
-http://s1.platinumhostingtech.com:80/live/rose/rose/50205.m3u8
-#EXTINF:-1,France 24
-http://s1.platinumhostingtech.com:80/live/rose/rose/50201.m3u8
-#EXTINF:-1,France 3
-http://s1.platinumhostingtech.com:80/live/rose/rose/50204.m3u8
-#EXTINF:-1,France 4
-http://s1.platinumhostingtech.com:80/live/rose/rose/50203.m3u8
-#EXTINF:-1,France 5
-http://s1.platinumhostingtech.com:80/live/rose/rose/50202.m3u8
-#EXTINF:-1,L'Equipe 21
-http://s1.platinumhostingtech.com:80/live/rose/rose/50200.m3u8
-#EXTINF:-1,M6
-http://s1.platinumhostingtech.com:80/live/rose/rose/50199.m3u8
-#EXTINF:-1,Mangas
-http://s1.platinumhostingtech.com:80/live/rose/rose/50198.m3u8
-#EXTINF:-1,National Geo Wild
-http://s1.platinumhostingtech.com:80/live/rose/rose/50197.m3u8
-#EXTINF:-1,National Geographic
-http://s1.platinumhostingtech.com:80/live/rose/rose/50196.m3u8
-#EXTINF:-1,Paris Premiere
-http://s1.platinumhostingtech.com:80/live/rose/rose/50195.m3u8
-#EXTINF:-1,Planet CI
-http://s1.platinumhostingtech.com:80/live/rose/rose/50194.m3u8
-#EXTINF:-1,RTL 9
-http://s1.platinumhostingtech.com:80/live/rose/rose/50193.m3u8
-#EXTINF:-1,SFR Sports 1 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50188.m3u8
-#EXTINF:-1,SFR Sports 2 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50187.m3u8
-#EXTINF:-1,SFR Sports 3 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/50186.m3u8
-#EXTINF:-1,TCM
-http://s1.platinumhostingtech.com:80/live/rose/rose/50192.m3u8
-#EXTINF:-1,TF1
-http://s1.platinumhostingtech.com:80/live/rose/rose/50191.m3u8
-#EXTINF:-1,Ushuaia TV
-http://s1.platinumhostingtech.com:80/live/rose/rose/50190.m3u8
-#EXTINF:-1,Voyage
-http://s1.platinumhostingtech.com:80/live/rose/rose/50189.m3u8
-#EXTINF:-1,W9
-http://s1.platinumhostingtech.com:80/live/rose/rose/50175.m3u8
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/157241
+#EXTINF:-1,ASSEMBLE NATIONALE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199019
+#EXTINF:-1,AUTOMOTO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208210
+#EXTINF:-1,BE CURIOUS
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208185
+#EXTINF:-1,beIN Sports 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62335
+#EXTINF:-1,beIN Sports 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62336
+#EXTINF:-1,beIN Sports 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63602
+#EXTINF:-1,beIN Sports max 4 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160280
+#EXTINF:-1,beIN Sports Max 5 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160281
+#EXTINF:-1,beIN Sports Max 6 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160282
+#EXTINF:-1,beIN Sports Max 7 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74988
+#EXTINF:-1,beIN Sports MAX 8 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160284
+#EXTINF:-1,beIN Sports MAX 9 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160285
+#EXTINF:-1,beIN Sports Max 10 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/164422
+#EXTINF:-1,BET FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91886
+#EXTINF:-1,BFM Business HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/96129
+#EXTINF:-1,BFM HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62333
+#EXTINF:-1,BFM PARIS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/103088
+#EXTINF:-1,Black Classic
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91876
+#EXTINF:-1,BOING FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150705
+#EXTINF:-1,BOOMERANG HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/90270
+#EXTINF:-1,BOX OFFICE 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86373
+#EXTINF:-1,BOX OFFICE 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86374
+#EXTINF:-1,BOX OFFICE 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86375
+#EXTINF:-1,BOX OFFICE 4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86376
+#EXTINF:-1,BOX OFFICE 5
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86377
+#EXTINF:-1,BOX OFFICE 6
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86378
+#EXTINF:-1,BOX OFFICE 7
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/105297
+#EXTINF:-1,BOX OFFICE 8
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/159092
+#EXTINF:-1,BOX OFFICE 9
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/105299
+#EXTINF:-1,BOX OFFICE 10
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/129515
+#EXTINF:-1,BOX OFFICE 11
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/129516
+#EXTINF:-1,BOX OFFICE 12
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/129517
+#EXTINF:-1,BOX OFFICE 13
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/159097
+#EXTINF:-1,BOX OFFICE 14
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/146443
+#EXTINF:-1,BOX OFFICE 15
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/129519
+#EXTINF:-1,BOX OFFICE ANIMATION
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/129525
+#EXTINF:-1,BOX OFFICE HORREUR
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/129527
+#EXTINF:-1,BOX OFFICE ROMANCE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/129528
+#EXTINF:-1,BRAVA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88602
+#EXTINF:-1,C STAR HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/156002
+#EXTINF:-1,C-NEWS
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86379
+#EXTINF:-1,C8 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86398
+#EXTINF:-1,CANAL CINEMA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213380
+#EXTINF:-1,Canal Play 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/87517
+#EXTINF:-1,Canal Play 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73739
+#EXTINF:-1,Canal Play 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73740
+#EXTINF:-1,Canal Play 4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73741
+#EXTINF:-1,Canal Play 5
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73742
+#EXTINF:-1,Canal Play 6
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/87523
+#EXTINF:-1,Canal Play 7
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/87524
+#EXTINF:-1,Canal Play 8
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73745
+#EXTINF:-1,Canal Play 9
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73746
+#EXTINF:-1,Canal Play 10
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/87518
+#EXTINF:-1,Canal Play 11
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91887
+#EXTINF:-1,Canal Play 12
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/119178
+#EXTINF:-1,Canal Play 13
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91889
+#EXTINF:-1,Canal Play 14
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91890
+#EXTINF:-1,Canal Play 15
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91891
+#EXTINF:-1,CANAL SERIES HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209115
+#EXTINF:-1,CANAL+ CINEMA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98097
+#EXTINF:-1,CANAL+ DECALE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94525
+#EXTINF:-1,CANAL+ Emotion HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/76231
+#EXTINF:-1,CANAL+ FAMILY HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62328
+#EXTINF:-1,CANAL+ HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62327
+#EXTINF:-1,CANAL+ J HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94520
+#EXTINF:-1,CANAL+ Premier HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/76235
+#EXTINF:-1,CANAL+ SERIE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98100
+#EXTINF:-1,CANAL+ SPORT 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/212079
+#EXTINF:-1,CANAL+ SPORT FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65682
+#EXTINF:-1,Cartoon Network FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62323
+#EXTINF:-1,CHASSE & PECHE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62322
+#EXTINF:-1,CHASSE ET PECHE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199030
+#EXTINF:-1,CHERIE 25 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98086
+#EXTINF:-1,CINE+ CLUB HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62320
+#EXTINF:-1,CINE+ Comedy HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65796
+#EXTINF:-1,CINE+ EMOTION HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62319
+#EXTINF:-1,CINE+ FAMIZ FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94516
+#EXTINF:-1,CINE+ FRISSON FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62318
+#EXTINF:-1,CINE+ FX HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62317
+#EXTINF:-1,CINE+ POLAR HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62316
+#EXTINF:-1,CINE+ PREMIER FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65804
+#EXTINF:-1,CINE+ Star HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65799
+#EXTINF:-1,CNN International
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/114537
+#EXTINF:-1,COMEDIE+ HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208172
+#EXTINF:-1,COMEDY CENTRAL
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206363
+#EXTINF:-1,CTV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208176
+#EXTINF:-1,DAVINCI LEARNING
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/149177
+#EXTINF:-1,Discovery Channel FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65685
+#EXTINF:-1,Discovery FAMILY FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/105282
+#EXTINF:-1,Discovery INVESTIGATION FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/147524
+#EXTINF:-1,Discovery SCIENCE FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/70174
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62313
+#EXTINF:-1,DISNEY CINEMA FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65786
+#EXTINF:-1,DISNEY CINEMAGIC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139089
+#EXTINF:-1,DISNEY JUNIOR FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65775
+#EXTINF:-1,DISNEY XD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62312
+#EXTINF:-1,E! FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98161
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/127942
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139511
+#EXTINF:-1,ELEVEN SPORTS 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/152552
+#EXTINF:-1,ELLE GIRL HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88381
+#EXTINF:-1,EQUIDIA LIVE FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65826
+#EXTINF:-1,EURONEWS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/154438
+#EXTINF:-1,EUROSPORT 1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73680
+#EXTINF:-1,EUROSPORT 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74650
+#EXTINF:-1,EXTREME SPORTS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86411
+#EXTINF:-1,FASHION FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/157347
+#EXTINF:-1,FOOT 24 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62310
+#EXTINF:-1,FOOT 24/24 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/127025
+#EXTINF:-1,FRACNCE 2 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/64354
+#EXTINF:-1,FRANCE 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/118958
+#EXTINF:-1,FRANCE 3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/127908
+#EXTINF:-1,FRANCE 4 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/145076
+#EXTINF:-1,FRANCE 5 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62067
+#EXTINF:-1,FRANCE 24 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/63189
+#EXTINF:-1,FRANCE Info HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88551
+#EXTINF:-1,FRANCEO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94483
+#EXTINF:-1,Francophonie 24
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160305
+#EXTINF:-1,GAME ONE FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73683
+#EXTINF:-1,GOLF CHANNEL HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88582
+#EXTINF:-1,Gong TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65701
+#EXTINF:-1,GULLI FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62301
+#EXTINF:-1,HISTOIRE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/197523
+#EXTINF:-1,HISTOIRY HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65686
+#EXTINF:-1,HIT TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208194
+#EXTINF:-1,i Tele HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/169042
+#EXTINF:-1,I-24 NEWS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/103067
+#EXTINF:-1,INFO SPORT FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98133
+#EXTINF:-1,J ONE FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91898
+#EXTINF:-1,KOMBAT SPORTS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98129
+#EXTINF:-1,KTO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91899
+#EXTINF:-1,L EQUIPE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/139099
+#EXTINF:-1,LA CHAINE NORMANDIE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65700
+#EXTINF:-1,LA Chaine Parlementaire HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160303
+#EXTINF:-1,La Tele
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91174
+#EXTINF:-1,LCI FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73686
+#EXTINF:-1,LCP HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65819
+#EXTINF:-1,Leman Bleu
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91175
+#EXTINF:-1,LFM TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/163516
+#EXTINF:-1,LUCKY JACK HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/176051
+#EXTINF:-1,LUXE TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88558
+#EXTINF:-1,M6 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62296
+#EXTINF:-1,MANGAS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62030
+#EXTINF:-1,MCM HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73687
+#EXTINF:-1,MCM POP
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94149
+#EXTINF:-1,MEZZO LIVE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88605
+#EXTINF:-1,MTV BASE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88592
+#EXTINF:-1,MTV Dance HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/153595
+#EXTINF:-1,MTV FRANCE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65695
+#EXTINF:-1,MTV Music
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/101140
+#EXTINF:-1,MTV ROCK
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208201
+#EXTINF:-1,MY CUISINE FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98155
+#EXTINF:-1,My sports 4 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/132745
+#EXTINF:-1,My Sports 5 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/132746
+#EXTINF:-1,MYCOMEDY
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208174
+#EXTINF:-1,MYSPORTS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/123426
+#EXTINF:-1,NAT GEO FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62290
+#EXTINF:-1,NAT GEO WILD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/74834
+#EXTINF:-1,NICK 4TEEN FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88569
+#EXTINF:-1,NICKELODEON FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/153579
+#EXTINF:-1,NICKELODEON JUNIOR
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62289
+#EXTINF:-1,NICKELODEON TEEN
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209344
+#EXTINF:-1,NOVELAS FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/149156
+#EXTINF:-1,NT 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/157185
+#EXTINF:-1,NUMERO 23 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/157233
+#EXTINF:-1,OCS CHOC FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/145098
+#EXTINF:-1,OCS City HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/197381
+#EXTINF:-1,OCS GEANT FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62282
+#EXTINF:-1,OCS Go Cine 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/102862
+#EXTINF:-1,OCS Go Cine 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/103365
+#EXTINF:-1,OCS Go Cine 5 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/103367
+#EXTINF:-1,OCS MAX FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/145095
+#EXTINF:-1,OLTV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/96203
+#EXTINF:-1,ONE TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/120842
+#EXTINF:-1,Orange Cinema 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91908
+#EXTINF:-1,Orange Cinema 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91909
+#EXTINF:-1,Orange Cinema 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91910
+#EXTINF:-1,Orange Cinema 4 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91911
+#EXTINF:-1,Orange Cinema 5 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91912
+#EXTINF:-1,ORANGE CINEMA 6 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/129901
+#EXTINF:-1,Orange Cinema 7 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91914
+#EXTINF:-1,ORANGE Cinema ACTION HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/87561
+#EXTINF:-1,Orange Cinema Aventure HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94502
+#EXTINF:-1,Orange Cinema COMEDY HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160371
+#EXTINF:-1,Orange Cinema DISNEY HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160372
+#EXTINF:-1,Orange Cinema DOCUMENTAIRE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160373
+#EXTINF:-1,Orange Cinema ENQUETE EXCLUSIVE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160374
+#EXTINF:-1,Orange Cinema Horreur HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/94497
+#EXTINF:-1,ORANGE DISNEY 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160383
+#EXTINF:-1,ORANGE DISNEY 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160384
+#EXTINF:-1,ORANGE DISNEY 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160385
+#EXTINF:-1,ORANGE DISNEY 4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160386
+#EXTINF:-1,ORANGE DISNEY 5
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160387
+#EXTINF:-1,ORANGE DISNEY 6
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160388
+#EXTINF:-1,Orange Premium 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160375
+#EXTINF:-1,Orange Premium 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160376
+#EXTINF:-1,Orange Premium 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160377
+#EXTINF:-1,Orange Premium 4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160378
+#EXTINF:-1,Orange Premium 5
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160379
+#EXTINF:-1,Orange Premium 6
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160380
+#EXTINF:-1,Orange Premium 7
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160381
+#EXTINF:-1,Orange Premium 8
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160382
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/149151
+#EXTINF:-1,PARIS PREMIERE FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/157178
+#EXTINF:-1,PIWI FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65785
+#EXTINF:-1,PLANETE+ A&E HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/90254
+#EXTINF:-1,PLANETE+ CI HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/197675
+#EXTINF:-1,PLANETE+ HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209342
+#EXTINF:-1,POLAR HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/176029
+#EXTINF:-1,PORTALFOX MIX
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208203
+#EXTINF:-1,PUBLIC SENAT
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/157224
+#EXTINF:-1,QVC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91916
+#EXTINF:-1,Radio 105 TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/176019
+#EXTINF:-1,RFM TV HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/90274
+#EXTINF:-1,RMC Decouverte HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150775
+#EXTINF:-1,RMC SPORT 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/116454
+#EXTINF:-1,RMC SPORT 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91918
+#EXTINF:-1,RMC SPORT 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91919
+#EXTINF:-1,RMC SPORT 4 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/120878
+#EXTINF:-1,RMC SPORT 5 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65662
+#EXTINF:-1,RMC SPORT NEWS FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/149141
+#EXTINF:-1,RMC STORY HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/197533
+#EXTINF:-1,Rouge HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91187
+#EXTINF:-1,RT France
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213311
+#EXTINF:-1,RTL 9 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150777
+#EXTINF:-1,RTL TVI
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/134357
+#EXTINF:-1,RTS Deux FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/86434
+#EXTINF:-1,RTS UN France
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160302
+#EXTINF:-1,RTS UN HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/177342
+#EXTINF:-1,Science & Vie HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62270
+#EXTINF:-1,SEASON FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73696
+#EXTINF:-1,SERIE CLUB FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62268
+#EXTINF:-1,SyFy FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62264
+#EXTINF:-1,TCM CINEMA FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65792
+#EXTINF:-1,Tele Bielingue
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91193
+#EXTINF:-1,TELESUD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/114533
+#EXTINF:-1,TELETOON HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/149135
+#EXTINF:-1,TELETOON+ HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/196572
+#EXTINF:-1,TEVA FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73698
+#EXTINF:-1,TF1 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62300
+#EXTINF:-1,TF1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62059
+#EXTINF:-1,TF1 SERIES FILMS HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91923
+#EXTINF:-1,TFX FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91924
+#EXTINF:-1,TIJI HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/98150
+#EXTINF:-1,TMA Tv
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/134847
+#EXTINF:-1,TMC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/65814
+#EXTINF:-1,TOONAMI FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/103082
+#EXTINF:-1,Toute L Histoire HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/149129
+#EXTINF:-1,TRACE AFRICA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91927
+#EXTINF:-1,TRACE AYITI
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208204
+#EXTINF:-1,TRACE Gospel HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/114963
+#EXTINF:-1,TRACE Mziki HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/114964
+#EXTINF:-1,TRACE Naija HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/114965
+#EXTINF:-1,TRACE Sports Stars HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211706
+#EXTINF:-1,TRACE Tropical HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/211709
+#EXTINF:-1,TREK FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/76090
+#EXTINF:-1,TV BREIZH FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150799
+#EXTINF:-1,TV5 Europe HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160335
+#EXTINF:-1,TV5 FR&BE&SU
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208149
+#EXTINF:-1,TV5 Monde HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/118100
+#EXTINF:-1,TV8 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/157360
+#EXTINF:-1,TV8 Mont Blanc
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91191
+#EXTINF:-1,TVM 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/88550
+#EXTINF:-1,TVPI BAYONNE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208155
+#EXTINF:-1,USHUAIA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/73700
+#EXTINF:-1,VH1 CLASSIC
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/160347
+#EXTINF:-1,VICELAND HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/123363
+#EXTINF:-1,VIRGIN HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/76046
+#EXTINF:-1,VOSGES TV
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/114535
+#EXTINF:-1,VOYAGE FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/62255
+#EXTINF:-1,W9 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/150805
+#EXTINF:-1,WEO HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/91930
+#EXTINF:-1,XITE MUSIC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/123469
+#EXTINF:-1,ZOUZOU HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/76123
+#EXTINF:-1,13EME RUE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199486
+#EXTINF:-1,6TER HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199488
+#EXTINF:-1,A LA CARTE 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210158
+#EXTINF:-1,A LA CARTE 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199487
+#EXTINF:-1,A LA CARTE 11
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199489
+#EXTINF:-1,AB1 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199492
+#EXTINF:-1,AB3 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199493
+#EXTINF:-1,ACTION FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199494
+#EXTINF:-1,ALTICE STUDIO FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199495
+#EXTINF:-1,ANIMAUX HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198666
+#EXTINF:-1,BOX OFFICE 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199499
+#EXTINF:-1,BOX OFFICE 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208028
+#EXTINF:-1,BOX OFFICE 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208039
+#EXTINF:-1,BOX OFFICE 4
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208040
+#EXTINF:-1,BOX OFFICE 5
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208041
+#EXTINF:-1,BOX OFFICE ANIMATION
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208030
+#EXTINF:-1,BOX OFFICE HORREUR
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208031
+#EXTINF:-1,BOX OFFICE ROMANCE
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/208032
+#EXTINF:-1,C8 FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199502
+#EXTINF:-1,CANAL+ CINEMA HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199504
+#EXTINF:-1,CANAL+ DECALE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199507
+#EXTINF:-1,CANAL+ Emotion HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199506
+#EXTINF:-1,CANAL+ FAMILY HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199508
+#EXTINF:-1,CANAL+ Premier HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199509
+#EXTINF:-1,CANAL+ SERIE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199510
+#EXTINF:-1,CHASSE & PECHE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199512
+#EXTINF:-1,CINE+ CLASSIC HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199513
+#EXTINF:-1,CINE+ CLUB HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199514
+#EXTINF:-1,CINE+ Comedy HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199516
+#EXTINF:-1,CINE+ FAMIZ FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/199517
+#EXTINF:-1,CINE+ FRISSON FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/206462
+#EXTINF:-1,NAT GEO WILD FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198632
+#EXTINF:-1,Orange Cinema 1 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210901
+#EXTINF:-1,Orange Cinema 2 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210902
+#EXTINF:-1,Orange Cinema 3 HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210903
+#EXTINF:-1,ORANGE Cinema ACTION HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213312
+#EXTINF:-1,Orange Cinema Aventure HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213313
+#EXTINF:-1,Orange Cinema COMEDY HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213314
+#EXTINF:-1,Orange Cinema ENQUETE EXCLUSIVE HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/198815
+#EXTINF:-1,Orange Cinema Horreur HD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/213315
+#EXTINF:-1,Orange Premium 1
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210913
+#EXTINF:-1,Orange Premium 2
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210914
+#EXTINF:-1,Orange Premium 3
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/210915
+#EXTINF:-1,SEASON FHD
+http://l.land02.live:8080/mbarodi0417/WoLZzkwdZZ/209245
