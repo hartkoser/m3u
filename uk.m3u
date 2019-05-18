@@ -1,185 +1,519 @@
 #EXTM3U
-#EXTINF:-1,Sky 1 FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24119.m3u8
-#EXTINF:-1,Sky 1 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24120.m3u8
-#EXTINF:-1,Sky 2 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24118.m3u8
-#EXTINF:-1,Sky Atlantic FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24116.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24491.m3u8
-#EXTINF:-1,Sky Arts FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/40655.m3u8
-#EXTINF:-1,Sky Witness FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/40708.m3u8
-#EXTINF:-1,AMC FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/44620.m3u8
-#EXTINF:-1,FOX HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/23915.m3u8
-#EXTINF:-1,Gold FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24114.m3u8
-#EXTINF:-1,Comedy Central HD.
-http://s1.platinumhostingtech.com:80/live/rose/rose/24025.m3u8
-#EXTINF:-1,Comedy Central Xtra
-http://s1.platinumhostingtech.com:80/live/rose/rose/24085.m3u8
-#EXTINF:-1,Lifetime FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24446.m3u8
-#EXTINF:-1,ID
-http://s1.platinumhostingtech.com:80/live/rose/rose/24110.m3u8
-#EXTINF:-1,Pick
-http://s1.platinumhostingtech.com:80/live/rose/rose/24104.m3u8
-#EXTINF:-1,Drama (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24011.m3u8
-#EXTINF:-1,Quest HD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24103.m3u8
-#EXTINF:-1,Quest SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60123.m3u8
-#EXTINF:-1,Quest +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60124.m3u8
-#EXTINF:-1,Quest Red SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60352.m3u8
-#EXTINF:-1,Quest Red +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60353.m3u8
-#EXTINF:-1,SyFy HD.(L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24087.m3u8
-#EXTINF:-1,Horror Channel (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24112.m3u8
-#EXTINF:-1,Horror Channel +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/46437.m3u8
-#EXTINF:-1,Real Lives
-http://s1.platinumhostingtech.com:80/live/rose/rose/24088.m3u8
-#EXTINF:-1,Really (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24100.m3u8
-#EXTINF:-1,Alibi FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24066.m3u8
-#EXTINF:-1,Alibi +1
-http://s1.platinumhostingtech.com:80/live/rose/rose/40865.m3u8
-#EXTINF:-1,DMAX (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24012.m3u8
-#EXTINF:-1,DMAX +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/60122.m3u8
-#EXTINF:-1,Spike HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24101.m3u8
-#EXTINF:-1,Sony Crime (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37655.m3u8
-#EXTINF:-1,Sony Crime +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37657.m3u8
-#EXTINF:-1,Universal Channel
-http://s1.platinumhostingtech.com:80/live/rose/rose/24111.m3u8
-#EXTINF:-1,Watch
-http://s1.platinumhostingtech.com:80/live/rose/rose/24099.m3u8
-#EXTINF:-1,Yesterday (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24013.m3u8
-#EXTINF:-1,TLC  FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24065.m3u8
-#EXTINF:-1,GOOD FOOD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24068.m3u8
-#EXTINF:-1,Home & Health
-http://s1.platinumhostingtech.com:80/live/rose/rose/24070.m3u8
-#EXTINF:-1,Food Network (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24064.m3u8
-#EXTINF:-1,Tru TV (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24096.m3u8
-#EXTINF:-1,Tru TV +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37647.m3u8
-#EXTINF:-1,True Entertainment (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24091.m3u8
-#EXTINF:-1,True Entertainment +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37654.m3u8
-#EXTINF:-1,Challenge
-http://s1.platinumhostingtech.com:80/live/rose/rose/24007.m3u8
-#EXTINF:-1,BBC One NI FHD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24181.m3u8
-#EXTINF:-1,BBC One NI SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/28730.m3u8
-#EXTINF:-1,BBC One FHD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24183.m3u8
-#EXTINF:-1,BBC One HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24182.m3u8
-#EXTINF:-1,BBC One London SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24176.m3u8
-#EXTINF:-1,BBC Scotland FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/57634.m3u8
-#EXTINF:-1,BBC One Wales FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/58426.m3u8
-#EXTINF:-1,BBC Two HD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24175.m3u8
-#EXTINF:-1,BBC Two SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24173.m3u8
-#EXTINF:-1,BBC Two NI HD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37261.m3u8
-#EXTINF:-1,BBC Four (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/64840.m3u8
-#EXTINF:-1,UTV FHD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24121.m3u8
-#EXTINF:-1,UTV HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24122.m3u8
-#EXTINF:-1,UTV SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/39641.m3u8
-#EXTINF:-1,UTV SD +1 (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/39642.m3u8
-#EXTINF:-1,ITV 1 FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24165.m3u8
-#EXTINF:-1,ITV 1 FHD.
-http://s1.platinumhostingtech.com:80/live/rose/rose/24166.m3u8
-#EXTINF:-1,ITV 1 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24167.m3u8
-#EXTINF:-1,ITV 1 Granada SD
-http://s1.platinumhostingtech.com:80/live/rose/rose/37660.m3u8
-#EXTINF:-1,ITV 1 Anglia East SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37658.m3u8
-#EXTINF:-1,ITV 1 Wales FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/58425.m3u8
-#EXTINF:-1,ITV 1 Anglia East  +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37802.m3u8
-#EXTINF:-1,ITV 1 Central West SD
-http://s1.platinumhostingtech.com:80/live/rose/rose/37659.m3u8
-#EXTINF:-1,ITV 1 Westcountry South West SD
-http://s1.platinumhostingtech.com:80/live/rose/rose/37800.m3u8
-#EXTINF:-1,ITV 1 London SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37661.m3u8
-#EXTINF:-1,ITVBe FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/46462.m3u8
-#EXTINF:-1,ITVBe SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37789.m3u8
-#EXTINF:-1,ITV 1 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37504.m3u8
-#EXTINF:-1,ITV 2 HD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24163.m3u8
-#EXTINF:-1,ITV 2 HD.
-http://s1.platinumhostingtech.com:80/live/rose/rose/24161.m3u8
-#EXTINF:-1,ITV 3 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24159.m3u8
-#EXTINF:-1,ITV 3 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/39631.m3u8
-#EXTINF:-1,ITV 4 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/24157.m3u8
-#EXTINF:-1,ITV 4 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37505.m3u8
-#EXTINF:-1,Channel 4 FHD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24008.m3u8
-#EXTINF:-1,Channel 4 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24137.m3u8
-#EXTINF:-1,Channel 4 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37500.m3u8
-#EXTINF:-1,Channel 4 London SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37835.m3u8
-#EXTINF:-1,Channel 4 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37834.m3u8
-#EXTINF:-1,Channel 4 Midlands SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37498.m3u8
-#EXTINF:-1,Channel 4 North SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37497.m3u8
-#EXTINF:-1,Channel 4 Scotland SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37502.m3u8
-#EXTINF:-1,Channel 4 South & East SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37499.m3u8
-#EXTINF:-1,Channel 5 FHD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/30507.m3u8
-#EXTINF:-1,Channel 5 HD
-http://s1.platinumhostingtech.com:80/live/rose/rose/24134.m3u8
-#EXTINF:-1,Channel 5 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/37822.m3u8
-#EXTINF:-1,Channel 5 +1 SD (L)
-http://s1.platinumhostingtech.com:80/live/rose/rose/39619.m3u8
+#EXTINF:0,BBC1 HD - BBC1 HD
+http://62.210.27.219:80/live.ts?channelId=1&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC One - BBC One
+http://62.210.70.119:80/live.ts?channelId=2&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC2 HD - BBC2 HD
+http://62.210.27.219:80/live.ts?channelId=3&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC TWO - BBC TWO
+http://62.210.27.219:80/live.ts?channelId=4&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ITV HD - ITV HD
+http://62.210.27.219:80/live.ts?channelId=5&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ITV - ITV
+http://62.210.27.219:80/live.ts?channelId=6&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ITV plus1 - ITV plus1
+http://62.210.27.219:80/live.ts?channelId=7&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Channel 4 HD - Channel 4 HD
+http://62.210.27.219:80/live.ts?channelId=8&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Channel 4 - Channel 4
+http://62.210.27.219:80/live.ts?channelId=9&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Channel 4 plus1 - Channel 4 plus1
+http://62.210.27.219:80/live.ts?channelId=10&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Channel 5 HD - Channel 5 HD
+http://62.210.27.219:80/live.ts?channelId=11&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Channel 5 - Channel 5
+http://62.210.27.219:80/live.ts?channelId=12&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Channel 5 plus1 - Channel 5 plus1
+http://62.210.27.219:80/live.ts?channelId=13&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ITV2 - ITV2
+http://62.210.27.219:80/live.ts?channelId=14&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ITV3 - ITV3
+http://62.210.27.219:80/live.ts?channelId=15&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ITV4 - ITV4
+http://62.210.27.219:80/live.ts?channelId=16&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ITVBe - ITVBe
+http://62.210.27.219:80/live.ts?channelId=17&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,4seven - 4seven
+http://62.210.27.219:80/live.ts?channelId=18&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,E4 - E4
+http://62.210.27.219:80/live.ts?channelId=19&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,More4 - More4
+http://62.210.27.219:80/live.ts?channelId=20&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,5 USA - 5 USA
+http://62.210.27.219:80/live.ts?channelId=21&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,5STAR - 5STAR
+http://62.210.27.219:80/live.ts?channelId=22&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,AMC from BT - AMC from BT
+http://62.210.27.219:80/live.ts?channelId=24&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky1 HD - Sky1 HD
+http://62.210.27.219:80/live.ts?channelId=25&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky1 - Sky1
+http://62.210.27.219:80/live.ts?channelId=26&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky2 - Sky2
+http://62.210.27.219:80/live.ts?channelId=27&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Witness - Sky Witness
+http://62.210.27.219:80/live.ts?channelId=28&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Atlantic HD - Sky Atlantic HD
+http://62.210.27.219:80/live.ts?channelId=29&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Atlantic - Sky Atlantic
+http://62.210.27.219:80/live.ts?channelId=30&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Arts - Sky Arts
+http://62.210.27.219:80/live.ts?channelId=31&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Discovery - Discovery
+http://62.210.27.219:80/live.ts?channelId=32&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Disc.History - Disc.History
+http://62.210.27.219:80/live.ts?channelId=33&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Disc.Science - Disc.Science
+http://62.210.27.219:80/live.ts?channelId=34&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Disc.Turbo - Disc.Turbo
+http://62.210.27.219:80/live.ts?channelId=35&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Discovery Shed - Discovery Shed
+http://62.210.27.219:80/live.ts?channelId=36&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,DMAX - DMAX
+http://62.210.27.219:80/live.ts?channelId=37&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Blaze - Blaze
+http://62.210.27.219:80/live.ts?channelId=38&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ComedyCentral - ComedyCentral
+http://62.210.27.219:80/live.ts?channelId=39&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ComedyXtra - ComedyXtra
+http://62.210.27.219:80/live.ts?channelId=40&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Crime and Investigation - Crime and Investigation
+http://62.210.27.219:80/live.ts?channelId=41&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Animal Planet - Animal Planet
+http://62.210.27.219:80/live.ts?channelId=42&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,HISTORY - HISTORY
+http://62.210.27.219:80/live.ts?channelId=43&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,H2 - H2
+http://62.210.27.219:80/live.ts?channelId=44&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,National Geo Wild - National Geo Wild
+http://62.210.27.219:80/live.ts?channelId=45&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,National Geographic - National Geographic
+http://62.210.27.219:80/live.ts?channelId=46&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,TLC - TLC
+http://62.210.27.219:80/live.ts?channelId=47&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Syfy - Syfy
+http://62.210.27.219:80/live.ts?channelId=48&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Lifetime - Lifetime
+http://62.210.27.219:80/live.ts?channelId=49&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Dave - Dave
+http://62.210.27.219:80/live.ts?channelId=51&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Dave ja vu - Dave ja vu
+http://62.210.27.219:80/live.ts?channelId=52&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,FOX - FOX
+http://62.210.27.219:80/live.ts?channelId=53&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,horror channel - horror channel
+http://62.210.27.219:80/live.ts?channelId=54&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ID - ID
+http://62.210.27.219:80/live.ts?channelId=55&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Good Food - Good Food
+http://62.210.27.219:80/live.ts?channelId=56&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Home - Home
+http://62.210.27.219:80/live.ts?channelId=57&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Food Network - Food Network
+http://62.210.27.219:80/live.ts?channelId=58&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,alibi - alibi
+http://62.210.27.219:80/live.ts?channelId=59&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Drama - Drama
+http://62.210.27.219:80/live.ts?channelId=60&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,E! - E!
+http://62.210.27.219:80/live.ts?channelId=61&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Eden - Eden
+http://62.210.27.219:80/live.ts?channelId=62&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,GOLD - GOLD
+http://62.210.27.219:80/live.ts?channelId=63&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Pick - Pick
+http://62.210.27.219:80/live.ts?channelId=64&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Really - Really
+http://62.210.27.219:80/live.ts?channelId=65&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Yesterday - Yesterday
+http://62.210.27.219:80/live.ts?channelId=66&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,W - W
+http://62.210.27.219:80/live.ts?channelId=67&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Universal - Universal
+http://62.210.27.219:80/live.ts?channelId=68&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,QUEST - QUEST
+http://62.210.27.219:80/live.ts?channelId=69&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA ACTION & ADVENTURE HD - CINEMA ACTION & ADVENTURE HD
+http://163.172.112.225:80/live.ts?channelId=70&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA DISNEY HD - CINEMA DISNEY HD
+http://163.172.112.225:80/live.ts?channelId=71&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA DRAMA AND ROMANCE HD - CINEMA DRAMA AND ROMANCE HD
+http://163.172.112.225:80/live.ts?channelId=72&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA FAMILY HD - CINEMA FAMILY HD
+http://163.172.112.225:80/live.ts?channelId=73&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA HITS HD - CINEMA HITS HD
+http://163.172.112.225:80/live.ts?channelId=74&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA MODERN GREATS HD - CINEMA MODERN GREATS HD
+http://163.172.112.225:80/live.ts?channelId=75&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA PREMIERE HD - CINEMA PREMIERE HD
+http://163.172.112.225:80/live.ts?channelId=76&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA SCI-FI & HORROR HD - CINEMA SCI-FI & HORROR HD
+http://163.172.112.225:80/live.ts?channelId=77&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA SELECT HD - CINEMA SELECT HD
+http://163.172.112.225:80/live.ts?channelId=78&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CINEMA THRILLER HD - CINEMA THRILLER HD
+http://163.172.112.225:80/live.ts?channelId=79&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Action & Adventure - Sky Movies Action & Adventure
+http://163.172.112.225:80/live.ts?channelId=80&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Comedy - Sky Movies Comedy
+http://163.172.112.225:80/live.ts?channelId=81&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Disney - Sky Movies Disney
+http://163.172.112.225:80/live.ts?channelId=82&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Drama & Romance - Sky Movies Drama & Romance
+http://163.172.112.225:80/live.ts?channelId=83&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Family - Sky Movies Family
+http://163.172.112.225:80/live.ts?channelId=84&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Greats - Sky Movies Greats
+http://163.172.112.225:80/live.ts?channelId=85&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Premiere - Sky Movies Premiere
+http://163.172.112.225:80/live.ts?channelId=86&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Sci-Fi & Horror - Sky Movies Sci-Fi & Horror
+http://163.172.112.225:80/live.ts?channelId=87&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Select - Sky Movies Select
+http://163.172.112.225:80/live.ts?channelId=88&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Movies Thriller - Sky Movies Thriller
+http://163.172.112.225:80/live.ts?channelId=89&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Baby TV - Baby TV
+http://163.172.112.225:80/live.ts?channelId=90&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CBBC - CBBC
+http://163.172.112.225:80/live.ts?channelId=91&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Cartoon network - Cartoon network
+http://163.172.112.225:80/live.ts?channelId=92&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Cbeeies - Cbeeies
+http://163.172.112.225:80/live.ts?channelId=93&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Disney Channel - Disney Channel
+http://163.172.112.225:80/live.ts?channelId=94&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Disney Jr - Disney Jr
+http://163.172.112.225:80/live.ts?channelId=95&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Disney XD - Disney XD
+http://163.172.112.225:80/live.ts?channelId=96&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Nick Jr - Nick Jr
+http://163.172.112.225:80/live.ts?channelId=97&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Nick Toons - Nick Toons
+http://163.172.112.225:80/live.ts?channelId=98&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Nickelodeon - Nickelodeon
+http://163.172.112.225:80/live.ts?channelId=99&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,NickJr Too - NickJr Too
+http://163.172.112.225:80/live.ts?channelId=100&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Boomerang - Boomerang
+http://163.172.112.225:80/live.ts?channelId=101&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC One Northern Ireland - BBC One Northern Ireland
+http://163.172.112.225:80/live.ts?channelId=108&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC One Scotland - BBC One Scotland
+http://163.172.112.225:80/live.ts?channelId=109&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC Two Scotland - BBC Two Scotland
+http://163.172.112.225:80/live.ts?channelId=110&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC Two Wales - BBC Two Wales
+http://163.172.112.225:80/live.ts?channelId=111&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Action - Sky Sports Action
+http://62.210.70.119:80/live.ts?channelId=119&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Action HD - Sky Sports Action HD
+http://62.210.70.119:80/live.ts?channelId=120&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Arena - Sky Sports Arena
+http://62.210.70.119:80/live.ts?channelId=121&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Arena HD - Sky Sports Arena HD
+http://62.210.70.119:80/live.ts?channelId=122&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Cricket - Sky Sports Cricket
+http://62.210.70.119:80/live.ts?channelId=123&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Cricket HD - Sky Sports Cricket HD
+http://62.210.70.119:80/live.ts?channelId=124&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Football - Sky Sports Football
+http://62.210.70.119:80/live.ts?channelId=125&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Football HD - Sky Sports Football HD
+http://62.210.70.119:80/live.ts?channelId=126&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Golf - Sky Sports Golf
+http://62.210.70.119:80/live.ts?channelId=127&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Golf HD - Sky Sports Golf HD
+http://62.210.70.119:80/live.ts?channelId=128&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Main - Sky Sports Main
+http://62.210.70.209:80/live.ts?channelId=129&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Main HD - Sky Sports Main HD
+http://62.210.70.119:80/live.ts?channelId=130&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Mix - Sky Sports Mix
+http://62.210.70.119:80/live.ts?channelId=131&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Mix HD - Sky Sports Mix HD
+http://62.210.70.119:80/live.ts?channelId=132&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports PL - Sky Sports PL
+http://62.210.70.119:80/live.ts?channelId=133&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports PL HD - Sky Sports PL HD
+http://62.210.70.119:80/live.ts?channelId=134&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports F1 - Sky Sports F1
+http://62.210.70.119:80/live.ts?channelId=135&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports F1 HD - Sky Sports F1 HD
+http://62.210.70.119:80/live.ts?channelId=136&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports News - Sky Sports News
+http://62.210.70.119:80/live.ts?channelId=137&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports News HD - Sky Sports News HD
+http://62.210.70.119:80/live.ts?channelId=138&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Sky Sports Box Office - Sky Sports Box Office
+http://62.210.70.119:80/live.ts?channelId=139&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT Sport 1 - BT Sport 1
+http://163.172.117.134:80/live.ts?channelId=140&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT Sport 1 HD - BT Sport 1 HD
+http://163.172.117.134:80/live.ts?channelId=141&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT Sport 2 - BT Sport 2
+http://163.172.117.134:80/live.ts?channelId=142&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT Sport 2 HD - BT Sport 2 HD
+http://163.172.117.134:80/live.ts?channelId=143&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT Sport 3 - BT Sport 3
+http://163.172.117.134:80/live.ts?channelId=144&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT Sport 3 HD - BT Sport 3 HD
+http://163.172.117.134:80/live.ts?channelId=145&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT Sport ESPN - BT Sport ESPN
+http://163.172.117.134:80/live.ts?channelId=146&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT Sport ESPN HD - BT Sport ESPN HD
+http://163.172.117.134:80/live.ts?channelId=147&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Eurosport 1 - Eurosport 1
+http://163.172.112.225:80/live.ts?channelId=156&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Eurosport 2 - Eurosport 2
+http://163.172.112.225:80/live.ts?channelId=157&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,FreeSports - FreeSports
+http://163.172.112.225:80/live.ts?channelId=158&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,FrontRunner - FrontRunner
+http://163.172.112.225:80/live.ts?channelId=159&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,MUTV - MUTV
+http://163.172.112.225:80/live.ts?channelId=162&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,LFC tv - LFC tv
+http://163.172.112.225:80/live.ts?channelId=163&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Chelsea Tv - Chelsea Tv
+http://163.172.112.225:80/live.ts?channelId=164&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,MOTOGP LIVE 1 - MOTOGP LIVE 1
+http://163.172.112.225:80/live.ts?channelId=165&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,MOTOGP LIVE 2 - MOTOGP LIVE 2
+http://163.172.112.225:80/live.ts?channelId=166&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,MOTOGP LIVE 3 - MOTOGP LIVE 3
+http://163.172.112.225:80/live.ts?channelId=167&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Motorsport TV - Motorsport TV
+http://163.172.112.225:80/live.ts?channelId=168&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Premier Sports - Premier Sports
+http://163.172.112.225:80/live.ts?channelId=169&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Premier Sports HD - Premier Sports HD
+http://163.172.112.225:80/live.ts?channelId=170&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Racing UK - Racing UK
+http://163.172.112.225:80/live.ts?channelId=171&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Racing UK HD - Racing UK HD
+http://163.172.112.225:80/live.ts?channelId=172&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,At The Races - At The Races
+http://163.172.112.225:80/live.ts?channelId=173&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BoxNation - BoxNation
+http://163.172.112.225:80/live.ts?channelId=174&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 1 HD - beINSport 1 HD
+http://163.172.118.212:80/live.ts?channelId=178&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 2 HD - beINSport 2 HD
+http://163.172.118.212:80/live.ts?channelId=179&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 3 HD - beINSport 3 HD
+http://163.172.118.212:80/live.ts?channelId=180&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 4 HD - beINSport 4 HD
+http://163.172.118.212:80/live.ts?channelId=181&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 5 HD - beINSport 5 HD
+http://163.172.118.212:80/live.ts?channelId=182&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 6 HD - beINSport 6 HD
+http://163.172.118.212:80/live.ts?channelId=183&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 7 HD - beINSport 7 HD
+http://163.172.118.212:80/live.ts?channelId=184&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 8 HD - beINSport 8 HD
+http://163.172.118.212:80/live.ts?channelId=185&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 9 HD - beINSport 9 HD
+http://163.172.118.212:80/live.ts?channelId=186&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 10 HD - beINSport 10 HD
+http://163.172.118.212:80/live.ts?channelId=187&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 11 HD - beINSport 11 HD
+http://163.172.118.212:80/live.ts?channelId=188&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,beINSport 12 HD - beINSport 12 HD
+http://163.172.118.212:80/live.ts?channelId=189&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,TSN 1 - TSN 1
+http://62.210.29.65:80/live.ts?channelId=217&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,TSN 2 - TSN 2
+http://62.210.29.65:80/live.ts?channelId=218&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,TSN 3 - TSN 3
+http://62.210.29.65:80/live.ts?channelId=219&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,TSN 4 - TSN 4
+http://62.210.29.65:80/live.ts?channelId=220&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,TSN 5 - TSN 5
+http://62.210.29.65:80/live.ts?channelId=221&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SPORTS NET 360 HD - SPORTS NET 360 HD
+http://62.210.29.65:80/live.ts?channelId=222&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SPORTS NET EAST HD - SPORTS NET EAST HD
+http://62.210.29.65:80/live.ts?channelId=223&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SPORTS NET ONE HD - SPORTS NET ONE HD
+http://62.210.29.65:80/live.ts?channelId=224&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SPORTS NET ONTARIO HD - SPORTS NET ONTARIO HD
+http://62.210.29.65:80/live.ts?channelId=225&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SPORTS NET PACIFIC HD - SPORTS NET PACIFIC HD
+http://62.210.29.65:80/live.ts?channelId=226&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SPORTS NET WEST HD - SPORTS NET WEST HD
+http://62.210.29.65:80/live.ts?channelId=227&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SPORTS NET WORLD HD - SPORTS NET WORLD HD
+http://62.210.29.65:80/live.ts?channelId=228&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SPORTSNET ONE HD - SPORTSNET ONE HD
+http://62.210.29.65:80/live.ts?channelId=232&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,WWE Network - WWE Network
+http://62.210.29.65:80/live.ts?channelId=256&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC NEWS - BBC NEWS
+http://62.210.29.65:80/live.ts?channelId=257&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,CNN NEWS - CNN NEWS
+http://62.210.29.65:80/live.ts?channelId=258&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SKY NEWS - SKY NEWS
+http://62.210.29.65:80/live.ts?channelId=259&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BT SPORT BOX OFFICE
+http://62.210.29.65:80/live.ts?channelId=315&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,PPV 1 - PPV 1
+http://62.210.29.65:80/live.ts?channelId=328&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,PPV 2 - PPV 2
+http://163.172.118.212:80/live.ts?channelId=329&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,PPV 3 - PPV 3
+http://163.172.112.225:80/live.ts?channelId=330&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,PPV 4 - PPV 4
+http://62.210.70.119:80/live.ts?channelId=331&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,PPV 5 - PPV 5
+http://62.210.70.237:80/live.ts?channelId=332&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Film 4
+http://62.210.70.237:80/live.ts?channelId=413&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,24/7 American Dad
+http://62.210.70.119:80/live.ts?channelId=418&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,24/7 Big Bang
+http://62.210.70.119:80/live.ts?channelId=419&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,24/7 Ben and Holly
+http://62.210.70.119:80/live.ts?channelId=420&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,24/7 Bobs Burgers
+http://62.210.70.119:80/live.ts?channelId=421&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,AKAAL CHANNEL (UK)
+http://163.172.118.212:80/live.ts?channelId=493&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,B4U MOVIES (UK)
+http://163.172.118.212:80/live.ts?channelId=494&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,B4U MUSIC (UK)
+http://163.172.118.212:80/live.ts?channelId=495&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BRIT ASIA TV (UK)
+http://163.172.118.212:80/live.ts?channelId=496&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,COLORS (UK)
+http://163.172.118.212:80/live.ts?channelId=497&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Islam TV (TV)
+http://163.172.118.212:80/live.ts?channelId=498&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,JUS PUNJABI (UK)
+http://163.172.118.212:80/live.ts?channelId=499&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,MADANI CHANNEL (UK)
+http://163.172.118.212:80/live.ts?channelId=500&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,PTC PUNJABI (UK)
+http://163.172.118.212:80/live.ts?channelId=501&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SIKH CHANNEL (UK)
+http://163.172.118.212:80/live.ts?channelId=502&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SONY MAX (UK)
+http://163.172.118.212:80/live.ts?channelId=503&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,SONY TV (UK)
+http://163.172.118.212:80/live.ts?channelId=504&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,STAR BAHARAT (UK)
+http://163.172.118.212:80/live.ts?channelId=505&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,STAR GOLD (UK)
+http://163.172.118.212:80/live.ts?channelId=506&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,STAR PLUS (UK)
+http://163.172.118.212:80/live.ts?channelId=507&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ZEE CINEMA (UK)
+http://163.172.118.212:80/live.ts?channelId=508&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ZEE TV (UK)
+http://163.172.118.212:80/live.ts?channelId=509&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ZING (UK)
+http://163.172.118.212:80/live.ts?channelId=510&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 01
+http://62.210.29.65:80/live.ts?channelId=511&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 02
+http://62.210.29.65:80/live.ts?channelId=512&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 03
+http://62.210.29.65:80/live.ts?channelId=513&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 04
+http://62.210.29.65:80/live.ts?channelId=514&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 05
+http://62.210.29.65:80/live.ts?channelId=515&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 06
+http://62.210.29.65:80/live.ts?channelId=516&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 07
+http://62.210.29.65:80/live.ts?channelId=517&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 08
+http://62.210.29.65:80/live.ts?channelId=518&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 09
+http://62.210.29.65:80/live.ts?channelId=519&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 10
+http://62.210.29.65:80/live.ts?channelId=520&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 11
+http://62.210.29.65:80/live.ts?channelId=521&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 12
+http://62.210.29.65:80/live.ts?channelId=522&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 13
+http://62.210.29.65:80/live.ts?channelId=523&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 14
+http://62.210.29.65:80/live.ts?channelId=524&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 15
+http://62.210.29.65:80/live.ts?channelId=525&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 16
+http://62.210.29.65:80/live.ts?channelId=526&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 17
+http://62.210.29.65:80/live.ts?channelId=527&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 18
+http://62.210.29.65:80/live.ts?channelId=528&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 19
+http://62.210.29.65:80/live.ts?channelId=529&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,ESPN PLUS 20
+http://62.210.29.65:80/live.ts?channelId=530&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Falkirk TV
+http://163.172.118.212:80/live.ts?channelId=556&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Hibs TV
+http://163.172.118.212:80/live.ts?channelId=557&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Dundee Utd
+http://163.172.118.212:80/live.ts?channelId=558&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Raith Rovers FC
+http://163.172.118.212:80/live.ts?channelId=559&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Motherwell FC
+http://163.172.118.212:80/live.ts?channelId=560&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Hearts FC
+http://163.172.118.212:80/live.ts?channelId=561&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Dunfermline FC
+http://163.172.118.212:80/live.ts?channelId=562&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Quest Red - Quest Red
+http://163.172.118.212:80/live.ts?channelId=563&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Clubland - Clubland
+http://163.172.118.212:80/live.ts?channelId=564&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Kerrang - Kerrang
+http://163.172.118.212:80/live.ts?channelId=565&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BBC 2 N.I - BBC 2 N.I
+http://163.172.118.212:80/live.ts?channelId=566&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Fox News - Fox News
+http://163.172.118.212:80/live.ts?channelId=567&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,eir Sport 1 (ire)
+http://163.172.118.212:80/live.ts?channelId=568&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Eir Sport 1 HD (ire)
+http://163.172.118.212:80/live.ts?channelId=569&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,eir Sport 2 (ire)
+http://163.172.118.212:80/live.ts?channelId=570&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Eir Sport 2 HD (ire)
+http://163.172.118.212:80/live.ts?channelId=571&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,VM Two (ire)
+http://163.172.118.212:80/live.ts?channelId=572&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,VM Three (ire)
+http://163.172.118.212:80/live.ts?channelId=573&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,VM One (ire)
+http://163.172.118.212:80/live.ts?channelId=574&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,TG4 (ire)
+http://163.172.118.212:80/live.ts?channelId=575&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,RTE JR (ire)
+http://163.172.118.212:80/live.ts?channelId=576&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,RTE NEWS (ire)
+http://163.172.118.212:80/live.ts?channelId=577&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,RT… One (ire)
+http://163.172.118.212:80/live.ts?channelId=578&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,RTE ONE HD (ire)
+http://163.172.118.212:80/live.ts?channelId=579&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,RTE TWO HD (ire)
+http://163.172.118.212:80/live.ts?channelId=580&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,RTE2 (ire)
+http://163.172.118.212:80/live.ts?channelId=581&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,Racing UK (ire)
+http://163.172.118.212:80/live.ts?channelId=582&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,At The Races (ire)
+http://163.172.118.212:80/live.ts?channelId=583&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BEin Sports 1 English
+http://163.172.118.212:80/live.ts?channelId=584&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BEin Sports 2 English
+http://163.172.118.212:80/live.ts?channelId=585&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BEin Sports 3 English
+http://163.172.118.212:80/live.ts?channelId=586&deviceMac=00:1A:79:BE:2F:2E&uid=1523
+#EXTINF:0,BEin Sports 4 English
+http://163.172.118.212:80/live.ts?channelId=587&deviceMac=00:1A:79:BE:2F:2E&uid=1523
