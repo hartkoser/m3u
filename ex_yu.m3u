@@ -1,305 +1,298 @@
 #EXTM3U
-#EXTINF:-1,AL Jazzera Balkan
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/16.ts
-#EXTINF:-1,N1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/17.ts
-#EXTINF:-1,BHT 1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/13.ts
-#EXTINF:-1,Federalna TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/12.ts
-#EXTINF:-1,OBN
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/11.ts
-#EXTINF:-1,Nova BH
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/90.ts
-#EXTINF:-1,Hayat
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/9.ts
-#EXTINF:-1,Hayat Plus
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/187.ts
-#EXTINF:-1,N1 hr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/275.ts
-#EXTINF:-1,Nova TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/1.ts
-#EXTINF:-1,Doma TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/2.ts
-#EXTINF:-1,Nova World
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/20.ts
-#EXTINF:-1,RTL HR
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/3.ts
-#EXTINF:-1,RTL 2 HR
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/4.ts
-#EXTINF:-1,RTL Crime HR
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/172.ts
-#EXTINF:-1,RTL Living
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/159.ts
-#EXTINF:-1,RTL Passion
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/214.ts
-#EXTINF:-1,HRT 1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/5.ts
-#EXTINF:-1,HRT 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/6.ts
-#EXTINF:-1,HRT 3
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/7.ts
-#EXTINF:-1,HRT 4
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/8.ts
-#EXTINF:-1,Face TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/14.ts
-#EXTINF:-1,TV 1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/15.ts
-#EXTINF:-1,BN Televizija
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/25.ts
+#EXTINF:-1,AL JAZEERA BALKAN HD
+http://borg.hopto.org:80/hamo/hamo/6362
+#EXTINF:-1,AL JAZEERA BALKANS
+http://borg.hopto.org:80/hamo/hamo/6363
+#EXTINF:-1,BHT
+http://borg.hopto.org:80/hamo/hamo/6366
+#EXTINF:-1,BHT HD
+http://borg.hopto.org:80/hamo/hamo/6367
+#EXTINF:-1,FEDERALNA TV
+http://borg.hopto.org:80/hamo/hamo/6365
+#EXTINF:-1,FACE TV
+http://borg.hopto.org:80/hamo/hamo/6360
+#EXTINF:-1,FACE TV HD
+http://borg.hopto.org:80/hamo/hamo/6361
+#EXTINF:-1,BN SAT
+http://borg.hopto.org:80/hamo/hamo/6355
 #EXTINF:-1,RTRS
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/21.ts
-#EXTINF:-1,BN Music
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/71.ts
-#EXTINF:-1,Nova S
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/274.ts
-#EXTINF:-1,RTS 1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/22.ts
-#EXTINF:-1,RTS 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/23.ts
-#EXTINF:-1,RTS 3
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/294.ts
-#EXTINF:-1,O2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/24.ts
-#EXTINF:-1,BK
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/295.ts
-#EXTINF:-1,Prva TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/18.ts
-#EXTINF:-1,Prva Plus
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/19.ts
-#EXTINF:-1,Prva World
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/216.ts
-#EXTINF:-1,Prva Max
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/215.ts
-#EXTINF:-1,Happy TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/26.ts
-#EXTINF:-1,Hayatovci
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/49.ts
-#EXTINF:-1,Hayat Folk
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/10.ts
-#EXTINF:-1,NOVA M
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/178.ts
-#EXTINF:-1,RTVCG2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/218.ts
-#EXTINF:-1,RTVCG1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/217.ts
-#EXTINF:-1,OTV Valentino
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/27.ts
-#EXTINF:-1,Euro Sport 1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/75.ts
-#EXTINF:-1,Euro Sport 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/76.ts
-#EXTINF:-1,Sport Klub HD
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/224.ts
-#EXTINF:-1,Sport Klub 4
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/272.ts
-#EXTINF:-1,Sport Klub 3
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/79.ts
-#EXTINF:-1,Sport Klub 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/78.ts
-#EXTINF:-1,Sport Klub 1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/77.ts
-#EXTINF:-1,Arena Sport 1 Hr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/85.ts
-#EXTINF:-1,Arena Sport 2 Hr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/86.ts
-#EXTINF:-1,Arena Sport 3 Hr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/87.ts
-#EXTINF:-1,Arena Sport 4 Hr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/88.ts
-#EXTINF:-1,Arena Sport 5 HR
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/182.ts
-#EXTINF:-1,Arena Sport 1 Sr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/80.ts
-#EXTINF:-1,Arena Sport 2 Sr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/81.ts
-#EXTINF:-1,Arena Sport 3 Sr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/82.ts
-#EXTINF:-1,Arena Sport 4 Sr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/83.ts
-#EXTINF:-1,Arena Sport 5 Sr
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/84.ts
-#EXTINF:-1,Fight Sport
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/74.ts
-#EXTINF:-1,BeIN Sport 1 HD
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/267.ts
-#EXTINF:-1,Pink Zabava
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/191.ts
-#EXTINF:-1,Pink World
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/153.ts
-#EXTINF:-1,Pink Western
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/94.ts
-#EXTINF:-1,Pink Thriller
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/97.ts
-#EXTINF:-1,Pink Super Kids
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/102.ts
-#EXTINF:-1,Pink Soap
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/103.ts
-#EXTINF:-1,Pink Show
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/150.ts
-#EXTINF:-1,Pink Serije
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/100.ts
-#EXTINF:-1,Pink Sci-Fi Fantasy
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/98.ts
-#EXTINF:-1,Pink Romance
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/101.ts
-#EXTINF:-1,Pink Reality
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/104.ts
-#EXTINF:-1,Pink Premium
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/91.ts
-#EXTINF:-1,Pink Plus
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/266.ts
-#EXTINF:-1,Pink Pedia
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/302.ts
-#EXTINF:-1,Pink Music
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/105.ts
-#EXTINF:-1,Pink Movies
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/95.ts
-#EXTINF:-1,Pink LoL
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/259.ts
-#EXTINF:-1,Pink Kids
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/256.ts
-#EXTINF:-1,Pink Horror
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/93.ts
-#EXTINF:-1,Pink HaHa
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/260.ts
-#EXTINF:-1,Pink Folk 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/106.ts
-#EXTINF:-1,Pink Folk 1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/155.ts
-#EXTINF:-1,Pink Family
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/230.ts
-#EXTINF:-1,Pink Extra
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/148.ts
-#EXTINF:-1,Pink Crime Mistery
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/151.ts
-#EXTINF:-1,Pink Comedy
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/92.ts
-#EXTINF:-1,Pink Clasic
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/258.ts
-#EXTINF:-1,Pink Cinema Wolrd
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/276.ts
-#EXTINF:-1,Pink Action
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/96.ts
-#EXTINF:-1,Pink 3
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/143.ts
-#EXTINF:-1,Pink 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/142.ts
-#EXTINF:-1,Pink
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/89.ts
-#EXTINF:-1,Pink Film
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/99.ts
-#EXTINF:-1,Klasik TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/51.ts
-#EXTINF:-1,HBO
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/52.ts
-#EXTINF:-1,HBO 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/53.ts
-#EXTINF:-1,HBO 3
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/179.ts
-#EXTINF:-1,Cinemax
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/54.ts
-#EXTINF:-1,Cinemax 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/55.ts
-#EXTINF:-1,CineStar TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/56.ts
-#EXTINF:-1,CineStar Action
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/57.ts
-#EXTINF:-1,CineStar Fantasy
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/231.ts
-#EXTINF:-1,CineStar Premiere 1
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/58.ts
-#EXTINF:-1,CineStar Premiere 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/59.ts
-#EXTINF:-1,TV 1000
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/162.ts
-#EXTINF:-1,Kino HD
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/219.ts
-#EXTINF:-1,FilmBox Extra
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/146.ts
-#EXTINF:-1,FilmBox Plus
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/296.ts
-#EXTINF:-1,FOX
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/177.ts
-#EXTINF:-1,FOX Movies
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/60.ts
-#EXTINF:-1,FOX Life
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/62.ts
-#EXTINF:-1,FOX Crime
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/61.ts
-#EXTINF:-1,AXN
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/171.ts
-#EXTINF:-1,TV Sarajevo
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/38.ts
-#EXTINF:-1,RTV Zenica
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/158.ts
+http://borg.hopto.org:80/hamo/hamo/6354
+#EXTINF:-1,RTRS PLUS
+http://borg.hopto.org:80/hamo/hamo/6353
+#EXTINF:-1,TV 1
+http://borg.hopto.org:80/hamo/hamo/6351
+#EXTINF:-1,HAYAT HD
+http://borg.hopto.org:80/hamo/hamo/6359
+#EXTINF:-1,HAYAT BIH
+http://borg.hopto.org:80/hamo/hamo/6358
+#EXTINF:-1,BN BIH
+http://borg.hopto.org:80/hamo/hamo/6356
+#EXTINF:-1,MIR TV
+http://borg.hopto.org:80/hamo/hamo/34967
+#EXTINF:-1,N1 BOSNA
+http://borg.hopto.org:80/hamo/hamo/6340
+#EXTINF:-1,OBN
+http://borg.hopto.org:80/hamo/hamo/6364
+#EXTINF:-1,ALFA TV SARAJEVO
+http://borg.hopto.org:80/hamo/hamo/6347
+#EXTINF:-1,ALTERNATIVNA TV
+http://borg.hopto.org:80/hamo/hamo/6343
+#EXTINF:-1,BN MUSIC
+http://borg.hopto.org:80/hamo/hamo/6481
+#EXTINF:-1,BUJRUM TV
+http://borg.hopto.org:80/hamo/hamo/6483
+#EXTINF:-1,DUGA TV
+http://borg.hopto.org:80/hamo/hamo/14945
+#EXTINF:-1,GLAS DRINE
+http://borg.hopto.org:80/hamo/hamo/6477
+#EXTINF:-1,HAYAT  FOLK
+http://borg.hopto.org:80/hamo/hamo/6484
+#EXTINF:-1,HAYAT  MUSIC
+http://borg.hopto.org:80/hamo/hamo/6485
+#EXTINF:-1,HAYAT PLUS
+http://borg.hopto.org:80/hamo/hamo/6357
+#EXTINF:-1,HIT BRCKO
+http://borg.hopto.org:80/hamo/hamo/6350
+#EXTINF:-1,IZVORNA TV
+http://borg.hopto.org:80/hamo/hamo/6479
+#EXTINF:-1,K 3 PRNJAVOR
+http://borg.hopto.org:80/hamo/hamo/6346
+#EXTINF:-1,KANAL 6 HD
+http://borg.hopto.org:80/hamo/hamo/7513
+#EXTINF:-1,MTV IGMAN
+http://borg.hopto.org:80/hamo/hamo/6344
+#EXTINF:-1,TV 5
+http://borg.hopto.org:80/hamo/hamo/34657
+#EXTINF:-1,OTV VALENTINO
+http://borg.hopto.org:80/hamo/hamo/6338
+#EXTINF:-1,POSAVINA TV
+http://borg.hopto.org:80/hamo/hamo/6339
+#EXTINF:-1,RTV BUGOJNO
+http://borg.hopto.org:80/hamo/hamo/6345
 #EXTINF:-1,RTV TK
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/30.ts
-#EXTINF:-1,TV Slon Info
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/31.ts
-#EXTINF:-1,Alfa
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/41.ts
-#EXTINF:-1,USK
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/711.ts
-#EXTINF:-1,ATV Mreža
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/40.ts
-#EXTINF:-1,MTV Igman
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/37.ts
-#EXTINF:-1,HramTV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/229.ts
-#EXTINF:-1,Izvorna TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/29.ts
-#EXTINF:-1,Novi Pazar
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/32.ts
-#EXTINF:-1,Sitel
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/221.ts
-#EXTINF:-1,Kanal 5
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/47.ts
-#EXTINF:-1,24 Kitchen
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/70.ts
-#EXTINF:-1,Viasat History
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/251.ts
-#EXTINF:-1,DocuBox
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/297.ts
-#EXTINF:-1,Discovery ID
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/63.ts
-#EXTINF:-1,Discovery Channel Europe
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/64.ts
-#EXTINF:-1,Lov i Ribolov
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/68.ts
-#EXTINF:-1,TLC
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/69.ts
-#EXTINF:-1,National Geographic
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/66.ts
-#EXTINF:-1,History Channel
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/65.ts
-#EXTINF:-1,Animal Planet
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/67.ts
-#EXTINF:-1,Diva
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/152.ts
-#EXTINF:-1,E!
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/305.ts
-#EXTINF:-1,CMC
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/174.ts
+http://borg.hopto.org:80/hamo/hamo/6352
+#EXTINF:-1,RTV ZENICA
+http://borg.hopto.org:80/hamo/hamo/6349
+#EXTINF:-1,SEVDAH TV
+http://borg.hopto.org:80/hamo/hamo/6482
+#EXTINF:-1,TV CAZIN
+http://borg.hopto.org:80/hamo/hamo/6348
+#EXTINF:-1,TV SEHARA
+http://borg.hopto.org:80/hamo/hamo/6480
+#EXTINF:-1,TV USK
+http://borg.hopto.org:80/hamo/hamo/6342
+#EXTINF:-1,NOVA BH
+http://borg.hopto.org:80/hamo/hamo/6426
+#EXTINF:-1,A1 KIDS
+http://borg.hopto.org:80/hamo/hamo/34968
+#EXTINF:-1,PINK KIDS
+http://borg.hopto.org:80/hamo/hamo/34969#EXTINF:-1,RTS 1
+http://borg.hopto.org:80/hamo/hamo/6405
+#EXTINF:-1,RTS 2
+http://borg.hopto.org:80/hamo/hamo/6404
+#EXTINF:-1,RTS 3
+http://borg.hopto.org:80/hamo/hamo/6403
+#EXTINF:-1,RTS HD
+http://borg.hopto.org:80/hamo/hamo/6406
+#EXTINF:-1,RTS SVET
+http://borg.hopto.org:80/hamo/hamo/6407
+#EXTINF:-1,NOVA RS
+http://borg.hopto.org:80/hamo/hamo/6392
+#EXTINF:-1,N1 SRBIJA
+http://borg.hopto.org:80/hamo/hamo/6398
+#EXTINF:-1,O2 TV
+http://borg.hopto.org:80/hamo/hamo/6395
+#EXTINF:-1,PRVA
+http://borg.hopto.org:80/hamo/hamo/6402
+#EXTINF:-1,PRVA MAX
+http://borg.hopto.org:80/hamo/hamo/6399
+#EXTINF:-1,PRVA PLUS
+http://borg.hopto.org:80/hamo/hamo/6401
+#EXTINF:-1,PRVA WORLD
+http://borg.hopto.org:80/hamo/hamo/6400
+#EXTINF:-1,SANDŽAK TV
+http://borg.hopto.org:80/hamo/hamo/15718
+#EXTINF:-1,KCN 1
+http://borg.hopto.org:80/hamo/hamo/6390
+#EXTINF:-1,KCN 2
+http://borg.hopto.org:80/hamo/hamo/6389
+#EXTINF:-1,BALKANIKA TV
+http://borg.hopto.org:80/hamo/hamo/6486
 #EXTINF:-1,DM SAT
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/72.ts
-#EXTINF:-1,Jugoton
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/157.ts
-#EXTINF:-1,Grand Televizija
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/73.ts
-#EXTINF:-1,Grand 2
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/314.ts
-#EXTINF:-1,Balkanika
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/186.ts
-#EXTINF:-1,Baby TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/220.ts
-#EXTINF:-1,Glas Drine
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/28.ts
-#EXTINF:-1,Minimax
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/50.ts
-#EXTINF:-1,Mini TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/298.ts
-#EXTINF:-1,Ultra TV
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/299.ts
-#EXTINF:-1,RTL Kockica
-http://dreamtv.on-the-web.tv:2709/live/testtest/testtest/48.ts
+http://borg.hopto.org:80/hamo/hamo/6491
+#EXTINF:-1,DUGA TV
+http://borg.hopto.org:80/hamo/hamo/6387
+#EXTINF:-1,GRAND
+http://borg.hopto.org:80/hamo/hamo/6397
+#EXTINF:-1,GRAND 2
+http://borg.hopto.org:80/hamo/hamo/6396
+#EXTINF:-1,HAPPY TV
+http://borg.hopto.org:80/hamo/hamo/6394
+#EXTINF:-1,HAPPY TV - PAROVI LIVE
+http://borg.hopto.org:80/hamo/hamo/6393
+#EXTINF:-1,IDJ KIDS
+http://borg.hopto.org:80/hamo/hamo/6502
+#EXTINF:-1,IDJ MUSIC
+http://borg.hopto.org:80/hamo/hamo/6489
+#EXTINF:-1,IDJ TV
+http://borg.hopto.org:80/hamo/hamo/6490
+#EXTINF:-1,JUGOTON
+http://borg.hopto.org:80/hamo/hamo/6487
+#EXTINF:-1,MLAVA TV
+http://borg.hopto.org:80/hamo/hamo/6388
+#EXTINF:-1,PALMA PLUS
+http://borg.hopto.org:80/hamo/hamo/6391
+#EXTINF:-1,HRT 1 HD
+http://borg.hopto.org:80/hamo/hamo/36645
+#EXTINF:-1,HRT 2
+http://borg.hopto.org:80/hamo/hamo/36648
+#EXTINF:-1,HRT 3 HD
+http://borg.hopto.org:80/hamo/hamo/36646
+#EXTINF:-1,HRT 4 HD
+http://borg.hopto.org:80/hamo/hamo/36647
+#EXTINF:-1,JABUKA TV
+http://borg.hopto.org:80/hamo/hamo/48391
+#EXTINF:-1,SRCE TV
+http://borg.hopto.org:80/hamo/hamo/48392
+#EXTINF:-1,VTV VARAZDIN
+http://borg.hopto.org:80/hamo/hamo/48393
+#EXTINF:-1,HRT 1
+http://borg.hopto.org:80/hamo/hamo/6385
+#EXTINF:-1,HRT 2 HD
+http://borg.hopto.org:80/hamo/hamo/6384
+#EXTINF:-1,HRT 3
+http://borg.hopto.org:80/hamo/hamo/6383
+#EXTINF:-1,HRT 4
+http://borg.hopto.org:80/hamo/hamo/6382
+#EXTINF:-1,HRT 5
+http://borg.hopto.org:80/hamo/hamo/6381
+#EXTINF:-1,N1 HR
+http://borg.hopto.org:80/hamo/hamo/6373
+#EXTINF:-1,NOVA TV
+http://borg.hopto.org:80/hamo/hamo/6380
+#EXTINF:-1,NOVA TV HD
+http://borg.hopto.org:80/hamo/hamo/7509
+#EXTINF:-1,DOMA TV
+http://borg.hopto.org:80/hamo/hamo/6379
+#EXTINF:-1,DOMA TV HD
+http://borg.hopto.org:80/hamo/hamo/7510
+#EXTINF:-1,RTL
+http://borg.hopto.org:80/hamo/hamo/6378
+#EXTINF:-1,RTL 2
+http://borg.hopto.org:80/hamo/hamo/6377
+#EXTINF:-1,RTL CRIME
+http://borg.hopto.org:80/hamo/hamo/6376
+#EXTINF:-1,RTL LIVING
+http://borg.hopto.org:80/hamo/hamo/6375
+#EXTINF:-1,RTL PASSION
+http://borg.hopto.org:80/hamo/hamo/6374
+#EXTINF:-1,TV BANOVINA
+http://borg.hopto.org:80/hamo/hamo/6371
+#EXTINF:-1,OSJECKA TV
+http://borg.hopto.org:80/hamo/hamo/6370
+#EXTINF:-1,AXN ADRIA
+http://borg.hopto.org:80/hamo/hamo/6436
+#EXTINF:-1,CINEMAX 1
+http://borg.hopto.org:80/hamo/hamo/6440
+#EXTINF:-1,CINEMAX 2
+http://borg.hopto.org:80/hamo/hamo/6439
+#EXTINF:-1,CINESTAR ACTION TV
+http://borg.hopto.org:80/hamo/hamo/6443
+#EXTINF:-1,CINESTAR FANTASY
+http://borg.hopto.org:80/hamo/hamo/6450
+#EXTINF:-1,CINESTAR PREMIERE 1
+http://borg.hopto.org:80/hamo/hamo/6442
+#EXTINF:-1,CINESTAR PREMIERE 2
+http://borg.hopto.org:80/hamo/hamo/6441
+#EXTINF:-1,CINESTAR TV
+http://borg.hopto.org:80/hamo/hamo/6444
+#EXTINF:-1,FOX HD
+http://borg.hopto.org:80/hamo/hamo/6435
+#EXTINF:-1,FOX CRIME HD
+http://borg.hopto.org:80/hamo/hamo/6433
+#EXTINF:-1,FOX LIFE HD
+http://borg.hopto.org:80/hamo/hamo/6434
+#EXTINF:-1,FOX MOVIES HD
+http://borg.hopto.org:80/hamo/hamo/6432
+#EXTINF:-1,HBO 1 HD
+http://borg.hopto.org:80/hamo/hamo/6605
+#EXTINF:-1,HBO 2 HD
+http://borg.hopto.org:80/hamo/hamo/6446
+#EXTINF:-1,HBO 3 HD
+http://borg.hopto.org:80/hamo/hamo/6445
+#EXTINF:-1,MTV
+http://borg.hopto.org:80/hamo/hamo/6472
+#EXTINF:-1,OK BAMBINO
+http://borg.hopto.org:80/hamo/hamo/6496
+#EXTINF:-1,YU PLANET
+http://borg.hopto.org:80/hamo/hamo/6478
+#EXTINF:-1,Z 1
+http://borg.hopto.org:80/hamo/hamo/6372
+#EXTINF:-1,24 KITCHEN
+http://borg.hopto.org:80/hamo/hamo/6470
+#EXTINF:-1,ANIMAL PLANET
+http://borg.hopto.org:80/hamo/hamo/6453
+#EXTINF:-1,ANIMAL PLANET HD
+http://borg.hopto.org:80/hamo/hamo/6454
+#EXTINF:-1,CMC MUSIC
+http://borg.hopto.org:80/hamo/hamo/6488
+#EXTINF:-1,CRIME INVESTIGATION
+http://borg.hopto.org:80/hamo/hamo/6464
+#EXTINF:-1,DISCOVERY
+http://borg.hopto.org:80/hamo/hamo/6468
+#EXTINF:-1,DISCOVERY ID
+http://borg.hopto.org:80/hamo/hamo/6467
+#EXTINF:-1,DOCUBOX HD
+http://borg.hopto.org:80/hamo/hamo/6465
+#EXTINF:-1,HISTORY
+http://borg.hopto.org:80/hamo/hamo/6463
+#EXTINF:-1,HISTORY 2
+http://borg.hopto.org:80/hamo/hamo/6461
+#EXTINF:-1,HISTORY HD
+http://borg.hopto.org:80/hamo/hamo/6462
+#EXTINF:-1,KLASIK TV
+http://borg.hopto.org:80/hamo/hamo/6438
+#EXTINF:-1,LOV I RIBOLOV
+http://borg.hopto.org:80/hamo/hamo/6452
+#EXTINF:-1,LOV I RIBOLOV HD
+http://borg.hopto.org:80/hamo/hamo/6451
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://borg.hopto.org:80/hamo/hamo/6457
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://borg.hopto.org:80/hamo/hamo/6456
+#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+http://borg.hopto.org:80/hamo/hamo/6455
+#EXTINF:-1,TRAVEL  CHANNEL
+http://borg.hopto.org:80/hamo/hamo/6469
+#EXTINF:-1,TV 1000
+http://borg.hopto.org:80/hamo/hamo/6437
+#EXTINF:-1,VIASAT EXPLORER
+http://borg.hopto.org:80/hamo/hamo/6458
+#EXTINF:-1,VIASAT HISTORY
+http://borg.hopto.org:80/hamo/hamo/6460
+#EXTINF:-1,VIASAT NATURE
+http://borg.hopto.org:80/hamo/hamo/6459
+#EXTINF:-1,VINKOVACKA TV
+http://borg.hopto.org:80/hamo/hamo/6369
+#EXTINF:-1,E!
+http://borg.hopto.org:80/hamo/hamo/6449
+#EXTINF:-1,BABY TV
+http://borg.hopto.org:80/hamo/hamo/6497
+#EXTINF:-1,HAYATOVCI BIH
+http://borg.hopto.org:80/hamo/hamo/6498
+#EXTINF:-1,RTS Drama
+http://borg.hopto.org:80/hamo/hamo/36655
+#EXTINF:-1,RTS Kolo
+http://borg.hopto.org:80/hamo/hamo/36654
+#EXTINF:-1,RTS Muzika
+http://borg.hopto.org:80/hamo/hamo/36653
+#EXTINF:-1,RTS SVET
+http://borg.hopto.org:80/hamo/hamo/36650
+#EXTINF:-1,RTS Trezor
+http://borg.hopto.org:80/hamo/hamo/36652
+#EXTINF:-1,RTS Zivot
+http://borg.hopto.org:80/hamo/hamo/36651
+#EXTINF:-1,NOVA
+http://borg.hopto.org:80/hamo/hamo/36644
+#EXTINF:-1,TOP TV
+http://borg.hopto.org:80/hamo/hamo/36649
