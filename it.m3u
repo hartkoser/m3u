@@ -1,99 +1,237 @@
 #EXTM3U
-#EXTINF:-1,Eurosport
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9464.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9463.m3u8
-#EXTINF:-1,Fox Crime HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9462.m3u8
-#EXTINF:-1,Fox HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9461.m3u8
-#EXTINF:-1,Fox Life HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9460.m3u8
-#EXTINF:-1,Premium Action HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9459.m3u8
-#EXTINF:-1,Premium Calcio
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9458.m3u8
-#EXTINF:-1,Premium Calcio 2 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9457.m3u8
-#EXTINF:-1,Premium Cinema Energy
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9456.m3u8
-#EXTINF:-1,Premium Cinema HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9455.m3u8
-#EXTINF:-1,Premium Crime HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9454.m3u8
-#EXTINF:-1,Premium Emotion HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9453.m3u8
-#EXTINF:-1,Premium Fox Sport HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9452.m3u8
-#EXTINF:-1,Premium Sport 2
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9451.m3u8
-#EXTINF:-1,Premium Sport HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9450.m3u8
-#EXTINF:-1,Premium Sport HD 2
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9449.m3u8
-#EXTINF:-1,Premium Stories HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9448.m3u8
-#EXTINF:-1,RAI 1 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9447.m3u8
-#EXTINF:-1,RAI 2 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9446.m3u8
-#EXTINF:-1,RAI 3 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9445.m3u8
-#EXTINF:-1,RAI 4 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9444.m3u8
-#EXTINF:-1,RAI 5
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9443.m3u8
+#EXTINF:-1,Rai 1 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/2110.m3u8
+#EXTINF:-1,Rai 2 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/2109.m3u8
+#EXTINF:-1,Rai 3 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/2108.m3u8
 #EXTINF:-1,Rai News 24
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9442.m3u8
-#EXTINF:-1,Rai Sports 1
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9441.m3u8
-#EXTINF:-1,Rai Sports 2
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9440.m3u8
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/4186.m3u8
+#EXTINF:-1,Rai Premium
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/4185.m3u8
+#EXTINF:-1,Rai Movie HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/4187.m3u8
+#EXTINF:-1,Premium Crime HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1682.m3u8
+#EXTINF:-1,Premium Crime 24 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1686.m3u8
+#EXTINF:-1,Premium Comedy HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1681.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1685.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1684.m3u8
+#EXTINF:-1,Premium Action HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1680.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1690.m3u8
+#EXTINF:-1,Premium Mediaset Extra
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1689.m3u8
+#EXTINF:-1,Premium Joi HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1683.m3u8
+#EXTINF:-1,Premium Emotion HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1687.m3u8
+#EXTINF:-1,Sky Prima Fila 8 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1698.m3u8
+#EXTINF:-1,Sky Prima Fila 7 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1697.m3u8
+#EXTINF:-1,Sky Prima Fila 6 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1696.m3u8
+#EXTINF:-1,Sky Prima fila 5 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1695.m3u8
+#EXTINF:-1,Sky Prima fila 4 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1694.m3u8
+#EXTINF:-1,Sky Prima fila 3 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1693.m3u8
+#EXTINF:-1,Sky Prima fila 2 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1692.m3u8
+#EXTINF:-1,Sky Prima Fila 1 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/1691.m3u8
+#EXTINF:-1,National Geo Wild HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/3009.m3u8
+#EXTINF:-1,NatGeo Wild HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/3010.m3u8
+#EXTINF:-1,NatGeo People HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/3011.m3u8
+#EXTINF:-1,Discovery Sci HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/3014.m3u8
+#EXTINF:-1,Discovery HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/3013.m3u8
+#EXTINF:-1,Crime Investigation HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/3015.m3u8
+#EXTINF:-1,Animal Planet HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/3012.m3u8
+#EXTINF:-1,-frisbee-
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5563.m3u8
+#EXTINF:-1,Alice
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5564.m3u8
+#EXTINF:-1,AXN HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5597.m3u8
+#EXTINF:-1,AXN Sci-Fi
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5598.m3u8
+#EXTINF:-1,Boing
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5645.m3u8
+#EXTINF:-1,CACCIA e Pesca
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5565.m3u8
+#EXTINF:-1,Canale 7
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5573.m3u8
+#EXTINF:-1,Cartoon Network
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5646.m3u8
+#EXTINF:-1,Cartoonito
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5647.m3u8
+#EXTINF:-1,cielo
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5599.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5592.m3u8
+#EXTINF:-1,Discovery Science HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5593.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5594.m3u8
+#EXTINF:-1,Disney XD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5648.m3u8
+#EXTINF:-1,DMAX HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5600.m3u8
+#EXTINF:-1,Focus
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5566.m3u8
+#EXTINF:-1,Fox Animation HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5643.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5609.m3u8
+#EXTINF:-1,Fox Crime HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5610.m3u8
+#EXTINF:-1,Fox HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5611.m3u8
+#EXTINF:-1,Fox Life  1 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5612.m3u8
+#EXTINF:-1,Fox Life HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5613.m3u8
+#EXTINF:-1,Gambero Rosso HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5567.m3u8
+#EXTINF:-1,GIALLO
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5568.m3u8
+#EXTINF:-1,K2
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5559.m3u8
+#EXTINF:-1,La 7d
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5560.m3u8
+#EXTINF:-1,laeffe
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5569.m3u8
+#EXTINF:-1,MARCOPOLO
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5570.m3u8
+#EXTINF:-1,Mediaset 1
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5615.m3u8
+#EXTINF:-1,Mediaset 2
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5616.m3u8
+#EXTINF:-1,Mediaset Extra
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5621.m3u8
+#EXTINF:-1,Mediaset Premium BBC
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5619.m3u8
+#EXTINF:-1,MEDIASET premium calcio 1HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5617.m3u8
+#EXTINF:-1,Nat Geo  HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5595.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5589.m3u8
+#EXTINF:-1,Nikelodeon
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5649.m3u8
+#EXTINF:-1,NUVOLARI
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5571.m3u8
+#EXTINF:-1,Premium Action  24
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5622.m3u8
+#EXTINF:-1,Premium Action HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5623.m3u8
+#EXTINF:-1,premium calcio
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5624.m3u8
+#EXTINF:-1,premium calcio 2
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5625.m3u8
+#EXTINF:-1,premium calcio 3
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5626.m3u8
+#EXTINF:-1,premium calcio 5
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5627.m3u8
+#EXTINF:-1,premium calcio 5 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5620.m3u8
+#EXTINF:-1,premium calcio 6
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5628.m3u8
+#EXTINF:-1,Premium Cinema 2 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5639.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5640.m3u8
+#EXTINF:-1,Premium Emotion
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5629.m3u8
+#EXTINF:-1,Premium Joi
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5630.m3u8
+#EXTINF:-1,Premium Sport HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5641.m3u8
+#EXTINF:-1,Premium Stories
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5618.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5631.m3u8
+#EXTINF:-1,Rai 3HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5562.m3u8
+#EXTINF:-1,Sky 3D
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5602.m3u8
+#EXTINF:-1,Sky Arte HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5588.m3u8
+#EXTINF:-1,SKY ATLANTIC  1 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5603.m3u8
+#EXTINF:-1,Sky Atlantic HD (2)
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5606.m3u8
 #EXTINF:-1,Sky Calcio 1 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9439.m3u8
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5584.m3u8
+#EXTINF:-1,SKY Calcio 10 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5575.m3u8
 #EXTINF:-1,Sky Calcio 2 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9438.m3u8
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5583.m3u8
 #EXTINF:-1,Sky Calcio 3 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9437.m3u8
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5582.m3u8
 #EXTINF:-1,Sky Calcio 4 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9436.m3u8
-#EXTINF:-1,Sky Cinema  24 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9435.m3u8
-#EXTINF:-1,Sky Cinema 1 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9434.m3u8
-#EXTINF:-1,Sky Cinema Atlantic HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9433.m3u8
-#EXTINF:-1,Sky Cinema Classic HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9432.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9431.m3u8
-#EXTINF:-1,Sky Cinema Cult HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9430.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9429.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9428.m3u8
-#EXTINF:-1,Sky Cinema Max HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9427.m3u8
-#EXTINF:-1,SKY Cinema Passion HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9426.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9425.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9424.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9423.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9422.m3u8
-#EXTINF:-1,Sky Sport F1 HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9421.m3u8
-#EXTINF:-1,Sky Sport MotoGP HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9420.m3u8
-#EXTINF:-1,Sky Supercalcio
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9419.m3u8
-#EXTINF:-1,Sky Supertennis
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9418.m3u8
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5581.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5580.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5579.m3u8
+#EXTINF:-1,SKY Calcio 7 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5578.m3u8
+#EXTINF:-1,SKY Calcio 8 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5577.m3u8
+#EXTINF:-1,SKY Calcio 9 HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5576.m3u8
+#EXTINF:-1,Sky Cielo HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5601.m3u8
+#EXTINF:-1,Sky Cielo HD (2)
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5608.m3u8
+#EXTINF:-1,Sky Disney Junior
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5644.m3u8
+#EXTINF:-1,Sky History HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5587.m3u8
+#EXTINF:-1,Sky it Premium Energy
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5637.m3u8
+#EXTINF:-1,Sky it Premium_-Action_24
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5632.m3u8
+#EXTINF:-1,Sky it Premium_-Disney_Channel
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5633.m3u8
+#EXTINF:-1,Sky it Premium_-Disney_Junior--1
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5634.m3u8
+#EXTINF:-1,Sky it Premium_Cinema_2_24
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5635.m3u8
+#EXTINF:-1,Sky it Premium_Discovery_World
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5636.m3u8
+#EXTINF:-1,Sky it Premium_Studio-Universal
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5638.m3u8
+#EXTINF:-1,Sky IT TG24
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5561.m3u8
+#EXTINF:-1,SKY MAN-GA
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5604.m3u8
+#EXTINF:-1,Sky Nat Geo People HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5591.m3u8
+#EXTINF:-1,Sky Realtime
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5607.m3u8
+#EXTINF:-1,Sky Supercalcio HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5585.m3u8
 #EXTINF:-1,Sky Uno HD
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9417.m3u8
-#EXTINF:-1,Sport Italia
-http://m-iptv.net:6204/live/said7s7yglzknsi/ssygshsgzgz7o/9416.m3u8
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5605.m3u8
+#EXTINF:-1,Super
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5572.m3u8
+#EXTINF:-1,Topcrime
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5574.m3u8
+#EXTINF:-1,Animal Planet HD
+http://kqyrshlir.com:8080/live/ArtonKastrati/XfBFFcepit/5590.m3u8
