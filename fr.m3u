@@ -1,77 +1,301 @@
 #EXTM3U
-#EXTINF:-1,TF1
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2225
 #EXTINF:-1,TF1 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2224
-#EXTINF:-1,FRANCE 2
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2377
-#EXTINF:-1,FRANCE 2 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2387
-#EXTINF:-1,FRANCE 2 FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2388
-#EXTINF:-1,FRANCE 3
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2375
-#EXTINF:-1,FRANCE 3 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2386
-#EXTINF:-1,FRANCE 4
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2374
-#EXTINF:-1,FRANCE 4 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2384
-#EXTINF:-1,FRANCE 4 FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2385
-#EXTINF:-1,FRANCE 5
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2373
-#EXTINF:-1,FRANCE 5 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2382
-#EXTINF:-1,FRANCE 5 FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2383
-#EXTINF:-1,FRANCE Ô
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2371
-#EXTINF:-1,FRANCE O HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2378
-#EXTINF:-1,FRANCE Ô FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2379
-#EXTINF:-1,FRANCE 24
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2376
-#EXTINF:-1,M6
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2339
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3591.m3u8
+#EXTINF:-1,TF1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/5324.m3u8
+#EXTINF:-1,France O
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3579.m3u8
+#EXTINF:-1,France 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3575.m3u8
+#EXTINF:-1,France 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3576.m3u8
+#EXTINF:-1,France 5
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3578.m3u8
+#EXTINF:-1,France 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3577.m3u8
+#EXTINF:-1,France 24
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3515.m3u8
 #EXTINF:-1,M6 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2335
-#EXTINF:-1,M6 FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2336
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3581.m3u8
 #EXTINF:-1,W9
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2185
-#EXTINF:-1,W9 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2183
-#EXTINF:-1,W9 FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2184
-#EXTINF:-1,NRJ12 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2292
-#EXTINF:-1,NRJ 12 FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2295
-#EXTINF:-1,NRJ HITS
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2293
-#EXTINF:-1,NRJ HITS FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2294
-#EXTINF:-1,ARTE
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2490
-#EXTINF:-1,ARTE HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2488
-#EXTINF:-1,ARTE FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2489
-#EXTINF:-1,CHERIE 25 HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2436
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3593.m3u8
+#EXTINF:-1,La Une
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3548.m3u8
+#EXTINF:-1,La Deux
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3550.m3u8
+#EXTINF:-1,La Trois
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3549.m3u8
+#EXTINF:-1,RTS Un
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3532.m3u8
+#EXTINF:-1,RTS Deux
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3533.m3u8
+#EXTINF:-1,C8 Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3552.m3u8
+#EXTINF:-1,BFM TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3554.m3u8
+#EXTINF:-1,RTL LUXENBURG
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3536.m3u8
+#EXTINF:-1,RTL 9
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3535.m3u8
+#EXTINF:-1,RTL TVi HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3534.m3u8
+#EXTINF:-1,LCI
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3513.m3u8
+#EXTINF:-1,CNEWS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12757.m3u8
+#EXTINF:-1,6TER HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12770.m3u8
+#EXTINF:-1,ALTICE STUDIO
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12769.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12743.m3u8
+#EXTINF:-1,TFX Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3585.m3u8
+#EXTINF:-1,TEVA
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3791.m3u8
+#EXTINF:-1,AB1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3523.m3u8
+#EXTINF:-1,AB3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3551.m3u8
+#EXTINF:-1,Cherie25
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3989.m3u8
+#EXTINF:-1,NRJ 12 Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3584.m3u8
+#EXTINF:-1,OCS Max Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3588.m3u8
+#EXTINF:-1,OCS City Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3586.m3u8
+#EXTINF:-1,OCS GEANT HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3587.m3u8
+#EXTINF:-1,Canal + Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3561.m3u8
+#EXTINF:-1,CINE +  Club
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3566.m3u8
+#EXTINF:-1,CINE COMEDIE   Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3571.m3u8
+#EXTINF:-1,CINE  PREMIER HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3570.m3u8
+#EXTINF:-1,CANAL   Cinema
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3562.m3u8
+#EXTINF:-1,Canal  Decale Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3563.m3u8
+#EXTINF:-1,CINE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12766.m3u8
+#EXTINF:-1,Cine  Classic Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3565.m3u8
+#EXTINF:-1,Cine  Emotion Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3567.m3u8
+#EXTINF:-1,Cine  Famiz Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3568.m3u8
+#EXTINF:-1,Cine  Frisson Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3569.m3u8
+#EXTINF:-1,Cine Polar HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3545.m3u8
+#EXTINF:-1,ACTION
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3541.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3544.m3u8
+#EXTINF:-1,PARAMOUNT DECALE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12744.m3u8
+#EXTINF:-1,WARNER TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12728.m3u8
+#EXTINF:-1,NOLLYWOOD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12747.m3u8
+#EXTINF:-1,CANAL  SERIES
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3543.m3u8
+#EXTINF:-1,TF1 SERIES FILMS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12733.m3u8
+#EXTINF:-1,13 Eme Rue HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3546.m3u8
 #EXTINF:-1,TMC
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2219
-#EXTINF:-1,TMC HD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2216
-#EXTINF:-1,TMC FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2217
-#EXTINF:-1,NAT GEO WILD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2312
-#EXTINF:-1,NAT GEO WILD FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2313
-#EXTINF:-1,NICK JUNIOR
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2307
-#EXTINF:-1,NICKELODEON FHD
-http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2304
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3547.m3u8
+#EXTINF:-1,TMC  1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12732.m3u8
+#EXTINF:-1,SYFY
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3542.m3u8
+#EXTINF:-1,SERIE CLUB
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12735.m3u8
+#EXTINF:-1,BET TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12774.m3u8
+#EXTINF:-1,Disney Cinema
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3516.m3u8
+#EXTINF:-1,Disney Channel
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3574.m3u8
+#EXTINF:-1,DISNEY CHANNEL  1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12764.m3u8
+#EXTINF:-1,Disney Junior
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3538.m3u8
+#EXTINF:-1,Disney XD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3537.m3u8
+#EXTINF:-1,Nickelodeon
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3540.m3u8
+#EXTINF:-1,NICKELODEON + 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12749.m3u8
+#EXTINF:-1,NICKELODEON 4TEEN
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12748.m3u8
+#EXTINF:-1,BOOMERANG
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3556.m3u8
+#EXTINF:-1,PIWI
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3539.m3u8
+#EXTINF:-1,TELETOON
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3590.m3u8
+#EXTINF:-1,TELETOON 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12734.m3u8
+#EXTINF:-1,BOING
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3517.m3u8
+#EXTINF:-1, CANAL J
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3528.m3u8
+#EXTINF:-1,Gulli HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3580.m3u8
+#EXTINF:-1,TOONAMI
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12731.m3u8
+#EXTINF:-1,J-ONE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12756.m3u8
+#EXTINF:-1,Mangas
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3792.m3u8
+#EXTINF:-1,Game One
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3793.m3u8
+#EXTINF:-1,Nat. Geographic
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3583.m3u8
+#EXTINF:-1,Nat. Geo Wild HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3582.m3u8
+#EXTINF:-1,discovery Channel HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3572.m3u8
+#EXTINF:-1,Discovery Science Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3573.m3u8
+#EXTINF:-1,Histoire
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3514.m3u8
+#EXTINF:-1,Animaux HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3557.m3u8
+#EXTINF:-1,Planète  CI
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3502.m3u8
+#EXTINF:-1,Planete A&E
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3589.m3u8
+#EXTINF:-1,SCIENCE ET VIE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12737.m3u8
+#EXTINF:-1,RMC Decouvert
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3501.m3u8
+#EXTINF:-1,RMC STORY
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12738.m3u8
+#EXTINF:-1,VOYAGE HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3592.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12773.m3u8
+#EXTINF:-1,VOO SPORT 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12775.m3u8
+#EXTINF:-1,ELLE GIRL
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12772.m3u8
+#EXTINF:-1,SEASON
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12736.m3u8
+#EXTINF:-1,MY CUISINE
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12750.m3u8
+#EXTINF:-1,NOVELAS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12746.m3u8
+#EXTINF:-1,TV BREIZH
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12730.m3u8
+#EXTINF:-1,TF1  + 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12727.m3u8
+#EXTINF:-1,USHUAIA TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12729.m3u8
+#EXTINF:-1,LUCKY JACK TV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12755.m3u8
+#EXTINF:-1,INFOSPORT
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12771.m3u8
+#EXTINF:-1,GOLF +
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12758.m3u8
+#EXTINF:-1, FOOT   24/24
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3555.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12760.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12759.m3u8
+#EXTINF:-1,Canal  Sport Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3564.m3u8
+#EXTINF:-1,ELEVEN SPORT 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12763.m3u8
+#EXTINF:-1,ELEVEN SPORT 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12762.m3u8
+#EXTINF:-1,ELEVEN SPORT 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12761.m3u8
+#EXTINF:-1,RMC SPORT 1 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12742.m3u8
+#EXTINF:-1,RMC Sport 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3531.m3u8
+#EXTINF:-1,RMC SPORT 2 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12741.m3u8
+#EXTINF:-1,RMC Sport 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3530.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12740.m3u8
+#EXTINF:-1,RMC Sport 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3500.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12739.m3u8
+#EXTINF:-1,RMC Sport 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/10990.m3u8
+#EXTINF:-1,RMC Sport News
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/10989.m3u8
+#EXTINF:-1,Bein Sports 1 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3558.m3u8
+#EXTINF:-1,Bein Sports 2 Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3559.m3u8
+#EXTINF:-1,Bein Sports 3 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3560.m3u8
+#EXTINF:-1,Bein Sport Max 4 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3522.m3u8
+#EXTINF:-1,Bein Sports Max 5 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3521.m3u8
+#EXTINF:-1,Bein Sports Max 6 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3520.m3u8
+#EXTINF:-1,Bein Sports Max 7 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3519.m3u8
+#EXTINF:-1,Bein Sports Max 8 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3518.m3u8
+#EXTINF:-1,Bein Sports Max 9 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12767.m3u8
+#EXTINF:-1,Bein Sports Max 10 HD
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12768.m3u8
+#EXTINF:-1,A LA CARTE 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3527.m3u8
+#EXTINF:-1,A LA CARTE 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3526.m3u8
+#EXTINF:-1,A LA CARTE 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3525.m3u8
+#EXTINF:-1,A LA CARTE 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3524.m3u8
+#EXTINF:-1,OCS GO CINE 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3512.m3u8
+#EXTINF:-1,OCS GO CINE 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3511.m3u8
+#EXTINF:-1,OCS GO CINE 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3510.m3u8
+#EXTINF:-1,OCS GO CINE 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3509.m3u8
+#EXTINF:-1,OCS GO CINE 5
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3508.m3u8
+#EXTINF:-1,Orange Cine 1
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3507.m3u8
+#EXTINF:-1,Orange Cine 2
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3506.m3u8
+#EXTINF:-1,Orange Cine 3
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3505.m3u8
+#EXTINF:-1,Orange Cine 4
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3504.m3u8
+#EXTINF:-1,Orange Cine 5
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3503.m3u8
+#EXTINF:-1,MTV
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12751.m3u8
+#EXTINF:-1,MCM
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12754.m3u8
+#EXTINF:-1,MCM POP
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12753.m3u8
+#EXTINF:-1,MCM TOP
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12752.m3u8
+#EXTINF:-1,CSTAR Hd
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3553.m3u8
+#EXTINF:-1,CSTAR HITS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12765.m3u8
+#EXTINF:-1,NRJ HITS
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/12745.m3u8
+#EXTINF:-1,TF1 4K
+http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/13519.m3u8
