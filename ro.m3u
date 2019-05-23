@@ -1,119 +1,77 @@
 #EXTM3U
-#EXTINF:-1,TVR 1
-http://www.pandar.tv:25461/alix/alix/29487
-#EXTINF:-1,TVR 2
-http://www.pandar.tv:25461/alix/alix/29486
-#EXTINF:-1,U TV
-http://www.pandar.tv:25461/alix/alix/29485
-#EXTINF:-1,VIASAT NATURE
-http://www.pandar.tv:25461/alix/alix/29484
-#EXTINF:-1,VIASAT HISTORY
-http://www.pandar.tv:25461/alix/alix/29483
-#EXTINF:-1,ROMANIA TV
-http://www.pandar.tv:25461/alix/alix/29482
-#EXTINF:-1,REALITATEA
-http://www.pandar.tv:25461/alix/alix/29481
-#EXTINF:-1,AGRO TV
-http://www.pandar.tv:25461/alix/alix/29480
-#EXTINF:-1,PRO TV
-http://www.pandar.tv:25461/alix/alix/29479
-#EXTINF:-1,NICKELODEON
-http://www.pandar.tv:25461/alix/alix/29478
-#EXTINF:-1,NGC WILD
-http://www.pandar.tv:25461/alix/alix/29477
-#EXTINF:-1,MUSIC CHANNEL HU
-http://www.pandar.tv:25461/alix/alix/29476
-#EXTINF:-1,MEGAMAX
-http://www.pandar.tv:25461/alix/alix/29475
-#EXTINF:-1,KISS TV
-http://www.pandar.tv:25461/alix/alix/29474
-#EXTINF:-1,KANAL D
-http://www.pandar.tv:25461/alix/alix/29473
-#EXTINF:-1,HISTORY CHANNEL
-http://www.pandar.tv:25461/alix/alix/29472
-#EXTINF:-1,HBO ROMANIA
-http://www.pandar.tv:25461/alix/alix/29471
-#EXTINF:-1,HBO 2
-http://www.pandar.tv:25461/alix/alix/29470
-#EXTINF:-1,AXN ROMANIA
-http://www.pandar.tv:25461/alix/alix/29469
-#EXTINF:-1,AXN WHITE
-http://www.pandar.tv:25461/alix/alix/29468
-#EXTINF:-1,DISNEY JUNIOR
-http://www.pandar.tv:25461/alix/alix/29467
-#EXTINF:-1,DIGI WORLD
-http://www.pandar.tv:25461/alix/alix/29466
-#EXTINF:-1,DIGI LIFE
-http://www.pandar.tv:25461/alix/alix/29465
-#EXTINF:-1,DIGI FILM
-http://www.pandar.tv:25461/alix/alix/29464
-#EXTINF:-1,DIGI ANIMAL WORLD
-http://www.pandar.tv:25461/alix/alix/29463
-#EXTINF:-1,DIGI 24
-http://www.pandar.tv:25461/alix/alix/29462
-#EXTINF:-1,CINEMAX RO
-http://www.pandar.tv:25461/alix/alix/29461
-#EXTINF:-1,CINEMAX 2
-http://www.pandar.tv:25461/alix/alix/29460
-#EXTINF:-1,LOOK TV
-http://www.pandar.tv:25461/alix/alix/29459
-#EXTINF:-1,LOOK PLUS TV
-http://www.pandar.tv:25461/alix/alix/29458
+#EXTINF:-1,Antena Stars
+http://force102.com:8080/live/kadir1234/1234kadir/20313.m3u8
+#EXTINF:-1,AXN
+http://force102.com:8080/live/kadir1234/1234kadir/20312.m3u8
+#EXTINF:-1,AXN Black
+http://force102.com:8080/live/kadir1234/1234kadir/20311.m3u8
+#EXTINF:-1,AXN White
+http://force102.com:8080/live/kadir1234/1234kadir/20310.m3u8
 #EXTINF:-1,B1
-http://www.pandar.tv:25461/alix/alix/29457
-#EXTINF:-1,ANTENA 1
-http://www.pandar.tv:25461/alix/alix/29456
-#EXTINF:-1,ANTENA 3
-http://www.pandar.tv:25461/alix/alix/29455
-#EXTINF:-1,ACASA TV
-http://www.pandar.tv:25461/alix/alix/29454
-#EXTINF:-1,ANTENA STARS
-http://www.pandar.tv:25461/alix/alix/29453
-#EXTINF:-1,PRIMA TV
-http://www.pandar.tv:25461/alix/alix/29452
-#EXTINF:-1,HAPPY CHANNEL
-http://www.pandar.tv:25461/alix/alix/29451
-#EXTINF:-1,NATIONAL TV
-http://www.pandar.tv:25461/alix/alix/29450
-#EXTINF:-1,BOOMERANG
-http://www.pandar.tv:25461/alix/alix/29449
-#EXTINF:-1,MINIMAX
-http://www.pandar.tv:25461/alix/alix/29448
-#EXTINF:-1,PRO CINEMA
-http://www.pandar.tv:25461/alix/alix/29447
-#EXTINF:-1,HBO 3
-http://www.pandar.tv:25461/alix/alix/29446
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://www.pandar.tv:25461/alix/alix/29445
-#EXTINF:-1,TV5 MONDE
-http://www.pandar.tv:25461/alix/alix/29444
-#EXTINF:-1,TRINITAS
-http://www.pandar.tv:25461/alix/alix/29443
-#EXTINF:-1,TNT HD
-http://www.pandar.tv:25461/alix/alix/29442
+http://force102.com:8080/live/kadir1234/1234kadir/20309.m3u8
+#EXTINF:-1,Digi 24 HD
+http://force102.com:8080/live/kadir1234/1234kadir/20308.m3u8
+#EXTINF:-1,DIGI Animal World
+http://force102.com:8080/live/kadir1234/1234kadir/20307.m3u8
+#EXTINF:-1,Digi Life
+http://force102.com:8080/live/kadir1234/1234kadir/20306.m3u8
+#EXTINF:-1,Digi World
+http://force102.com:8080/live/kadir1234/1234kadir/20305.m3u8
+#EXTINF:-1,Disney Channel
+http://force102.com:8080/live/kadir1234/1234kadir/20304.m3u8
+#EXTINF:-1,Disney Junior
+http://force102.com:8080/live/kadir1234/1234kadir/20303.m3u8
 #EXTINF:-1,ETNO TV
-http://www.pandar.tv:25461/alix/alix/29441
-#EXTINF:-1,TARAF TV
-http://www.pandar.tv:25461/alix/alix/29440
-#EXTINF:-1,FISHING & HUNTING
-http://www.pandar.tv:25461/alix/alix/29439
-#EXTINF:-1,NGC
-http://www.pandar.tv:25461/alix/alix/29438
-#EXTINF:-1,FAVORIT TV
-http://www.pandar.tv:25461/alix/alix/29437
-#EXTINF:-1,DIGI SPORT 1
-http://www.pandar.tv:25461/alix/alix/29435
-#EXTINF:-1,DIGI SPORT 2
-http://www.pandar.tv:25461/alix/alix/29434
-#EXTINF:-1,DIGI SPORT 3
-http://www.pandar.tv:25461/alix/alix/29433
-#EXTINF:-1,DIGI SPORT 4
-http://www.pandar.tv:25461/alix/alix/29432
-#EXTINF:-1,SPORT.RO
-http://www.pandar.tv:25461/alix/alix/29431
-#EXTINF:-1,EUROSPORT
-http://www.pandar.tv:25461/alix/alix/29430
-#EXTINF:-1,EUROSPORT 2
-http://www.pandar.tv:25461/alix/alix/29429
-#EXTINF:-1,1 MUSIC CHANNEL
-http://www.pandar.tv:25461/alix/alix/29428
+http://force102.com:8080/live/kadir1234/1234kadir/20302.m3u8
+#EXTINF:-1,Eurosport 2
+http://force102.com:8080/live/kadir1234/1234kadir/20301.m3u8
+#EXTINF:-1,Fishing & Hunting
+http://force102.com:8080/live/kadir1234/1234kadir/20300.m3u8
+#EXTINF:-1,Happy Channel
+http://force102.com:8080/live/kadir1234/1234kadir/20299.m3u8
+#EXTINF:-1,HAPPY TV
+http://force102.com:8080/live/kadir1234/1234kadir/20298.m3u8
+#EXTINF:-1,HBO 1
+http://force102.com:8080/live/kadir1234/1234kadir/20297.m3u8
+#EXTINF:-1,HBO 2
+http://force102.com:8080/live/kadir1234/1234kadir/20296.m3u8
+#EXTINF:-1,HBO 3
+http://force102.com:8080/live/kadir1234/1234kadir/20295.m3u8
+#EXTINF:-1,KANAL D
+http://force102.com:8080/live/kadir1234/1234kadir/20294.m3u8
+#EXTINF:-1,Kiss TV
+http://force102.com:8080/live/kadir1234/1234kadir/20293.m3u8
+#EXTINF:-1,MiniMax
+http://force102.com:8080/live/kadir1234/1234kadir/20292.m3u8
+#EXTINF:-1,Music Channel
+http://force102.com:8080/live/kadir1234/1234kadir/20291.m3u8
+#EXTINF:-1,Music Channel HU
+http://force102.com:8080/live/kadir1234/1234kadir/20290.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://force102.com:8080/live/kadir1234/1234kadir/20289.m3u8
+#EXTINF:-1,National Geographic
+http://force102.com:8080/live/kadir1234/1234kadir/20288.m3u8
+#EXTINF:-1,Nickelodeon
+http://force102.com:8080/live/kadir1234/1234kadir/20287.m3u8
+#EXTINF:-1,Paramount Channel
+http://force102.com:8080/live/kadir1234/1234kadir/20286.m3u8
+#EXTINF:-1,PRO CINEMA
+http://force102.com:8080/live/kadir1234/1234kadir/20285.m3u8
+#EXTINF:-1,PRO TV
+http://force102.com:8080/live/kadir1234/1234kadir/20284.m3u8
+#EXTINF:-1,Realitatea TV
+http://force102.com:8080/live/kadir1234/1234kadir/20283.m3u8
+#EXTINF:-1,Romania TV
+http://force102.com:8080/live/kadir1234/1234kadir/20282.m3u8
+#EXTINF:-1,SPORT ROMANIA
+http://force102.com:8080/live/kadir1234/1234kadir/20281.m3u8
+#EXTINF:-1,Taraf TV
+http://force102.com:8080/live/kadir1234/1234kadir/20280.m3u8
+#EXTINF:-1,TV 1000
+http://force102.com:8080/live/kadir1234/1234kadir/20279.m3u8
+#EXTINF:-1,TVR1
+http://force102.com:8080/live/kadir1234/1234kadir/20278.m3u8
+#EXTINF:-1,TVR2
+http://force102.com:8080/live/kadir1234/1234kadir/20277.m3u8
+#EXTINF:-1,Viasat History
+http://force102.com:8080/live/kadir1234/1234kadir/20276.m3u8
