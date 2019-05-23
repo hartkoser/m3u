@@ -1,481 +1,77 @@
 #EXTM3U
+#EXTINF:-1,TF1
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2225
 #EXTINF:-1,TF1 HD
-http://premium-tv.me:9500/live/swag/swag123/724.m3u8
-#EXTINF:-1,TF1 FHD
-http://premium-tv.me:9500/live/swag/swag123/1261.m3u8
-#EXTINF:-1,TF1 SERIES HD
-http://premium-tv.me:9500/live/swag/swag123/349.m3u8
-#EXTINF:-1,TF1 SERIES FHD
-http://premium-tv.me:9500/live/swag/swag123/1839.m3u8
-#EXTINF:-1,M6 HD
-http://premium-tv.me:9500/live/swag/swag123/542.m3u8
-#EXTINF:-1,M6 FHD
-http://premium-tv.me:9500/live/swag/swag123/1263.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2224
+#EXTINF:-1,FRANCE 2
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2377
 #EXTINF:-1,FRANCE 2 HD
-http://premium-tv.me:9500/live/swag/swag123/344.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2387
 #EXTINF:-1,FRANCE 2 FHD
-http://premium-tv.me:9500/live/swag/swag123/1029.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2388
+#EXTINF:-1,FRANCE 3
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2375
 #EXTINF:-1,FRANCE 3 HD
-http://premium-tv.me:9500/live/swag/swag123/345.m3u8
-#EXTINF:-1,FRANCE 3 FHD
-http://premium-tv.me:9500/live/swag/swag123/1032.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2386
+#EXTINF:-1,FRANCE 4
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2374
 #EXTINF:-1,FRANCE 4 HD
-http://premium-tv.me:9500/live/swag/swag123/346.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2384
 #EXTINF:-1,FRANCE 4 FHD
-http://premium-tv.me:9500/live/swag/swag123/1031.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2385
+#EXTINF:-1,FRANCE 5
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2373
 #EXTINF:-1,FRANCE 5 HD
-http://premium-tv.me:9500/live/swag/swag123/347.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2382
 #EXTINF:-1,FRANCE 5 FHD
-http://premium-tv.me:9500/live/swag/swag123/1030.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2383
+#EXTINF:-1,FRANCE Ô
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2371
 #EXTINF:-1,FRANCE O HD
-http://premium-tv.me:9500/live/swag/swag123/348.m3u8
-#EXTINF:-1,FRANCE O FHD
-http://premium-tv.me:9500/live/swag/swag123/1028.m3u8
-#EXTINF:-1,TFX HD
-http://premium-tv.me:9500/live/swag/swag123/350.m3u8
-#EXTINF:-1,TFX FHD
-http://premium-tv.me:9500/live/swag/swag123/264.m3u8
-#EXTINF:-1,CANAL PLUS HD
-http://premium-tv.me:9500/live/swag/swag123/12.m3u8
-#EXTINF:-1,CANAL PLUS FHD
-http://premium-tv.me:9500/live/swag/swag123/912.m3u8
-#EXTINF:-1,CANAL CINEMA HD
-http://premium-tv.me:9500/live/swag/swag123/14.m3u8
-#EXTINF:-1,CANAL CINEMA FHD
-http://premium-tv.me:9500/live/swag/swag123/913.m3u8
-#EXTINF:-1,CANAL DECALE HD
-http://premium-tv.me:9500/live/swag/swag123/13.m3u8
-#EXTINF:-1,CANAL DECALE FHD
-http://premium-tv.me:9500/live/swag/swag123/1153.m3u8
-#EXTINF:-1,CANAL FAMILY HD
-http://premium-tv.me:9500/live/swag/swag123/16.m3u8
-#EXTINF:-1,CANAL FAMILY FHD
-http://premium-tv.me:9500/live/swag/swag123/1266.m3u8
-#EXTINF:-1,CANAL SERIES HD
-http://premium-tv.me:9500/live/swag/swag123/17.m3u8
-#EXTINF:-1,CANAL SERIES FHD
-http://premium-tv.me:9500/live/swag/swag123/910.m3u8
-#EXTINF:-1,CINE EMOTION HD
-http://premium-tv.me:9500/live/swag/swag123/20.m3u8
-#EXTINF:-1,CINE EMOTION FHD
-http://premium-tv.me:9500/live/swag/swag123/6432.m3u8
-#EXTINF:-1,CINE FRISSON HD
-http://premium-tv.me:9500/live/swag/swag123/18.m3u8
-#EXTINF:-1,CINE FRISSON FHD
-http://premium-tv.me:9500/live/swag/swag123/6433.m3u8
-#EXTINF:-1,CINE PREMIER HD
-http://premium-tv.me:9500/live/swag/swag123/939.m3u8
-#EXTINF:-1,CINE PREMIER FHD
-http://premium-tv.me:9500/live/swag/swag123/6434.m3u8
-#EXTINF:-1,CINE CLASSIC HD
-http://premium-tv.me:9500/live/swag/swag123/21.m3u8
-#EXTINF:-1,CINE CLASSIC FHD
-http://premium-tv.me:9500/live/swag/swag123/6435.m3u8
-#EXTINF:-1,CINE CLUB H.265
-http://premium-tv.me:9500/live/swag/swag123/6436.m3u8
-#EXTINF:-1,CINE CLUB HD
-http://premium-tv.me:9500/live/swag/swag123/940.m3u8
-#EXTINF:-1,CINE FAMIZ HD
-http://premium-tv.me:9500/live/swag/swag123/19.m3u8
-#EXTINF:-1,CINE FAMIZ FHD
-http://premium-tv.me:9500/live/swag/swag123/6437.m3u8
-#EXTINF:-1,CINE POLAR FHD
-http://premium-tv.me:9500/live/swag/swag123/6438.m3u8
-#EXTINF:-1,CINE POLAR HD
-http://premium-tv.me:9500/live/swag/swag123/703.m3u8
-#EXTINF:-1,CINE FX HD
-http://premium-tv.me:9500/live/swag/swag123/702.m3u8
-#EXTINF:-1,CINE FX FHD
-http://premium-tv.me:9500/live/swag/swag123/6439.m3u8
-#EXTINF:-1,OCS CHOC HD
-http://premium-tv.me:9500/live/swag/swag123/712.m3u8
-#EXTINF:-1,OCS CHOC FHD
-http://premium-tv.me:9500/live/swag/swag123/6440.m3u8
-#EXTINF:-1,OCS GEANT FHD
-http://premium-tv.me:9500/live/swag/swag123/6441.m3u8
-#EXTINF:-1,OCS GEANT HD
-http://premium-tv.me:9500/live/swag/swag123/149.m3u8
-#EXTINF:-1,OCS CITY HD
-http://premium-tv.me:9500/live/swag/swag123/150.m3u8
-#EXTINF:-1,OCS CITY FHD
-http://premium-tv.me:9500/live/swag/swag123/6442.m3u8
-#EXTINF:-1,OCS MAX HD
-http://premium-tv.me:9500/live/swag/swag123/148.m3u8
-#EXTINF:-1,OCS MAX FHD
-http://premium-tv.me:9500/live/swag/swag123/6443.m3u8
-#EXTINF:-1,ACTION HD
-http://premium-tv.me:9500/live/swag/swag123/31.m3u8
-#EXTINF:-1,ACTION FHD
-http://premium-tv.me:9500/live/swag/swag123/6445.m3u8
-#EXTINF:-1,SERIE CLUB HD
-http://premium-tv.me:9500/live/swag/swag123/14358.m3u8
-#EXTINF:-1,SERIE CLUB FHD
-http://premium-tv.me:9500/live/swag/swag123/14359.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://premium-tv.me:9500/live/swag/swag123/722.m3u8
-#EXTINF:-1,TCM CINEMA FHD
-http://premium-tv.me:9500/live/swag/swag123/6446.m3u8
-#EXTINF:-1,COMEDIE+ HD
-http://premium-tv.me:9500/live/swag/swag123/1092.m3u8
-#EXTINF:-1,COMEDIE+ H.265
-http://premium-tv.me:9500/live/swag/swag123/6444.m3u8
-#EXTINF:-1,ANIMAUX HD
-http://premium-tv.me:9500/live/swag/swag123/6447.m3u8
-#EXTINF:-1,ANIMAUX FHD
-http://premium-tv.me:9500/live/swag/swag123/46.m3u8
-#EXTINF:-1,USHUAIA TV HD
-http://premium-tv.me:9500/live/swag/swag123/43.m3u8
-#EXTINF:-1,USHUAIA TV FHD
-http://premium-tv.me:9500/live/swag/swag123/1275.m3u8
-#EXTINF:-1,CHASSE PECHE HD
-http://premium-tv.me:9500/live/swag/swag123/6448.m3u8
-#EXTINF:-1,CHASSE PECHE FHD
-http://premium-tv.me:9500/live/swag/swag123/695.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://premium-tv.me:9500/live/swag/swag123/1259.m3u8
-#EXTINF:-1,NATIONAL GEO FHD
-http://premium-tv.me:9500/live/swag/swag123/701.m3u8
-#EXTINF:-1,NATIONAL GEO WILD HD
-http://premium-tv.me:9500/live/swag/swag123/26.m3u8
-#EXTINF:-1,NATIONAL GEO WILD FHD
-http://premium-tv.me:9500/live/swag/swag123/711.m3u8
-#EXTINF:-1,CRIME DISTRICT HD
-http://premium-tv.me:9500/live/swag/swag123/6461.m3u8
-#EXTINF:-1,CRIME DISTRICT FHD
-http://premium-tv.me:9500/live/swag/swag123/1218.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://premium-tv.me:9500/live/swag/swag123/354.m3u8
-#EXTINF:-1,DISCOVERY FHD
-http://premium-tv.me:9500/live/swag/swag123/1096.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://premium-tv.me:9500/live/swag/swag123/355.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://premium-tv.me:9500/live/swag/swag123/1097.m3u8
-#EXTINF:-1,DISCOVERY ID HD
-http://premium-tv.me:9500/live/swag/swag123/1011.m3u8
-#EXTINF:-1,DISCOVERY ID FHD
-http://premium-tv.me:9500/live/swag/swag123/80.m3u8
-#EXTINF:-1,TREK
-http://premium-tv.me:9500/live/swag/swag123/215.m3u8
-#EXTINF:-1,TREK FHD
-http://premium-tv.me:9500/live/swag/swag123/6449.m3u8
-#EXTINF:-1,SEASON HD
-http://premium-tv.me:9500/live/swag/swag123/6450.m3u8
-#EXTINF:-1,SEASON FHD
-http://premium-tv.me:9500/live/swag/swag123/965.m3u8
-#EXTINF:-1,PLANETE PLUS HD
-http://premium-tv.me:9500/live/swag/swag123/700.m3u8
-#EXTINF:-1,PLANETE PLUS FHD
-http://premium-tv.me:9500/live/swag/swag123/6451.m3u8
-#EXTINF:-1,PLANETE CI HD
-http://premium-tv.me:9500/live/swag/swag123/32.m3u8
-#EXTINF:-1,PLANETE CI FHD
-http://premium-tv.me:9500/live/swag/swag123/6452.m3u8
-#EXTINF:-1,PLANETE AE
-http://premium-tv.me:9500/live/swag/swag123/33.m3u8
-#EXTINF:-1,PLANETE AE FHD
-http://premium-tv.me:9500/live/swag/swag123/6453.m3u8
-#EXTINF:-1,SCIENCE VIE HD
-http://premium-tv.me:9500/live/swag/swag123/6454.m3u8
-#EXTINF:-1,SCIENCE VIE FHD
-http://premium-tv.me:9500/live/swag/swag123/1171.m3u8
-#EXTINF:-1,RMC DECOUVERTE HD
-http://premium-tv.me:9500/live/swag/swag123/854.m3u8
-#EXTINF:-1,RMC DECOUVERTE FHD
-http://premium-tv.me:9500/live/swag/swag123/6499.m3u8
-#EXTINF:-1,VOYAGE HD
-http://premium-tv.me:9500/live/swag/swag123/719.m3u8
-#EXTINF:-1,VOYAGE FHD
-http://premium-tv.me:9500/live/swag/swag123/6455.m3u8
-#EXTINF:-1,TOUT LHISTOIRE HD
-http://premium-tv.me:9500/live/swag/swag123/706.m3u8
-#EXTINF:-1,TOUT LHISTOIRE FHD
-http://premium-tv.me:9500/live/swag/swag123/6456.m3u8
-#EXTINF:-1,**** CSAT ENFANTS ****
-http://premium-tv.me:9500/live/swag/swag123/908.m3u8
-#EXTINF:-1,PIWI HD
-http://premium-tv.me:9500/live/swag/swag123/698.m3u8
-#EXTINF:-1,PIWI FHD
-http://premium-tv.me:9500/live/swag/swag123/1023.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://premium-tv.me:9500/live/swag/swag123/40.m3u8
-#EXTINF:-1,CARTOON NETWORK FHD
-http://premium-tv.me:9500/live/swag/swag123/1027.m3u8
-#EXTINF:-1,TELETOON HD
-http://premium-tv.me:9500/live/swag/swag123/943.m3u8
-#EXTINF:-1,TELETOON FHD
-http://premium-tv.me:9500/live/swag/swag123/1020.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://premium-tv.me:9500/live/swag/swag123/42.m3u8
-#EXTINF:-1,BOOMERANG FHD
-http://premium-tv.me:9500/live/swag/swag123/1025.m3u8
-#EXTINF:-1,CANAL J FHD
-http://premium-tv.me:9500/live/swag/swag123/45.m3u8
-#EXTINF:-1,GULLI HD
-http://premium-tv.me:9500/live/swag/swag123/44.m3u8
-#EXTINF:-1,GULLI FHD
-http://premium-tv.me:9500/live/swag/swag123/1018.m3u8
-#EXTINF:-1,TIJI HD
-http://premium-tv.me:9500/live/swag/swag123/705.m3u8
-#EXTINF:-1,TIJI FHD
-http://premium-tv.me:9500/live/swag/swag123/1024.m3u8
-#EXTINF:-1,TOONAMI HD
-http://premium-tv.me:9500/live/swag/swag123/18516.m3u8
-#EXTINF:-1,TOONAMI FHD
-http://premium-tv.me:9500/live/swag/swag123/18517.m3u8
-#EXTINF:-1,GAME ONE HD
-http://premium-tv.me:9500/live/swag/swag123/721.m3u8
-#EXTINF:-1,GAME ONE H 265
-http://premium-tv.me:9500/live/swag/swag123/24.m3u8
-#EXTINF:-1,MANGAS HD
-http://premium-tv.me:9500/live/swag/swag123/35.m3u8
-#EXTINF:-1,MANGAS FHD
-http://premium-tv.me:9500/live/swag/swag123/1026.m3u8
-#EXTINF:-1,CANAL J HD
-http://premium-tv.me:9500/live/swag/swag123/1021.m3u8
-#EXTINF:-1,BOING HD
-http://premium-tv.me:9500/live/swag/swag123/710.m3u8
-#EXTINF:-1,BOING FHD
-http://premium-tv.me:9500/live/swag/swag123/1022.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://premium-tv.me:9500/live/swag/swag123/966.m3u8
-#EXTINF:-1,NICKELODEON FHD
-http://premium-tv.me:9500/live/swag/swag123/1019.m3u8
-#EXTINF:-1,NICKELODEON JUNIOR  HD
-http://premium-tv.me:9500/live/swag/swag123/1034.m3u8
-#EXTINF:-1,NICKELODEON JUNIOR FHD
-http://premium-tv.me:9500/live/swag/swag123/1016.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://premium-tv.me:9500/live/swag/swag123/704.m3u8
-#EXTINF:-1,DISNEY JUNIOR FHD
-http://premium-tv.me:9500/live/swag/swag123/1015.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://premium-tv.me:9500/live/swag/swag123/48.m3u8
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://premium-tv.me:9500/live/swag/swag123/1014.m3u8
-#EXTINF:-1,DISNEY CINEMA HD
-http://premium-tv.me:9500/live/swag/swag123/942.m3u8
-#EXTINF:-1,DISNEY CINEMA FHD
-http://premium-tv.me:9500/live/swag/swag123/1017.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://premium-tv.me:9500/live/swag/swag123/718.m3u8
-#EXTINF:-1,DISNEY XD FHD
-http://premium-tv.me:9500/live/swag/swag123/870.m3u8
-#EXTINF:-1,ZOUZOUS
-http://premium-tv.me:9500/live/swag/swag123/996.m3u8
-#EXTINF:-1,ZOUZOUS FHD
-http://premium-tv.me:9500/live/swag/swag123/869.m3u8
-#EXTINF:-1,RMC SPORTS NEWS HD
-http://premium-tv.me:9500/live/swag/swag123/6430.m3u8
-#EXTINF:-1,RMC SPORTS 1 HD
-http://premium-tv.me:9500/live/swag/swag123/1045.m3u8
-#EXTINF:-1,RMC SPORTS 1 FHD
-http://premium-tv.me:9500/live/swag/swag123/1131.m3u8
-#EXTINF:-1,RMC SPORTS 2 HD
-http://premium-tv.me:9500/live/swag/swag123/762.m3u8
-#EXTINF:-1,RMC SPORTS 2 FHD
-http://premium-tv.me:9500/live/swag/swag123/1142.m3u8
-#EXTINF:-1,RMC SPORTS  3 HD
-http://premium-tv.me:9500/live/swag/swag123/1046.m3u8
-#EXTINF:-1,RMC SPORTS 3 FHD
-http://premium-tv.me:9500/live/swag/swag123/1121.m3u8
-#EXTINF:-1,RMC SPORTS 4 HD
-http://premium-tv.me:9500/live/swag/swag123/197.m3u8
-#EXTINF:-1,RMC SPORTS 4 FHD
-http://premium-tv.me:9500/live/swag/swag123/1123.m3u8
-#EXTINF:-1,BEINSPORT 1 HD
-http://premium-tv.me:9500/live/swag/swag123/1253.m3u8
-#EXTINF:-1,BEINSPORT 1 FHD
-http://premium-tv.me:9500/live/swag/swag123/2.m3u8
-#EXTINF:-1,BEINSPORT 2 HD
-http://premium-tv.me:9500/live/swag/swag123/1254.m3u8
-#EXTINF:-1,BEINSPORT 2 FHD
-http://premium-tv.me:9500/live/swag/swag123/3.m3u8
-#EXTINF:-1,BEINSPORT 3 HD
-http://premium-tv.me:9500/live/swag/swag123/1255.m3u8
-#EXTINF:-1,BEINSPORT 3 FHD
-http://premium-tv.me:9500/live/swag/swag123/4.m3u8
-#EXTINF:-1,BEINSPORT MAX 4 HD
-http://premium-tv.me:9500/live/swag/swag123/1286.m3u8
-#EXTINF:-1,BEINSPORT MAX 5 HD
-http://premium-tv.me:9500/live/swag/swag123/1291.m3u8
-#EXTINF:-1,BEINSPORT MAX 6 HD
-http://premium-tv.me:9500/live/swag/swag123/1290.m3u8
-#EXTINF:-1,BEINSPORT MAX 7 HD
-http://premium-tv.me:9500/live/swag/swag123/1288.m3u8
-#EXTINF:-1,BEINSPORT MAX 8 HD
-http://premium-tv.me:9500/live/swag/swag123/1287.m3u8
-#EXTINF:-1,BEINSPORT MAX 9 HD
-http://premium-tv.me:9500/live/swag/swag123/1285.m3u8
-#EXTINF:-1,BEINSPORT MAX 10 HD
-http://premium-tv.me:9500/live/swag/swag123/1284.m3u8
-#EXTINF:-1,CANAL SPORT HD
-http://premium-tv.me:9500/live/swag/swag123/15.m3u8
-#EXTINF:-1,CANAL SPORT FHD
-http://premium-tv.me:9500/live/swag/swag123/911.m3u8
-#EXTINF:-1,FOOT+24 HD
-http://premium-tv.me:9500/live/swag/swag123/754.m3u8
-#EXTINF:-1,FOOT+24 FHD
-http://premium-tv.me:9500/live/swag/swag123/1112.m3u8
-#EXTINF:-1,INFOSPORT HD
-http://premium-tv.me:9500/live/swag/swag123/696.m3u8
-#EXTINF:-1,INFOSPORT FHD
-http://premium-tv.me:9500/live/swag/swag123/1143.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://premium-tv.me:9500/live/swag/swag123/1091.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://premium-tv.me:9500/live/swag/swag123/89.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://premium-tv.me:9500/live/swag/swag123/1211.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD
-http://premium-tv.me:9500/live/swag/swag123/812.m3u8
-#EXTINF:-1,L'EQUIPE 21 HD
-http://premium-tv.me:9500/live/swag/swag123/37.m3u8
-#EXTINF:-1,L'EQUIPE 21 FHD
-http://premium-tv.me:9500/live/swag/swag123/97.m3u8
-#EXTINF:-1,EQUIDIA LIVE HD
-http://premium-tv.me:9500/live/swag/swag123/755.m3u8
-#EXTINF:-1,EQUIDIA LIVE FHD
-http://premium-tv.me:9500/live/swag/swag123/1118.m3u8
-#EXTINF:-1,EQUIDIA LIFE HD
-http://premium-tv.me:9500/live/swag/swag123/868.m3u8
-#EXTINF:-1,EQUIDIA LIFE FHD
-http://premium-tv.me:9500/live/swag/swag123/1117.m3u8
-#EXTINF:-1,GOLF CHANNEL HD
-http://premium-tv.me:9500/live/swag/swag123/1236.m3u8
-#EXTINF:-1,GOLF CHANNEL FHD
-http://premium-tv.me:9500/live/swag/swag123/850.m3u8
-#EXTINF:-1,FRANCE 24 HD
-http://premium-tv.me:9500/live/swag/swag123/852.m3u8
-#EXTINF:-1,FRANCE 24 FHD
-http://premium-tv.me:9500/live/swag/swag123/6477.m3u8
-#EXTINF:-1,EURONEWS
-http://premium-tv.me:9500/live/swag/swag123/853.m3u8
-#EXTINF:-1,EURONEWS FHD
-http://premium-tv.me:9500/live/swag/swag123/6478.m3u8
-#EXTINF:-1,C NEWS HD
-http://premium-tv.me:9500/live/swag/swag123/38.m3u8
-#EXTINF:-1,C NEWS FHD
-http://premium-tv.me:9500/live/swag/swag123/6479.m3u8
-#EXTINF:-1,BFM HD
-http://premium-tv.me:9500/live/swag/swag123/937.m3u8
-#EXTINF:-1,BFM FHD
-http://premium-tv.me:9500/live/swag/swag123/6480.m3u8
-#EXTINF:-1,LCI HD
-http://premium-tv.me:9500/live/swag/swag123/41.m3u8
-#EXTINF:-1,LCI FHD
-http://premium-tv.me:9500/live/swag/swag123/6481.m3u8
-#EXTINF:-1,PARAMOUNT CH HD
-http://premium-tv.me:9500/live/swag/swag123/1276.m3u8
-#EXTINF:-1,PARAMOUNT CH FHD
-http://premium-tv.me:9500/live/swag/swag123/6476.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://premium-tv.me:9500/live/swag/swag123/30.m3u8
-#EXTINF:-1,TV BREIZH FHD
-http://premium-tv.me:9500/live/swag/swag123/992.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2378
+#EXTINF:-1,FRANCE Ô FHD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2379
+#EXTINF:-1,FRANCE 24
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2376
+#EXTINF:-1,M6
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2339
+#EXTINF:-1,M6 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2335
+#EXTINF:-1,M6 FHD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2336
+#EXTINF:-1,W9
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2185
 #EXTINF:-1,W9 HD
-http://premium-tv.me:9500/live/swag/swag123/707.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2183
 #EXTINF:-1,W9 FHD
-http://premium-tv.me:9500/live/swag/swag123/988.m3u8
-#EXTINF:-1,SYFY FHD
-http://premium-tv.me:9500/live/swag/swag123/351.m3u8
-#EXTINF:-1,SYFY HD
-http://premium-tv.me:9500/live/swag/swag123/1168.m3u8
-#EXTINF:-1,TV5 MONDE HD
-http://premium-tv.me:9500/live/swag/swag123/709.m3u8
-#EXTINF:-1,TV5 MONDE FHD
-http://premium-tv.me:9500/live/swag/swag123/6497.m3u8
-#EXTINF:-1,PARIS PREMIERE HD
-http://premium-tv.me:9500/live/swag/swag123/720.m3u8
-#EXTINF:-1,PARIS PREMIERE FHD
-http://premium-tv.me:9500/live/swag/swag123/6498.m3u8
-#EXTINF:-1,13 EME RUE HD
-http://premium-tv.me:9500/live/swag/swag123/47.m3u8
-#EXTINF:-1,13 EME RUE FHD
-http://premium-tv.me:9500/live/swag/swag123/6496.m3u8
-#EXTINF:-1,NUMERO 23
-http://premium-tv.me:9500/live/swag/swag123/356.m3u8
-#EXTINF:-1,NUMERO 23 H265
-http://premium-tv.me:9500/live/swag/swag123/6495.m3u8
-#EXTINF:-1,CHERIE 25 HD
-http://premium-tv.me:9500/live/swag/swag123/39.m3u8
-#EXTINF:-1,CHERIE 25 FHD
-http://premium-tv.me:9500/live/swag/swag123/6494.m3u8
-#EXTINF:-1,ARTE HD
-http://premium-tv.me:9500/live/swag/swag123/936.m3u8
-#EXTINF:-1,ARTE FHD
-http://premium-tv.me:9500/live/swag/swag123/6493.m3u8
-#EXTINF:-1,CSTAR HD
-http://premium-tv.me:9500/live/swag/swag123/1093.m3u8
-#EXTINF:-1,CSTAR FHD
-http://premium-tv.me:9500/live/swag/swag123/6492.m3u8
-#EXTINF:-1,C8 HD
-http://premium-tv.me:9500/live/swag/swag123/25.m3u8
-#EXTINF:-1,C8 FHD
-http://premium-tv.me:9500/live/swag/swag123/6491.m3u8
-#EXTINF:-1,RTL 9 HD
-http://premium-tv.me:9500/live/swag/swag123/699.m3u8
-#EXTINF:-1,RTL 9 FHD
-http://premium-tv.me:9500/live/swag/swag123/6490.m3u8
-#EXTINF:-1,6TER HD
-http://premium-tv.me:9500/live/swag/swag123/27.m3u8
-#EXTINF:-1,6TER FHD
-http://premium-tv.me:9500/live/swag/swag123/6489.m3u8
-#EXTINF:-1,WEO
-http://premium-tv.me:9500/live/swag/swag123/849.m3u8
-#EXTINF:-1,WEO H265
-http://premium-tv.me:9500/live/swag/swag123/6488.m3u8
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://premium-tv.me:9500/live/swag/swag123/1232.m3u8
-#EXTINF:-1,E! ENTERTAINMENT FHD
-http://premium-tv.me:9500/live/swag/swag123/6487.m3u8
-#EXTINF:-1,AB1 HD
-http://premium-tv.me:9500/live/swag/swag123/353.m3u8
-#EXTINF:-1,AB1 FHD
-http://premium-tv.me:9500/live/swag/swag123/6486.m3u8
-#EXTINF:-1,AB MOTEURS HD
-http://premium-tv.me:9500/live/swag/swag123/1227.m3u8
-#EXTINF:-1,AB MOTEURS FHD
-http://premium-tv.me:9500/live/swag/swag123/6485.m3u8
-#EXTINF:-1,TMC HD
-http://premium-tv.me:9500/live/swag/swag123/29.m3u8
-#EXTINF:-1,TMC FHD
-http://premium-tv.me:9500/live/swag/swag123/6484.m3u8
-#EXTINF:-1,TEVA
-http://premium-tv.me:9500/live/swag/swag123/28.m3u8
-#EXTINF:-1,TEVA H265
-http://premium-tv.me:9500/live/swag/swag123/6483.m3u8
-#EXTINF:-1,NRJ 12 HD
-http://premium-tv.me:9500/live/swag/swag123/34.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2184
+#EXTINF:-1,NRJ12 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2292
 #EXTINF:-1,NRJ 12 FHD
-http://premium-tv.me:9500/live/swag/swag123/6482.m3u8
-#EXTINF:-1,M6 MUSIC HD
-http://premium-tv.me:9500/live/swag/swag123/938.m3u8
-#EXTINF:-1,MTV MUSIC HD
-http://premium-tv.me:9500/live/swag/swag123/1209.m3u8
-#EXTINF:-1,MTV HITS HD
-http://premium-tv.me:9500/live/swag/swag123/1208.m3u8
-#EXTINF:-1,MTV LIVE HD
-http://premium-tv.me:9500/live/swag/swag123/1210.m3u8
-#EXTINF:-1,NRJ TV HD
-http://premium-tv.me:9500/live/swag/swag123/59.m3u8
-#EXTINF:-1,CANAL PLAY 1
-http://premium-tv.me:9500/live/swag/swag123/358.m3u8
-#EXTINF:-1,CANAL PLAY 2
-http://premium-tv.me:9500/live/swag/swag123/359.m3u8
-#EXTINF:-1,CANAL PLAY 3
-http://premium-tv.me:9500/live/swag/swag123/360.m3u8
-#EXTINF:-1,CANAL PLAY 4
-http://premium-tv.me:9500/live/swag/swag123/361.m3u8
-#EXTINF:-1,CANAL PLAY 5
-http://premium-tv.me:9500/live/swag/swag123/362.m3u8
-#EXTINF:-1,CANAL PLAY 6
-http://premium-tv.me:9500/live/swag/swag123/363.m3u8
-#EXTINF:-1,CANAL PLAY 7
-http://premium-tv.me:9500/live/swag/swag123/364.m3u8
-#EXTINF:-1,CANAL PLAY 8
-http://premium-tv.me:9500/live/swag/swag123/365.m3u8
-#EXTINF:-1,CANAL PLAY 9
-http://premium-tv.me:9500/live/swag/swag123/366.m3u8
-#EXTINF:-1,CANAL PLAY 10
-http://premium-tv.me:9500/live/swag/swag123/367.m3u8
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2295
+#EXTINF:-1,NRJ HITS
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2293
+#EXTINF:-1,NRJ HITS FHD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2294
+#EXTINF:-1,ARTE
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2490
+#EXTINF:-1,ARTE HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2488
+#EXTINF:-1,ARTE FHD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2489
+#EXTINF:-1,CHERIE 25 HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2436
+#EXTINF:-1,TMC
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2219
+#EXTINF:-1,TMC HD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2216
+#EXTINF:-1,TMC FHD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2217
+#EXTINF:-1,NAT GEO WILD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2312
+#EXTINF:-1,NAT GEO WILD FHD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2313
+#EXTINF:-1,NICK JUNIOR
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2307
+#EXTINF:-1,NICKELODEON FHD
+http://vipiptv.selfip.net:80/lourenzo/FHzHCceTER/2304
