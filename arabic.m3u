@@ -1,397 +1,545 @@
 #EXTM3U
-#EXTINF:-1,BEIN MOVIES  1 HD
-http://premium-tv.me:9500/live/swag/swag123/99.m3u8
-#EXTINF:-1,BEIN MOVIES  2 HD
-http://premium-tv.me:9500/live/swag/swag123/100.m3u8
-#EXTINF:-1,BEIN MOVIES  3 HD
-http://premium-tv.me:9500/live/swag/swag123/101.m3u8
-#EXTINF:-1,BEIN MOVIES  4 HD
-http://premium-tv.me:9500/live/swag/swag123/300.m3u8
-#EXTINF:-1,BEIN DRAMA 1 HD
-http://premium-tv.me:9500/live/swag/swag123/185.m3u8
-#EXTINF:-1,BEIN SERIES 1 HD
-http://premium-tv.me:9500/live/swag/swag123/127.m3u8
-#EXTINF:-1,BEIN DMAX.
-http://premium-tv.me:9500/live/swag/swag123/1185.m3u8
-#EXTINF:-1,BEIN FOX ACTION HD
-http://premium-tv.me:9500/live/swag/swag123/1120.m3u8
-#EXTINF:-1,BEIN BARAEM HD
-http://premium-tv.me:9500/live/swag/swag123/728.m3u8
-#EXTINF:-1,BEIIN JUNIOR HD
-http://premium-tv.me:9500/live/swag/swag123/989.m3u8
-#EXTINF:-1,BEIN JEEM HD.
-http://premium-tv.me:9500/live/swag/swag123/733.m3u8
-#EXTINF:-1,BEIN GOURMET HD
-http://premium-tv.me:9500/live/swag/swag123/725.m3u8
-#EXTINF:-1,BEIN FATAFET HD
-http://premium-tv.me:9500/live/swag/swag123/909.m3u8
-#EXTINF:-1,BEIN ANIMAL PLANET HD
-http://premium-tv.me:9500/live/swag/swag123/1115.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 1 HD
-http://premium-tv.me:9500/live/swag/swag123/1035.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 2 HD
-http://premium-tv.me:9500/live/swag/swag123/1036.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 3 HD
-http://premium-tv.me:9500/live/swag/swag123/1037.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 4 HD
-http://premium-tv.me:9500/live/swag/swag123/1251.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 5 HD
-http://premium-tv.me:9500/live/swag/swag123/1252.m3u8
-#EXTINF:-1,ABU DHABI SPORTS 6 HD
-http://premium-tv.me:9500/live/swag/swag123/201.m3u8
-#EXTINF:-1,AL JAZEERA HD
-http://premium-tv.me:9500/live/swag/swag123/554.m3u8
-#EXTINF:-1,AL JAZEERA SD
-http://premium-tv.me:9500/live/swag/swag123/143.m3u8
-#EXTINF:-1,AL JAZEERA MUB HD
-http://premium-tv.me:9500/live/swag/swag123/3718.m3u8
-#EXTINF:-1,AL JAZEERA NEWS ENG
-http://premium-tv.me:9500/live/swag/swag123/6850.m3u8
-#EXTINF:-1,AL ARABIYA HD
-http://premium-tv.me:9500/live/swag/swag123/142.m3u8
-#EXTINF:-1,AL HADATH
-http://premium-tv.me:9500/live/swag/swag123/694.m3u8
-#EXTINF:-1,FRANCE 24
-http://premium-tv.me:9500/live/swag/swag123/144.m3u8
-#EXTINF:-1,BBC ARABIC.
-http://premium-tv.me:9500/live/swag/swag123/186.m3u8
-#EXTINF:-1,SKY NEWS
-http://premium-tv.me:9500/live/swag/swag123/1094.m3u8
-#EXTINF:-1,Al Ekhbariya
-http://premium-tv.me:9500/live/swag/swag123/896.m3u8
-#EXTINF:-1,RT ARABIC
-http://premium-tv.me:9500/live/swag/swag123/1100.m3u8
-#EXTINF:-1,AL AANN NEWS
-http://premium-tv.me:9500/live/swag/swag123/6851.m3u8
-#EXTINF:-1,AL SHARQIYA HD
-http://premium-tv.me:9500/live/swag/swag123/6852.m3u8
-#EXTINF:-1,Aljazeera Doc
-http://premium-tv.me:9500/live/swag/swag123/907.m3u8
-#EXTINF:-1,National Geo Abudhabi
-http://premium-tv.me:9500/live/swag/swag123/715.m3u8
-#EXTINF:-1,Quest Arabia
-http://premium-tv.me:9500/live/swag/swag123/1265.m3u8
-#EXTINF:-1,CN Arabia
-http://premium-tv.me:9500/live/swag/swag123/828.m3u8
-#EXTINF:-1,Space Toon
-http://premium-tv.me:9500/live/swag/swag123/831.m3u8
-#EXTINF:-1,baraem
-http://premium-tv.me:9500/live/swag/swag123/829.m3u8
-#EXTINF:-1,Toyour ElJannah
-http://premium-tv.me:9500/live/swag/swag123/830.m3u8
-#EXTINF:-1,Toyour Baby
-http://premium-tv.me:9500/live/swag/swag123/214.m3u8
-#EXTINF:-1,AlJazeera Kids
-http://premium-tv.me:9500/live/swag/swag123/826.m3u8
-#EXTINF:-1,AJAIL
-http://premium-tv.me:9500/live/swag/swag123/898.m3u8
-#EXTINF:-1,Semsem
-http://premium-tv.me:9500/live/swag/swag123/1099.m3u8
-#EXTINF:-1,Al Majd Quran
-http://premium-tv.me:9500/live/swag/swag123/835.m3u8
-#EXTINF:-1,Al Majd Hadith
-http://premium-tv.me:9500/live/swag/swag123/187.m3u8
-#EXTINF:-1,Al Majd
-http://premium-tv.me:9500/live/swag/swag123/1111.m3u8
-#EXTINF:-1,AL RAHMA
-http://premium-tv.me:9500/live/swag/swag123/837.m3u8
-#EXTINF:-1,Alnas
-http://premium-tv.me:9500/live/swag/swag123/822.m3u8
-#EXTINF:-1,IQRAA
-http://premium-tv.me:9500/live/swag/swag123/834.m3u8
-#EXTINF:-1,Alresalah
-http://premium-tv.me:9500/live/swag/swag123/836.m3u8
-#EXTINF:-1,Saudi haj
-http://premium-tv.me:9500/live/swag/swag123/904.m3u8
-#EXTINF:-1,Alerth Al Nabawi
-http://premium-tv.me:9500/live/swag/swag123/905.m3u8
-#EXTINF:-1,Bahrain Quraan
-http://premium-tv.me:9500/live/swag/swag123/838.m3u8
-#EXTINF:-1,Mekka LIVE
-http://premium-tv.me:9500/live/swag/swag123/839.m3u8
-#EXTINF:-1,Wesal
-http://premium-tv.me:9500/live/swag/swag123/225.m3u8
-#EXTINF:-1,Art Aflam 1
-http://premium-tv.me:9500/live/swag/swag123/220.m3u8
-#EXTINF:-1,Art Aflam 2
-http://premium-tv.me:9500/live/swag/swag123/221.m3u8
-#EXTINF:-1,Art Cinema
-http://premium-tv.me:9500/live/swag/swag123/238.m3u8
-#EXTINF:-1,Art Hekayat 1
-http://premium-tv.me:9500/live/swag/swag123/222.m3u8
-#EXTINF:-1,Art Hekayat 2
-http://premium-tv.me:9500/live/swag/swag123/223.m3u8
-#EXTINF:-1,MBC 1
-http://premium-tv.me:9500/live/swag/swag123/128.m3u8
-#EXTINF:-1,MBC 1 HD
-http://premium-tv.me:9500/live/swag/swag123/1767.m3u8
-#EXTINF:-1,MBC 2
-http://premium-tv.me:9500/live/swag/swag123/129.m3u8
-#EXTINF:-1,MBC 2 HD
-http://premium-tv.me:9500/live/swag/swag123/1768.m3u8
-#EXTINF:-1,MBC 3
-http://premium-tv.me:9500/live/swag/swag123/130.m3u8
-#EXTINF:-1,MBC 3 HD
-http://premium-tv.me:9500/live/swag/swag123/1769.m3u8
-#EXTINF:-1,MBC 4
-http://premium-tv.me:9500/live/swag/swag123/131.m3u8
-#EXTINF:-1,MBC 4 HD
-http://premium-tv.me:9500/live/swag/swag123/1770.m3u8
-#EXTINF:-1,MBC ACTION
-http://premium-tv.me:9500/live/swag/swag123/132.m3u8
-#EXTINF:-1,MBC ACTION HD
-http://premium-tv.me:9500/live/swag/swag123/1221.m3u8
-#EXTINF:-1,MBC MAX
-http://premium-tv.me:9500/live/swag/swag123/137.m3u8
-#EXTINF:-1,MBC MAX HD
-http://premium-tv.me:9500/live/swag/swag123/297.m3u8
-#EXTINF:-1,MBC DRAMA
-http://premium-tv.me:9500/live/swag/swag123/134.m3u8
-#EXTINF:-1,MBC DRAMA HD
-http://premium-tv.me:9500/live/swag/swag123/855.m3u8
-#EXTINF:-1,MBC+DRAMA
-http://premium-tv.me:9500/live/swag/swag123/1223.m3u8
-#EXTINF:-1,MBC+DRAMA HD
-http://premium-tv.me:9500/live/swag/swag123/1038.m3u8
-#EXTINF:-1,MBC VARIETY
-http://premium-tv.me:9500/live/swag/swag123/765.m3u8
-#EXTINF:-1,MBC VARIETY HD
-http://premium-tv.me:9500/live/swag/swag123/1040.m3u8
-#EXTINF:-1,MBC BOLLYWOOD
-http://premium-tv.me:9500/live/swag/swag123/133.m3u8
-#EXTINF:-1,MBC MASR 1
-http://premium-tv.me:9500/live/swag/swag123/135.m3u8
-#EXTINF:-1,MBC MASR 2
-http://premium-tv.me:9500/live/swag/swag123/136.m3u8
-#EXTINF:-1,MBC ZEE Alwan
-http://premium-tv.me:9500/live/swag/swag123/814.m3u8
-#EXTINF:-1,MBC ZEE Aflam
-http://premium-tv.me:9500/live/swag/swag123/813.m3u8
-#EXTINF:-1,MBC B4U AFLAM
-http://premium-tv.me:9500/live/swag/swag123/305.m3u8
-#EXTINF:-1,MBC SPORT 1HD
-http://premium-tv.me:9500/live/swag/swag123/138.m3u8
-#EXTINF:-1,MBC SPORT 2HD
-http://premium-tv.me:9500/live/swag/swag123/139.m3u8
-#EXTINF:-1,MBC SPORT 3HD
-http://premium-tv.me:9500/live/swag/swag123/140.m3u8
-#EXTINF:-1,MBC SPORT 4HD
-http://premium-tv.me:9500/live/swag/swag123/1214.m3u8
-#EXTINF:-1,Rotana Cinema
-http://premium-tv.me:9500/live/swag/swag123/382.m3u8
-#EXTINF:-1,Rotana Cinema HD
-http://premium-tv.me:9500/live/swag/swag123/1145.m3u8
-#EXTINF:-1,Rotana Aflam
-http://premium-tv.me:9500/live/swag/swag123/388.m3u8
-#EXTINF:-1,Rotana Aflam HD
-http://premium-tv.me:9500/live/swag/swag123/1134.m3u8
-#EXTINF:-1,Rotana Massrya
-http://premium-tv.me:9500/live/swag/swag123/384.m3u8
-#EXTINF:-1,Rotana Massrya HD
-http://premium-tv.me:9500/live/swag/swag123/1127.m3u8
-#EXTINF:-1,Rotana Khaliji
-http://premium-tv.me:9500/live/swag/swag123/386.m3u8
-#EXTINF:-1,Rotana Khaliji HD
-http://premium-tv.me:9500/live/swag/swag123/1133.m3u8
-#EXTINF:-1,Rotana classic
-http://premium-tv.me:9500/live/swag/swag123/383.m3u8
-#EXTINF:-1,Rotana Classic HD
-http://premium-tv.me:9500/live/swag/swag123/861.m3u8
-#EXTINF:-1,Rotana Music
-http://premium-tv.me:9500/live/swag/swag123/385.m3u8
-#EXTINF:-1,Rotana Music HD
-http://premium-tv.me:9500/live/swag/swag123/387.m3u8
-#EXTINF:-1,OSN MOVIES BOX OFFICE 1
-http://premium-tv.me:9500/live/swag/swag123/848.m3u8
-#EXTINF:-1,OSN MOVIES BOX OFFICE 2
-http://premium-tv.me:9500/live/swag/swag123/204.m3u8
-#EXTINF:-1,OSN MOVIES BOX OFFICE 3
-http://premium-tv.me:9500/live/swag/swag123/205.m3u8
-#EXTINF:-1,OSN Movies HD
-http://premium-tv.me:9500/live/swag/swag123/210.m3u8
-#EXTINF:-1,OSN Movies 2 HD
-http://premium-tv.me:9500/live/swag/swag123/209.m3u8
-#EXTINF:-1,OSN Movies Action HD
-http://premium-tv.me:9500/live/swag/swag123/207.m3u8
-#EXTINF:-1,OSN Movies Action 2 HD
-http://premium-tv.me:9500/live/swag/swag123/212.m3u8
-#EXTINF:-1,OSN Movies Premiere
-http://premium-tv.me:9500/live/swag/swag123/213.m3u8
-#EXTINF:-1,OSN Movies Premiere 2
-http://premium-tv.me:9500/live/swag/swag123/1102.m3u8
-#EXTINF:-1,OSN Movies Comedy HD
-http://premium-tv.me:9500/live/swag/swag123/208.m3u8
-#EXTINF:-1,OSN Ondemand HD
-http://premium-tv.me:9500/live/swag/swag123/216.m3u8
-#EXTINF:-1,OSN Ondemend Extra HD
-http://premium-tv.me:9500/live/swag/swag123/206.m3u8
-#EXTINF:-1,OSN Movies Kids
-http://premium-tv.me:9500/live/swag/swag123/729.m3u8
-#EXTINF:-1,OSN Yahala HD
-http://premium-tv.me:9500/live/swag/swag123/1044.m3u8
-#EXTINF:-1,OSN Yahala Drama HD
-http://premium-tv.me:9500/live/swag/swag123/1043.m3u8
-#EXTINF:-1,OSN Yahala Shabab HD
-http://premium-tv.me:9500/live/swag/swag123/925.m3u8
-#EXTINF:-1,OSN Yahala Cinema HD
-http://premium-tv.me:9500/live/swag/swag123/926.m3u8
-#EXTINF:-1,OSN Cinema 1HD
-http://premium-tv.me:9500/live/swag/swag123/217.m3u8
-#EXTINF:-1,OSN Cinema 2HD
-http://premium-tv.me:9500/live/swag/swag123/218.m3u8
-#EXTINF:-1,OSN SeeVii Al oula HD
-http://premium-tv.me:9500/live/swag/swag123/304.m3u8
-#EXTINF:-1,OSN SeeVii Drama HD 
-http://premium-tv.me:9500/live/swag/swag123/381.m3u8
-#EXTINF:-1,OSN SeeVii Beelink HD
-http://premium-tv.me:9500/live/swag/swag123/1041.m3u8
-#EXTINF:-1,OSN SeeVii Shamia
-http://premium-tv.me:9500/live/swag/swag123/301.m3u8
-#EXTINF:-1,OSN Alsafwa
-http://premium-tv.me:9500/live/swag/swag123/727.m3u8
-#EXTINF:-1,ON Sports
-http://premium-tv.me:9500/live/swag/swag123/819.m3u8
-#EXTINF:-1,ON TV
-http://premium-tv.me:9500/live/swag/swag123/991.m3u8
-#EXTINF:-1,ON Live
-http://premium-tv.me:9500/live/swag/swag123/202.m3u8
-#EXTINF:-1,ON Drama
-http://premium-tv.me:9500/live/swag/swag123/730.m3u8
-#EXTINF:-1,Melody Hits
-http://premium-tv.me:9500/live/swag/swag123/1190.m3u8
-#EXTINF:-1,Melody Aflam
-http://premium-tv.me:9500/live/swag/swag123/1189.m3u8
-#EXTINF:-1,Melody Classic
-http://premium-tv.me:9500/live/swag/swag123/398.m3u8
-#EXTINF:-1,Melody Drama
-http://premium-tv.me:9500/live/swag/swag123/1191.m3u8
-#EXTINF:-1,Al Nahar
-http://premium-tv.me:9500/live/swag/swag123/1298.m3u8
-#EXTINF:-1,Al Nahar One
-http://premium-tv.me:9500/live/swag/swag123/400.m3u8
+#EXTINF:-1,AL EKHBARIA
+http://force102.com:8080/live/kadir1234/1234kadir/20696.m3u8
+#EXTINF:-1,BBC Arabic
+http://force102.com:8080/live/kadir1234/1234kadir/20695.m3u8
+#EXTINF:-1, AL JAZEERA
+http://force102.com:8080/live/kadir1234/1234kadir/20694.m3u8
+#EXTINF:-1, AL SHARQIA NEWS
+http://force102.com:8080/live/kadir1234/1234kadir/20693.m3u8
+#EXTINF:-1, Alkass 1 HD
+http://force102.com:8080/live/kadir1234/1234kadir/20692.m3u8
+#EXTINF:-1, MASRAWIA AFLAM
+http://force102.com:8080/live/kadir1234/1234kadir/20691.m3u8
+#EXTINF:-1, Sama TV
+http://force102.com:8080/live/kadir1234/1234kadir/20690.m3u8
+#EXTINF:-1,Abu Dhabi Drama
+http://force102.com:8080/live/kadir1234/1234kadir/20689.m3u8
+#EXTINF:-1,ABU DHABI NAT GEO
+http://force102.com:8080/live/kadir1234/1234kadir/20688.m3u8
+#EXTINF:-1,AbuDhabi TV
+http://force102.com:8080/live/kadir1234/1234kadir/20687.m3u8
+#EXTINF:-1,AD Sport 1
+http://force102.com:8080/live/kadir1234/1234kadir/20686.m3u8
+#EXTINF:-1,AD Sport 2
+http://force102.com:8080/live/kadir1234/1234kadir/20685.m3u8
+#EXTINF:-1,AD Sport 3
+http://force102.com:8080/live/kadir1234/1234kadir/20684.m3u8
+#EXTINF:-1,AD Sport 4
+http://force102.com:8080/live/kadir1234/1234kadir/20683.m3u8
+#EXTINF:-1,AD Sport 5
+http://force102.com:8080/live/kadir1234/1234kadir/20682.m3u8
+#EXTINF:-1,ADEN TV
+http://force102.com:8080/live/kadir1234/1234kadir/20681.m3u8
+#EXTINF:-1,AFRAH
+http://force102.com:8080/live/kadir1234/1234kadir/20680.m3u8
+#EXTINF:-1,Aghani
+http://force102.com:8080/live/kadir1234/1234kadir/20679.m3u8
+#EXTINF:-1,AHWAZNA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20678.m3u8
+#EXTINF:-1,Ajyal
+http://force102.com:8080/live/kadir1234/1234kadir/20677.m3u8
+#EXTINF:-1,AL ALAM
+http://force102.com:8080/live/kadir1234/1234kadir/20676.m3u8
+#EXTINF:-1,AL ARABIYA
+http://force102.com:8080/live/kadir1234/1234kadir/20675.m3u8
+#EXTINF:-1,AL EKhbaria
+http://force102.com:8080/live/kadir1234/1234kadir/20674.m3u8
+#EXTINF:-1,Al Hadath
+http://force102.com:8080/live/kadir1234/1234kadir/20673.m3u8
+#EXTINF:-1,AL HAYAT DZ
+http://force102.com:8080/live/kadir1234/1234kadir/20672.m3u8
+#EXTINF:-1,AL Hilal
+http://force102.com:8080/live/kadir1234/1234kadir/20671.m3u8
+#EXTINF:-1,AL JAMAHIRIA
+http://force102.com:8080/live/kadir1234/1234kadir/20670.m3u8
+#EXTINF:-1,Al JAMELA
+http://force102.com:8080/live/kadir1234/1234kadir/20669.m3u8
+#EXTINF:-1,AL JAZEERA MUBASHER
+http://force102.com:8080/live/kadir1234/1234kadir/20668.m3u8
+#EXTINF:-1,AL MAAREF
+http://force102.com:8080/live/kadir1234/1234kadir/20667.m3u8
+#EXTINF:-1,AL MAJD
+http://force102.com:8080/live/kadir1234/1234kadir/20666.m3u8
+#EXTINF:-1,AL MANAR
+http://force102.com:8080/live/kadir1234/1234kadir/20665.m3u8
+#EXTINF:-1,Al Mayadeen
+http://force102.com:8080/live/kadir1234/1234kadir/20664.m3u8
+#EXTINF:-1,AL Minbar
+http://force102.com:8080/live/kadir1234/1234kadir/20663.m3u8
 #EXTINF:-1,Al Nahar Drama
-http://premium-tv.me:9500/live/swag/swag123/401.m3u8
-#EXTINF:-1,Al Nahar Cinema
-http://premium-tv.me:9500/live/swag/swag123/402.m3u8
-#EXTINF:-1,Al Nahar Al Youm
-http://premium-tv.me:9500/live/swag/swag123/403.m3u8
-#EXTINF:-1,Nile Drama
-http://premium-tv.me:9500/live/swag/swag123/396.m3u8
+http://force102.com:8080/live/kadir1234/1234kadir/20662.m3u8
+#EXTINF:-1,AL Nahar One
+http://force102.com:8080/live/kadir1234/1234kadir/20661.m3u8
+#EXTINF:-1,AL OSTORA
+http://force102.com:8080/live/kadir1234/1234kadir/20660.m3u8
+#EXTINF:-1,AL QUDS
+http://force102.com:8080/live/kadir1234/1234kadir/20659.m3u8
+#EXTINF:-1,AL RAHMA
+http://force102.com:8080/live/kadir1234/1234kadir/20658.m3u8
+#EXTINF:-1,AL Resala
+http://force102.com:8080/live/kadir1234/1234kadir/20657.m3u8
+#EXTINF:-1,AL SAAA COMEDY
+http://force102.com:8080/live/kadir1234/1234kadir/20656.m3u8
+#EXTINF:-1,AL Sahraa
+http://force102.com:8080/live/kadir1234/1234kadir/20655.m3u8
+#EXTINF:-1,AL SERAJ
+http://force102.com:8080/live/kadir1234/1234kadir/20654.m3u8
+#EXTINF:-1,AL SHALLAL
+http://force102.com:8080/live/kadir1234/1234kadir/20653.m3u8
+#EXTINF:-1,AL SHARQIYA HD
+http://force102.com:8080/live/kadir1234/1234kadir/20652.m3u8
+#EXTINF:-1,AL SIRAT
+http://force102.com:8080/live/kadir1234/1234kadir/20651.m3u8
+#EXTINF:-1,AL TALEAA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20650.m3u8
+#EXTINF:-1,Al Thanya
+http://force102.com:8080/live/kadir1234/1234kadir/20649.m3u8
+#EXTINF:-1,Al Waad Channel
+http://force102.com:8080/live/kadir1234/1234kadir/20648.m3u8
+#EXTINF:-1,AL WAHA
+http://force102.com:8080/live/kadir1234/1234kadir/20647.m3u8
+#EXTINF:-1,AL Yawm
+http://force102.com:8080/live/kadir1234/1234kadir/20646.m3u8
+#EXTINF:-1,AL-SHAREYYAH CHANNEL
+http://force102.com:8080/live/kadir1234/1234kadir/20645.m3u8
+#EXTINF:-1,ALAAN TV
+http://force102.com:8080/live/kadir1234/1234kadir/20644.m3u8
+#EXTINF:-1,ALBAIT BAITAK  CINEMA
+http://force102.com:8080/live/kadir1234/1234kadir/20643.m3u8
+#EXTINF:-1,ALDAWAA ALSHAFY
+http://force102.com:8080/live/kadir1234/1234kadir/20642.m3u8
+#EXTINF:-1,ALGERIA  3
+http://force102.com:8080/live/kadir1234/1234kadir/20641.m3u8
+#EXTINF:-1,AlGhad AlMushreq
+http://force102.com:8080/live/kadir1234/1234kadir/20640.m3u8
+#EXTINF:-1,ALHAYAT
+http://force102.com:8080/live/kadir1234/1234kadir/20639.m3u8
+#EXTINF:-1,ALHAYAT ALAAN
+http://force102.com:8080/live/kadir1234/1234kadir/20638.m3u8
+#EXTINF:-1,ALHAYAT MUSALSALAT
+http://force102.com:8080/live/kadir1234/1234kadir/20637.m3u8
+#EXTINF:-1,Alhurra
+http://force102.com:8080/live/kadir1234/1234kadir/20636.m3u8
+#EXTINF:-1,aljadeed
+http://force102.com:8080/live/kadir1234/1234kadir/20635.m3u8
+#EXTINF:-1,ALJANOUBIA
+http://force102.com:8080/live/kadir1234/1234kadir/20634.m3u8
+#EXTINF:-1,Aljazeera Documentaire
+http://force102.com:8080/live/kadir1234/1234kadir/20633.m3u8
+#EXTINF:-1,Alkass 2 HD
+http://force102.com:8080/live/kadir1234/1234kadir/20632.m3u8
+#EXTINF:-1,Alkass 3
+http://force102.com:8080/live/kadir1234/1234kadir/20631.m3u8
+#EXTINF:-1,Alkass 4 HD
+http://force102.com:8080/live/kadir1234/1234kadir/20630.m3u8
+#EXTINF:-1,Alkass 5 HD
+http://force102.com:8080/live/kadir1234/1234kadir/20629.m3u8
+#EXTINF:-1,Alkass Online
+http://force102.com:8080/live/kadir1234/1234kadir/20628.m3u8
+#EXTINF:-1,ALMAGHARABIA
+http://force102.com:8080/live/kadir1234/1234kadir/20627.m3u8
+#EXTINF:-1,ALMAGHARABIA 2
+http://force102.com:8080/live/kadir1234/1234kadir/20626.m3u8
+#EXTINF:-1,AlMajd Quran
+http://force102.com:8080/live/kadir1234/1234kadir/20625.m3u8
+#EXTINF:-1,ALMASSAR AL OULA
+http://force102.com:8080/live/kadir1234/1234kadir/20624.m3u8
+#EXTINF:-1,AR | ALAnwar
+http://force102.com:8080/live/kadir1234/1234kadir/10651.m3u8
+#EXTINF:-1,ALNABAA HD
+http://force102.com:8080/live/kadir1234/1234kadir/20623.m3u8
+#EXTINF:-1,ALOULA MARROCO
+http://force102.com:8080/live/kadir1234/1234kadir/20622.m3u8
+#EXTINF:-1,Alqanat 9
+http://force102.com:8080/live/kadir1234/1234kadir/20621.m3u8
+#EXTINF:-1,ANN
+http://force102.com:8080/live/kadir1234/1234kadir/20620.m3u8
+#EXTINF:-1,ARABICA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20613.m3u8
+#EXTINF:-1,ART AFLAM 1
+http://force102.com:8080/live/kadir1234/1234kadir/20612.m3u8
+#EXTINF:-1,ART AFLAM 2
+http://force102.com:8080/live/kadir1234/1234kadir/20611.m3u8
+#EXTINF:-1,ART CINEMA
+http://force102.com:8080/live/kadir1234/1234kadir/20610.m3u8
+#EXTINF:-1,ART HEKAYAT 1
+http://force102.com:8080/live/kadir1234/1234kadir/20609.m3u8
+#EXTINF:-1,ART HEKAYAT 2
+http://force102.com:8080/live/kadir1234/1234kadir/20608.m3u8
+#EXTINF:-1,Attessia
+http://force102.com:8080/live/kadir1234/1234kadir/20607.m3u8
+#EXTINF:-1,B4U AFLAM
+http://force102.com:8080/live/kadir1234/1234kadir/20606.m3u8
+#EXTINF:-1,Bahia
+http://force102.com:8080/live/kadir1234/1234kadir/20605.m3u8
+#EXTINF:-1,BAHRAIN SPORT
+http://force102.com:8080/live/kadir1234/1234kadir/20604.m3u8
+#EXTINF:-1,Baraem
+http://force102.com:8080/live/kadir1234/1234kadir/20603.m3u8
+#EXTINF:-1,BELODY AFLAM
+http://force102.com:8080/live/kadir1234/1234kadir/20602.m3u8
+#EXTINF:-1,Belqees
+http://force102.com:8080/live/kadir1234/1234kadir/20601.m3u8
+#EXTINF:-1,Beur
+http://force102.com:8080/live/kadir1234/1234kadir/20600.m3u8
+#EXTINF:-1,Carthage TV
+http://force102.com:8080/live/kadir1234/1234kadir/20599.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://force102.com:8080/live/kadir1234/1234kadir/20598.m3u8
+#EXTINF:-1,Cbc
+http://force102.com:8080/live/kadir1234/1234kadir/20597.m3u8
+#EXTINF:-1,CBC DRAMA
+http://force102.com:8080/live/kadir1234/1234kadir/20596.m3u8
+#EXTINF:-1,CBC EXTRA
+http://force102.com:8080/live/kadir1234/1234kadir/20595.m3u8
+#EXTINF:-1,CBC SOFRA
+http://force102.com:8080/live/kadir1234/1234kadir/20594.m3u8
+#EXTINF:-1,CHADA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20593.m3u8
+#EXTINF:-1,CHAMS TV loacl
+http://force102.com:8080/live/kadir1234/1234kadir/20592.m3u8
+#EXTINF:-1,CIMA ALIBABA
+http://force102.com:8080/live/kadir1234/1234kadir/20591.m3u8
+#EXTINF:-1,CINEMA2
+http://force102.com:8080/live/kadir1234/1234kadir/20590.m3u8
+#EXTINF:-1,CITRUSS TV
+http://force102.com:8080/live/kadir1234/1234kadir/20589.m3u8
+#EXTINF:-1,Direct
+http://force102.com:8080/live/kadir1234/1234kadir/20588.m3u8
+#EXTINF:-1,Djazairia
+http://force102.com:8080/live/kadir1234/1234kadir/20587.m3u8
+#EXTINF:-1,DMC
+http://force102.com:8080/live/kadir1234/1234kadir/20586.m3u8
+#EXTINF:-1,DMC Drama
+http://force102.com:8080/live/kadir1234/1234kadir/20585.m3u8
+#EXTINF:-1,DOLLY MOSALSALAT
+http://force102.com:8080/live/kadir1234/1234kadir/20584.m3u8
+#EXTINF:-1,DR. ABO ELNASR
+http://force102.com:8080/live/kadir1234/1234kadir/20583.m3u8
+#EXTINF:-1,DREAM 2
+http://force102.com:8080/live/kadir1234/1234kadir/20582.m3u8
+#EXTINF:-1,DREAM TV
+http://force102.com:8080/live/kadir1234/1234kadir/20581.m3u8
+#EXTINF:-1,DUBAI
+http://force102.com:8080/live/kadir1234/1234kadir/20580.m3u8
+#EXTINF:-1,Dubai Drama
+http://force102.com:8080/live/kadir1234/1234kadir/20579.m3u8
+#EXTINF:-1,DUBAI ONE
+http://force102.com:8080/live/kadir1234/1234kadir/20578.m3u8
+#EXTINF:-1,Dubai Racing
+http://force102.com:8080/live/kadir1234/1234kadir/20577.m3u8
+#EXTINF:-1,Dubai Sport 2
+http://force102.com:8080/live/kadir1234/1234kadir/20576.m3u8
+#EXTINF:-1,Dubai Sports 1
+http://force102.com:8080/live/kadir1234/1234kadir/20575.m3u8
+#EXTINF:-1,Dubai Zaman
+http://force102.com:8080/live/kadir1234/1234kadir/20574.m3u8
+#EXTINF:-1,DubaiSport 3
+http://force102.com:8080/live/kadir1234/1234kadir/20573.m3u8
+#EXTINF:-1,Dzair
+http://force102.com:8080/live/kadir1234/1234kadir/20572.m3u8
+#EXTINF:-1,Echorouk
+http://force102.com:8080/live/kadir1234/1234kadir/20571.m3u8
+#EXTINF:-1,Echorouk Benna
+http://force102.com:8080/live/kadir1234/1234kadir/20570.m3u8
+#EXTINF:-1,Echorouk News
+http://force102.com:8080/live/kadir1234/1234kadir/20569.m3u8
+#EXTINF:-1,El Bilad
+http://force102.com:8080/live/kadir1234/1234kadir/20568.m3u8
+#EXTINF:-1,El Fadjr
+http://force102.com:8080/live/kadir1234/1234kadir/20567.m3u8
+#EXTINF:-1,El Haddaf
+http://force102.com:8080/live/kadir1234/1234kadir/20566.m3u8
+#EXTINF:-1,El Hiwar Tounsi
+http://force102.com:8080/live/kadir1234/1234kadir/20565.m3u8
+#EXTINF:-1,EL Sharq
+http://force102.com:8080/live/kadir1234/1234kadir/20564.m3u8
+#EXTINF:-1,Ennahar
+http://force102.com:8080/live/kadir1234/1234kadir/20563.m3u8
+#EXTINF:-1,Extra news
+http://force102.com:8080/live/kadir1234/1234kadir/20562.m3u8
+#EXTINF:-1,FRANCE 24
+http://force102.com:8080/live/kadir1234/1234kadir/20561.m3u8
+#EXTINF:-1,Funoon
+http://force102.com:8080/live/kadir1234/1234kadir/20560.m3u8
+#EXTINF:-1,GREEN LIFELocal
+http://force102.com:8080/live/kadir1234/1234kadir/20559.m3u8
+#EXTINF:-1,HABESHA
+http://force102.com:8080/live/kadir1234/1234kadir/20558.m3u8
+#EXTINF:-1,HALABA
+http://force102.com:8080/live/kadir1234/1234kadir/20557.m3u8
+#EXTINF:-1,HANNIBAL
+http://force102.com:8080/live/kadir1234/1234kadir/20556.m3u8
+#EXTINF:-1,HAREEM ELSULTAN
+http://force102.com:8080/live/kadir1234/1234kadir/20555.m3u8
+#EXTINF:-1,HAWAS TV
+http://force102.com:8080/live/kadir1234/1234kadir/20554.m3u8
+#EXTINF:-1,HEKAYA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20553.m3u8
+#EXTINF:-1,Imagine Movie
+http://force102.com:8080/live/kadir1234/1234kadir/20552.m3u8
+#EXTINF:-1,IMAM REDA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20551.m3u8
+#EXTINF:-1,Insen TV
+http://force102.com:8080/live/kadir1234/1234kadir/20550.m3u8
+#EXTINF:-1,IRAQIA SPORTS
+http://force102.com:8080/live/kadir1234/1234kadir/20549.m3u8
+#EXTINF:-1,IUC
+http://force102.com:8080/live/kadir1234/1234kadir/20548.m3u8
+#EXTINF:-1,JORDAN ADWAA
+http://force102.com:8080/live/kadir1234/1234kadir/20547.m3u8
+#EXTINF:-1,JORDAN LEQAA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20546.m3u8
+#EXTINF:-1,JORDAN NOOR
+http://force102.com:8080/live/kadir1234/1234kadir/20545.m3u8
+#EXTINF:-1,Karameesh
+http://force102.com:8080/live/kadir1234/1234kadir/20544.m3u8
+#EXTINF:-1,KARBALA
+http://force102.com:8080/live/kadir1234/1234kadir/20543.m3u8
+#EXTINF:-1,KBS WORLD
+http://force102.com:8080/live/kadir1234/1234kadir/20542.m3u8
+#EXTINF:-1,KOKKY TV
+http://force102.com:8080/live/kadir1234/1234kadir/20541.m3u8
+#EXTINF:-1,KSA SPORT 1
+http://force102.com:8080/live/kadir1234/1234kadir/20540.m3u8
+#EXTINF:-1,KSA SPORT 2  Loal
+http://force102.com:8080/live/kadir1234/1234kadir/20539.m3u8
+#EXTINF:-1,KSA Sports 2
+http://force102.com:8080/live/kadir1234/1234kadir/20538.m3u8
+#EXTINF:-1,KTO
+http://force102.com:8080/live/kadir1234/1234kadir/20537.m3u8
+#EXTINF:-1,KUWAIT AL-ARABI
+http://force102.com:8080/live/kadir1234/1234kadir/20536.m3u8
+#EXTINF:-1,LANA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20535.m3u8
+#EXTINF:-1,LBC LEBANON
+http://force102.com:8080/live/kadir1234/1234kadir/20534.m3u8
+#EXTINF:-1,LCD
+http://force102.com:8080/live/kadir1234/1234kadir/20533.m3u8
+#EXTINF:-1,LCD MOVIES
+http://force102.com:8080/live/kadir1234/1234kadir/20532.m3u8
+#EXTINF:-1,ldc
+http://force102.com:8080/live/kadir1234/1234kadir/20531.m3u8
+#EXTINF:-1,Libya Almarsad
+http://force102.com:8080/live/kadir1234/1234kadir/20530.m3u8
+#EXTINF:-1,Libya elwatan
+http://force102.com:8080/live/kadir1234/1234kadir/20529.m3u8
+#EXTINF:-1,LIBYA WAAD FM
+http://force102.com:8080/live/kadir1234/1234kadir/20528.m3u8
+#EXTINF:-1,M CINEMA
+http://force102.com:8080/live/kadir1234/1234kadir/20527.m3u8
+#EXTINF:-1,M TUNISIA
+http://force102.com:8080/live/kadir1234/1234kadir/20526.m3u8
+#EXTINF:-1,MAJID KIDS
+http://force102.com:8080/live/kadir1234/1234kadir/20525.m3u8
+#EXTINF:-1,MARJAEYAT 2
+http://force102.com:8080/live/kadir1234/1234kadir/20524.m3u8
+#EXTINF:-1,MASDAR TV
+http://force102.com:8080/live/kadir1234/1234kadir/20523.m3u8
+#EXTINF:-1,Maspero Zaman
+http://force102.com:8080/live/kadir1234/1234kadir/20522.m3u8
+#EXTINF:-1,Mazzika HITS
+http://force102.com:8080/live/kadir1234/1234kadir/20521.m3u8
+#EXTINF:-1,Mazzika TV
+http://force102.com:8080/live/kadir1234/1234kadir/20520.m3u8
+#EXTINF:-1,MBC 1
+http://force102.com:8080/live/kadir1234/1234kadir/20519.m3u8
+#EXTINF:-1,MBC 2
+http://force102.com:8080/live/kadir1234/1234kadir/20518.m3u8
+#EXTINF:-1,MBC Masr1
+http://force102.com:8080/live/kadir1234/1234kadir/20517.m3u8
+#EXTINF:-1,MBC Masr2
+http://force102.com:8080/live/kadir1234/1234kadir/20516.m3u8
+#EXTINF:-1,MBC MAX
+http://force102.com:8080/live/kadir1234/1234kadir/20515.m3u8
+#EXTINF:-1,MBCODE TV
+http://force102.com:8080/live/kadir1234/1234kadir/20514.m3u8
+#EXTINF:-1,MD
+http://force102.com:8080/live/kadir1234/1234kadir/20513.m3u8
+#EXTINF:-1,MEDIA SLIDE
+http://force102.com:8080/live/kadir1234/1234kadir/20512.m3u8
+#EXTINF:-1,MESAT HD
+http://force102.com:8080/live/kadir1234/1234kadir/20511.m3u8
+#EXTINF:-1,MICKEY TV
+http://force102.com:8080/live/kadir1234/1234kadir/20510.m3u8
+#EXTINF:-1,Modern Sport
+http://force102.com:8080/live/kadir1234/1234kadir/20509.m3u8
+#EXTINF:-1,MODY KIDS
+http://force102.com:8080/live/kadir1234/1234kadir/20508.m3u8
+#EXTINF:-1,MOSALSALAT TUBE
+http://force102.com:8080/live/kadir1234/1234kadir/20507.m3u8
+#EXTINF:-1,MTV LEBNON
+http://force102.com:8080/live/kadir1234/1234kadir/20506.m3u8
+#EXTINF:-1,MUSTAKILLAH
+http://force102.com:8080/live/kadir1234/1234kadir/20505.m3u8
+#EXTINF:-1,Nat Geo Kids
+http://force102.com:8080/live/kadir1234/1234kadir/20504.m3u8
+#EXTINF:-1,Nessma
+http://force102.com:8080/live/kadir1234/1234kadir/20503.m3u8
 #EXTINF:-1,Nile Cinema
-http://premium-tv.me:9500/live/swag/swag123/723.m3u8
+http://force102.com:8080/live/kadir1234/1234kadir/20502.m3u8
+#EXTINF:-1,Nile Comedy
+http://force102.com:8080/live/kadir1234/1234kadir/20501.m3u8
 #EXTINF:-1,Nile Culture
-http://premium-tv.me:9500/live/swag/swag123/808.m3u8
-#EXTINF:-1,Nile Comedie
-http://premium-tv.me:9500/live/swag/swag123/809.m3u8
+http://force102.com:8080/live/kadir1234/1234kadir/20500.m3u8
+#EXTINF:-1,Nile Drama
+http://force102.com:8080/live/kadir1234/1234kadir/20499.m3u8
 #EXTINF:-1,Nile Life
-http://premium-tv.me:9500/live/swag/swag123/807.m3u8
-#EXTINF:-1,Nile family
-http://premium-tv.me:9500/live/swag/swag123/395.m3u8
+http://force102.com:8080/live/kadir1234/1234kadir/20498.m3u8
 #EXTINF:-1,Nile News
-http://premium-tv.me:9500/live/swag/swag123/1098.m3u8
-#EXTINF:-1,Nile Sport
-http://premium-tv.me:9500/live/swag/swag123/1183.m3u8
-#EXTINF:-1,CBC
-http://premium-tv.me:9500/live/swag/swag123/224.m3u8
-#EXTINF:-1,CBC 2
-http://premium-tv.me:9500/live/swag/swag123/804.m3u8
-#EXTINF:-1,CBC Drama
-http://premium-tv.me:9500/live/swag/swag123/806.m3u8
-#EXTINF:-1,CBC Sofra
-http://premium-tv.me:9500/live/swag/swag123/805.m3u8
-#EXTINF:-1,CBC Extra
-http://premium-tv.me:9500/live/swag/swag123/1156.m3u8
-#EXTINF:-1,Panorama Drama
-http://premium-tv.me:9500/live/swag/swag123/1192.m3u8
-#EXTINF:-1,Panorama Drama  2
-http://premium-tv.me:9500/live/swag/swag123/391.m3u8
-#EXTINF:-1,Panorama Film
-http://premium-tv.me:9500/live/swag/swag123/1194.m3u8
-#EXTINF:-1,Panorama Comedy
-http://premium-tv.me:9500/live/swag/swag123/1193.m3u8
-#EXTINF:-1,Time Cinema
-http://premium-tv.me:9500/live/swag/swag123/1182.m3u8
-#EXTINF:-1,Time Cinma
-http://premium-tv.me:9500/live/swag/swag123/393.m3u8
-#EXTINF:-1,Time Comedy
-http://premium-tv.me:9500/live/swag/swag123/394.m3u8
-#EXTINF:-1,Time Quran
-http://premium-tv.me:9500/live/swag/swag123/392.m3u8
-#EXTINF:-1,Saudia 1 HD
-http://premium-tv.me:9500/live/swag/swag123/897.m3u8
-#EXTINF:-1,Saudia 2
-http://premium-tv.me:9500/live/swag/swag123/895.m3u8
-#EXTINF:-1,Saudia Quran
-http://premium-tv.me:9500/live/swag/swag123/833.m3u8
-#EXTINF:-1,Saudia Sonna
-http://premium-tv.me:9500/live/swag/swag123/1157.m3u8
-#EXTINF:-1,Saudia Alwataikia
-http://premium-tv.me:9500/live/swag/swag123/900.m3u8
-#EXTINF:-1,Saudia Aliktisadia
-http://premium-tv.me:9500/live/swag/swag123/901.m3u8
-#EXTINF:-1,Saudia Sports
-http://premium-tv.me:9500/live/swag/swag123/708.m3u8
-#EXTINF:-1,Abu dhaby Al Oula
-http://premium-tv.me:9500/live/swag/swag123/399.m3u8
-#EXTINF:-1,Abu dhaby Emarat
-http://premium-tv.me:9500/live/swag/swag123/1270.m3u8
-#EXTINF:-1,Abu dhaby Drama
-http://premium-tv.me:9500/live/swag/swag123/1271.m3u8
-#EXTINF:-1,Noor Dubai
-http://premium-tv.me:9500/live/swag/swag123/894.m3u8
-#EXTINF:-1,Dubai 
-http://premium-tv.me:9500/live/swag/swag123/713.m3u8
-#EXTINF:-1,One Dubai
-http://premium-tv.me:9500/live/swag/swag123/821.m3u8
-#EXTINF:-1,Zaman Dubai
-http://premium-tv.me:9500/live/swag/swag123/1101.m3u8
+http://force102.com:8080/live/kadir1234/1234kadir/20497.m3u8
+#EXTINF:-1,NILE SPORT
+http://force102.com:8080/live/kadir1234/1234kadir/20496.m3u8
+#EXTINF:-1,Noor Dudai
+http://force102.com:8080/live/kadir1234/1234kadir/20495.m3u8
+#EXTINF:-1,NOUR ELSHAM
+http://force102.com:8080/live/kadir1234/1234kadir/20494.m3u8
+#EXTINF:-1,NUMIDIA
+http://force102.com:8080/live/kadir1234/1234kadir/20493.m3u8
+#EXTINF:-1,ON Drama
+http://force102.com:8080/live/kadir1234/1234kadir/20492.m3u8
+#EXTINF:-1,ON Live
+http://force102.com:8080/live/kadir1234/1234kadir/20491.m3u8
+#EXTINF:-1,ON SPORT
+http://force102.com:8080/live/kadir1234/1234kadir/20490.m3u8
+#EXTINF:-1,ON-E
+http://force102.com:8080/live/kadir1234/1234kadir/20489.m3u8
+#EXTINF:-1,One dream
+http://force102.com:8080/live/kadir1234/1234kadir/20488.m3u8
+#EXTINF:-1,ORIENT
+http://force102.com:8080/live/kadir1234/1234kadir/20487.m3u8
+#EXTINF:-1,Oscar TV
+http://force102.com:8080/live/kadir1234/1234kadir/20486.m3u8
+#EXTINF:-1,Palestine
+http://force102.com:8080/live/kadir1234/1234kadir/20485.m3u8
+#EXTINF:-1,PANORAMA DRAMA
+http://force102.com:8080/live/kadir1234/1234kadir/20484.m3u8
+#EXTINF:-1,PANORAMA DRAMA 2
+http://force102.com:8080/live/kadir1234/1234kadir/20483.m3u8
+#EXTINF:-1,Panorama-Film
+http://force102.com:8080/live/kadir1234/1234kadir/20482.m3u8
+#EXTINF:-1,PUBLITOOLS
+http://force102.com:8080/live/kadir1234/1234kadir/20481.m3u8
+#EXTINF:-1,QUEST ARABIA (DOC)
+http://force102.com:8080/live/kadir1234/1234kadir/20480.m3u8
+#EXTINF:-1,QURAN TV
+http://force102.com:8080/live/kadir1234/1234kadir/20479.m3u8
+#EXTINF:-1,RASHEED
+http://force102.com:8080/live/kadir1234/1234kadir/20478.m3u8
+#EXTINF:-1,ROTANA
+http://force102.com:8080/live/kadir1234/1234kadir/20477.m3u8
+#EXTINF:-1,Rotana Cinema EGY
+http://force102.com:8080/live/kadir1234/1234kadir/20476.m3u8
+#EXTINF:-1,Rotana Cinema KSA
+http://force102.com:8080/live/kadir1234/1234kadir/20475.m3u8
+#EXTINF:-1,Rotana Clip
+http://force102.com:8080/live/kadir1234/1234kadir/20474.m3u8
+#EXTINF:-1,Rotana Drama
+http://force102.com:8080/live/kadir1234/1234kadir/20473.m3u8
+#EXTINF:-1,Rotana Khalijiah
+http://force102.com:8080/live/kadir1234/1234kadir/20472.m3u8
+#EXTINF:-1,RT ARABIC
+http://force102.com:8080/live/kadir1234/1234kadir/20471.m3u8
+#EXTINF:-1,SAHAR TV
+http://force102.com:8080/live/kadir1234/1234kadir/20470.m3u8
 #EXTINF:-1,Sama Dubai
-http://premium-tv.me:9500/live/swag/swag123/1095.m3u8
-#EXTINF:-1,Almayadeen
-http://premium-tv.me:9500/live/swag/swag123/1141.m3u8
-#EXTINF:-1,NBN Lebanon
-http://premium-tv.me:9500/live/swag/swag123/340.m3u8
-#EXTINF:-1,Lebnon TV LIVE
-http://premium-tv.me:9500/live/swag/swag123/1073.m3u8
-#EXTINF:-1,Future TV
-http://premium-tv.me:9500/live/swag/swag123/820.m3u8
-#EXTINF:-1,LBC
-http://premium-tv.me:9500/live/swag/swag123/2670.m3u8
-#EXTINF:-1,MTV Lebananon
-http://premium-tv.me:9500/live/swag/swag123/810.m3u8
-#EXTINF:-1,Al Manar
-http://premium-tv.me:9500/live/swag/swag123/827.m3u8
-#EXTINF:-1,Cairo Drama
-http://premium-tv.me:9500/live/swag/swag123/1268.m3u8
-#EXTINF:-1,Cairo Cinema
-http://premium-tv.me:9500/live/swag/swag123/1269.m3u8
-#EXTINF:-1,Alhayat 1
-http://premium-tv.me:9500/live/swag/swag123/1213.m3u8
-#EXTINF:-1,Alhayat 2
-http://premium-tv.me:9500/live/swag/swag123/934.m3u8
-#EXTINF:-1,Alhayaht Series
-http://premium-tv.me:9500/live/swag/swag123/1293.m3u8
-#EXTINF:-1,Al Masriya 1
-http://premium-tv.me:9500/live/swag/swag123/389.m3u8
-#EXTINF:-1,Al Masriya 2
-http://premium-tv.me:9500/live/swag/swag123/1033.m3u8
-#EXTINF:-1,Dream 1
-http://premium-tv.me:9500/live/swag/swag123/1207.m3u8
-#EXTINF:-1,Dream 2
-http://premium-tv.me:9500/live/swag/swag123/306.m3u8
-#EXTINF:-1,Cima
-http://premium-tv.me:9500/live/swag/swag123/823.m3u8
-#EXTINF:-1,Al Mehwar
-http://premium-tv.me:9500/live/swag/swag123/397.m3u8
-#EXTINF:-1,Al Aan TV
-http://premium-tv.me:9500/live/swag/swag123/902.m3u8
-#EXTINF:-1,QATAR HD
-http://premium-tv.me:9500/live/swag/swag123/1154.m3u8
-#EXTINF:-1,Kuwait 1
-http://premium-tv.me:9500/live/swag/swag123/816.m3u8
-#EXTINF:-1,Kuwait 2
-http://premium-tv.me:9500/live/swag/swag123/817.m3u8
-#EXTINF:-1,Kuwait Al_Arabi
-http://premium-tv.me:9500/live/swag/swag123/818.m3u8
-#EXTINF:-1,Arab
-http://premium-tv.me:9500/live/swag/swag123/815.m3u8
+http://force102.com:8080/live/kadir1234/1234kadir/20469.m3u8
+#EXTINF:-1,SAMIRA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20468.m3u8
+#EXTINF:-1,SAT TV
+http://force102.com:8080/live/kadir1234/1234kadir/20467.m3u8
+#EXTINF:-1,Saudi 1
+http://force102.com:8080/live/kadir1234/1234kadir/20466.m3u8
+#EXTINF:-1,SAUDI 24
+http://force102.com:8080/live/kadir1234/1234kadir/20465.m3u8
+#EXTINF:-1,Saudi Al Haj
+http://force102.com:8080/live/kadir1234/1234kadir/20464.m3u8
+#EXTINF:-1,SAUDI ANTI TERRORISM
+http://force102.com:8080/live/kadir1234/1234kadir/20463.m3u8
+#EXTINF:-1,SAUDI FAMILY
+http://force102.com:8080/live/kadir1234/1234kadir/20462.m3u8
+#EXTINF:-1,Saudi Quran
+http://force102.com:8080/live/kadir1234/1234kadir/20461.m3u8
+#EXTINF:-1,Saudi Sunnah
+http://force102.com:8080/live/kadir1234/1234kadir/20460.m3u8
+#EXTINF:-1,SBC
+http://force102.com:8080/live/kadir1234/1234kadir/20459.m3u8
+#EXTINF:-1,SHAABEYAT
+http://force102.com:8080/live/kadir1234/1234kadir/20458.m3u8
+#EXTINF:-1,Shahrazad Alkher
+http://force102.com:8080/live/kadir1234/1234kadir/20457.m3u8
+#EXTINF:-1,SKY NEWS ARABIA
+http://force102.com:8080/live/kadir1234/1234kadir/20456.m3u8
+#EXTINF:-1,South TV
+http://force102.com:8080/live/kadir1234/1234kadir/20455.m3u8
+#EXTINF:-1,SPACETOON
+http://force102.com:8080/live/kadir1234/1234kadir/20454.m3u8
+#EXTINF:-1,Star Cinema 1
+http://force102.com:8080/live/kadir1234/1234kadir/20453.m3u8
+#EXTINF:-1,Star Cinema 2
+http://force102.com:8080/live/kadir1234/1234kadir/20452.m3u8
+#EXTINF:-1,SUHAIL TV
+http://force102.com:8080/live/kadir1234/1234kadir/20451.m3u8
+#EXTINF:-1,Sumaria
+http://force102.com:8080/live/kadir1234/1234kadir/20450.m3u8
+#EXTINF:-1,Syria
+http://force102.com:8080/live/kadir1234/1234kadir/20449.m3u8
+#EXTINF:-1,SYRIA DRAMA
+http://force102.com:8080/live/kadir1234/1234kadir/20448.m3u8
+#EXTINF:-1,SYRIA EDUCATION
+http://force102.com:8080/live/kadir1234/1234kadir/20447.m3u8
+#EXTINF:-1,SYRIA FM
+http://force102.com:8080/live/kadir1234/1234kadir/20446.m3u8
+#EXTINF:-1,SYRIA SATELLITE
+http://force102.com:8080/live/kadir1234/1234kadir/20445.m3u8
+#EXTINF:-1,TAHA
+http://force102.com:8080/live/kadir1234/1234kadir/20444.m3u8
+#EXTINF:-1,TANASUH TV
+http://force102.com:8080/live/kadir1234/1234kadir/20443.m3u8
+#EXTINF:-1,TATT7
+http://force102.com:8080/live/kadir1234/1234kadir/20442.m3u8
+#EXTINF:-1,TCHAD
+http://force102.com:8080/live/kadir1234/1234kadir/20441.m3u8
+#EXTINF:-1,TELE MAROC
+http://force102.com:8080/live/kadir1234/1234kadir/20440.m3u8
+#EXTINF:-1,Telvza
+http://force102.com:8080/live/kadir1234/1234kadir/20439.m3u8
+#EXTINF:-1,TOKTOK CIMA
+http://force102.com:8080/live/kadir1234/1234kadir/20438.m3u8
+#EXTINF:-1,TOYOR ALJANNAH
+http://force102.com:8080/live/kadir1234/1234kadir/20437.m3u8
+#EXTINF:-1,TOYOR-BABY
+http://force102.com:8080/live/kadir1234/1234kadir/20436.m3u8
+#EXTINF:-1,TRT Arabia
+http://force102.com:8080/live/kadir1234/1234kadir/20435.m3u8
+#EXTINF:-1,Tunisia NAT 1
+http://force102.com:8080/live/kadir1234/1234kadir/20434.m3u8
+#EXTINF:-1,TUNISIA NAT 2
+http://force102.com:8080/live/kadir1234/1234kadir/20433.m3u8
+#EXTINF:-1,TUNISNA
+http://force102.com:8080/live/kadir1234/1234kadir/20432.m3u8
+#EXTINF:-1,Wanasah
+http://force102.com:8080/live/kadir1234/1234kadir/20431.m3u8
+#EXTINF:-1,Yas Tv
+http://force102.com:8080/live/kadir1234/1234kadir/20430.m3u8
+#EXTINF:-1,ZAYTOONA TV
+http://force102.com:8080/live/kadir1234/1234kadir/20429.m3u8
+#EXTINF:-1,ZEE AFLAM
+http://force102.com:8080/live/kadir1234/1234kadir/20428.m3u8
+#EXTINF:-1,ZEE ALWAN
+http://force102.com:8080/live/kadir1234/1234kadir/20427.m3u8
+#EXTINF:-1,Al Kahera Wal Nas 1
+http://force102.com:8080/live/kadir1234/1234kadir/20426.m3u8
+#EXTINF:-1,Al Kahera Wal Nas 2
+http://force102.com:8080/live/kadir1234/1234kadir/20425.m3u8
+#EXTINF:-1,MBC 3
+http://force102.com:8080/live/kadir1234/1234kadir/20424.m3u8
+#EXTINF:-1,MBC 4
+http://force102.com:8080/live/kadir1234/1234kadir/20423.m3u8
+#EXTINF:-1,MBC Action
+http://force102.com:8080/live/kadir1234/1234kadir/20422.m3u8
+#EXTINF:-1,MBC Bollywood
+http://force102.com:8080/live/kadir1234/1234kadir/20421.m3u8
+#EXTINF:-1,MBC DRAMA
+http://force102.com:8080/live/kadir1234/1234kadir/20420.m3u8
