@@ -1,211 +1,309 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://voxtv.dynns.com:8000/live/USA/USA/2247.m3u8
-#EXTINF:-1,US ABC HD
-http://voxtv.dynns.com:8000/live/USA/USA/2248.m3u8
-#EXTINF:-1,ABC NEWS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2249.m3u8
-#EXTINF:-1,AFN SPORTS 1
-http://voxtv.dynns.com:8000/live/USA/USA/2250.m3u8
-#EXTINF:-1,AFN SPORTS 2
-http://voxtv.dynns.com:8000/live/USA/USA/2251.m3u8
-#EXTINF:-1,AMAZING DISCOVERIES HD
-http://voxtv.dynns.com:8000/live/USA/USA/2253.m3u8
-#EXTINF:-1,AMC HD
-http://voxtv.dynns.com:8000/live/USA/USA/2252.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://voxtv.dynns.com:8000/live/USA/USA/2254.m3u8
-#EXTINF:-1,BEIN SPORTS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2352.m3u8
-#EXTINF:-1,BLOOMBERG EUROPE
-http://voxtv.dynns.com:8000/live/USA/USA/2256.m3u8
-#EXTINF:-1,BLOOMBERG TV
-http://voxtv.dynns.com:8000/live/USA/USA/2257.m3u8
-#EXTINF:-1,Boomerang
-http://voxtv.dynns.com:8000/live/USA/USA/2258.m3u8
-#EXTINF:-1,BRAVO HD
-http://voxtv.dynns.com:8000/live/USA/USA/2259.m3u8
-#EXTINF:-1,BYU TV
-http://voxtv.dynns.com:8000/live/USA/USA/2255.m3u8
-#EXTINF:-1,C-SPAN 1
-http://voxtv.dynns.com:8000/live/USA/USA/2260.m3u8
-#EXTINF:-1,C-SPAN 2
-http://voxtv.dynns.com:8000/live/USA/USA/2261.m3u8
-#EXTINF:-1,C-SPAN 3
-http://voxtv.dynns.com:8000/live/USA/USA/2262.m3u8
-#EXTINF:-1,CA SPORTSNET 360 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2263.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2270.m3u8
-#EXTINF:-1,CBS
-http://voxtv.dynns.com:8000/live/USA/USA/2264.m3u8
-#EXTINF:-1,CBSN  HD
-http://voxtv.dynns.com:8000/live/USA/USA/2265.m3u8
-#EXTINF:-1,CINEMAX 5
-http://voxtv.dynns.com:8000/live/USA/USA/2271.m3u8
-#EXTINF:-1,CINEMAX ACTION HD
-http://voxtv.dynns.com:8000/live/USA/USA/2272.m3u8
-#EXTINF:-1,CINEMAX ACTIONMAX EAST
-http://voxtv.dynns.com:8000/live/USA/USA/2273.m3u8
-#EXTINF:-1,CINEMAX EAST
-http://voxtv.dynns.com:8000/live/USA/USA/2274.m3u8
-#EXTINF:-1,CINEMAX MOREMAX
-http://voxtv.dynns.com:8000/live/USA/USA/2275.m3u8
-#EXTINF:-1,C N B C
-http://voxtv.dynns.com:8000/live/USA/USA/2266.m3u8
+#EXTINF:-1,AETV HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16481.m3u8
+#EXTINF:-1,American Heroes Channel
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16480.m3u8
+#EXTINF:-1,ATT Sports Network HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16479.m3u8
+#EXTINF:-1,BBC World News HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16478.m3u8
+#EXTINF:-1,BEIN HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16477.m3u8
+#EXTINF:-1,BTN HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16476.m3u8
+#EXTINF:-1,BTN2 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16475.m3u8
+#EXTINF:-1,BTN3 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16474.m3u8
+#EXTINF:-1,BTN4 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16473.m3u8
+#EXTINF:-1,CBC Canada
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16472.m3u8
+#EXTINF:-1,CBS decades
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16471.m3u8
+#EXTINF:-1,CBS POP HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16470.m3u8
+#EXTINF:-1,CBS Sport Network HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16469.m3u8
+#EXTINF:-1,Cheddar HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16468.m3u8
+#EXTINF:-1,CNBC HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16467.m3u8
+#EXTINF:-1,CNBC World HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16466.m3u8
 #EXTINF:-1,CNN HD
-http://voxtv.dynns.com:8000/live/USA/USA/2267.m3u8
-#EXTINF:-1,UK - COMEDY CENTRAL HD
-http://voxtv.dynns.com:8000/live/USA/USA/2276.m3u8
-#EXTINF:-1,CW HD
-http://voxtv.dynns.com:8000/live/USA/USA/2268.m3u8
-#EXTINF:-1,CW11
-http://voxtv.dynns.com:8000/live/USA/USA/2269.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://voxtv.dynns.com:8000/live/USA/USA/2280.m3u8
-#EXTINF:-1,DISCOVERY HD SHOWCASE
-http://voxtv.dynns.com:8000/live/USA/USA/2279.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2281.m3u8
-#EXTINF:-1,DISCOVERY VELOCITY
-http://voxtv.dynns.com:8000/live/USA/USA/2282.m3u8
-#EXTINF:-1,DIY NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2277.m3u8
-#EXTINF:-1,DW
-http://voxtv.dynns.com:8000/live/USA/USA/2278.m3u8
-#EXTINF:-1,ESPN  1
-http://voxtv.dynns.com:8000/live/USA/USA/2283.m3u8
-#EXTINF:-1,ESPN 2
-http://voxtv.dynns.com:8000/live/USA/USA/2284.m3u8
-#EXTINF:-1,ESPN HD
-http://voxtv.dynns.com:8000/live/USA/USA/2285.m3u8
-#EXTINF:-1,FASHION ONE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2290.m3u8
-#EXTINF:-1,FIGHT HD
-http://voxtv.dynns.com:8000/live/USA/USA/2291.m3u8
-#EXTINF:-1,FIGHT SPORTS
-http://voxtv.dynns.com:8000/live/USA/USA/2292.m3u8
-#EXTINF:-1,FINE LIVING
-http://voxtv.dynns.com:8000/live/USA/USA/2293.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://voxtv.dynns.com:8000/live/USA/USA/2294.m3u8
-#EXTINF:-1,FOX 43
-http://voxtv.dynns.com:8000/live/USA/USA/2286.m3u8
-#EXTINF:-1,FOX HD
-http://voxtv.dynns.com:8000/live/USA/USA/2299.m3u8
-#EXTINF:-1,FOX NEWS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2295.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2296.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2297.m3u8
-#EXTINF:-1,FOX SPORTS 506 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2298.m3u8
-#EXTINF:-1,FREE FORM HD
-http://voxtv.dynns.com:8000/live/USA/USA/2300.m3u8
-#EXTINF:-1,FUEL HD
-http://voxtv.dynns.com:8000/live/USA/USA/2301.m3u8
-#EXTINF:-1,FX HD
-http://voxtv.dynns.com:8000/live/USA/USA/2289.m3u8
-#EXTINF:-1,H 2
-http://voxtv.dynns.com:8000/live/USA/USA/2302.m3u8
-#EXTINF:-1,HALLMARK
-http://voxtv.dynns.com:8000/live/USA/USA/2311.m3u8
-#EXTINF:-1,HBO COMEDY
-http://voxtv.dynns.com:8000/live/USA/USA/2303.m3u8
-#EXTINF:-1,HBO EAST
-http://voxtv.dynns.com:8000/live/USA/USA/2304.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16465.m3u8
+#EXTINF:-1,Cooking Channel
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16464.m3u8
+#EXTINF:-1,Destination America
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16463.m3u8
+#EXTINF:-1,Discovery HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16462.m3u8
+#EXTINF:-1,Disney Channel HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16461.m3u8
+#EXTINF:-1,Disney Junior HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16460.m3u8
+#EXTINF:-1,Disney XD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16459.m3u8
+#EXTINF:-1,DIY Network HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16458.m3u8
+#EXTINF:-1,Epix 3 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16457.m3u8
+#EXTINF:-1,ESPN 1 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16456.m3u8
+#EXTINF:-1,ESPN Deportes HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16455.m3u8
+#EXTINF:-1,ESPN LNN HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16454.m3u8
+#EXTINF:-1,ESPN News HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16453.m3u8
+#EXTINF:-1,ESPN Second HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16452.m3u8
+#EXTINF:-1,FOOD HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16451.m3u8
+#EXTINF:-1,Fox Buisness HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16450.m3u8
+#EXTINF:-1,Fox News HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16449.m3u8
+#EXTINF:-1,Fox Sport Plus HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16448.m3u8
+#EXTINF:-1,Fox Sports Time Ohio
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16447.m3u8
+#EXTINF:-1,FS1 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16446.m3u8
+#EXTINF:-1,FS2 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16445.m3u8
+#EXTINF:-1,FXE HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16444.m3u8
+#EXTINF:-1,FXM HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16443.m3u8
+#EXTINF:-1,FYI HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16442.m3u8
+#EXTINF:-1,GOL TV
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16441.m3u8
+#EXTINF:-1,HBO 2 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16440.m3u8
+#EXTINF:-1,HBO Cinemax 2 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16439.m3u8
+#EXTINF:-1,HBO Cinemax HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16438.m3u8
+#EXTINF:-1,HBO East HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16437.m3u8
 #EXTINF:-1,HBO HD
-http://voxtv.dynns.com:8000/live/USA/USA/2305.m3u8
-#EXTINF:-1,HBO SIGNATURE
-http://voxtv.dynns.com:8000/live/USA/USA/2306.m3u8
-#EXTINF:-1,HBO ZONE
-http://voxtv.dynns.com:8000/live/USA/USA/2307.m3u8
-#EXTINF:-1,HGTV HD
-http://voxtv.dynns.com:8000/live/USA/USA/2308.m3u8
-#EXTINF:-1,HIFI
-http://voxtv.dynns.com:8000/live/USA/USA/2309.m3u8
-#EXTINF:-1,HISTORY HD
-http://voxtv.dynns.com:8000/live/USA/USA/2312.m3u8
-#EXTINF:-1,HSN YT LIVE 1080P HD
-http://voxtv.dynns.com:8000/live/USA/USA/2310.m3u8
-#EXTINF:-1,MBL HD
-http://voxtv.dynns.com:8000/live/USA/USA/2313.m3u8
-#EXTINF:-1,MLB NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2314.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16436.m3u8
+#EXTINF:-1,HLN HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16435.m3u8
+#EXTINF:-1,HMM HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16434.m3u8
+#EXTINF:-1,Life HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16433.m3u8
+#EXTINF:-1,LMN HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16432.m3u8
+#EXTINF:-1,MLB Networks HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16431.m3u8
+#EXTINF:-1,MSG HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16430.m3u8
 #EXTINF:-1,MSNBC HD
-http://voxtv.dynns.com:8000/live/USA/USA/2315.m3u8
-#EXTINF:-1,MTV ROCKS
-http://voxtv.dynns.com:8000/live/USA/USA/2316.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://voxtv.dynns.com:8000/live/USA/USA/2323.m3u8
-#EXTINF:-1,NBA HD
-http://voxtv.dynns.com:8000/live/USA/USA/2317.m3u8
-#EXTINF:-1,NBC
-http://voxtv.dynns.com:8000/live/USA/USA/2318.m3u8
-#EXTINF:-1,CBSN HD
-http://voxtv.dynns.com:8000/live/USA/USA/2319.m3u8
-#EXTINF:-1,USA Network HD
-http://voxtv.dynns.com:8000/live/USA/USA/2324.m3u8
-#EXTINF:-1,NFL NETWORK 1
-http://voxtv.dynns.com:8000/live/USA/USA/2353.m3u8
-#EXTINF:-1,NFL NETWORK 1080i
-http://voxtv.dynns.com:8000/live/USA/USA/2320.m3u8
-#EXTINF:-1,NFL NETWORK HD
-http://voxtv.dynns.com:8000/live/USA/USA/2321.m3u8
-#EXTINF:-1,NHL NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2322.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL HD
-http://voxtv.dynns.com:8000/live/USA/USA/2325.m3u8
-#EXTINF:-1,PAC-12 ARIZONA
-http://voxtv.dynns.com:8000/live/USA/USA/2326.m3u8
-#EXTINF:-1,PAC-12 BAY AREA
-http://voxtv.dynns.com:8000/live/USA/USA/2327.m3u8
-#EXTINF:-1,PAC-12 LOS ANGELES
-http://voxtv.dynns.com:8000/live/USA/USA/2328.m3u8
-#EXTINF:-1,PAC-12 OREGON
-http://voxtv.dynns.com:8000/live/USA/USA/2329.m3u8
-#EXTINF:-1,PAC-12 WASHINGTON
-http://voxtv.dynns.com:8000/live/USA/USA/2330.m3u8
-#EXTINF:-1,SHOWTIME 2
-http://voxtv.dynns.com:8000/live/USA/USA/2332.m3u8
-#EXTINF:-1,SHOW TIME HD
-http://voxtv.dynns.com:8000/live/USA/USA/2333.m3u8
-#EXTINF:-1,SHOWTIME WEST
-http://voxtv.dynns.com:8000/live/USA/USA/2334.m3u8
-#EXTINF:-1,SMILE OF A CHILD
-http://voxtv.dynns.com:8000/live/USA/USA/2335.m3u8
-#EXTINF:-1,SPIKE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2336.m3u8
-#EXTINF:-1,STARZ CINEMA
-http://voxtv.dynns.com:8000/live/USA/USA/2337.m3u8
-#EXTINF:-1,STARZ COMEDY
-http://voxtv.dynns.com:8000/live/USA/USA/2338.m3u8
-#EXTINF:-1,STARZ EDGE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2339.m3u8
-#EXTINF:-1,STARZ ENCORE
-http://voxtv.dynns.com:8000/live/USA/USA/2340.m3u8
-#EXTINF:-1,SyFy HD
-http://voxtv.dynns.com:8000/live/USA/USA/2341.m3u8
-#EXTINF:-1,TBS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2342.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16429.m3u8
+#EXTINF:-1,Nat Geo HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16428.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16427.m3u8
+#EXTINF:-1,NFL 1 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16426.m3u8
+#EXTINF:-1,NFL HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16425.m3u8
+#EXTINF:-1,NFLNRZD HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16424.m3u8
+#EXTINF:-1,Oprah Winfrey Network
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16423.m3u8
+#EXTINF:-1,P12AZ HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16422.m3u8
+#EXTINF:-1,P12BA HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16421.m3u8
+#EXTINF:-1,P12LA HD US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16420.m3u8
+#EXTINF:-1,P12MT HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16419.m3u8
+#EXTINF:-1,P12OR HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16418.m3u8
+#EXTINF:-1,P12WA HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16417.m3u8
+#EXTINF:-1,PAC12 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16416.m3u8
+#EXTINF:-1,PBS Kids HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16415.m3u8
+#EXTINF:-1,POP HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16414.m3u8
+#EXTINF:-1,Showtime HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16413.m3u8
+#EXTINF:-1,Showtime Pacific
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16412.m3u8
+#EXTINF:-1,Smithsonian
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16411.m3u8
+#EXTINF:-1,Sony Movies
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16410.m3u8
+#EXTINF:-1,Stadium 1
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16409.m3u8
+#EXTINF:-1,Stadium 2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16408.m3u8
+#EXTINF:-1,Starz
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16407.m3u8
+#EXTINF:-1,Starz Pacific HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16406.m3u8
+#EXTINF:-1,Sundance HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16405.m3u8
+#EXTINF:-1,TCM HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16404.m3u8
+#EXTINF:-1,TENIS HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16403.m3u8
 #EXTINF:-1,TNT HD
-http://voxtv.dynns.com:8000/live/USA/USA/2343.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16402.m3u8
+#EXTINF:-1,Travel HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16401.m3u8
+#EXTINF:-1,True HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16400.m3u8
+#EXTINF:-1,Turner Classic Movies
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16399.m3u8
+#EXTINF:-1,VICE HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16398.m3u8
+#EXTINF:-1,XITE1 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16397.m3u8
+#EXTINF:-1,XITE2 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16396.m3u8
+#EXTINF:-1,XITE3 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16395.m3u8
+#EXTINF:-1,Animal Planet HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10439.m3u8
+#EXTINF:-1,Bein Sports
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10646.m3u8
+#EXTINF:-1,BET HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10645.m3u8
+#EXTINF:-1,ABC US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10440.m3u8
+#EXTINF:-1,A&E  US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10441.m3u8
+#EXTINF:-1,Bloomberg US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10436.m3u8
+#EXTINF:-1,Bravo HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10435.m3u8
+#EXTINF:-1,Cartoon Network US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10434.m3u8
+#EXTINF:-1,CBS Sport HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10433.m3u8
+#EXTINF:-1,CBS US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10432.m3u8
+#EXTINF:-1,CINEMAX HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10431.m3u8
+#EXTINF:-1,CNBC US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10429.m3u8
+#EXTINF:-1,CNN US HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10428.m3u8
+#EXTINF:-1,Discovery Channel US HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10424.m3u8
+#EXTINF:-1,DISCOVERY FAMILY
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10423.m3u8
+#EXTINF:-1,Discovery Investigation
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10422.m3u8
+#EXTINF:-1,Discovery Science US HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10421.m3u8
+#EXTINF:-1,Disney Channel US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10420.m3u8
+#EXTINF:-1,Disney Junior US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10419.m3u8
+#EXTINF:-1,Fox sport 1 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10416.m3u8
+#EXTINF:-1,Fox sport 2 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10415.m3u8
+#EXTINF:-1,FX HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10414.m3u8
+#EXTINF:-1,GSN HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10412.m3u8
+#EXTINF:-1,HBO Comedy HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10411.m3u8
+#EXTINF:-1,HBO Signature
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10410.m3u8
+#EXTINF:-1,HBO US HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10409.m3u8
+#EXTINF:-1,HBO ZONE HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10408.m3u8
+#EXTINF:-1,HGTV HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10407.m3u8
+#EXTINF:-1,History
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10406.m3u8
+#EXTINF:-1,History HD US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10405.m3u8
+#EXTINF:-1,Life Time HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10404.m3u8
+#EXTINF:-1,MTV HD US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10403.m3u8
+#EXTINF:-1,Nat Geo Wild HD US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10402.m3u8
+#EXTINF:-1,NatGeo HD USA
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10401.m3u8
+#EXTINF:-1,NBA HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10400.m3u8
+#EXTINF:-1,NBC EAST HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10399.m3u8
+#EXTINF:-1,NBCSN HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10398.m3u8
+#EXTINF:-1,NEWS 12
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10643.m3u8
+#EXTINF:-1,Nick Junior US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10397.m3u8
+#EXTINF:-1,Nick Toons US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10396.m3u8
+#EXTINF:-1,OWN HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10395.m3u8
+#EXTINF:-1,PAC-12 Arizona HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10642.m3u8
+#EXTINF:-1,PAC-12 Bay Area HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10641.m3u8
+#EXTINF:-1,PAC-12 Los Angeles HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10640.m3u8
+#EXTINF:-1,PAC-12 Mountain HD-
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10639.m3u8
+#EXTINF:-1,PAC-12 Oregon HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10638.m3u8
+#EXTINF:-1,SHOWTIME FAMILY ZONE
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10393.m3u8
+#EXTINF:-1,SLICE HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10392.m3u8
+#EXTINF:-1,Starz HD US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10390.m3u8
+#EXTINF:-1,STARZ KIDS & Family HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10389.m3u8
+#EXTINF:-1,Syfy HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10388.m3u8
+#EXTINF:-1,SyFy HD USA
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10387.m3u8
+#EXTINF:-1,TBS USA
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10386.m3u8
+#EXTINF:-1,TLC HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10385.m3u8
+#EXTINF:-1,TNT US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10384.m3u8
+#EXTINF:-1,TRU TV HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10383.m3u8
 #EXTINF:-1,TSN 1 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2344.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10636.m3u8
 #EXTINF:-1,TSN 2 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2345.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10635.m3u8
 #EXTINF:-1,TSN 3 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2346.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10634.m3u8
 #EXTINF:-1,TSN 4 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2347.m3u8
-#EXTINF:-1,Network HD
-http://voxtv.dynns.com:8000/live/USA/USA/2349.m3u8
-#EXTINF:-1,VH1 CLASSIC
-http://voxtv.dynns.com:8000/live/USA/USA/2350.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10633.m3u8
+#EXTINF:-1,TSN 5 HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10632.m3u8
+#EXTINF:-1,TV Land HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10382.m3u8
+#EXTINF:-1,VH1 HD US
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10380.m3u8
+#EXTINF:-1,Viceland TV
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10379.m3u8
+#EXTINF:-1,WE HD
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10378.m3u8
 #EXTINF:-1,WWE HD
-http://voxtv.dynns.com:8000/live/USA/USA/2351.m3u8
-#EXTINF:-1,Nick
-http://voxtv.dynns.com:8000/live/USA/USA/6101.m3u8
-#EXTINF:-1,Travel Channel
-http://voxtv.dynns.com:8000/live/USA/USA/6100.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10376.m3u8
+#EXTINF:-1,Weather channel
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10377.m3u8
