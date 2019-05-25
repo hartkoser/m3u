@@ -1,273 +1,249 @@
 #EXTM3U
-#EXTINF:-1,ORF 1
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9008.m3u8
-#EXTINF:-1,ORF 2
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9009.m3u8
-#EXTINF:-1,ARD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8994.m3u8
-#EXTINF:-1,SAT 1
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9015.m3u8
-#EXTINF:-1,NDR
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9006.m3u8
-#EXTINF:-1,PRO 7
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9010.m3u8
-#EXTINF:-1,Kabel eins
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8963.m3u8
-#EXTINF:-1,ZDF
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9033.m3u8
-#EXTINF:-1,VOX
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9031.m3u8
-#EXTINF:-1,3Sat HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8987.m3u8
-#EXTINF:-1,RTL 1
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9011.m3u8
-#EXTINF:-1,RTL 2
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9012.m3u8
-#EXTINF:-1,RTL Crime
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8945.m3u8
-#EXTINF:-1,RTL living
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9013.m3u8
-#EXTINF:-1,RTL Passion HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8944.m3u8
-#EXTINF:-1,RTL Plus
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8943.m3u8
-#EXTINF:-1,RTLNitro
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9014.m3u8
-#EXTINF:-1,13th Street
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8993.m3u8
-#EXTINF:-1,Arte HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8984.m3u8
-#EXTINF:-1,ATV HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8983.m3u8
-#EXTINF:-1,BR
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8979.m3u8
-#EXTINF:-1,Bon Gusto
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8981.m3u8
-#EXTINF:-1,Classica
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8977.m3u8
-#EXTINF:-1,Deluxe Music
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8976.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8996.m3u8
-#EXTINF:-1,Disney Channel
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8997.m3u8
-#EXTINF:-1,Disney Cinemagic
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8998.m3u8
-#EXTINF:-1,Disney J.
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9030.m3u8
-#EXTINF:-1,Disney XD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8975.m3u8
-#EXTINF:-1,Fix & Foxi
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8970.m3u8
-#EXTINF:-1,KIKA
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9002.m3u8
-#EXTINF:-1,Junior
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8965.m3u8
-#EXTINF:-1,Baby TV
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8982.m3u8
-#EXTINF:-1,Boomerang
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8980.m3u8
-#EXTINF:-1,Cartoon Network
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8978.m3u8
-#EXTINF:-1,Dmax HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8974.m3u8
-#EXTINF:-1,E! HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8973.m3u8
-#EXTINF:-1,FOX HQ
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9000.m3u8
-#EXTINF:-1,Genius Plus
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8969.m3u8
-#EXTINF:-1,History HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9001.m3u8
-#EXTINF:-1,HR
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8968.m3u8
-#EXTINF:-1,HSE24
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8967.m3u8
-#EXTINF:-1,JukeBox
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8966.m3u8
-#EXTINF:-1,Juwelo
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8964.m3u8
-#EXTINF:-1,Kabel eins Classic HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8962.m3u8
-#EXTINF:-1,Kabel eins Doku
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8961.m3u8
-#EXTINF:-1,KinoWelt
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8960.m3u8
-#EXTINF:-1,MTV Brand New
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8959.m3u8
-#EXTINF:-1,MTV Classic
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8958.m3u8
-#EXTINF:-1,MTV HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8957.m3u8
-#EXTINF:-1,MTV Hits
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8956.m3u8
-#EXTINF:-1,MTV Live HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8955.m3u8
-#EXTINF:-1,MTV Rocks
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8954.m3u8
-#EXTINF:-1,N-TV
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8953.m3u8
-#EXTINF:-1,N24
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9003.m3u8
-#EXTINF:-1,N24 Doku
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8952.m3u8
-#EXTINF:-1,Nat. Geo  HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9004.m3u8
-#EXTINF:-1,A&E
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8986.m3u8
-#EXTINF:-1,A&E FHD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8985.m3u8
-#EXTINF:-1,Nat. Geo Wild
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9005.m3u8
-#EXTINF:-1,NickelodeoN
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9007.m3u8
-#EXTINF:-1,One
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8951.m3u8
-#EXTINF:-1,Phoenix
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8950.m3u8
-#EXTINF:-1,Planet HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8949.m3u8
-#EXTINF:-1,Pro 7 Maxx
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8948.m3u8
-#EXTINF:-1,Romance TV
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8947.m3u8
-#EXTINF:-1,Romance TV HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8946.m3u8
-#EXTINF:-1,Sat1 Gold
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8942.m3u8
+#EXTINF:-1,Sat.1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17345.m3u8
+#EXTINF:-1,SAT.1 Gold
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17346.m3u8
 #EXTINF:-1,Sixx
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8941.m3u8
-#EXTINF:-1,AXN HQ
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8995.m3u8
-#EXTINF:-1,Sky 1 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8940.m3u8
-#EXTINF:-1,SKY Action
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9027.m3u8
-#EXTINF:-1,Sky Arts HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8939.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9016.m3u8
-#EXTINF:-1,Sky Cinema  24
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9018.m3u8
-#EXTINF:-1,Sky Cinema 1
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9023.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17344.m3u8
+#EXTINF:-1,Sky 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17302.m3u8
+#EXTINF:-1,Sky Arts
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17429.m3u8
+#EXTINF:-1,Sky Atlantic
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17427.m3u8
+#EXTINF:-1,Sky Atlantic*
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17428.m3u8
+#EXTINF:-1,Sky Cinema
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17419.m3u8
+#EXTINF:-1,Sky Cinema  1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17426.m3u8
+#EXTINF:-1,Sky Cinema 24
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17424.m3u8
+#EXTINF:-1,Sky Cinema Action
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17423.m3u8
+#EXTINF:-1,Sky Cinema Comedy
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17422.m3u8
+#EXTINF:-1,Sky Cinema Emotion
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17421.m3u8
 #EXTINF:-1,Sky Cinema Family
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8938.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9019.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17420.m3u8
 #EXTINF:-1,Sky Cinema Hits
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8937.m3u8
-#EXTINF:-1,Sky Cinema Luc Besson FHD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8936.m3u8
-#EXTINF:-1,Sky Comedy
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9020.m3u8
-#EXTINF:-1,SKY Crime
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9022.m3u8
-#EXTINF:-1,Sky emotion
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9021.m3u8
-#EXTINF:-1,Sky Select 1 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8935.m3u8
-#EXTINF:-1,Sky Select 2 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8934.m3u8
-#EXTINF:-1,Sky Select 3 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8933.m3u8
-#EXTINF:-1,Sky Select 4 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8932.m3u8
-#EXTINF:-1,Sky Select 5 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8931.m3u8
-#EXTINF:-1,SPORTDIGITAL HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8992.m3u8
-#EXTINF:-1,Sky Sports Austria
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9026.m3u8
-#EXTINF:-1,Sky Sport News
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8912.m3u8
-#EXTINF:-1,SKY SPORTS 1 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9024.m3u8
-#EXTINF:-1,Sky Sports 2 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9025.m3u8
-#EXTINF:-1,Sky Sport 3 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8928.m3u8
-#EXTINF:-1,Sky Sport 4 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8927.m3u8
-#EXTINF:-1,Sky Sport 5 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8926.m3u8
-#EXTINF:-1,Sky Sport 6 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8925.m3u8
-#EXTINF:-1,Sky Sport 7 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8924.m3u8
-#EXTINF:-1,Sky Sport 8 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8923.m3u8
-#EXTINF:-1,Sky Sport 9 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8922.m3u8
-#EXTINF:-1,Sky Sport 10 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8930.m3u8
-#EXTINF:-1,Sky Sport 11 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8929.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17418.m3u8
+#EXTINF:-1,Sky Krimi
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17417.m3u8
+#EXTINF:-1,Sky Select 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17316.m3u8
+#EXTINF:-1,Sky Select 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17315.m3u8
+#EXTINF:-1,Sky Select 3
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17314.m3u8
+#EXTINF:-1,Sky Select 4
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17313.m3u8
+#EXTINF:-1,Sky Select 5
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17312.m3u8
+#EXTINF:-1,Sky Select 6
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17318.m3u8
+#EXTINF:-1,Sky Select 7
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17317.m3u8
+#EXTINF:-1,13th Street
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17366.m3u8
+#EXTINF:-1,3Sat
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17391.m3u8
+#EXTINF:-1,A&E HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17390.m3u8
+#EXTINF:-1,Anixe HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17389.m3u8
+#EXTINF:-1,Arte
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17388.m3u8
+#EXTINF:-1,Auto Motor Sport HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17306.m3u8
+#EXTINF:-1,BR
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17300.m3u8
+#EXTINF:-1,Cartoon Network
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17387.m3u8
+#EXTINF:-1,Classica HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17386.m3u8
+#EXTINF:-1,Das Erste
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17385.m3u8
+#EXTINF:-1,DAZN 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17311.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17310.m3u8
+#EXTINF:-1,DAZN Bar 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17309.m3u8
+#EXTINF:-1,DAZN Bar 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17308.m3u8
+#EXTINF:-1,Deluxe Music
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17384.m3u8
+#EXTINF:-1,Discovery
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17383.m3u8
+#EXTINF:-1,Disney Channel 4K
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17382.m3u8
+#EXTINF:-1,Disney Cinemagic
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17381.m3u8
+#EXTINF:-1,Disney Junior HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17379.m3u8
+#EXTINF:-1,Disney XD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17380.m3u8
+#EXTINF:-1,DMAX
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17378.m3u8
+#EXTINF:-1,E! Entertainment
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17377.m3u8
+#EXTINF:-1,Eurosport 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17376.m3u8
+#EXTINF:-1,Eurosport 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17375.m3u8
+#EXTINF:-1,Eurosport 2 Xtra
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17374.m3u8
+#EXTINF:-1,Family TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17373.m3u8
+#EXTINF:-1,Fox
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17364.m3u8
+#EXTINF:-1,Heimatkanal
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17365.m3u8
+#EXTINF:-1,History
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17372.m3u8
+#EXTINF:-1,HR Fernesehen
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17304.m3u8
+#EXTINF:-1,Kabel Eins
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17370.m3u8
+#EXTINF:-1,Kabel Eins Classics
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17369.m3u8
+#EXTINF:-1,Kabel eins Doku
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17371.m3u8
+#EXTINF:-1,KIKA HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17368.m3u8
+#EXTINF:-1,Kinowelt TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17319.m3u8
+#EXTINF:-1,MDR Fernesehen
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17301.m3u8
+#EXTINF:-1,Motorvision
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17307.m3u8
+#EXTINF:-1,MTV HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17367.m3u8
+#EXTINF:-1,N-TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17362.m3u8
+#EXTINF:-1,National Geographic
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17360.m3u8
+#EXTINF:-1,National Geographic WILD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17361.m3u8
+#EXTINF:-1,NDR
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17359.m3u8
+#EXTINF:-1,Nickelodeon
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17358.m3u8
+#EXTINF:-1,ONE
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17357.m3u8
+#EXTINF:-1,ORF 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17343.m3u8
+#EXTINF:-1,ORF 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17342.m3u8
+#EXTINF:-1,Phoenix
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17356.m3u8
+#EXTINF:-1,ProSieben
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17354.m3u8
+#EXTINF:-1,ProSieben MAXX
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17353.m3u8
+#EXTINF:-1,RBB Berlin
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17303.m3u8
+#EXTINF:-1,RTL
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17350.m3u8
+#EXTINF:-1,RTL 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17352.m3u8
+#EXTINF:-1,RTL Crime
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17351.m3u8
+#EXTINF:-1,RTL Nitro
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17349.m3u8
+#EXTINF:-1,RTL Passion
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17348.m3u8
+#EXTINF:-1,RTL Television
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17347.m3u8
+#EXTINF:-1,Sky Sport 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17415.m3u8
+#EXTINF:-1,Sky Sport 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17414.m3u8
+#EXTINF:-1,Sky Sport 3
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17413.m3u8
+#EXTINF:-1,Sky Sport 4
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17412.m3u8
+#EXTINF:-1,Sky Sport 5
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17411.m3u8
+#EXTINF:-1,Sky Sport 6
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17410.m3u8
+#EXTINF:-1,Sky Sport 7
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17409.m3u8
+#EXTINF:-1,Sky Sport 8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17408.m3u8
+#EXTINF:-1,Sky Sport Austria
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17407.m3u8
 #EXTINF:-1,Sky Sport Bundesliga 1
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9017.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8920.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8919.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8918.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8917.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 6 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8916.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 7 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8915.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 8 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8914.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 9 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8913.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 10 (on em dia de eventos)
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8921.m3u8
-#EXTINF:-1,Sport 1
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8909.m3u8
-#EXTINF:-1,Sport 1  US
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8908.m3u8
-#EXTINF:-1,Eurosport HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8999.m3u8
-#EXTINF:-1,EuroSport 2 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8972.m3u8
-#EXTINF:-1,EuroSport 2 Xtra
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8971.m3u8
-#EXTINF:-1,Sony Enterainment HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8911.m3u8
-#EXTINF:-1,Sophia TV
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8910.m3u8
-#EXTINF:-1,Super RTL
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9028.m3u8
-#EXTINF:-1,SWR
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8907.m3u8
-#EXTINF:-1,SWR BW
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8906.m3u8
-#EXTINF:-1,SyFy
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8905.m3u8
-#EXTINF:-1,Tagesschau 24
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9029.m3u8
-#EXTINF:-1,Tele 5 HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8904.m3u8
-#EXTINF:-1,TLC HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8903.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17405.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 1 (ONLY MATCHTIME)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17406.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17403.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 2 (ONLY MATCHTIME)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17404.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 3
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17401.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 3 (ONLY MATCHTIME)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17402.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 4
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17399.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 4 (ONLY MATCHTIME)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17400.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17397.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 5 (ONLY MATCHTIME)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17398.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 6
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17395.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 6 (ONLY MATCHTIME)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17396.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 7
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17393.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 7 (ONLY MATCHTIME)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17394.m3u8
+#EXTINF:-1,Sky Sport Bundesliga 8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17392.m3u8
+#EXTINF:-1,Sky Sport News
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17416.m3u8
+#EXTINF:-1,Spiegel Geschichte
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17339.m3u8
+#EXTINF:-1,Sport Digital
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17305.m3u8
+#EXTINF:-1,SRF 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17341.m3u8
+#EXTINF:-1,SRF 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17340.m3u8
+#EXTINF:-1,Super RTL HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17338.m3u8
+#EXTINF:-1,SWR BW HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17337.m3u8
+#EXTINF:-1,SYFY
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17336.m3u8
+#EXTINF:-1,Tele 5
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17335.m3u8
+#EXTINF:-1,TLC 4K
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17334.m3u8
 #EXTINF:-1,TNT Comedy
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8991.m3u8
-#EXTINF:-1,TNT Film HD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8990.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17333.m3u8
+#EXTINF:-1,TNT Film
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17332.m3u8
 #EXTINF:-1,TNT Serie
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8989.m3u8
-#EXTINF:-1,Toggo Plus
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8902.m3u8
-#EXTINF:-1,Universal Channel
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8988.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17331.m3u8
+#EXTINF:-1,Universal 4K
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17330.m3u8
+#EXTINF:-1,VOX
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17329.m3u8
 #EXTINF:-1,WDR
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/9032.m3u8
-#EXTINF:-1,Welt
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8901.m3u8
-#EXTINF:-1,ZDF Info
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8900.m3u8
-#EXTINF:-1,ZDF Neo
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8899.m3u8
-#EXTINF:-1,Zee One
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/8898.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17328.m3u8
+#EXTINF:-1,Welt N24
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17327.m3u8
+#EXTINF:-1,ZDF
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17325.m3u8
+#EXTINF:-1,ZDF 4K
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17326.m3u8
+#EXTINF:-1,ZDF info
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17324.m3u8
+#EXTINF:-1,ZDFneo
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/17323.m3u8
