@@ -1,323 +1,247 @@
 #EXTM3U
-#EXTINF:-1,TVR
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176741.m3u8
-#EXTINF:-1,TVR 1
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176723.m3u8
-#EXTINF:-1,TVR 2
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176724.m3u8
-#EXTINF:-1,TVR 3
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176622.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176630.m3u8
-#EXTINF:-1,NATIONAL 24
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176629.m3u8
-#EXTINF:-1,National 24 Plus
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176773.m3u8
-#EXTINF:-1,National Geo Wild
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176711.m3u8
-#EXTINF:-1,National Geographic
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176712.m3u8
-#EXTINF:-1,National TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176713.m3u8
-#EXTINF:-1,Neptun
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176664.m3u8
-#EXTINF:-1,Nickelodeon
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176714.m3u8
-#EXTINF:-1,Paprika TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176715.m3u8
-#EXTINF:-1,Paramount Channel romania
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176663.m3u8
-#EXTINF:-1,Prima
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176716.m3u8
-#EXTINF:-1,prima cool
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176662.m3u8
-#EXTINF:-1,PRIMA TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176628.m3u8
-#EXTINF:-1,Pro Cinema
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176661.m3u8
-#EXTINF:-1,Pro TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176717.m3u8
-#EXTINF:-1,PRO TV NEWS
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176770.m3u8
-#EXTINF:-1,Pro X
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176769.m3u8
-#EXTINF:-1,Procinema
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176718.m3u8
-#EXTINF:-1,ProTV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176660.m3u8
-#EXTINF:-1,Realitatea Plus TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176766.m3u8
-#EXTINF:-1,Realitatea Tv
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176659.m3u8
-#EXTINF:-1,Romania TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176719.m3u8
-#EXTINF:-1,Sangeorz TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176764.m3u8
-#EXTINF:-1,Somax TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176763.m3u8
-#EXTINF:-1,Speranta TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176762.m3u8
-#EXTINF:-1,SPORT HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176627.m3u8
-#EXTINF:-1,Sport.ro
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176657.m3u8
-#EXTINF:-1,Suceava TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176761.m3u8
-#EXTINF:-1,Taraf Tv
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176656.m3u8
-#EXTINF:-1,Taraf TV HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176626.m3u8
-#EXTINF:-1,Tele M
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176760.m3u8
-#EXTINF:-1,TELE MOLDOVA
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176759.m3u8
-#EXTINF:-1,Telekom Sport 1
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176720.m3u8
-#EXTINF:-1,Telekom Sport 1 HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176758.m3u8
-#EXTINF:-1,Telekom Sport 1 HD (On-Demand)
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176757.m3u8
-#EXTINF:-1,Telekom Sport 2
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176721.m3u8
-#EXTINF:-1,Telekom Sport 2 HD (On-Demand)
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176756.m3u8
-#EXTINF:-1,Telekom Sport 3
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176755.m3u8
-#EXTINF:-1,TELEKOM SPORT 3 HD (On-Demand)
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176754.m3u8
-#EXTINF:-1,Telekom Sport 4
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176753.m3u8
-#EXTINF:-1,TELEKOM SPORT 4 HD (On-Demand)
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176752.m3u8
-#EXTINF:-1,Telekom Sport 5
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176751.m3u8
-#EXTINF:-1,Telekom Sport 5 HD (On-Demand)
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176750.m3u8
-#EXTINF:-1,Telekom Sport 6
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176749.m3u8
-#EXTINF:-1,Telekom Sport 6 HD (On-Demand)
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176748.m3u8
-#EXTINF:-1,TeleMoldovaPlus
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176655.m3u8
-#EXTINF:-1,Telestar 1
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176747.m3u8
-#EXTINF:-1,TLC
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176722.m3u8
-#EXTINF:-1,TNT
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176654.m3u8
-#EXTINF:-1,TNT HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176625.m3u8
-#EXTINF:-1,TRAVEL MIX
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176624.m3u8
-#EXTINF:-1,Trinitas
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176653.m3u8
-#EXTINF:-1,TV 1000
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176652.m3u8
-#EXTINF:-1,TV Buzau
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176744.m3u8
-#EXTINF:-1,TV PUBLIKA
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176742.m3u8
-#EXTINF:-1,TV1000
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176651.m3u8
-#EXTINF:-1,TV5 MONDE
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176623.m3u8
-#EXTINF:-1,TVR International
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176738.m3u8
-#EXTINF:-1,U TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176650.m3u8
-#EXTINF:-1,UTV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176737.m3u8
-#EXTINF:-1,VIASAT EXPLORER
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176649.m3u8
-#EXTINF:-1,VIASAT HISTORY
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176621.m3u8
-#EXTINF:-1,VIASAT NATURE
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176648.m3u8
-#EXTINF:-1,ZU TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176725.m3u8
-#EXTINF:-1,1 MUSIC CHANNEL
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176647.m3u8
+#EXTINF:-1,1 Music Channel
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20085.m3u8
 #EXTINF:-1,6 TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176677.m3u8
-#EXTINF:-1,ACASA GOLD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176646.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20020.m3u8
 #EXTINF:-1,Acasa Gold TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176808.m3u8
-#EXTINF:-1,ACASA HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176645.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20084.m3u8
 #EXTINF:-1,ACASA MOLDAVIA TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176807.m3u8
-#EXTINF:-1,Acasa TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176678.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20019.m3u8
+#EXTINF:-1,Acasa Tv
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20083.m3u8
 #EXTINF:-1,ACUM TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176806.m3u8
-#EXTINF:-1,AGRO TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176676.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20018.m3u8
 #EXTINF:-1,Alfa & Omega Tv
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176805.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20017.m3u8
 #EXTINF:-1,Alpha Media TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176804.m3u8
-#EXTINF:-1,AMC
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176644.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176643.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20016.m3u8
 #EXTINF:-1,Antena 1
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176679.m3u8
-#EXTINF:-1,Antena 3 romania
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176680.m3u8
-#EXTINF:-1,Antena International
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176681.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20082.m3u8
+#EXTINF:-1,Antena 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20116.m3u8
+#EXTINF:-1,Antena 3
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20081.m3u8
+#EXTINF:-1,Antena 3 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20115.m3u8
 #EXTINF:-1,Antena Stars
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176682.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20080.m3u8
 #EXTINF:-1,Antena STARS HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176801.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20114.m3u8
 #EXTINF:-1,ATV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176800.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20015.m3u8
 #EXTINF:-1,AXN
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176683.m3u8
-#EXTINF:-1,AXN BLACK
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176675.m3u8
-#EXTINF:-1,Axn White
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176684.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20079.m3u8
+#EXTINF:-1,AXN White
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20078.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20112.m3u8
 #EXTINF:-1,B1 HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176798.m3u8
-#EXTINF:-1,B1 TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176674.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20111.m3u8
+#EXTINF:-1,B1 Tv
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20077.m3u8
 #EXTINF:-1,Bit TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176797.m3u8
-#EXTINF:-1,Boomerang
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176686.m3u8
-#EXTINF:-1,Cartoon Network *
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176733.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20014.m3u8
 #EXTINF:-1,Cinemax
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176687.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20076.m3u8
 #EXTINF:-1,Cinemax 2
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176688.m3u8
-#EXTINF:-1,CINEMAX HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176642.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20075.m3u8
 #EXTINF:-1,Credo TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176796.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176641.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20013.m3u8
 #EXTINF:-1,Cromtel TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176795.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20012.m3u8
 #EXTINF:-1,Cromtel TV HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176794.m3u8
-#EXTINF:-1,DA VINCI LEARNING
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176640.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20074.m3u8
 #EXTINF:-1,Dibi Tv
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176793.m3u8
-#EXTINF:-1,Digi 24
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176689.m3u8
-#EXTINF:-1,DIGI 24 CRAIOVA
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176673.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20011.m3u8
+#EXTINF:-1,DIGI 24 Craiova
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20110.m3u8
+#EXTINF:-1,Digi 24 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20109.m3u8
 #EXTINF:-1,Digi Animal World
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176690.m3u8
-#EXTINF:-1,Digi Film
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176691.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20073.m3u8
+#EXTINF:-1,DIGI FILM
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20072.m3u8
+#EXTINF:-1,Digi Film HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20108.m3u8
 #EXTINF:-1,Digi Life
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176692.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20071.m3u8
+#EXTINF:-1,Digi Life HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20107.m3u8
 #EXTINF:-1,Digi Sport 1
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176729.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20070.m3u8
+#EXTINF:-1,DIGI SPORT 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20106.m3u8
 #EXTINF:-1,Digi Sport 2
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176728.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20069.m3u8
+#EXTINF:-1,Digi Sport 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20105.m3u8
 #EXTINF:-1,Digi Sport 3
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176727.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20068.m3u8
+#EXTINF:-1,Digi Sport 3 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20104.m3u8
 #EXTINF:-1,Digi Sport 4
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176726.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20067.m3u8
+#EXTINF:-1,Digi Sport 4 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20103.m3u8
 #EXTINF:-1,Digi World
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176693.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20066.m3u8
+#EXTINF:-1,Digi World HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20096.m3u8
 #EXTINF:-1,Digi24 TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176784.m3u8
-#EXTINF:-1,Discovery Channel
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176694.m3u8
-#EXTINF:-1,DISCOVERY ID
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176639.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176638.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20009.m3u8
 #EXTINF:-1,Disney Channel
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176695.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20065.m3u8
 #EXTINF:-1,Disney Junior
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176696.m3u8
-#EXTINF:-1,DOLCE SPORT 1 HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176637.m3u8
-#EXTINF:-1,Etno TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176697.m3u8
-#EXTINF:-1,Eurosport
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176698.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176672.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176636.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20064.m3u8
+#EXTINF:-1,Etno TV HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20063.m3u8
+#EXTINF:-1,Eurosport 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20062.m3u8
 #EXTINF:-1,Eurosport 2
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176699.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176635.m3u8
-#EXTINF:-1,EXTREME SPORTS
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176634.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20061.m3u8
 #EXTINF:-1,Favorit TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176700.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20060.m3u8
 #EXTINF:-1,Film Cafe
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176701.m3u8
-#EXTINF:-1,FISHING & HUNTING
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176633.m3u8
-#EXTINF:-1,Fishing and Hunting
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176702.m3u8
-#EXTINF:-1,FOOD NETWORK HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176632.m3u8
-#EXTINF:-1,Hala Movies FHD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176734.m3u8
-#EXTINF:-1,Hala SERIES FHD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176735.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20059.m3u8
 #EXTINF:-1,Happy Channel
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176703.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20058.m3u8
 #EXTINF:-1,HBO
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176732.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20057.m3u8
 #EXTINF:-1,HBO 2
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176731.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20056.m3u8
 #EXTINF:-1,HBO 3
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176730.m3u8
-#EXTINF:-1,HBO Romania
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176671.m3u8
-#EXTINF:-1,HISTORY
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176670.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20055.m3u8
 #EXTINF:-1,History Channel
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176704.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20054.m3u8
 #EXTINF:-1,HIT CH
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176782.m3u8
-#EXTINF:-1,Hit Music Channel
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176669.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20008.m3u8
 #EXTINF:-1,Hora TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176781.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20053.m3u8
 #EXTINF:-1,Iasi TV Life
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176780.m3u8
-#EXTINF:-1,Inedit TV / Acum TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176705.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20007.m3u8
 #EXTINF:-1,INFORMATIA TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176779.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20006.m3u8
 #EXTINF:-1,Intermedia TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176778.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20005.m3u8
 #EXTINF:-1,Kanal D
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176706.m3u8
-#EXTINF:-1,KISS TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176707.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20052.m3u8
+#EXTINF:-1,KANAL D HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20095.m3u8
+#EXTINF:-1,Kiss TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20004.m3u8
 #EXTINF:-1,LASI TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176776.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20003.m3u8
 #EXTINF:-1,Look Plus
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176668.m3u8
-#EXTINF:-1,Look tv
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176708.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20051.m3u8
+#EXTINF:-1,Look Sport
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20050.m3u8
 #EXTINF:-1,Megamax
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176709.m3u8
-#EXTINF:-1,MegaMax-HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176667.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20049.m3u8
 #EXTINF:-1,Minimax
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176710.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20048.m3u8
 #EXTINF:-1,MISA TV
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176774.m3u8
-#EXTINF:-1,MOOZ HD
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176631.m3u8
-#EXTINF:-1,Music Channe hu
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176666.m3u8
-#EXTINF:-1,MUSIC CHANNEL
-http://setv.ma:8000/live/YC12M019/wc2X85BM9t/176665.m3u8
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20002.m3u8
+#EXTINF:-1,Music Channel
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20047.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20046.m3u8
+#EXTINF:-1,National 24 Plus
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20045.m3u8
+#EXTINF:-1,National Geographic
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20044.m3u8
+#EXTINF:-1,National TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20043.m3u8
+#EXTINF:-1,NeptunTV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20042.m3u8
+#EXTINF:-1,Nickelodeon
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20041.m3u8
+#EXTINF:-1,Prima TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20094.m3u8
+#EXTINF:-1,Pro Cinema HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20093.m3u8
+#EXTINF:-1,PRO TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20001.m3u8
+#EXTINF:-1,PRO TV NEWS
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20000.m3u8
+#EXTINF:-1,Pro X
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20040.m3u8
+#EXTINF:-1,ProTV HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20092.m3u8
+#EXTINF:-1,REALITATAE TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20091.m3u8
+#EXTINF:-1,Realitatea Plus TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19999.m3u8
+#EXTINF:-1,Realitatea Tv
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20039.m3u8
+#EXTINF:-1,Romania Tv
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20038.m3u8
+#EXTINF:-1,Romania TV HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20090.m3u8
+#EXTINF:-1,Sangeorz TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19998.m3u8
+#EXTINF:-1,Somax TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19997.m3u8
+#EXTINF:-1,Speranta TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19996.m3u8
+#EXTINF:-1,Suceava TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19995.m3u8
+#EXTINF:-1,Taraf TV HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20037.m3u8
+#EXTINF:-1,Tele M
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19994.m3u8
+#EXTINF:-1,TELE MOLDOVA
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19993.m3u8
+#EXTINF:-1,Telekom Sport 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20036.m3u8
+#EXTINF:-1,Telekom Sport 1 HD (On-Demand)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20102.m3u8
+#EXTINF:-1,Telekom Sport 2 HD (On-Demand)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20101.m3u8
+#EXTINF:-1,TELEKOM SPORT 3 HD (On-Demand)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20100.m3u8
+#EXTINF:-1,TELEKOM SPORT 4 HD (On-Demand)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20099.m3u8
+#EXTINF:-1,Telekom Sport 5 HD (On-Demand)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20098.m3u8
+#EXTINF:-1,Telekom Sport 6 HD (On-Demand)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20097.m3u8
+#EXTINF:-1,Telestar 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19992.m3u8
+#EXTINF:-1,Travel Mix
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20030.m3u8
+#EXTINF:-1,Travel Mix TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19991.m3u8
+#EXTINF:-1,TV 1000
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20029.m3u8
+#EXTINF:-1,TV 1000 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20089.m3u8
+#EXTINF:-1,TV Buzau
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19990.m3u8
+#EXTINF:-1,TV Paprika
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20028.m3u8
+#EXTINF:-1,TV PUBLIKA
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19989.m3u8
+#EXTINF:-1,TV5 Monde
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20086.m3u8
+#EXTINF:-1,TVR
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19988.m3u8
+#EXTINF:-1,TVR 1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20027.m3u8
+#EXTINF:-1,TVR 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20088.m3u8
+#EXTINF:-1,TVR 2
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20026.m3u8
+#EXTINF:-1,TVR 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20087.m3u8
+#EXTINF:-1,TVR International
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20025.m3u8
+#EXTINF:-1,U TV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20024.m3u8
+#EXTINF:-1,UTV
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19987.m3u8
+#EXTINF:-1,Viasat Explore
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20023.m3u8
+#EXTINF:-1,Viasat History
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20022.m3u8
+#EXTINF:-1,Viasat Nature
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20021.m3u8

@@ -1,171 +1,829 @@
 #EXTM3U
-#EXTINF:-1,Globo
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3737.m3u8
-#EXTINF:-1,Record
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3759.m3u8
-#EXTINF:-1,SBT
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3762.m3u8
-#EXTINF:-1,Band
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3712.m3u8
-#EXTINF:-1,Rede TV
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3761.m3u8
-#EXTINF:-1,GNT
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3741.m3u8
-#EXTINF:-1,Multishow
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3754.m3u8
-#EXTINF:-1,Viva
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3778.m3u8
-#EXTINF:-1,Band News
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3713.m3u8
-#EXTINF:-1,Record News
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3760.m3u8
-#EXTINF:-1,Globo PT
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3739.m3u8
-#EXTINF:-1,Globo Premium
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3738.m3u8
-#EXTINF:-1,Combate
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3718.m3u8
-#EXTINF:-1,Band Sports
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3714.m3u8
-#EXTINF:-1,Sportv
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3765.m3u8
-#EXTINF:-1,SporTV 2
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3763.m3u8
-#EXTINF:-1,SporTV 3
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3764.m3u8
-#EXTINF:-1,Premiere Clubes
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11023.m3u8
-#EXTINF:-1,Premiere 2
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11031.m3u8
-#EXTINF:-1,Premiere 3
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11030.m3u8
-#EXTINF:-1,Premiere 4
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11029.m3u8
-#EXTINF:-1,Premiere 5
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11028.m3u8
-#EXTINF:-1,Premiere 6
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11027.m3u8
-#EXTINF:-1,Premiere 7
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11026.m3u8
-#EXTINF:-1,Premiere 8
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11025.m3u8
-#EXTINF:-1,Premiere 9
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11024.m3u8
-#EXTINF:-1,FOX Sports
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3734.m3u8
-#EXTINF:-1,FOX Sports 2
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3735.m3u8
-#EXTINF:-1,ESPN Brasil
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3731.m3u8
-#EXTINF:-1,ESPN
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3730.m3u8
-#EXTINF:-1,PFC
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3758.m3u8
-#EXTINF:-1,ESPN Extra
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3729.m3u8
-#EXTINF:-1,Cinemax
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3717.m3u8
-#EXTINF:-1,Telecine Premium
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3771.m3u8
-#EXTINF:-1,Telecine Action
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3767.m3u8
-#EXTINF:-1,Telecine Fun
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3769.m3u8
-#EXTINF:-1,Telecine Pipoca
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3770.m3u8
-#EXTINF:-1,Telecine Touch
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3772.m3u8
-#EXTINF:-1,Telecine Cult
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3768.m3u8
-#EXTINF:-1,AXN
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3711.m3u8
-#EXTINF:-1,FOX
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3732.m3u8
-#EXTINF:-1,FOX Life
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3733.m3u8
-#EXTINF:-1,Fox Premium 1
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11022.m3u8
-#EXTINF:-1,Fox Premium 2
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/11021.m3u8
-#EXTINF:-1,FX
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3736.m3u8
-#EXTINF:-1,HBO
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3742.m3u8
-#EXTINF:-1,HBO 2
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3743.m3u8
-#EXTINF:-1,HBO Family
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3744.m3u8
-#EXTINF:-1,HBO Plus
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3745.m3u8
-#EXTINF:-1,HBO Signature
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3746.m3u8
-#EXTINF:-1,MAX
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3750.m3u8
-#EXTINF:-1,MAX Prime
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3751.m3u8
-#EXTINF:-1,MAX Up
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3752.m3u8
-#EXTINF:-1,Comedy Central
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3799.m3u8
-#EXTINF:-1,MEGAPIX
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3753.m3u8
-#EXTINF:-1,Paramount Channel
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3757.m3u8
-#EXTINF:-1,TNT
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3774.m3u8
-#EXTINF:-1,TNT Series
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3716.m3u8
-#EXTINF:-1,Universal Channel
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3777.m3u8
-#EXTINF:-1,Warner Channel
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3779.m3u8
-#EXTINF:-1,Canal Sony
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3780.m3u8
-#EXTINF:-1,TBS
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3766.m3u8
-#EXTINF:-1,Disney Channel
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3724.m3u8
-#EXTINF:-1,Disney Junior
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3725.m3u8
-#EXTINF:-1,Disney XD
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3726.m3u8
-#EXTINF:-1,Nick Jr.
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3756.m3u8
-#EXTINF:-1,Gloob
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3740.m3u8
-#EXTINF:-1,Discovery Kids
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3721.m3u8
-#EXTINF:-1,Discovery Channel
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3719.m3u8
-#EXTINF:-1,Discovery Home & Health
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3720.m3u8
-#EXTINF:-1,Discovery Theater
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3722.m3u8
-#EXTINF:-1,Discovery Turbo
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3723.m3u8
-#EXTINF:-1,Nat. Geographic
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3755.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3798.m3u8
-#EXTINF:-1,OFF
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3797.m3u8
-#EXTINF:-1,Animal Planet
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3710.m3u8
-#EXTINF:-1,historia
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3747.m3u8
-#EXTINF:-1,History 2
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3748.m3u8
-#EXTINF:-1,Investigação Discovery
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3749.m3u8
-#EXTINF:-1,A&E
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3709.m3u8
-#EXTINF:-1,E!
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3727.m3u8
-#EXTINF:-1,TLC
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3773.m3u8
-#EXTINF:-1,TV BrasiL
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3775.m3u8
-#EXTINF:-1,TV Cultura
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3776.m3u8
-#EXTINF:-1,BigBrother
-http://serv1.ip4you.kim:8080/live/ViGjR0e4A6/LS67Ew3LQM/3728.m3u8
+#EXTINF:-1,A&E HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3810.m3u8
+#EXTINF:-1,A&E SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3809.m3u8
+#EXTINF:-1,Amazonas
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3799.m3u8
+#EXTINF:-1,AMC HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3808.m3u8
+#EXTINF:-1,Amc SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3807.m3u8
+#EXTINF:-1,Animal Planet HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3806.m3u8
+#EXTINF:-1,Animal Planet SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3805.m3u8
+#EXTINF:-1,Arte 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3804.m3u8
+#EXTINF:-1,Arte 1 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3803.m3u8
+#EXTINF:-1,AXN HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3802.m3u8
+#EXTINF:-1,AXN SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3801.m3u8
+#EXTINF:-1,Baby Tv HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3787.m3u8
+#EXTINF:-1,Baby Tv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3786.m3u8
+#EXTINF:-1,Band Campinas HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3785.m3u8
+#EXTINF:-1,Band Campinas SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3784.m3u8
+#EXTINF:-1,Band Minas SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3798.m3u8
+#EXTINF:-1,Band News HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3797.m3u8
+#EXTINF:-1,Band News SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3796.m3u8
+#EXTINF:-1,Band Nordeste HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3783.m3u8
+#EXTINF:-1,Band SP FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3795.m3u8
+#EXTINF:-1,Band SP SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3782.m3u8
+#EXTINF:-1,Band Sports HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3794.m3u8
+#EXTINF:-1,Band Sports SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3793.m3u8
+#EXTINF:-1,BBB 19 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3792.m3u8
+#EXTINF:-1,BBC HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3791.m3u8
+#EXTINF:-1,BBC SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3790.m3u8
+#EXTINF:-1,BIS HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3789.m3u8
+#EXTINF:-1,BIS SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3788.m3u8
+#EXTINF:-1,Boomerang HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3781.m3u8
+#EXTINF:-1,Boomerang SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3780.m3u8
+#EXTINF:-1,Canal Do Boi SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3778.m3u8
+#EXTINF:-1,Canal Rural SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3777.m3u8
+#EXTINF:-1,Canal Sony HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3776.m3u8
+#EXTINF:-1,Canal Sony SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3775.m3u8
+#EXTINF:-1,Cancao Nova SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3774.m3u8
+#EXTINF:-1,Cartoon Network FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3773.m3u8
+#EXTINF:-1,Cartoon Network HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3772.m3u8
+#EXTINF:-1,Cartoon Network SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3771.m3u8
+#EXTINF:-1,Catve Cultura FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3758.m3u8
+#EXTINF:-1,Cctv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3770.m3u8
+#EXTINF:-1,Ceak Tv Esrita SP
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3769.m3u8
+#EXTINF:-1,Cine  MS
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3756.m3u8
+#EXTINF:-1,Cine Brasil 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3768.m3u8
+#EXTINF:-1,Cine Brasil 1 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3767.m3u8
+#EXTINF:-1,Cinemax HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3766.m3u8
+#EXTINF:-1,Cinemax SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3765.m3u8
+#EXTINF:-1,Cnt SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3764.m3u8
+#EXTINF:-1,Combate FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3763.m3u8
+#EXTINF:-1,Combate HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3762.m3u8
+#EXTINF:-1,Combate SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3761.m3u8
+#EXTINF:-1,Comedy Central HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3755.m3u8
+#EXTINF:-1,Comedy Central SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3754.m3u8
+#EXTINF:-1,Conectv SP
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3753.m3u8
+#EXTINF:-1,Creative Tv PB
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3752.m3u8
+#EXTINF:-1,Curta! HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3751.m3u8
+#EXTINF:-1,Curta! SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3750.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3749.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3748.m3u8
+#EXTINF:-1,Discovery Channel SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3747.m3u8
+#EXTINF:-1,Discovery Civilization HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3746.m3u8
+#EXTINF:-1,Discovery Civilization SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3745.m3u8
+#EXTINF:-1,Discovery Home Health HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3744.m3u8
+#EXTINF:-1,Discovery Home Health SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3743.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3742.m3u8
+#EXTINF:-1,Discovery Kids SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3741.m3u8
+#EXTINF:-1,Discovery Science HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3740.m3u8
+#EXTINF:-1,Discovery Theater HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3739.m3u8
+#EXTINF:-1,Discovery Theater SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3738.m3u8
+#EXTINF:-1,Discovery TLC HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3737.m3u8
+#EXTINF:-1,Discovery TLC SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3736.m3u8
+#EXTINF:-1,Discovery Turbo FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3735.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3734.m3u8
+#EXTINF:-1,Discovery Turbo SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3733.m3u8
+#EXTINF:-1,Discovery World HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3732.m3u8
+#EXTINF:-1,Discovery World SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3731.m3u8
+#EXTINF:-1,Disney Channel HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3730.m3u8
+#EXTINF:-1,Disney Channel SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3729.m3u8
+#EXTINF:-1,Disney Jr HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3728.m3u8
+#EXTINF:-1,Disney Jr SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3727.m3u8
+#EXTINF:-1,Disney XD HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3726.m3u8
+#EXTINF:-1,Disney XD SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3725.m3u8
+#EXTINF:-1,DW HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3724.m3u8
+#EXTINF:-1,DW SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3723.m3u8
+#EXTINF:-1,E! HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3722.m3u8
+#EXTINF:-1,E! SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3721.m3u8
+#EXTINF:-1,Eco Tv SP FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3704.m3u8
+#EXTINF:-1,Espn 2 FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3717.m3u8
+#EXTINF:-1,Espn 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3716.m3u8
+#EXTINF:-1,Espn 2 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3715.m3u8
+#EXTINF:-1,Espn Brasil FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3714.m3u8
+#EXTINF:-1,Espn Brasil HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3713.m3u8
+#EXTINF:-1,Espn Brasil SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3712.m3u8
+#EXTINF:-1,Espn Extra FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3711.m3u8
+#EXTINF:-1,Espn Extra HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3710.m3u8
+#EXTINF:-1,Espn Extra SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3709.m3u8
+#EXTINF:-1,Espn FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3718.m3u8
+#EXTINF:-1,Espn HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3720.m3u8
+#EXTINF:-1,Espn International HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3708.m3u8
+#EXTINF:-1,Espn International SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3707.m3u8
+#EXTINF:-1,Espn SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3719.m3u8
+#EXTINF:-1,Esporte Int.HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3706.m3u8
+#EXTINF:-1,Esporte Int.SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3705.m3u8
+#EXTINF:-1,Fashion Tv HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3703.m3u8
+#EXTINF:-1,Fashion Tv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3702.m3u8
+#EXTINF:-1,Fish Tv HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3701.m3u8
+#EXTINF:-1,Fish Tv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3700.m3u8
+#EXTINF:-1,Fonte Tv Go FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3686.m3u8
+#EXTINF:-1,Food Network HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3699.m3u8
+#EXTINF:-1,Food Network SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3698.m3u8
+#EXTINF:-1,Fox FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3697.m3u8
+#EXTINF:-1,Fox HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3696.m3u8
+#EXTINF:-1,Fox Premium 1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3685.m3u8
+#EXTINF:-1,Fox Premium 1 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3684.m3u8
+#EXTINF:-1,Fox Premium 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3683.m3u8
+#EXTINF:-1,Fox Premium 2 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3682.m3u8
+#EXTINF:-1,Fox SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3695.m3u8
+#EXTINF:-1,Fox Sports 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3694.m3u8
+#EXTINF:-1,Fox Sports 2 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3693.m3u8
+#EXTINF:-1,Fox Sports FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3692.m3u8
+#EXTINF:-1,Fox Sports HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3691.m3u8
+#EXTINF:-1,Fox Sports SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3690.m3u8
+#EXTINF:-1,FX HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3688.m3u8
+#EXTINF:-1,FX SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3687.m3u8
+#EXTINF:-1,G2P Tv SP
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3680.m3u8
+#EXTINF:-1,Gazeta SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3679.m3u8
+#EXTINF:-1,Globo - Inter Tv Dos Vales SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3678.m3u8
+#EXTINF:-1,Globo Amazonas SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3665.m3u8
+#EXTINF:-1,Globo Anhanguera Goiania SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3664.m3u8
+#EXTINF:-1,Globo Bahia HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3662.m3u8
+#EXTINF:-1,Globo Bahia SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3663.m3u8
+#EXTINF:-1,Globo Brasilia SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3661.m3u8
+#EXTINF:-1,Globo Eptv Campinas HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3660.m3u8
+#EXTINF:-1,Globo Eptv Campinas SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3677.m3u8
+#EXTINF:-1,Globo Internacional HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3659.m3u8
+#EXTINF:-1,Globo MG HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3675.m3u8
+#EXTINF:-1,Globo MG SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3676.m3u8
+#EXTINF:-1,Globo Nordeste HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3658.m3u8
+#EXTINF:-1,Globo Nordeste SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3657.m3u8
+#EXTINF:-1,Globo Rbs Porto Alegre SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3656.m3u8
+#EXTINF:-1,Globo RJ HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3674.m3u8
+#EXTINF:-1,Globo RJ SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3673.m3u8
+#EXTINF:-1,Globo RN SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3655.m3u8
+#EXTINF:-1,Globo SP FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3672.m3u8
+#EXTINF:-1,Globo SP HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3654.m3u8
+#EXTINF:-1,Globo SP SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3653.m3u8
+#EXTINF:-1,Globo Tv Tem Bauru HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3651.m3u8
+#EXTINF:-1,Globo TV Tem Bauru SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3671.m3u8
+#EXTINF:-1,Globo Tv Tem Sorocaba SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3650.m3u8
+#EXTINF:-1,Globo Tv Tribuna Santos SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3649.m3u8
+#EXTINF:-1,Globo Tv Vanguarda S.J Dos Campos SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3648.m3u8
+#EXTINF:-1,Globo Tv Verdes Mares Fortaleza SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3647.m3u8
+#EXTINF:-1,Globonews HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3670.m3u8
+#EXTINF:-1,Globonews SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3669.m3u8
+#EXTINF:-1,Globosat HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3646.m3u8
+#EXTINF:-1,Globosat SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3645.m3u8
+#EXTINF:-1,Gloob HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3644.m3u8
+#EXTINF:-1,Gloob SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3643.m3u8
+#EXTINF:-1,Gloobinho FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3668.m3u8
+#EXTINF:-1,Gnt HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3667.m3u8
+#EXTINF:-1,Gnt SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3666.m3u8
+#EXTINF:-1,Gospel Cartoon SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3642.m3u8
+#EXTINF:-1,Gospel Movies Television SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3641.m3u8
+#EXTINF:-1,Gostei Gospel Tv SP
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3640.m3u8
+#EXTINF:-1,H2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3639.m3u8
+#EXTINF:-1,H2 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3638.m3u8
+#EXTINF:-1,HBO 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3627.m3u8
+#EXTINF:-1,HBO 2 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3626.m3u8
+#EXTINF:-1,HBO Family HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3637.m3u8
+#EXTINF:-1,HBO Family SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3636.m3u8
+#EXTINF:-1,HBO HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3635.m3u8
+#EXTINF:-1,HBO Plus HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3633.m3u8
+#EXTINF:-1,HBO Plus SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3632.m3u8
+#EXTINF:-1,HBO Plus*E SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3630.m3u8
+#EXTINF:-1,HBO SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3634.m3u8
+#EXTINF:-1,HBO Signature HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3629.m3u8
+#EXTINF:-1,HBO Signature SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3628.m3u8
+#EXTINF:-1,History Channel HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3625.m3u8
+#EXTINF:-1,History Channel SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3624.m3u8
+#EXTINF:-1,ID HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3623.m3u8
+#EXTINF:-1,ID SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3622.m3u8
+#EXTINF:-1,Ideal SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3621.m3u8
+#EXTINF:-1,Igreja Mundial Do Poder De Deus SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3619.m3u8
+#EXTINF:-1,Lifetime HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3618.m3u8
+#EXTINF:-1,Lifetime SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3617.m3u8
+#EXTINF:-1,Max HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3603.m3u8
+#EXTINF:-1,Max Prime HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3616.m3u8
+#EXTINF:-1,Max Prime SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3615.m3u8
+#EXTINF:-1,Max Prime*E HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3602.m3u8
+#EXTINF:-1,Max Prime*E SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3601.m3u8
+#EXTINF:-1,Max SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3600.m3u8
+#EXTINF:-1,Max Up HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3614.m3u8
+#EXTINF:-1,Max Up SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3613.m3u8
+#EXTINF:-1,Megapix HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3612.m3u8
+#EXTINF:-1,Megapix SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3611.m3u8
+#EXTINF:-1,Mtv HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3610.m3u8
+#EXTINF:-1,Mtv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3609.m3u8
+#EXTINF:-1,Multishow HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3608.m3u8
+#EXTINF:-1,Multishow SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3607.m3u8
+#EXTINF:-1,Music Box Brazil HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3606.m3u8
+#EXTINF:-1,Music Box Brazil SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3605.m3u8
+#EXTINF:-1,Natgeo Kids HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3591.m3u8
+#EXTINF:-1,Natgeo Kids SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3590.m3u8
+#EXTINF:-1,Natgeo Wild HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3589.m3u8
+#EXTINF:-1,Natgeo Wild SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3588.m3u8
+#EXTINF:-1,National Geographic HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3587.m3u8
+#EXTINF:-1,National Geographic SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3586.m3u8
+#EXTINF:-1,NBR SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3598.m3u8
+#EXTINF:-1,Nick Jr HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3597.m3u8
+#EXTINF:-1,Nick Jr SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3596.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3595.m3u8
+#EXTINF:-1,Nickelodeon SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3594.m3u8
+#EXTINF:-1,OFF HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3583.m3u8
+#EXTINF:-1,OFF SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3582.m3u8
+#EXTINF:-1,Paramount HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3581.m3u8
+#EXTINF:-1,Paramounts SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3580.m3u8
+#EXTINF:-1,Play Tv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3579.m3u8
+#EXTINF:-1,Playboy SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3578.m3u8
+#EXTINF:-1,Plenatv RJ
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3577.m3u8
+#EXTINF:-1,Premiere 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3576.m3u8
+#EXTINF:-1,Premiere 2 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3575.m3u8
+#EXTINF:-1,Premiere 3 FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3574.m3u8
+#EXTINF:-1,Premiere 3 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3573.m3u8
+#EXTINF:-1,Premiere 3 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3572.m3u8
+#EXTINF:-1,Premiere 4 FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3570.m3u8
+#EXTINF:-1,Premiere 4 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3569.m3u8
+#EXTINF:-1,Premiere 4 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3571.m3u8
+#EXTINF:-1,Premiere 5 FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3568.m3u8
+#EXTINF:-1,Premiere 5 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3567.m3u8
+#EXTINF:-1,Premiere 5 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3566.m3u8
+#EXTINF:-1,Premiere 6 FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3565.m3u8
+#EXTINF:-1,Premiere 6 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3564.m3u8
+#EXTINF:-1,Premiere 6 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3563.m3u8
+#EXTINF:-1,Premiere 7 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3562.m3u8
+#EXTINF:-1,Premiere 7 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3561.m3u8
+#EXTINF:-1,Premiere 8 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3560.m3u8
+#EXTINF:-1,Premiere 9 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3553.m3u8
+#EXTINF:-1,Premiere Clubes FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3559.m3u8
+#EXTINF:-1,Premiere Clubes FHD*
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3558.m3u8
+#EXTINF:-1,Premiere Clubes HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3557.m3u8
+#EXTINF:-1,Premiere Clubes SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3556.m3u8
+#EXTINF:-1,Prime Box Brazil HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3555.m3u8
+#EXTINF:-1,Prime Box Brazil SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3554.m3u8
+#EXTINF:-1,Radio Esportes Brasilia
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3532.m3u8
+#EXTINF:-1,Rai SD1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3552.m3u8
+#EXTINF:-1,Ratimbum HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3551.m3u8
+#EXTINF:-1,Ratimbum SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3550.m3u8
+#EXTINF:-1,Rbatv (Band Pa)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3549.m3u8
+#EXTINF:-1,Rbi SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3548.m3u8
+#EXTINF:-1,Record Amazonas SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3531.m3u8
+#EXTINF:-1,Record Campinas HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3530.m3u8
+#EXTINF:-1,Record Campinas SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3529.m3u8
+#EXTINF:-1,Record News HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3545.m3u8
+#EXTINF:-1,Record News SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3544.m3u8
+#EXTINF:-1,Record Nordeste HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3528.m3u8
+#EXTINF:-1,Record SP HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3527.m3u8
+#EXTINF:-1,Record SP SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3526.m3u8
+#EXTINF:-1,Record Tv Leste SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3546.m3u8
+#EXTINF:-1,Red Bull Tv HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3525.m3u8
+#EXTINF:-1,Red Bull Tv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3524.m3u8
+#EXTINF:-1,Rede Genesis SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3543.m3u8
+#EXTINF:-1,Rede Gospel HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3523.m3u8
+#EXTINF:-1,Rede Litoral News RJ
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3522.m3u8
+#EXTINF:-1,Rede Meio Norte PI
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3521.m3u8
+#EXTINF:-1,Rede Minas FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3541.m3u8
+#EXTINF:-1,Rede Minas Tv Rio Doce SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3542.m3u8
+#EXTINF:-1,Rede New Tv SP
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3519.m3u8
+#EXTINF:-1,Rede Ngt Rj
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3520.m3u8
+#EXTINF:-1,Rede Seculo 21 Tv Kefas SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3540.m3u8
+#EXTINF:-1,Rede Super SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3539.m3u8
+#EXTINF:-1,Rede Tv HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3518.m3u8
+#EXTINF:-1,Rede Tv RJ
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3517.m3u8
+#EXTINF:-1,Rede Tv SP
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3516.m3u8
+#EXTINF:-1,Rede Vida SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3538.m3u8
+#EXTINF:-1,Redetv! SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3537.m3u8
+#EXTINF:-1,Relax Tv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3536.m3u8
+#EXTINF:-1,Rit SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3535.m3u8
+#EXTINF:-1,Rtpi SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3534.m3u8
+#EXTINF:-1,Rtvm Ce
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3533.m3u8
+#EXTINF:-1,Sbt FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3515.m3u8
+#EXTINF:-1,Sbt HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3511.m3u8
+#EXTINF:-1,Sbt Interior SP
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3513.m3u8
+#EXTINF:-1,Sbt Nordeste HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3512.m3u8
+#EXTINF:-1,Sbt SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3514.m3u8
+#EXTINF:-1,Sextreme HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3497.m3u8
+#EXTINF:-1,Sextreme SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3510.m3u8
+#EXTINF:-1,Sexy Hot HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3496.m3u8
+#EXTINF:-1,Sexy Hot SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3509.m3u8
+#EXTINF:-1,Sim Tv Record News
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3508.m3u8
+#EXTINF:-1,Space HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3495.m3u8
+#EXTINF:-1,Space SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3494.m3u8
+#EXTINF:-1,Sportv 2 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3507.m3u8
+#EXTINF:-1,Sportv 2 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3506.m3u8
+#EXTINF:-1,Sportv 3 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3493.m3u8
+#EXTINF:-1,Sportv 3 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3492.m3u8
+#EXTINF:-1,Sportv FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3505.m3u8
+#EXTINF:-1,Sportv HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3504.m3u8
+#EXTINF:-1,Sportv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3503.m3u8
+#EXTINF:-1,Studio Universal HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3502.m3u8
+#EXTINF:-1,Studio Universal SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3501.m3u8
+#EXTINF:-1,Summer Tv Sp
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3500.m3u8
+#EXTINF:-1,Superi Tv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3499.m3u8
+#EXTINF:-1,Syfy HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3491.m3u8
+#EXTINF:-1,Syfy SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3490.m3u8
+#EXTINF:-1,TBS HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3489.m3u8
+#EXTINF:-1,TBS SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3488.m3u8
+#EXTINF:-1,TCM HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3487.m3u8
+#EXTINF:-1,TCM SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3486.m3u8
+#EXTINF:-1,Telecine Action HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3484.m3u8
+#EXTINF:-1,Telecine Action SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3483.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3482.m3u8
+#EXTINF:-1,Telecine Cult SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3481.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3480.m3u8
+#EXTINF:-1,Telecine Fun SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3479.m3u8
+#EXTINF:-1,Telecine Pipoca HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3478.m3u8
+#EXTINF:-1,Telecine Pipoca SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3477.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3476.m3u8
+#EXTINF:-1,Telecine Premium SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3475.m3u8
+#EXTINF:-1,Telecine Touch HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3474.m3u8
+#EXTINF:-1,Telecine Touch SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3473.m3u8
+#EXTINF:-1,Terra Viva SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3472.m3u8
+#EXTINF:-1,Tnt HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3471.m3u8
+#EXTINF:-1,Tnt SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3470.m3u8
+#EXTINF:-1,Tnt Series HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3469.m3u8
+#EXTINF:-1,Tnt Series SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3468.m3u8
+#EXTINF:-1,Tooncast HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3387.m3u8
+#EXTINF:-1,Tooncast SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3386.m3u8
+#EXTINF:-1,Travel Box Brazil HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3467.m3u8
+#EXTINF:-1,Travel Box Brazil SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3466.m3u8
+#EXTINF:-1,Trutv SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3385.m3u8
+#EXTINF:-1,Tv A Cara Da Bahia
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3465.m3u8
+#EXTINF:-1,Tv A Cr
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3464.m3u8
+#EXTINF:-1,Tv A Plateia Rs
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3463.m3u8
+#EXTINF:-1,Tv Alese Se
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3458.m3u8
+#EXTINF:-1,Tv Alvorada Espirita Sp
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3384.m3u8
+#EXTINF:-1,Tv Ambiental Es
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3383.m3u8
+#EXTINF:-1,Tv Aparecida HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3461.m3u8
+#EXTINF:-1,Tv Aparecida SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3462.m3u8
+#EXTINF:-1,Tv Aracati HD Ce
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3382.m3u8
+#EXTINF:-1,Tv Arapuan (Rede Tv Pb)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3381.m3u8
+#EXTINF:-1,Tv Assembleia Ceara
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3379.m3u8
+#EXTINF:-1,Tv Assembleia MG SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3460.m3u8
+#EXTINF:-1,Tv Boa Esperan
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3454.m3u8
+#EXTINF:-1,Tv Brasil DF
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3453.m3u8
+#EXTINF:-1,Tv Brasil SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3456.m3u8
+#EXTINF:-1,Tv Caiua PR
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3448.m3u8
+#EXTINF:-1,Tv Camara SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3452.m3u8
+#EXTINF:-1,Tv Capital 777 Sp
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3378.m3u8
+#EXTINF:-1,Tv Carioca RJ
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3451.m3u8
+#EXTINF:-1,Tv Caruaru Pe
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3446.m3u8
+#EXTINF:-1,Tv Cidade Verde (Sbt Pi)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3444.m3u8
+#EXTINF:-1,Tv Cn Agitos
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3450.m3u8
+#EXTINF:-1,TV Cultura HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3760.m3u8
+#EXTINF:-1,TV Cultura SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3759.m3u8
+#EXTINF:-1,Tv Di
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3442.m3u8
+#EXTINF:-1,Tv Do Povo Ro
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3440.m3u8
+#EXTINF:-1,Tv Eparana (Cultura Pr)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3439.m3u8
+#EXTINF:-1,Tv Escola SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3438.m3u8
+#EXTINF:-1,Tv Gazeta RN
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3437.m3u8
+#EXTINF:-1,Tv Geral Ba
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3375.m3u8
+#EXTINF:-1,Tv Guarany Ce
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3434.m3u8
+#EXTINF:-1,Tv Guarapari Es
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3433.m3u8
+#EXTINF:-1,Tv Guarulhos SP
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3432.m3u8
+#EXTINF:-1,Tv Internauta Sp
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3431.m3u8
+#EXTINF:-1,Tv Itapetininga Sp
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3373.m3u8
+#EXTINF:-1,Tv J.Sid Ba
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3372.m3u8
+#EXTINF:-1,Tv Jaguar Ce
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3429.m3u8
+#EXTINF:-1,Tv Jornal (Sbt Pe)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3428.m3u8
+#EXTINF:-1,Tv Jornal Caruaru (Sbt Pe)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3427.m3u8
+#EXTINF:-1,Tv Justica SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3430.m3u8
+#EXTINF:-1,Tv Maceio
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3423.m3u8
+#EXTINF:-1,Tv Mais Ce
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3371.m3u8
+#EXTINF:-1,Tv Mar
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3422.m3u8
+#EXTINF:-1,Tv Metropole Ce
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3420.m3u8
+#EXTINF:-1,Tv Mol Sp
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3419.m3u8
+#EXTINF:-1,Tv Natal Rn
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3417.m3u8
+#EXTINF:-1,Tv Nova Paraiba
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3369.m3u8
+#EXTINF:-1,Tv O Povo Ce
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3368.m3u8
+#EXTINF:-1,Tv Padre Cicero Ce
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3367.m3u8
+#EXTINF:-1,Tv Pampa (Rede Tv Rs)
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3415.m3u8
+#EXTINF:-1,Tv Pantanal Globo Ms
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3414.m3u8
+#EXTINF:-1,Tv Plan Mg
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3413.m3u8
+#EXTINF:-1,Tv Po
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3412.m3u8
+#EXTINF:-1,Tv Portal Midia Pb
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3411.m3u8
+#EXTINF:-1,Tv Rio Largo
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3366.m3u8
+#EXTINF:-1,Tv Senado SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3410.m3u8
+#EXTINF:-1,Tv Teen Net Sp
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3406.m3u8
+#EXTINF:-1,Tv Univale SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3404.m3u8
+#EXTINF:-1,Tv Up HD (Futura) Pr
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3403.m3u8
+#EXTINF:-1,Tv Wtjtvminas Mg
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3401.m3u8
+#EXTINF:-1,Tv Zoom RJ
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3363.m3u8
+#EXTINF:-1,Tv5 Monde FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3397.m3u8
+#EXTINF:-1,Tvc 16 RJ
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3395.m3u8
+#EXTINF:-1,Tvci Pr
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3394.m3u8
+#EXTINF:-1,Tve Ba
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3393.m3u8
+#EXTINF:-1,Tve SD1
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3392.m3u8
+#EXTINF:-1,Tvn Brasil Df
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3391.m3u8
+#EXTINF:-1,Tvu Recife
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3389.m3u8
+#EXTINF:-1,Tvv Tv Votorantim Sp
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3388.m3u8
+#EXTINF:-1,Universal Channel HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3361.m3u8
+#EXTINF:-1,Universal Channel SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3360.m3u8
+#EXTINF:-1,Vh1 HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3358.m3u8
+#EXTINF:-1,Vh1 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3357.m3u8
+#EXTINF:-1,Via Morena Ms
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3353.m3u8
+#EXTINF:-1,Visit X Tv  18 SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3356.m3u8
+#EXTINF:-1,Viva HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3355.m3u8
+#EXTINF:-1,Viva SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3354.m3u8
+#EXTINF:-1,Vivam Go
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3352.m3u8
+#EXTINF:-1,Warner Channel FHD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3351.m3u8
+#EXTINF:-1,Warner Channel HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3350.m3u8
+#EXTINF:-1,Warner Channel SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3349.m3u8
+#EXTINF:-1,Woohoo HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3348.m3u8
+#EXTINF:-1,Woohoo SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3347.m3u8
+#EXTINF:-1,Zoomoo HD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3346.m3u8
+#EXTINF:-1,Zoomoo SD
+http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/3345.m3u8

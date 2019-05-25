@@ -1,79 +1,435 @@
 #EXTM3U
-#EXTINF:-1,Animal Planet
-http://4ever.biz:80/live/Bree/Bree/2717.m3u8
-#EXTINF:-1,Bbc.Entertainment
-http://4ever.biz:80/live/Bree/Bree/5712.m3u8
-#EXTINF:-1,Comedy Central
-http://4ever.biz:80/live/Bree/Bree/2716.m3u8
-#EXTINF:-1,Discovery
-http://4ever.biz:80/live/Bree/Bree/5710.m3u8
-#EXTINF:-1,EuroSport 1
-http://4ever.biz:80/live/Bree/Bree/5707.m3u8
-#EXTINF:-1,Film Action
-http://4ever.biz:80/live/Bree/Bree/1695.m3u8
-#EXTINF:-1,Film Drama
-http://4ever.biz:80/live/Bree/Bree/2715.m3u8
-#EXTINF:-1,Film Family
-http://4ever.biz:80/live/Bree/Bree/1694.m3u8
-#EXTINF:-1,Film Premiere
-http://4ever.biz:80/live/Bree/Bree/1693.m3u8
-#EXTINF:-1,Film Sundance
-http://4ever.biz:80/live/Bree/Bree/2714.m3u8
-#EXTINF:-1,Fox
-http://4ever.biz:80/live/Bree/Bree/1692.m3u8
-#EXTINF:-1,Investigation Discovery
-http://4ever.biz:80/live/Bree/Bree/5706.m3u8
-#EXTINF:-1,JimJam
-http://4ever.biz:80/live/Bree/Bree/5703.m3u8
-#EXTINF:-1,National Geographic
-http://4ever.biz:80/live/Bree/Bree/5704.m3u8
-#EXTINF:-1,Net_5
-http://4ever.biz:80/live/Bree/Bree/5694.m3u8
-#EXTINF:-1,Nick Toons
-http://4ever.biz:80/live/Bree/Bree/5702.m3u8
-#EXTINF:-1,Nickelodeon
-http://4ever.biz:80/live/Bree/Bree/5705.m3u8
-#EXTINF:-1,NickJr
-http://4ever.biz:80/live/Bree/Bree/2718.m3u8
-#EXTINF:-1,Npo 1
-http://4ever.biz:80/live/Bree/Bree/2708.m3u8
-#EXTINF:-1,Npo 2
-http://4ever.biz:80/live/Bree/Bree/2709.m3u8
-#EXTINF:-1,Npo 3
-http://4ever.biz:80/live/Bree/Bree/2710.m3u8
-#EXTINF:-1,Npo Politiek
-http://4ever.biz:80/live/Bree/Bree/2719.m3u8
-#EXTINF:-1,Npo Zapp/Best
-http://4ever.biz:80/live/Bree/Bree/5700.m3u8
-#EXTINF:-1,RTL_4
-http://4ever.biz:80/live/Bree/Bree/1689.m3u8
-#EXTINF:-1,RTL_5
-http://4ever.biz:80/live/Bree/Bree/1690.m3u8
+#EXTINF:-1,RTL 4
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17513.m3u8
+#EXTINF:-1,RTL 5
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17512.m3u8
 #EXTINF:-1,RTL 7
-http://4ever.biz:80/live/Bree/Bree/1691.m3u8
-#EXTINF:-1,RTL_Crime
-http://4ever.biz:80/live/Bree/Bree/5701.m3u8
-#EXTINF:-1,RTL_Lounge
-http://4ever.biz:80/live/Bree/Bree/1687.m3u8
-#EXTINF:-1,RTL_Telekids
-http://4ever.biz:80/live/Bree/Bree/5699.m3u8
-#EXTINF:-1,RTL_Z
-http://4ever.biz:80/live/Bree/Bree/1688.m3u8
-#EXTINF:-1,Sbs 6
-http://4ever.biz:80/live/Bree/Bree/2712.m3u8
-#EXTINF:-1,Sbs 9
-http://4ever.biz:80/live/Bree/Bree/2711.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17511.m3u8
+#EXTINF:-1,RTL 8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17510.m3u8
+#EXTINF:-1,RTL Crime
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17509.m3u8
+#EXTINF:-1,RTL Lounge
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17508.m3u8
+#EXTINF:-1,RTL Z
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17506.m3u8
+#EXTINF:-1,RTL Telekids
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17507.m3u8
+#EXTINF:-1,NPO 1
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17518.m3u8
+#EXTINF:-1,NPO 2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17517.m3u8
+#EXTINF:-1,NPO 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17516.m3u8
+#EXTINF:-1,NPO Nieuws
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17515.m3u8
+#EXTINF:-1,SBS 6
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17504.m3u8
+#EXTINF:-1,SBS 9
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17503.m3u8
+#EXTINF:-1,Film 1 Action
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17540.m3u8
+#EXTINF:-1,Film 1 Family
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17538.m3u8
+#EXTINF:-1,Film 1 Premiere
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17537.m3u8
+#EXTINF:-1,Film 1 Drama
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17539.m3u8
+#EXTINF:-1,24 Kitchen
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17556.m3u8
+#EXTINF:-1,Comedy Central
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17549.m3u8
+#EXTINF:-1,Comedy Central
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17550.m3u8
+#EXTINF:-1,Crime Inv
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17548.m3u8
+#EXTINF:-1,E! NL
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17543.m3u8
+#EXTINF:-1,Net 5
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17523.m3u8
+#EXTINF:-1,TV Oost
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17499.m3u8
+#EXTINF:-1,TV Rijnmond
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17497.m3u8
+#EXTINF:-1,RTV Utrecht
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17505.m3u8
+#EXTINF:-1,MTV
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17526.m3u8
+#EXTINF:-1,Nick Music
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17521.m3u8
+#EXTINF:-1,Ons
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17514.m3u8
+#EXTINF:-1,Spike
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17501.m3u8
 #EXTINF:-1,TLC
-http://4ever.biz:80/live/Bree/Bree/2713.m3u8
-#EXTINF:-1,Ziggo eXtra 1
-http://4ever.biz:80/live/Bree/Bree/5698.m3u8
-#EXTINF:-1,Ziggo eXtra 2
-http://4ever.biz:80/live/Bree/Bree/5697.m3u8
-#EXTINF:-1,Ziggo Golf
-http://4ever.biz:80/live/Bree/Bree/5696.m3u8
-#EXTINF:-1,Ziggo Racing
-http://4ever.biz:80/live/Bree/Bree/5695.m3u8
-#EXTINF:-1,Ziggo Select
-http://4ever.biz:80/live/Bree/Bree/5693.m3u8
-#EXTINF:-1,Ziggo Voetbal
-http://4ever.biz:80/live/Bree/Bree/5692.m3u8
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17500.m3u8
+#EXTINF:-1,TV Oranje
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17498.m3u8
+#EXTINF:-1,FOX Channel
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17535.m3u8
+#EXTINF:-1,Slam!TV
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17502.m3u8
+#EXTINF:-1,Djazz tv
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17544.m3u8
+#EXTINF:-1,Viceland
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17494.m3u8
+#EXTINF:-1,Animal Planet
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17555.m3u8
+#EXTINF:-1,NatGeo Wild
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17525.m3u8
+#EXTINF:-1,National Geographic
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17524.m3u8
+#EXTINF:-1,Baby TV
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17554.m3u8
+#EXTINF:-1,history channel
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17528.m3u8
+#EXTINF:-1,Boomerang
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17553.m3u8
+#EXTINF:-1,Discovery
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17546.m3u8
+#EXTINF:-1,Discovery Inv
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17527.m3u8
+#EXTINF:-1,Cartoon Network
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17551.m3u8
+#EXTINF:-1,Disney Junior
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17545.m3u8
+#EXTINF:-1,Veronica
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17495.m3u8
+#EXTINF:-1,Nick Jr.
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17522.m3u8
+#EXTINF:-1,Nick toons
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17520.m3u8
+#EXTINF:-1,Nickelodeon
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17519.m3u8
+#EXTINF:-1,Eurosport 1
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17542.m3u8
+#EXTINF:-1,Eurosport 2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17541.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17489.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17487.m3u8
+#EXTINF:-1,Ziggo Sport Golf
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17490.m3u8
+#EXTINF:-1,Ziggo Sport Select
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17488.m3u8
+#EXTINF:-1,Ziggo Sport
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17493.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17492.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17491.m3u8
+#EXTINF:-1,Fox Sports 1
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17534.m3u8
+#EXTINF:-1,Fox Sports 2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17533.m3u8
+#EXTINF:-1,Fox Sports 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17532.m3u8
+#EXTINF:-1,Fox Sports 4
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17531.m3u8
+#EXTINF:-1,Fox Sports 5
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17530.m3u8
+#EXTINF:-1,Fox Sports 6
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17529.m3u8
+#EXTINF:-1,Food Network
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17536.m3u8
+#EXTINF:-1,Brava
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17552.m3u8
+#EXTINF:-1,TV West
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17496.m3u8
+#EXTINF:-1,100% NL TV
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17557.m3u8
+#EXTINF:-1,NPO 1 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9541.m3u8
+#EXTINF:-1,NPO 2 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9539.m3u8
+#EXTINF:-1,NPO 3 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9538.m3u8
+#EXTINF:-1,RTL 4 FHD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9534.m3u8
+#EXTINF:-1,RTL 5 FHD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9533.m3u8
+#EXTINF:-1,SBS6 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9526.m3u8
+#EXTINF:-1,RTL 7 FHD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9532.m3u8
+#EXTINF:-1,Veronica Disney XD Full HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11191.m3u8
+#EXTINF:-1,RTL 8 FHD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9531.m3u8
+#EXTINF:-1,NET 5 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9545.m3u8
+#EXTINF:-1,Fox Channel HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9562.m3u8
+#EXTINF:-1,SBS 9 Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9527.m3u8
+#EXTINF:-1,RTL Z Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9528.m3u8
+#EXTINF:-1,Comedy Central HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9577.m3u8
+#EXTINF:-1,Discovery Showcase HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9574.m3u8
+#EXTINF:-1,National Geographic HD NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11056.m3u8
+#EXTINF:-1,Spike NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11009.m3u8
+#EXTINF:-1,Film1 Premiere HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9565.m3u8
+#EXTINF:-1,Film1 Family HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9566.m3u8
+#EXTINF:-1,Film1 Action HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9567.m3u8
+#EXTINF:-1,Film1 Drama HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9564.m3u8
+#EXTINF:-1,EuroSport 1 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9570.m3u8
+#EXTINF:-1,EuroSport 2 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9569.m3u8
+#EXTINF:-1,Fox Sport 1 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9561.m3u8
+#EXTINF:-1,Fox Sport 2 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9560.m3u8
+#EXTINF:-1,Fox Sport 4 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9558.m3u8
+#EXTINF:-1,Ziggo Sport Select HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9518.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9517.m3u8
+#EXTINF:-1,Ziggo Sport Golf Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9520.m3u8
+#EXTINF:-1,EDGE Sport HD NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11062.m3u8
+#EXTINF:-1,Disney Channel Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9573.m3u8
+#EXTINF:-1,Nick Toons Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9543.m3u8
+#EXTINF:-1,Nick JR. Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9544.m3u8
+#EXTINF:-1,Cartoon Network Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9579.m3u8
+#EXTINF:-1,Boomerang Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9580.m3u8
+#EXTINF:-1,Discovery Channel Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9575.m3u8
+#EXTINF:-1,TLC Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9525.m3u8
+#EXTINF:-1,Nat Geo Wild HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9546.m3u8
+#EXTINF:-1,Animal Planet Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9582.m3u8
+#EXTINF:-1,History HD DUT Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9552.m3u8
+#EXTINF:-1,Investigation Discovery Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9550.m3u8
+#EXTINF:-1,RTL Crime HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9530.m3u8
+#EXTINF:-1,Stringray Djazz FHD NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11039.m3u8
+#EXTINF:-1,192TV Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9584.m3u8
+#EXTINF:-1,ONS NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11013.m3u8
+#EXTINF:-1,NPO Politiek Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9536.m3u8
+#EXTINF:-1,NPO Zapp Xtra/NPO Humor TV Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9535.m3u8
+#EXTINF:-1,E! Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9571.m3u8
+#EXTINF:-1,The Q You HD NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11008.m3u8
+#EXTINF:-1,Duck TV Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9572.m3u8
+#EXTINF:-1,Baby TV Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9581.m3u8
+#EXTINF:-1,RTL Telekids FHD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13531.m3u8
+#EXTINF:-1,RTL Lounge Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9529.m3u8
+#EXTINF:-1,24 Kitchen HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9583.m3u8
+#EXTINF:-1,Ketnet HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9548.m3u8
+#EXTINF:-1,MTV NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11057.m3u8
+#EXTINF:-1,Omroep Brabant NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11019.m3u8
+#EXTINF:-1,Omroep Zeeland NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11015.m3u8
+#EXTINF:-1,AT 5 NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11024.m3u8
+#EXTINF:-1,Omroep Flevoland NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11018.m3u8
+#EXTINF:-1,Omroep Gelderland NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11017.m3u8
+#EXTINF:-1,RTV Drenthe NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11012.m3u8
+#EXTINF:-1,RTV Oost NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11010.m3u8
+#EXTINF:-1,RTV Noord NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11011.m3u8
+#EXTINF:-1,Omrop Fryslan NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11014.m3u8
+#EXTINF:-1,RTL Telekids HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13530.m3u8
+#EXTINF:-1,RTL Telekids Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11051.m3u8
+#EXTINF:-1,NPO 101 Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9540.m3u8
+#EXTINF:-1,NPO HUMOR Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9537.m3u8
+#EXTINF:-1,NPO Best/Zapp Xtra NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11055.m3u8
+#EXTINF:-1,NPO Cultura NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11054.m3u8
+#EXTINF:-1,NPO Humor TV NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11053.m3u8
+#EXTINF:-1,NPO Politiek NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11052.m3u8
+#EXTINF:-1,Omroep West NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11016.m3u8
+#EXTINF:-1,RTV Dordrecht NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11050.m3u8
+#EXTINF:-1,RTV Purmerend NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11049.m3u8
+#EXTINF:-1,RTV Rijnmond NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11048.m3u8
+#EXTINF:-1,RTV Slingeland NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11047.m3u8
+#EXTINF:-1,RTV Slos NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11046.m3u8
+#EXTINF:-1,RTV Totaal NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11045.m3u8
+#EXTINF:-1,RTV Utrecht NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11044.m3u8
+#EXTINF:-1,MTV Hits NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11059.m3u8
+#EXTINF:-1,MTV Music 24 NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11058.m3u8
+#EXTINF:-1,iConcerts HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9551.m3u8
+#EXTINF:-1,Nick Music NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11021.m3u8
+#EXTINF:-1,Comedy Central Eextra Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9578.m3u8
+#EXTINF:-1,Crime & Investigation Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9576.m3u8
+#EXTINF:-1,L1 TV NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11022.m3u8
+#EXTINF:-1,TV 538 NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11007.m3u8
+#EXTINF:-1,WOS NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11006.m3u8
+#EXTINF:-1,BBC Entertainment NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11066.m3u8
+#EXTINF:-1,EDE TV NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11063.m3u8
+#EXTINF:-1,Feel Good TV NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11061.m3u8
+#EXTINF:-1,Klipkar TV NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11060.m3u8
+#EXTINF:-1,Salto 1 NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11043.m3u8
+#EXTINF:-1,Salto 2 NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11042.m3u8
+#EXTINF:-1,Slam! NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11041.m3u8
+#EXTINF:-1,Slotstad RTV NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11040.m3u8
+#EXTINF:-1,Viceland HD NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11038.m3u8
+#EXTINF:-1,TV Oranje Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9524.m3u8
+#EXTINF:-1,Disney Junior NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11064.m3u8
+#EXTINF:-1,Disney Channel NL Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11065.m3u8
+#EXTINF:-1,Veronica/DisneyXD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9523.m3u8
+#EXTINF:-1,Nickenldeon HD / Spike Channel Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9542.m3u8
+#EXTINF:-1,Extreme Sports Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9568.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1 Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9522.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2 Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9521.m3u8
+#EXTINF:-1,Ziggo Sport  Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9519.m3u8
+#EXTINF:-1,Ziggo Sport Voetbal Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11192.m3u8
+#EXTINF:-1,Ziggo Sport Select HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11193.m3u8
+#EXTINF:-1,Ziggo Sport Golf Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11194.m3u8
+#EXTINF:-1,Ziggo Sport Extra 1 Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11196.m3u8
+#EXTINF:-1,Ziggo Sport Extra 2 Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11195.m3u8
+#EXTINF:-1,Fox Sport 3 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9559.m3u8
+#EXTINF:-1,Fox Sport 5 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9557.m3u8
+#EXTINF:-1,Fox Sport 6 HD Backup 3
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9556.m3u8
+#EXTINF:-1,Fox Sport 1 HD backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11202.m3u8
+#EXTINF:-1,Fox Sport 2 HD backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11201.m3u8
+#EXTINF:-1,Fox Sport 3 HD backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11200.m3u8
+#EXTINF:-1,Fox Sport 4 HD backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11199.m3u8
+#EXTINF:-1,Fox Sport 5 HD backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11198.m3u8
+#EXTINF:-1,Fox Sport 6 HD backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11197.m3u8
+#EXTINF:-1,FOX Sports 1 HD Backup2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13549.m3u8
+#EXTINF:-1,FOX Sports 2 HD Backup2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13548.m3u8
+#EXTINF:-1,FOX Sports 3 HD Backup2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13547.m3u8
+#EXTINF:-1,FOX Sports 4 HD Backup2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13546.m3u8
+#EXTINF:-1,FOX Sports 5 HD Backup2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13545.m3u8
+#EXTINF:-1,FOX Sports 6 HD Backup2
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13544.m3u8
+#EXTINF:-1,RTL 4 FHD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13537.m3u8
+#EXTINF:-1,RTL 5 FHD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13536.m3u8
+#EXTINF:-1,RTL 7 FHD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13535.m3u8
+#EXTINF:-1,RTL 8 FHD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13534.m3u8
+#EXTINF:-1,RTL Crime HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13533.m3u8
+#EXTINF:-1,RTL Lounge Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13532.m3u8
+#EXTINF:-1,RTL Z Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13529.m3u8
+#EXTINF:-1,NPO 1 HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13543.m3u8
+#EXTINF:-1,NPO 2 HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13542.m3u8
+#EXTINF:-1,NPO 3 Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13541.m3u8
+#EXTINF:-1,NPO 3 Extra Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13540.m3u8
+#EXTINF:-1,NPO Politiek Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13539.m3u8
+#EXTINF:-1,NPO Zapp HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13538.m3u8
+#EXTINF:-1,SBS 9 HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13551.m3u8
+#EXTINF:-1,SBS6 HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13550.m3u8
+#EXTINF:-1,Film1 Action HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13528.m3u8
+#EXTINF:-1,Film1 Family HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13526.m3u8
+#EXTINF:-1,Film1 Premiere HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13525.m3u8
+#EXTINF:-1,Film1 Drama HD Backup
+http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13527.m3u8
