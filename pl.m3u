@@ -1,105 +1,103 @@
 #EXTM3U
-#EXTINF:-1,Axn
-http://force102.com:8080/live/kadir1234/1234kadir/10995.m3u8
-#EXTINF:-1,Axn Black
-http://force102.com:8080/live/kadir1234/1234kadir/10994.m3u8
-#EXTINF:-1,Axn White
-http://force102.com:8080/live/kadir1234/1234kadir/10993.m3u8
-#EXTINF:-1,Bbc
-http://force102.com:8080/live/kadir1234/1234kadir/10992.m3u8
-#EXTINF:-1,Bbc Earth
-http://force102.com:8080/live/kadir1234/1234kadir/10991.m3u8
-#EXTINF:-1,Canal Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10990.m3u8
-#EXTINF:-1,Canal Sport
-http://force102.com:8080/live/kadir1234/1234kadir/10989.m3u8
-#EXTINF:-1,Canal Sport 2 Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10988.m3u8
-#EXTINF:-1,Canal Discovery Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10987.m3u8
-#EXTINF:-1,Canal Family Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10986.m3u8
-#EXTINF:-1,Canal Film Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10985.m3u8
-#EXTINF:-1,Canal Seriale Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10984.m3u8
-#EXTINF:-1,Cartoon Network Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10983.m3u8
-#EXTINF:-1,Cbs Reality
-http://force102.com:8080/live/kadir1234/1234kadir/10982.m3u8
-#EXTINF:-1,Cinemax
-http://force102.com:8080/live/kadir1234/1234kadir/10981.m3u8
+#EXTINF:-1, MTV Polska
+http://4ever.biz:80/live/Bree/Bree/9474.m3u8
+#EXTINF:-1,ALE Kino
+http://4ever.biz:80/live/Bree/Bree/9490.m3u8
+#EXTINF:-1,AXN Spin
+http://4ever.biz:80/live/Bree/Bree/9489.m3u8
+#EXTINF:-1,Discovery Life ᴴᴰ
+http://4ever.biz:80/live/Bree/Bree/9498.m3u8
+#EXTINF:-1,Canal Family HD
+http://4ever.biz:80/live/Bree/Bree/9499.m3u8
+#EXTINF:-1,Canal Film HD
+http://4ever.biz:80/live/Bree/Bree/9500.m3u8
+#EXTINF:-1,Canal HD
+http://4ever.biz:80/live/Bree/Bree/9497.m3u8
+#EXTINF:-1,Canal Seriale HD
+http://4ever.biz:80/live/Bree/Bree/9501.m3u8
+#EXTINF:-1,Canal Sport HD
+http://4ever.biz:80/live/Bree/Bree/9502.m3u8
+#EXTINF:-1,Filmbox Extra
+http://4ever.biz:80/live/Bree/Bree/9453.m3u8
 #EXTINF:-1,Cinemax 2
-http://force102.com:8080/live/kadir1234/1234kadir/10980.m3u8
-#EXTINF:-1,Comedy Central
-http://force102.com:8080/live/kadir1234/1234kadir/10979.m3u8
-#EXTINF:-1,Eurosport 1
-http://force102.com:8080/live/kadir1234/1234kadir/10978.m3u8
-#EXTINF:-1,Eurosport 2
-http://force102.com:8080/live/kadir1234/1234kadir/10977.m3u8
-#EXTINF:-1,Filmbox
-http://force102.com:8080/live/kadir1234/1234kadir/10976.m3u8
-#EXTINF:-1,Filmbox Action
-http://force102.com:8080/live/kadir1234/1234kadir/10975.m3u8
-#EXTINF:-1,Filmbox Family
-http://force102.com:8080/live/kadir1234/1234kadir/10974.m3u8
-#EXTINF:-1,Filmbox Preimuim
-http://force102.com:8080/live/kadir1234/1234kadir/10973.m3u8
-#EXTINF:-1,Filmbox Premier
-http://force102.com:8080/live/kadir1234/1234kadir/10972.m3u8
-#EXTINF:-1,Hbo
-http://force102.com:8080/live/kadir1234/1234kadir/10971.m3u8
-#EXTINF:-1,Hbo 2 Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10970.m3u8
-#EXTINF:-1,Hbo 3 Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10969.m3u8
-#EXTINF:-1,National Geo Graphic
-http://force102.com:8080/live/kadir1234/1234kadir/10968.m3u8
-#EXTINF:-1,Nick Jr
-http://force102.com:8080/live/kadir1234/1234kadir/10967.m3u8
-#EXTINF:-1,Nicleodeon
-http://force102.com:8080/live/kadir1234/1234kadir/10966.m3u8
-#EXTINF:-1,Nsport
-http://force102.com:8080/live/kadir1234/1234kadir/10965.m3u8
-#EXTINF:-1,Polsat 1
-http://force102.com:8080/live/kadir1234/1234kadir/10964.m3u8
+http://4ever.biz:80/live/Bree/Bree/9507.m3u8
+#EXTINF:-1,Eleven Sport 1
+http://4ever.biz:80/live/Bree/Bree/9496.m3u8
+#EXTINF:-1,Eleven Sport 2
+http://4ever.biz:80/live/Bree/Bree/9495.m3u8
+#EXTINF:-1,Eleven Sport 3
+http://4ever.biz:80/live/Bree/Bree/9494.m3u8
+#EXTINF:-1,Eleven Sport 4
+http://4ever.biz:80/live/Bree/Bree/9471.m3u8
+#EXTINF:-1,EuroSport 1
+http://4ever.biz:80/live/Bree/Bree/9504.m3u8
+#EXTINF:-1,EuroSport 2
+http://4ever.biz:80/live/Bree/Bree/9505.m3u8
+#EXTINF:-1,ᴾᵒˡˢᵃᵗ Filmbox Action
+http://4ever.biz:80/live/Bree/Bree/9473.m3u8
+#EXTINF:-1,HBO 2
+http://4ever.biz:80/live/Bree/Bree/9492.m3u8
+#EXTINF:-1,HBO 3
+http://4ever.biz:80/live/Bree/Bree/9493.m3u8
+#EXTINF:-1,National Geographic
+http://4ever.biz:80/live/Bree/Bree/9456.m3u8
+#EXTINF:-1,KINO POLSKA
+http://4ever.biz:80/live/Bree/Bree/9457.m3u8
+#EXTINF:-1,n-Sport
+http://4ever.biz:80/live/Bree/Bree/9476.m3u8
+#EXTINF:-1,Nick JR
+http://4ever.biz:80/live/Bree/Bree/9508.m3u8
+#EXTINF:-1,Nickelodeon
+http://4ever.biz:80/live/Bree/Bree/9509.m3u8
+#EXTINF:-1,Polsat
+http://4ever.biz:80/live/Bree/Bree/2887.m3u8
 #EXTINF:-1,Polsat 2
-http://force102.com:8080/live/kadir1234/1234kadir/10963.m3u8
-#EXTINF:-1,Polsat 2 Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10962.m3u8
+http://4ever.biz:80/live/Bree/Bree/9479.m3u8
 #EXTINF:-1,Polsat Cafe
-http://force102.com:8080/live/kadir1234/1234kadir/10961.m3u8
+http://4ever.biz:80/live/Bree/Bree/9460.m3u8
 #EXTINF:-1,Polsat Film
-http://force102.com:8080/live/kadir1234/1234kadir/10960.m3u8
-#EXTINF:-1,Polsat Food
-http://force102.com:8080/live/kadir1234/1234kadir/10959.m3u8
+http://4ever.biz:80/live/Bree/Bree/9480.m3u8
+#EXTINF:-1,Polsat News
+http://4ever.biz:80/live/Bree/Bree/9461.m3u8
 #EXTINF:-1,Polsat Play
-http://force102.com:8080/live/kadir1234/1234kadir/10958.m3u8
-#EXTINF:-1,Polsat Romans
-http://force102.com:8080/live/kadir1234/1234kadir/10957.m3u8
+http://4ever.biz:80/live/Bree/Bree/9463.m3u8
+#EXTINF:-1,TVP Kultura
+http://4ever.biz:80/live/Bree/Bree/9464.m3u8
 #EXTINF:-1,Polsat Sport
-http://force102.com:8080/live/kadir1234/1234kadir/10956.m3u8
-#EXTINF:-1,Polsat Sport Extra Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10955.m3u8
-#EXTINF:-1,Polsat Sports News
-http://force102.com:8080/live/kadir1234/1234kadir/10954.m3u8
-#EXTINF:-1,Tvn 24
-http://force102.com:8080/live/kadir1234/1234kadir/10953.m3u8
-#EXTINF:-1,Tvn Style
-http://force102.com:8080/live/kadir1234/1234kadir/10952.m3u8
-#EXTINF:-1,Tvn Turbo
-http://force102.com:8080/live/kadir1234/1234kadir/10951.m3u8
-#EXTINF:-1,Tvp 1
-http://force102.com:8080/live/kadir1234/1234kadir/10950.m3u8
-#EXTINF:-1,Tvp 2
-http://force102.com:8080/live/kadir1234/1234kadir/10949.m3u8
-#EXTINF:-1,Tvp 3
-http://force102.com:8080/live/kadir1234/1234kadir/10948.m3u8
-#EXTINF:-1,Tvp Historia
-http://force102.com:8080/live/kadir1234/1234kadir/10947.m3u8
-#EXTINF:-1,Tvp Info
-http://force102.com:8080/live/kadir1234/1234kadir/10946.m3u8
-#EXTINF:-1,Tvp Kulture
-http://force102.com:8080/live/kadir1234/1234kadir/10945.m3u8
-#EXTINF:-1,Tvp Sport Hd
-http://force102.com:8080/live/kadir1234/1234kadir/10944.m3u8
+http://4ever.biz:80/live/Bree/Bree/9503.m3u8
+#EXTINF:-1,Sport Extra
+http://4ever.biz:80/live/Bree/Bree/9472.m3u8
+#EXTINF:-1,TRACE URBAN
+http://4ever.biz:80/live/Bree/Bree/9477.m3u8
+#EXTINF:-1,TV PULS
+http://4ever.biz:80/live/Bree/Bree/9483.m3u8
+#EXTINF:-1,TVN 24
+http://4ever.biz:80/live/Bree/Bree/9467.m3u8
+#EXTINF:-1,TVN Fabuła
+http://4ever.biz:80/live/Bree/Bree/9485.m3u8
+#EXTINF:-1,TVN HD
+http://4ever.biz:80/live/Bree/Bree/9484.m3u8
+#EXTINF:-1,TVN Style
+http://4ever.biz:80/live/Bree/Bree/9465.m3u8
+#EXTINF:-1,TVP Seriale
+http://4ever.biz:80/live/Bree/Bree/9466.m3u8
+#EXTINF:-1,TVP 1 HD
+http://4ever.biz:80/live/Bree/Bree/9478.m3u8
+#EXTINF:-1,TVP 2 HD
+http://4ever.biz:80/live/Bree/Bree/9482.m3u8
+#EXTINF:-1,TVP 3 HD
+http://4ever.biz:80/live/Bree/Bree/9481.m3u8
+#EXTINF:-1,TVP SPORT
+http://4ever.biz:80/live/Bree/Bree/9468.m3u8
+#EXTINF:-1,VOX Music Polska
+http://4ever.biz:80/live/Bree/Bree/9487.m3u8
+#EXTINF:-1,TVP Historia
+http://4ever.biz:80/live/Bree/Bree/9469.m3u8
+#EXTINF:-1,FilmBox Family
+http://4ever.biz:80/live/Bree/Bree/25090.m3u8
+#EXTINF:-1,FilmBox Premium
+http://4ever.biz:80/live/Bree/Bree/25091.m3u8
+#EXTINF:-1,Nicktoons
+http://4ever.biz:80/live/Bree/Bree/25088.m3u8
+#EXTINF:-1,Kino TV
+http://4ever.biz:80/live/Bree/Bree/23511.m3u8
