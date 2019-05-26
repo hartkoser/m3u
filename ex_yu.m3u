@@ -1,165 +1,71 @@
 #EXTM3U
-#EXTINF:-1,Bht Hd
-http://force102.com:8080/live/kadir1234/1234kadir/17553.m3u8
-#EXTINF:-1,Bosnatv1
-http://force102.com:8080/live/kadir1234/1234kadir/17537.m3u8
-#EXTINF:-1,Discovery Channel
-http://force102.com:8080/live/kadir1234/1234kadir/17536.m3u8
-#EXTINF:-1,Dm Sat
-http://force102.com:8080/live/kadir1234/1234kadir/17561.m3u8
-#EXTINF:-1,Doma Tv
-http://force102.com:8080/live/kadir1234/1234kadir/17548.m3u8
-#EXTINF:-1,Face Tv
-http://force102.com:8080/live/kadir1234/1234kadir/17560.m3u8
-#EXTINF:-1,Glas Drine
-http://force102.com:8080/live/kadir1234/1234kadir/17546.m3u8
-#EXTINF:-1,Happy Tv
-http://force102.com:8080/live/kadir1234/1234kadir/17540.m3u8
-#EXTINF:-1,Hrt 1
-http://force102.com:8080/live/kadir1234/1234kadir/17564.m3u8
-#EXTINF:-1,Hrt 2
-http://force102.com:8080/live/kadir1234/1234kadir/17563.m3u8
-#EXTINF:-1,Hrt 3
-http://force102.com:8080/live/kadir1234/1234kadir/17565.m3u8
-#EXTINF:-1,Hrt 4
-http://force102.com:8080/live/kadir1234/1234kadir/17562.m3u8
-#EXTINF:-1,Kanal 5
-http://force102.com:8080/live/kadir1234/1234kadir/17542.m3u8
-#EXTINF:-1,Nova
-http://force102.com:8080/live/kadir1234/1234kadir/17545.m3u8
-#EXTINF:-1,Obn
-http://force102.com:8080/live/kadir1234/1234kadir/17539.m3u8
-#EXTINF:-1,Pink
-http://force102.com:8080/live/kadir1234/1234kadir/17544.m3u8
-#EXTINF:-1,Pink Western
-http://force102.com:8080/live/kadir1234/1234kadir/17538.m3u8
-#EXTINF:-1,Pink Comedy
-http://force102.com:8080/live/kadir1234/1234kadir/17543.m3u8
-#EXTINF:-1,Pink Crime&mistery
-http://force102.com:8080/live/kadir1234/1234kadir/17535.m3u8
+#EXTINF:-1,K::CN 1
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5976.m3u8
+#EXTINF:-1,PINK 1
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5971.m3u8
+#EXTINF:-1,PINK 2
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5972.m3u8
+#EXTINF:-1,Pink 3 Info
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5973.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5995.m3u8
+#EXTINF:-1,K::CN 2
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5977.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5994.m3u8
+#EXTINF:-1,PINK 2
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5993.m3u8
+#EXTINF:-1,CINESTAR TV
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5992.m3u8
+#EXTINF:-1,VIASAT NATURE
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5991.m3u8
+#EXTINF:-1,Pink Extra
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5970.m3u8
 #EXTINF:-1,Pink Film
-http://force102.com:8080/live/kadir1234/1234kadir/17550.m3u8
-#EXTINF:-1,Pink Folk 1
-http://force102.com:8080/live/kadir1234/1234kadir/17556.m3u8
-#EXTINF:-1,Pink Horror
-http://force102.com:8080/live/kadir1234/1234kadir/17554.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5969.m3u8
+#EXTINF:-1,PINK FOLK
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5966.m3u8
+#EXTINF:-1,Pink Folk2
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5965.m3u8
+#EXTINF:-1,Pink Hits2
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5964.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5990.m3u8
+#EXTINF:-1,K::CN 3
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5978.m3u8
+#EXTINF:-1,Pink Koncert
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5962.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5989.m3u8
+#EXTINF:-1,Pink M
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5975.m3u8
+#EXTINF:-1,Pink Music
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5963.m3u8
+#EXTINF:-1,RTS HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5988.m3u8
 #EXTINF:-1,Pink Plus
-http://force102.com:8080/live/kadir1234/1234kadir/17559.m3u8
-#EXTINF:-1,Prva
-http://force102.com:8080/live/kadir1234/1234kadir/17541.m3u8
-#EXTINF:-1,Rtl
-http://force102.com:8080/live/kadir1234/1234kadir/17557.m3u8
-#EXTINF:-1,Rtl 2
-http://force102.com:8080/live/kadir1234/1234kadir/17558.m3u8
-#EXTINF:-1,Rtl Kockica
-http://force102.com:8080/live/kadir1234/1234kadir/17551.m3u8
-#EXTINF:-1,Rtl Kockica
-http://force102.com:8080/live/kadir1234/1234kadir/17555.m3u8
-#EXTINF:-1,Rts1
-http://force102.com:8080/live/kadir1234/1234kadir/17552.m3u8
-#EXTINF:-1,Rts2
-http://force102.com:8080/live/kadir1234/1234kadir/17547.m3u8
-#EXTINF:-1,Valentino Tv
-http://force102.com:8080/live/kadir1234/1234kadir/17549.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 1
-http://force102.com:8080/live/kadir1234/1234kadir/20364.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 2
-http://force102.com:8080/live/kadir1234/1234kadir/20363.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 3
-http://force102.com:8080/live/kadir1234/1234kadir/20362.m3u8
-#EXTINF:-1,EX YU: SPORT KLUB 4
-http://force102.com:8080/live/kadir1234/1234kadir/20361.m3u8
-#EXTINF:-1,Arena Sport 1 (SRB)
-http://force102.com:8080/live/kadir1234/1234kadir/20353.m3u8
-#EXTINF:-1,ARENA SPORT 2 SRB
-http://force102.com:8080/live/kadir1234/1234kadir/20360.m3u8
-#EXTINF:-1,ARENA SPORT 3 SRB
-http://force102.com:8080/live/kadir1234/1234kadir/20359.m3u8
-#EXTINF:-1,ARENA SPORT 4 SRB
-http://force102.com:8080/live/kadir1234/1234kadir/20358.m3u8
-#EXTINF:-1,ARENA SPORT 5 SRB
-http://force102.com:8080/live/kadir1234/1234kadir/20357.m3u8
-#EXTINF:-1,Arena Sport 6 HR
-http://force102.com:8080/live/kadir1234/1234kadir/20322.m3u8
-#EXTINF:-1,AXN
-http://force102.com:8080/live/kadir1234/1234kadir/20356.m3u8
-#EXTINF:-1,AXN SPIN
-http://force102.com:8080/live/kadir1234/1234kadir/20355.m3u8
-#EXTINF:-1,BABY TV
-http://force102.com:8080/live/kadir1234/1234kadir/20354.m3u8
-#EXTINF:-1,Eurosport 1
-http://force102.com:8080/live/kadir1234/1234kadir/20352.m3u8
-#EXTINF:-1,Eurosport 2
-http://force102.com:8080/live/kadir1234/1234kadir/20351.m3u8
-#EXTINF:-1,FOX
-http://force102.com:8080/live/kadir1234/1234kadir/20350.m3u8
-#EXTINF:-1,FOX CRIME
-http://force102.com:8080/live/kadir1234/1234kadir/20349.m3u8
-#EXTINF:-1,FOX LIFE
-http://force102.com:8080/live/kadir1234/1234kadir/20348.m3u8
-#EXTINF:-1,FOX MOVIES
-http://force102.com:8080/live/kadir1234/1234kadir/20347.m3u8
-#EXTINF:-1,HBO 1
-http://force102.com:8080/live/kadir1234/1234kadir/20346.m3u8
-#EXTINF:-1,HBO 2
-http://force102.com:8080/live/kadir1234/1234kadir/20345.m3u8
-#EXTINF:-1,HBO 3
-http://force102.com:8080/live/kadir1234/1234kadir/20344.m3u8
-#EXTINF:-1,IDJ TV
-http://force102.com:8080/live/kadir1234/1234kadir/20343.m3u8
-#EXTINF:-1,JUGOTON TV
-http://force102.com:8080/live/kadir1234/1234kadir/20342.m3u8
-#EXTINF:-1,KINO TV
-http://force102.com:8080/live/kadir1234/1234kadir/20341.m3u8
-#EXTINF:-1,KLASIK TV
-http://force102.com:8080/live/kadir1234/1234kadir/20340.m3u8
-#EXTINF:-1,KREATOR TV
-http://force102.com:8080/live/kadir1234/1234kadir/20339.m3u8
-#EXTINF:-1,MINI TV
-http://force102.com:8080/live/kadir1234/1234kadir/20338.m3u8
-#EXTINF:-1,MINIMAX
-http://force102.com:8080/live/kadir1234/1234kadir/20337.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5974.m3u8
+#EXTINF:-1,RTS 3
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5987.m3u8
+#EXTINF:-1,RTS 2 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5986.m3u8
+#EXTINF:-1,RTS 1 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5985.m3u8
+#EXTINF:-1,PINK SCI-FI & FANTASY
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5967.m3u8
+#EXTINF:-1,RTL KLUB
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5984.m3u8
+#EXTINF:-1,PRVA TV
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5983.m3u8
+#EXTINF:-1,PINK
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5982.m3u8
+#EXTINF:-1,PARTIZAN HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5981.m3u8
+#EXTINF:-1,Pink Western
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5968.m3u8
+#EXTINF:-1,O2.TV
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5980.m3u8
 #EXTINF:-1,MTV ADRIA
-http://force102.com:8080/live/kadir1234/1234kadir/20336.m3u8
-#EXTINF:-1,NARODNI TV
-http://force102.com:8080/live/kadir1234/1234kadir/20335.m3u8
-#EXTINF:-1,NICK JR.
-http://force102.com:8080/live/kadir1234/1234kadir/20334.m3u8
-#EXTINF:-1,NOVA TV
-http://force102.com:8080/live/kadir1234/1234kadir/20333.m3u8
-#EXTINF:-1,NOVA WORLD
-http://force102.com:8080/live/kadir1234/1234kadir/20332.m3u8
-#EXTINF:-1,PINK CLASSIC
-http://force102.com:8080/live/kadir1234/1234kadir/20331.m3u8
-#EXTINF:-1,PINK CRIME & MISTERY
-http://force102.com:8080/live/kadir1234/1234kadir/20330.m3u8
-#EXTINF:-1,PINK FOLK 2
-http://force102.com:8080/live/kadir1234/1234kadir/20329.m3u8
-#EXTINF:-1,PINK MUSIC
-http://force102.com:8080/live/kadir1234/1234kadir/20328.m3u8
-#EXTINF:-1,PINK PREMIUM
-http://force102.com:8080/live/kadir1234/1234kadir/20327.m3u8
-#EXTINF:-1,PINK SCI FI & FANTASY
-http://force102.com:8080/live/kadir1234/1234kadir/20326.m3u8
-#EXTINF:-1,PINK SERIJE
-http://force102.com:8080/live/kadir1234/1234kadir/20325.m3u8
-#EXTINF:-1,PINK THRILLER
-http://force102.com:8080/live/kadir1234/1234kadir/20324.m3u8
-#EXTINF:-1,PINK ZABAVA
-http://force102.com:8080/live/kadir1234/1234kadir/20323.m3u8
-#EXTINF:-1,PRVA MAX
-http://force102.com:8080/live/kadir1234/1234kadir/20321.m3u8
-#EXTINF:-1,PRVA PLUS
-http://force102.com:8080/live/kadir1234/1234kadir/20320.m3u8
-#EXTINF:-1,PRVA WORLD
-http://force102.com:8080/live/kadir1234/1234kadir/20319.m3u8
-#EXTINF:-1,RTL CRIME
-http://force102.com:8080/live/kadir1234/1234kadir/20318.m3u8
-#EXTINF:-1,RTL LIVING
-http://force102.com:8080/live/kadir1234/1234kadir/20317.m3u8
-#EXTINF:-1,RTL PASSION
-http://force102.com:8080/live/kadir1234/1234kadir/20316.m3u8
-#EXTINF:-1,RTS 2
-http://force102.com:8080/live/kadir1234/1234kadir/20315.m3u8
-#EXTINF:-1,TV 1000
-http://force102.com:8080/live/kadir1234/1234kadir/20314.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5979.m3u8
+#EXTINF:-1,PinknRoll
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5961.m3u8
