@@ -1,71 +1,337 @@
 #EXTM3U
-#EXTINF:-1,K::CN 1
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5976.m3u8
-#EXTINF:-1,PINK 1
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5971.m3u8
-#EXTINF:-1,PINK 2
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5972.m3u8
-#EXTINF:-1,Pink 3 Info
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5973.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5995.m3u8
-#EXTINF:-1,K::CN 2
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5977.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5994.m3u8
-#EXTINF:-1,PINK 2
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5993.m3u8
-#EXTINF:-1,CINESTAR TV
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5992.m3u8
-#EXTINF:-1,VIASAT NATURE
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5991.m3u8
-#EXTINF:-1,Pink Extra
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5970.m3u8
-#EXTINF:-1,Pink Film
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5969.m3u8
-#EXTINF:-1,PINK FOLK
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5966.m3u8
-#EXTINF:-1,Pink Folk2
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5965.m3u8
-#EXTINF:-1,Pink Hits2
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5964.m3u8
-#EXTINF:-1,VIASAT HISTORY
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5990.m3u8
-#EXTINF:-1,K::CN 3
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5978.m3u8
-#EXTINF:-1,Pink Koncert
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5962.m3u8
-#EXTINF:-1,VIASAT EXPLORER
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5989.m3u8
-#EXTINF:-1,Pink M
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5975.m3u8
-#EXTINF:-1,Pink Music
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5963.m3u8
-#EXTINF:-1,RTS HD
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5988.m3u8
-#EXTINF:-1,Pink Plus
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5974.m3u8
+#EXTINF:-1,24 KITCHEN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65251.m3u8
+#EXTINF:-1,24 Vesti
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65252.m3u8
+#EXTINF:-1,Al Jazeera Balkans
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/160865.m3u8
+#EXTINF:-1,Alfa
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65255.m3u8
+#EXTINF:-1,Alternativa TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124463.m3u8
+#EXTINF:-1,AMC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/96070.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65392.m3u8
+#EXTINF:-1,AURORA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155829.m3u8
+#EXTINF:-1,AXN HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65458.m3u8
+#EXTINF:-1,AXN SPIN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89479.m3u8
+#EXTINF:-1,B 92
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65409.m3u8
+#EXTINF:-1,Baby TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/175251.m3u8
+#EXTINF:-1,Balkan Film
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206503.m3u8
+#EXTINF:-1,Balkan Folk
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206501.m3u8
+#EXTINF:-1,Balkan SCI-FI
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206504.m3u8
+#EXTINF:-1,Balkanika
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212854.m3u8
+#EXTINF:-1,Banovina TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/96073.m3u8
+#EXTINF:-1,BH Live
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/96075.m3u8
+#EXTINF:-1,BHT HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212856.m3u8
+#EXTINF:-1,BN Music
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65412.m3u8
+#EXTINF:-1,BN SAT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212858.m3u8
+#EXTINF:-1,CBS Reality
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208431.m3u8
+#EXTINF:-1,Cinemania
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/210359.m3u8
+#EXTINF:-1,CineMax 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/210534.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65461.m3u8
+#EXTINF:-1,Cinemax HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65463.m3u8
+#EXTINF:-1,CineStar Aktion
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212859.m3u8
+#EXTINF:-1,CineStar Fan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212860.m3u8
+#EXTINF:-1,CINESTAR TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78442.m3u8
+#EXTINF:-1,CMC HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65393.m3u8
+#EXTINF:-1,Comedy Central Extra
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65261.m3u8
+#EXTINF:-1,Crime & Investigation HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65262.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65263.m3u8
+#EXTINF:-1,Discavery Science
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212862.m3u8
+#EXTINF:-1,Discovery Channel
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65273.m3u8
+#EXTINF:-1,Discovery Science
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206524.m3u8
+#EXTINF:-1,Discovery Showcase
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208020.m3u8
+#EXTINF:-1,Discovery Turbo Xtra
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/134403.m3u8
+#EXTINF:-1,DIVA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155855.m3u8
+#EXTINF:-1,DM Sat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65414.m3u8
+#EXTINF:-1,Dma TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/153140.m3u8
+#EXTINF:-1,Doma TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212863.m3u8
+#EXTINF:-1,Domatv HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208441.m3u8
+#EXTINF:-1,Duga TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212864.m3u8
+#EXTINF:-1,E! HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65389.m3u8
+#EXTINF:-1,ERA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65265.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65447.m3u8
+#EXTINF:-1,Face TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65266.m3u8
+#EXTINF:-1,Federalna TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65395.m3u8
+#EXTINF:-1,Fight box FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65267.m3u8
+#EXTINF:-1,Fight Channel
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/160877.m3u8
+#EXTINF:-1,FILM BOX Extra
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65456.m3u8
+#EXTINF:-1,Film box Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/96083.m3u8
+#EXTINF:-1,Film Max SELECT 03
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212881.m3u8
+#EXTINF:-1,Filmbox HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208443.m3u8
+#EXTINF:-1,Fox Crime HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65468.m3u8
+#EXTINF:-1,Fox HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65287.m3u8
+#EXTINF:-1,Fox Life HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65469.m3u8
+#EXTINF:-1,Fox Movies HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65470.m3u8
+#EXTINF:-1,FTV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/175225.m3u8
+#EXTINF:-1,Glas Drive TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/210374.m3u8
+#EXTINF:-1,GRAND 2 TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65297.m3u8
+#EXTINF:-1,Grand TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65396.m3u8
+#EXTINF:-1,Happy TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65269.m3u8
+#EXTINF:-1,Happy TV PAROVI LIVE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212865.m3u8
+#EXTINF:-1,HAWA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65368.m3u8
+#EXTINF:-1,Hayat HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212867.m3u8
+#EXTINF:-1,HBO 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208445.m3u8
+#EXTINF:-1,HBO 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65452.m3u8
+#EXTINF:-1,HBO 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65450.m3u8
+#EXTINF:-1,HBO family
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212309.m3u8
+#EXTINF:-1,History 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65271.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65243.m3u8
+#EXTINF:-1,HIT TELEVIZIJA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155830.m3u8
+#EXTINF:-1,IDJ Digital
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155831.m3u8
+#EXTINF:-1,Investigation Disvovery
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/126327.m3u8
+#EXTINF:-1,Investigation Disvovery Extra
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212869.m3u8
+#EXTINF:-1,Istok TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65274.m3u8
+#EXTINF:-1,K3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124452.m3u8
+#EXTINF:-1,Kanal A
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211493.m3u8
+#EXTINF:-1,KCN 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212870.m3u8
+#EXTINF:-1,KCN 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212871.m3u8
+#EXTINF:-1,KINO TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/192670.m3u8
+#EXTINF:-1,Klasik TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208451.m3u8
+#EXTINF:-1,KREATOR TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/192671.m3u8
+#EXTINF:-1,LOV I RIBOLOV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65391.m3u8
+#EXTINF:-1,M1 Film
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/117259.m3u8
+#EXTINF:-1,Mini TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65293.m3u8
+#EXTINF:-1,MlaveTv
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208454.m3u8
+#EXTINF:-1,Moje Bugono
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/96092.m3u8
+#EXTINF:-1,Movies Premiere
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208498.m3u8
+#EXTINF:-1,Movies Smile
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208497.m3u8
+#EXTINF:-1,MPT 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65299.m3u8
+#EXTINF:-1,MPT 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/153293.m3u8
+#EXTINF:-1,Mrtv 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/209845.m3u8
+#EXTINF:-1,MTV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/160890.m3u8
+#EXTINF:-1,MTV DANCE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206659.m3u8
+#EXTINF:-1,mtv Igman
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65301.m3u8
+#EXTINF:-1,NAT GEO HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65387.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65303.m3u8
+#EXTINF:-1,Nickelodon
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65296.m3u8
+#EXTINF:-1,O2 TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65418.m3u8
+#EXTINF:-1,OBN HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65413.m3u8
+#EXTINF:-1,OTV Valentino
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/210539.m3u8
+#EXTINF:-1,PICKBOX 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212306.m3u8
+#EXTINF:-1,PICKBOX 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212307.m3u8
+#EXTINF:-1,PICKBOX 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212308.m3u8
+#EXTINF:-1,Pikaboo
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155822.m3u8
+#EXTINF:-1,PINKIDS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/160909.m3u8
+#EXTINF:-1,Prva Max
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212876.m3u8
+#EXTINF:-1,Prva Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212877.m3u8
+#EXTINF:-1,Prva World
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212878.m3u8
+#EXTINF:-1,PRVA.RS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206497.m3u8
+#EXTINF:-1,PTC 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65436.m3u8
+#EXTINF:-1,PTC 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/192653.m3u8
+#EXTINF:-1,PTC CBIT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65280.m3u8
+#EXTINF:-1,PTPC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65433.m3u8
+#EXTINF:-1,PTPC Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/96104.m3u8
+#EXTINF:-1,PTV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65427.m3u8
+#EXTINF:-1,Repiza 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155871.m3u8
+#EXTINF:-1,Roma TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65333.m3u8
+#EXTINF:-1,RT Vojvodina 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65312.m3u8
+#EXTINF:-1,RTL
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/209855.m3u8
+#EXTINF:-1,RTL 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65249.m3u8
+#EXTINF:-1,RTL CRIME
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65421.m3u8
+#EXTINF:-1,RTL Kockica
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65422.m3u8
+#EXTINF:-1,RTL Living
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65420.m3u8
+#EXTINF:-1,RTL PASSION
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/134426.m3u8
+#EXTINF:-1,RTS 2 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65438.m3u8
 #EXTINF:-1,RTS 3
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5987.m3u8
-#EXTINF:-1,RTS 2 HD
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5986.m3u8
-#EXTINF:-1,RTS 1 HD
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5985.m3u8
-#EXTINF:-1,PINK SCI-FI & FANTASY
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5967.m3u8
-#EXTINF:-1,RTL KLUB
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5984.m3u8
-#EXTINF:-1,PRVA TV
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5983.m3u8
-#EXTINF:-1,PINK
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5982.m3u8
-#EXTINF:-1,PARTIZAN HD
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5981.m3u8
-#EXTINF:-1,Pink Western
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5968.m3u8
-#EXTINF:-1,O2.TV
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5980.m3u8
-#EXTINF:-1,MTV ADRIA
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5979.m3u8
-#EXTINF:-1,PinknRoll
-http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5961.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155850.m3u8
+#EXTINF:-1,Rts1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/192651.m3u8
+#EXTINF:-1,RTV Novi Pazar
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/149020.m3u8
+#EXTINF:-1,Sandzak TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65316.m3u8
+#EXTINF:-1,Scifi
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/134428.m3u8
+#EXTINF:-1,Shutel TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65317.m3u8
+#EXTINF:-1,Sitel 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/175235.m3u8
+#EXTINF:-1,Sitel 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212880.m3u8
+#EXTINF:-1,Sitel HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65318.m3u8
+#EXTINF:-1,SLAVONSKA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/117274.m3u8
+#EXTINF:-1,Slovenia 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65320.m3u8
+#EXTINF:-1,SOS Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/207350.m3u8
+#EXTINF:-1,Sport Klub HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/212882.m3u8
+#EXTINF:-1,Sportskatv
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/134438.m3u8
+#EXTINF:-1,Studio B
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/96108.m3u8
+#EXTINF:-1,Telma
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65325.m3u8
+#EXTINF:-1,TNT KIDS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155823.m3u8
+#EXTINF:-1,TOP Sound
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65278.m3u8
+#EXTINF:-1,TOP TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/117265.m3u8
+#EXTINF:-1,Travel Channel
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/96112.m3u8
+#EXTINF:-1,TRING SPORT NEWS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111647.m3u8
+#EXTINF:-1,TV 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65417.m3u8
+#EXTINF:-1,TV 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65277.m3u8
+#EXTINF:-1,TV 6
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/210391.m3u8
+#EXTINF:-1,TV 1000
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65328.m3u8
+#EXTINF:-1,TV Banovina
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65331.m3u8
+#EXTINF:-1,TV Glas Drine
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65334.m3u8
+#EXTINF:-1,TV Mini
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/160919.m3u8
+#EXTINF:-1,TV Sehara
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65372.m3u8
+#EXTINF:-1,TV Slon
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65378.m3u8
+#EXTINF:-1,TV Sonce
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65373.m3u8
+#EXTINF:-1,Ultra TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211162.m3u8
+#EXTINF:-1,USK HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/207161.m3u8
+#EXTINF:-1,VAVOOM KIDS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155888.m3u8
+#EXTINF:-1,VH1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/160926.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/154035.m3u8
+#EXTINF:-1,VIASAT HISTORY
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/154036.m3u8
+#EXTINF:-1,Viasat nature
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65375.m3u8
+#EXTINF:-1,Z1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65377.m3u8
