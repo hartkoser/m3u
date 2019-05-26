@@ -1,269 +1,129 @@
 #EXTM3U
-#EXTINF:-1,24 Kitchen
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20251.m3u8
-#EXTINF:-1,A Bola TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20249.m3u8
-#EXTINF:-1,A&E
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20250.m3u8
-#EXTINF:-1,Amc
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20248.m3u8
-#EXTINF:-1,Axn 4K
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20246.m3u8
-#EXTINF:-1,Axn Black HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20247.m3u8
-#EXTINF:-1,Axn White 4K
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20245.m3u8
-#EXTINF:-1,BabyTV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20164.m3u8
-#EXTINF:-1,Benfica TV FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20204.m3u8
-#EXTINF:-1,Benfica TV HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20203.m3u8
-#EXTINF:-1,Blaze FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20163.m3u8
-#EXTINF:-1,Bloomberg
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20162.m3u8
-#EXTINF:-1,Box Nation HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20161.m3u8
-#EXTINF:-1,BTV 1 4K
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20243.m3u8
-#EXTINF:-1,Caca E Pesca
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20160.m3u8
-#EXTINF:-1,Cacavision
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20159.m3u8
-#EXTINF:-1,Canal Panda
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20242.m3u8
-#EXTINF:-1,Canal Q
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20241.m3u8
-#EXTINF:-1,Cartoon  Network
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20240.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 [576i]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10638.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10640.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10639.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 [576i]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10636.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10637.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 [576i]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10634.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD [EVENT]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10635.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 [576i]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10632.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD [EVENT]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10633.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 [576i]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10630.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 HD [EVENT]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10631.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 [576i]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10628.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD [EVENT]
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/10629.m3u8
+#EXTINF:-1,A Bola Tv
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2366.m3u8
+#EXTINF:-1,AMC
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2437.m3u8
+#EXTINF:-1,AXN Black
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2442.m3u8
+#EXTINF:-1,AXN HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2440.m3u8
+#EXTINF:-1,AXN White HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2441.m3u8
+#EXTINF:-1,BTV HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5723.m3u8
 #EXTINF:-1,Cartoon Network
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20158.m3u8
-#EXTINF:-1,Cbs Reality
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20239.m3u8
-#EXTINF:-1,Cinemundo
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20238.m3u8
-#EXTINF:-1,Cm TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20237.m3u8
-#EXTINF:-1,CmTV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20157.m3u8
-#EXTINF:-1,CmTV FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20156.m3u8
-#EXTINF:-1,Crime   Investigation HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20155.m3u8
-#EXTINF:-1,Discovery Channel
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20236.m3u8
-#EXTINF:-1,Discovery Showcase
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20235.m3u8
-#EXTINF:-1,Discovery Showcase FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20154.m3u8
-#EXTINF:-1,Disney Channel
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20234.m3u8
-#EXTINF:-1,Disney Junior
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20233.m3u8
-#EXTINF:-1,E! Entertainment
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20232.m3u8
-#EXTINF:-1,Eleven Sports 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20193.m3u8
-#EXTINF:-1,Eleven Sports 1 FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20153.m3u8
-#EXTINF:-1,Eleven Sports 1 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20152.m3u8
-#EXTINF:-1,Eleven Sports 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20192.m3u8
-#EXTINF:-1,Eleven Sports 2 FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20151.m3u8
-#EXTINF:-1,Eleven Sports 3 ( Only Live Events )
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20191.m3u8
-#EXTINF:-1,Eleven Sports 3 HD [Event]
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20150.m3u8
-#EXTINF:-1,Eleven Sports 4 ( Only Live Events )
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20190.m3u8
-#EXTINF:-1,Eleven Sports 4 HD [Event]
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20149.m3u8
-#EXTINF:-1,Eleven Sports 5 ( Only Live Events )
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20189.m3u8
-#EXTINF:-1,Eleven Sports 5 HD [Event]
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20148.m3u8
-#EXTINF:-1,Eleven Sports 6 ( Only Live Events )
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20188.m3u8
-#EXTINF:-1,Eleven Sports 6 HD [Event]
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20147.m3u8
-#EXTINF:-1,Eurosport
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20231.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2367.m3u8
 #EXTINF:-1,Eurosport 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20230.m3u8
-#EXTINF:-1,Fight Network FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20146.m3u8
-#EXTINF:-1,Food Network
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20145.m3u8
-#EXTINF:-1,Fox
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20227.m3u8
-#EXTINF:-1,Fox Comedy 4K
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20229.m3u8
-#EXTINF:-1,Fox Crime
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20228.m3u8
-#EXTINF:-1,Fox Life
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20226.m3u8
-#EXTINF:-1,Fox Life*
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20225.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2433.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2952.m3u8
+#EXTINF:-1,Eurosport 2
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2434.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2951.m3u8
+#EXTINF:-1,FOX
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2369.m3u8
+#EXTINF:-1,Fox Comedy
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2439.m3u8
+#EXTINF:-1,Fox Crime HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2436.m3u8
+#EXTINF:-1,Fox Life HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2438.m3u8
 #EXTINF:-1,Fox Movies
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20224.m3u8
-#EXTINF:-1,Fox TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20223.m3u8
-#EXTINF:-1,Foxmix Latino HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20144.m3u8
-#EXTINF:-1,Fuel TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20222.m3u8
-#EXTINF:-1,HD   Baby TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20244.m3u8
-#EXTINF:-1,Historia
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20252.m3u8
-#EXTINF:-1,Hit TV HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20143.m3u8
-#EXTINF:-1,Hollywood
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20221.m3u8
-#EXTINF:-1,Hollywood FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20142.m3u8
-#EXTINF:-1,Investigation Discovery FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20141.m3u8
-#EXTINF:-1,Jimjam
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20140.m3u8
-#EXTINF:-1,Kombat Sport
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20139.m3u8
-#EXTINF:-1,Kuriakos Kids
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20138.m3u8
-#EXTINF:-1,Kuriakos Music FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20137.m3u8
-#EXTINF:-1,Kuriakos TV FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20136.m3u8
-#EXTINF:-1,Mezzo
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20135.m3u8
-#EXTINF:-1,Mezzo Live FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20134.m3u8
-#EXTINF:-1,Motorvision TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20220.m3u8
-#EXTINF:-1,MTV Portugal
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20219.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20218.m3u8
-#EXTINF:-1,Natgeo Wild HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20133.m3u8
-#EXTINF:-1,National Geographic
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20217.m3u8
-#EXTINF:-1,National Geographic FHD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20132.m3u8
-#EXTINF:-1,Nba HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20131.m3u8
-#EXTINF:-1,Nick Junior
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20130.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2435.m3u8
+#EXTINF:-1,Hollywood HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2370.m3u8
+#EXTINF:-1,Jim Jam
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2373.m3u8
 #EXTINF:-1,Nickelodeon
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20216.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2371.m3u8
 #EXTINF:-1,Odisseia
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20215.m3u8
-#EXTINF:-1,Panda
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20129.m3u8
-#EXTINF:-1,Panda Biggs
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20128.m3u8
-#EXTINF:-1,Panda HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20127.m3u8
-#EXTINF:-1,Porto Canal
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20205.m3u8
-#EXTINF:-1,Rtp 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20214.m3u8
-#EXTINF:-1,Rtp 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20213.m3u8
-#EXTINF:-1,Rtp 3
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20212.m3u8
-#EXTINF:-1,Rtp Acores
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20172.m3u8
-#EXTINF:-1,Rtp Africa
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20171.m3u8
-#EXTINF:-1,Rtp Madeira
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20211.m3u8
-#EXTINF:-1,Rtp Memoria
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20210.m3u8
-#EXTINF:-1,Sic
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20209.m3u8
-#EXTINF:-1,Sic Caras HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20126.m3u8
-#EXTINF:-1,Sic Kids
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20125.m3u8
-#EXTINF:-1,Sic Mulher
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20208.m3u8
-#EXTINF:-1,Sic Noticias
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20207.m3u8
-#EXTINF:-1,Sic Radical
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20206.m3u8
-#EXTINF:-1,Sport TV 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20198.m3u8
-#EXTINF:-1,Sport TV 1*
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20199.m3u8
-#EXTINF:-1,Sport TV 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20197.m3u8
-#EXTINF:-1,Sport TV 3
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20196.m3u8
-#EXTINF:-1,Sport TV 4
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20195.m3u8
-#EXTINF:-1,Sport TV 5
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20194.m3u8
-#EXTINF:-1,Sport TV Mais
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20124.m3u8
-#EXTINF:-1,Sport TV Mais HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20123.m3u8
-#EXTINF:-1,Sport TV*
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20200.m3u8
-#EXTINF:-1,Sporting
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20202.m3u8
-#EXTINF:-1,Syfy
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20187.m3u8
-#EXTINF:-1,Tcv Cabo Verde
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20170.m3u8
-#EXTINF:-1,Tlc
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20186.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2372.m3u8
+#EXTINF:-1,REAL MADRID
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2374.m3u8
+#EXTINF:-1,RTP 1 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5112.m3u8
+#EXTINF:-1,RTP 1 HQ
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5111.m3u8
+#EXTINF:-1,SIC
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2378.m3u8
+#EXTINF:-1,SIC Kids
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2379.m3u8
+#EXTINF:-1,SIC Mulher
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2380.m3u8
+#EXTINF:-1,SIC Notícias
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5110.m3u8
+#EXTINF:-1,SPORT TV 1
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2959.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2960.m3u8
+#EXTINF:-1,SPORT TV 2
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2957.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2958.m3u8
+#EXTINF:-1,SPORT TV 3
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2955.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2956.m3u8
+#EXTINF:-1,SPORT TV 4
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2954.m3u8
+#EXTINF:-1,SPORT TV 5
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2953.m3u8
+#EXTINF:-1,SYFY
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2443.m3u8
 #EXTINF:-1,Toros TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20185.m3u8
-#EXTINF:-1,Tpa Angola
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20168.m3u8
-#EXTINF:-1,Trace Urban
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20122.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2383.m3u8
 #EXTINF:-1,TV Cine 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20184.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2384.m3u8
+#EXTINF:-1,TV CINE 1 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2964.m3u8
 #EXTINF:-1,TV Cine 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20183.m3u8
-#EXTINF:-1,TV Cine 3
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20182.m3u8
-#EXTINF:-1,TV Cine 4
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20181.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2385.m3u8
+#EXTINF:-1,TV CINE 2 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2963.m3u8
+#EXTINF:-1,TV CINE 3
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2962.m3u8
+#EXTINF:-1,TV CINE 4 HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2961.m3u8
 #EXTINF:-1,TV Globo
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20180.m3u8
-#EXTINF:-1,TV Globo HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20121.m3u8
-#EXTINF:-1,TV Globo Premium
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20120.m3u8
-#EXTINF:-1,TV Record
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20179.m3u8
-#EXTINF:-1,TV Record HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20119.m3u8
-#EXTINF:-1,TV Series
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20178.m3u8
-#EXTINF:-1,TVi
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20177.m3u8
-#EXTINF:-1,TVi 24
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20176.m3u8
-#EXTINF:-1,TVi Fic
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20118.m3u8
-#EXTINF:-1,TVi Ficcao
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20169.m3u8
-#EXTINF:-1,TVi Reality
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20175.m3u8
-#EXTINF:-1,TVm Mozambique
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20167.m3u8
-#EXTINF:-1,TVm1 Mozambique
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20166.m3u8
-#EXTINF:-1,Vh1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20174.m3u8
-#EXTINF:-1,Vh1 Classic
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20173.m3u8
-#EXTINF:-1,Viasat Motor HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20117.m3u8
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2966.m3u8
+#EXTINF:-1,TV GLOBO PREMIUM
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2965.m3u8
+#EXTINF:-1,TV record
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2968.m3u8
+#EXTINF:-1,TV Series HD
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2386.m3u8
+#EXTINF:-1,TVI
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/5113.m3u8
+#EXTINF:-1,TVI 24
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2970.m3u8
+#EXTINF:-1,TVI Ficcao
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2967.m3u8
+#EXTINF:-1,TVI Reality
+http://freechoof.com:25461/live/3LEdhdYW26/Uk9mxskQ7T/2969.m3u8
