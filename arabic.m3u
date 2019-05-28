@@ -1,997 +1,2347 @@
 #EXTM3U
-#EXTINF:-1,My- MBC1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/46.m3u8
-#EXTINF:-1,My- MBC2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/26.m3u8
-#EXTINF:-1,My- MBC3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/47.m3u8
-#EXTINF:-1,My- MBC4 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/27.m3u8
-#EXTINF:-1,My- MBC Iraq HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14444.m3u8
-#EXTINF:-1,My- MBC Drama HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/48.m3u8
-#EXTINF:-1,My- MBC Action HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/24.m3u8
-#EXTINF:-1,My- MBC Max HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/29.m3u8
-#EXTINF:-1,My- MBC Variety HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2001.m3u8
-#EXTINF:-1,My- MBC Bollywood HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9301.m3u8
-#EXTINF:-1,My- MBC Drama+ HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2690.m3u8
-#EXTINF:-1,My- MBC Masr
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2186.m3u8
-#EXTINF:-1,My- MBC Masir 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/178.m3u8
-#EXTINF:-1,My- FX HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2695.m3u8
-#EXTINF:-1,My- Fox Life HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10154.m3u8
-#EXTINF:-1,My- Fox Crime HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10155.m3u8
-#EXTINF:-1,My- Fox Rewayat HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10153.m3u8
-#EXTINF:-1,My- My Cinema HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2692.m3u8
-#EXTINF:-1,My- FightBox HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2694.m3u8
-#EXTINF:-1,My- DocuBox HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3238.m3u8
-#EXTINF:-1,My- Al Nahar HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2703.m3u8
-#EXTINF:-1,My- Al Nahar Drama HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2701.m3u8
-#EXTINF:-1,My- ITV Choice HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13499.m3u8
-#EXTINF:-1,My- Music Tropical HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2699.m3u8
-#EXTINF:-1,My- Music Always HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2698.m3u8
-#EXTINF:-1,My- Discovery SC HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13502.m3u8
-#EXTINF:-1,My- Planet Earth HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7585.m3u8
-#EXTINF:-1,My- Star Movies HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13504.m3u8
-#EXTINF:-1,My- Star World HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13503.m3u8
-#EXTINF:-1,My- Fox Action Movies HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2696.m3u8
-#EXTINF:-1,My- Fox Family Movies HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2691.m3u8
-#EXTINF:-1,My- Documentary Bil Arabie
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9588.m3u8
-#EXTINF:-1,My- Laab wa Jad HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13440.m3u8
-#EXTINF:-1,My- Cinemachi Kids
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2705.m3u8
-#EXTINF:-1,My- Fix & Foxi
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13425.m3u8
-#EXTINF:-1,My- Gulli Bil Arabic HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2700.m3u8
-#EXTINF:-1,Al Jazeera HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2243.m3u8
-#EXTINF:-1,Aljazeera English
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6940.m3u8
-#EXTINF:-1,Aljazeera Mubasher
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13436.m3u8
-#EXTINF:-1,Aljazeera Documents HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2586.m3u8
-#EXTINF:-1,NRT Arabic HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16255.m3u8
-#EXTINF:-1,Qatar HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14047.m3u8
-#EXTINF:-1,TRT Arabic HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13507.m3u8
-#EXTINF:-1,Nat Geo AD HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/605.m3u8
-#EXTINF:-1,Quest HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3236.m3u8
-#EXTINF:-1,AD Drama HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/161.m3u8
-#EXTINF:-1,DUBAI ONE
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10028.m3u8
-#EXTINF:-1,Dubai Zaman
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10026.m3u8
-#EXTINF:-1,DUBAI TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10027.m3u8
-#EXTINF:-1,NOOR DUBAI
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10025.m3u8
-#EXTINF:-1,SAMA DUBAI
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10024.m3u8
-#EXTINF:-1,Kuwait 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16976.m3u8
-#EXTINF:-1,Kuwait 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16975.m3u8
-#EXTINF:-1,Kuwait AlArabi HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16974.m3u8
-#EXTINF:-1,Kuwait Ethraa HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16973.m3u8
-#EXTINF:-1,Kuwait Plus HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16972.m3u8
-#EXTINF:-1,Kuwait Sport HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16971.m3u8
-#EXTINF:-1,Kuwait Sport Plus HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/16970.m3u8
-#EXTINF:-1,Rotana Clip HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2743.m3u8
-#EXTINF:-1,Rotana Music HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/184.m3u8
-#EXTINF:-1,Rotana Masriah HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/182.m3u8
-#EXTINF:-1,Rotana Khalijiah HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/181.m3u8
-#EXTINF:-1,Rotana Classic HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/183.m3u8
-#EXTINF:-1,Rotana Aflam HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/985.m3u8
-#EXTINF:-1,Rotana Cinema KSA HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/180.m3u8
-#EXTINF:-1,LBC HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2264.m3u8
-#EXTINF:-1,LDC
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6907.m3u8
-#EXTINF:-1,MTV Lebanon HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2677.m3u8
-#EXTINF:-1,OTV Lebnan
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1177.m3u8
-#EXTINF:-1,Future TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2673.m3u8
-#EXTINF:-1,Tel Lebanon
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2737.m3u8
-#EXTINF:-1,Manar TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5870.m3u8
-#EXTINF:-1,Al Jadeed
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2242.m3u8
-#EXTINF:-1,Aghapy TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10171.m3u8
-#EXTINF:-1,Charity TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10690.m3u8
-#EXTINF:-1,Suroyo TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7663.m3u8
-#EXTINF:-1,Suryoyo Sat
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10608.m3u8
-#EXTINF:-1,Nour Al Sharq
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8256.m3u8
-#EXTINF:-1,Nour Koddass
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8255.m3u8
-#EXTINF:-1,Alkarma
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8260.m3u8
-#EXTINF:-1,Al Karama TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8262.m3u8
-#EXTINF:-1,Mariam TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8258.m3u8
-#EXTINF:-1,Bahreen tv HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2671.m3u8
-#EXTINF:-1,Quran TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11113.m3u8
-#EXTINF:-1,Al-Quran TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11170.m3u8
-#EXTINF:-1,Iqraa TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11001.m3u8
-#EXTINF:-1,Huda TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3235.m3u8
-#EXTINF:-1,Mecca
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2269.m3u8
-#EXTINF:-1,Almajd1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3053.m3u8
-#EXTINF:-1,Almajd 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3052.m3u8
-#EXTINF:-1,Almajd 3
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3051.m3u8
-#EXTINF:-1,Almajd 4
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3050.m3u8
-#EXTINF:-1,Almajd 5
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17590.m3u8
-#EXTINF:-1,Almajd 6
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17589.m3u8
-#EXTINF:-1,Almajd 7
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17588.m3u8
-#EXTINF:-1,Almajd 8
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17587.m3u8
-#EXTINF:-1,Imaging Movies
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3049.m3u8
-#EXTINF:-1,Saudia 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3043.m3u8
-#EXTINF:-1,Saudia Quran HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3041.m3u8
-#EXTINF:-1,Saudia Sunna HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3042.m3u8
-#EXTINF:-1,SBC TV HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13718.m3u8
-#EXTINF:-1,Alsharqiya HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2292.m3u8
-#EXTINF:-1,Al Sumaria
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5273.m3u8
-#EXTINF:-1,Iraqya TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8959.m3u8
-#EXTINF:-1,OWS TV HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13494.m3u8
-#EXTINF:-1,Iraq Now
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4756.m3u8
-#EXTINF:-1,Sama Almousel
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8417.m3u8
-#EXTINF:-1,Al Falujah HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4758.m3u8
-#EXTINF:-1,Al Rasheed TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/168.m3u8
-#EXTINF:-1,Hona Baghdad
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7054.m3u8
-#EXTINF:-1,Baghdadiya Now
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7192.m3u8
-#EXTINF:-1,Al Rafiden
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6532.m3u8
-#EXTINF:-1,Al Rahma
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2247.m3u8
-#EXTINF:-1,Dijlah TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3508.m3u8
-#EXTINF:-1,Al Diyar
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1938.m3u8
-#EXTINF:-1,Al Iman TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7659.m3u8
-#EXTINF:-1,Imam Reda
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7657.m3u8
-#EXTINF:-1,Ishtar TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2293.m3u8
-#EXTINF:-1,AL MUSTAKILA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1987.m3u8
-#EXTINF:-1,Afaq TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10978.m3u8
-#EXTINF:-1,Sammara
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10976.m3u8
-#EXTINF:-1,Asia TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10977.m3u8
-#EXTINF:-1,Al Ghader
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10975.m3u8
-#EXTINF:-1,Turkmania TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2738.m3u8
-#EXTINF:-1,Al Wifaq
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13452.m3u8
-#EXTINF:-1,Al Khadir
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1957.m3u8
-#EXTINF:-1,Al Aqila TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11172.m3u8
-#EXTINF:-1,Al Ebaa TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11171.m3u8
-#EXTINF:-1,Al-Shaaer TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11169.m3u8
-#EXTINF:-1,ALFARQADAYN
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11168.m3u8
-#EXTINF:-1,Manhaj
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11166.m3u8
-#EXTINF:-1,Anwar TV2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10691.m3u8
-#EXTINF:-1,Iraq Future TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10688.m3u8
-#EXTINF:-1,Syria TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7186.m3u8
-#EXTINF:-1,Syria FM
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7187.m3u8
-#EXTINF:-1,Sama Syria TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7189.m3u8
-#EXTINF:-1,Syria Drama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7188.m3u8
-#EXTINF:-1,Nour El sham
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7191.m3u8
-#EXTINF:-1,Animal HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14379.m3u8
-#EXTINF:-1,GM Alwan
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14391.m3u8
-#EXTINF:-1,GM Comedia
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14390.m3u8
-#EXTINF:-1,GM Movies
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14389.m3u8
-#EXTINF:-1,M Chabi
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14378.m3u8
-#EXTINF:-1,M Music
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14377.m3u8
-#EXTINF:-1,Manga  HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14376.m3u8
-#EXTINF:-1,S7T Aflam
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14388.m3u8
-#EXTINF:-1,S7T Animi
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14387.m3u8
-#EXTINF:-1,S7T Bollywood
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14386.m3u8
-#EXTINF:-1,S7T Cartoon
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14385.m3u8
-#EXTINF:-1,S7T Classic
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14384.m3u8
-#EXTINF:-1,S7T Movies
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14383.m3u8
-#EXTINF:-1,S7T Music
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14382.m3u8
-#EXTINF:-1,S7T Series
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14381.m3u8
-#EXTINF:-1,S7T Sport
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14380.m3u8
-#EXTINF:-1,Hala Bollywood HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14374.m3u8
-#EXTINF:-1,Hala Drama HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14373.m3u8
-#EXTINF:-1,Hala Mix HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14372.m3u8
-#EXTINF:-1,Hala Movies HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14371.m3u8
-#EXTINF:-1,Hala Series HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14370.m3u8
-#EXTINF:-1,Hala Turk HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14369.m3u8
-#EXTINF:-1,Lana Syria TV HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10980.m3u8
-#EXTINF:-1,Jordan TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2263.m3u8
-#EXTINF:-1,Hala Jordan
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8266.m3u8
-#EXTINF:-1,LIBYA 218
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8227.m3u8
-#EXTINF:-1,Libya Channel
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6558.m3u8
-#EXTINF:-1,YEMEN TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2573.m3u8
-#EXTINF:-1,YEMEN TODAY TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2572.m3u8
-#EXTINF:-1,Aden TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10610.m3u8
-#EXTINF:-1,ON E HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6932.m3u8
-#EXTINF:-1,ON Drama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10168.m3u8
-#EXTINF:-1,DMC HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10173.m3u8
-#EXTINF:-1,DMC drama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10174.m3u8
-#EXTINF:-1,CBC
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/173.m3u8
-#EXTINF:-1,CBC Drama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2903.m3u8
-#EXTINF:-1,CBC Sofra
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2904.m3u8
-#EXTINF:-1,CBC eXtra
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2902.m3u8
-#EXTINF:-1,Nile Life
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4135.m3u8
-#EXTINF:-1,Nile Family
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4136.m3u8
-#EXTINF:-1,Nile Drama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4137.m3u8
-#EXTINF:-1,Nile Comedy
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4139.m3u8
-#EXTINF:-1,Nile Cinema
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4140.m3u8
-#EXTINF:-1,Panorama Drama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2275.m3u8
-#EXTINF:-1,Panorama Drama 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2276.m3u8
-#EXTINF:-1,Panorama Film
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10029.m3u8
-#EXTINF:-1,Panorama Food
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4750.m3u8
-#EXTINF:-1,Al Kahera Wal Nas 1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10480.m3u8
-#EXTINF:-1,Al Kahera Wal Nas 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7198.m3u8
-#EXTINF:-1,Star Cinema 1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1945.m3u8
-#EXTINF:-1,Cinema 1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2255.m3u8
-#EXTINF:-1,Cinema 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8096.m3u8
-#EXTINF:-1,Cinema Pro
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1175.m3u8
-#EXTINF:-1,Sada El Balad
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7200.m3u8
-#EXTINF:-1,Sada ElBalad Drama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7199.m3u8
-#EXTINF:-1,Misr ELBald
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10687.m3u8
-#EXTINF:-1,B4U Plus
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10630.m3u8
-#EXTINF:-1,ZEE Alwan
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2287.m3u8
-#EXTINF:-1,Zee Aflam
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2286.m3u8
-#EXTINF:-1,Cima TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2254.m3u8
-#EXTINF:-1,Dzair 24
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8226.m3u8
-#EXTINF:-1,Noursat
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2273.m3u8
-#EXTINF:-1,Melody Classic
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2270.m3u8
-#EXTINF:-1,AGHANINA TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10037.m3u8
-#EXTINF:-1,AGHANI AGHANI
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10038.m3u8
-#EXTINF:-1,MAZAZIKH
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10032.m3u8
-#EXTINF:-1,Music alremas
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11165.m3u8
-#EXTINF:-1,Mazzika
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1947.m3u8
-#EXTINF:-1,Sha3beyat
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10031.m3u8
-#EXTINF:-1,Maestrotv
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10033.m3u8
-#EXTINF:-1,Orient News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10979.m3u8
-#EXTINF:-1,Alarabiya HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2288.m3u8
-#EXTINF:-1,Sky News Arabia HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3522.m3u8
-#EXTINF:-1,Al Hadath HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3523.m3u8
-#EXTINF:-1,Al Ghad Al Araby HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6892.m3u8
-#EXTINF:-1,Al Araby TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1989.m3u8
-#EXTINF:-1,France 24 Arabic HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2748.m3u8
-#EXTINF:-1,BBC Arabic
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1063.m3u8
-#EXTINF:-1,BBC World HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3239.m3u8
-#EXTINF:-1,CNN HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3237.m3u8
-#EXTINF:-1,RT Arabic HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2669.m3u8
-#EXTINF:-1,Hurra HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8366.m3u8
-#EXTINF:-1,NBN HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6893.m3u8
-#EXTINF:-1,DW HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3241.m3u8
-#EXTINF:-1,Alyaum TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10609.m3u8
-#EXTINF:-1,Press TV HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1965.m3u8
-#EXTINF:-1,Hurra Iraqiya HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1991.m3u8
-#EXTINF:-1,Iraqia News HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1967.m3u8
-#EXTINF:-1,Alsharqiya News HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2291.m3u8
-#EXTINF:-1,Halab Today
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6939.m3u8
-#EXTINF:-1,Syria News TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6887.m3u8
-#EXTINF:-1,Roy'a HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/11112.m3u8
-#EXTINF:-1,AL MAYADEEN
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2281.m3u8
-#EXTINF:-1,Saudia Akhbarya HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3044.m3u8
-#EXTINF:-1,Dzair
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5744.m3u8
-#EXTINF:-1,Numidia
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6538.m3u8
-#EXTINF:-1,Libya TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6903.m3u8
-#EXTINF:-1,AD Sport1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2582.m3u8
-#EXTINF:-1,AD Sport2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2581.m3u8
-#EXTINF:-1,AD Sport3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2718.m3u8
-#EXTINF:-1,AD Sport4 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2719.m3u8
-#EXTINF:-1,AD Sport5 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/15798.m3u8
-#EXTINF:-1,AD Sport6 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/15797.m3u8
-#EXTINF:-1,KSA Sport 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/3039.m3u8
-#EXTINF:-1,KSA Sport 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6432.m3u8
-#EXTINF:-1,KSA Sport +1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13738.m3u8
-#EXTINF:-1,KSA Sport +2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13739.m3u8
-#EXTINF:-1,Saudia Sport 24 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10624.m3u8
-#EXTINF:-1,Dubai Sport 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/18125.m3u8
-#EXTINF:-1,Dubai Sport 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10626.m3u8
-#EXTINF:-1,Dubai Sport 3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10625.m3u8
-#EXTINF:-1,Dubai Racing 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2584.m3u8
-#EXTINF:-1,Dubai Racing 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10628.m3u8
-#EXTINF:-1,Dubai Racing 3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10627.m3u8
-#EXTINF:-1,ON Sport HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6556.m3u8
-#EXTINF:-1,Nile Sport
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4133.m3u8
-#EXTINF:-1,Iraqiya Sport
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2740.m3u8
-#EXTINF:-1,Omman Sport HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2676.m3u8
-#EXTINF:-1,Art Aflam1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/603.m3u8
-#EXTINF:-1,Art Aflam2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/604.m3u8
-#EXTINF:-1,Art Hekayat
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/601.m3u8
-#EXTINF:-1,Art Hekayat2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/602.m3u8
-#EXTINF:-1,Art Cinema
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/600.m3u8
-#EXTINF:-1,National Program
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8268.m3u8
-#EXTINF:-1,Algeria 3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6440.m3u8
-#EXTINF:-1,Echourouk TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5746.m3u8
-#EXTINF:-1,Echourouk News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6547.m3u8
-#EXTINF:-1,Echrouk Pluss
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5747.m3u8
-#EXTINF:-1,Ennahar TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5749.m3u8
-#EXTINF:-1,El Bilad TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6541.m3u8
-#EXTINF:-1,El Heddaf TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6540.m3u8
-#EXTINF:-1,Dzair TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5743.m3u8
-#EXTINF:-1,El Djazairia One
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6886.m3u8
-#EXTINF:-1,Samira TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6524.m3u8
-#EXTINF:-1,Beur TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6542.m3u8
-#EXTINF:-1,Bahia TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6550.m3u8
-#EXTINF:-1,Chams TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10623.m3u8
-#EXTINF:-1,El Adjwaa
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/8224.m3u8
-#EXTINF:-1,2M Maroco
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5800.m3u8
-#EXTINF:-1,Med 1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13997.m3u8
-#EXTINF:-1,Al Oula HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2745.m3u8
-#EXTINF:-1,Al Maghribia
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2747.m3u8
-#EXTINF:-1,Magharibia
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10023.m3u8
-#EXTINF:-1,Magharibia 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10022.m3u8
-#EXTINF:-1,Al Anis TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14111.m3u8
-#EXTINF:-1,Al Ons TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14110.m3u8
-#EXTINF:-1,Tchad
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14109.m3u8
-#EXTINF:-1,Arriadia Maroc
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2746.m3u8
-#EXTINF:-1,Assadissa
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2751.m3u8
-#EXTINF:-1,Tamazigh Maroc
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2750.m3u8
-#EXTINF:-1,Arabiaa 4
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2749.m3u8
-#EXTINF:-1,Tv5 Monde
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2752.m3u8
-#EXTINF:-1,Hannibal
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/5752.m3u8
-#EXTINF:-1,Babylon
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13432.m3u8
-#EXTINF:-1,Tunisia Nat 1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1942.m3u8
-#EXTINF:-1,Tunisia Nat 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6916.m3u8
-#EXTINF:-1,Zaytoona
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1977.m3u8
-#EXTINF:-1,Baby TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13454.m3u8
-#EXTINF:-1,Cartoon network arabic
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6551.m3u8
-#EXTINF:-1,Majid Kids
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/17596.m3u8
-#EXTINF:-1,Nat Geo Kids
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10629.m3u8
-#EXTINF:-1,Ajyal HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/125.m3u8
-#EXTINF:-1,Toyor Aljana
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1980.m3u8
-#EXTINF:-1, Toyor baby
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6889.m3u8
-#EXTINF:-1,SemSem
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4752.m3u8
-#EXTINF:-1,Nile News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4134.m3u8
-#EXTINF:-1,Omman Live HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2674.m3u8
-#EXTINF:-1,Omman TV HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2675.m3u8
-#EXTINF:-1,Imam Ali
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13456.m3u8
-#EXTINF:-1,WANASAH
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10030.m3u8
-#EXTINF:-1,5 stars TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14172.m3u8
+#EXTINF:-1,2M Monde
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89246.m3u8
 #EXTINF:-1,7BESHA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14171.m3u8
-#EXTINF:-1,AFRAH TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14170.m3u8
-#EXTINF:-1,AHWAZNA TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14169.m3u8
-#EXTINF:-1,Al Alam News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1949.m3u8
-#EXTINF:-1,AL AYAM TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14167.m3u8
-#EXTINF:-1,AL ESHRAQ TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14166.m3u8
-#EXTINF:-1,Al Fady
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13453.m3u8
-#EXTINF:-1,AL HAQEQA AL DAWLIAH
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14165.m3u8
-#EXTINF:-1,Al Hiwar TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9010.m3u8
-#EXTINF:-1,AL KAWTHAR
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14164.m3u8
-#EXTINF:-1,AL KING 1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14161.m3u8
-#EXTINF:-1,AL KING 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14160.m3u8
-#EXTINF:-1,AL MALAKOOT SAT
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14159.m3u8
-#EXTINF:-1,Al Mawqef
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1171.m3u8
-#EXTINF:-1,AL OSTORA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14158.m3u8
-#EXTINF:-1,AL QAMAR
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14157.m3u8
-#EXTINF:-1,AL RASED
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14156.m3u8
-#EXTINF:-1,Hayat TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14414.m3u8
-#EXTINF:-1,Hayat 2 TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14415.m3u8
-#EXTINF:-1,AL SA3A MASRA7
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14155.m3u8
-#EXTINF:-1,AL SA3AA CINEMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14154.m3u8
-#EXTINF:-1,AL SA3AA CLASSIC
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14153.m3u8
-#EXTINF:-1,AL SA3AA COMEDY
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14152.m3u8
-#EXTINF:-1,AL SA3AA DRAMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14151.m3u8
-#EXTINF:-1,AL SA3AA MOSALSALATE
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14150.m3u8
-#EXTINF:-1,AL SAHSHA DRAMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14149.m3u8
-#EXTINF:-1,AL SHASHA CLASSIC
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14148.m3u8
-#EXTINF:-1,AL SHASHA MUSLSLAT
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14147.m3u8
-#EXTINF:-1,Al Shrooq News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14146.m3u8
-#EXTINF:-1,AL SIRAT
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14145.m3u8
-#EXTINF:-1,AL TALEAA TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14144.m3u8
-#EXTINF:-1,AL YOM 1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14143.m3u8
-#EXTINF:-1,AL-Anbar
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14142.m3u8
-#EXTINF:-1,AL-SALAM TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14141.m3u8
-#EXTINF:-1,AL-WAHA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14140.m3u8
-#EXTINF:-1,ALBAEENAH IRAQ
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14139.m3u8
-#EXTINF:-1,ALDAWAA ALSHAFY
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14138.m3u8
-#EXTINF:-1,ALFATH SONA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14137.m3u8
-#EXTINF:-1,ALHAQIQA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14136.m3u8
-#EXTINF:-1,ALL TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14134.m3u8
-#EXTINF:-1,ALMASA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14133.m3u8
-#EXTINF:-1,ALMASIRAH TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14132.m3u8
-#EXTINF:-1,ALNABAA HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14131.m3u8
-#EXTINF:-1,ALNAEEM TV HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14130.m3u8
-#EXTINF:-1,ALSAHA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14129.m3u8
-#EXTINF:-1,ALSALAM
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14128.m3u8
-#EXTINF:-1,ALSeha Waljamal
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14127.m3u8
-#EXTINF:-1,ALYOUM2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14126.m3u8
-#EXTINF:-1,ALYOUM3
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14125.m3u8
-#EXTINF:-1,Baghdad HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7022.m3u8
-#EXTINF:-1,BAIT BAITAK CINEMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14124.m3u8
-#EXTINF:-1,DMC News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10170.m3u8
-#EXTINF:-1,MASRAWIA AFLAM
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14122.m3u8
-#EXTINF:-1,Nile tv
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1960.m3u8
-#EXTINF:-1,Saudia Al Thaqafa HD TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10589.m3u8
-#EXTINF:-1,SHASHA FOOD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14121.m3u8
-#EXTINF:-1,Star Cinema 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1944.m3u8
-#EXTINF:-1,ALHAWYAH TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14184.m3u8
-#EXTINF:-1,Divine TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14183.m3u8
-#EXTINF:-1,GMM TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14182.m3u8
-#EXTINF:-1,Logos TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14181.m3u8
-#EXTINF:-1,MBBC LAMSAT
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14180.m3u8
-#EXTINF:-1,Misr ELBald 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14179.m3u8
-#EXTINF:-1,Africa TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14188.m3u8
-#EXTINF:-1,Al Wilayah
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14187.m3u8
-#EXTINF:-1,Imam Hussein 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14186.m3u8
-#EXTINF:-1,Junobna TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14185.m3u8
-#EXTINF:-1,Adiss TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14223.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75391.m3u8
+#EXTINF:-1,A3 Algerie
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148581.m3u8
+#EXTINF:-1,Aarabia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135549.m3u8
+#EXTINF:-1,AB1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/145487.m3u8
+#EXTINF:-1,ABN Sat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75390.m3u8
+#EXTINF:-1,Abu Dhabi Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147484.m3u8
+#EXTINF:-1,Abu Dhabi HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63266.m3u8
+#EXTINF:-1,Abu Dhabi Sport 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147292.m3u8
+#EXTINF:-1,Abu Dhabi Sport 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147482.m3u8
+#EXTINF:-1,Action
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/145490.m3u8
+#EXTINF:-1,AD Al Emarat HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148586.m3u8
+#EXTINF:-1,AD Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75387.m3u8
+#EXTINF:-1,AD SPORTS 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/134770.m3u8
+#EXTINF:-1,AD SPORTS 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/134771.m3u8
+#EXTINF:-1,AD SPORTS 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113215.m3u8
+#EXTINF:-1,AD SPORTS 5 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135985.m3u8
+#EXTINF:-1,Aden TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75384.m3u8
+#EXTINF:-1,Afaq TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196432.m3u8
+#EXTINF:-1,AFLAM 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/117502.m3u8
+#EXTINF:-1,Afrah TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147392.m3u8
+#EXTINF:-1,Aghanina Music
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75382.m3u8
 #EXTINF:-1,Ahel Al Quran
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14222.m3u8
-#EXTINF:-1,Al Forat News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14221.m3u8
-#EXTINF:-1,Al Horreya
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14220.m3u8
-#EXTINF:-1,Al Kahera Wal Nas  2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14219.m3u8
-#EXTINF:-1,Al Masar
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14218.m3u8
-#EXTINF:-1,Al-Awhad TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14217.m3u8
-#EXTINF:-1,Al-Teb AlNabawi
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14216.m3u8
-#EXTINF:-1,AlAfasy
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14215.m3u8
-#EXTINF:-1,Alhayat Muslsalat
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14214.m3u8
-#EXTINF:-1,AlKarma Praise
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14213.m3u8
-#EXTINF:-1,AlRafideen
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14212.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135216.m3u8
+#EXTINF:-1,Ahlulbayt tv English
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196433.m3u8
+#EXTINF:-1,Ajial
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135217.m3u8
+#EXTINF:-1,Ajyal
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193016.m3u8
+#EXTINF:-1,Al Aalam
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196406.m3u8
+#EXTINF:-1,AL AAN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196530.m3u8
+#EXTINF:-1,Al Ahd
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148429.m3u8
+#EXTINF:-1,Al Ahd Iraqia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196535.m3u8
+#EXTINF:-1,Al Ahrar TV (Libya)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159887.m3u8
+#EXTINF:-1,Al Amaken Drama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75336.m3u8
+#EXTINF:-1,Al Anbar
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75335.m3u8
+#EXTINF:-1,Al Anis TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116739.m3u8
+#EXTINF:-1,Al Anwar 2 TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146192.m3u8
+#EXTINF:-1,Al Anwar TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135220.m3u8
+#EXTINF:-1,AL AOULA INTER 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94419.m3u8
+#EXTINF:-1,Al Aqsa TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196524.m3u8
+#EXTINF:-1,Al Arabia News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147468.m3u8
+#EXTINF:-1,AL ARABIYA AL HADATH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89883.m3u8
+#EXTINF:-1,Al Araby HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121096.m3u8
+#EXTINF:-1,Al Asrar TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148566.m3u8
+#EXTINF:-1,Al Awhad
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147317.m3u8
+#EXTINF:-1,AL BAIT BAITAK CINEMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75372.m3u8
+#EXTINF:-1,Al Basira
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75371.m3u8
+#EXTINF:-1,AL BILAD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121057.m3u8
+#EXTINF:-1,Al Diyar
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146195.m3u8
+#EXTINF:-1,Al Djazairia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105318.m3u8
+#EXTINF:-1,Al Ekhbaria Saudi
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196405.m3u8
+#EXTINF:-1,Al Ekhbariya Al Soriya
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121093.m3u8
+#EXTINF:-1,Al Emarat HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75367.m3u8
+#EXTINF:-1,Al Fady
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110226.m3u8
+#EXTINF:-1,AL FAJER
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113529.m3u8
+#EXTINF:-1,AL Falastenia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105357.m3u8
+#EXTINF:-1,Al Fallujah Iraq
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196434.m3u8
+#EXTINF:-1,AL Falstiniah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110223.m3u8
+#EXTINF:-1,Al Forat TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148554.m3u8
+#EXTINF:-1,AL GERIA 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193035.m3u8
+#EXTINF:-1,Al Ghad Mushreq TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148574.m3u8
+#EXTINF:-1,Al Ghad TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/100146.m3u8
+#EXTINF:-1,Al Ghadeer
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135223.m3u8
+#EXTINF:-1,AL HADATH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75363.m3u8
+#EXTINF:-1,Al Hadath Al Youm
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135296.m3u8
+#EXTINF:-1,Al Haqiqa
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135246.m3u8
+#EXTINF:-1,AL HAYAT 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75316.m3u8
+#EXTINF:-1,AL HAYAT ALAAN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89251.m3u8
+#EXTINF:-1,Al Hayat HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94429.m3u8
+#EXTINF:-1,AL HAYAT MUSALSALAT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114685.m3u8
+#EXTINF:-1,Al Hayat Muslsalat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146178.m3u8
+#EXTINF:-1,Al Hiwar Ettounsi
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147444.m3u8
+#EXTINF:-1,Al Hiwar News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110208.m3u8
+#EXTINF:-1,Al Horreya TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/119901.m3u8
+#EXTINF:-1,Al Hurra Iraq
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89886.m3u8
+#EXTINF:-1,Al Ikhbaria Syria
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196394.m3u8
+#EXTINF:-1,Al IMAN TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75313.m3u8
+#EXTINF:-1,Al Iraqia News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147318.m3u8
+#EXTINF:-1,Al Iraqia TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148555.m3u8
+#EXTINF:-1,Al Istiqama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135247.m3u8
+#EXTINF:-1,Al Itejah TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135248.m3u8
+#EXTINF:-1,AL JADEED
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113291.m3u8
+#EXTINF:-1,Al Janoubia TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63147.m3u8
+#EXTINF:-1,AL JAZEERA DOCU
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/103193.m3u8
+#EXTINF:-1,AL JAZEERA DOCUMENT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118430.m3u8
+#EXTINF:-1,Al Jazeera English HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89876.m3u8
+#EXTINF:-1,Al Jazeera FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63148.m3u8
+#EXTINF:-1,AL JAZEERA MUBASHER
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75353.m3u8
+#EXTINF:-1,Al Kahera Wal Nas 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75311.m3u8
+#EXTINF:-1,Al Kahera Wal Nas 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75350.m3u8
+#EXTINF:-1,Al Karma TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75310.m3u8
+#EXTINF:-1,Al Kass Sport 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/175827.m3u8
+#EXTINF:-1,Al Kass Sport 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/175828.m3u8
+#EXTINF:-1,Al Kass Sport 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105379.m3u8
+#EXTINF:-1,Al Kass Sport 5 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193039.m3u8
+#EXTINF:-1,Al Kawthar
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131052.m3u8
+#EXTINF:-1,Al Koufeya TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196438.m3u8
+#EXTINF:-1,Al Maaref TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147297.m3u8
+#EXTINF:-1,Al Maddinah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196455.m3u8
+#EXTINF:-1,AL MAGHARABIA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89802.m3u8
+#EXTINF:-1,AL MAGHARIBIA 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89803.m3u8
+#EXTINF:-1,Al Maher
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196458.m3u8
+#EXTINF:-1,AL MAJD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89255.m3u8
+#EXTINF:-1,Al Majd 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105415.m3u8
+#EXTINF:-1,Al Majd 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105417.m3u8
+#EXTINF:-1,Al Majd 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135342.m3u8
+#EXTINF:-1,Al Majd 8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135343.m3u8
+#EXTINF:-1,Al Majd Hadeeth
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116696.m3u8
+#EXTINF:-1,Al Majd Kids HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89874.m3u8
+#EXTINF:-1,Al Majd Quran
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94457.m3u8
+#EXTINF:-1,AL MANAR TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116704.m3u8
+#EXTINF:-1,Al Masrawia Aflam
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116695.m3u8
+#EXTINF:-1,Al Masriya
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148577.m3u8
+#EXTINF:-1,AL MASSAR AL OULA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135496.m3u8
+#EXTINF:-1,AL MAYADEEN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/145496.m3u8
+#EXTINF:-1,Al MEHWAR TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105343.m3u8
+#EXTINF:-1,Al Mergab
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148579.m3u8
+#EXTINF:-1,AL NABAA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146160.m3u8
+#EXTINF:-1,Al Nada TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75347.m3u8
+#EXTINF:-1,AL NAHAR DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75329.m3u8
+#EXTINF:-1,Al Nahar One
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75328.m3u8
+#EXTINF:-1,Al Nahar TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113305.m3u8
+#EXTINF:-1,Al Nass
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196486.m3u8
+#EXTINF:-1,Al Noujaba
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148552.m3u8
+#EXTINF:-1,AL ONS TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89764.m3u8
+#EXTINF:-1,AL OSTORA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75305.m3u8
+#EXTINF:-1,Al Oula HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89750.m3u8
+#EXTINF:-1,Al Qahira Wa Nas 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121075.m3u8
+#EXTINF:-1,Al Qahira Wa Nas 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121076.m3u8
+#EXTINF:-1,Al qanat 9
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75300.m3u8
+#EXTINF:-1,Al Quds
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75346.m3u8
+#EXTINF:-1,Al Qurain
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147324.m3u8
+#EXTINF:-1,Al Rahma TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75345.m3u8
+#EXTINF:-1,Al Rasheed TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/122756.m3u8
+#EXTINF:-1,Al Rayan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146157.m3u8
+#EXTINF:-1,AL Resala
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193023.m3u8
+#EXTINF:-1,Al Salam TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196488.m3u8
+#EXTINF:-1,Al Saudi 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114693.m3u8
+#EXTINF:-1,AL SERAJ
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193026.m3u8
+#EXTINF:-1,AL SHAREYYAH CHANNEL
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193033.m3u8
+#EXTINF:-1,Al Sharqiya FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105659.m3u8
+#EXTINF:-1,Al Sharqiya News HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105386.m3u8
+#EXTINF:-1,AL Sharquia HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196445.m3u8
+#EXTINF:-1,Al Sirat TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89923.m3u8
+#EXTINF:-1,Al Sumaria TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110244.m3u8
+#EXTINF:-1,Al taghier
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196437.m3u8
+#EXTINF:-1,Al Thanya
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135298.m3u8
+#EXTINF:-1,Al Turkmenia Tv
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148557.m3u8
+#EXTINF:-1,Al Waad Channel
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148567.m3u8
+#EXTINF:-1,Al Waha TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148548.m3u8
+#EXTINF:-1,Alaan TV Lebanon
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75324.m3u8
+#EXTINF:-1,AlAfasy TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75323.m3u8
+#EXTINF:-1,AlAhly TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75378.m3u8
+#EXTINF:-1,ALALAM NEWS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63137.m3u8
+#EXTINF:-1,Alarabi NEWS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110157.m3u8
+#EXTINF:-1,AlARABIA ALHADATH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108171.m3u8
+#EXTINF:-1,AlArabiya HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63140.m3u8
+#EXTINF:-1,AlASSEMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75373.m3u8
+#EXTINF:-1,ALBAEENAH IRAQ
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135295.m3u8
+#EXTINF:-1,AlBaghdadia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/107952.m3u8
+#EXTINF:-1,AlDijla
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105401.m3u8
+#EXTINF:-1,ALEKHBARIA NEWS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63143.m3u8
+#EXTINF:-1,Alerth Alnabawi
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196457.m3u8
+#EXTINF:-1,Alerth Alnbawi
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75319.m3u8
+#EXTINF:-1,AlFadjr 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105351.m3u8
+#EXTINF:-1,AlFadjr 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105352.m3u8
+#EXTINF:-1,AlFAJR TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98391.m3u8
+#EXTINF:-1,ALFATH Quran
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135245.m3u8
+#EXTINF:-1,ALGERIA 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113477.m3u8
+#EXTINF:-1,Algerie
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110229.m3u8
+#EXTINF:-1,Algerie 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/101908.m3u8
+#EXTINF:-1,Algerie 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63145.m3u8
+#EXTINF:-1,Algerie 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124937.m3u8
+#EXTINF:-1,Alhadath Iraqia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113443.m3u8
+#EXTINF:-1,Alhadath News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110272.m3u8
+#EXTINF:-1,Alhayah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110109.m3u8
+#EXTINF:-1,Alhayah 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110110.m3u8
+#EXTINF:-1,Alhayah Alaan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196449.m3u8
+#EXTINF:-1,Alhayah Muslsalat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110111.m3u8
+#EXTINF:-1,AlHayat Cinema
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95769.m3u8
+#EXTINF:-1,AlHayat Musalsalat (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95768.m3u8
+#EXTINF:-1,Alhayat We Alnas
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135495.m3u8
+#EXTINF:-1,AlHiwar ElTounsi
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63100.m3u8
+#EXTINF:-1,AlInsen TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105335.m3u8
+#EXTINF:-1,AlJadeed (LEB)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63152.m3u8
+#EXTINF:-1,AlJazaairia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/107969.m3u8
+#EXTINF:-1,AlJazeera Arabic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135555.m3u8
+#EXTINF:-1,AlJazeera Documentary HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75355.m3u8
+#EXTINF:-1,AlJazeera Mobasher
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114430.m3u8
+#EXTINF:-1,AlJazeera NEWS (EN)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/145491.m3u8
+#EXTINF:-1,Aljessr
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146210.m3u8
+#EXTINF:-1,ALKAHERA WALNAS 2 (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108208.m3u8
+#EXTINF:-1,Alkahera Welnas
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113523.m3u8
+#EXTINF:-1,Alkalema
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113378.m3u8
+#EXTINF:-1,AlKass 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118533.m3u8
+#EXTINF:-1,AlKass 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105378.m3u8
+#EXTINF:-1,AlKass Sport 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/84510.m3u8
+#EXTINF:-1,AlKhalij TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135349.m3u8
+#EXTINF:-1,ALKOFIYA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135249.m3u8
+#EXTINF:-1,AlMaaly
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135350.m3u8
+#EXTINF:-1,AlMagharibia Two
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146979.m3u8
+#EXTINF:-1,Almajd Space
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196460.m3u8
+#EXTINF:-1,AlMalakoot
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110073.m3u8
+#EXTINF:-1,AlManar (LEB)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75338.m3u8
+#EXTINF:-1,Almasriyah (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105344.m3u8
+#EXTINF:-1,AlMawsleya TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110248.m3u8
+#EXTINF:-1,ALMAYADEEN (LEB)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63154.m3u8
+#EXTINF:-1,AlMINBAR TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135233.m3u8
+#EXTINF:-1,ALMOURABITOUNE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/90110.m3u8
+#EXTINF:-1,AlMustakila TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110199.m3u8
+#EXTINF:-1,AlNaeem TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/90048.m3u8
+#EXTINF:-1,AlNahar (ALG)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105316.m3u8
+#EXTINF:-1,AlNahar (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108204.m3u8
+#EXTINF:-1,Alnahar Cinema
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146082.m3u8
+#EXTINF:-1,Alnas Tv
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105420.m3u8
+#EXTINF:-1,Alnoor
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147465.m3u8
+#EXTINF:-1,AlQAMAR
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135236.m3u8
+#EXTINF:-1,Alquran Mekka
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196463.m3u8
+#EXTINF:-1,Alrafiden
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110083.m3u8
+#EXTINF:-1,AlRahmah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105387.m3u8
+#EXTINF:-1,ALRAI TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63155.m3u8
+#EXTINF:-1,ALRiadia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63159.m3u8
+#EXTINF:-1,Alrisala
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196465.m3u8
 #EXTINF:-1,Alruqia TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14211.m3u8
-#EXTINF:-1,Altaghier
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14210.m3u8
-#EXTINF:-1,Alwadi TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14209.m3u8
-#EXTINF:-1,Angel TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14208.m3u8
-#EXTINF:-1,APPLE AFLAM
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14206.m3u8
-#EXTINF:-1,APPLE CINEMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14205.m3u8
-#EXTINF:-1,APPLE COMEDY
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14204.m3u8
-#EXTINF:-1,APPLE DRAMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14203.m3u8
-#EXTINF:-1,APPLE HEKAYAT
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14202.m3u8
-#EXTINF:-1,APPLE MOSLSALAT
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14201.m3u8
-#EXTINF:-1,APPLE TODAY
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14200.m3u8
-#EXTINF:-1,Arabica TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14199.m3u8
-#EXTINF:-1,Atfal & mawaheb
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14197.m3u8
-#EXTINF:-1,Azhari
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14196.m3u8
-#EXTINF:-1,Beladi
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14194.m3u8
-#EXTINF:-1,Berbere TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14193.m3u8
-#EXTINF:-1,C1 ACTION
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14192.m3u8
-#EXTINF:-1,Cairo cinema
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14191.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135351.m3u8
+#EXTINF:-1,AlSA3A AFLAM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135238.m3u8
+#EXTINF:-1,AlSaeedah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75296.m3u8
+#EXTINF:-1,AlSeha Waljamal
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135537.m3u8
+#EXTINF:-1,ALSHARGIYA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63151.m3u8
+#EXTINF:-1,ALSHARJAH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/122757.m3u8
+#EXTINF:-1,Alsharq
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146182.m3u8
+#EXTINF:-1,AlSHASHA CINEMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135240.m3u8
+#EXTINF:-1,Alshouroq Sudan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113362.m3u8
+#EXTINF:-1,AlTounsia TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63188.m3u8
+#EXTINF:-1,altunisia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63156.m3u8
+#EXTINF:-1,AlTurkmania TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113399.m3u8
+#EXTINF:-1,Alyaum TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/100148.m3u8
+#EXTINF:-1,Amhara TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135251.m3u8
+#EXTINF:-1,Amman TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121118.m3u8
+#EXTINF:-1,ANB iraq
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/176129.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78058.m3u8
+#EXTINF:-1,ANN News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/130935.m3u8
+#EXTINF:-1,Ann TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108174.m3u8
+#EXTINF:-1,ANNAJAH NBC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75287.m3u8
+#EXTINF:-1,Aoula Maroc HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63132.m3u8
+#EXTINF:-1,ARABICA MUSIC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146202.m3u8
+#EXTINF:-1,Arrabia TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63158.m3u8
+#EXTINF:-1,Arriadia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105328.m3u8
+#EXTINF:-1,ARRIADIA TNT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143734.m3u8
+#EXTINF:-1,Arryadia HD Live
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116690.m3u8
+#EXTINF:-1,ART Aflam 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63164.m3u8
+#EXTINF:-1,ART AFLAM 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120707.m3u8
+#EXTINF:-1,ART Cinema
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63161.m3u8
+#EXTINF:-1,Art Hekayat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/101185.m3u8
+#EXTINF:-1,ART Hekayat 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63163.m3u8
+#EXTINF:-1,ART Hekayat 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63162.m3u8
+#EXTINF:-1,Asia TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110161.m3u8
+#EXTINF:-1,Assadissa
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94421.m3u8
+#EXTINF:-1,Atfal & Mawaheb
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135352.m3u8
+#EXTINF:-1,Athagavia (MR)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135572.m3u8
+#EXTINF:-1,Attassia TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105396.m3u8
+#EXTINF:-1,Atv Sat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113383.m3u8
+#EXTINF:-1,Awdeh TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75278.m3u8
+#EXTINF:-1,AYAAT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146162.m3u8
+#EXTINF:-1,Azhari TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75276.m3u8
+#EXTINF:-1,B4U AFLAM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121119.m3u8
+#EXTINF:-1,B4U Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113354.m3u8
+#EXTINF:-1,Baghdad TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/103192.m3u8
+#EXTINF:-1,Bahia TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75151.m3u8
+#EXTINF:-1,Bahrain International HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/129771.m3u8
+#EXTINF:-1,Bahrain Quran
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/129772.m3u8
+#EXTINF:-1,Bahrain Sports
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110191.m3u8
+#EXTINF:-1,Bahrain TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63167.m3u8
+#EXTINF:-1,Baraem Kids
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94441.m3u8
+#EXTINF:-1,BBC Arabic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116687.m3u8
+#EXTINF:-1,BBC World News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148585.m3u8
+#EXTINF:-1,beIN BABY TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120713.m3u8
+#EXTINF:-1,beIN Baraem HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/106919.m3u8
+#EXTINF:-1,beIN Be Junior
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110868.m3u8
+#EXTINF:-1,beIN BOOMERANG
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111058.m3u8
+#EXTINF:-1,beIN Cartoon Network HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/175564.m3u8
+#EXTINF:-1,beIN DMAX
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94440.m3u8
+#EXTINF:-1,beIN Drama 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120710.m3u8
+#EXTINF:-1,beIN Dream works HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110869.m3u8
+#EXTINF:-1,beIN DTX HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110870.m3u8
+#EXTINF:-1,beIN Fatafet HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/144607.m3u8
+#EXTINF:-1,beIN Fox Movies HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/106914.m3u8
+#EXTINF:-1,Bein Gourmet HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105436.m3u8
+#EXTINF:-1,beIN Jeem HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98332.m3u8
+#EXTINF:-1,beIN MOVIES 1 Premiere HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63273.m3u8
+#EXTINF:-1,beIN MOVIES 2 AcTION HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63271.m3u8
+#EXTINF:-1,beIN Movies 3 Drama FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63270.m3u8
+#EXTINF:-1,beIN Movies 4 Family HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197648.m3u8
+#EXTINF:-1,beIN Series 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/144614.m3u8
+#EXTINF:-1,beIN Series 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/130970.m3u8
+#EXTINF:-1,beIN Sports 12 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/145599.m3u8
+#EXTINF:-1,beIN Sports 9 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198061.m3u8
+#EXTINF:-1,beIN Sports 10 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62744.m3u8
+#EXTINF:-1,beIN Sports 11 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/74643.m3u8
+#EXTINF:-1,beIN Sports 12 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/93269.m3u8
+#EXTINF:-1,beIN Sports 13 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/97054.m3u8
+#EXTINF:-1,beIN Sports Max 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65671.m3u8
+#EXTINF:-1,beIN Sports Max 6
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65670.m3u8
+#EXTINF:-1,beIN Sports Max 7
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65669.m3u8
+#EXTINF:-1,beIN Sports Max 8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65668.m3u8
+#EXTINF:-1,beIN Sports Max 9
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/65667.m3u8
+#EXTINF:-1,beIN Sports NBA HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/136392.m3u8
+#EXTINF:-1,beIN Sports News HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62754.m3u8
+#EXTINF:-1,Beity TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135302.m3u8
+#EXTINF:-1,BELODY AFLAM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135254.m3u8
+#EXTINF:-1,BELQEES
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75156.m3u8
+#EXTINF:-1,Bena TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196528.m3u8
+#EXTINF:-1,beoutQ 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131564.m3u8
+#EXTINF:-1,beoutQ 5 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131565.m3u8
+#EXTINF:-1,beoutQ 6 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131566.m3u8
+#EXTINF:-1,beoutQ 7 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/119250.m3u8
+#EXTINF:-1,Berbere Music
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105323.m3u8
+#EXTINF:-1,Berbere Television
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105322.m3u8
+#EXTINF:-1,Berbere tv
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135338.m3u8
+#EXTINF:-1,Beur TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/101730.m3u8
+#EXTINF:-1,BOX OFFICE 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105381.m3u8
+#EXTINF:-1,Cairo Cinema
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113312.m3u8
 #EXTINF:-1,Cairo Drama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14190.m3u8
-#EXTINF:-1,CIMA ALIBABA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14189.m3u8
-#EXTINF:-1,AL ALAM SYRIA TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14207.m3u8
-#EXTINF:-1,D Cinema
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14250.m3u8
-#EXTINF:-1,Dawaah TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14249.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75158.m3u8
+#EXTINF:-1,Canal Algerie
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113484.m3u8
+#EXTINF:-1,CANAL ALGERIE (ALG)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63170.m3u8
+#EXTINF:-1,Canal Atlas
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105330.m3u8
+#EXTINF:-1,Carthage
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131068.m3u8
+#EXTINF:-1,Carton
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196363.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89904.m3u8
+#EXTINF:-1,CATV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135497.m3u8
+#EXTINF:-1,CBC (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108184.m3u8
+#EXTINF:-1,Cbc Drama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113310.m3u8
+#EXTINF:-1,CBC Extra HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113309.m3u8
+#EXTINF:-1,CBC HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63172.m3u8
+#EXTINF:-1,CBC Sofra
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113308.m3u8
+#EXTINF:-1,CGTN-Arabic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135255.m3u8
+#EXTINF:-1,CHADA FM HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89762.m3u8
+#EXTINF:-1,CHADA TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135542.m3u8
+#EXTINF:-1,CHAMS TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135498.m3u8
+#EXTINF:-1,Charika Kabtv
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105414.m3u8
+#EXTINF:-1,Chourouk News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105519.m3u8
+#EXTINF:-1,Chourouk TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105520.m3u8
+#EXTINF:-1,CIMA (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108183.m3u8
+#EXTINF:-1,CIMA ALI BABA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75160.m3u8
+#EXTINF:-1,Cima Tube
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196514.m3u8
+#EXTINF:-1,Cima TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75162.m3u8
+#EXTINF:-1,Cinema 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116762.m3u8
+#EXTINF:-1,CINEMA 1 (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75164.m3u8
+#EXTINF:-1,Cinema 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108219.m3u8
+#EXTINF:-1,Cinema Pro
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113325.m3u8
+#EXTINF:-1,CINEMA TUBE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75167.m3u8
+#EXTINF:-1,CIRA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135353.m3u8
+#EXTINF:-1,CLACKET DRAMA ZAMAN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135303.m3u8
+#EXTINF:-1,CN Arabia Kids
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110264.m3u8
+#EXTINF:-1,CN Arabia kids new
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135501.m3u8
+#EXTINF:-1,CNBC Arabia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146183.m3u8
+#EXTINF:-1,CNBC ARABIYA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75169.m3u8
+#EXTINF:-1,CNN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135502.m3u8
+#EXTINF:-1,COMEDIA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196364.m3u8
+#EXTINF:-1,CORAN TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131070.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118523.m3u8
+#EXTINF:-1,Csat 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196491.m3u8
+#EXTINF:-1,CTV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63080.m3u8
+#EXTINF:-1,Cyc 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113545.m3u8
+#EXTINF:-1,Daawah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/130949.m3u8
+#EXTINF:-1,Dabanga Sudan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146203.m3u8
+#EXTINF:-1,Dejlah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196442.m3u8
 #EXTINF:-1,Dewan
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14248.m3u8
-#EXTINF:-1,Dolly Musalsalat
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14247.m3u8
-#EXTINF:-1,DR. ABO ELNASR
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14246.m3u8
-#EXTINF:-1,Dzair 16
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14245.m3u8
-#EXTINF:-1,Dzair 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14244.m3u8
-#EXTINF:-1,Dzair 25
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14243.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135503.m3u8
+#EXTINF:-1,Dijlah TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110242.m3u8
+#EXTINF:-1,Discovery Family HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118521.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63131.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118514.m3u8
+#EXTINF:-1,Diyalana
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135304.m3u8
+#EXTINF:-1,DMC Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113317.m3u8
+#EXTINF:-1,DMC HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113315.m3u8
+#EXTINF:-1,DMC Kids
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135305.m3u8
+#EXTINF:-1,DMC Masraheyat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135544.m3u8
+#EXTINF:-1,DMC News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135306.m3u8
+#EXTINF:-1,Dmc Sports
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196513.m3u8
+#EXTINF:-1,DMC Sports (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73334.m3u8
+#EXTINF:-1,DOLLY MOSALSALAT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193059.m3u8
+#EXTINF:-1,Drama Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111213.m3u8
+#EXTINF:-1,DREAM 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89273.m3u8
+#EXTINF:-1,Dream TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73356.m3u8
+#EXTINF:-1,DUBAI Drama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193061.m3u8
+#EXTINF:-1,DUBAI HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63181.m3u8
+#EXTINF:-1,DUBAI NOOR
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121036.m3u8
+#EXTINF:-1,Dubai One HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63177.m3u8
+#EXTINF:-1,Dubai Racing 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63178.m3u8
+#EXTINF:-1,Dubai Racing 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63179.m3u8
+#EXTINF:-1,Dubai Racing 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135307.m3u8
+#EXTINF:-1,Dubai Sama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118805.m3u8
+#EXTINF:-1,Dubai Sport 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/130965.m3u8
+#EXTINF:-1,Dubai Sport 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110126.m3u8
+#EXTINF:-1,Dubai Sport 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63180.m3u8
+#EXTINF:-1,Dubai Sport 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147291.m3u8
+#EXTINF:-1,Dubai Sports HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73335.m3u8
+#EXTINF:-1,DUBAI ZAMAN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73357.m3u8
+#EXTINF:-1,DW Arabia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116765.m3u8
+#EXTINF:-1,DW Arabic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146146.m3u8
+#EXTINF:-1,Dw News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110273.m3u8
+#EXTINF:-1,Dzaier TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105521.m3u8
+#EXTINF:-1,Dzair 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135309.m3u8
+#EXTINF:-1,Dzair 24
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135508.m3u8
 #EXTINF:-1,Dzair Jannah
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14242.m3u8
-#EXTINF:-1,El Sharq
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14241.m3u8
-#EXTINF:-1,ELMoled
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14240.m3u8
-#EXTINF:-1,EOTC
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14239.m3u8
-#EXTINF:-1,Etihad TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14238.m3u8
-#EXTINF:-1,Family cinema
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14237.m3u8
-#EXTINF:-1,FAMILY HIKAYAT
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14236.m3u8
-#EXTINF:-1,Hala TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14235.m3u8
-#EXTINF:-1,Hareem Alsultan
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14234.m3u8
-#EXTINF:-1,Hekaya TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14232.m3u8
-#EXTINF:-1,HodHod  TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14231.m3u8
-#EXTINF:-1,Hollywood Horror
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14230.m3u8
-#EXTINF:-1,Imagine Movies
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14228.m3u8
-#EXTINF:-1,Iraqi EDU
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14227.m3u8
-#EXTINF:-1,Jordan Alyoum
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14226.m3u8
-#EXTINF:-1,Joshua TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14225.m3u8
-#EXTINF:-1,KarbalaTV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14224.m3u8
-#EXTINF:-1,inta omri tv
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14292.m3u8
-#EXTINF:-1,Khaleej Alarab 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14291.m3u8
-#EXTINF:-1,Lana pluse
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14290.m3u8
-#EXTINF:-1,Libya 218 News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14289.m3u8
-#EXTINF:-1,LIBYAS CHANNEL
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14288.m3u8
-#EXTINF:-1,Al Falastiniah
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14454.m3u8
-#EXTINF:-1,An-Najah NBC
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14453.m3u8
-#EXTINF:-1,Awdeh
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14452.m3u8
-#EXTINF:-1,Maan TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14451.m3u8
-#EXTINF:-1,MUSAWA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14450.m3u8
-#EXTINF:-1,Palestine
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14449.m3u8
-#EXTINF:-1,Palestine News
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14448.m3u8
-#EXTINF:-1,Palestine Sport
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14447.m3u8
-#EXTINF:-1,Aqsa Tv
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6890.m3u8
-#EXTINF:-1,Palestine Live
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14456.m3u8
-#EXTINF:-1,Shahed TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14443.m3u8
-#EXTINF:-1,Majan
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14287.m3u8
-#EXTINF:-1,MARJAEYAT 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14286.m3u8
-#EXTINF:-1,MASDAR TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14285.m3u8
-#EXTINF:-1,MEDIA SLIDE
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14284.m3u8
-#EXTINF:-1,MESat HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14283.m3u8
-#EXTINF:-1,MOGA CINEMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14282.m3u8
-#EXTINF:-1,MOGA AFLAM
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14413.m3u8
-#EXTINF:-1,MOGA AL YOOM
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14412.m3u8
-#EXTINF:-1,MOSALSALAT TUBE
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14281.m3u8
-#EXTINF:-1,NJOOM HOLLYWOOD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14280.m3u8
-#EXTINF:-1,PANORAMA YOM TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14279.m3u8
-#EXTINF:-1,Praise Live
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14278.m3u8
-#EXTINF:-1,PYRAMID AFLAM
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14277.m3u8
-#EXTINF:-1,PYRAMID CINEMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14276.m3u8
-#EXTINF:-1,PYRAMID CLASSIC
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14275.m3u8
-#EXTINF:-1,PYRAMID DRAMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14274.m3u8
-#EXTINF:-1,PYRAMID MUSALSALAT
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14273.m3u8
-#EXTINF:-1,Qamar Al Khaleej
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14272.m3u8
-#EXTINF:-1,RDK
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14271.m3u8
-#EXTINF:-1,SALAH
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14270.m3u8
-#EXTINF:-1,SAT-7 ARABIC
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14269.m3u8
-#EXTINF:-1,SAT-7 KIDS
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14268.m3u8
-#EXTINF:-1,Sawt Al Jomhuria
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14267.m3u8
-#EXTINF:-1,SAWT ALITRA TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14266.m3u8
-#EXTINF:-1,SBH
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14265.m3u8
-#EXTINF:-1,SCARE TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14264.m3u8
-#EXTINF:-1,Sehaty
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14263.m3u8
-#EXTINF:-1,SHARO5AN HINDI
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14262.m3u8
-#EXTINF:-1,Sheba TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14261.m3u8
-#EXTINF:-1,SOUT MASR
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14260.m3u8
-#EXTINF:-1,SOWT ALARAB TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14259.m3u8
-#EXTINF:-1,SYRIAN EDUCATION
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14258.m3u8
-#EXTINF:-1,Mukameelen TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14293.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147448.m3u8
+#EXTINF:-1,Dzair News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63182.m3u8
+#EXTINF:-1,DZAIR TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89799.m3u8
+#EXTINF:-1,Echorok News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116726.m3u8
+#EXTINF:-1,Echorouk Benna
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193067.m3u8
+#EXTINF:-1,ECHOROUK TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63183.m3u8
+#EXTINF:-1,Echorouq News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196443.m3u8
+#EXTINF:-1,Echourouk Benna
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63184.m3u8
+#EXTINF:-1,Echourouk TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105313.m3u8
+#EXTINF:-1,El Bilad TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89795.m3u8
+#EXTINF:-1,El DJAZAIRIA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63186.m3u8
+#EXTINF:-1,EL HADDAF
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121069.m3u8
+#EXTINF:-1,El Heddaf
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196371.m3u8
+#EXTINF:-1,EL HIWAR ETTOUNISI TV 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118411.m3u8
+#EXTINF:-1,El Mahadra (MR)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135573.m3u8
+#EXTINF:-1,El Mehwar
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196531.m3u8
+#EXTINF:-1,El Moled TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147394.m3u8
+#EXTINF:-1,El sharq TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73360.m3u8
+#EXTINF:-1,ElFADJR TV DZ
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135512.m3u8
+#EXTINF:-1,Elhiwar Ettounsi TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113466.m3u8
+#EXTINF:-1,Elmouritania
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148558.m3u8
+#EXTINF:-1,ELMOURITANIA (MR)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135578.m3u8
+#EXTINF:-1,Elmouritania 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148559.m3u8
+#EXTINF:-1,Elwatania Tv
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148560.m3u8
+#EXTINF:-1,Ennahar
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193070.m3u8
+#EXTINF:-1,Ennahar Algerie
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147447.m3u8
+#EXTINF:-1,ENNAHAR ONE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131074.m3u8
+#EXTINF:-1,Ennahar TV Algeria HQ
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143729.m3u8
+#EXTINF:-1,ENTV Algerie
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196370.m3u8
+#EXTINF:-1,ENTV TERRESTRE DZ
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118391.m3u8
+#EXTINF:-1,Eriteria TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135257.m3u8
+#EXTINF:-1,ES TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135258.m3u8
+#EXTINF:-1,Esc
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148570.m3u8
+#EXTINF:-1,ETIHAD TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/90080.m3u8
+#EXTINF:-1,Euro News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/129773.m3u8
+#EXTINF:-1,EURONEWS Arabic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196407.m3u8
+#EXTINF:-1,Extra News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118811.m3u8
+#EXTINF:-1,Fadjr TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105324.m3u8
+#EXTINF:-1,Falastiniah TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148561.m3u8
+#EXTINF:-1,FAMILY DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135312.m3u8
+#EXTINF:-1,FATAFEAT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124752.m3u8
+#EXTINF:-1,FDF
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135538.m3u8
+#EXTINF:-1,First HBO
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158848.m3u8
+#EXTINF:-1,FOX MOVIES ACTION
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124754.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124755.m3u8
+#EXTINF:-1,France 24
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105412.m3u8
+#EXTINF:-1,Free TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135259.m3u8
+#EXTINF:-1,Freedom TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135354.m3u8
+#EXTINF:-1,Fujairah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196546.m3u8
+#EXTINF:-1,FUNOON TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73370.m3u8
+#EXTINF:-1,Future Lebanon
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146129.m3u8
+#EXTINF:-1,FUTURE TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110241.m3u8
+#EXTINF:-1,GM ALWAN HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147503.m3u8
+#EXTINF:-1,GM CHAABI
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89769.m3u8
+#EXTINF:-1,GM COMEDIA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89766.m3u8
+#EXTINF:-1,GM MOVIES
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147504.m3u8
+#EXTINF:-1,GM MUSIC TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147505.m3u8
+#EXTINF:-1,GM RAP ARAB
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89773.m3u8
+#EXTINF:-1,GREEN LIFELocal
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193072.m3u8
+#EXTINF:-1,HALA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147506.m3u8
+#EXTINF:-1,Halab Today TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196393.m3u8
+#EXTINF:-1,HALABA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89944.m3u8
+#EXTINF:-1,HANIBAL TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116675.m3u8
+#EXTINF:-1,HAREEM ELSULTAN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73374.m3u8
+#EXTINF:-1,HAWACOM TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108021.m3u8
+#EXTINF:-1,HAWAS TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135515.m3u8
+#EXTINF:-1,Hekayat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135516.m3u8
+#EXTINF:-1,Hekayat2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135517.m3u8
+#EXTINF:-1,Heya TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73377.m3u8
+#EXTINF:-1,HISTORY 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118528.m3u8
+#EXTINF:-1,HISTORY HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118527.m3u8
+#EXTINF:-1,Hod Hod TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135559.m3u8
+#EXTINF:-1,Hodhood
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196415.m3u8
+#EXTINF:-1,Hona alquds
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110185.m3u8
+#EXTINF:-1,Hona Baghdad
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124938.m3u8
+#EXTINF:-1,Huda TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108023.m3u8
+#EXTINF:-1,I film Arabic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135260.m3u8
+#EXTINF:-1,I24 News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147474.m3u8
+#EXTINF:-1,IMAGINE MOVIES
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73379.m3u8
+#EXTINF:-1,Iqraa Arabic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63192.m3u8
+#EXTINF:-1,Iqraa Pakistan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196469.m3u8
+#EXTINF:-1,Iraq Future
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135565.m3u8
+#EXTINF:-1,Iraq Now
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135518.m3u8
+#EXTINF:-1,Iraqi Education
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135899.m3u8
+#EXTINF:-1,IRAQI Sport
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118813.m3u8
+#EXTINF:-1,Iraqiya TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196444.m3u8
+#EXTINF:-1,Ishtar
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110237.m3u8
+#EXTINF:-1,IUC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63079.m3u8
+#EXTINF:-1,Jeem TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94438.m3u8
+#EXTINF:-1,JORDAN ADWAA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193079.m3u8
+#EXTINF:-1,Jordan Amen
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147355.m3u8
+#EXTINF:-1,Jordan HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73383.m3u8
+#EXTINF:-1,Jordan Ro2ya
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110155.m3u8
+#EXTINF:-1,Jordan Sports
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73338.m3u8
+#EXTINF:-1,Kaifa Islam
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146169.m3u8
+#EXTINF:-1,KANA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135522.m3u8
+#EXTINF:-1,Karameesh Kids
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63193.m3u8
+#EXTINF:-1,Karbala TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110087.m3u8
+#EXTINF:-1,Karma TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113408.m3u8
+#EXTINF:-1,Kassala TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110167.m3u8
+#EXTINF:-1,KBC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121604.m3u8
+#EXTINF:-1,Koky Kids TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135262.m3u8
+#EXTINF:-1,Kol Alnas TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105356.m3u8
+#EXTINF:-1,KSA Sport 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135339.m3u8
+#EXTINF:-1,KSA SPORTS 2 + HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131082.m3u8
+#EXTINF:-1,KTV 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/90098.m3u8
+#EXTINF:-1,KTV 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/90099.m3u8
+#EXTINF:-1,Ktv Al Arabi
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135560.m3u8
+#EXTINF:-1,KTV Ethraa
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73392.m3u8
+#EXTINF:-1,Ktv Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148550.m3u8
+#EXTINF:-1,KTV quran
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135345.m3u8
+#EXTINF:-1,KTV s.plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135346.m3u8
+#EXTINF:-1,KTV SPORT HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73339.m3u8
+#EXTINF:-1,Kuwait 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95759.m3u8
+#EXTINF:-1,Kuwait 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63195.m3u8
+#EXTINF:-1,Kuwait Alarabi HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146186.m3u8
+#EXTINF:-1,Kuwait Ethraa HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146187.m3u8
+#EXTINF:-1,Kuwait Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110156.m3u8
+#EXTINF:-1,Kuwait Sport HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95761.m3u8
+#EXTINF:-1,Kuwait Sport Live HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146188.m3u8
+#EXTINF:-1,Kuwait Sport Plus
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95762.m3u8
+#EXTINF:-1,Kuwait TV3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146173.m3u8
+#EXTINF:-1,Kuwait TV4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146175.m3u8
+#EXTINF:-1,Lana
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108027.m3u8
+#EXTINF:-1,LBC HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113287.m3u8
+#EXTINF:-1,LBC Sat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146128.m3u8
 #EXTINF:-1,LCD MOVIES
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14368.m3u8
-#EXTINF:-1,TATT7
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14257.m3u8
-#EXTINF:-1,TeN TV
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14256.m3u8
-#EXTINF:-1,TOKTOK AFLAM
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14255.m3u8
-#EXTINF:-1,TOKTOK CIMA
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14254.m3u8
-#EXTINF:-1,CNBC Arabiya
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/13451.m3u8
-#EXTINF:-1,Yemen Sama
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14252.m3u8
-#EXTINF:-1,Al Anwar
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14397.m3u8
-#EXTINF:-1,Al Farat
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14396.m3u8
-#EXTINF:-1,Al Mawsleya
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14395.m3u8
-#EXTINF:-1,Khaleej Al Arab
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14398.m3u8
-#EXTINF:-1,Salahaden Tv
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14399.m3u8
-#EXTINF:-1,The Savior
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14400.m3u8
-#EXTINF:-1,Chifa
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14393.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135263.m3u8
+#EXTINF:-1,LDC Lebanon
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63198.m3u8
+#EXTINF:-1,LDC Movies
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193088.m3u8
+#EXTINF:-1,Lebanon TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63199.m3u8
+#EXTINF:-1,Libya 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63200.m3u8
+#EXTINF:-1,LIBYA 218
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73395.m3u8
+#EXTINF:-1,Libya 218 NEWS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114699.m3u8
+#EXTINF:-1,Libya 24
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73396.m3u8
+#EXTINF:-1,LIBYA AL MARAH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98434.m3u8
+#EXTINF:-1,Libya Al-Ahrar TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135265.m3u8
+#EXTINF:-1,libya Alhadath
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196425.m3u8
+#EXTINF:-1,LIBYA ALRASMEYA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73399.m3u8
+#EXTINF:-1,Libya Alwatan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196426.m3u8
+#EXTINF:-1,Libya Alwatanya
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110179.m3u8
+#EXTINF:-1,LIBYA CHANNEL
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73404.m3u8
+#EXTINF:-1,Libya Elwatan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193090.m3u8
+#EXTINF:-1,Libya Future TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196427.m3u8
+#EXTINF:-1,Libya Hadath TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114697.m3u8
+#EXTINF:-1,Libya News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196428.m3u8
+#EXTINF:-1,LIBYA ONE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63201.m3u8
+#EXTINF:-1,Libya Panorama TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73402.m3u8
+#EXTINF:-1,LIBYA RASMIA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98435.m3u8
+#EXTINF:-1,Libya Sport Channel
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113486.m3u8
+#EXTINF:-1,LIBYA WAAD FM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131040.m3u8
+#EXTINF:-1,Logos TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73406.m3u8
+#EXTINF:-1,M CINEMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193091.m3u8
+#EXTINF:-1,M Classic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135545.m3u8
+#EXTINF:-1,M TUNISIA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113465.m3u8
+#EXTINF:-1,Maan News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105355.m3u8
+#EXTINF:-1,Maan TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73411.m3u8
+#EXTINF:-1,Majd
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135316.m3u8
+#EXTINF:-1,Majid Kids TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63202.m3u8
+#EXTINF:-1,Makkah TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63402.m3u8
+#EXTINF:-1,MANAR
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/129412.m3u8
+#EXTINF:-1,Mara7 TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135317.m3u8
+#EXTINF:-1,Marah TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196399.m3u8
+#EXTINF:-1,MARJAEYAT 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193093.m3u8
+#EXTINF:-1,Masdar TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147428.m3u8
+#EXTINF:-1,Maspero Zaman
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73417.m3u8
+#EXTINF:-1,MASR ALHAYAH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121083.m3u8
+#EXTINF:-1,Mazazikh TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147387.m3u8
+#EXTINF:-1,MAZIKA HITS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193095.m3u8
+#EXTINF:-1,MAZIKA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105434.m3u8
+#EXTINF:-1,Mazzika1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196504.m3u8
+#EXTINF:-1,MBC 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/156682.m3u8
+#EXTINF:-1,MBC 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/156683.m3u8
+#EXTINF:-1,MBC 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/156684.m3u8
+#EXTINF:-1,MBC 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111217.m3u8
+#EXTINF:-1,MBC Action HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111218.m3u8
+#EXTINF:-1,MBC Bollywood HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63209.m3u8
+#EXTINF:-1,MBC Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94409.m3u8
+#EXTINF:-1,MBC Drama+ HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206329.m3u8
+#EXTINF:-1,MBC Masr 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147373.m3u8
+#EXTINF:-1,MBC MASR 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73421.m3u8
+#EXTINF:-1,MBC MASR HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63130.m3u8
+#EXTINF:-1,MBC Max HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63212.m3u8
+#EXTINF:-1,MBC Pro Sport 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196385.m3u8
+#EXTINF:-1,MBC Pro Sport 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196386.m3u8
+#EXTINF:-1,MBC Sports Pro 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/126201.m3u8
+#EXTINF:-1,MBC SPORTS Pro 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143732.m3u8
+#EXTINF:-1,MBC VARIETY HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89852.m3u8
+#EXTINF:-1,MBC+ Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118442.m3u8
+#EXTINF:-1,MBC+ DRAMA HD 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118443.m3u8
+#EXTINF:-1,MBC+ Variety
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121018.m3u8
+#EXTINF:-1,Mecca Quran
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113532.m3u8
+#EXTINF:-1,Mecca TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108032.m3u8
+#EXTINF:-1,Medi 1 Sat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98442.m3u8
+#EXTINF:-1,Medi 1 TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63216.m3u8
+#EXTINF:-1,MEDI1 TV AFRIQUE HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147501.m3u8
+#EXTINF:-1,Mehwar
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116665.m3u8
+#EXTINF:-1,MEKAMELEEN TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73424.m3u8
+#EXTINF:-1,Mekke Saudi Quran
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196487.m3u8
+#EXTINF:-1,MELODY CINEMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121084.m3u8
+#EXTINF:-1,MELODY CLASSIC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73425.m3u8
+#EXTINF:-1,Melody Hits
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110113.m3u8
+#EXTINF:-1,Menhag Al Nouboua
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196472.m3u8
+#EXTINF:-1,MESAT HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63078.m3u8
+#EXTINF:-1,Mickey Channel
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147388.m3u8
+#EXTINF:-1,MINBIJ
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147344.m3u8
+#EXTINF:-1,Miracle TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73427.m3u8
+#EXTINF:-1,Modern Sport
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193105.m3u8
+#EXTINF:-1,Mody Kids
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147389.m3u8
+#EXTINF:-1,MOGA COMEDY TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63218.m3u8
+#EXTINF:-1,Moroco 1 Alaoula
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110145.m3u8
+#EXTINF:-1,Moroco 3 Arriadia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110146.m3u8
+#EXTINF:-1,Moroco 4 Arrabiaa
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110147.m3u8
+#EXTINF:-1,Moroco 6 Assadissa
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110148.m3u8
+#EXTINF:-1,Moroco 8 Tamazight
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110149.m3u8
+#EXTINF:-1,Moroco Medi 1TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110165.m3u8
+#EXTINF:-1,MOSALSALAT TUBE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73432.m3u8
+#EXTINF:-1,Movies Box Office 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158861.m3u8
+#EXTINF:-1,Movies Box Office 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158862.m3u8
+#EXTINF:-1,MOVIES COMEDY HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89293.m3u8
+#EXTINF:-1,MOVIES DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158853.m3u8
+#EXTINF:-1,Movies Family HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158850.m3u8
+#EXTINF:-1,MOVIES HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158854.m3u8
+#EXTINF:-1,Movies thriller
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158844.m3u8
+#EXTINF:-1,Mta International
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147460.m3u8
+#EXTINF:-1,MTV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/102125.m3u8
+#EXTINF:-1,MTV Lebanon
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206416.m3u8
+#EXTINF:-1,Musawa TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73436.m3u8
+#EXTINF:-1,Music Alhanen
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135269.m3u8
+#EXTINF:-1,Music HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196366.m3u8
+#EXTINF:-1,Music Sha3by TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135270.m3u8
+#EXTINF:-1,MUSTAKILLAH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193107.m3u8
+#EXTINF:-1,Muzicana
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196367.m3u8
+#EXTINF:-1,MY FX HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120733.m3u8
+#EXTINF:-1,MyHD &TV 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211613.m3u8
+#EXTINF:-1,MyHD &TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211612.m3u8
+#EXTINF:-1,MyHD ANIMAL PLANET HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211602.m3u8
+#EXTINF:-1,MyHD Cinemachi Kids HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/115949.m3u8
+#EXTINF:-1,MyHD Documentry
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211604.m3u8
+#EXTINF:-1,MyHD Fast & FunBOX
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/115929.m3u8
+#EXTINF:-1,MyHD FilmBox FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78047.m3u8
+#EXTINF:-1,MyHD FOX Family Movies FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78044.m3u8
+#EXTINF:-1,MyHD FOX Movies Action HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211606.m3u8
+#EXTINF:-1,MyHD FOX Movies Family HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211605.m3u8
+#EXTINF:-1,MyHD Fox Movies HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78041.m3u8
+#EXTINF:-1,MyHD FX HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78040.m3u8
+#EXTINF:-1,MyHD Gulli
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211608.m3u8
+#EXTINF:-1,MyHD Home Cinema 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131768.m3u8
+#EXTINF:-1,MyHD Home Cinema 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211615.m3u8
+#EXTINF:-1,MyHD Home Cinema 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211616.m3u8
+#EXTINF:-1,MyHD Home Cinema 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211617.m3u8
+#EXTINF:-1,MyHD Home Cinema 5 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211618.m3u8
+#EXTINF:-1,MyHD Jim & Jam
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211607.m3u8
+#EXTINF:-1,MyHD MBC 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78069.m3u8
+#EXTINF:-1,MyHD MBC 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78068.m3u8
+#EXTINF:-1,MyHD MBC 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78067.m3u8
+#EXTINF:-1,MyHD MBC 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78066.m3u8
+#EXTINF:-1,MyHD MBC Action HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78064.m3u8
+#EXTINF:-1,MyHD MBC Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78062.m3u8
+#EXTINF:-1,MyHD MBC MAX HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78061.m3u8
+#EXTINF:-1,MyHD MBC Plus Drama 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211611.m3u8
+#EXTINF:-1,MyHD MBC Plus Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211610.m3u8
+#EXTINF:-1,MyHD MBC Variety HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78060.m3u8
+#EXTINF:-1,MyHD MBC+ Variety HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110900.m3u8
+#EXTINF:-1,MyHD My Home Cinema 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131769.m3u8
+#EXTINF:-1,MyHD My Home Cinema 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131770.m3u8
+#EXTINF:-1,MyHD My Home Cinema 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131771.m3u8
+#EXTINF:-1,MyHD My Home Cinema 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131772.m3u8
+#EXTINF:-1,MyHD My Home Cinema 6
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146104.m3u8
+#EXTINF:-1,MyHD Quest HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/140675.m3u8
+#EXTINF:-1,MyHD Rotana Cinema HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110903.m3u8
+#EXTINF:-1,MyHD Rotana Khalijia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111161.m3u8
+#EXTINF:-1,MyHD Rotana Masriya
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110905.m3u8
+#EXTINF:-1,MyHD Rotana Music
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110906.m3u8
+#EXTINF:-1,MyHD STAR WORLD HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/163278.m3u8
+#EXTINF:-1,MyHD Wow Sport HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78016.m3u8
+#EXTINF:-1,Mystro TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147370.m3u8
+#EXTINF:-1,NABA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63220.m3u8
+#EXTINF:-1,Nabaa TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116672.m3u8
+#EXTINF:-1,NAHAR DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63221.m3u8
+#EXTINF:-1,Nahar One
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196509.m3u8
+#EXTINF:-1,NAT GEO HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63222.m3u8
+#EXTINF:-1,NAT GEO Kids
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135321.m3u8
+#EXTINF:-1,NAT GEO People HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/117717.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/68217.m3u8
+#EXTINF:-1,NATIONAL 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/101173.m3u8
+#EXTINF:-1,NATIONAL 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/101172.m3u8
+#EXTINF:-1,NBN TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73441.m3u8
+#EXTINF:-1,Nessma TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63102.m3u8
+#EXTINF:-1,Nile Cinema
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113342.m3u8
+#EXTINF:-1,Nile Comedy
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63126.m3u8
+#EXTINF:-1,Nile Culture
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73444.m3u8
+#EXTINF:-1,Nile Drama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113340.m3u8
+#EXTINF:-1,Nile Family
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73445.m3u8
+#EXTINF:-1,Nile Life
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113338.m3u8
+#EXTINF:-1,Nile News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/73446.m3u8
+#EXTINF:-1,Nile Sports
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/100437.m3u8
+#EXTINF:-1,Nile TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/129776.m3u8
+#EXTINF:-1,NILESAT COMEDY
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114447.m3u8
+#EXTINF:-1,NILESAT CULTURE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114448.m3u8
+#EXTINF:-1,NOON TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63226.m3u8
+#EXTINF:-1,Noor Dubai
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193110.m3u8
+#EXTINF:-1,Noor Jordan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121129.m3u8
+#EXTINF:-1,Nour Dubai
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131064.m3u8
+#EXTINF:-1,Nour Music
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196495.m3u8
+#EXTINF:-1,Nour Sat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196494.m3u8
+#EXTINF:-1,Noursat Al Chabab
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147352.m3u8
+#EXTINF:-1,Noursat Kodas
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111166.m3u8
+#EXTINF:-1,NourSat Shabab Christian
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110909.m3u8
+#EXTINF:-1,NourSat Spirit
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110280.m3u8
+#EXTINF:-1,Numedia TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121066.m3u8
+#EXTINF:-1,OFIVE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196362.m3u8
+#EXTINF:-1,Oman Live
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/207328.m3u8
+#EXTINF:-1,Oman Sports HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95758.m3u8
+#EXTINF:-1,OMAN TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/90106.m3u8
+#EXTINF:-1,Oman TV Culture
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135271.m3u8
+#EXTINF:-1,ON DEMAND 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158856.m3u8
+#EXTINF:-1,ON DEMAND 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158857.m3u8
+#EXTINF:-1,ON DEMAND EXTRA 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158859.m3u8
+#EXTINF:-1,ON Drama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75258.m3u8
+#EXTINF:-1,ON Live
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94442.m3u8
+#EXTINF:-1,ON Sport
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89954.m3u8
+#EXTINF:-1,ON TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89957.m3u8
+#EXTINF:-1,one tv
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75257.m3u8
+#EXTINF:-1,Orient News TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/90092.m3u8
+#EXTINF:-1,Oscar TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135324.m3u8
+#EXTINF:-1,OSN Action HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95729.m3u8
+#EXTINF:-1,OSN AD SPORTS 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/74671.m3u8
+#EXTINF:-1,OSN AD SPORTS 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/74672.m3u8
+#EXTINF:-1,OSN Al Safwa
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63342.m3u8
+#EXTINF:-1,OSN Alfa Alsafwa HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211619.m3u8
+#EXTINF:-1,OSN Alfa Alyawm HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211620.m3u8
+#EXTINF:-1,OSN Alfa ALYoum HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/88761.m3u8
+#EXTINF:-1,OSN Alfa Cinema 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110873.m3u8
+#EXTINF:-1,OSN Alfa Cinema 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110874.m3u8
+#EXTINF:-1,OSN Alfa Music Now HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211621.m3u8
+#EXTINF:-1,OSN ALKASS SPORT 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89303.m3u8
+#EXTINF:-1,OSN ALKASS SPORT 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89304.m3u8
+#EXTINF:-1,OSN ALKASS SPORT 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89305.m3u8
+#EXTINF:-1,OSN ALYOUM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/160449.m3u8
+#EXTINF:-1,OSN ANIMAL PLANET HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211622.m3u8
+#EXTINF:-1,OSN ART Aflam 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63341.m3u8
+#EXTINF:-1,OSN ART Aflam 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63340.m3u8
+#EXTINF:-1,OSN ART Cinema HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63339.m3u8
+#EXTINF:-1,OSN ART Hekayat 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63338.m3u8
+#EXTINF:-1,OSN ART Hekayat 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63337.m3u8
+#EXTINF:-1,OSN Baby TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111158.m3u8
+#EXTINF:-1,OSN BBC First HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211624.m3u8
+#EXTINF:-1,OSN beIN BABY
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159039.m3u8
+#EXTINF:-1,OSN beIN Box Office 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159036.m3u8
+#EXTINF:-1,OSN beIN Discovery Life
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159033.m3u8
+#EXTINF:-1,OSN beIN DreamWorks
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159032.m3u8
+#EXTINF:-1,OSN beIN DTX
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159031.m3u8
+#EXTINF:-1,OSN beIN Fox Movies
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159026.m3u8
+#EXTINF:-1,OSN beIN JEEM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159025.m3u8
+#EXTINF:-1,OSN beIN JUNIOR
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159024.m3u8
+#EXTINF:-1,OSN beIN Series
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159019.m3u8
+#EXTINF:-1,OSN beIN Sky Movies
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159018.m3u8
+#EXTINF:-1,OSN beIN TCM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159017.m3u8
+#EXTINF:-1,OSN Bing HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211627.m3u8
+#EXTINF:-1,OSN Box Office 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63336.m3u8
+#EXTINF:-1,OSN Box Office 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63335.m3u8
+#EXTINF:-1,OSN Box Office 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63334.m3u8
+#EXTINF:-1,OSN CBC Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211623.m3u8
+#EXTINF:-1,OSN CBC reality
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63121.m3u8
+#EXTINF:-1,OSN Cinema 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63120.m3u8
+#EXTINF:-1,OSN Cinema 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/88760.m3u8
+#EXTINF:-1,OSN Cinemachi Kids HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211626.m3u8
+#EXTINF:-1,OSN CNN HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98482.m3u8
+#EXTINF:-1,OSN CNN News HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211629.m3u8
+#EXTINF:-1,OSN Comedy Central HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/103999.m3u8
+#EXTINF:-1,OSN Demand Extra
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143141.m3u8
+#EXTINF:-1,OSN Discovery Channel HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/136860.m3u8
+#EXTINF:-1,OSN Discovery Family HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98483.m3u8
+#EXTINF:-1,OSN Discovery Science HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120768.m3u8
+#EXTINF:-1,OSN Discovery Sciense
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159011.m3u8
+#EXTINF:-1,OSN Disney Channel HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/70249.m3u8
+#EXTINF:-1,OSN Disney Junior HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98452.m3u8
+#EXTINF:-1,OSN Disney XD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98486.m3u8
+#EXTINF:-1,OSN E! HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131161.m3u8
+#EXTINF:-1,OSN FATAFEAT HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89312.m3u8
+#EXTINF:-1,OSN Fight Network HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/104002.m3u8
+#EXTINF:-1,OSN Fine Living HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124778.m3u8
+#EXTINF:-1,OSN First HBO HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98364.m3u8
+#EXTINF:-1,OSN First HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95710.m3u8
+#EXTINF:-1,OSN Food Network HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105719.m3u8
+#EXTINF:-1,OSN Fox Action Movies FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89313.m3u8
+#EXTINF:-1,OSN Fox Movies HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/104006.m3u8
+#EXTINF:-1,OSN Fox News HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98365.m3u8
+#EXTINF:-1,OSN FUEL HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89314.m3u8
+#EXTINF:-1,OSN FX HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/104007.m3u8
+#EXTINF:-1,OSN H2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113240.m3u8
+#EXTINF:-1,OSN HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63118.m3u8
+#EXTINF:-1,OSN History Channel HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113248.m3u8
+#EXTINF:-1,OSN Home Cinema 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63332.m3u8
+#EXTINF:-1,OSN Home Cinema 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63331.m3u8
+#EXTINF:-1,OSN Home Cinema 2 KIDS/ CINEMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63326.m3u8
+#EXTINF:-1,OSN Home Cinema 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63330.m3u8
+#EXTINF:-1,OSN Home Cinema 3 KIDS/ CIMNEMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63325.m3u8
+#EXTINF:-1,OSN Home Cinema 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63329.m3u8
+#EXTINF:-1,OSN Home Cinema 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63328.m3u8
+#EXTINF:-1,OSN Home Cinema 6
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146106.m3u8
+#EXTINF:-1,OSN IDX FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143153.m3u8
+#EXTINF:-1,OSN Investigation Disvovery HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113237.m3u8
+#EXTINF:-1,OSN ITV Choice HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/104044.m3u8
+#EXTINF:-1,OSN JimJam
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/104008.m3u8
+#EXTINF:-1,OSN Kid Zone 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211633.m3u8
+#EXTINF:-1,OSN Kids Zone TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120775.m3u8
+#EXTINF:-1,OSN Mbc Drama+ HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95701.m3u8
+#EXTINF:-1,OSN MBC Variety HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143156.m3u8
+#EXTINF:-1,OSN Movie 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143157.m3u8
+#EXTINF:-1,OSN Movie Action 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/88747.m3u8
+#EXTINF:-1,OSN Movie Drama 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143161.m3u8
+#EXTINF:-1,OSN Movies +2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124779.m3u8
+#EXTINF:-1,OSN Movies Action 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/86781.m3u8
+#EXTINF:-1,OSN Movies Action HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120782.m3u8
+#EXTINF:-1,OSN MOVIES BOX OFFICE 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63301.m3u8
+#EXTINF:-1,OSN MOVIES BOX OFFICE 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63300.m3u8
+#EXTINF:-1,OSN MOVIES BOX OFFICE 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63299.m3u8
+#EXTINF:-1,OSN Movies Comedy HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63308.m3u8
+#EXTINF:-1,OSN Movies Family HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/184592.m3u8
+#EXTINF:-1,OSN Movies Festival HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63306.m3u8
+#EXTINF:-1,OSN Movies First HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63316.m3u8
+#EXTINF:-1,OSN Movies First HD 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131156.m3u8
+#EXTINF:-1,OSN MOVIES HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63319.m3u8
+#EXTINF:-1,OSN Movies Kids HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63314.m3u8
+#EXTINF:-1,OSN Movies Thriller +2H
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63304.m3u8
+#EXTINF:-1,OSN Movies Thriller 2H
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/213318.m3u8
+#EXTINF:-1,OSN MTV Live HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131163.m3u8
+#EXTINF:-1,OSN Musalsalat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143867.m3u8
+#EXTINF:-1,OSN MUSIC NOW HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63298.m3u8
+#EXTINF:-1,OSN NAT GEO ABU DHABI HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211625.m3u8
+#EXTINF:-1,OSN NAT GEO HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/70239.m3u8
+#EXTINF:-1,OSN NAT GEO People HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89326.m3u8
+#EXTINF:-1,OSN NAT GEO Wild HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211628.m3u8
+#EXTINF:-1,OSN News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143168.m3u8
+#EXTINF:-1,OSN Nick JR HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211630.m3u8
+#EXTINF:-1,OSN Nickelodeon (Audio EN)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158987.m3u8
+#EXTINF:-1,OSN Nickelodeon FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89327.m3u8
+#EXTINF:-1,OSN OFFICBOX 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/117485.m3u8
+#EXTINF:-1,OSN OFFICBOX 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/117484.m3u8
+#EXTINF:-1,OSN ON DEMAND 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/68240.m3u8
+#EXTINF:-1,OSN ON DEMAND 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/88758.m3u8
+#EXTINF:-1,OSN ON DEMAND 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89329.m3u8
+#EXTINF:-1,OSN On Demand Extra 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63297.m3u8
+#EXTINF:-1,OSN On Demand Extra 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/100846.m3u8
+#EXTINF:-1,OSN On Demand Extra 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131584.m3u8
+#EXTINF:-1,OSN On Demand HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63295.m3u8
+#EXTINF:-1,OSN ON Demande 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143170.m3u8
+#EXTINF:-1,OSN ON Demande 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143172.m3u8
+#EXTINF:-1,OSN ORBIT CINEMA 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63294.m3u8
+#EXTINF:-1,OSN ORBIT CINEMA 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/86782.m3u8
+#EXTINF:-1,OSN Outdoor HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98454.m3u8
+#EXTINF:-1,OSN SeeVii Al Aoula HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63280.m3u8
+#EXTINF:-1,OSN SeeVii Beelink HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159001.m3u8
+#EXTINF:-1,OSN SeeVii Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159000.m3u8
+#EXTINF:-1,OSN Series Comedy 2H
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63283.m3u8
+#EXTINF:-1,OSN Series First HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158838.m3u8
+#EXTINF:-1,OSN Sport 1 Action
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143179.m3u8
+#EXTINF:-1,OSN Sports 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143181.m3u8
+#EXTINF:-1,OSN Sports 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/88765.m3u8
+#EXTINF:-1,OSN Sports 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/86785.m3u8
+#EXTINF:-1,OSN Sports Cricket HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94108.m3u8
+#EXTINF:-1,OSN SPtv HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211634.m3u8
+#EXTINF:-1,OSN Star Movie HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/68234.m3u8
+#EXTINF:-1,OSN Star World HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63114.m3u8
+#EXTINF:-1,OSN SUNDANCE TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158997.m3u8
+#EXTINF:-1,OSN SYFY HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/97311.m3u8
+#EXTINF:-1,OSN Ten Cricket
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120807.m3u8
+#EXTINF:-1,OSN TLC HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98374.m3u8
+#EXTINF:-1,OSN Travel
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/140705.m3u8
+#EXTINF:-1,OSN VH1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113254.m3u8
+#EXTINF:-1,OSN WWE HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63274.m3u8
+#EXTINF:-1,OSN Ya Hala Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/88754.m3u8
+#EXTINF:-1,OSN Ya Hala First 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158831.m3u8
+#EXTINF:-1,OSN Ya Hala First HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158989.m3u8
+#EXTINF:-1,OSN Ya Hala HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120745.m3u8
+#EXTINF:-1,OSN Ya Hala Oula HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124784.m3u8
+#EXTINF:-1,OSN Ya Hala Shabab
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147702.m3u8
+#EXTINF:-1,OSN Ya Hala! Cinema HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63285.m3u8
+#EXTINF:-1,OTV TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114603.m3u8
+#EXTINF:-1,Oula Maroc
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105524.m3u8
+#EXTINF:-1,PALESTINE AL YOUM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121130.m3u8
+#EXTINF:-1,Palestine Live
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147347.m3u8
+#EXTINF:-1,Palestine News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75251.m3u8
+#EXTINF:-1,Palestine Sport
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/79300.m3u8
+#EXTINF:-1,PALESTINE TODAY
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75250.m3u8
+#EXTINF:-1,Palestine TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147348.m3u8
+#EXTINF:-1,Panorama Comedy
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63227.m3u8
+#EXTINF:-1,PANORAMA DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193118.m3u8
+#EXTINF:-1,Panorama Drama 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63228.m3u8
+#EXTINF:-1,Panorama Drama 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131004.m3u8
+#EXTINF:-1,Panorama Film
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63230.m3u8
+#EXTINF:-1,Panorama Food
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116686.m3u8
+#EXTINF:-1,Peace TV 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196473.m3u8
+#EXTINF:-1,Peace TV 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196474.m3u8
+#EXTINF:-1,Peace TV 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196475.m3u8
+#EXTINF:-1,PRO SPORT 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89290.m3u8
+#EXTINF:-1,PRO SPORT 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/137529.m3u8
+#EXTINF:-1,PROGRAMME NATIONAL
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/102135.m3u8
+#EXTINF:-1,PUBLI TOOLS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193119.m3u8
+#EXTINF:-1,Qamishlo TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196548.m3u8
+#EXTINF:-1,QATAR TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75242.m3u8
+#EXTINF:-1,QUEST ARABIA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89894.m3u8
+#EXTINF:-1,Resalat ALIslam
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135325.m3u8
+#EXTINF:-1,ROTANA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75239.m3u8
+#EXTINF:-1,Rotana Aflam HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75238.m3u8
+#EXTINF:-1,Rotana Cinema HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63234.m3u8
+#EXTINF:-1,Rotana Classic HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113273.m3u8
+#EXTINF:-1,Rotana Clip HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113271.m3u8
+#EXTINF:-1,Rotana Drama HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105337.m3u8
+#EXTINF:-1,Rotana Khalijiah HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75235.m3u8
+#EXTINF:-1,Rotana Masriya HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75234.m3u8
+#EXTINF:-1,Rotana Music HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114464.m3u8
+#EXTINF:-1,ROYA HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78585.m3u8
+#EXTINF:-1,Rt Arab
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147469.m3u8
+#EXTINF:-1,RT ARABIC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193125.m3u8
+#EXTINF:-1,Rudaw HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/86768.m3u8
+#EXTINF:-1,Russia Today News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110136.m3u8
+#EXTINF:-1,S7T AFLAM HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147507.m3u8
+#EXTINF:-1,S7T ANIME
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147509.m3u8
+#EXTINF:-1,S7T HITS HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147514.m3u8
+#EXTINF:-1,S7T MOVIES HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147516.m3u8
+#EXTINF:-1,S7T SERIES
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147518.m3u8
+#EXTINF:-1,S7T SPORT HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147519.m3u8
+#EXTINF:-1,SADA AL BALAD 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63237.m3u8
+#EXTINF:-1,SADA AL BALAD DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89350.m3u8
+#EXTINF:-1,Sada AlBalad HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94424.m3u8
+#EXTINF:-1,Sada Drama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110115.m3u8
+#EXTINF:-1,SADA EL BALAD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113346.m3u8
+#EXTINF:-1,SADA EL BALAD 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113347.m3u8
+#EXTINF:-1,SADA EL BALAD DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113348.m3u8
+#EXTINF:-1,Safa TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196447.m3u8
+#EXTINF:-1,Sahel TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196549.m3u8
+#EXTINF:-1,Sama Dubai HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63239.m3u8
+#EXTINF:-1,Sama Sham
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196392.m3u8
+#EXTINF:-1,Sama Syria
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/101189.m3u8
+#EXTINF:-1,Sama TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147337.m3u8
+#EXTINF:-1,SAMARRA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98464.m3u8
+#EXTINF:-1,Samira TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63240.m3u8
+#EXTINF:-1,Sat 7 Arabic
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78595.m3u8
+#EXTINF:-1,Sat 7 Kids
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110225.m3u8
+#EXTINF:-1,Saudi 1 TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63242.m3u8
+#EXTINF:-1,Saudi 2 TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63243.m3u8
+#EXTINF:-1,Saudi 24
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131025.m3u8
+#EXTINF:-1,Saudi Ajyal
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105407.m3u8
+#EXTINF:-1,Saudi Al Haj
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116777.m3u8
+#EXTINF:-1,SAUDI AL IKHBARIYA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121100.m3u8
+#EXTINF:-1,Saudi Anti Terrorism
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148578.m3u8
+#EXTINF:-1,Saudi Ch. For Sunnah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135282.m3u8
+#EXTINF:-1,SAUDI FAMILY
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89898.m3u8
+#EXTINF:-1,Saudi News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110132.m3u8
+#EXTINF:-1,Saudi Quraan HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105402.m3u8
+#EXTINF:-1,SAUDI QURAN
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89913.m3u8
+#EXTINF:-1,Saudi Sport
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135283.m3u8
+#EXTINF:-1,Saudi Sport 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/100439.m3u8
+#EXTINF:-1,Saudi Sunnah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147429.m3u8
+#EXTINF:-1,Saudie 24
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146126.m3u8
+#EXTINF:-1,SCARE TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135328.m3u8
+#EXTINF:-1,SeeVii Alaoula HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116778.m3u8
+#EXTINF:-1,Sehaty
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/124941.m3u8
+#EXTINF:-1,SemSem Kids
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110258.m3u8
+#EXTINF:-1,Sham FM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196396.m3u8
+#EXTINF:-1,SHANPOO AFLAM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/143730.m3u8
+#EXTINF:-1,SHARO5AN HINDI
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135330.m3u8
+#EXTINF:-1,Shaun The sheep
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196420.m3u8
+#EXTINF:-1,Sky News Arabia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105410.m3u8
+#EXTINF:-1,SKY News HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146139.m3u8
 #EXTINF:-1,Space Toon
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7053.m3u8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63246.m3u8
+#EXTINF:-1,STAR CINEMA 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78610.m3u8
+#EXTINF:-1,STAR CINEMA 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78611.m3u8
+#EXTINF:-1,Star Movies HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158851.m3u8
+#EXTINF:-1,STAR WORLD HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118510.m3u8
+#EXTINF:-1,Sudan ASHOROOQ
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135301.m3u8
+#EXTINF:-1,SUDAN BLUE NILE
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110211.m3u8
+#EXTINF:-1,Sudan Knowledge
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110174.m3u8
+#EXTINF:-1,SUDAN Monwaat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121137.m3u8
+#EXTINF:-1,Sudan Music
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146208.m3u8
+#EXTINF:-1,SUDAN Om Dorman
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110163.m3u8
+#EXTINF:-1,SUDAN TAYBA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121139.m3u8
+#EXTINF:-1,Sudan TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108083.m3u8
+#EXTINF:-1,Sudania 24
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/90132.m3u8
+#EXTINF:-1,SUHAIL TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78612.m3u8
+#EXTINF:-1,Suryoyo Sat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/77527.m3u8
+#EXTINF:-1,Syria AlEkhbaria
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105362.m3u8
+#EXTINF:-1,Syria AlOula
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95764.m3u8
+#EXTINF:-1,SYRIA DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63250.m3u8
+#EXTINF:-1,Syria Education
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147334.m3u8
+#EXTINF:-1,SYRIA EDUCATION (ElTarbaouia)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118835.m3u8
+#EXTINF:-1,Syria Educational
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196400.m3u8
+#EXTINF:-1,SYRIA FM
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193136.m3u8
+#EXTINF:-1,Syria Halab
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110151.m3u8
+#EXTINF:-1,Syria Lana
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/159673.m3u8
+#EXTINF:-1,SYRIA MEDICAL TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110152.m3u8
+#EXTINF:-1,SYRIA NEWS
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63248.m3u8
+#EXTINF:-1,Syria Nour
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116746.m3u8
+#EXTINF:-1,Syria RTV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196397.m3u8
+#EXTINF:-1,Syria Sama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105360.m3u8
+#EXTINF:-1,SYRIA SATELLITE TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/130971.m3u8
+#EXTINF:-1,SYRIA TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63251.m3u8
+#EXTINF:-1,Syriaa TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196552.m3u8
+#EXTINF:-1,SYRIAN DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114601.m3u8
+#EXTINF:-1,TAHA TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/98475.m3u8
+#EXTINF:-1,TAMAZIGHT HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63252.m3u8
+#EXTINF:-1,Tanasoh TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196448.m3u8
+#EXTINF:-1,TANASUH TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116751.m3u8
+#EXTINF:-1,TATT7
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78616.m3u8
+#EXTINF:-1,Tayba TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121732.m3u8
+#EXTINF:-1,TEBA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78617.m3u8
+#EXTINF:-1,Techno
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196368.m3u8
+#EXTINF:-1,Tele Liban TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78618.m3u8
+#EXTINF:-1,TELE MAROC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89761.m3u8
+#EXTINF:-1,Telvza TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113406.m3u8
+#EXTINF:-1,TEN TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63254.m3u8
+#EXTINF:-1,The Way
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196497.m3u8
+#EXTINF:-1,TIME CINEMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63255.m3u8
+#EXTINF:-1,Time Comedy
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63256.m3u8
+#EXTINF:-1,Time Film
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/95751.m3u8
+#EXTINF:-1,TNN (Tunisia)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63257.m3u8
+#EXTINF:-1,TNT 2M MAROC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89778.m3u8
+#EXTINF:-1,TNT AL MAGHRIBIA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89781.m3u8
+#EXTINF:-1,TNT ARRABIA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89780.m3u8
+#EXTINF:-1,TNT ASSADISSA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89782.m3u8
+#EXTINF:-1,TNT MEDI 1 TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89785.m3u8
+#EXTINF:-1,Tok Tok Aflam
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147409.m3u8
+#EXTINF:-1,Tok Tok Cinema
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146212.m3u8
+#EXTINF:-1,TOKTOK AFLAM (EGY)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78620.m3u8
+#EXTINF:-1,Toktok Cima
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/116705.m3u8
+#EXTINF:-1,Tom And Jery
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196422.m3u8
+#EXTINF:-1,TOUNESNA (TUN)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63103.m3u8
+#EXTINF:-1,Toyor Al Janah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63258.m3u8
+#EXTINF:-1,TOYOR ALJANNAH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193140.m3u8
+#EXTINF:-1,toyor Baby
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/130947.m3u8
+#EXTINF:-1,TOYOUR AL JANAH
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146138.m3u8
+#EXTINF:-1,Toyour Al Jannah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196411.m3u8
+#EXTINF:-1,Toyour baby
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196412.m3u8
+#EXTINF:-1,Toyur Al Jannah
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108090.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118529.m3u8
+#EXTINF:-1,TRT Al Arabia HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121101.m3u8
+#EXTINF:-1,TRT Arabia
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193141.m3u8
+#EXTINF:-1,TRT ARABIC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/97254.m3u8
+#EXTINF:-1,Tube Cinema
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94422.m3u8
+#EXTINF:-1,Tube Mosalsalat
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/94443.m3u8
+#EXTINF:-1,TUNISIA 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/108165.m3u8
+#EXTINF:-1,Tunisia First TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63259.m3u8
+#EXTINF:-1,TUNISIA NAT 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113460.m3u8
+#EXTINF:-1,TUNISIA NAT 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114437.m3u8
+#EXTINF:-1,Tunisia National 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147440.m3u8
+#EXTINF:-1,Tunisia National 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147441.m3u8
+#EXTINF:-1,Tunisie Nat 1 TNT
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/114656.m3u8
+#EXTINF:-1,Tunisna TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89839.m3u8
+#EXTINF:-1,TV 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135286.m3u8
+#EXTINF:-1,TV 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135287.m3u8
+#EXTINF:-1,TV A3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105310.m3u8
+#EXTINF:-1,TV Coran
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148582.m3u8
+#EXTINF:-1,Wanasa
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/155920.m3u8
+#EXTINF:-1,Wanasah TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113509.m3u8
+#EXTINF:-1,WATAN TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78631.m3u8
+#EXTINF:-1,Watanya 1 (TUN)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110137.m3u8
+#EXTINF:-1,Watanya 2 (TUN)
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110138.m3u8
+#EXTINF:-1,Watn
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110215.m3u8
+#EXTINF:-1,Wesal TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63262.m3u8
+#EXTINF:-1,Wisal Haq
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196477.m3u8
+#EXTINF:-1,Wisal Hausa TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196478.m3u8
+#EXTINF:-1,Wissal TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196479.m3u8
+#EXTINF:-1,WWE HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158864.m3u8
+#EXTINF:-1,Yahala
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147700.m3u8
+#EXTINF:-1,YAHALA CINEMA HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158842.m3u8
+#EXTINF:-1,YAHALA DRAMA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/158843.m3u8
+#EXTINF:-1,Yas Sport HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135536.m3u8
+#EXTINF:-1,YEMEN BELQEES
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/176443.m3u8
+#EXTINF:-1,Yemen Sama
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131077.m3u8
+#EXTINF:-1,Yemen Shabab
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/110171.m3u8
+#EXTINF:-1,YEMEN TODAY TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78635.m3u8
+#EXTINF:-1,Yemen TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/78632.m3u8
+#EXTINF:-1,ZAD TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/89359.m3u8
+#EXTINF:-1,Zaytoona TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/63263.m3u8
+#EXTINF:-1,ZAYTOUNA HEDAYA
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/118456.m3u8
+#EXTINF:-1,Zaytouna TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105398.m3u8
+#EXTINF:-1,Zee Aflam
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113351.m3u8
+#EXTINF:-1,Zee Alwan
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113352.m3u8
+#EXTINF:-1,Zitouna Hedaya
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/147438.m3u8
+#EXTINF:-1,Zweina Baladna
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/121143.m3u8
+#EXTINF:-1,VIP: AR - NAT GEO Wild HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198627.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 1 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197967.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 2 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197979.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 3 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197981.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 4 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197983.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 5 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197985.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 6 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197986.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 7 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197988.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 8 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197990.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 9 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197992.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 10 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197969.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 11 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/211810.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 12 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197973.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 9 HEVC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208745.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208742.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208740.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208739.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208738.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208737.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 6
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208736.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 7
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208735.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208734.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports HEVC 10
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208741.m3u8
+#EXTINF:-1,SPORT: AR - beoutQ 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198003.m3u8
+#EXTINF:-1,SPORT: AR - beoutQ 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198002.m3u8
+#EXTINF:-1,SPORT: AR - beoutQ 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198004.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197968.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197980.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197982.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197984.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 5 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198060.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 6 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197987.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 7 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197989.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 8 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197991.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 9 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198062.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 10 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197970.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 11 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197971.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 12 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197974.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports 13 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197975.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports NBA HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197999.m3u8
+#EXTINF:-1,SPORT: AR - beIN Sports News HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198000.m3u8
+#EXTINF:-1,CARTOON: AR - CARTOON NETWORK
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206227.m3u8
+#EXTINF:-1,CARTOON: AR - toyor Baby
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/209146.m3u8
+#EXTINF:-1,VIP: AR - MyHD Cinemachi Kids HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/206245.m3u8
+#EXTINF:-1,###### ARAB VIP ######
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/213060.m3u8
+#EXTINF:-1,AD SPORTS 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/111591.m3u8
+#EXTINF:-1,AD SPORTS 6 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/146941.m3u8
+#EXTINF:-1,Aghapy TV HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/196490.m3u8
+#EXTINF:-1,AJMAN TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/135485.m3u8
+#EXTINF:-1,AlGhad Al Mushreq
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/75365.m3u8
+#EXTINF:-1,Bahrain Sports 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148587.m3u8
+#EXTINF:-1,Bahrain Sports 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/148588.m3u8
+#EXTINF:-1,beIN Sports 1 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197923.m3u8
+#EXTINF:-1,beIN Sports 2 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62752.m3u8
+#EXTINF:-1,beIN Sports 3 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/164361.m3u8
+#EXTINF:-1,beIN Sports 4 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62750.m3u8
+#EXTINF:-1,beIN Sports 5 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62749.m3u8
+#EXTINF:-1,beIN Sports 6 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62748.m3u8
+#EXTINF:-1,beIN Sports 7 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62747.m3u8
+#EXTINF:-1,beIN Sports 8 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62746.m3u8
+#EXTINF:-1,beIN Sports 9 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62745.m3u8
+#EXTINF:-1,beIN Sports 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62751.m3u8
+#EXTINF:-1,beIN Sports 10 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/197924.m3u8
+#EXTINF:-1,beIN Sports 11 FHD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208709.m3u8
+#EXTINF:-1,beIN Sports 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/77965.m3u8
+#EXTINF:-1,beIN Sports 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/62259.m3u8
+#EXTINF:-1,beIN Sports 4 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/93261.m3u8
+#EXTINF:-1,beIN Sports 5 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/198058.m3u8
+#EXTINF:-1,beIN Sports 6 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/77957.m3u8
+#EXTINF:-1,beIN Sports 7 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/93264.m3u8
+#EXTINF:-1,beIN Sports 8 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/93262.m3u8
+#EXTINF:-1,beIN Sports 9 HEVC
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208744.m3u8
+#EXTINF:-1,beIN Sports HEVC 1
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208725.m3u8
+#EXTINF:-1,beIN Sports HEVC 2
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208726.m3u8
+#EXTINF:-1,beIN Sports HEVC 3
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208727.m3u8
+#EXTINF:-1,beIN Sports HEVC 4
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208728.m3u8
+#EXTINF:-1,beIN Sports HEVC 5
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208729.m3u8
+#EXTINF:-1,beIN Sports HEVC 6
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208730.m3u8
+#EXTINF:-1,beIN Sports HEVC 7
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208731.m3u8
+#EXTINF:-1,beIN Sports HEVC 8
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208732.m3u8
+#EXTINF:-1,beIN Sports HEVC 10
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/208733.m3u8
+#EXTINF:-1,beoutQ 1 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/154549.m3u8
+#EXTINF:-1,beoutQ 2 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/120965.m3u8
+#EXTINF:-1,beoutQ 3 HD
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/131563.m3u8
+#EXTINF:-1,Citruss TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/105364.m3u8
+#EXTINF:-1,Echorouk News
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/113481.m3u8
+#EXTINF:-1,QURAN TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193120.m3u8
+#EXTINF:-1,SAHAR TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193126.m3u8
+#EXTINF:-1,SAT TV
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/193128.m3u8
+#EXTINF:-1,The Savior
+http://dibo.live:8080/live/TSjNK84dAR/dAxaw2CJ96/164438.m3u8
