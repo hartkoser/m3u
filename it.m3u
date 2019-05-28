@@ -1,99 +1,65 @@
 #EXTM3U
-#EXTINF:-1,Eurosport
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9464.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9463.m3u8
-#EXTINF:-1,Fox Crime HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9462.m3u8
-#EXTINF:-1,Fox HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9461.m3u8
-#EXTINF:-1,Fox Life HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9460.m3u8
-#EXTINF:-1,Premium Action HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9459.m3u8
-#EXTINF:-1,Premium Calcio
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9458.m3u8
-#EXTINF:-1,Premium Calcio 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9457.m3u8
-#EXTINF:-1,Premium Cinema Energy
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9456.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207392.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207448.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207489.m3u8
+#EXTINF:-1,Energy HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207493.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207595.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207598.m3u8
+#EXTINF:-1,History Channel HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207599.m3u8
+#EXTINF:-1,MotoGP HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207600.m3u8
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207474.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207475.m3u8
+#EXTINF:-1,Premium Cinema Action HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207478.m3u8
+#EXTINF:-1,Premium Cinema Comedy HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207480.m3u8
+#EXTINF:-1,Premium Cinema Emotion HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207481.m3u8
+#EXTINF:-1,Premium Cinema Energy HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207482.m3u8
 #EXTINF:-1,Premium Cinema HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9455.m3u8
-#EXTINF:-1,Premium Crime HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9454.m3u8
-#EXTINF:-1,Premium Emotion HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9453.m3u8
-#EXTINF:-1,Premium Fox Sport HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9452.m3u8
-#EXTINF:-1,Premium Sport 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9451.m3u8
-#EXTINF:-1,Premium Sport HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9450.m3u8
-#EXTINF:-1,Premium Sport HD 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9449.m3u8
-#EXTINF:-1,Premium Stories HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9448.m3u8
-#EXTINF:-1,RAI 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9447.m3u8
-#EXTINF:-1,RAI 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9446.m3u8
-#EXTINF:-1,RAI 3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9445.m3u8
-#EXTINF:-1,RAI 4 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9444.m3u8
-#EXTINF:-1,RAI 5
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9443.m3u8
-#EXTINF:-1,Rai News 24
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9442.m3u8
-#EXTINF:-1,Rai Sports 1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9441.m3u8
-#EXTINF:-1,Rai Sports 2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9440.m3u8
-#EXTINF:-1,Sky Calcio 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9439.m3u8
-#EXTINF:-1,Sky Calcio 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9438.m3u8
-#EXTINF:-1,Sky Calcio 3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9437.m3u8
-#EXTINF:-1,Sky Calcio 4 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9436.m3u8
-#EXTINF:-1,Sky Cinema  24 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9435.m3u8
-#EXTINF:-1,Sky Cinema 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9434.m3u8
-#EXTINF:-1,Sky Cinema Atlantic HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9433.m3u8
-#EXTINF:-1,Sky Cinema Classic HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9432.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9431.m3u8
-#EXTINF:-1,Sky Cinema Cult HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9430.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9429.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9428.m3u8
-#EXTINF:-1,Sky Cinema Max HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9427.m3u8
-#EXTINF:-1,SKY Cinema Passion HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9426.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9425.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9424.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9423.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9422.m3u8
-#EXTINF:-1,Sky Sport F1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9421.m3u8
-#EXTINF:-1,Sky Sport MotoGP HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9420.m3u8
-#EXTINF:-1,Sky Supercalcio
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9419.m3u8
-#EXTINF:-1,Sky Supertennis
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9418.m3u8
-#EXTINF:-1,Sky Uno HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9417.m3u8
-#EXTINF:-1,Sport Italia
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9416.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207483.m3u8
+#EXTINF:-1,Premium Cinema Plus 24
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207485.m3u8
+#EXTINF:-1,PREMIUM CINEMA STORIES
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207487.m3u8
+#EXTINF:-1,Premium Crime FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207488.m3u8
+#EXTINF:-1,PrimaFila 1 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207495.m3u8
+#EXTINF:-1,PrimaFila 2 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207505.m3u8
+#EXTINF:-1,PrimaFila 3 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207506.m3u8
+#EXTINF:-1,PrimaFila 4 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207507.m3u8
+#EXTINF:-1,PrimaFila 5 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207508.m3u8
+#EXTINF:-1,Rai MOVIE HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207573.m3u8
+#EXTINF:-1,Rai Premium HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207577.m3u8
+#EXTINF:-1,SKY CINEMA Action HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207587.m3u8
+#EXTINF:-1,Sky Cinema Atlantic 1 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207580.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207582.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207585.m3u8
+#EXTINF:-1,SKY CINEMA HITS HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207586.m3u8
+#EXTINF:-1,Sky Cinema Romance HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207588.m3u8
+#EXTINF:-1,SKY CINEMA UNO +24 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207579.m3u8
