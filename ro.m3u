@@ -1,247 +1,299 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20085.m3u8
-#EXTINF:-1,6 TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20020.m3u8
-#EXTINF:-1,Acasa Gold TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20084.m3u8
-#EXTINF:-1,ACASA MOLDAVIA TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20019.m3u8
-#EXTINF:-1,Acasa Tv
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20083.m3u8
-#EXTINF:-1,ACUM TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20018.m3u8
-#EXTINF:-1,Alfa & Omega Tv
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20017.m3u8
-#EXTINF:-1,Alpha Media TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20016.m3u8
-#EXTINF:-1,Antena 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20082.m3u8
-#EXTINF:-1,Antena 1 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20116.m3u8
-#EXTINF:-1,Antena 3
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20081.m3u8
+#EXTINF:-1,MY: Astro Arena [VIP]
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/141646.m3u8
 #EXTINF:-1,Antena 3 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20115.m3u8
-#EXTINF:-1,Antena Stars
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20080.m3u8
-#EXTINF:-1,Antena STARS HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20114.m3u8
-#EXTINF:-1,ATV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20015.m3u8
-#EXTINF:-1,AXN
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20079.m3u8
-#EXTINF:-1,AXN White
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20078.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20112.m3u8
-#EXTINF:-1,B1 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20111.m3u8
-#EXTINF:-1,B1 Tv
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20077.m3u8
-#EXTINF:-1,Bit TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20014.m3u8
-#EXTINF:-1,Cinemax
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20076.m3u8
-#EXTINF:-1,Cinemax 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20075.m3u8
-#EXTINF:-1,Credo TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20013.m3u8
-#EXTINF:-1,Cromtel TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20012.m3u8
-#EXTINF:-1,Cromtel TV HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20074.m3u8
-#EXTINF:-1,Dibi Tv
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20011.m3u8
-#EXTINF:-1,DIGI 24 Craiova
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20110.m3u8
-#EXTINF:-1,Digi 24 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20109.m3u8
-#EXTINF:-1,Digi Animal World
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20073.m3u8
-#EXTINF:-1,DIGI FILM
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20072.m3u8
-#EXTINF:-1,Digi Film HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20108.m3u8
-#EXTINF:-1,Digi Life
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20071.m3u8
-#EXTINF:-1,Digi Life HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20107.m3u8
-#EXTINF:-1,Digi Sport 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20070.m3u8
-#EXTINF:-1,DIGI SPORT 1 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20106.m3u8
-#EXTINF:-1,Digi Sport 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20069.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155448.m3u8
+#EXTINF:-1,AXN HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/90209.m3u8
+#EXTINF:-1,AXN Spin
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211001.m3u8
+#EXTINF:-1,Balkanika
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211024.m3u8
+#EXTINF:-1,Comedy Central
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211003.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112916.m3u8
+#EXTINF:-1,Digi Sport 1 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210972.m3u8
 #EXTINF:-1,Digi Sport 2 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20105.m3u8
-#EXTINF:-1,Digi Sport 3
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20068.m3u8
-#EXTINF:-1,Digi Sport 3 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20104.m3u8
-#EXTINF:-1,Digi Sport 4
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20067.m3u8
-#EXTINF:-1,Digi Sport 4 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20103.m3u8
-#EXTINF:-1,Digi World
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20066.m3u8
-#EXTINF:-1,Digi World HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20096.m3u8
-#EXTINF:-1,Digi24 TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20009.m3u8
-#EXTINF:-1,Disney Channel
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20065.m3u8
-#EXTINF:-1,Disney Junior
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20064.m3u8
-#EXTINF:-1,Etno TV HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20063.m3u8
-#EXTINF:-1,Eurosport 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20062.m3u8
-#EXTINF:-1,Eurosport 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20061.m3u8
-#EXTINF:-1,Favorit TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20060.m3u8
-#EXTINF:-1,Film Cafe
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20059.m3u8
-#EXTINF:-1,Happy Channel
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20058.m3u8
-#EXTINF:-1,HBO
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20057.m3u8
-#EXTINF:-1,HBO 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20056.m3u8
-#EXTINF:-1,HBO 3
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20055.m3u8
-#EXTINF:-1,History Channel
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20054.m3u8
-#EXTINF:-1,HIT CH
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20008.m3u8
-#EXTINF:-1,Hora TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20053.m3u8
-#EXTINF:-1,Iasi TV Life
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20007.m3u8
-#EXTINF:-1,INFORMATIA TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20006.m3u8
-#EXTINF:-1,Intermedia TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20005.m3u8
-#EXTINF:-1,Kanal D
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20052.m3u8
-#EXTINF:-1,KANAL D HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20095.m3u8
-#EXTINF:-1,Kiss TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20004.m3u8
-#EXTINF:-1,LASI TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20003.m3u8
-#EXTINF:-1,Look Plus
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20051.m3u8
-#EXTINF:-1,Look Sport
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20050.m3u8
-#EXTINF:-1,Megamax
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20049.m3u8
-#EXTINF:-1,Minimax
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20048.m3u8
-#EXTINF:-1,MISA TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20002.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210974.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112928.m3u8
+#EXTINF:-1,Diva
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211004.m3u8
+#EXTINF:-1,Extreme Sport
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210985.m3u8
+#EXTINF:-1,Film Box
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210991.m3u8
+#EXTINF:-1,Film Box Extra HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210992.m3u8
+#EXTINF:-1,Film Caf
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210993.m3u8
+#EXTINF:-1,Film Mania
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/208960.m3u8
+#EXTINF:-1,Filmbox Family
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210994.m3u8
+#EXTINF:-1,FilmBox Plus INT
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210995.m3u8
+#EXTINF:-1,FilmBox Premium
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112952.m3u8
+#EXTINF:-1,HBO 1
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210997.m3u8
+#EXTINF:-1,Hit Music
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/133932.m3u8
+#EXTINF:-1,Impact TV HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/208962.m3u8
+#EXTINF:-1,Investigation Disvovery
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211028.m3u8
+#EXTINF:-1,JimJam
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/208963.m3u8
+#EXTINF:-1,Mooz
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211039.m3u8
+#EXTINF:-1,MTV Dance
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112977.m3u8
+#EXTINF:-1,MTV Hits
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112978.m3u8
 #EXTINF:-1,Music Channel
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20047.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20046.m3u8
-#EXTINF:-1,National 24 Plus
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20045.m3u8
-#EXTINF:-1,National Geographic
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20044.m3u8
-#EXTINF:-1,National TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20043.m3u8
-#EXTINF:-1,NeptunTV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20042.m3u8
-#EXTINF:-1,Nickelodeon
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20041.m3u8
-#EXTINF:-1,Prima TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20094.m3u8
-#EXTINF:-1,Pro Cinema HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20093.m3u8
-#EXTINF:-1,PRO TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20001.m3u8
-#EXTINF:-1,PRO TV NEWS
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20000.m3u8
-#EXTINF:-1,Pro X
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20040.m3u8
-#EXTINF:-1,ProTV HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20092.m3u8
-#EXTINF:-1,REALITATAE TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20091.m3u8
-#EXTINF:-1,Realitatea Plus TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19999.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211040.m3u8
+#EXTINF:-1,Nick Junior
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/118377.m3u8
+#EXTINF:-1,PRO TV International
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211012.m3u8
 #EXTINF:-1,Realitatea Tv
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20039.m3u8
-#EXTINF:-1,Romania Tv
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20038.m3u8
-#EXTINF:-1,Romania TV HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20090.m3u8
-#EXTINF:-1,Sangeorz TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19998.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/197048.m3u8
 #EXTINF:-1,Somax TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19997.m3u8
-#EXTINF:-1,Speranta TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19996.m3u8
-#EXTINF:-1,Suceava TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19995.m3u8
-#EXTINF:-1,Taraf TV HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20037.m3u8
-#EXTINF:-1,Tele M
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19994.m3u8
-#EXTINF:-1,TELE MOLDOVA
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19993.m3u8
-#EXTINF:-1,Telekom Sport 1 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20036.m3u8
-#EXTINF:-1,Telekom Sport 1 HD (On-Demand)
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20102.m3u8
-#EXTINF:-1,Telekom Sport 2 HD (On-Demand)
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20101.m3u8
-#EXTINF:-1,TELEKOM SPORT 3 HD (On-Demand)
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20100.m3u8
-#EXTINF:-1,TELEKOM SPORT 4 HD (On-Demand)
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20099.m3u8
-#EXTINF:-1,Telekom Sport 5 HD (On-Demand)
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20098.m3u8
-#EXTINF:-1,Telekom Sport 6 HD (On-Demand)
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20097.m3u8
-#EXTINF:-1,Telestar 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19992.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112998.m3u8
+#EXTINF:-1,Sundance TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/145812.m3u8
+#EXTINF:-1,TELEKOM SPORT 5 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210978.m3u8
+#EXTINF:-1,TELEKOM SPORT 6 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210980.m3u8
+#EXTINF:-1,The Voice
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211041.m3u8
 #EXTINF:-1,Travel Mix
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20030.m3u8
-#EXTINF:-1,Travel Mix TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19991.m3u8
-#EXTINF:-1,TV 1000
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20029.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211034.m3u8
+#EXTINF:-1,Tv
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211020.m3u8
+#EXTINF:-1,TVR Cluj
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207679.m3u8
+#EXTINF:-1,TVR Craiova
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207680.m3u8
+#EXTINF:-1,TVR Iasi
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207681.m3u8
+#EXTINF:-1,TVR Int
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211016.m3u8
+#EXTINF:-1,TVR Tg Mures
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207682.m3u8
+#EXTINF:-1,TVR Timisoara
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207683.m3u8
+#EXTINF:-1,Viasat HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211031.m3u8
+#EXTINF:-1,###### ROMANIA ######
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/213067.m3u8
+#EXTINF:-1,1 Music Channel
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/184564.m3u8
+#EXTINF:-1,Acasa HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/209570.m3u8
+#EXTINF:-1,Agro TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75025.m3u8
+#EXTINF:-1,AMC
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63031.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63030.m3u8
+#EXTINF:-1,Antena 1 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155447.m3u8
+#EXTINF:-1,Antena International
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211007.m3u8
+#EXTINF:-1,Antena Star HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/134500.m3u8
+#EXTINF:-1,Arena Sport 1
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210031.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210032.m3u8
+#EXTINF:-1,Arena Sport 3 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210033.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210917.m3u8
+#EXTINF:-1,Auto Motor Sport FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/207647.m3u8
+#EXTINF:-1,AXN BLACK
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112894.m3u8
+#EXTINF:-1,AXN White HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/90210.m3u8
+#EXTINF:-1,B1 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/98558.m3u8
+#EXTINF:-1,BBC Earth HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112899.m3u8
+#EXTINF:-1,Boomerang
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63029.m3u8
+#EXTINF:-1,Canal D
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155207.m3u8
+#EXTINF:-1,Cartoon Network
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63027.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63026.m3u8
+#EXTINF:-1,Cinemax HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63024.m3u8
+#EXTINF:-1,DIBI TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62992.m3u8
+#EXTINF:-1,Digi 24 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63016.m3u8
+#EXTINF:-1,Digi ANIMAL WORLD HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63015.m3u8
+#EXTINF:-1,Digi FILM HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210989.m3u8
+#EXTINF:-1,Digi Film NOW HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155777.m3u8
+#EXTINF:-1,Digi Life
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63013.m3u8
+#EXTINF:-1,Digi Sport 1 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/65872.m3u8
+#EXTINF:-1,Digi Sport 2 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/65871.m3u8
+#EXTINF:-1,Digi Sport 3 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210975.m3u8
+#EXTINF:-1,Digi Sport 3 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/65870.m3u8
+#EXTINF:-1,DIGI SPORT 4 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/110982.m3u8
+#EXTINF:-1,Digi Sport 4 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210977.m3u8
+#EXTINF:-1,Digi WORLD HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63012.m3u8
+#EXTINF:-1,Discovery Channel
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63011.m3u8
+#EXTINF:-1,Discovery Science HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63010.m3u8
+#EXTINF:-1,Disney Channel
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63009.m3u8
+#EXTINF:-1,Disney Junior
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63008.m3u8
+#EXTINF:-1,Etno HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/156195.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/145815.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62973.m3u8
+#EXTINF:-1,FAVORIT TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/90218.m3u8
+#EXTINF:-1,Film Cafe
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/160927.m3u8
+#EXTINF:-1,Fishing & Hunting HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75030.m3u8
+#EXTINF:-1,Food Network HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/112954.m3u8
+#EXTINF:-1,HAPPY CHANNEL HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/98561.m3u8
+#EXTINF:-1,HBO 2 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63006.m3u8
+#EXTINF:-1,HBO 3 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63005.m3u8
+#EXTINF:-1,HBO HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63004.m3u8
+#EXTINF:-1,History Channel
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63001.m3u8
+#EXTINF:-1,Kanal D HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155780.m3u8
+#EXTINF:-1,KISS TV HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62989.m3u8
+#EXTINF:-1,Look Plus HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75031.m3u8
+#EXTINF:-1,Look Sport TV FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155781.m3u8
+#EXTINF:-1,Mania TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211784.m3u8
+#EXTINF:-1,MegaMax HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75033.m3u8
+#EXTINF:-1,Minimax
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/156199.m3u8
+#EXTINF:-1,MTV Rocks
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211781.m3u8
+#EXTINF:-1,Music 1 Channel
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/192689.m3u8
+#EXTINF:-1,NAT GEO
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75035.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63000.m3u8
+#EXTINF:-1,National TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/66907.m3u8
+#EXTINF:-1,Neptun TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75036.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62996.m3u8
+#EXTINF:-1,Paramount Channel
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62988.m3u8
+#EXTINF:-1,Pink Romance
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/211782.m3u8
+#EXTINF:-1,Prima
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/98565.m3u8
+#EXTINF:-1,Prima Cool
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75037.m3u8
+#EXTINF:-1,PRO 2 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75024.m3u8
+#EXTINF:-1,Pro Cinema HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62995.m3u8
+#EXTINF:-1,PRO GOLD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/206450.m3u8
+#EXTINF:-1,PRO TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/66902.m3u8
+#EXTINF:-1,PRO X HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62972.m3u8
+#EXTINF:-1,Realite TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/184575.m3u8
+#EXTINF:-1,RO TVR 3
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/210894.m3u8
+#EXTINF:-1,Romania TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155782.m3u8
+#EXTINF:-1,STARS
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/198010.m3u8
+#EXTINF:-1,Taraf HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/66899.m3u8
+#EXTINF:-1,Tele Moldova Plus
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/98569.m3u8
+#EXTINF:-1,TELEKOM SPORT 1 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62979.m3u8
+#EXTINF:-1,TELEKOM SPORT 2 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62978.m3u8
+#EXTINF:-1,TELEKOM SPORT 3 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/89362.m3u8
+#EXTINF:-1,TELEKOM SPORT 4 FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/113005.m3u8
+#EXTINF:-1,TELESHOP TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62987.m3u8
+#EXTINF:-1,The Fishing & Hunting
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/124898.m3u8
+#EXTINF:-1,TLC
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/113010.m3u8
+#EXTINF:-1,TNT
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/90215.m3u8
+#EXTINF:-1,Travel Channel FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/113012.m3u8
+#EXTINF:-1,TRINITAS TV
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75039.m3u8
 #EXTINF:-1,TV 1000 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20089.m3u8
-#EXTINF:-1,TV Buzau
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19990.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62993.m3u8
 #EXTINF:-1,TV Paprika
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20028.m3u8
-#EXTINF:-1,TV PUBLIKA
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19989.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155783.m3u8
 #EXTINF:-1,TV5 Monde
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20086.m3u8
-#EXTINF:-1,TVR
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19988.m3u8
-#EXTINF:-1,TVR 1
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20027.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/90214.m3u8
 #EXTINF:-1,TVR 1 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20088.m3u8
-#EXTINF:-1,TVR 2
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20026.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/146493.m3u8
 #EXTINF:-1,TVR 2 HD
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20087.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155784.m3u8
+#EXTINF:-1,TVR 3 HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/62983.m3u8
+#EXTINF:-1,TVR HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/160928.m3u8
 #EXTINF:-1,TVR International
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20025.m3u8
-#EXTINF:-1,U TV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20024.m3u8
-#EXTINF:-1,UTV
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/19987.m3u8
-#EXTINF:-1,Viasat Explore
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20023.m3u8
-#EXTINF:-1,Viasat History
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20022.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/208976.m3u8
+#EXTINF:-1,UTV HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/75040.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/98571.m3u8
+#EXTINF:-1,Viasat History FHD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/63003.m3u8
 #EXTINF:-1,Viasat Nature
-http://quisqueyatv.live:25461/live/ecuaplay/TIk0JZ8rNi/20021.m3u8
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/155785.m3u8
+#EXTINF:-1,ZU TV HD
+http://dibo.live:8080/live/rlzegPa2uZ/aP24qLa5UX/113024.m3u8
