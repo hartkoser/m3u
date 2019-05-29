@@ -1,139 +1,971 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2568.m3u8
-#EXTINF:-1,Bein Sport News HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2567.m3u8
-#EXTINF:-1,Bein Sport HD1 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/127.m3u8
-#EXTINF:-1,Bein Sport HD2 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/128.m3u8
-#EXTINF:-1,Bein Sport HD3 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/129.m3u8
-#EXTINF:-1,Bein Sport HD4 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/130.m3u8
-#EXTINF:-1,Bein Sport HD5 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/132.m3u8
-#EXTINF:-1,Bein Sport HD6 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/133.m3u8
-#EXTINF:-1,Bein Sport HD8 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/135.m3u8
-#EXTINF:-1,Bein Sport HD7 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/134.m3u8
-#EXTINF:-1,Bein Sport HD9 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/186.m3u8
-#EXTINF:-1,Bein Sport HD10 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/187.m3u8
-#EXTINF:-1,Bein Sport HD11 EN 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/188.m3u8
-#EXTINF:-1,Bein Sport HD12 EN 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/189.m3u8
-#EXTINF:-1,Bein Sport HD13 EN 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1694.m3u8
-#EXTINF:-1,Bein Sport HD14 Fr 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2555.m3u8
-#EXTINF:-1,Bein Sport HD15 Fr 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4763.m3u8
-#EXTINF:-1,Bein Sport HD16 Fr 1080i
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4762.m3u8
-#EXTINF:-1,Bein Sport NBA HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6434.m3u8
-#EXTINF:-1,Bein Sport HD1 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9022.m3u8
-#EXTINF:-1,Bein Sport HD2 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9021.m3u8
-#EXTINF:-1,Bein Sport HD3 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9020.m3u8
-#EXTINF:-1,Bein Sport HD4 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9019.m3u8
-#EXTINF:-1,Bein Sport HD5 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9018.m3u8
-#EXTINF:-1,Bein Sport HD6 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9017.m3u8
-#EXTINF:-1,Bein Sport HD7 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9016.m3u8
-#EXTINF:-1,Bein Sport HD8 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9015.m3u8
-#EXTINF:-1,Bein Sport HD9 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9014.m3u8
-#EXTINF:-1,Bein Sport HD10 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9013.m3u8
-#EXTINF:-1,Bein Sport HD11 EN 720P
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9012.m3u8
-#EXTINF:-1,bein Sport SD1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1913.m3u8
-#EXTINF:-1,Bein Sport SD2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1914.m3u8
-#EXTINF:-1,Bein Sport SD3
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1915.m3u8
-#EXTINF:-1,Bein Sport SD4
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1916.m3u8
-#EXTINF:-1,Bein Sport SD5
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1917.m3u8
-#EXTINF:-1,Bein Sport SD6
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1918.m3u8
-#EXTINF:-1,Bein Sport SD7
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1919.m3u8
-#EXTINF:-1,Bein Sport SD8
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1920.m3u8
-#EXTINF:-1,Bein Sport SD9
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1921.m3u8
-#EXTINF:-1,Bein Sport SD10
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1922.m3u8
-#EXTINF:-1,Bein Sport SD11
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/1923.m3u8
-#EXTINF:-1,Bein Alkass 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7045.m3u8
-#EXTINF:-1,Bein Alkass 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7046.m3u8
-#EXTINF:-1,Bein Alkass 3 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14446.m3u8
-#EXTINF:-1,Bein Alkass 4 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7047.m3u8
-#EXTINF:-1,Bein Alkass 5 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7050.m3u8
-#EXTINF:-1,Bein Movies HD1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2151.m3u8
-#EXTINF:-1,Bein Movies HD2
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2303.m3u8
-#EXTINF:-1,Bein Movies HD3
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4068.m3u8
-#EXTINF:-1,Bein Movies HD4
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2712.m3u8
-#EXTINF:-1,Bein Series 1 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/6560.m3u8
-#EXTINF:-1,Bein Series 2 HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9028.m3u8
-#EXTINF:-1,Bein Drama HD1
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9031.m3u8
-#EXTINF:-1,Bein AMC HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7136.m3u8
-#EXTINF:-1,Bein HGTV HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7138.m3u8
-#EXTINF:-1,Bein Discovery Life HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9023.m3u8
-#EXTINF:-1,Bein Discovery Max HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9026.m3u8
-#EXTINF:-1,Bein Discovery Turbo Xtra
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9025.m3u8
-#EXTINF:-1,Bein Discovery Kids HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9027.m3u8
-#EXTINF:-1,Bein BBC earth HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10723.m3u8
-#EXTINF:-1,Bein Fatafeat HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2714.m3u8
-#EXTINF:-1,Bein Gourmet HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/7541.m3u8
-#EXTINF:-1,Bein Boomerang HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/9029.m3u8
-#EXTINF:-1,Bein Cartoon Network HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/10152.m3u8
-#EXTINF:-1,Bein Jeem HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2713.m3u8
-#EXTINF:-1,Bein Fine Living HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14426.m3u8
-#EXTINF:-1,Bein Baraem HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/2715.m3u8
-#EXTINF:-1,Bein Food Network HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/14425.m3u8
-#EXTINF:-1,Bein Bejunior HD
-http://linux-app.tv:6204/live/12006036/mhamad-gazal07606739/4760.m3u8
+#EXTINF:0,|AR| BEINSPORTS NEWS HD
+http://siptv-online.com:8789/Julien90/Julien90/24979
+#EXTINF:0,|AR| BEINSPORTS HD
+http://siptv-online.com:8789/Julien90/Julien90/24980
+#EXTINF:0,|AR| BEINSPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/13688
+#EXTINF:0,|AR| BEINSPORTS BKP1
+http://siptv-online.com:8789/Julien90/Julien90/13687
+#EXTINF:0,|AR| BEINSPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/13686
+#EXTINF:0,|AR| BEINSPORTS BKP2
+http://siptv-online.com:8789/Julien90/Julien90/13685
+#EXTINF:0,|AR| BEINSPORT 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/13684
+#EXTINF:0,|AR| BEINSPORTS BKP3
+http://siptv-online.com:8789/Julien90/Julien90/13683
+#EXTINF:0,|AR| BEINSPORT 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/13682
+#EXTINF:0,|AR| BEINSPORTS BKP4
+http://siptv-online.com:8789/Julien90/Julien90/13681
+#EXTINF:0,|AR| BEINSPORT 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/13680
+#EXTINF:0,|AR| BEINSPORTS BKP5
+http://siptv-online.com:8789/Julien90/Julien90/13679
+#EXTINF:0,|AR| BEINSPORT 6 HD
+http://siptv-online.com:8789/Julien90/Julien90/13678
+#EXTINF:0,|AR| BEINSPORTS BKP6
+http://siptv-online.com:8789/Julien90/Julien90/13677
+#EXTINF:0,|AR| BEINSPORT 7 HD
+http://siptv-online.com:8789/Julien90/Julien90/13676
+#EXTINF:0,|AR| BEINSPORTS BKP7
+http://siptv-online.com:8789/Julien90/Julien90/13675
+#EXTINF:0,|AR| BEINSPORT 8 HD
+http://siptv-online.com:8789/Julien90/Julien90/13674
+#EXTINF:0,|AR| BEINSPORTS BKP8
+http://siptv-online.com:8789/Julien90/Julien90/13673
+#EXTINF:0,|AR| BEINSPORT 9 HD
+http://siptv-online.com:8789/Julien90/Julien90/13672
+#EXTINF:0,|AR| BEINSPORTS 9 BKP
+http://siptv-online.com:8789/Julien90/Julien90/13587
+#EXTINF:0,|AR| BEINSPORT 10 HD
+http://siptv-online.com:8789/Julien90/Julien90/13670
+#EXTINF:0,|AR| BEINSPORTS BKP10
+http://siptv-online.com:8789/Julien90/Julien90/13669
+#EXTINF:0,|AR| BEINSPORTS HD11
+http://siptv-online.com:8789/Julien90/Julien90/24977
+#EXTINF:0,|AR| BEINSPORTS HD13
+http://siptv-online.com:8789/Julien90/Julien90/21202
+#EXTINF:0,|AR| BEINSPORTS HD14
+http://siptv-online.com:8789/Julien90/Julien90/21201
+#EXTINF:0,|AR| BEINSPORTS HD15
+http://siptv-online.com:8789/Julien90/Julien90/21200
+#EXTINF:0,|AR| BEINSPORTS HD16
+http://siptv-online.com:8789/Julien90/Julien90/21199
+#EXTINF:0,|AR| BEINSPORTS HD17
+http://siptv-online.com:8789/Julien90/Julien90/21198
+#EXTINF:0,|AR| BEINSPORTS MAX 1.HD
+http://siptv-online.com:8789/Julien90/Julien90/28065
+#EXTINF:0,|AR| BEINSPORTS MAX 1 BKP
+http://siptv-online.com:8789/Julien90/Julien90/13667
+#EXTINF:0,|AR| BEINSPORTS MAX 2.HD
+http://siptv-online.com:8789/Julien90/Julien90/28064
+#EXTINF:0,|AR| BEINSPORTS MAX 2 BKP
+http://siptv-online.com:8789/Julien90/Julien90/13665
+#EXTINF:0,|AR|****BEINSPORT FHD ****|AR|
+http://siptv-online.com:8789/Julien90/Julien90/24981
+#EXTINF:0,|AR| BEINSPORT 1 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13611
+#EXTINF:0,|AR| BEINSPORT 2 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13610
+#EXTINF:0,|AR| BEINSPORT 3 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13609
+#EXTINF:0,|AR| BEINSPORT 4 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13608
+#EXTINF:0,|AR| BEINSPORT 5 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13607
+#EXTINF:0,|AR| BEINSPORT 6 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13606
+#EXTINF:0,|AR| BEINSPORT 7 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13605
+#EXTINF:0,|AR| BEINSPORT 8 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13604
+#EXTINF:0,|AR| BEINSPORT 9 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13603
+#EXTINF:0,|AR| BEINSPORT 10 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13602
+#EXTINF:0,|AR|*****BEOUTQ SPORTS*****|AR|
+http://siptv-online.com:8789/Julien90/Julien90/28659
+#EXTINF:0,|AR| BEOUTQ SPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/28658
+#EXTINF:0,|AR| BEOUTQ SPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/28657
+#EXTINF:0,|AR| BEOUTQ SPORT 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/28656
+#EXTINF:0,|AR| BEOUTQ SPORT 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/28655
+#EXTINF:0,|AR| BEOUTQ SPORT 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/28654
+#EXTINF:0,|AR| BEOUTQ SPORT 6 HD
+http://siptv-online.com:8789/Julien90/Julien90/28653
+#EXTINF:0,|AR|*****BEINSPORT SD*****|AR|
+http://siptv-online.com:8789/Julien90/Julien90/24982
+#EXTINF:0,|AR| BEINSPORTS 1  SD
+http://siptv-online.com:8789/Julien90/Julien90/13601
+#EXTINF:0,|AR| BEINSPORTS 2  SD
+http://siptv-online.com:8789/Julien90/Julien90/13612
+#EXTINF:0,|AR| BEINSPORTS 3  SD
+http://siptv-online.com:8789/Julien90/Julien90/13613
+#EXTINF:0,|AR| BEINSPORTS 4  SD
+http://siptv-online.com:8789/Julien90/Julien90/13614
+#EXTINF:0,|AR| BEINSPORTS 5  SD
+http://siptv-online.com:8789/Julien90/Julien90/13615
+#EXTINF:0,|AR| BEINSPORTS 6  SD
+http://siptv-online.com:8789/Julien90/Julien90/13616
+#EXTINF:0,|AR| BEINSPORTS 7 SD
+http://siptv-online.com:8789/Julien90/Julien90/13617
+#EXTINF:0,|AR| BEINSPORTS 8 SD
+http://siptv-online.com:8789/Julien90/Julien90/13618
+#EXTINF:0,|AR| BEINSPORTS 9  SD
+http://siptv-online.com:8789/Julien90/Julien90/13641
+#EXTINF:0,|AR| BEINSPORTS 10  SD
+http://siptv-online.com:8789/Julien90/Julien90/13642
+#EXTINF:0,|AR| BEINSPORTS 11  SD
+http://siptv-online.com:8789/Julien90/Julien90/13643
+#EXTINF:0,|FR|***SPORT***|FR|
+http://siptv-online.com:8789/Julien90/Julien90/24929
+#EXTINF:0,|FR| RMC SPORT NEWS FHD
+http://siptv-online.com:8789/Julien90/Julien90/35031
+#EXTINF:0,|FR| RMC SPORT 1FHD
+http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41001
+#EXTINF:0,|FR| RMC SPORT 1HD
+http://siptv-online.com:8789/Julien90/Julien90/32718
+#EXTINF:0,|FR| RMC SPORT 1 SD
+http://siptv-online.com:8789/Julien90/Julien90/39589
+#EXTINF:0,|FR| RMC SPORT ACCESS 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/37931
+#EXTINF:0,|FR| RMC SPORT 2FHD
+http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41000
+#EXTINF:0,|FR| RMC SPORT 2HD
+http://siptv-online.com:8789/Julien90/Julien90/32719
+#EXTINF:0,|FR| RMC SPORT 2 SD
+http://siptv-online.com:8789/Julien90/Julien90/39588
+#EXTINF:0,|FR| RMC SPORT ACCESS 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/37930
+#EXTINF:0,|FR| RMC SPORT 3FHD
+http://siptv-online.com:8789/Julien90/Julien90/32715
+#EXTINF:0,|FR| RMC SPORT 3HD
+http://siptv-online.com:8789/Julien90/Julien90/32720
+#EXTINF:0,|FR| RMC SPORT 3 SD
+http://siptv-online.com:8789/Julien90/Julien90/39587
+#EXTINF:0,|FR| RMC SPORT ACCESS 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/37929
+#EXTINF:0,|FR| RMC SPORT 4FHD
+http://siptv-online.com:8789/Julien90/Julien90/32716
+#EXTINF:0,|FR| RMC SPORT 4HD
+http://siptv-online.com:8789/Julien90/Julien90/32721
+#EXTINF:0,|FR| RMC SPORT 4 SD
+http://siptv-online.com:8789/Julien90/Julien90/39586
+#EXTINF:0,|FR| RMC SPORT 4K
+http://siptv-online.com:8789/Julien90/Julien90/37942
+#EXTINF:0,|FR| RMC SPORT LIVE 5 FHD
+http://siptv-online.com:8789/Julien90/Julien90/32717
+#EXTINF:0,|FR| RMC SPORT LIVE 6 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37941
+#EXTINF:0,|FR| RMC SPORT LIVE 7 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37940
+#EXTINF:0,|FR| RMC SPORT LIVE 8 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37939
+#EXTINF:0,|FR| RMC SPORT LIVE 9 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37938
+#EXTINF:0,|FR| RMC SPORT LIVE 10 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37937
+#EXTINF:0,|FR| RMC SPORT LIVE 11 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37936
+#EXTINF:0,|FR| RMC SPORT LIVE 12 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37935
+#EXTINF:0,|FR| RMC SPORT LIVE 13 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37934
+#EXTINF:0,|FR| RMC SPORT LIVE 14 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37933
+#EXTINF:0,|FR| RMC SPORT LIVE 15 FHD
+http://siptv-online.com:8789/Julien90/Julien90/37932
+#EXTINF:0,|FR| RMC SPORT LIVE 16 FHD
+http://siptv-online.com:8789/Julien90/Julien90/35340
+#EXTINF:0,|FR| BEINSPORTS 1 F.HD
+http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41005
+#EXTINF:0,|FR| BEINSPORTS 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/28941
+#EXTINF:0,|FR| BEINSPORT 1 SD
+http://siptv-online.com:8789/Julien90/Julien90/92
+#EXTINF:0,|FR| BEINSPORTS 2 F.HD
+http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41004
+#EXTINF:0,|FR| BEINSPORTS 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/28943
+#EXTINF:0,|FR| BEINSPORT 2 SD
+http://siptv-online.com:8789/Julien90/Julien90/93
+#EXTINF:0,|FR| BEINSPORTS 3 F.HD
+http://siptv-online.com:8789/Julien90/Julien90/14158
+#EXTINF:0,|FR| BEINSPORTS 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/14163
+#EXTINF:0,|FR| BEINSPORT 3 SD
+http://siptv-online.com:8789/Julien90/Julien90/94
+#EXTINF:0,|FR| BEINSPORT MAX 4
+http://siptv-online.com:8789/Julien90/Julien90/95
+#EXTINF:0,|FR| BEINSPORT MAX 5
+http://siptv-online.com:8789/Julien90/Julien90/39882
+#EXTINF:0,|FR| BEINSPORT MAX 6
+http://siptv-online.com:8789/Julien90/Julien90/1089
+#EXTINF:0,|FR| BEINSPORT MAX 7
+http://siptv-online.com:8789/Julien90/Julien90/1113
+#EXTINF:0,|FR| BEINSPORT MAX 8
+http://siptv-online.com:8789/Julien90/Julien90/1468
+#EXTINF:0,|FR| BEINSPORT MAX 9
+http://siptv-online.com:8789/Julien90/Julien90/1469
+#EXTINF:0,|FR| BEIN SPORT MAX 10
+http://siptv-online.com:8789/Julien90/Julien90/1470
+#EXTINF:0,|FR| CANAL+ SPORT F.HD
+http://siptv-online.com:8789/Julien90/Julien90/14156
+#EXTINF:0,|FR| CANAL+ SPORT HD
+http://siptv-online.com:8789/Julien90/Julien90/14161
+#EXTINF:0,|FR| SPORT 365 FHD
+http://siptv-online.com:8789/Julien90/Julien90/25040
+#EXTINF:0,|FR| FOOT+
+http://siptv-online.com:8789/Julien90/Julien90/13937
+#EXTINF:0,|FR| FOOT+24 SD
+http://siptv-online.com:8789/Julien90/Julien90/425
+#EXTINF:0,|FR| FOOT  HD
+http://siptv-online.com:8789/Julien90/Julien90/13936
+#EXTINF:0,|FR| ONZEO FHD
+http://siptv-online.com:8789/Julien90/Julien90/13786
+#EXTINF:0,|FR| MULTISPORTS 1
+http://siptv-online.com:8789/Julien90/Julien90/13807
+#EXTINF:0,|FR| MULTISPORTS 2
+http://siptv-online.com:8789/Julien90/Julien90/13802
+#EXTINF:0,|FR| MULTISPORTS 3
+http://siptv-online.com:8789/Julien90/Julien90/13806
+#EXTINF:0,|FR| MULTISPORTS 4
+http://siptv-online.com:8789/Julien90/Julien90/13805
+#EXTINF:0,|FR| MULTISPORTS 5
+http://siptv-online.com:8789/Julien90/Julien90/13804
+#EXTINF:0,|FR| MULTISPORTS 6
+http://siptv-online.com:8789/Julien90/Julien90/13803
+#EXTINF:0,|FR| BFM SPORT FHD
+http://siptv-online.com:8789/Julien90/Julien90/13843
+#EXTINF:0,|FR| BFM SPORTS HD
+http://siptv-online.com:8789/Julien90/Julien90/13943
+#EXTINF:0,|FR| BFM HD
+http://siptv-online.com:8789/Julien90/Julien90/13839
+#EXTINF:0,|FR| INFOSPORT FHD
+http://siptv-online.com:8789/Julien90/Julien90/13729
+#EXTINF:0,|FR| LEQUIPE 21 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13728
+#EXTINF:0,|FR| EQUIPE 21 SD
+http://siptv-online.com:8789/Julien90/Julien90/1023
+#EXTINF:0,|FR| OL TV FHD
+http://siptv-online.com:8789/Julien90/Julien90/13842
+#EXTINF:0,|FR| EXTREME SPORTS
+http://siptv-online.com:8789/Julien90/Julien90/13740
+#EXTINF:0,|FR| MUSCULATION TV HD
+http://siptv-online.com:8789/Julien90/Julien90/13801
+#EXTINF:0,|FR| AUTOMOTO  HD
+http://siptv-online.com:8789/Julien90/Julien90/1035
+#EXTINF:0,|FR| MOTORSPORT HD
+http://siptv-online.com:8789/Julien90/Julien90/13782
+#EXTINF:0,|FR| MOTORSPORT FHD
+http://siptv-online.com:8789/Julien90/Julien90/13722
+#EXTINF:0,|FR| EUROSPORT 1 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13742
+#EXTINF:0,|FR| EUROSPORT1 HD
+http://siptv-online.com:8789/Julien90/Julien90/14011
+#EXTINF:0,|FR| EUROSPORT 2 FHD
+http://siptv-online.com:8789/Julien90/Julien90/13741
+#EXTINF:0,|FR| EUROSPORT2 HD
+http://siptv-online.com:8789/Julien90/Julien90/14010
+#EXTINF:0,|FR| EQUIDIA LIVE FHD
+http://siptv-online.com:8789/Julien90/Julien90/13743
+#EXTINF:0,|FR| EQUIDIA LIVE HD
+http://siptv-online.com:8789/Julien90/Julien90/14012
+#EXTINF:0,|FR| EQUIDIA LIFE FHD
+http://siptv-online.com:8789/Julien90/Julien90/13744
+#EXTINF:0,|FR| EQUIDIA LIFE HD
+http://siptv-online.com:8789/Julien90/Julien90/14013
+#EXTINF:0,|FR| FRANCE O
+http://siptv-online.com:8789/Julien90/Julien90/89
+#EXTINF:0,|FR| EQUIDIA LIVE
+http://siptv-online.com:8789/Julien90/Julien90/1036
+#EXTINF:0,|FR| EQUIDIA LIFE
+http://siptv-online.com:8789/Julien90/Julien90/85
+#EXTINF:0,|FR|***SPORT GOLF***|FR|
+http://siptv-online.com:8789/Julien90/Julien90/24930
+#EXTINF:0,|FR| GOLF+ FHD
+http://siptv-online.com:8789/Julien90/Julien90/13734
+#EXTINF:0,|FR| GOLF CHANNEL FHD
+http://siptv-online.com:8789/Julien90/Julien90/13689
+#EXTINF:0,|FR| GOLF CHANNELS HD
+http://siptv-online.com:8789/Julien90/Julien90/13977
+#EXTINF:0,|BE|*******SPORTS*******|BE|
+http://siptv-online.com:8789/Julien90/Julien90/24966
+#EXTINF:0,|BE| PROXIMUS 11 FHD
+http://siptv-online.com:8789/Julien90/Julien90/35336
+#EXTINF:0,|BE| VOO SPORT 1 FHD
+http://siptv-online.com:8789/Julien90/Julien90/14137
+#EXTINF:0,|BE| VOO SPORT WORLD 1
+http://siptv-online.com:8789/Julien90/Julien90/14136
+#EXTINF:0,|BE| VOO SPORT WORLD 2
+http://siptv-online.com:8789/Julien90/Julien90/14128
+#EXTINF:0,|BE| ELEVEN SPORT 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/33590
+#EXTINF:0,|BE| ELEVEN SPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/14134
+#EXTINF:0,|BE| ELEVEN SPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/14133
+#EXTINF:0,|CH|*****TELECLUB*****|CH|
+http://siptv-online.com:8789/Julien90/Julien90/29569
+#EXTINF:0,|CH| TELECLUB SPORT1
+http://siptv-online.com:8789/Julien90/Julien90/21764
+#EXTINF:0,|CH| TELECLUB SPORT 2
+http://siptv-online.com:8789/Julien90/Julien90/21763
+#EXTINF:0,|ES|*****DEPORTES*****|ES|
+http://siptv-online.com:8789/Julien90/Julien90/23155
+#EXTINF:0,|ES| M DEPORTES 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/14065
+#EXTINF:0,|ES| M DEPORTES 1
+http://siptv-online.com:8789/Julien90/Julien90/14066
+#EXTINF:0,|ES| M DEPORTES 2
+http://siptv-online.com:8789/Julien90/Julien90/14064
+#EXTINF:0,|ES| M DEPORTES 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/14062
+#EXTINF:0,|ES| TOROS TV
+http://siptv-online.com:8789/Julien90/Julien90/23154
+#EXTINF:0,|ES| M GOL TV
+http://siptv-online.com:8789/Julien90/Julien90/14082
+#EXTINF:0,|ES| M F⁄TBOL FHD
+http://siptv-online.com:8789/Julien90/Julien90/14081
+#EXTINF:0,|ES| M F⁄TBOL
+http://siptv-online.com:8789/Julien90/Julien90/14080
+#EXTINF:0,|ES| M TELEDEPORTE
+http://siptv-online.com:8789/Julien90/Julien90/14061
+#EXTINF:0,|ES| M beINSPORT HD
+http://siptv-online.com:8789/Julien90/Julien90/14076
+#EXTINF:0,|ES| M beINSPORTS
+http://siptv-online.com:8789/Julien90/Julien90/14077
+#EXTINF:0,|ES| M beIN LALIGA
+http://siptv-online.com:8789/Julien90/Julien90/14075
+#EXTINF:0,|ES| M beIN LALIGA FHD
+http://siptv-online.com:8789/Julien90/Julien90/14073
+#EXTINF:0,|ES| M LALIGA TV BAR
+http://siptv-online.com:8789/Julien90/Julien90/14072
+#EXTINF:0,|ES| M LALIGA TV Bar HD
+http://siptv-online.com:8789/Julien90/Julien90/14071
+#EXTINF:0,|ES| M REAL MADRID TV
+http://siptv-online.com:8789/Julien90/Julien90/14084
+#EXTINF:0,|ES| M BARCA TV
+http://siptv-online.com:8789/Julien90/Julien90/14085
+#EXTINF:0,|ES| M EUROSPORT 1 FULLHD
+http://siptv-online.com:8789/Julien90/Julien90/14060
+#EXTINF:0,|ES| M EUROSPORT 1
+http://siptv-online.com:8789/Julien90/Julien90/14059
+#EXTINF:0,|ES| M PARTIDAZO HD
+http://siptv-online.com:8789/Julien90/Julien90/14068
+#EXTINF:0,|ES| M PARTIDAZO
+http://siptv-online.com:8789/Julien90/Julien90/14069
+#EXTINF:0,|ES| M FORMULA 1 FHD
+http://siptv-online.com:8789/Julien90/Julien90/14053
+#EXTINF:0,|ES| M FORMULA 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/14052
+#EXTINF:0,|ES| M MOTOGP FHD
+http://siptv-online.com:8789/Julien90/Julien90/14051
+#EXTINF:0,|ES| M MOTOGP HD
+http://siptv-online.com:8789/Julien90/Julien90/14050
+#EXTINF:0,|ES| M GOLF HD
+http://siptv-online.com:8789/Julien90/Julien90/14057
+#EXTINF:0,|PT|*****SPORT*****|PT|
+http://siptv-online.com:8789/Julien90/Julien90/23235
+#EXTINF:0,|PT| SPORT TV
+http://siptv-online.com:8789/Julien90/Julien90/14108
+#EXTINF:0,|PT| SPORT TV1 HD
+http://siptv-online.com:8789/Julien90/Julien90/14102
+#EXTINF:0,|PT| SPORT TV1
+http://siptv-online.com:8789/Julien90/Julien90/14107
+#EXTINF:0,|PT| SPORT TV2 HD
+http://siptv-online.com:8789/Julien90/Julien90/14101
+#EXTINF:0,|PT| SPORT TV2
+http://siptv-online.com:8789/Julien90/Julien90/14106
+#EXTINF:0,|PT| SPORT TV3 HD
+http://siptv-online.com:8789/Julien90/Julien90/14100
+#EXTINF:0,|PT| SPORT TV3
+http://siptv-online.com:8789/Julien90/Julien90/14105
+#EXTINF:0,|PT| SPORT TV4 HD
+http://siptv-online.com:8789/Julien90/Julien90/14099
+#EXTINF:0,|PT| SPORT TV4
+http://siptv-online.com:8789/Julien90/Julien90/14104
+#EXTINF:0,|PT| SPORT TV5 HD
+http://siptv-online.com:8789/Julien90/Julien90/14098
+#EXTINF:0,|PT| SPORT TV5
+http://siptv-online.com:8789/Julien90/Julien90/14103
+#EXTINF:0,|PT| ELEVEN SPORTS 1 FHD
+http://siptv-online.com:8789/Julien90/Julien90/29988
+#EXTINF:0,|PT| ELEVEN SPORTS 1 BKP
+http://siptv-online.com:8789/Julien90/Julien90/35371
+#EXTINF:0,|PT| ELEVEN SPORTS 2 FHD
+http://siptv-online.com:8789/Julien90/Julien90/29987
+#EXTINF:0,|PT| ELEVEN SPORTS 2 BKP
+http://siptv-online.com:8789/Julien90/Julien90/35372
+#EXTINF:0,|PT| ELEVEN SPORTS 3 FHD
+http://siptv-online.com:8789/Julien90/Julien90/29986
+#EXTINF:0,|PT| ELEVEN SPORTS 3 BKP
+http://siptv-online.com:8789/Julien90/Julien90/35373
+#EXTINF:0,|PT| ELEVEN SPORTS 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/29985
+#EXTINF:0,|PT| ELEVEN SPORTS 5 FHD
+http://siptv-online.com:8789/Julien90/Julien90/29984
+#EXTINF:0,|PT| ELEVEN SPORTS 6 HD
+http://siptv-online.com:8789/Julien90/Julien90/29983
+#EXTINF:0,|PT| BENIFICA TV FHD
+http://siptv-online.com:8789/Julien90/Julien90/14092
+#EXTINF:0,|PT| BENIFICA TV
+http://siptv-online.com:8789/Julien90/Julien90/14093
+#EXTINF:0,|PT| SPORTING TV
+http://siptv-online.com:8789/Julien90/Julien90/14091
+#EXTINF:0,|PT| A BOLA TV
+http://siptv-online.com:8789/Julien90/Julien90/14087
+#EXTINF:0,|PT| PFC
+http://siptv-online.com:8789/Julien90/Julien90/14086
+#EXTINF:0,|PT| KOMBATSPORT
+http://siptv-online.com:8789/Julien90/Julien90/14090
+#EXTINF:0,|PT| EUROSPORT NEWS
+http://siptv-online.com:8789/Julien90/Julien90/14096
+#EXTINF:0,|PT| EUROSPORT 1HD
+http://siptv-online.com:8789/Julien90/Julien90/14097
+#EXTINF:0,|PT| EUROSPORT 1
+http://siptv-online.com:8789/Julien90/Julien90/14095
+#EXTINF:0,|PT| EUROSPORT 2
+http://siptv-online.com:8789/Julien90/Julien90/14094
+#EXTINF:0,|PT| FUEL TV
+http://siptv-online.com:8789/Julien90/Julien90/23234
+#EXTINF:0,|PT| MOTORSPORT TV
+http://siptv-online.com:8789/Julien90/Julien90/14089
+#EXTINF:0,|PT| MOTORVISION
+http://siptv-online.com:8789/Julien90/Julien90/14088
+#EXTINF:0,|PT| TOROS
+http://siptv-online.com:8789/Julien90/Julien90/23233
+#EXTINF:0,|UK|*****SKY SPORT*****|UK|
+http://siptv-online.com:8789/Julien90/Julien90/23459
+#EXTINF:0,|UK| SKY SPORT NEWS HD
+http://siptv-online.com:8789/Julien90/Julien90/23458
+#EXTINF:0,|UK| SKY SPORT PREMIERE LEAGUE
+http://siptv-online.com:8789/Julien90/Julien90/23457
+#EXTINF:0,|UK| SKY SPORT CRICKET
+http://siptv-online.com:8789/Julien90/Julien90/23456
+#EXTINF:0,|UK| SKY SPORT ACTION
+http://siptv-online.com:8789/Julien90/Julien90/23455
+#EXTINF:0,|UK| SKY SPORT GOLF HD
+http://siptv-online.com:8789/Julien90/Julien90/23454
+#EXTINF:0,|UK| SKY SPORT FOOTBALL HD
+http://siptv-online.com:8789/Julien90/Julien90/23453
+#EXTINF:0,|UK| BT SPORT HD
+http://siptv-online.com:8789/Julien90/Julien90/23452
+#EXTINF:0,|UK| BT SPORT2HD
+http://siptv-online.com:8789/Julien90/Julien90/23451
+#EXTINF:0,|UK| BT SPORT3FHD
+http://siptv-online.com:8789/Julien90/Julien90/23450
+#EXTINF:0,|UK| BTSPORT ESPN HD
+http://siptv-online.com:8789/Julien90/Julien90/23449
+#EXTINF:0,|UK| CHELSEA
+http://siptv-online.com:8789/Julien90/Julien90/23446
+#EXTINF:0,|UK| SKY SPORTF1
+http://siptv-online.com:8789/Julien90/Julien90/23445
+#EXTINF:0,|UK| EUROSPORT UK
+http://siptv-online.com:8789/Julien90/Julien90/23444
+#EXTINF:0,|UK| EUROSPORT2
+http://siptv-online.com:8789/Julien90/Julien90/23443
+#EXTINF:0,|UK| Setanta Sport 1
+http://siptv-online.com:8789/Julien90/Julien90/23447
+#EXTINF:0,|UK| SetantaSports Ireland
+http://siptv-online.com:8789/Julien90/Julien90/23448
+#EXTINF:0,|UK| PREMIER SPORTS
+http://siptv-online.com:8789/Julien90/Julien90/23442
+#EXTINF:0,|UK| MOTORS
+http://siptv-online.com:8789/Julien90/Julien90/28358
+#EXTINF:0,|UK| BIKE
+http://siptv-online.com:8789/Julien90/Julien90/23441
+#EXTINF:0,|UK| AT THE RACES
+http://siptv-online.com:8789/Julien90/Julien90/23440
+#EXTINF:0,|UK| FIGHTBOX
+http://siptv-online.com:8789/Julien90/Julien90/23439
+#EXTINF:0,|IT|***SKY Sport***|IT|
+http://siptv-online.com:8789/Julien90/Julien90/23589
+#EXTINF:0,|IT| SKY SPORT 24 HD
+http://siptv-online.com:8789/Julien90/Julien90/23588
+#EXTINF:0,|IT| SKY SPORT UNO HD
+http://siptv-online.com:8789/Julien90/Julien90/23587
+#EXTINF:0,|IT| SKY SPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/23586
+#EXTINF:0,|IT| SKY SPORT FOOTBALL  HD
+http://siptv-online.com:8789/Julien90/Julien90/23585
+#EXTINF:0,|IT| SKY SPORT ARENA FHD
+http://siptv-online.com:8789/Julien90/Julien90/23584
+#EXTINF:0,|IT| SKY SPORT MIX HD
+http://siptv-online.com:8789/Julien90/Julien90/23583
+#EXTINF:0,|IT| SKY SUPERCALCIO
+http://siptv-online.com:8789/Julien90/Julien90/23582
+#EXTINF:0,|IT| SKY SPORT F1
+http://siptv-online.com:8789/Julien90/Julien90/23580
+#EXTINF:0,|IT| SKY MOTO GP
+http://siptv-online.com:8789/Julien90/Julien90/23579
+#EXTINF:0,|IT| EUROSPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/23578
+#EXTINF:0,|IT| EUROSPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/23577
+#EXTINF:0,|IT| SPORT ITALIA
+http://siptv-online.com:8789/Julien90/Julien90/23576
+#EXTINF:0,|IT| FIGHT CHANNEL
+http://siptv-online.com:8789/Julien90/Julien90/23575
+#EXTINF:0,|IT| SUPER TENNIS HD
+http://siptv-online.com:8789/Julien90/Julien90/23574
+#EXTINF:0,|IT| MILAN CHANNEL HD
+http://siptv-online.com:8789/Julien90/Julien90/23571
+#EXTINF:0,|IT| JUVENTUS TV
+http://siptv-online.com:8789/Julien90/Julien90/23570
+#EXTINF:0,|IT| INTER CHANNEL
+http://siptv-online.com:8789/Julien90/Julien90/23569
+#EXTINF:0,|IT| ROMA TV
+http://siptv-online.com:8789/Julien90/Julien90/23568
+#EXTINF:0,|IT| LAZIO CHANNEL HD
+http://siptv-online.com:8789/Julien90/Julien90/23567
+#EXTINF:0,|IT| TOP CALCIO 24
+http://siptv-online.com:8789/Julien90/Julien90/23566
+#EXTINF:0,|IT|***Calcio***|IT|
+http://siptv-online.com:8789/Julien90/Julien90/24989
+#EXTINF:0,|IT| SKY CALCIO 1
+http://siptv-online.com:8789/Julien90/Julien90/23564
+#EXTINF:0,|IT| SKY CALCIO 2
+http://siptv-online.com:8789/Julien90/Julien90/23563
+#EXTINF:0,|IT| SKY CALCIO 3
+http://siptv-online.com:8789/Julien90/Julien90/23562
+#EXTINF:0,|IT| SKY CALCIO 4
+http://siptv-online.com:8789/Julien90/Julien90/23561
+#EXTINF:0,|IT| SKY CALCIO 5
+http://siptv-online.com:8789/Julien90/Julien90/23560
+#EXTINF:0,|IT| SKY CALCIO 6
+http://siptv-online.com:8789/Julien90/Julien90/23559
+#EXTINF:0,|IT| SKY CALCIO 7
+http://siptv-online.com:8789/Julien90/Julien90/23558
+#EXTINF:0,|IT| SKY CALCIO 8
+http://siptv-online.com:8789/Julien90/Julien90/23557
+#EXTINF:0,|IT| SKY CALCIO 9
+http://siptv-online.com:8789/Julien90/Julien90/23556
+#EXTINF:0,|IT| SKY CALCIO 10
+http://siptv-online.com:8789/Julien90/Julien90/23555
+#EXTINF:0,|DE|*****SPORT*****|DE|
+http://siptv-online.com:8789/Julien90/Julien90/23707
+#EXTINF:0,|DE| SKY SPORT NEWS HD
+http://siptv-online.com:8789/Julien90/Julien90/23706
+#EXTINF:0,|DE| SKY SPORT 1HD
+http://siptv-online.com:8789/Julien90/Julien90/23705
+#EXTINF:0,|DE|SKY SPORT 2
+http://siptv-online.com:8789/Julien90/Julien90/23702
+#EXTINF:0,|DE| SKY SPORT 3HD
+http://siptv-online.com:8789/Julien90/Julien90/23701
+#EXTINF:0,|DE| SKY SPORT 4HD
+http://siptv-online.com:8789/Julien90/Julien90/23700
+#EXTINF:0,|DE| SKY SPORT 5HD
+http://siptv-online.com:8789/Julien90/Julien90/23699
+#EXTINF:0,|DE| SKY SPORT 6HD
+http://siptv-online.com:8789/Julien90/Julien90/23698
+#EXTINF:0,|DE| SKY SPORT 7HD
+http://siptv-online.com:8789/Julien90/Julien90/23697
+#EXTINF:0,|DE| SKY BUNDESLIGA 1HD
+http://siptv-online.com:8789/Julien90/Julien90/23696
+#EXTINF:0,|DE| SKY BUNDESLIGA 2HD
+http://siptv-online.com:8789/Julien90/Julien90/23695
+#EXTINF:0,|DE| SKY BUNDESLIGA 3HD
+http://siptv-online.com:8789/Julien90/Julien90/23694
+#EXTINF:0,|DE| SKY BUNDESLIGA 4HD
+http://siptv-online.com:8789/Julien90/Julien90/23693
+#EXTINF:0,|DE| SKY BUNDESLIGA 5HD
+http://siptv-online.com:8789/Julien90/Julien90/23692
+#EXTINF:0,|DE| SKY BUNDESLIGA 6HD
+http://siptv-online.com:8789/Julien90/Julien90/23691
+#EXTINF:0,|DE| SKY BUNDESLIGA 7HD
+http://siptv-online.com:8789/Julien90/Julien90/23690
+#EXTINF:0,|DE| EUROSPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/23689
+#EXTINF:0,|DE| EUROSPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/23688
+#EXTINF:0,|DE| AUTO MOTOR SPORT
+http://siptv-online.com:8789/Julien90/Julien90/23685
+#EXTINF:0,|NL| *****SPORT*****|NL|
+http://siptv-online.com:8789/Julien90/Julien90/23842
+#EXTINF:0,|NL| FOX SPORT1 EREDIVISIE HD
+http://siptv-online.com:8789/Julien90/Julien90/23841
+#EXTINF:0,|NL| FOX SPORT 2HD
+http://siptv-online.com:8789/Julien90/Julien90/23840
+#EXTINF:0,|NL| FOX SPORT 3 EREDIVISIE HD
+http://siptv-online.com:8789/Julien90/Julien90/23839
+#EXTINF:0,|NL| FOX  SPORT 4HD
+http://siptv-online.com:8789/Julien90/Julien90/23838
+#EXTINF:0,|NL| FOX SPORT 5 EREDIVISIE HD
+http://siptv-online.com:8789/Julien90/Julien90/23837
+#EXTINF:0,|NL| FOX SPORTS 6HD
+http://siptv-online.com:8789/Julien90/Julien90/23836
+#EXTINF:0,|NL| ELEVEN SPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/33593
+#EXTINF:0,|NL| ELEVEN SPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/33592
+#EXTINF:0,|NL| ELEVEN SPORT 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/33591
+#EXTINF:0,|NL| Ziggo Sport Voetbal
+http://siptv-online.com:8789/Julien90/Julien90/23835
+#EXTINF:0,|NL| Ziggo Sport Extra1
+http://siptv-online.com:8789/Julien90/Julien90/23834
+#EXTINF:0,|NL| Ziggo Sport Extra 2
+http://siptv-online.com:8789/Julien90/Julien90/23833
+#EXTINF:0,|NL| Ziggo Sport Racing
+http://siptv-online.com:8789/Julien90/Julien90/23832
+#EXTINF:0,|NL| Ziggo Sport Select
+http://siptv-online.com:8789/Julien90/Julien90/23831
+#EXTINF:0,|NL| Ziggo Sport Golf
+http://siptv-online.com:8789/Julien90/Julien90/23830
+#EXTINF:0,|NL| Sport 1 SelectHD
+http://siptv-online.com:8789/Julien90/Julien90/23829
+#EXTINF:0,|NL| EUROSPORT
+http://siptv-online.com:8789/Julien90/Julien90/23828
+#EXTINF:0,|NL| EUROSPORT 2HD
+http://siptv-online.com:8789/Julien90/Julien90/23827
+#EXTINF:0,|NL| EDGE SPORT  HD
+http://siptv-online.com:8789/Julien90/Julien90/23826
+#EXTINF:0,|NL| Sport1 Voetbal
+http://siptv-online.com:8789/Julien90/Julien90/23825
+#EXTINF:0,|USA|******SPORTS******|USA|
+http://siptv-online.com:8789/Julien90/Julien90/24110
+#EXTINF:0,|USA| beINSPORT US
+http://siptv-online.com:8789/Julien90/Julien90/24109
+#EXTINF:0,|USA| FOX SPORT 1HD
+http://siptv-online.com:8789/Julien90/Julien90/24107
+#EXTINF:0,|USA| FOX SPORT 2HD
+http://siptv-online.com:8789/Julien90/Julien90/24106
+#EXTINF:0,|USA| ESPN
+http://siptv-online.com:8789/Julien90/Julien90/24105
+#EXTINF:0,|USA| ESPN 2HD
+http://siptv-online.com:8789/Julien90/Julien90/24104
+#EXTINF:0,|USA| ESPN Deportes
+http://siptv-online.com:8789/Julien90/Julien90/24102
+#EXTINF:0,|USA| ESPNEWS
+http://siptv-online.com:8789/Julien90/Julien90/24100
+#EXTINF:0,|USA| ESPN U HD
+http://siptv-online.com:8789/Julien90/Julien90/24101
+#EXTINF:0,|USA| BTN
+http://siptv-online.com:8789/Julien90/Julien90/24099
+#EXTINF:0,|USA| CBS SPORTS NET
+http://siptv-online.com:8789/Julien90/Julien90/24098
+#EXTINF:0,|USA| NBC SPORTS Net HD
+http://siptv-online.com:8789/Julien90/Julien90/24097
+#EXTINF:0,|USA| NBC GOLF
+http://siptv-online.com:8789/Julien90/Julien90/24096
+#EXTINF:0,|USA| Tennis Channel HD
+http://siptv-online.com:8789/Julien90/Julien90/24095
+#EXTINF:0,|USA| FOX DEPORTES
+http://siptv-online.com:8789/Julien90/Julien90/24094
+#EXTINF:0,|USA| WWE HD
+http://siptv-online.com:8789/Julien90/Julien90/24093
+#EXTINF:0,|USA| MLB HD
+http://siptv-online.com:8789/Julien90/Julien90/24092
+#EXTINF:0,|USA| NBA
+http://siptv-online.com:8789/Julien90/Julien90/24091
+#EXTINF:0,|USA| NBA 1  MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24090
+#EXTINF:0,|USA| NBA 2  MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24089
+#EXTINF:0,|USA| NBA 3  MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24088
+#EXTINF:0,|USA| NBA 4  MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24087
+#EXTINF:0,|USA| NBA 5  MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24086
+#EXTINF:0,|USA| NBA 6  MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24085
+#EXTINF:0,|USA| NBA 7 MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24084
+#EXTINF:0,|USA| NBA 8 MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24083
+#EXTINF:0,|USA| NBA 9 MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24082
+#EXTINF:0,|USA| NBA 10 MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24081
+#EXTINF:0,|USA| NBA 11
+http://siptv-online.com:8789/Julien90/Julien90/24080
+#EXTINF:0,|USA| NHL HD
+http://siptv-online.com:8789/Julien90/Julien90/24079
+#EXTINF:0,|USA| NHL 1 MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24078
+#EXTINF:0,|USA| NHL 2 MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24077
+#EXTINF:0,|USA| NHL 3 MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24076
+#EXTINF:0,|USA| NHL 4 MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24075
+#EXTINF:0,|USA| NHL 5  MATCH EVENT
+http://siptv-online.com:8789/Julien90/Julien90/24074
+#EXTINF:0,|USA| NHL 6
+http://siptv-online.com:8789/Julien90/Julien90/24073
+#EXTINF:0,|USA| NHL 7
+http://siptv-online.com:8789/Julien90/Julien90/24072
+#EXTINF:0,|USA| NHL 8
+http://siptv-online.com:8789/Julien90/Julien90/24071
+#EXTINF:0,|USA| NHL 9
+http://siptv-online.com:8789/Julien90/Julien90/24070
+#EXTINF:0,|USA| NHL 10
+http://siptv-online.com:8789/Julien90/Julien90/24069
+#EXTINF:0,|USA| NHL 11
+http://siptv-online.com:8789/Julien90/Julien90/24068
+#EXTINF:0,|USA| NFL NETWORK HD
+http://siptv-online.com:8789/Julien90/Julien90/24067
+#EXTINF:0,|USA| NFL 705
+http://siptv-online.com:8789/Julien90/Julien90/24066
+#EXTINF:0,|USA| NFL 706
+http://siptv-online.com:8789/Julien90/Julien90/24065
+#EXTINF:0,|USA| NFL 707
+http://siptv-online.com:8789/Julien90/Julien90/24064
+#EXTINF:0,|USA| NFL 708
+http://siptv-online.com:8789/Julien90/Julien90/24063
+#EXTINF:0,|USA| NFL 709
+http://siptv-online.com:8789/Julien90/Julien90/24062
+#EXTINF:0,|USA| NFL 710
+http://siptv-online.com:8789/Julien90/Julien90/24061
+#EXTINF:0,|USA| NFL 711
+http://siptv-online.com:8789/Julien90/Julien90/24060
+#EXTINF:0,|USA| NFL 712
+http://siptv-online.com:8789/Julien90/Julien90/24059
+#EXTINF:0,|USA| NFL 713
+http://siptv-online.com:8789/Julien90/Julien90/24058
+#EXTINF:0,|USA| NFL 714
+http://siptv-online.com:8789/Julien90/Julien90/24057
+#EXTINF:0,|USA| NFL 715
+http://siptv-online.com:8789/Julien90/Julien90/24056
+#EXTINF:0,|USA| NFL 716
+http://siptv-online.com:8789/Julien90/Julien90/24055
+#EXTINF:0,|USA| NFL 717
+http://siptv-online.com:8789/Julien90/Julien90/24054
+#EXTINF:0,|CA| SPORTNET 360
+http://siptv-online.com:8789/Julien90/Julien90/40746
+#EXTINF:0,|CA| SPORTNET ONE
+http://siptv-online.com:8789/Julien90/Julien90/40747
+#EXTINF:0,|CA| SPORTNET ONTARIO
+http://siptv-online.com:8789/Julien90/Julien90/40748
+#EXTINF:0,|CA| SPORTS NET EAST HD
+http://siptv-online.com:8789/Julien90/Julien90/40749
+#EXTINF:0,|CA| SPORTS NET ONE HD
+http://siptv-online.com:8789/Julien90/Julien90/40750
+#EXTINF:0,|CA| SPORTS NET ONTARIO HD
+http://siptv-online.com:8789/Julien90/Julien90/40751
+#EXTINF:0,|CA| SPORTS NET PACIFIC HD
+http://siptv-online.com:8789/Julien90/Julien90/40752
+#EXTINF:0,|CA| SPORTS NET WORLD HD
+http://siptv-online.com:8789/Julien90/Julien90/40753
+#EXTINF:0,|CA| SPORTSMAN CHANNEL CANADA
+http://siptv-online.com:8789/Julien90/Julien90/40754
+#EXTINF:0,|CA| SPORTSNET 360
+http://siptv-online.com:8789/Julien90/Julien90/40755
+#EXTINF:0,|CA| SPORTSNET 360 HD
+http://siptv-online.com:8789/Julien90/Julien90/40756
+#EXTINF:0,|CA| SPORTSNET EAST
+http://siptv-online.com:8789/Julien90/Julien90/40757
+#EXTINF:0,|CA| SPORTSNET EAST HD
+http://siptv-online.com:8789/Julien90/Julien90/40758
+#EXTINF:0,|CA| SPORTSNET ONE
+http://siptv-online.com:8789/Julien90/Julien90/40759
+#EXTINF:0,|CA| SPORTSNET ONE HD
+http://siptv-online.com:8789/Julien90/Julien90/40760
+#EXTINF:0,|CA| SPORTSNET ONTARIO
+http://siptv-online.com:8789/Julien90/Julien90/40761
+#EXTINF:0,|CA| SPORTSNET PACIFIC
+http://siptv-online.com:8789/Julien90/Julien90/40762
+#EXTINF:0,|CA| SPORTSNET PACIFIC HD
+http://siptv-online.com:8789/Julien90/Julien90/40763
+#EXTINF:0,|CA| SPORTSNET WEST
+http://siptv-online.com:8789/Julien90/Julien90/40764
+#EXTINF:0,|CA| SPORTSNET WORLD
+http://siptv-online.com:8789/Julien90/Julien90/40765
+#EXTINF:0,|CA| SPORTSNET WORLD HD.
+http://siptv-online.com:8789/Julien90/Julien90/40766
+#EXTINF:0,|CA| TVA SPORTS 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/40801
+#EXTINF:0,|CA| TVA SPORTS HD
+http://siptv-online.com:8789/Julien90/Julien90/40802
+#EXTINF:0,|FI| C More Sport 1 FHD
+http://siptv-online.com:8789/Julien90/Julien90/40330
+#EXTINF:0,|FI| C More Sport 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/40331
+#EXTINF:0,|FI| C More Sport 2 FHD
+http://siptv-online.com:8789/Julien90/Julien90/40332
+#EXTINF:0,|TR|*******SPOR*******|TR|
+http://siptv-online.com:8789/Julien90/Julien90/28518
+#EXTINF:0,|TR| BEINSPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/28517
+#EXTINF:0,|TR| BEINSPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/28516
+#EXTINF:0,|TR| BEINSPORT 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/28515
+#EXTINF:0,|TR| TRT SPOR HD
+http://siptv-online.com:8789/Julien90/Julien90/28506
+#EXTINF:0,|TR| TRT SPOR
+http://siptv-online.com:8789/Julien90/Julien90/28505
+#EXTINF:0,|TR| BEINSPORT 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/28514
+#EXTINF:0,|TR| SMART SPOR 1
+http://siptv-online.com:8789/Julien90/Julien90/28513
+#EXTINF:0,|TR| S-SPORT HD
+http://siptv-online.com:8789/Julien90/Julien90/28512
+#EXTINF:0,|TR| SPORT TV
+http://siptv-online.com:8789/Julien90/Julien90/28511
+#EXTINF:0,|TR| TIVIBU SPOR 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/28510
+#EXTINF:0,|TR| TIVIBU SPOR 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/28509
+#EXTINF:0,|TR| TIVIBU SPOR 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/28508
+#EXTINF:0,|TR| TIVIBU SPOR 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/28507
+#EXTINF:0,|TR| NTV SPOR HD
+http://siptv-online.com:8789/Julien90/Julien90/28504
+#EXTINF:0,|TR| FENERBAHCE TV HD
+http://siptv-online.com:8789/Julien90/Julien90/28503
+#EXTINF:0,|TR| GALATASARAY TV
+http://siptv-online.com:8789/Julien90/Julien90/28502
+#EXTINF:0,|TR| BJK TV
+http://siptv-online.com:8789/Julien90/Julien90/28501
+#EXTINF:0,|TR| BURSASPOR TV
+http://siptv-online.com:8789/Julien90/Julien90/28500
+#EXTINF:0,|TR| A SPOR
+http://siptv-online.com:8789/Julien90/Julien90/28499
+#EXTINF:0,|TR| EUROSPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/28498
+#EXTINF:0,|TR| EUROSPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/28497
+#EXTINF:0,|TR| NBA TV
+http://siptv-online.com:8789/Julien90/Julien90/28496
+#EXTINF:0,|PL| CANAL SPORT HD
+http://siptv-online.com:8789/Julien90/Julien90/28825
+#EXTINF:0,|PL| CANAL 2 SPORT HD
+http://siptv-online.com:8789/Julien90/Julien90/28824
+#EXTINF:0,|PL|  TVP SPORT
+http://siptv-online.com:8789/Julien90/Julien90/28823
+#EXTINF:0,|PL| ELEVEN
+http://siptv-online.com:8789/Julien90/Julien90/28822
+#EXTINF:0,|PL| ELEVEN EXTRA HD
+http://siptv-online.com:8789/Julien90/Julien90/28821
+#EXTINF:0,|PL| ELEVEN SPORTS
+http://siptv-online.com:8789/Julien90/Julien90/28820
+#EXTINF:0,|PL| POLSAT SPORT NEWS
+http://siptv-online.com:8789/Julien90/Julien90/28819
+#EXTINF:0,|PL| POLSAT SPORT
+http://siptv-online.com:8789/Julien90/Julien90/28818
+#EXTINF:0,|PL| POLSAT SPORT EXTREA
+http://siptv-online.com:8789/Julien90/Julien90/28817
+#EXTINF:0,|PL| N SPORT HD
+http://siptv-online.com:8789/Julien90/Julien90/28815
+#EXTINF:0,|GR| EUROSPORT 1
+http://siptv-online.com:8789/Julien90/Julien90/36364
+#EXTINF:0,|GR| EUROSPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/36479
+#EXTINF:0,|GR| EUROSPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/36478
+#EXTINF:0,|GR| OTE SPORT 1 FHD
+http://siptv-online.com:8789/Julien90/Julien90/36412
+#EXTINF:0,|GR| OTE SPORT 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/36353
+#EXTINF:0,|GR| OTE SPORT 2 HD [VIP]
+http://siptv-online.com:8789/Julien90/Julien90/36411
+#EXTINF:0,|GR| OTE SPORT 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/36352
+#EXTINF:0,|GR| OTE SPORT 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/36410
+#EXTINF:0,|GR| OTE SPORT 4 HD [VIP]
+http://siptv-online.com:8789/Julien90/Julien90/36409
+#EXTINF:0,|GR| OTE SPORT 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/36351
+#EXTINF:0,|GR| OTE SPORT 6 HD
+http://siptv-online.com:8789/Julien90/Julien90/36408
+#EXTINF:0,|GR| OTE SPORT 7 HD
+http://siptv-online.com:8789/Julien90/Julien90/36407
+#EXTINF:0,|GR| OTE SPORT 8 HD
+http://siptv-online.com:8789/Julien90/Julien90/36406
+#EXTINF:0,|AL| SUPER SPORT 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/38959
+#EXTINF:0,|AL| Super Sport 1 News
+http://siptv-online.com:8789/Julien90/Julien90/38958
+#EXTINF:0,|AL| Super Sport 3 FHD
+http://siptv-online.com:8789/Julien90/Julien90/38957
+#EXTINF:0,|AL| SUPER SPORT 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/38956
+#EXTINF:0,|AL| Super Sport 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/38955
+#EXTINF:0,|AL| Super Sport 6
+http://siptv-online.com:8789/Julien90/Julien90/38954
+#EXTINF:0,|AL| Tring Sport 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/38917
+#EXTINF:0,|AL| Tring Sport 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/38916
+#EXTINF:0,|AL| Tring Sport 3 FHD
+http://siptv-online.com:8789/Julien90/Julien90/38915
+#EXTINF:0,|AL| Tring Sport 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/38914
+#EXTINF:0,|AL| Tring Sport News HD
+http://siptv-online.com:8789/Julien90/Julien90/38913
+#EXTINF:0,|FR| CANAL  SPORT (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39437
+#EXTINF:0,|FR| RMC SPORT 1 (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39503
+#EXTINF:0,|FR| RMC SPORT 2 (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39502
+#EXTINF:0,|FR| RMC SPORT 3 (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39501
+#EXTINF:0,|FR| RMC SPORT 4 (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39500
+#EXTINF:0,|FR| BEIN SPORT 1 (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39499
+#EXTINF:0,|FR| BEIN SPORT 2(SD)
+http://siptv-online.com:8789/Julien90/Julien90/39498
+#EXTINF:0,|FR| BEIN SPORT 3 (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39497
+#EXTINF:0,|FR| INFOSPORT  (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39496
+#EXTINF:0,|FR| EUROSPORT 1 (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39494
+#EXTINF:0,|FR| EUROSPORT 2 (SD)
+http://siptv-online.com:8789/Julien90/Julien90/39493
+#EXTINF:0,|RO| Digi Sport 1
+http://siptv-online.com:8789/Julien90/Julien90/40013
+#EXTINF:0,|RO| Digi Sport 2
+http://siptv-online.com:8789/Julien90/Julien90/40012
+#EXTINF:0,|RO| Digi Sport 3
+http://siptv-online.com:8789/Julien90/Julien90/40011
+#EXTINF:0,|RO| Digi Sport 4
+http://siptv-online.com:8789/Julien90/Julien90/40010
+#EXTINF:0,|RO| Sport.ro
+http://siptv-online.com:8789/Julien90/Julien90/40000
+#EXTINF:0,|RO| TeleKom Sport 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/40018
+#EXTINF:0,|RO| TeleKom Sport 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/40017
+#EXTINF:0,|RO| Telekom Sport 4 HD
+http://siptv-online.com:8789/Julien90/Julien90/40016
+#EXTINF:0,|RO| TeleKom Sport 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/40015
+#EXTINF:0,|RO| TeleKom Sport 6 HD
+http://siptv-online.com:8789/Julien90/Julien90/40014
+#EXTINF:0,|BG| Diema Sport 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/40148
+#EXTINF:0,|BG| Diema Sport 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/40147
+#EXTINF:0,|BG| Diema Sport HD
+http://siptv-online.com:8789/Julien90/Julien90/40146
+#EXTINF:0,|EX-YU| ARENA SPORT 1 HR
+http://siptv-online.com:8789/Julien90/Julien90/37313
+#EXTINF:0,|EX-YU| ARENA SPORT 2 HR
+http://siptv-online.com:8789/Julien90/Julien90/37312
+#EXTINF:0,|EX-YU| ARENA SPORT 3 HR
+http://siptv-online.com:8789/Julien90/Julien90/37311
+#EXTINF:0,|EX-YU| ARENA SPORT 4 HR
+http://siptv-online.com:8789/Julien90/Julien90/37310
+#EXTINF:0,|EX-YU| ARENA SPORT 5 HR
+http://siptv-online.com:8789/Julien90/Julien90/37309
+#EXTINF:0,|EX-YU| SPORT KLUB 1 HR
+http://siptv-online.com:8789/Julien90/Julien90/37232
+#EXTINF:0,|EX-YU| SPORT KLUB 2 HR
+http://siptv-online.com:8789/Julien90/Julien90/37231
+#EXTINF:0,|EX-YU| SPORT KLUB 3 HR
+http://siptv-online.com:8789/Julien90/Julien90/37230
