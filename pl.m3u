@@ -1,97 +1,141 @@
 #EXTM3U
-#EXTINF:0,TVP 2 HD
-http://siptv-online.com:8789/Julien90/Julien90/28862
-#EXTINF:0,TVP 3
-http://siptv-online.com:8789/Julien90/Julien90/28861
-#EXTINF:0,TVP SERIALE
-http://siptv-online.com:8789/Julien90/Julien90/28860
-#EXTINF:0,POLSAT
-http://siptv-online.com:8789/Julien90/Julien90/28859
-#EXTINF:0,POLSAT 2
-http://siptv-online.com:8789/Julien90/Julien90/28858
-#EXTINF:0,POLSAT CAFE
-http://siptv-online.com:8789/Julien90/Julien90/28857
-#EXTINF:0, TVP INFO
-http://siptv-online.com:8789/Julien90/Julien90/28856
-#EXTINF:0,TV PLUS HD
-http://siptv-online.com:8789/Julien90/Julien90/28855
-#EXTINF:0,TV6
-http://siptv-online.com:8789/Julien90/Julien90/28854
-#EXTINF:0,TVN 7
-http://siptv-online.com:8789/Julien90/Julien90/28853
-#EXTINF:0,TVP ABC
-http://siptv-online.com:8789/Julien90/Julien90/28852
-#EXTINF:0, POLSAT ROMANS
-http://siptv-online.com:8789/Julien90/Julien90/28851
-#EXTINF:0, POLSAT SUPER
-http://siptv-online.com:8789/Julien90/Julien90/28850
-#EXTINF:0, TLC
-http://siptv-online.com:8789/Julien90/Julien90/28849
-#EXTINF:0, TV 4
-http://siptv-online.com:8789/Julien90/Julien90/28848
-#EXTINF:0,CANAL  HD
-http://siptv-online.com:8789/Julien90/Julien90/28847
-#EXTINF:0,CANAL FAMILY HD
-http://siptv-online.com:8789/Julien90/Julien90/28846
-#EXTINF:0,CANAL  FILM HD
-http://siptv-online.com:8789/Julien90/Julien90/28845
-#EXTINF:0,CANAL SERIALE
-http://siptv-online.com:8789/Julien90/Julien90/28844
-#EXTINF:0, FILMBOX
-http://siptv-online.com:8789/Julien90/Julien90/28842
-#EXTINF:0,POLSAT FILM HD
-http://siptv-online.com:8789/Julien90/Julien90/28843
-#EXTINF:0,CINEMAX HD
-http://siptv-online.com:8789/Julien90/Julien90/28841
-#EXTINF:0,AXN WHITE
-http://siptv-online.com:8789/Julien90/Julien90/28840
-#EXTINF:0,AXN HD
-http://siptv-online.com:8789/Julien90/Julien90/28839
-#EXTINF:0,AXN SPIN
-http://siptv-online.com:8789/Julien90/Julien90/28838
-#EXTINF:0,COMEDY CENTRAL
-http://siptv-online.com:8789/Julien90/Julien90/28837
-#EXTINF:0,DISNEY HD
-http://siptv-online.com:8789/Julien90/Julien90/28836
-#EXTINF:0, BOOMERANG
-http://siptv-online.com:8789/Julien90/Julien90/28835
-#EXTINF:0,CARTOON NETWORK
-http://siptv-online.com:8789/Julien90/Julien90/28834
-#EXTINF:0, TELETOON
-http://siptv-online.com:8789/Julien90/Julien90/28833
-#EXTINF:0,POLSAT JIMJAM
-http://siptv-online.com:8789/Julien90/Julien90/28832
-#EXTINF:0, POLSAT DOKU
-http://siptv-online.com:8789/Julien90/Julien90/28831
-#EXTINF:0,DISCOVERY
-http://siptv-online.com:8789/Julien90/Julien90/28830
-#EXTINF:0,DISCOVERY SC
-http://siptv-online.com:8789/Julien90/Julien90/28829
-#EXTINF:0,BBC Earth
-http://siptv-online.com:8789/Julien90/Julien90/28828
-#EXTINF:0,NATIONAL GEOGRAPHIC HD
-http://siptv-online.com:8789/Julien90/Julien90/28827
-#EXTINF:0,TVN TURBO
-http://siptv-online.com:8789/Julien90/Julien90/28826
-#EXTINF:0,CANAL SPORT HD
-http://siptv-online.com:8789/Julien90/Julien90/28825
-#EXTINF:0,CANAL 2 SPORT HD
-http://siptv-online.com:8789/Julien90/Julien90/28824
-#EXTINF:0, TVP SPORT
-http://siptv-online.com:8789/Julien90/Julien90/28823
-#EXTINF:0,ELEVEN
-http://siptv-online.com:8789/Julien90/Julien90/28822
-#EXTINF:0,ELEVEN EXTRA HD
-http://siptv-online.com:8789/Julien90/Julien90/28821
-#EXTINF:0,ELEVEN SPORTS
-http://siptv-online.com:8789/Julien90/Julien90/28820
-#EXTINF:0,POLSAT SPORT NEWS
-http://siptv-online.com:8789/Julien90/Julien90/28819
-#EXTINF:0,POLSAT SPORT
-http://siptv-online.com:8789/Julien90/Julien90/28818
-#EXTINF:0,POLSAT SPORT EXTREA
-http://siptv-online.com:8789/Julien90/Julien90/28817
-#EXTINF:0,CANAL  DISCO
-http://siptv-online.com:8789/Julien90/Julien90/28816
-#EXTINF:0,N SPORT HD
-http://siptv-online.com:8789/Julien90/Julien90/28815
+#EXTINF:-1,Eleven Sports 1
+http://212.8.248.213:8080/live/Amar1/Amar1/1307.m3u8
+#EXTINF:-1,Eleven Sports 2
+http://212.8.248.213:8080/live/Amar1/Amar1/1312.m3u8
+#EXTINF:-1,Eleven Sports 3
+http://212.8.248.213:8080/live/Amar1/Amar1/1291.m3u8
+#EXTINF:-1,N sport+ HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1325.m3u8
+#EXTINF:-1,Canal + Sport HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1313.m3u8
+#EXTINF:-1,Polsat Sport Extrea
+http://212.8.248.213:8080/live/Amar1/Amar1/1278.m3u8
+#EXTINF:-1,Canal +2 Sport HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1280.m3u8
+#EXTINF:-1,TVP Sport
+http://212.8.248.213:8080/live/Amar1/Amar1/1319.m3u8
+#EXTINF:-1,Super Polsat
+http://212.8.248.213:8080/live/Amar1/Amar1/1267.m3u8
+#EXTINF:-1,Sport Klub
+http://212.8.248.213:8080/live/Amar1/Amar1/1261.m3u8
+#EXTINF:-1,Polsat
+http://212.8.248.213:8080/live/Amar1/Amar1/1322.m3u8
+#EXTINF:-1,Polsat 2
+http://212.8.248.213:8080/live/Amar1/Amar1/1311.m3u8
+#EXTINF:-1,Polsat Sport
+http://212.8.248.213:8080/live/Amar1/Amar1/1279.m3u8
+#EXTINF:-1,Polsat Play
+http://212.8.248.213:8080/live/Amar1/Amar1/1320.m3u8
+#EXTINF:-1,Polsat Cafe
+http://212.8.248.213:8080/live/Amar1/Amar1/1301.m3u8
+#EXTINF:-1,Polsat Film HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1273.m3u8
+#EXTINF:-1,Polsat Viasat Explore HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1272.m3u8
+#EXTINF:-1,Polsat Viasat Nature
+http://212.8.248.213:8080/live/Amar1/Amar1/1271.m3u8
+#EXTINF:-1,Kuchina HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1281.m3u8
+#EXTINF:-1,Mini Mini
+http://212.8.248.213:8080/live/Amar1/Amar1/1302.m3u8
+#EXTINF:-1,TVN 4
+http://212.8.248.213:8080/live/Amar1/Amar1/1303.m3u8
+#EXTINF:-1,Film box
+http://212.8.248.213:8080/live/Amar1/Amar1/1304.m3u8
+#EXTINF:-1,Filmbox Family
+http://212.8.248.213:8080/live/Amar1/Amar1/1295.m3u8
+#EXTINF:-1,Filmbox Action
+http://212.8.248.213:8080/live/Amar1/Amar1/1324.m3u8
+#EXTINF:-1,Filmbox Premium
+http://212.8.248.213:8080/live/Amar1/Amar1/1288.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://212.8.248.213:8080/live/Amar1/Amar1/1286.m3u8
+#EXTINF:-1,Canal+ Family HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1306.m3u8
+#EXTINF:-1,Canal+ Series HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1277.m3u8
+#EXTINF:-1,Cinemax HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1300.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1264.m3u8
+#EXTINF:-1,Comedy Central
+http://212.8.248.213:8080/live/Amar1/Amar1/1263.m3u8
+#EXTINF:-1,Comedy Central Family
+http://212.8.248.213:8080/live/Amar1/Amar1/1262.m3u8
+#EXTINF:-1,Romance
+http://212.8.248.213:8080/live/Amar1/Amar1/1276.m3u8
+#EXTINF:-1,Sundance HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1270.m3u8
+#EXTINF:-1,HBO
+http://212.8.248.213:8080/live/Amar1/Amar1/1285.m3u8
+#EXTINF:-1,HBO 2
+http://212.8.248.213:8080/live/Amar1/Amar1/1283.m3u8
+#EXTINF:-1,HBO 3
+http://212.8.248.213:8080/live/Amar1/Amar1/1284.m3u8
+#EXTINF:-1,CBS Action
+http://212.8.248.213:8080/live/Amar1/Amar1/1258.m3u8
+#EXTINF:-1,CBS Europa HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1257.m3u8
+#EXTINF:-1,CBS Reality
+http://212.8.248.213:8080/live/Amar1/Amar1/1256.m3u8
+#EXTINF:-1,TLC HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1268.m3u8
+#EXTINF:-1,Travel HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1260.m3u8
+#EXTINF:-1,Ale Kino HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1265.m3u8
+#EXTINF:-1,Disney HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1282.m3u8
+#EXTINF:-1,Polo TV
+http://212.8.248.213:8080/live/Amar1/Amar1/1298.m3u8
+#EXTINF:-1,Lech
+http://212.8.248.213:8080/live/Amar1/Amar1/1310.m3u8
+#EXTINF:-1,E!
+http://212.8.248.213:8080/live/Amar1/Amar1/1275.m3u8
+#EXTINF:-1,TVN
+http://212.8.248.213:8080/live/Amar1/Amar1/1314.m3u8
+#EXTINF:-1,TVP 1
+http://212.8.248.213:8080/live/Amar1/Amar1/1299.m3u8
+#EXTINF:-1,TVP 2 HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1318.m3u8
+#EXTINF:-1,TVN 24
+http://212.8.248.213:8080/live/Amar1/Amar1/1315.m3u8
+#EXTINF:-1,TVN Turbo
+http://212.8.248.213:8080/live/Amar1/Amar1/1321.m3u8
+#EXTINF:-1,Kino Polska
+http://212.8.248.213:8080/live/Amar1/Amar1/1305.m3u8
+#EXTINF:-1,Discovery SIC
+http://212.8.248.213:8080/live/Amar1/Amar1/1323.m3u8
+#EXTINF:-1,Discovery
+http://212.8.248.213:8080/live/Amar1/Amar1/1287.m3u8
+#EXTINF:-1,History
+http://212.8.248.213:8080/live/Amar1/Amar1/1308.m3u8
+#EXTINF:-1,Nat Geo HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1274.m3u8
+#EXTINF:-1,National Geo Wild
+http://212.8.248.213:8080/live/Amar1/Amar1/1289.m3u8
+#EXTINF:-1,Planete
+http://212.8.248.213:8080/live/Amar1/Amar1/1317.m3u8
+#EXTINF:-1,TeleToon+ HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1266.m3u8
+#EXTINF:-1,Boomerang
+http://212.8.248.213:8080/live/Amar1/Amar1/1293.m3u8
+#EXTINF:-1,Bloomborg
+http://212.8.248.213:8080/live/Amar1/Amar1/1296.m3u8
+#EXTINF:-1,TVN Fabula HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1269.m3u8
+#EXTINF:-1,TVP ABC
+http://212.8.248.213:8080/live/Amar1/Amar1/1259.m3u8
+#EXTINF:-1,TVP 1 HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1294.m3u8
+#EXTINF:-1,AXN White
+http://212.8.248.213:8080/live/Amar1/Amar1/1292.m3u8
+#EXTINF:-1,AXN HD
+http://212.8.248.213:8080/live/Amar1/Amar1/1290.m3u8
+#EXTINF:-1,Ale Kino
+http://212.8.248.213:8080/live/Amar1/Amar1/1316.m3u8
+#EXTINF:-1,MTV Polska
+http://212.8.248.213:8080/live/Amar1/Amar1/1297.m3u8
+#EXTINF:-1,Music Vox 2 Tv
+http://212.8.248.213:8080/live/Amar1/Amar1/1309.m3u8
