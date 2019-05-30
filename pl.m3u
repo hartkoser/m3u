@@ -1,141 +1,353 @@
 #EXTM3U
-#EXTINF:-1,Eleven Sports 1
-http://212.8.248.213:8080/live/Amar1/Amar1/1307.m3u8
-#EXTINF:-1,Eleven Sports 2
-http://212.8.248.213:8080/live/Amar1/Amar1/1312.m3u8
-#EXTINF:-1,Eleven Sports 3
-http://212.8.248.213:8080/live/Amar1/Amar1/1291.m3u8
-#EXTINF:-1,N sport+ HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1325.m3u8
-#EXTINF:-1,Canal + Sport HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1313.m3u8
-#EXTINF:-1,Polsat Sport Extrea
-http://212.8.248.213:8080/live/Amar1/Amar1/1278.m3u8
-#EXTINF:-1,Canal +2 Sport HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1280.m3u8
-#EXTINF:-1,TVP Sport
-http://212.8.248.213:8080/live/Amar1/Amar1/1319.m3u8
-#EXTINF:-1,Super Polsat
-http://212.8.248.213:8080/live/Amar1/Amar1/1267.m3u8
-#EXTINF:-1,Sport Klub
-http://212.8.248.213:8080/live/Amar1/Amar1/1261.m3u8
-#EXTINF:-1,Polsat
-http://212.8.248.213:8080/live/Amar1/Amar1/1322.m3u8
-#EXTINF:-1,Polsat 2
-http://212.8.248.213:8080/live/Amar1/Amar1/1311.m3u8
-#EXTINF:-1,Polsat Sport
-http://212.8.248.213:8080/live/Amar1/Amar1/1279.m3u8
-#EXTINF:-1,Polsat Play
-http://212.8.248.213:8080/live/Amar1/Amar1/1320.m3u8
-#EXTINF:-1,Polsat Cafe
-http://212.8.248.213:8080/live/Amar1/Amar1/1301.m3u8
-#EXTINF:-1,Polsat Film HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1273.m3u8
-#EXTINF:-1,Polsat Viasat Explore HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1272.m3u8
-#EXTINF:-1,Polsat Viasat Nature
-http://212.8.248.213:8080/live/Amar1/Amar1/1271.m3u8
-#EXTINF:-1,Kuchina HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1281.m3u8
-#EXTINF:-1,Mini Mini
-http://212.8.248.213:8080/live/Amar1/Amar1/1302.m3u8
-#EXTINF:-1,TVN 4
-http://212.8.248.213:8080/live/Amar1/Amar1/1303.m3u8
-#EXTINF:-1,Film box
-http://212.8.248.213:8080/live/Amar1/Amar1/1304.m3u8
-#EXTINF:-1,Filmbox Family
-http://212.8.248.213:8080/live/Amar1/Amar1/1295.m3u8
-#EXTINF:-1,Filmbox Action
-http://212.8.248.213:8080/live/Amar1/Amar1/1324.m3u8
-#EXTINF:-1,Filmbox Premium
-http://212.8.248.213:8080/live/Amar1/Amar1/1288.m3u8
-#EXTINF:-1,Filmbox Arthouse
-http://212.8.248.213:8080/live/Amar1/Amar1/1286.m3u8
-#EXTINF:-1,Canal+ Family HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1306.m3u8
-#EXTINF:-1,Canal+ Series HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1277.m3u8
-#EXTINF:-1,Cinemax HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1300.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1264.m3u8
-#EXTINF:-1,Comedy Central
-http://212.8.248.213:8080/live/Amar1/Amar1/1263.m3u8
-#EXTINF:-1,Comedy Central Family
-http://212.8.248.213:8080/live/Amar1/Amar1/1262.m3u8
-#EXTINF:-1,Romance
-http://212.8.248.213:8080/live/Amar1/Amar1/1276.m3u8
-#EXTINF:-1,Sundance HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1270.m3u8
-#EXTINF:-1,HBO
-http://212.8.248.213:8080/live/Amar1/Amar1/1285.m3u8
-#EXTINF:-1,HBO 2
-http://212.8.248.213:8080/live/Amar1/Amar1/1283.m3u8
-#EXTINF:-1,HBO 3
-http://212.8.248.213:8080/live/Amar1/Amar1/1284.m3u8
-#EXTINF:-1,CBS Action
-http://212.8.248.213:8080/live/Amar1/Amar1/1258.m3u8
-#EXTINF:-1,CBS Europa HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1257.m3u8
-#EXTINF:-1,CBS Reality
-http://212.8.248.213:8080/live/Amar1/Amar1/1256.m3u8
-#EXTINF:-1,TLC HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1268.m3u8
-#EXTINF:-1,Travel HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1260.m3u8
-#EXTINF:-1,Ale Kino HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1265.m3u8
-#EXTINF:-1,Disney HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1282.m3u8
-#EXTINF:-1,Polo TV
-http://212.8.248.213:8080/live/Amar1/Amar1/1298.m3u8
-#EXTINF:-1,Lech
-http://212.8.248.213:8080/live/Amar1/Amar1/1310.m3u8
-#EXTINF:-1,E!
-http://212.8.248.213:8080/live/Amar1/Amar1/1275.m3u8
-#EXTINF:-1,TVN
-http://212.8.248.213:8080/live/Amar1/Amar1/1314.m3u8
-#EXTINF:-1,TVP 1
-http://212.8.248.213:8080/live/Amar1/Amar1/1299.m3u8
-#EXTINF:-1,TVP 2 HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1318.m3u8
-#EXTINF:-1,TVN 24
-http://212.8.248.213:8080/live/Amar1/Amar1/1315.m3u8
-#EXTINF:-1,TVN Turbo
-http://212.8.248.213:8080/live/Amar1/Amar1/1321.m3u8
-#EXTINF:-1,Kino Polska
-http://212.8.248.213:8080/live/Amar1/Amar1/1305.m3u8
-#EXTINF:-1,Discovery SIC
-http://212.8.248.213:8080/live/Amar1/Amar1/1323.m3u8
-#EXTINF:-1,Discovery
-http://212.8.248.213:8080/live/Amar1/Amar1/1287.m3u8
-#EXTINF:-1,History
-http://212.8.248.213:8080/live/Amar1/Amar1/1308.m3u8
-#EXTINF:-1,Nat Geo HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1274.m3u8
-#EXTINF:-1,National Geo Wild
-http://212.8.248.213:8080/live/Amar1/Amar1/1289.m3u8
-#EXTINF:-1,Planete
-http://212.8.248.213:8080/live/Amar1/Amar1/1317.m3u8
-#EXTINF:-1,TeleToon+ HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1266.m3u8
-#EXTINF:-1,Boomerang
-http://212.8.248.213:8080/live/Amar1/Amar1/1293.m3u8
-#EXTINF:-1,Bloomborg
-http://212.8.248.213:8080/live/Amar1/Amar1/1296.m3u8
-#EXTINF:-1,TVN Fabula HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1269.m3u8
-#EXTINF:-1,TVP ABC
-http://212.8.248.213:8080/live/Amar1/Amar1/1259.m3u8
-#EXTINF:-1,TVP 1 HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1294.m3u8
-#EXTINF:-1,AXN White
-http://212.8.248.213:8080/live/Amar1/Amar1/1292.m3u8
+#EXTINF:-1,13 Ulica FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78869.m3u8
+#EXTINF:-1,13 Ulica FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/143403.m3u8
+#EXTINF:-1,4FUN TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/151170.m3u8
+#EXTINF:-1,Adventure FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/143404.m3u8
+#EXTINF:-1,AMC HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107732.m3u8
+#EXTINF:-1,CBS EUROPA HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123501.m3u8
+#EXTINF:-1,Cinemax 2 FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/199458.m3u8
+#EXTINF:-1,Comedy Central Family [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/199459.m3u8
+#EXTINF:-1,ESKA extra TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123520.m3u8
+#EXTINF:-1,ESKA TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212286.m3u8
+#EXTINF:-1,FightBOX FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/143437.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212006.m3u8
+#EXTINF:-1,Kino Polska HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69538.m3u8
+#EXTINF:-1,MTV ROCKS HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123553.m3u8
+#EXTINF:-1,NICKTOONS HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157816.m3u8
+#EXTINF:-1,Polsat Sport Premium 1 FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/143472.m3u8
+#EXTINF:-1,Polsat Sport Premium 2 FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/143473.m3u8
+#EXTINF:-1,Polsat Sport Premium 3 FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/206485.m3u8
+#EXTINF:-1,Polsat Sport Premium 4 FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/206486.m3u8
+#EXTINF:-1,Polsat Sport Premium 5 FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/206487.m3u8
+#EXTINF:-1,Polsat Sport Premium 6 FHD [VIP]
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/206488.m3u8
+#EXTINF:-1,Travel Channel HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78900.m3u8
+#EXTINF:-1,Viva muzyka
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/113826.m3u8
+#EXTINF:-1,VOD 202
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107753.m3u8
+#EXTINF:-1,Ale Kino+ FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/98572.m3u8
+#EXTINF:-1,Amazing
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/210457.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78460.m3u8
+#EXTINF:-1,ATM ROZRYWKA TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78908.m3u8
+#EXTINF:-1,AXN Black HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74115.m3u8
 #EXTINF:-1,AXN HD
-http://212.8.248.213:8080/live/Amar1/Amar1/1290.m3u8
-#EXTINF:-1,Ale Kino
-http://212.8.248.213:8080/live/Amar1/Amar1/1316.m3u8
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69536.m3u8
+#EXTINF:-1,AXN SPIN HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123488.m3u8
+#EXTINF:-1,AXN White HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74116.m3u8
+#EXTINF:-1,BBC BRIT FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74117.m3u8
+#EXTINF:-1,BBC Earth HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74118.m3u8
+#EXTINF:-1,BBC FIRST
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214779.m3u8
+#EXTINF:-1,BBC lifestyle Polska HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212302.m3u8
+#EXTINF:-1,Boomerang HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78462.m3u8
+#EXTINF:-1,CANAL+ Discovery HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74122.m3u8
+#EXTINF:-1,CANAL+ FAMILY FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/151183.m3u8
+#EXTINF:-1,CANAL+ FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69548.m3u8
+#EXTINF:-1,CANAL+ FILM FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69547.m3u8
+#EXTINF:-1,Canal+ Seriale FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69545.m3u8
+#EXTINF:-1,CANAL+ SPORT 2 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/102841.m3u8
+#EXTINF:-1,CANAL+ SPORT FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74120.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74126.m3u8
+#EXTINF:-1,CBS ACTION
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/151185.m3u8
+#EXTINF:-1,CBS REALITY HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74127.m3u8
+#EXTINF:-1,CINEMAX 2 HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/151186.m3u8
+#EXTINF:-1,CINEMAX HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74128.m3u8
+#EXTINF:-1,Comedy Central FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74130.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69551.m3u8
+#EXTINF:-1,DISCO POLO MUSIC
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157823.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78471.m3u8
+#EXTINF:-1,Discovery HISTORIA
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/124826.m3u8
+#EXTINF:-1,Discovery Life FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123511.m3u8
+#EXTINF:-1,Discovery Science FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78920.m3u8
+#EXTINF:-1,Discovery Turbo Xtra HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78470.m3u8
+#EXTINF:-1,Disney Channel FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78880.m3u8
+#EXTINF:-1,DISNEY JR
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78469.m3u8
+#EXTINF:-1,Disney XD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78921.m3u8
+#EXTINF:-1,DOMO+ FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/152884.m3u8
+#EXTINF:-1,E! FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123516.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/143427.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/151195.m3u8
+#EXTINF:-1,Eleven Sports 3
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/210475.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/151197.m3u8
+#EXTINF:-1,eska rock TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/117586.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74131.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74132.m3u8
+#EXTINF:-1,Extreme Sports FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69533.m3u8
+#EXTINF:-1,Fightbox FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78485.m3u8
+#EXTINF:-1,FILMBOX ACTION HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74134.m3u8
+#EXTINF:-1,Filmbox Arthouse
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/117581.m3u8
+#EXTINF:-1,Filmbox Extra FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78496.m3u8
+#EXTINF:-1,FILMBOX FAMILY FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74135.m3u8
+#EXTINF:-1,FILMBOX PREMIUM HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69537.m3u8
+#EXTINF:-1,FOKUS TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157806.m3u8
+#EXTINF:-1,FOX Comedy FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107740.m3u8
+#EXTINF:-1,FOX FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/121149.m3u8
+#EXTINF:-1,Futbol 1 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/115558.m3u8
+#EXTINF:-1,Futbol 2 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/115559.m3u8
+#EXTINF:-1,GOLF CHANNEL HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123534.m3u8
+#EXTINF:-1,H2 HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123535.m3u8
+#EXTINF:-1,HBO 2 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74139.m3u8
+#EXTINF:-1,HBO 3 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74140.m3u8
+#EXTINF:-1,HBO HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74138.m3u8
+#EXTINF:-1,HGTV FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123539.m3u8
+#EXTINF:-1,HISTORY CHANNEL HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/151212.m3u8
+#EXTINF:-1,Jim Jam HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78501.m3u8
+#EXTINF:-1,KINO TV FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74133.m3u8
+#EXTINF:-1,Kuchnia HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/98590.m3u8
+#EXTINF:-1,KUCHNIA+ HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/215106.m3u8
+#EXTINF:-1,Lifetime HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/79970.m3u8
+#EXTINF:-1,METRO
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123548.m3u8
+#EXTINF:-1,MiniMini HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/143451.m3u8
+#EXTINF:-1,MOTOR WIZJA
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123551.m3u8
+#EXTINF:-1,MTV FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/127075.m3u8
+#EXTINF:-1,MTV MUSIC
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157820.m3u8
 #EXTINF:-1,MTV Polska
-http://212.8.248.213:8080/live/Amar1/Amar1/1297.m3u8
-#EXTINF:-1,Music Vox 2 Tv
-http://212.8.248.213:8080/live/Amar1/Amar1/1309.m3u8
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214929.m3u8
+#EXTINF:-1,MTV TERAZ
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/215104.m3u8
+#EXTINF:-1,Music VOX
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/210514.m3u8
+#EXTINF:-1,MUZYKA POLSKA
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/215105.m3u8
+#EXTINF:-1,NAT GEO FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69535.m3u8
+#EXTINF:-1,NAT GEO PEOPLE HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123555.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69534.m3u8
+#EXTINF:-1,Nick Junior
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/199446.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69543.m3u8
+#EXTINF:-1,NOWA TV HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123560.m3u8
+#EXTINF:-1,NSport Plus HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74144.m3u8
+#EXTINF:-1,Paramount Channel FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69553.m3u8
+#EXTINF:-1,Planete+ FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78889.m3u8
+#EXTINF:-1,Polo TV HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/121153.m3u8
+#EXTINF:-1,POLSAT 1 HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74145.m3u8
+#EXTINF:-1,POLSAT 2 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69558.m3u8
+#EXTINF:-1,POLSAT CAFE
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/135378.m3u8
+#EXTINF:-1,Polsat Doku HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/102838.m3u8
+#EXTINF:-1,Polsat FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69559.m3u8
+#EXTINF:-1,Polsat Film HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69555.m3u8
+#EXTINF:-1,Polsat Music HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107736.m3u8
+#EXTINF:-1,Polsat News 2
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/210462.m3u8
+#EXTINF:-1,Polsat News HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69556.m3u8
+#EXTINF:-1,Polsat Play FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69557.m3u8
+#EXTINF:-1,POLSAT RODZINA
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157799.m3u8
+#EXTINF:-1,POLSAT ROMANS
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74147.m3u8
+#EXTINF:-1,Polsat Sport Extra FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74149.m3u8
+#EXTINF:-1,POLSAT Sport Fight FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78076.m3u8
+#EXTINF:-1,Polsat Sport News HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74150.m3u8
+#EXTINF:-1,POLSAT Viasat Explore FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78893.m3u8
+#EXTINF:-1,Polsat Viasat History FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78894.m3u8
+#EXTINF:-1,Polsat Viasat Nature HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78895.m3u8
+#EXTINF:-1,POWER TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123580.m3u8
+#EXTINF:-1,PULS 2
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123581.m3u8
+#EXTINF:-1,Sci-Fi HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78897.m3u8
+#EXTINF:-1,Sport klub HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/149033.m3u8
+#EXTINF:-1,Stars TV HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/117591.m3u8
+#EXTINF:-1,Stop klatka TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78478.m3u8
+#EXTINF:-1,Sundance FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78898.m3u8
+#EXTINF:-1,SUPER POLSAT
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157793.m3u8
+#EXTINF:-1,Teletoon+ HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/117593.m3u8
+#EXTINF:-1,TLC FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78479.m3u8
+#EXTINF:-1,TNT FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74170.m3u8
+#EXTINF:-1,Trwam
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/210489.m3u8
+#EXTINF:-1,TTV FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123594.m3u8
+#EXTINF:-1,TV 4 HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74171.m3u8
+#EXTINF:-1,TV 6 POLSKA
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107727.m3u8
+#EXTINF:-1,TV Puls 2
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/102828.m3u8
+#EXTINF:-1,TV Puls FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78902.m3u8
+#EXTINF:-1,TV Republika HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/117597.m3u8
+#EXTINF:-1,TV6
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/210492.m3u8
+#EXTINF:-1,TVN 7 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/97428.m3u8
+#EXTINF:-1,TVN 24 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69549.m3u8
+#EXTINF:-1,TVN Fabula FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78494.m3u8
+#EXTINF:-1,TVN FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74174.m3u8
+#EXTINF:-1,TVN Style FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69550.m3u8
+#EXTINF:-1,TVN Turbo FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74151.m3u8
+#EXTINF:-1,TVP 1 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69567.m3u8
+#EXTINF:-1,TVP 2 FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69566.m3u8
+#EXTINF:-1,TVP 3 HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74152.m3u8
+#EXTINF:-1,TVP abc HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/102830.m3u8
+#EXTINF:-1,TVP Historiy HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69560.m3u8
+#EXTINF:-1,TVP Info FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74153.m3u8
+#EXTINF:-1,TVP KULTURA HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157850.m3u8
+#EXTINF:-1,TVP Polonia HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69561.m3u8
+#EXTINF:-1,TVP ROZRYWKA
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107725.m3u8
+#EXTINF:-1,TVP SERIALE
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214902.m3u8
+#EXTINF:-1,TVP Sport FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74155.m3u8
+#EXTINF:-1,TVP vod HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/74178.m3u8
+#EXTINF:-1,TVS HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107728.m3u8
+#EXTINF:-1,UNIRESAT HD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157858.m3u8
+#EXTINF:-1,Universal FHD
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/69552.m3u8
+#EXTINF:-1,VH1
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123624.m3u8
+#EXTINF:-1,VOD 206
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107755.m3u8
+#EXTINF:-1,VOD 207
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123626.m3u8
+#EXTINF:-1,VOD 208
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/107756.m3u8
+#EXTINF:-1,WP
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/78842.m3u8
+#EXTINF:-1,ZOOM TV
+http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123631.m3u8
