@@ -37,12 +37,8 @@ http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
 https://strm.yandex.ru/kal/acb/acb0.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Movies",Akudji TV [720p]
 http://stream1.cybergame.tv:8080/live/akudjio.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://crushgame.ru/channels_logos/Films/amedia_1.png" group-title="",Amedia 1
-http://stream.euroasia.lfstrm.tv/amedia_1/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://amediatv.ru/wp-content/uploads/2017/09/a2.png" group-title="",Amedia 2
 http://sc.id-tv.kz/A2_36_37.m3u8
-#EXTINF:-1 tvg-id="amediapremium.ru" tvg-name="Amedia Premium" tvg-logo="" group-title="Movies",Amedia Premium [480p]
-http://ott-cdn.ucom.am/s64/index.m3u8
 #EXTINF:-1 tvg-id="amediapremium.ru" tvg-name="Amedia Premium" tvg-logo="" group-title="Movies",Amedia Premium [480p]
 http://92.43.140.249/s64/04.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://graph.company/assets/images/clients/amediateka_logo.png" group-title="",Amediateka HBO
@@ -51,10 +47,6 @@ http://persik.by/stream/2944/263250/643.m3u8
 http://atv.stream-1.burnet.ru/atv/studio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://afontovo.ru/bitrix/templates/dvt.afontovo.ru/img.src/logo.png" group-title="",AАфонтово
 http://xstream.afontovo.ru/afontovo_sd.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.ntvplus.ru/files/image/01/24/76/channel!qsx.png" group-title="",Bollywood
-http://stream.euroasia.lfstrm.tv/bollywood_hd/1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/Boomerang_tv_logo.png" group-title="",Boomerang Россия
-http://stream.euroasia.lfstrm.tv/boomerang/1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Shop",Boutique TV [576p]
 http://live-btq.cdnvideo.ru/btq/btq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="Bridge.ru" tvg-name="Bridge TV" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/bridge_tv_ru.jpg" group-title="Music",Bridge TV
