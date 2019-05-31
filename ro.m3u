@@ -1,35 +1,119 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84711.m3u8
-#EXTINF:-1,Antena 1
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84714.m3u8
-#EXTINF:-1,Antena Stars
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84713.m3u8
-#EXTINF:-1,Digi 24
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84702.m3u8
-#EXTINF:-1,Digi Animal World
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84703.m3u8
-#EXTINF:-1,Digi Film
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84704.m3u8
-#EXTINF:-1,Digi Life
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84706.m3u8
-#EXTINF:-1,Digi Sport 1
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84710.m3u8
-#EXTINF:-1,Digi Sport 2
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84709.m3u8
-#EXTINF:-1,Digi Sport 3
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84708.m3u8
-#EXTINF:-1,Digi Sport 4
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84707.m3u8
-#EXTINF:-1,Digi World
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84705.m3u8
-#EXTINF:-1,Prima Tv
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84701.m3u8
-#EXTINF:-1,ProTV
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84712.m3u8
-#EXTINF:-1,Romania Tv
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84715.m3u8
 #EXTINF:-1,TVR 1
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84717.m3u8
+http://www.pandar.tv:25461/hatem/hatem/29487
 #EXTINF:-1,TVR 2
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/84716.m3u8
+http://www.pandar.tv:25461/hatem/hatem/29486
+#EXTINF:-1,U TV
+http://www.pandar.tv:25461/hatem/hatem/29485
+#EXTINF:-1,VIASAT NATURE
+http://www.pandar.tv:25461/hatem/hatem/29484
+#EXTINF:-1,VIASAT HISTORY
+http://www.pandar.tv:25461/hatem/hatem/29483
+#EXTINF:-1,ROMANIA TV
+http://www.pandar.tv:25461/hatem/hatem/29482
+#EXTINF:-1,REALITATEA
+http://www.pandar.tv:25461/hatem/hatem/29481
+#EXTINF:-1,AGRO TV
+http://www.pandar.tv:25461/hatem/hatem/29480
+#EXTINF:-1,PRO TV
+http://www.pandar.tv:25461/hatem/hatem/29479
+#EXTINF:-1,NICKELODEON
+http://www.pandar.tv:25461/hatem/hatem/29478
+#EXTINF:-1,NGC WILD
+http://www.pandar.tv:25461/hatem/hatem/29477
+#EXTINF:-1,MUSIC CHANNEL HU
+http://www.pandar.tv:25461/hatem/hatem/29476
+#EXTINF:-1,MEGAMAX
+http://www.pandar.tv:25461/hatem/hatem/29475
+#EXTINF:-1,KISS TV
+http://www.pandar.tv:25461/hatem/hatem/29474
+#EXTINF:-1,KANAL D
+http://www.pandar.tv:25461/hatem/hatem/29473
+#EXTINF:-1,HISTORY CHANNEL
+http://www.pandar.tv:25461/hatem/hatem/29472
+#EXTINF:-1,HBO ROMANIA
+http://www.pandar.tv:25461/hatem/hatem/29471
+#EXTINF:-1,HBO 2
+http://www.pandar.tv:25461/hatem/hatem/29470
+#EXTINF:-1,AXN ROMANIA
+http://www.pandar.tv:25461/hatem/hatem/29469
+#EXTINF:-1,AXN WHITE
+http://www.pandar.tv:25461/hatem/hatem/29468
+#EXTINF:-1,DISNEY JUNIOR
+http://www.pandar.tv:25461/hatem/hatem/29467
+#EXTINF:-1,DIGI WORLD
+http://www.pandar.tv:25461/hatem/hatem/29466
+#EXTINF:-1,DIGI LIFE
+http://www.pandar.tv:25461/hatem/hatem/29465
+#EXTINF:-1,DIGI FILM
+http://www.pandar.tv:25461/hatem/hatem/29464
+#EXTINF:-1,DIGI ANIMAL WORLD
+http://www.pandar.tv:25461/hatem/hatem/29463
+#EXTINF:-1,DIGI 24
+http://www.pandar.tv:25461/hatem/hatem/29462
+#EXTINF:-1,CINEMAX RO
+http://www.pandar.tv:25461/hatem/hatem/29461
+#EXTINF:-1,CINEMAX 2
+http://www.pandar.tv:25461/hatem/hatem/29460
+#EXTINF:-1,LOOK TV
+http://www.pandar.tv:25461/hatem/hatem/29459
+#EXTINF:-1,LOOK PLUS TV
+http://www.pandar.tv:25461/hatem/hatem/29458
+#EXTINF:-1,B1
+http://www.pandar.tv:25461/hatem/hatem/29457
+#EXTINF:-1,ANTENA 1
+http://www.pandar.tv:25461/hatem/hatem/29456
+#EXTINF:-1,ANTENA 3
+http://www.pandar.tv:25461/hatem/hatem/29455
+#EXTINF:-1,ACASA TV
+http://www.pandar.tv:25461/hatem/hatem/29454
+#EXTINF:-1,ANTENA STARS
+http://www.pandar.tv:25461/hatem/hatem/29453
+#EXTINF:-1,PRIMA TV
+http://www.pandar.tv:25461/hatem/hatem/29452
+#EXTINF:-1,HAPPY CHANNEL
+http://www.pandar.tv:25461/hatem/hatem/29451
+#EXTINF:-1,NATIONAL TV
+http://www.pandar.tv:25461/hatem/hatem/29450
+#EXTINF:-1,BOOMERANG
+http://www.pandar.tv:25461/hatem/hatem/29449
+#EXTINF:-1,MINIMAX
+http://www.pandar.tv:25461/hatem/hatem/29448
+#EXTINF:-1,PRO CINEMA
+http://www.pandar.tv:25461/hatem/hatem/29447
+#EXTINF:-1,HBO 3
+http://www.pandar.tv:25461/hatem/hatem/29446
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://www.pandar.tv:25461/hatem/hatem/29445
+#EXTINF:-1,TV5 MONDE
+http://www.pandar.tv:25461/hatem/hatem/29444
+#EXTINF:-1,TRINITAS
+http://www.pandar.tv:25461/hatem/hatem/29443
+#EXTINF:-1,TNT HD
+http://www.pandar.tv:25461/hatem/hatem/29442
+#EXTINF:-1,ETNO TV
+http://www.pandar.tv:25461/hatem/hatem/29441
+#EXTINF:-1,TARAF TV
+http://www.pandar.tv:25461/hatem/hatem/29440
+#EXTINF:-1,FISHING & HUNTING
+http://www.pandar.tv:25461/hatem/hatem/29439
+#EXTINF:-1,NGC
+http://www.pandar.tv:25461/hatem/hatem/29438
+#EXTINF:-1,FAVORIT TV
+http://www.pandar.tv:25461/hatem/hatem/29437
+#EXTINF:-1,DIGI SPORT 1
+http://www.pandar.tv:25461/hatem/hatem/29435
+#EXTINF:-1,DIGI SPORT 2
+http://www.pandar.tv:25461/hatem/hatem/29434
+#EXTINF:-1,DIGI SPORT 3
+http://www.pandar.tv:25461/hatem/hatem/29433
+#EXTINF:-1,DIGI SPORT 4
+http://www.pandar.tv:25461/hatem/hatem/29432
+#EXTINF:-1,SPORT.RO
+http://www.pandar.tv:25461/hatem/hatem/29431
+#EXTINF:-1,EUROSPORT
+http://www.pandar.tv:25461/hatem/hatem/29430
+#EXTINF:-1,EUROSPORT 2
+http://www.pandar.tv:25461/hatem/hatem/29429
+#EXTINF:-1,1 MUSIC CHANNEL
+http://www.pandar.tv:25461/hatem/hatem/29428
