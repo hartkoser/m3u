@@ -1,109 +1,227 @@
 #EXTM3U
-#EXTINF:-1,24 KITCHEN HD
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100711.m3u8
-#EXTINF:-1,CANAL NOS
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100710.m3u8
-#EXTINF:-1,CANAL PANDA
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100709.m3u8
-#EXTINF:-1,CANAL Q
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100708.m3u8
-#EXTINF:-1,CANĿªO NOVA
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100707.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100706.m3u8
-#EXTINF:-1,CINEMUNDO
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100705.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100704.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100703.m3u8
-#EXTINF:-1,E! ENTERTAINMENT
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100702.m3u8
-#EXTINF:-1,TV RECORD
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100667.m3u8
-#EXTINF:-1,TV5 MONDE
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100666.m3u8
-#EXTINF:-1,TVCINE 1 HD
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100665.m3u8
-#EXTINF:-1,TVCINE 2
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100664.m3u8
-#EXTINF:-1,TVCINE 4
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100663.m3u8
-#EXTINF:-1,TVE 24H
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100662.m3u8
-#EXTINF:-1,TVE INTERNACIONAL
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100661.m3u8
-#EXTINF:-1,TVI
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100660.m3u8
-#EXTINF:-1,TVI 24
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100659.m3u8
-#EXTINF:-1,TVI REALITY
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100658.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100700.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100699.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100698.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100697.m3u8
-#EXTINF:-1,EURONEWS
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100701.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100696.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100695.m3u8
-#EXTINF:-1,GLOBO
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100694.m3u8
-#EXTINF:-1,GLOBO PREMIUM
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100693.m3u8
-#EXTINF:-1,NICK JR.
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100692.m3u8
-#EXTINF:-1,NICKELODEON
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100691.m3u8
-#EXTINF:-1,ODISSEIA
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100690.m3u8
-#EXTINF:-1,PFC
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100689.m3u8
-#EXTINF:-1,PORTO CANAL
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100688.m3u8
-#EXTINF:-1,REAL MADRID TV
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100687.m3u8
 #EXTINF:-1,RTP 1
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100686.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7762.m3u8
 #EXTINF:-1,RTP 2
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100685.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7761.m3u8
 #EXTINF:-1,RTP 3
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100684.m3u8
-#EXTINF:-1,RTP AĿORES
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100683.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100682.m3u8
-#EXTINF:-1,RTP MEMÐRIA
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100681.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7803.m3u8
+#EXTINF:-1,RTP Memoria
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7807.m3u8
+#EXTINF:-1,RTP Ãfrica
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7805.m3u8
+#EXTINF:-1,RTP Madeira
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7806.m3u8
+#EXTINF:-1,RTP Acores
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7804.m3u8
+#EXTINF:-1,SIC HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7760.m3u8
 #EXTINF:-1,SIC
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100680.m3u8
-#EXTINF:-1,SIC CARAS
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100679.m3u8
-#EXTINF:-1,SIC K
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100678.m3u8
-#EXTINF:-1,SIC MULHER
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100677.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100676.m3u8
-#EXTINF:-1,SIC RADICAL
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100675.m3u8
-#EXTINF:-1,SPORT TV
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100674.m3u8
-#EXTINF:-1,SPORT TV 1
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100673.m3u8
-#EXTINF:-1,SPORT TV 2
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100672.m3u8
-#EXTINF:-1,SPORT TV 3
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100671.m3u8
-#EXTINF:-1,SPORT TV 4
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100670.m3u8
-#EXTINF:-1,SPORT TV 5
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100669.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15376.m3u8
+#EXTINF:-1,SIC Radical
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15380.m3u8
+#EXTINF:-1,SIC Caras
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15377.m3u8
+#EXTINF:-1,SIC Mulher
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15379.m3u8
+#EXTINF:-1,Tvi 24
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7752.m3u8
+#EXTINF:-1,TVI
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7744.m3u8
+#EXTINF:-1,TVI FICCAO
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7751.m3u8
+#EXTINF:-1,Porto Canal
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7763.m3u8
+#EXTINF:-1,TPA Angola
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7808.m3u8
+#EXTINF:-1,TV Globo Premium
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7818.m3u8
+#EXTINF:-1,Cancao Nova
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15381.m3u8
+#EXTINF:-1,FTV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15372.m3u8
+#EXTINF:-1,Fuel TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15373.m3u8
+#EXTINF:-1,Globo
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15362.m3u8
+#EXTINF:-1,Globo Premium
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15374.m3u8
+#EXTINF:-1,TVE Internacional
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15382.m3u8
+#EXTINF:-1,MOV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7766.m3u8
+#EXTINF:-1,Eleven Sport 1 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21586.m3u8
+#EXTINF:-1,Eleven Sport 2 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21585.m3u8
+#EXTINF:-1,Eleven Sport 3 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21584.m3u8
+#EXTINF:-1,Eleven Sport 4 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21583.m3u8
+#EXTINF:-1,Eleven Sport 5 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21582.m3u8
+#EXTINF:-1,Eleven Sport 6 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21581.m3u8
+#EXTINF:-1,SPORT TV +
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15368.m3u8
+#EXTINF:-1,SPORT TV + HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7816.m3u8
+#EXTINF:-1,SPORTTV 1 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7758.m3u8
+#EXTINF:-1,SPORTTV 1 SD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8469.m3u8
+#EXTINF:-1,SPORTTV 2 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7746.m3u8
+#EXTINF:-1,SPORTTV 2 SD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8470.m3u8
+#EXTINF:-1,SPORTTV 3 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7757.m3u8
+#EXTINF:-1,SPORTTV 3 SD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8471.m3u8
+#EXTINF:-1,SPORTTV 4 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7756.m3u8
+#EXTINF:-1,SPORTTV 5 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7745.m3u8
+#EXTINF:-1,EUROSPORT NEWS
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7769.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7743.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7739.m3u8
+#EXTINF:-1,BTV 1 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7742.m3u8
 #EXTINF:-1,SPORTING TV
-http://s1.electru.biz:8080/live/timothy.shannon60@gmail.com/06hxDuw13L/100668.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7759.m3u8
+#EXTINF:-1,Motors TV HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7822.m3u8
+#EXTINF:-1,PFC
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7764.m3u8
+#EXTINF:-1,Caca & Pesca
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7833.m3u8
+#EXTINF:-1,ABOLA TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7771.m3u8
+#EXTINF:-1,Kombat Sport
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18298.m3u8
+#EXTINF:-1,NBA TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18297.m3u8
+#EXTINF:-1,National Geographic HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8406.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7821.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15360.m3u8
+#EXTINF:-1,Discovery Channel
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13858.m3u8
+#EXTINF:-1,Odisseia
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7765.m3u8
+#EXTINF:-1,Travel Channel HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8407.m3u8
+#EXTINF:-1,Historia
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15363.m3u8
+#EXTINF:-1,Canal Historia
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7832.m3u8
+#EXTINF:-1,CANAL PANDA
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7815.m3u8
+#EXTINF:-1,Nickelodeon
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7812.m3u8
+#EXTINF:-1,Baby First
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15358.m3u8
+#EXTINF:-1,Baby Tv
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15359.m3u8
+#EXTINF:-1,Biggs
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15370.m3u8
+#EXTINF:-1,Panda Biggs
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7811.m3u8
+#EXTINF:-1,SIC Kids HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7810.m3u8
+#EXTINF:-1,SIC K
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15378.m3u8
+#EXTINF:-1,Cartoon NetWork
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7814.m3u8
+#EXTINF:-1,Disney Channel
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7813.m3u8
+#EXTINF:-1,Disney Junior
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7747.m3u8
+#EXTINF:-1,TVCINE 1 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7809.m3u8
+#EXTINF:-1,TVCINE 2 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7755.m3u8
+#EXTINF:-1,TVCINE 3 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7754.m3u8
+#EXTINF:-1,TVCINE 4 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7753.m3u8
+#EXTINF:-1,Hollywood HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7767.m3u8
+#EXTINF:-1,AMC
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15357.m3u8
+#EXTINF:-1,FOX Movies
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7824.m3u8
+#EXTINF:-1,AXN HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7830.m3u8
+#EXTINF:-1,AXN WHITE
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7748.m3u8
+#EXTINF:-1,AXN WHITE FHD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15994.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7749.m3u8
+#EXTINF:-1,CINEMUNDO
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7740.m3u8
+#EXTINF:-1,FOX Crime HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7826.m3u8
+#EXTINF:-1,FOX HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7768.m3u8
+#EXTINF:-1,Fox Life HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7825.m3u8
+#EXTINF:-1,FOX COMEDY
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8473.m3u8
+#EXTINF:-1,FX
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7823.m3u8
+#EXTINF:-1,TVC Series HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15993.m3u8
+#EXTINF:-1,SyFy
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7819.m3u8
+#EXTINF:-1,A&E
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7837.m3u8
+#EXTINF:-1,E! Entertaunment
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7828.m3u8
+#EXTINF:-1,TVI REALITY
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8494.m3u8
+#EXTINF:-1,TLC
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15369.m3u8
+#EXTINF:-1,CBS Reality
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7831.m3u8
+#EXTINF:-1,Crime Investigation
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18299.m3u8
+#EXTINF:-1,Dog TV FHD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18296.m3u8
+#EXTINF:-1,Fine Living FHD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18294.m3u8
+#EXTINF:-1,Food Network HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18295.m3u8
+#EXTINF:-1,TVI Reality Mosaico
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21437.m3u8
+#EXTINF:-1,TVI Reality Camara Exclusiva 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21439.m3u8
+#EXTINF:-1,TVI Reality Camara Exclusiva 3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21440.m3u8
+#EXTINF:-1,MCM Pop
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15365.m3u8
+#EXTINF:-1,MCM Top
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15366.m3u8
+#EXTINF:-1,Motorvision
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15364.m3u8
+#EXTINF:-1,MTV Portugal
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15367.m3u8
+#EXTINF:-1,Afro Music
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7750.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8408.m3u8
+#EXTINF:-1,Record News
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15375.m3u8
+#EXTINF:-1,SIC Noticias HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8409.m3u8
+#EXTINF:-1,SIC Noticias
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7820.m3u8
+#EXTINF:-1,CMTV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7829.m3u8
+#EXTINF:-1,EUroNews
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15361.m3u8

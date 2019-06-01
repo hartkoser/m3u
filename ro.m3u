@@ -1,297 +1,243 @@
 #EXTM3U
-#EXTINF:-1,Antena 3 HD
-http://dibo.live:8080/live/Antonio1/Antonio/155448.m3u8
+#EXTINF:-1,AXN
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18557.m3u8
+#EXTINF:-1,AXN Black
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18556.m3u8
 #EXTINF:-1,AXN HD
-http://dibo.live:8080/live/Antonio1/Antonio/90209.m3u8
-#EXTINF:-1,AXN Spin
-http://dibo.live:8080/live/Antonio1/Antonio/211001.m3u8
-#EXTINF:-1,Balkanika
-http://dibo.live:8080/live/Antonio1/Antonio/211024.m3u8
-#EXTINF:-1,Comedy Central
-http://dibo.live:8080/live/Antonio1/Antonio/211003.m3u8
-#EXTINF:-1,Da Vinci Learning
-http://dibo.live:8080/live/Antonio1/Antonio/112916.m3u8
-#EXTINF:-1,Digi Sport 1 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/210972.m3u8
-#EXTINF:-1,Digi Sport 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/210974.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://dibo.live:8080/live/Antonio1/Antonio/112928.m3u8
-#EXTINF:-1,Diva
-http://dibo.live:8080/live/Antonio1/Antonio/211004.m3u8
-#EXTINF:-1,Extreme Sport
-http://dibo.live:8080/live/Antonio1/Antonio/210985.m3u8
-#EXTINF:-1,Film Box
-http://dibo.live:8080/live/Antonio1/Antonio/210991.m3u8
-#EXTINF:-1,Film Box Extra HD
-http://dibo.live:8080/live/Antonio1/Antonio/210992.m3u8
-#EXTINF:-1,Film Caf
-http://dibo.live:8080/live/Antonio1/Antonio/210993.m3u8
-#EXTINF:-1,Film Mania
-http://dibo.live:8080/live/Antonio1/Antonio/208960.m3u8
-#EXTINF:-1,Filmbox Family
-http://dibo.live:8080/live/Antonio1/Antonio/210994.m3u8
-#EXTINF:-1,FilmBox Plus INT
-http://dibo.live:8080/live/Antonio1/Antonio/210995.m3u8
-#EXTINF:-1,FilmBox Premium
-http://dibo.live:8080/live/Antonio1/Antonio/112952.m3u8
-#EXTINF:-1,HBO 1
-http://dibo.live:8080/live/Antonio1/Antonio/210997.m3u8
-#EXTINF:-1,Hit Music
-http://dibo.live:8080/live/Antonio1/Antonio/133932.m3u8
-#EXTINF:-1,Impact TV HD
-http://dibo.live:8080/live/Antonio1/Antonio/208962.m3u8
-#EXTINF:-1,Investigation Disvovery
-http://dibo.live:8080/live/Antonio1/Antonio/211028.m3u8
-#EXTINF:-1,JimJam
-http://dibo.live:8080/live/Antonio1/Antonio/208963.m3u8
-#EXTINF:-1,Mooz
-http://dibo.live:8080/live/Antonio1/Antonio/211039.m3u8
-#EXTINF:-1,MTV Dance
-http://dibo.live:8080/live/Antonio1/Antonio/112977.m3u8
-#EXTINF:-1,MTV Hits
-http://dibo.live:8080/live/Antonio1/Antonio/112978.m3u8
-#EXTINF:-1,Music Channel
-http://dibo.live:8080/live/Antonio1/Antonio/211040.m3u8
-#EXTINF:-1,Nick Junior
-http://dibo.live:8080/live/Antonio1/Antonio/118377.m3u8
-#EXTINF:-1,PRO TV International
-http://dibo.live:8080/live/Antonio1/Antonio/211012.m3u8
-#EXTINF:-1,Realitatea Tv
-http://dibo.live:8080/live/Antonio1/Antonio/197048.m3u8
-#EXTINF:-1,Somax TV
-http://dibo.live:8080/live/Antonio1/Antonio/112998.m3u8
-#EXTINF:-1,Sundance TV
-http://dibo.live:8080/live/Antonio1/Antonio/145812.m3u8
-#EXTINF:-1,TELEKOM SPORT 5 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/210978.m3u8
-#EXTINF:-1,TELEKOM SPORT 6 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/210980.m3u8
-#EXTINF:-1,The Voice
-http://dibo.live:8080/live/Antonio1/Antonio/211041.m3u8
-#EXTINF:-1,Travel Mix
-http://dibo.live:8080/live/Antonio1/Antonio/211034.m3u8
-#EXTINF:-1,Tv
-http://dibo.live:8080/live/Antonio1/Antonio/211020.m3u8
-#EXTINF:-1,TVR Cluj
-http://dibo.live:8080/live/Antonio1/Antonio/207679.m3u8
-#EXTINF:-1,TVR Craiova
-http://dibo.live:8080/live/Antonio1/Antonio/207680.m3u8
-#EXTINF:-1,TVR Iasi
-http://dibo.live:8080/live/Antonio1/Antonio/207681.m3u8
-#EXTINF:-1,TVR Int
-http://dibo.live:8080/live/Antonio1/Antonio/211016.m3u8
-#EXTINF:-1,TVR Tg Mures
-http://dibo.live:8080/live/Antonio1/Antonio/207682.m3u8
-#EXTINF:-1,TVR Timisoara
-http://dibo.live:8080/live/Antonio1/Antonio/207683.m3u8
-#EXTINF:-1,Viasat HD
-http://dibo.live:8080/live/Antonio1/Antonio/211031.m3u8
-#EXTINF:-1,###### ROMANIA ######
-http://dibo.live:8080/live/Antonio1/Antonio/213067.m3u8
-#EXTINF:-1,1 Music Channel
-http://dibo.live:8080/live/Antonio1/Antonio/184564.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18555.m3u8
+#EXTINF:-1,AXN SPIN
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18554.m3u8
+#EXTINF:-1,AXN White
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18553.m3u8
 #EXTINF:-1,Acasa HD
-http://dibo.live:8080/live/Antonio1/Antonio/209570.m3u8
-#EXTINF:-1,Agro TV
-http://dibo.live:8080/live/Antonio1/Antonio/75025.m3u8
-#EXTINF:-1,AMC
-http://dibo.live:8080/live/Antonio1/Antonio/63031.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://dibo.live:8080/live/Antonio1/Antonio/63030.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16068.m3u8
+#EXTINF:-1,Animal Planet HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16069.m3u8
+#EXTINF:-1,Antena 1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13434.m3u8
 #EXTINF:-1,Antena 1 HD
-http://dibo.live:8080/live/Antonio1/Antonio/155447.m3u8
-#EXTINF:-1,Antena International
-http://dibo.live:8080/live/Antonio1/Antonio/211007.m3u8
-#EXTINF:-1,Antena Star HD
-http://dibo.live:8080/live/Antonio1/Antonio/134500.m3u8
-#EXTINF:-1,Arena Sport 1
-http://dibo.live:8080/live/Antonio1/Antonio/210031.m3u8
-#EXTINF:-1,Arena Sport 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/210032.m3u8
-#EXTINF:-1,Arena Sport 3 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/210033.m3u8
-#EXTINF:-1,Arena Sport 4 HD
-http://dibo.live:8080/live/Antonio1/Antonio/210917.m3u8
-#EXTINF:-1,Auto Motor Sport FHD
-http://dibo.live:8080/live/Antonio1/Antonio/207647.m3u8
-#EXTINF:-1,AXN BLACK
-http://dibo.live:8080/live/Antonio1/Antonio/112894.m3u8
-#EXTINF:-1,AXN White HD
-http://dibo.live:8080/live/Antonio1/Antonio/90210.m3u8
-#EXTINF:-1,B1 HD
-http://dibo.live:8080/live/Antonio1/Antonio/98558.m3u8
-#EXTINF:-1,BBC Earth HD
-http://dibo.live:8080/live/Antonio1/Antonio/112899.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18561.m3u8
+#EXTINF:-1,Antena 3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18560.m3u8
+#EXTINF:-1,Antena 3 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18559.m3u8
+#EXTINF:-1,Antena Stars
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13433.m3u8
+#EXTINF:-1,Antena Stars HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18558.m3u8
+#EXTINF:-1,B1 Tv
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13432.m3u8
 #EXTINF:-1,Boomerang
-http://dibo.live:8080/live/Antonio1/Antonio/63029.m3u8
-#EXTINF:-1,Canal D
-http://dibo.live:8080/live/Antonio1/Antonio/155207.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18552.m3u8
 #EXTINF:-1,Cartoon Network
-http://dibo.live:8080/live/Antonio1/Antonio/63027.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/63026.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18550.m3u8
+#EXTINF:-1,Cinemax 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13431.m3u8
 #EXTINF:-1,Cinemax HD
-http://dibo.live:8080/live/Antonio1/Antonio/63024.m3u8
-#EXTINF:-1,DIBI TV
-http://dibo.live:8080/live/Antonio1/Antonio/62992.m3u8
-#EXTINF:-1,Digi 24 HD
-http://dibo.live:8080/live/Antonio1/Antonio/63016.m3u8
-#EXTINF:-1,Digi ANIMAL WORLD HD
-http://dibo.live:8080/live/Antonio1/Antonio/63015.m3u8
-#EXTINF:-1,Digi FILM HD
-http://dibo.live:8080/live/Antonio1/Antonio/210989.m3u8
-#EXTINF:-1,Digi Film NOW HD
-http://dibo.live:8080/live/Antonio1/Antonio/155777.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16070.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18551.m3u8
+#EXTINF:-1,DIGI 24 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18574.m3u8
+#EXTINF:-1,DIGI ANIMAL WORLD HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18577.m3u8
+#EXTINF:-1,DIGI FILM HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18576.m3u8
+#EXTINF:-1,DIGI Life HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18575.m3u8
+#EXTINF:-1,DIGI Sport 1 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18573.m3u8
+#EXTINF:-1,Digi Sport 1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13426.m3u8
+#EXTINF:-1,DIGI Sport 2 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18572.m3u8
+#EXTINF:-1,Digi Sport 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13425.m3u8
+#EXTINF:-1,DIGI Sport 3 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18571.m3u8
+#EXTINF:-1,Digi Sport 3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13424.m3u8
+#EXTINF:-1,Digi Sport 4
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13423.m3u8
+#EXTINF:-1,Telekom Sport 1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13420.m3u8
+#EXTINF:-1,Telekom Sport 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13419.m3u8
+#EXTINF:-1,DolceSport 5 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18570.m3u8
+#EXTINF:-1,Dolce Sport 5
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16064.m3u8
+#EXTINF:-1,DolceSport 6 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18569.m3u8
+#EXTINF:-1,Dolce Sport 6
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16065.m3u8
+#EXTINF:-1,DIGI WORLD HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18568.m3u8
+#EXTINF:-1,DTX
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18545.m3u8
+#EXTINF:-1,DTX HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18544.m3u8
+#EXTINF:-1,Digi 24
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13430.m3u8
+#EXTINF:-1,Digi Animal World
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13429.m3u8
+#EXTINF:-1,Digi Film
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13428.m3u8
 #EXTINF:-1,Digi Life
-http://dibo.live:8080/live/Antonio1/Antonio/63013.m3u8
-#EXTINF:-1,Digi Sport 1 HD
-http://dibo.live:8080/live/Antonio1/Antonio/65872.m3u8
-#EXTINF:-1,Digi Sport 2 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/65871.m3u8
-#EXTINF:-1,Digi Sport 3 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/210975.m3u8
-#EXTINF:-1,Digi Sport 3 HD
-http://dibo.live:8080/live/Antonio1/Antonio/65870.m3u8
-#EXTINF:-1,DIGI SPORT 4 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/110982.m3u8
-#EXTINF:-1,Digi Sport 4 HD
-http://dibo.live:8080/live/Antonio1/Antonio/210977.m3u8
-#EXTINF:-1,Digi WORLD HD
-http://dibo.live:8080/live/Antonio1/Antonio/63012.m3u8
-#EXTINF:-1,Discovery Channel
-http://dibo.live:8080/live/Antonio1/Antonio/63011.m3u8
-#EXTINF:-1,Discovery Science HD
-http://dibo.live:8080/live/Antonio1/Antonio/63010.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13427.m3u8
+#EXTINF:-1,Digi World
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13422.m3u8
+#EXTINF:-1,Discovery
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18567.m3u8
+#EXTINF:-1,Discovery ID
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18566.m3u8
+#EXTINF:-1,Discovery Science
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18565.m3u8
 #EXTINF:-1,Disney Channel
-http://dibo.live:8080/live/Antonio1/Antonio/63009.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18564.m3u8
 #EXTINF:-1,Disney Junior
-http://dibo.live:8080/live/Antonio1/Antonio/63008.m3u8
-#EXTINF:-1,Etno HD
-http://dibo.live:8080/live/Antonio1/Antonio/156195.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://dibo.live:8080/live/Antonio1/Antonio/145815.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/62973.m3u8
-#EXTINF:-1,FAVORIT TV
-http://dibo.live:8080/live/Antonio1/Antonio/90218.m3u8
-#EXTINF:-1,Film Cafe
-http://dibo.live:8080/live/Antonio1/Antonio/160927.m3u8
-#EXTINF:-1,Fishing & Hunting HD
-http://dibo.live:8080/live/Antonio1/Antonio/75030.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13421.m3u8
+#EXTINF:-1,E! Entertainment
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18543.m3u8
+#EXTINF:-1,E! Entertainment HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18542.m3u8
+#EXTINF:-1,Etno TV HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16071.m3u8
+#EXTINF:-1,Eurosport
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13418.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16072.m3u8
+#EXTINF:-1,Eurosport 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13417.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16073.m3u8
+#EXTINF:-1,Extreme Sport
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18540.m3u8
+#EXTINF:-1,Favorit Tv
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13416.m3u8
+#EXTINF:-1,Fishing & Hunting
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13415.m3u8
 #EXTINF:-1,Food Network HD
-http://dibo.live:8080/live/Antonio1/Antonio/112954.m3u8
-#EXTINF:-1,HAPPY CHANNEL HD
-http://dibo.live:8080/live/Antonio1/Antonio/98561.m3u8
-#EXTINF:-1,HBO 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/63006.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18546.m3u8
+#EXTINF:-1,HBO 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13413.m3u8
+#EXTINF:-1,HBO 3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13412.m3u8
 #EXTINF:-1,HBO 3 HD
-http://dibo.live:8080/live/Antonio1/Antonio/63005.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18562.m3u8
 #EXTINF:-1,HBO HD
-http://dibo.live:8080/live/Antonio1/Antonio/63004.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18547.m3u8
+#EXTINF:-1,HBO2 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18563.m3u8
+#EXTINF:-1,HBOmania
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18548.m3u8
+#EXTINF:-1,HIT MUSIC
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18538.m3u8
+#EXTINF:-1,Happy Channel HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18549.m3u8
+#EXTINF:-1,Happy TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13414.m3u8
 #EXTINF:-1,History Channel
-http://dibo.live:8080/live/Antonio1/Antonio/63001.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13411.m3u8
+#EXTINF:-1,History HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18539.m3u8
+#EXTINF:-1,Hora TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18537.m3u8
+#EXTINF:-1,JimJam
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18536.m3u8
+#EXTINF:-1,KISS TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13409.m3u8
+#EXTINF:-1,Kanal D
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13410.m3u8
 #EXTINF:-1,Kanal D HD
-http://dibo.live:8080/live/Antonio1/Antonio/155780.m3u8
-#EXTINF:-1,KISS TV HD
-http://dibo.live:8080/live/Antonio1/Antonio/62989.m3u8
-#EXTINF:-1,Look Plus HD
-http://dibo.live:8080/live/Antonio1/Antonio/75031.m3u8
-#EXTINF:-1,Look Sport TV FHD
-http://dibo.live:8080/live/Antonio1/Antonio/155781.m3u8
-#EXTINF:-1,Mania TV
-http://dibo.live:8080/live/Antonio1/Antonio/211784.m3u8
-#EXTINF:-1,MegaMax HD
-http://dibo.live:8080/live/Antonio1/Antonio/75033.m3u8
-#EXTINF:-1,Minimax
-http://dibo.live:8080/live/Antonio1/Antonio/156199.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16074.m3u8
+#EXTINF:-1,Look Plus
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13408.m3u8
+#EXTINF:-1,Look Tv
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13407.m3u8
+#EXTINF:-1,MTV Romania
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18534.m3u8
+#EXTINF:-1,MTV Dance
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18533.m3u8
+#EXTINF:-1,MTV Hits
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18532.m3u8
 #EXTINF:-1,MTV Rocks
-http://dibo.live:8080/live/Antonio1/Antonio/211781.m3u8
-#EXTINF:-1,Music 1 Channel
-http://dibo.live:8080/live/Antonio1/Antonio/192689.m3u8
-#EXTINF:-1,NAT GEO
-http://dibo.live:8080/live/Antonio1/Antonio/75035.m3u8
-#EXTINF:-1,NAT GEO Wild HD
-http://dibo.live:8080/live/Antonio1/Antonio/63000.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18531.m3u8
+#EXTINF:-1,Magic TV HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18535.m3u8
+#EXTINF:-1,Megamax
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13406.m3u8
+#EXTINF:-1,Minimax
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13405.m3u8
+#EXTINF:-1,Mooz HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16076.m3u8
+#EXTINF:-1,Music Channel
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13404.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13403.m3u8
+#EXTINF:-1,National Geographic
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13402.m3u8
+#EXTINF:-1,National Geographic HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16075.m3u8
 #EXTINF:-1,National TV
-http://dibo.live:8080/live/Antonio1/Antonio/66907.m3u8
-#EXTINF:-1,Neptun TV
-http://dibo.live:8080/live/Antonio1/Antonio/75036.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://dibo.live:8080/live/Antonio1/Antonio/62996.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13401.m3u8
+#EXTINF:-1,Nickelodeon
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18529.m3u8
 #EXTINF:-1,Paramount Channel
-http://dibo.live:8080/live/Antonio1/Antonio/62988.m3u8
-#EXTINF:-1,Pink Romance
-http://dibo.live:8080/live/Antonio1/Antonio/211782.m3u8
-#EXTINF:-1,Prima
-http://dibo.live:8080/live/Antonio1/Antonio/98565.m3u8
-#EXTINF:-1,Prima Cool
-http://dibo.live:8080/live/Antonio1/Antonio/75037.m3u8
-#EXTINF:-1,PRO 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/75024.m3u8
-#EXTINF:-1,Pro Cinema HD
-http://dibo.live:8080/live/Antonio1/Antonio/62995.m3u8
-#EXTINF:-1,PRO GOLD
-http://dibo.live:8080/live/Antonio1/Antonio/206450.m3u8
-#EXTINF:-1,PRO TV
-http://dibo.live:8080/live/Antonio1/Antonio/66902.m3u8
-#EXTINF:-1,PRO X HD
-http://dibo.live:8080/live/Antonio1/Antonio/62972.m3u8
-#EXTINF:-1,Realite TV
-http://dibo.live:8080/live/Antonio1/Antonio/184575.m3u8
-#EXTINF:-1,RO TVR 3
-http://dibo.live:8080/live/Antonio1/Antonio/210894.m3u8
-#EXTINF:-1,Romania TV
-http://dibo.live:8080/live/Antonio1/Antonio/155782.m3u8
-#EXTINF:-1,STARS
-http://dibo.live:8080/live/Antonio1/Antonio/198010.m3u8
-#EXTINF:-1,Taraf HD
-http://dibo.live:8080/live/Antonio1/Antonio/66899.m3u8
-#EXTINF:-1,Tele Moldova Plus
-http://dibo.live:8080/live/Antonio1/Antonio/98569.m3u8
-#EXTINF:-1,TELEKOM SPORT 1 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/62979.m3u8
-#EXTINF:-1,TELEKOM SPORT 2 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/62978.m3u8
-#EXTINF:-1,TELEKOM SPORT 3 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/89362.m3u8
-#EXTINF:-1,TELEKOM SPORT 4 FHD
-http://dibo.live:8080/live/Antonio1/Antonio/113005.m3u8
-#EXTINF:-1,TELESHOP TV
-http://dibo.live:8080/live/Antonio1/Antonio/62987.m3u8
-#EXTINF:-1,The Fishing & Hunting
-http://dibo.live:8080/live/Antonio1/Antonio/124898.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18530.m3u8
+#EXTINF:-1,Prima Tv
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13399.m3u8
+#EXTINF:-1,Pro TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13398.m3u8
+#EXTINF:-1,Pro TV HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16077.m3u8
+#EXTINF:-1,Realitatea Tv
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13397.m3u8
+#EXTINF:-1,Romania Tv
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13396.m3u8
+#EXTINF:-1,Sport HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16078.m3u8
 #EXTINF:-1,TLC
-http://dibo.live:8080/live/Antonio1/Antonio/113010.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18528.m3u8
 #EXTINF:-1,TNT
-http://dibo.live:8080/live/Antonio1/Antonio/90215.m3u8
-#EXTINF:-1,Travel Channel FHD
-http://dibo.live:8080/live/Antonio1/Antonio/113012.m3u8
-#EXTINF:-1,TRINITAS TV
-http://dibo.live:8080/live/Antonio1/Antonio/75039.m3u8
-#EXTINF:-1,TV 1000 HD
-http://dibo.live:8080/live/Antonio1/Antonio/62993.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18527.m3u8
 #EXTINF:-1,TV Paprika
-http://dibo.live:8080/live/Antonio1/Antonio/155783.m3u8
-#EXTINF:-1,TV5 Monde
-http://dibo.live:8080/live/Antonio1/Antonio/90214.m3u8
-#EXTINF:-1,TVR 1 HD
-http://dibo.live:8080/live/Antonio1/Antonio/146493.m3u8
-#EXTINF:-1,TVR 2 HD
-http://dibo.live:8080/live/Antonio1/Antonio/155784.m3u8
-#EXTINF:-1,TVR 3 HD
-http://dibo.live:8080/live/Antonio1/Antonio/62983.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18524.m3u8
+#EXTINF:-1,TV1000
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13394.m3u8
+#EXTINF:-1,TVH2O
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18522.m3u8
+#EXTINF:-1,TVR 1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13393.m3u8
+#EXTINF:-1,TVR 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13392.m3u8
 #EXTINF:-1,TVR HD
-http://dibo.live:8080/live/Antonio1/Antonio/160928.m3u8
-#EXTINF:-1,TVR International
-http://dibo.live:8080/live/Antonio1/Antonio/208976.m3u8
-#EXTINF:-1,UTV HD
-http://dibo.live:8080/live/Antonio1/Antonio/75040.m3u8
-#EXTINF:-1,VIASAT EXPLORER
-http://dibo.live:8080/live/Antonio1/Antonio/98571.m3u8
-#EXTINF:-1,Viasat History FHD
-http://dibo.live:8080/live/Antonio1/Antonio/63003.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18458.m3u8
+#EXTINF:-1,Taraf TV HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/16079.m3u8
+#EXTINF:-1,Taraf Tv
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13395.m3u8
+#EXTINF:-1,Travel Channel
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18526.m3u8
+#EXTINF:-1,Travel Mix
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18525.m3u8
 #EXTINF:-1,Viasat Nature
-http://dibo.live:8080/live/Antonio1/Antonio/155785.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13391.m3u8
+#EXTINF:-1,eSTRADA TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18541.m3u8
+#EXTINF:-1,TVR3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18457.m3u8
+#EXTINF:-1,UTV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18456.m3u8
+#EXTINF:-1,UTV HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18455.m3u8
+#EXTINF:-1,VH1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18454.m3u8
+#EXTINF:-1,VH1 Classic
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18453.m3u8
 #EXTINF:-1,ZU TV HD
-http://dibo.live:8080/live/Antonio1/Antonio/113024.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18449.m3u8
+#EXTINF:-1,ZU TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18450.m3u8
+#EXTINF:-1,Viasat History
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18451.m3u8
