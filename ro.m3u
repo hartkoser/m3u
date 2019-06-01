@@ -1,119 +1,297 @@
 #EXTM3U
-#EXTINF:-1,TVR 1
-http://www.pandar.tv:25461/hatem/hatem/29487
-#EXTINF:-1,TVR 2
-http://www.pandar.tv:25461/hatem/hatem/29486
-#EXTINF:-1,U TV
-http://www.pandar.tv:25461/hatem/hatem/29485
-#EXTINF:-1,VIASAT NATURE
-http://www.pandar.tv:25461/hatem/hatem/29484
-#EXTINF:-1,VIASAT HISTORY
-http://www.pandar.tv:25461/hatem/hatem/29483
-#EXTINF:-1,ROMANIA TV
-http://www.pandar.tv:25461/hatem/hatem/29482
-#EXTINF:-1,REALITATEA
-http://www.pandar.tv:25461/hatem/hatem/29481
-#EXTINF:-1,AGRO TV
-http://www.pandar.tv:25461/hatem/hatem/29480
-#EXTINF:-1,PRO TV
-http://www.pandar.tv:25461/hatem/hatem/29479
-#EXTINF:-1,NICKELODEON
-http://www.pandar.tv:25461/hatem/hatem/29478
-#EXTINF:-1,NGC WILD
-http://www.pandar.tv:25461/hatem/hatem/29477
-#EXTINF:-1,MUSIC CHANNEL HU
-http://www.pandar.tv:25461/hatem/hatem/29476
-#EXTINF:-1,MEGAMAX
-http://www.pandar.tv:25461/hatem/hatem/29475
-#EXTINF:-1,KISS TV
-http://www.pandar.tv:25461/hatem/hatem/29474
-#EXTINF:-1,KANAL D
-http://www.pandar.tv:25461/hatem/hatem/29473
-#EXTINF:-1,HISTORY CHANNEL
-http://www.pandar.tv:25461/hatem/hatem/29472
-#EXTINF:-1,HBO ROMANIA
-http://www.pandar.tv:25461/hatem/hatem/29471
-#EXTINF:-1,HBO 2
-http://www.pandar.tv:25461/hatem/hatem/29470
-#EXTINF:-1,AXN ROMANIA
-http://www.pandar.tv:25461/hatem/hatem/29469
-#EXTINF:-1,AXN WHITE
-http://www.pandar.tv:25461/hatem/hatem/29468
-#EXTINF:-1,DISNEY JUNIOR
-http://www.pandar.tv:25461/hatem/hatem/29467
-#EXTINF:-1,DIGI WORLD
-http://www.pandar.tv:25461/hatem/hatem/29466
-#EXTINF:-1,DIGI LIFE
-http://www.pandar.tv:25461/hatem/hatem/29465
-#EXTINF:-1,DIGI FILM
-http://www.pandar.tv:25461/hatem/hatem/29464
-#EXTINF:-1,DIGI ANIMAL WORLD
-http://www.pandar.tv:25461/hatem/hatem/29463
-#EXTINF:-1,DIGI 24
-http://www.pandar.tv:25461/hatem/hatem/29462
-#EXTINF:-1,CINEMAX RO
-http://www.pandar.tv:25461/hatem/hatem/29461
-#EXTINF:-1,CINEMAX 2
-http://www.pandar.tv:25461/hatem/hatem/29460
-#EXTINF:-1,LOOK TV
-http://www.pandar.tv:25461/hatem/hatem/29459
-#EXTINF:-1,LOOK PLUS TV
-http://www.pandar.tv:25461/hatem/hatem/29458
-#EXTINF:-1,B1
-http://www.pandar.tv:25461/hatem/hatem/29457
-#EXTINF:-1,ANTENA 1
-http://www.pandar.tv:25461/hatem/hatem/29456
-#EXTINF:-1,ANTENA 3
-http://www.pandar.tv:25461/hatem/hatem/29455
-#EXTINF:-1,ACASA TV
-http://www.pandar.tv:25461/hatem/hatem/29454
-#EXTINF:-1,ANTENA STARS
-http://www.pandar.tv:25461/hatem/hatem/29453
-#EXTINF:-1,PRIMA TV
-http://www.pandar.tv:25461/hatem/hatem/29452
-#EXTINF:-1,HAPPY CHANNEL
-http://www.pandar.tv:25461/hatem/hatem/29451
-#EXTINF:-1,NATIONAL TV
-http://www.pandar.tv:25461/hatem/hatem/29450
-#EXTINF:-1,BOOMERANG
-http://www.pandar.tv:25461/hatem/hatem/29449
-#EXTINF:-1,MINIMAX
-http://www.pandar.tv:25461/hatem/hatem/29448
-#EXTINF:-1,PRO CINEMA
-http://www.pandar.tv:25461/hatem/hatem/29447
-#EXTINF:-1,HBO 3
-http://www.pandar.tv:25461/hatem/hatem/29446
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://www.pandar.tv:25461/hatem/hatem/29445
-#EXTINF:-1,TV5 MONDE
-http://www.pandar.tv:25461/hatem/hatem/29444
-#EXTINF:-1,TRINITAS
-http://www.pandar.tv:25461/hatem/hatem/29443
-#EXTINF:-1,TNT HD
-http://www.pandar.tv:25461/hatem/hatem/29442
-#EXTINF:-1,ETNO TV
-http://www.pandar.tv:25461/hatem/hatem/29441
-#EXTINF:-1,TARAF TV
-http://www.pandar.tv:25461/hatem/hatem/29440
-#EXTINF:-1,FISHING & HUNTING
-http://www.pandar.tv:25461/hatem/hatem/29439
-#EXTINF:-1,NGC
-http://www.pandar.tv:25461/hatem/hatem/29438
+#EXTINF:-1,Antena 3 HD
+http://dibo.live:8080/live/Antonio1/Antonio/155448.m3u8
+#EXTINF:-1,AXN HD
+http://dibo.live:8080/live/Antonio1/Antonio/90209.m3u8
+#EXTINF:-1,AXN Spin
+http://dibo.live:8080/live/Antonio1/Antonio/211001.m3u8
+#EXTINF:-1,Balkanika
+http://dibo.live:8080/live/Antonio1/Antonio/211024.m3u8
+#EXTINF:-1,Comedy Central
+http://dibo.live:8080/live/Antonio1/Antonio/211003.m3u8
+#EXTINF:-1,Da Vinci Learning
+http://dibo.live:8080/live/Antonio1/Antonio/112916.m3u8
+#EXTINF:-1,Digi Sport 1 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/210972.m3u8
+#EXTINF:-1,Digi Sport 2 HD
+http://dibo.live:8080/live/Antonio1/Antonio/210974.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://dibo.live:8080/live/Antonio1/Antonio/112928.m3u8
+#EXTINF:-1,Diva
+http://dibo.live:8080/live/Antonio1/Antonio/211004.m3u8
+#EXTINF:-1,Extreme Sport
+http://dibo.live:8080/live/Antonio1/Antonio/210985.m3u8
+#EXTINF:-1,Film Box
+http://dibo.live:8080/live/Antonio1/Antonio/210991.m3u8
+#EXTINF:-1,Film Box Extra HD
+http://dibo.live:8080/live/Antonio1/Antonio/210992.m3u8
+#EXTINF:-1,Film Caf
+http://dibo.live:8080/live/Antonio1/Antonio/210993.m3u8
+#EXTINF:-1,Film Mania
+http://dibo.live:8080/live/Antonio1/Antonio/208960.m3u8
+#EXTINF:-1,Filmbox Family
+http://dibo.live:8080/live/Antonio1/Antonio/210994.m3u8
+#EXTINF:-1,FilmBox Plus INT
+http://dibo.live:8080/live/Antonio1/Antonio/210995.m3u8
+#EXTINF:-1,FilmBox Premium
+http://dibo.live:8080/live/Antonio1/Antonio/112952.m3u8
+#EXTINF:-1,HBO 1
+http://dibo.live:8080/live/Antonio1/Antonio/210997.m3u8
+#EXTINF:-1,Hit Music
+http://dibo.live:8080/live/Antonio1/Antonio/133932.m3u8
+#EXTINF:-1,Impact TV HD
+http://dibo.live:8080/live/Antonio1/Antonio/208962.m3u8
+#EXTINF:-1,Investigation Disvovery
+http://dibo.live:8080/live/Antonio1/Antonio/211028.m3u8
+#EXTINF:-1,JimJam
+http://dibo.live:8080/live/Antonio1/Antonio/208963.m3u8
+#EXTINF:-1,Mooz
+http://dibo.live:8080/live/Antonio1/Antonio/211039.m3u8
+#EXTINF:-1,MTV Dance
+http://dibo.live:8080/live/Antonio1/Antonio/112977.m3u8
+#EXTINF:-1,MTV Hits
+http://dibo.live:8080/live/Antonio1/Antonio/112978.m3u8
+#EXTINF:-1,Music Channel
+http://dibo.live:8080/live/Antonio1/Antonio/211040.m3u8
+#EXTINF:-1,Nick Junior
+http://dibo.live:8080/live/Antonio1/Antonio/118377.m3u8
+#EXTINF:-1,PRO TV International
+http://dibo.live:8080/live/Antonio1/Antonio/211012.m3u8
+#EXTINF:-1,Realitatea Tv
+http://dibo.live:8080/live/Antonio1/Antonio/197048.m3u8
+#EXTINF:-1,Somax TV
+http://dibo.live:8080/live/Antonio1/Antonio/112998.m3u8
+#EXTINF:-1,Sundance TV
+http://dibo.live:8080/live/Antonio1/Antonio/145812.m3u8
+#EXTINF:-1,TELEKOM SPORT 5 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/210978.m3u8
+#EXTINF:-1,TELEKOM SPORT 6 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/210980.m3u8
+#EXTINF:-1,The Voice
+http://dibo.live:8080/live/Antonio1/Antonio/211041.m3u8
+#EXTINF:-1,Travel Mix
+http://dibo.live:8080/live/Antonio1/Antonio/211034.m3u8
+#EXTINF:-1,Tv
+http://dibo.live:8080/live/Antonio1/Antonio/211020.m3u8
+#EXTINF:-1,TVR Cluj
+http://dibo.live:8080/live/Antonio1/Antonio/207679.m3u8
+#EXTINF:-1,TVR Craiova
+http://dibo.live:8080/live/Antonio1/Antonio/207680.m3u8
+#EXTINF:-1,TVR Iasi
+http://dibo.live:8080/live/Antonio1/Antonio/207681.m3u8
+#EXTINF:-1,TVR Int
+http://dibo.live:8080/live/Antonio1/Antonio/211016.m3u8
+#EXTINF:-1,TVR Tg Mures
+http://dibo.live:8080/live/Antonio1/Antonio/207682.m3u8
+#EXTINF:-1,TVR Timisoara
+http://dibo.live:8080/live/Antonio1/Antonio/207683.m3u8
+#EXTINF:-1,Viasat HD
+http://dibo.live:8080/live/Antonio1/Antonio/211031.m3u8
+#EXTINF:-1,###### ROMANIA ######
+http://dibo.live:8080/live/Antonio1/Antonio/213067.m3u8
+#EXTINF:-1,1 Music Channel
+http://dibo.live:8080/live/Antonio1/Antonio/184564.m3u8
+#EXTINF:-1,Acasa HD
+http://dibo.live:8080/live/Antonio1/Antonio/209570.m3u8
+#EXTINF:-1,Agro TV
+http://dibo.live:8080/live/Antonio1/Antonio/75025.m3u8
+#EXTINF:-1,AMC
+http://dibo.live:8080/live/Antonio1/Antonio/63031.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://dibo.live:8080/live/Antonio1/Antonio/63030.m3u8
+#EXTINF:-1,Antena 1 HD
+http://dibo.live:8080/live/Antonio1/Antonio/155447.m3u8
+#EXTINF:-1,Antena International
+http://dibo.live:8080/live/Antonio1/Antonio/211007.m3u8
+#EXTINF:-1,Antena Star HD
+http://dibo.live:8080/live/Antonio1/Antonio/134500.m3u8
+#EXTINF:-1,Arena Sport 1
+http://dibo.live:8080/live/Antonio1/Antonio/210031.m3u8
+#EXTINF:-1,Arena Sport 2 HD
+http://dibo.live:8080/live/Antonio1/Antonio/210032.m3u8
+#EXTINF:-1,Arena Sport 3 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/210033.m3u8
+#EXTINF:-1,Arena Sport 4 HD
+http://dibo.live:8080/live/Antonio1/Antonio/210917.m3u8
+#EXTINF:-1,Auto Motor Sport FHD
+http://dibo.live:8080/live/Antonio1/Antonio/207647.m3u8
+#EXTINF:-1,AXN BLACK
+http://dibo.live:8080/live/Antonio1/Antonio/112894.m3u8
+#EXTINF:-1,AXN White HD
+http://dibo.live:8080/live/Antonio1/Antonio/90210.m3u8
+#EXTINF:-1,B1 HD
+http://dibo.live:8080/live/Antonio1/Antonio/98558.m3u8
+#EXTINF:-1,BBC Earth HD
+http://dibo.live:8080/live/Antonio1/Antonio/112899.m3u8
+#EXTINF:-1,Boomerang
+http://dibo.live:8080/live/Antonio1/Antonio/63029.m3u8
+#EXTINF:-1,Canal D
+http://dibo.live:8080/live/Antonio1/Antonio/155207.m3u8
+#EXTINF:-1,Cartoon Network
+http://dibo.live:8080/live/Antonio1/Antonio/63027.m3u8
+#EXTINF:-1,Cinemax 2 HD
+http://dibo.live:8080/live/Antonio1/Antonio/63026.m3u8
+#EXTINF:-1,Cinemax HD
+http://dibo.live:8080/live/Antonio1/Antonio/63024.m3u8
+#EXTINF:-1,DIBI TV
+http://dibo.live:8080/live/Antonio1/Antonio/62992.m3u8
+#EXTINF:-1,Digi 24 HD
+http://dibo.live:8080/live/Antonio1/Antonio/63016.m3u8
+#EXTINF:-1,Digi ANIMAL WORLD HD
+http://dibo.live:8080/live/Antonio1/Antonio/63015.m3u8
+#EXTINF:-1,Digi FILM HD
+http://dibo.live:8080/live/Antonio1/Antonio/210989.m3u8
+#EXTINF:-1,Digi Film NOW HD
+http://dibo.live:8080/live/Antonio1/Antonio/155777.m3u8
+#EXTINF:-1,Digi Life
+http://dibo.live:8080/live/Antonio1/Antonio/63013.m3u8
+#EXTINF:-1,Digi Sport 1 HD
+http://dibo.live:8080/live/Antonio1/Antonio/65872.m3u8
+#EXTINF:-1,Digi Sport 2 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/65871.m3u8
+#EXTINF:-1,Digi Sport 3 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/210975.m3u8
+#EXTINF:-1,Digi Sport 3 HD
+http://dibo.live:8080/live/Antonio1/Antonio/65870.m3u8
+#EXTINF:-1,DIGI SPORT 4 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/110982.m3u8
+#EXTINF:-1,Digi Sport 4 HD
+http://dibo.live:8080/live/Antonio1/Antonio/210977.m3u8
+#EXTINF:-1,Digi WORLD HD
+http://dibo.live:8080/live/Antonio1/Antonio/63012.m3u8
+#EXTINF:-1,Discovery Channel
+http://dibo.live:8080/live/Antonio1/Antonio/63011.m3u8
+#EXTINF:-1,Discovery Science HD
+http://dibo.live:8080/live/Antonio1/Antonio/63010.m3u8
+#EXTINF:-1,Disney Channel
+http://dibo.live:8080/live/Antonio1/Antonio/63009.m3u8
+#EXTINF:-1,Disney Junior
+http://dibo.live:8080/live/Antonio1/Antonio/63008.m3u8
+#EXTINF:-1,Etno HD
+http://dibo.live:8080/live/Antonio1/Antonio/156195.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://dibo.live:8080/live/Antonio1/Antonio/145815.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/62973.m3u8
 #EXTINF:-1,FAVORIT TV
-http://www.pandar.tv:25461/hatem/hatem/29437
-#EXTINF:-1,DIGI SPORT 1
-http://www.pandar.tv:25461/hatem/hatem/29435
-#EXTINF:-1,DIGI SPORT 2
-http://www.pandar.tv:25461/hatem/hatem/29434
-#EXTINF:-1,DIGI SPORT 3
-http://www.pandar.tv:25461/hatem/hatem/29433
-#EXTINF:-1,DIGI SPORT 4
-http://www.pandar.tv:25461/hatem/hatem/29432
-#EXTINF:-1,SPORT.RO
-http://www.pandar.tv:25461/hatem/hatem/29431
-#EXTINF:-1,EUROSPORT
-http://www.pandar.tv:25461/hatem/hatem/29430
-#EXTINF:-1,EUROSPORT 2
-http://www.pandar.tv:25461/hatem/hatem/29429
-#EXTINF:-1,1 MUSIC CHANNEL
-http://www.pandar.tv:25461/hatem/hatem/29428
+http://dibo.live:8080/live/Antonio1/Antonio/90218.m3u8
+#EXTINF:-1,Film Cafe
+http://dibo.live:8080/live/Antonio1/Antonio/160927.m3u8
+#EXTINF:-1,Fishing & Hunting HD
+http://dibo.live:8080/live/Antonio1/Antonio/75030.m3u8
+#EXTINF:-1,Food Network HD
+http://dibo.live:8080/live/Antonio1/Antonio/112954.m3u8
+#EXTINF:-1,HAPPY CHANNEL HD
+http://dibo.live:8080/live/Antonio1/Antonio/98561.m3u8
+#EXTINF:-1,HBO 2 HD
+http://dibo.live:8080/live/Antonio1/Antonio/63006.m3u8
+#EXTINF:-1,HBO 3 HD
+http://dibo.live:8080/live/Antonio1/Antonio/63005.m3u8
+#EXTINF:-1,HBO HD
+http://dibo.live:8080/live/Antonio1/Antonio/63004.m3u8
+#EXTINF:-1,History Channel
+http://dibo.live:8080/live/Antonio1/Antonio/63001.m3u8
+#EXTINF:-1,Kanal D HD
+http://dibo.live:8080/live/Antonio1/Antonio/155780.m3u8
+#EXTINF:-1,KISS TV HD
+http://dibo.live:8080/live/Antonio1/Antonio/62989.m3u8
+#EXTINF:-1,Look Plus HD
+http://dibo.live:8080/live/Antonio1/Antonio/75031.m3u8
+#EXTINF:-1,Look Sport TV FHD
+http://dibo.live:8080/live/Antonio1/Antonio/155781.m3u8
+#EXTINF:-1,Mania TV
+http://dibo.live:8080/live/Antonio1/Antonio/211784.m3u8
+#EXTINF:-1,MegaMax HD
+http://dibo.live:8080/live/Antonio1/Antonio/75033.m3u8
+#EXTINF:-1,Minimax
+http://dibo.live:8080/live/Antonio1/Antonio/156199.m3u8
+#EXTINF:-1,MTV Rocks
+http://dibo.live:8080/live/Antonio1/Antonio/211781.m3u8
+#EXTINF:-1,Music 1 Channel
+http://dibo.live:8080/live/Antonio1/Antonio/192689.m3u8
+#EXTINF:-1,NAT GEO
+http://dibo.live:8080/live/Antonio1/Antonio/75035.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://dibo.live:8080/live/Antonio1/Antonio/63000.m3u8
+#EXTINF:-1,National TV
+http://dibo.live:8080/live/Antonio1/Antonio/66907.m3u8
+#EXTINF:-1,Neptun TV
+http://dibo.live:8080/live/Antonio1/Antonio/75036.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://dibo.live:8080/live/Antonio1/Antonio/62996.m3u8
+#EXTINF:-1,Paramount Channel
+http://dibo.live:8080/live/Antonio1/Antonio/62988.m3u8
+#EXTINF:-1,Pink Romance
+http://dibo.live:8080/live/Antonio1/Antonio/211782.m3u8
+#EXTINF:-1,Prima
+http://dibo.live:8080/live/Antonio1/Antonio/98565.m3u8
+#EXTINF:-1,Prima Cool
+http://dibo.live:8080/live/Antonio1/Antonio/75037.m3u8
+#EXTINF:-1,PRO 2 HD
+http://dibo.live:8080/live/Antonio1/Antonio/75024.m3u8
+#EXTINF:-1,Pro Cinema HD
+http://dibo.live:8080/live/Antonio1/Antonio/62995.m3u8
+#EXTINF:-1,PRO GOLD
+http://dibo.live:8080/live/Antonio1/Antonio/206450.m3u8
+#EXTINF:-1,PRO TV
+http://dibo.live:8080/live/Antonio1/Antonio/66902.m3u8
+#EXTINF:-1,PRO X HD
+http://dibo.live:8080/live/Antonio1/Antonio/62972.m3u8
+#EXTINF:-1,Realite TV
+http://dibo.live:8080/live/Antonio1/Antonio/184575.m3u8
+#EXTINF:-1,RO TVR 3
+http://dibo.live:8080/live/Antonio1/Antonio/210894.m3u8
+#EXTINF:-1,Romania TV
+http://dibo.live:8080/live/Antonio1/Antonio/155782.m3u8
+#EXTINF:-1,STARS
+http://dibo.live:8080/live/Antonio1/Antonio/198010.m3u8
+#EXTINF:-1,Taraf HD
+http://dibo.live:8080/live/Antonio1/Antonio/66899.m3u8
+#EXTINF:-1,Tele Moldova Plus
+http://dibo.live:8080/live/Antonio1/Antonio/98569.m3u8
+#EXTINF:-1,TELEKOM SPORT 1 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/62979.m3u8
+#EXTINF:-1,TELEKOM SPORT 2 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/62978.m3u8
+#EXTINF:-1,TELEKOM SPORT 3 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/89362.m3u8
+#EXTINF:-1,TELEKOM SPORT 4 FHD
+http://dibo.live:8080/live/Antonio1/Antonio/113005.m3u8
+#EXTINF:-1,TELESHOP TV
+http://dibo.live:8080/live/Antonio1/Antonio/62987.m3u8
+#EXTINF:-1,The Fishing & Hunting
+http://dibo.live:8080/live/Antonio1/Antonio/124898.m3u8
+#EXTINF:-1,TLC
+http://dibo.live:8080/live/Antonio1/Antonio/113010.m3u8
+#EXTINF:-1,TNT
+http://dibo.live:8080/live/Antonio1/Antonio/90215.m3u8
+#EXTINF:-1,Travel Channel FHD
+http://dibo.live:8080/live/Antonio1/Antonio/113012.m3u8
+#EXTINF:-1,TRINITAS TV
+http://dibo.live:8080/live/Antonio1/Antonio/75039.m3u8
+#EXTINF:-1,TV 1000 HD
+http://dibo.live:8080/live/Antonio1/Antonio/62993.m3u8
+#EXTINF:-1,TV Paprika
+http://dibo.live:8080/live/Antonio1/Antonio/155783.m3u8
+#EXTINF:-1,TV5 Monde
+http://dibo.live:8080/live/Antonio1/Antonio/90214.m3u8
+#EXTINF:-1,TVR 1 HD
+http://dibo.live:8080/live/Antonio1/Antonio/146493.m3u8
+#EXTINF:-1,TVR 2 HD
+http://dibo.live:8080/live/Antonio1/Antonio/155784.m3u8
+#EXTINF:-1,TVR 3 HD
+http://dibo.live:8080/live/Antonio1/Antonio/62983.m3u8
+#EXTINF:-1,TVR HD
+http://dibo.live:8080/live/Antonio1/Antonio/160928.m3u8
+#EXTINF:-1,TVR International
+http://dibo.live:8080/live/Antonio1/Antonio/208976.m3u8
+#EXTINF:-1,UTV HD
+http://dibo.live:8080/live/Antonio1/Antonio/75040.m3u8
+#EXTINF:-1,VIASAT EXPLORER
+http://dibo.live:8080/live/Antonio1/Antonio/98571.m3u8
+#EXTINF:-1,Viasat History FHD
+http://dibo.live:8080/live/Antonio1/Antonio/63003.m3u8
+#EXTINF:-1,Viasat Nature
+http://dibo.live:8080/live/Antonio1/Antonio/155785.m3u8
+#EXTINF:-1,ZU TV HD
+http://dibo.live:8080/live/Antonio1/Antonio/113024.m3u8
