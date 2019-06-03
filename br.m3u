@@ -1,415 +1,481 @@
 #EXTM3U
-#EXTINF:-1,A&E HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66059.m3u8
-#EXTINF:-1,All Sports
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66050.m3u8
-#EXTINF:-1,AMC FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/100805.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68999.m3u8
-#EXTINF:-1,Aparceida
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/159051.m3u8
-#EXTINF:-1,ARTE 1 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156983.m3u8
-#EXTINF:-1,AXN HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66021.m3u8
-#EXTINF:-1,Azteca 13 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/215586.m3u8
-#EXTINF:-1,BABY TV HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157962.m3u8
-#EXTINF:-1,BAND HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/100806.m3u8
-#EXTINF:-1,BAND News HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66056.m3u8
-#EXTINF:-1,Band Nordeste
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212705.m3u8
-#EXTINF:-1,BAND SPORT HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66054.m3u8
-#EXTINF:-1,BIS FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/95823.m3u8
-#EXTINF:-1,Boomerang HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66065.m3u8
-#EXTINF:-1,Brazil 2
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/209685.m3u8
-#EXTINF:-1,Breaking Bad
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214209.m3u8
-#EXTINF:-1,CANAL BRASIL HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156999.m3u8
-#EXTINF:-1,CANAL DO BOI
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/93196.m3u8
-#EXTINF:-1,CANAL RURAL
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/124371.m3u8
-#EXTINF:-1,CANAL SONNY HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157000.m3u8
-#EXTINF:-1,Canal Tv RIO
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/94202.m3u8
-#EXTINF:-1,Cartoon Network HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139121.m3u8
-#EXTINF:-1,Caverna do Dragão
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163997.m3u8
-#EXTINF:-1,CDF
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/135023.m3u8
-#EXTINF:-1,Chapolin Colorado
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214210.m3u8
-#EXTINF:-1,CHAVES DESENHO
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214185.m3u8
-#EXTINF:-1,Cine 1
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/125480.m3u8
-#EXTINF:-1,Cinemax HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/100801.m3u8
-#EXTINF:-1,CLASSIC
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213841.m3u8
-#EXTINF:-1,Combate HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156819.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163287.m3u8
-#EXTINF:-1,CURTA! HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123157.m3u8
-#EXTINF:-1,DAZN HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/208359.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139122.m3u8
-#EXTINF:-1,Discovery Civilization FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66062.m3u8
-#EXTINF:-1,Discovery H&H HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/146294.m3u8
-#EXTINF:-1,Discovery Kids HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139125.m3u8
-#EXTINF:-1,Discovery Science HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/94188.m3u8
-#EXTINF:-1,Discovery Theater HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88099.m3u8
-#EXTINF:-1,Discovery Turbo HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139128.m3u8
-#EXTINF:-1,Discovery World HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/100091.m3u8
-#EXTINF:-1,Disney Channel HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/116367.m3u8
-#EXTINF:-1,Disney Jr HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/196318.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68980.m3u8
-#EXTINF:-1,Dois Homens e Meio
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214186.m3u8
-#EXTINF:-1,Doug
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214197.m3u8
-#EXTINF:-1,Dragon Ball Z
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/164154.m3u8
-#EXTINF:-1,E! HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88100.m3u8
-#EXTINF:-1,EI MAX HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/208360.m3u8
-#EXTINF:-1,ESPN Brasil HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68955.m3u8
-#EXTINF:-1,ESPN Extra HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/130202.m3u8
-#EXTINF:-1,Eu a Patroa e as Crianças
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214193.m3u8
-#EXTINF:-1,FILM & ARTS
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163854.m3u8
-#EXTINF:-1,Fish TV HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68974.m3u8
-#EXTINF:-1,Food Network HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88095.m3u8
-#EXTINF:-1,Formiga Atómica
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214202.m3u8
-#EXTINF:-1,FOX CHANNEL HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156830.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156831.m3u8
-#EXTINF:-1,Fox Premium 1 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88101.m3u8
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163856.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88071.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68970.m3u8
-#EXTINF:-1,FOX SPORTS HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156834.m3u8
-#EXTINF:-1,Futura HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66041.m3u8
-#EXTINF:-1,FX HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156832.m3u8
-#EXTINF:-1,Gaspel Cartoon
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66019.m3u8
-#EXTINF:-1,GLOBO BRASILIA HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/112287.m3u8
-#EXTINF:-1,GLOBO HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214085.m3u8
-#EXTINF:-1,GLOBO INTERNACIONAL
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214066.m3u8
-#EXTINF:-1,GLOBO NEWS HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156984.m3u8
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163872.m3u8
-#EXTINF:-1,Globo RJ HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213855.m3u8
-#EXTINF:-1,GLOBO RPC TV Curitiba
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212117.m3u8
-#EXTINF:-1,GLOBO TV VERDES MARES FORTALEZA
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214067.m3u8
-#EXTINF:-1,GLOOB HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156987.m3u8
-#EXTINF:-1,Gloobinho
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136680.m3u8
-#EXTINF:-1,GNT HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88049.m3u8
-#EXTINF:-1,GOSPEL CARTOON
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163954.m3u8
-#EXTINF:-1,H2 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139141.m3u8
-#EXTINF:-1,HBO 2 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156835.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156836.m3u8
-#EXTINF:-1,HBO HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136658.m3u8
-#EXTINF:-1,HBO Plus
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/209698.m3u8
-#EXTINF:-1,HBO Signature HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68961.m3u8
-#EXTINF:-1,History Channel HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66051.m3u8
-#EXTINF:-1,Hit TV
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136697.m3u8
-#EXTINF:-1,Home&Health
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/95841.m3u8
-#EXTINF:-1,Homem de Ferro
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214205.m3u8
-#EXTINF:-1,Investigation Discovery HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163883.m3u8
-#EXTINF:-1,Jack Chan
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214195.m3u8
-#EXTINF:-1,jetix
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214207.m3u8
-#EXTINF:-1,Jiraya
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214187.m3u8
-#EXTINF:-1,Lifetime FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66068.m3u8
-#EXTINF:-1,Mana Sat
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66072.m3u8
-#EXTINF:-1,Max HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139147.m3u8
-#EXTINF:-1,Max Prime HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157007.m3u8
-#EXTINF:-1,Max Up HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157008.m3u8
-#EXTINF:-1,MEGAPIX HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156842.m3u8
-#EXTINF:-1,Mortal Kombat
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214208.m3u8
-#EXTINF:-1,Mr.Ben
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214198.m3u8
-#EXTINF:-1,MTV HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/104797.m3u8
-#EXTINF:-1,MULTI SHOW HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156844.m3u8
-#EXTINF:-1,MUSIC BOX
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68952.m3u8
-#EXTINF:-1,Music Box Brazil
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/104799.m3u8
-#EXTINF:-1,Naruto Shippuuden
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214188.m3u8
-#EXTINF:-1,NAT GEO HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66048.m3u8
-#EXTINF:-1,NAT GEO Kids HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/109218.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163892.m3u8
-#EXTINF:-1,Nick Junior HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/100803.m3u8
-#EXTINF:-1,NICKELODEN HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/109220.m3u8
-#EXTINF:-1,OFF HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/104801.m3u8
-#EXTINF:-1,Papa Léguas
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214194.m3u8
-#EXTINF:-1,Paramount Channel FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68947.m3u8
-#EXTINF:-1,PFC 1 FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136728.m3u8
-#EXTINF:-1,PFC 2 FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136731.m3u8
-#EXTINF:-1,PFC 3 FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136734.m3u8
-#EXTINF:-1,PFC 4 FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136737.m3u8
-#EXTINF:-1,PFC 5 FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136740.m3u8
-#EXTINF:-1,PFC 6 FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136744.m3u8
-#EXTINF:-1,PFC 7 FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136747.m3u8
-#EXTINF:-1,PFC HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88065.m3u8
-#EXTINF:-1,pinksixty
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213745.m3u8
-#EXTINF:-1,PLAY TV
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68946.m3u8
-#EXTINF:-1,Popeye O Marinheiro
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214201.m3u8
-#EXTINF:-1,PREMIER 2 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156993.m3u8
-#EXTINF:-1,PREMIER 7 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68939.m3u8
-#EXTINF:-1,PREMIER CLUBE
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156848.m3u8
-#EXTINF:-1,Premiere 1 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/104803.m3u8
-#EXTINF:-1,Premiere 3 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68943.m3u8
-#EXTINF:-1,Premiere 4
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68942.m3u8
-#EXTINF:-1,Premiere 5 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/164324.m3u8
-#EXTINF:-1,Premiere 6 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163900.m3u8
-#EXTINF:-1,Premiere 8
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163902.m3u8
-#EXTINF:-1,Premiere 9
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/196269.m3u8
-#EXTINF:-1,Prime Box
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/95846.m3u8
-#EXTINF:-1,Record Campinas HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123123.m3u8
-#EXTINF:-1,RECORD HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68934.m3u8
-#EXTINF:-1,Record News HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66031.m3u8
-#EXTINF:-1,REDE BRASIL TV
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/93193.m3u8
-#EXTINF:-1,REDE RECORD HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214079.m3u8
-#EXTINF:-1,REDE VIDA
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212273.m3u8
-#EXTINF:-1,RN
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/215593.m3u8
-#EXTINF:-1,SBT Brasil HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/208370.m3u8
-#EXTINF:-1,SBT HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139151.m3u8
-#EXTINF:-1,SBT SP
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214129.m3u8
-#EXTINF:-1,SCOOBY DOO
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214190.m3u8
-#EXTINF:-1,SKY CINEMA HD UNO
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66080.m3u8
-#EXTINF:-1,Sobrenatural
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214199.m3u8
-#EXTINF:-1,Sony HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/110357.m3u8
-#EXTINF:-1,Space HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139152.m3u8
-#EXTINF:-1,Spor TV 3
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213989.m3u8
-#EXTINF:-1,Sport Tv
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/111303.m3u8
-#EXTINF:-1,SPORT TV 2
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/215590.m3u8
-#EXTINF:-1,SPORTV 1 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88062.m3u8
-#EXTINF:-1,SPORTV 2
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66018.m3u8
-#EXTINF:-1,SPORTV 2 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139153.m3u8
-#EXTINF:-1,SPORTV 3 FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139154.m3u8
-#EXTINF:-1,SPORTV HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/149745.m3u8
-#EXTINF:-1,Steve Universe
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214191.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213990.m3u8
-#EXTINF:-1,Superman
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214206.m3u8
-#EXTINF:-1,SYFY HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156852.m3u8
-#EXTINF:-1,TBS HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88081.m3u8
-#EXTINF:-1,TCM
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157011.m3u8
-#EXTINF:-1,TELE CINE
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/213854.m3u8
-#EXTINF:-1,TELE CINE Premium HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/136785.m3u8
-#EXTINF:-1,TELECINE ACTION HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157013.m3u8
-#EXTINF:-1,TELECINE CULT HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157014.m3u8
-#EXTINF:-1,TELECINE FUN HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156970.m3u8
-#EXTINF:-1,TELECINE PIPOCA HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/156969.m3u8
-#EXTINF:-1,TELECINE TOUCH HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157012.m3u8
-#EXTINF:-1,TERRA VIVA
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/124379.m3u8
-#EXTINF:-1,THE HISTORY CHANNEL HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163882.m3u8
-#EXTINF:-1,TLC HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/88079.m3u8
-#EXTINF:-1,TNT FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139155.m3u8
-#EXTINF:-1,TNT SERIES HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157018.m3u8
-#EXTINF:-1,TOONCAST HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163823.m3u8
-#EXTINF:-1,Travel
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212764.m3u8
-#EXTINF:-1,TV ANHANGUERA
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212118.m3u8
-#EXTINF:-1,TV BRASIL
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66028.m3u8
-#EXTINF:-1,TV CAMERA
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212250.m3u8
-#EXTINF:-1,TV Catve
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212766.m3u8
-#EXTINF:-1,TV CINE 2 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/124324.m3u8
-#EXTINF:-1,TV Cultura HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/123144.m3u8
-#EXTINF:-1,TV Faap
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66058.m3u8
-#EXTINF:-1,Tv Gazeta
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/139156.m3u8
-#EXTINF:-1,TV Globo HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/89540.m3u8
-#EXTINF:-1,TV JUSTICA
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214145.m3u8
-#EXTINF:-1,TV NOVO TEMPO
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/163932.m3u8
-#EXTINF:-1,TV Ra tim Bum HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/124328.m3u8
-#EXTINF:-1,TV Record
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/66023.m3u8
-#EXTINF:-1,TV SENADO
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214155.m3u8
-#EXTINF:-1,TV TEM BAURU
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/212119.m3u8
-#EXTINF:-1,TV5 HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/215594.m3u8
-#EXTINF:-1,TVE
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/102980.m3u8
-#EXTINF:-1,TVI
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/95857.m3u8
-#EXTINF:-1,TVN Brasil
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/68828.m3u8
-#EXTINF:-1,Uma Família da Pesada
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214200.m3u8
-#EXTINF:-1,Universal Channel FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/157019.m3u8
-#EXTINF:-1,Vem & Ve TV
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/215585.m3u8
-#EXTINF:-1,VH1 Mega Hits
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/206449.m3u8
-#EXTINF:-1,Viva FHD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/104817.m3u8
-#EXTINF:-1,Warner Bros HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/104818.m3u8
-#EXTINF:-1,Woohoo HD
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/146621.m3u8
-#EXTINF:-1,Yu Yu Hakusho
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/214196.m3u8
-#EXTINF:-1,ZOOMOO
-http://dibo.live:8080/live/WHMCSMAG:WHMCS:8697/ng0685kTYt/164348.m3u8
+#EXTINF:-1,Fox | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54020.m3u8
+#EXTINF:-1,Fox | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54019.m3u8
+#EXTINF:-1,Fox | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54018.m3u8
+#EXTINF:-1,Fox Premium 1 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54017.m3u8
+#EXTINF:-1,Fox Premium 1 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54016.m3u8
+#EXTINF:-1,Fox Sports | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54015.m3u8
+#EXTINF:-1,Fox Sports | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54014.m3u8
+#EXTINF:-1,Fox Sports | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54013.m3u8
+#EXTINF:-1,Fox Sports 2 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54012.m3u8
+#EXTINF:-1,Fox Sports 2 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54011.m3u8
+#EXTINF:-1,FX | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54010.m3u8
+#EXTINF:-1,FX | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54009.m3u8
+#EXTINF:-1,G2P Tv SP
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54008.m3u8
+#EXTINF:-1,Gazeta | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54007.m3u8
+#EXTINF:-1,Globo - Inter Tv Dos Vales | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54006.m3u8
+#EXTINF:-1,Globo Anhanguera Goiania | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54005.m3u8
+#EXTINF:-1,Globo Bahia | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54004.m3u8
+#EXTINF:-1,Globo Bahia | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54003.m3u8
+#EXTINF:-1,Globo Brasilia | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54002.m3u8
+#EXTINF:-1,Globo Eptv Campinas | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54001.m3u8
+#EXTINF:-1,Globo Eptv Campinas | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54000.m3u8
+#EXTINF:-1,Globo Internacional | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53999.m3u8
+#EXTINF:-1,Globo MG | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53998.m3u8
+#EXTINF:-1,Globo MG | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53997.m3u8
+#EXTINF:-1,Globo Nordeste | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53996.m3u8
+#EXTINF:-1,Globo Nordeste | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53995.m3u8
+#EXTINF:-1,Globo Rbs Porto Alegre | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53994.m3u8
+#EXTINF:-1,Globo RJ | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53993.m3u8
+#EXTINF:-1,Globo RJ | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53992.m3u8
+#EXTINF:-1,Globo RN | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53991.m3u8
+#EXTINF:-1,Globo SP | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53990.m3u8
+#EXTINF:-1,Globo SP | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53989.m3u8
+#EXTINF:-1,Globo SP | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53988.m3u8
+#EXTINF:-1,Globo Tv Tem Bauru | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53987.m3u8
+#EXTINF:-1,Globo TV Tem Bauru | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53986.m3u8
+#EXTINF:-1,Globo Tv Tem Sorocaba | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53985.m3u8
+#EXTINF:-1,Globo Tv Tribuna Santos | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53984.m3u8
+#EXTINF:-1,Globo Tv Verdes Mares Fortaleza | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53983.m3u8
+#EXTINF:-1,Globonews | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53982.m3u8
+#EXTINF:-1,Globonews | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53981.m3u8
+#EXTINF:-1,Globosat | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53980.m3u8
+#EXTINF:-1,Globosat | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53979.m3u8
+#EXTINF:-1,Gloob | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53978.m3u8
+#EXTINF:-1,Gloob | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53977.m3u8
+#EXTINF:-1,Gloobinho | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53976.m3u8
+#EXTINF:-1,Gnt | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53975.m3u8
+#EXTINF:-1,Gnt | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53974.m3u8
+#EXTINF:-1,Gospel Cartoon | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53973.m3u8
+#EXTINF:-1,Gospel Movies Television | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53972.m3u8
+#EXTINF:-1,H2 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53971.m3u8
+#EXTINF:-1,H2 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53970.m3u8
+#EXTINF:-1,HBO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53969.m3u8
+#EXTINF:-1,HBO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53968.m3u8
+#EXTINF:-1,HBO 2 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53967.m3u8
+#EXTINF:-1,HBO 2 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53966.m3u8
+#EXTINF:-1,HBO Family | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53965.m3u8
+#EXTINF:-1,HBO Family | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53964.m3u8
+#EXTINF:-1,HBO Plus | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53963.m3u8
+#EXTINF:-1,HBO Plus | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53962.m3u8
+#EXTINF:-1,HBO Plus*E | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53961.m3u8
+#EXTINF:-1,HBO Signature | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53960.m3u8
+#EXTINF:-1,HBO Signature | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53959.m3u8
+#EXTINF:-1,History Channel | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53958.m3u8
+#EXTINF:-1,History Channel | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53957.m3u8
+#EXTINF:-1,ID | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53956.m3u8
+#EXTINF:-1,ID | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53955.m3u8
+#EXTINF:-1,Igreja Mundial Do Poder De Deus | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53954.m3u8
+#EXTINF:-1,Lifetime | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53953.m3u8
+#EXTINF:-1,Lifetime | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53952.m3u8
+#EXTINF:-1,Max | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53951.m3u8
+#EXTINF:-1,Max | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53950.m3u8
+#EXTINF:-1,Max Prime | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53949.m3u8
+#EXTINF:-1,Max Prime | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53948.m3u8
+#EXTINF:-1,Max Prime*E | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53947.m3u8
+#EXTINF:-1,Max Prime*E | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53946.m3u8
+#EXTINF:-1,Max Up | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53945.m3u8
+#EXTINF:-1,Max Up | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53944.m3u8
+#EXTINF:-1,Megapix | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53943.m3u8
+#EXTINF:-1,Megapix | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53942.m3u8
+#EXTINF:-1,Mtv | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53941.m3u8
+#EXTINF:-1,Multishow | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53940.m3u8
+#EXTINF:-1,Multishow | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53939.m3u8
+#EXTINF:-1,Natgeo Kids | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53938.m3u8
+#EXTINF:-1,Natgeo Kids | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53937.m3u8
+#EXTINF:-1,Natgeo Wild | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53936.m3u8
+#EXTINF:-1,Natgeo Wild | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53935.m3u8
+#EXTINF:-1,National Geographic | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53934.m3u8
+#EXTINF:-1,NBR | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53933.m3u8
+#EXTINF:-1,Nick Jr | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53932.m3u8
+#EXTINF:-1,Nick Jr | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53931.m3u8
+#EXTINF:-1,Nickelodeon | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53930.m3u8
+#EXTINF:-1,Nickelodeon | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53929.m3u8
+#EXTINF:-1,OFF | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53928.m3u8
+#EXTINF:-1,OFF | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53927.m3u8
+#EXTINF:-1,Paramounts | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53926.m3u8
+#EXTINF:-1,Play Tv | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53925.m3u8
+#EXTINF:-1,Plenatv RJ
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53924.m3u8
+#EXTINF:-1,Premiere 2 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53923.m3u8
+#EXTINF:-1,Premiere 2 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53922.m3u8
+#EXTINF:-1,Premiere 3 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53921.m3u8
+#EXTINF:-1,Premiere 3 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53920.m3u8
+#EXTINF:-1,Premiere 3 | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53919.m3u8
+#EXTINF:-1,Premiere 4 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53918.m3u8
+#EXTINF:-1,Premiere 4 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53917.m3u8
+#EXTINF:-1,Premiere 4 | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53916.m3u8
+#EXTINF:-1,Premiere 5 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53915.m3u8
+#EXTINF:-1,Premiere 5 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53914.m3u8
+#EXTINF:-1,Premiere 5 | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53913.m3u8
+#EXTINF:-1,Premiere 6 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53912.m3u8
+#EXTINF:-1,Premiere 6 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53911.m3u8
+#EXTINF:-1,Premiere 6 | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53910.m3u8
+#EXTINF:-1,Premiere 7 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53909.m3u8
+#EXTINF:-1,Premiere 7 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53908.m3u8
+#EXTINF:-1,Premiere Clubes | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53907.m3u8
+#EXTINF:-1,Premiere Clubes | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53906.m3u8
+#EXTINF:-1,Premiere Clubes | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53905.m3u8
+#EXTINF:-1,Premiere Clubes | UHD*
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53904.m3u8
+#EXTINF:-1,Prime Box Brazil | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53903.m3u8
+#EXTINF:-1,Prime Box Brazil | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53902.m3u8
+#EXTINF:-1,Rai | SD1
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53901.m3u8
+#EXTINF:-1,Ratimbum | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53900.m3u8
+#EXTINF:-1,Ratimbum | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53899.m3u8
+#EXTINF:-1,Rbi | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53898.m3u8
+#EXTINF:-1,Record Campinas | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53897.m3u8
+#EXTINF:-1,Record Campinas | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53896.m3u8
+#EXTINF:-1,Record News | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53895.m3u8
+#EXTINF:-1,Record News | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53894.m3u8
+#EXTINF:-1,Record Nordeste | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53893.m3u8
+#EXTINF:-1,Record SP | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53892.m3u8
+#EXTINF:-1,Record SP | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53891.m3u8
+#EXTINF:-1,Record Tv Leste | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53890.m3u8
+#EXTINF:-1,Red Bull Tv | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53889.m3u8
+#EXTINF:-1,Red Bull Tv | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53888.m3u8
+#EXTINF:-1,Rede Genesis | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53887.m3u8
+#EXTINF:-1,Rede Minas Tv Rio Doce | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53886.m3u8
+#EXTINF:-1,Rede Seculo 21 Tv Kefas | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53885.m3u8
+#EXTINF:-1,Rede Super | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53884.m3u8
+#EXTINF:-1,Rede Tv | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53883.m3u8
+#EXTINF:-1,Rede Tv RJ
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53882.m3u8
+#EXTINF:-1,Rede Tv SP
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53881.m3u8
+#EXTINF:-1,Rede Vida | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53880.m3u8
+#EXTINF:-1,Relax Tv | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53879.m3u8
+#EXTINF:-1,Rit | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53878.m3u8
+#EXTINF:-1,Rtpi | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53877.m3u8
+#EXTINF:-1,Rtvm Ce
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53876.m3u8
+#EXTINF:-1,Sbt | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53875.m3u8
+#EXTINF:-1,Sbt | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53874.m3u8
+#EXTINF:-1,Sbt | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53873.m3u8
+#EXTINF:-1,Sbt Interior SP
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53872.m3u8
+#EXTINF:-1,Sbt Nordeste | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53871.m3u8
+#EXTINF:-1,Sim Tv Record News
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53870.m3u8
+#EXTINF:-1,Space | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53869.m3u8
+#EXTINF:-1,Space | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53868.m3u8
+#EXTINF:-1,Sportv | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53867.m3u8
+#EXTINF:-1,Sportv | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53866.m3u8
+#EXTINF:-1,Sportv | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53865.m3u8
+#EXTINF:-1,Sportv 2 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53864.m3u8
+#EXTINF:-1,Sportv 2 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53863.m3u8
+#EXTINF:-1,Sportv 3 | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53862.m3u8
+#EXTINF:-1,Sportv 3 | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53861.m3u8
+#EXTINF:-1,Studio Universal | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53860.m3u8
+#EXTINF:-1,Studio Universal | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53859.m3u8
+#EXTINF:-1,Superi Tv | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53858.m3u8
+#EXTINF:-1,Syfy | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53857.m3u8
+#EXTINF:-1,Syfy | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53856.m3u8
+#EXTINF:-1,TBS | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53855.m3u8
+#EXTINF:-1,TBS | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53854.m3u8
+#EXTINF:-1,TCM | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53853.m3u8
+#EXTINF:-1,TCM | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53852.m3u8
+#EXTINF:-1,Telecine Action | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53851.m3u8
+#EXTINF:-1,Telecine Action | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53850.m3u8
+#EXTINF:-1,Telecine Cult | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53849.m3u8
+#EXTINF:-1,Telecine Cult | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53848.m3u8
+#EXTINF:-1,Telecine Fun | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53847.m3u8
+#EXTINF:-1,Telecine Fun | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53846.m3u8
+#EXTINF:-1,Telecine Pipoca | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53845.m3u8
+#EXTINF:-1,Telecine Pipoca | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53844.m3u8
+#EXTINF:-1,Telecine Premium | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53843.m3u8
+#EXTINF:-1,Telecine Premium | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53842.m3u8
+#EXTINF:-1,Telecine Touch | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53841.m3u8
+#EXTINF:-1,Telecine Touch | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53840.m3u8
+#EXTINF:-1,Terra Viva | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53839.m3u8
+#EXTINF:-1,Tnt | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53838.m3u8
+#EXTINF:-1,Tnt | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53837.m3u8
+#EXTINF:-1,Tnt Series | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53836.m3u8
+#EXTINF:-1,Tnt Series | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53835.m3u8
+#EXTINF:-1,Tooncast | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53834.m3u8
+#EXTINF:-1,Tooncast | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53833.m3u8
+#EXTINF:-1,Trutv | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53832.m3u8
+#EXTINF:-1,Tv A Cara Da Bahia
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53831.m3u8
+#EXTINF:-1,Tv A Plateia Rs
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53830.m3u8
+#EXTINF:-1,Tv Alvorada Espirita Sp
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53829.m3u8
+#EXTINF:-1,Tv Aparecida | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53828.m3u8
+#EXTINF:-1,Tv Aracati | HD Ce
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53827.m3u8
+#EXTINF:-1,Tv Arapuan (Rede Tv Pb)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53826.m3u8
+#EXTINF:-1,Tv Assembleia Ceara
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53825.m3u8
+#EXTINF:-1,Tv Assembleia MG | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53824.m3u8
+#EXTINF:-1,Tv Boa Esperan
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53823.m3u8
+#EXTINF:-1,Tv Brasil | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53822.m3u8
+#EXTINF:-1,Tv Brasil DF
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53821.m3u8
+#EXTINF:-1,Tv Camara | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53820.m3u8
+#EXTINF:-1,Tv Capital 777 Sp
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53819.m3u8
+#EXTINF:-1,Tv Caruaru Pe
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53818.m3u8
+#EXTINF:-1,Tv Cidade Verde (Sbt Pi)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53817.m3u8
+#EXTINF:-1,Tv Cn Agitos
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53816.m3u8
+#EXTINF:-1,TV Cultura | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53815.m3u8
+#EXTINF:-1,Tv Di
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53814.m3u8
+#EXTINF:-1,Tv Escola | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53813.m3u8
+#EXTINF:-1,Tv Gazeta RN
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53812.m3u8
+#EXTINF:-1,Tv Geral Ba
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53811.m3u8
+#EXTINF:-1,Tv Guarany Ce
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53810.m3u8
+#EXTINF:-1,Tv Guarapari Es
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53809.m3u8
+#EXTINF:-1,Tv Guarulhos SP
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53808.m3u8
+#EXTINF:-1,Tv Itapetininga Sp
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53807.m3u8
+#EXTINF:-1,Tv J.Sid Ba
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53806.m3u8
+#EXTINF:-1,Tv Jornal (Sbt Pe)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53805.m3u8
+#EXTINF:-1,Tv Jornal Caruaru (Sbt Pe)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53804.m3u8
+#EXTINF:-1,Tv Justica | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53803.m3u8
+#EXTINF:-1,Tv Maceio
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53802.m3u8
+#EXTINF:-1,Tv Mais Ce
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53801.m3u8
+#EXTINF:-1,Tv Mar
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53800.m3u8
+#EXTINF:-1,Tv Pampa (Rede Tv Rs)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53799.m3u8
+#EXTINF:-1,Tv Pantanal Globo Ms
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53798.m3u8
+#EXTINF:-1,Tv Plan Mg
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53797.m3u8
+#EXTINF:-1,Tv Po
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53796.m3u8
+#EXTINF:-1,Tv Rio Largo
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53795.m3u8
+#EXTINF:-1,Tv Senado | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53794.m3u8
+#EXTINF:-1,Tv Teen Net Sp
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53793.m3u8
+#EXTINF:-1,Tv Univale | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53792.m3u8
+#EXTINF:-1,Tv Up | HD (Futura) Pr
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53791.m3u8
+#EXTINF:-1,Tv Zoom RJ
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53790.m3u8
+#EXTINF:-1,Tvc 16 RJ
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53789.m3u8
+#EXTINF:-1,Tvci Pr
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53788.m3u8
+#EXTINF:-1,Tve | SD1
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53787.m3u8
+#EXTINF:-1,Tvn Brasil Df
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53786.m3u8
+#EXTINF:-1,Universal Channel | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53785.m3u8
+#EXTINF:-1,Universal Channel | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53784.m3u8
+#EXTINF:-1,Via Morena Ms
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53783.m3u8
+#EXTINF:-1,Warner Channel | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53782.m3u8
+#EXTINF:-1,Zoomoo | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/53781.m3u8
