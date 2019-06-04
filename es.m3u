@@ -1,43 +1,291 @@
 #EXTM3U
-#EXTINF:-1,ANDALICIA
-http://s1.electru.biz:8080/live/ROGER/ROGER/100776.m3u8
-#EXTINF:-1,BOING
-http://s1.electru.biz:8080/live/ROGER/ROGER/100769.m3u8
-#EXTINF:-1,CALLE 13 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100774.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100760.m3u8
-#EXTINF:-1,DIVINITY
-http://s1.electru.biz:8080/live/ROGER/ROGER/100753.m3u8
-#EXTINF:-1,EUROSPORTS 2
-http://s1.electru.biz:8080/live/ROGER/ROGER/100759.m3u8
-#EXTINF:-1,FORMULA 1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100765.m3u8
-#EXTINF:-1,FOX HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100755.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100771.m3u8
-#EXTINF:-1,GOLF
-http://s1.electru.biz:8080/live/ROGER/ROGER/100764.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100754.m3u8
-#EXTINF:-1,M LIGA DE CAMPEONES
-http://s1.electru.biz:8080/live/ROGER/ROGER/100761.m3u8
-#EXTINF:-1,MOVIESTAR DEPORTES 1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100752.m3u8
-#EXTINF:-1,MOVIESTAR DRAMA HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100758.m3u8
-#EXTINF:-1,MOVIESTAR ESTRENOS HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100766.m3u8
-#EXTINF:-1,MOVISTAR SERIESMANIA HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100751.m3u8
-#EXTINF:-1,PANDA
-http://s1.electru.biz:8080/live/ROGER/ROGER/100756.m3u8
-#EXTINF:-1,RT NOTICIAS
-http://s1.electru.biz:8080/live/ROGER/ROGER/100777.m3u8
-#EXTINF:-1, TCM HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100749.m3u8
-#EXTINF:-1,TEN
-http://s1.electru.biz:8080/live/ROGER/ROGER/100750.m3u8
-#EXTINF:-1, TNT HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/100770.m3u8
+#EXTINF:-1,A&E | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55035.m3u8
+#EXTINF:-1,AMC | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55034.m3u8
+#EXTINF:-1,ANIMAL PLANET | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55033.m3u8
+#EXTINF:-1,ANTENA 3 | SD*
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55032.m3u8
+#EXTINF:-1,AXN | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55030.m3u8
+#EXTINF:-1,AXN | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55029.m3u8
+#EXTINF:-1,AXN Latinoamerica | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55028.m3u8
+#EXTINF:-1,AXN White | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55027.m3u8
+#EXTINF:-1,AZTECA 13 (MX) | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55026.m3u8
+#EXTINF:-1,BABY TV | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55025.m3u8
+#EXTINF:-1,BOING | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55024.m3u8
+#EXTINF:-1,BOOMERANG | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55023.m3u8
+#EXTINF:-1,CABLE NOTICIAS | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55022.m3u8
+#EXTINF:-1,Cadena Sudeste TV ARGENTINA | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55021.m3u8
+#EXTINF:-1,CARTOON NETWORK | SD*
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55005.m3u8
+#EXTINF:-1,Caza y Pesca | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55004.m3u8
+#EXTINF:-1,CINE SONY | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55002.m3u8
+#EXTINF:-1,Ciudad TV Chaco ARGENTINA | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/55000.m3u8
+#EXTINF:-1,CLASSIC HD  (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54999.m3u8
+#EXTINF:-1,CNN CHILE (CL)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54998.m3u8
+#EXTINF:-1,CNN EN ESPANOL | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54997.m3u8
+#EXTINF:-1,COMEDY CENTRAL (MX) | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54996.m3u8
+#EXTINF:-1,CTC TV CUSCO PERU | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54995.m3u8
+#EXTINF:-1,CUATRO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54994.m3u8
+#EXTINF:-1,Cuenca Vision | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54993.m3u8
+#EXTINF:-1,DE PELICULA (MX) | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54992.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL | SD*
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54991.m3u8
+#EXTINF:-1,DISCOVERY ID | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54990.m3u8
+#EXTINF:-1,DISCOVERY KIDS | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54989.m3u8
+#EXTINF:-1,DISCOVERY THEATER HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54988.m3u8
+#EXTINF:-1,DISCOVERY TLC | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54987.m3u8
+#EXTINF:-1,Discovery Turbo | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54986.m3u8
+#EXTINF:-1,Discovery World | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54985.m3u8
+#EXTINF:-1,Disney Channel | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54984.m3u8
+#EXTINF:-1,DISTRITO COMEDIA (MX) | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54983.m3u8
+#EXTINF:-1,Divinity | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54982.m3u8
+#EXTINF:-1,DW Espanol | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54981.m3u8
+#EXTINF:-1,EL CHAPULÍN COLORADO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54980.m3u8
+#EXTINF:-1,EL GOURMET (MX) | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54979.m3u8
+#EXTINF:-1,EL PINGUINO TV  (CL)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54978.m3u8
+#EXTINF:-1,ENERGY | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54977.m3u8
+#EXTINF:-1,ENLACE
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54976.m3u8
+#EXTINF:-1,ESPN 2 | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54975.m3u8
+#EXTINF:-1,ESPN 3 ARGENTINA | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54974.m3u8
+#EXTINF:-1,ESPN DEPORTES | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54973.m3u8
+#EXTINF:-1,FILM & ART (MX) | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54971.m3u8
+#EXTINF:-1,FORO TV (MX) | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54970.m3u8
+#EXTINF:-1,FOX  HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54969.m3u8
+#EXTINF:-1,FOX 1 | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54968.m3u8
+#EXTINF:-1,FOX DEPORTES HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54967.m3u8
+#EXTINF:-1,FOX LIFE | FHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54966.m3u8
+#EXTINF:-1,FOX MOVIES | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54965.m3u8
+#EXTINF:-1,FOX SERIES (MX) | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54964.m3u8
+#EXTINF:-1,Futuro FM CHILE | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54963.m3u8
+#EXTINF:-1,FXM HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54962.m3u8
+#EXTINF:-1,GLITZ (CO) | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54961.m3u8
+#EXTINF:-1,Gol TV | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54960.m3u8
+#EXTINF:-1,GOLDEN EDGE HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54959.m3u8
+#EXTINF:-1,GOLDEN HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54958.m3u8
+#EXTINF:-1,GOLDEN PLUS HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54957.m3u8
+#EXTINF:-1,GOLF | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54956.m3u8
+#EXTINF:-1,H2
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54955.m3u8
+#EXTINF:-1,HBO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54954.m3u8
+#EXTINF:-1,HBO 2 | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54953.m3u8
+#EXTINF:-1,HBO FAMILY | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54952.m3u8
+#EXTINF:-1,HBO PLUS | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54951.m3u8
+#EXTINF:-1,HBO Signature | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54950.m3u8
+#EXTINF:-1,Historia | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54949.m3u8
+#EXTINF:-1,HISTORY HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54948.m3u8
+#EXTINF:-1,HOLA TV HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54947.m3u8
+#EXTINF:-1,Holvoet TV CHILE | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54946.m3u8
+#EXTINF:-1,Impactovision TV Matamoros MEXICO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54945.m3u8
+#EXTINF:-1,ISAT HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54944.m3u8
+#EXTINF:-1,La Mega Mundial | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54943.m3u8
+#EXTINF:-1,LAS ESTRELLAS |HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54942.m3u8
+#EXTINF:-1,Latinos Up TV | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54941.m3u8
+#EXTINF:-1,Mega TV Araquipa PERU | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54940.m3u8
+#EXTINF:-1,Melody Channel | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54939.m3u8
+#EXTINF:-1,Milenium Salta ARGENTINA | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54938.m3u8
+#EXTINF:-1,MOTO GP | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54937.m3u8
+#EXTINF:-1,MTV | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54936.m3u8
+#EXTINF:-1,MTV ESPANA | SD*
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54935.m3u8
+#EXTINF:-1,MTV HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54934.m3u8
+#EXTINF:-1,Multimedia Cappissima TV CHILE | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54933.m3u8
+#EXTINF:-1,MULTIMEDIOS HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54932.m3u8
+#EXTINF:-1,Mundo Mas COLOMBIA | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54931.m3u8
+#EXTINF:-1,Music Top ARGENTINA | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54930.m3u8
+#EXTINF:-1,NAT GEO Wild | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54929.m3u8
+#EXTINF:-1,NBC UNIVERSO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54928.m3u8
+#EXTINF:-1,NEOX | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54927.m3u8
+#EXTINF:-1,NICK 2 (MX) | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54926.m3u8
+#EXTINF:-1,NICK HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54925.m3u8
+#EXTINF:-1,NICK JR | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54924.m3u8
+#EXTINF:-1,NICKTOONS (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54923.m3u8
+#EXTINF:-1,OchoTV Guadalajara MEXICO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54922.m3u8
+#EXTINF:-1,Ovacion PERU | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54921.m3u8
+#EXTINF:-1,PANDA | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54920.m3u8
+#EXTINF:-1,PARAMOUNT (MX) | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54919.m3u8
+#EXTINF:-1,Portal Foxmix CHILE | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54918.m3u8
+#EXTINF:-1,Power TV ARGENTINA | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54917.m3u8
+#EXTINF:-1,PYC TV COLOMBIA | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54916.m3u8
+#EXTINF:-1,Radio Congreso Online CHILE | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54915.m3u8
+#EXTINF:-1,RBC TV PERU | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54914.m3u8
+#EXTINF:-1,RCG 1 Saltillo MEXICO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54913.m3u8
+#EXTINF:-1,RCG 2 Saltillo MEXICO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54912.m3u8
+#EXTINF:-1,RCG 3 Saltillo MEXICO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54911.m3u8
+#EXTINF:-1,RCN NOVELAS (CO)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54910.m3u8
+#EXTINF:-1,RTQ Queretaro MEXICO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54909.m3u8
+#EXTINF:-1,Sipse TV Cancun MEXICO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54908.m3u8
+#EXTINF:-1,Sol TV PERU | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54907.m3u8
+#EXTINF:-1,Son Popular COLOMBIA | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54906.m3u8
+#EXTINF:-1,SONY (MX) | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54905.m3u8
+#EXTINF:-1,SPACE | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54904.m3u8
+#EXTINF:-1,SQCS Chetumal MEXICO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54903.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54902.m3u8
+#EXTINF:-1,SUNDANCE TV | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54901.m3u8
+#EXTINF:-1,SYFY | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54900.m3u8
+#EXTINF:-1,SYFY HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54899.m3u8
+#EXTINF:-1,TCM HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54898.m3u8
+#EXTINF:-1,Teleenvigado COLOMBIA | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54897.m3u8
+#EXTINF:-1,Teleformula MEXICO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54896.m3u8
+#EXTINF:-1,TELEMUNDO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54895.m3u8
+#EXTINF:-1,Televisora Regional Unimar ARGENTINA | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54894.m3u8
+#EXTINF:-1,Telpin Teve Pinamar ARGENTINA | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54893.m3u8
+#EXTINF:-1,Tlaxcala TV MEXICO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54892.m3u8
+#EXTINF:-1,TLC | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54891.m3u8
+#EXTINF:-1,TNT HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54890.m3u8
+#EXTINF:-1,TOONCAST | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54889.m3u8
+#EXTINF:-1,Trailer TV Kids CHILE | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54888.m3u8
+#EXTINF:-1,Trecevision Yucatan MEXICO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54887.m3u8
+#EXTINF:-1,Turbo Mix Radio TV PERU | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54886.m3u8
+#EXTINF:-1,TV Cosmos PERU | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54885.m3u8
+#EXTINF:-1,TV Marti | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54884.m3u8
+#EXTINF:-1,TV MAS HD (MX)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54883.m3u8
+#EXTINF:-1,TV Noticias 7.3 PERU |SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54882.m3u8
+#EXTINF:-1,TVMAS Veracruz MEXICO | SD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54881.m3u8
+#EXTINF:-1,TYC SPORTS SD (AR)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54880.m3u8
+#EXTINF:-1,Ultra TV Aguascalientes MEXICO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54879.m3u8
+#EXTINF:-1,Ultra TV Puebla MEXICO | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54878.m3u8
+#EXTINF:-1,UNIVERSAL HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54877.m3u8
+#EXTINF:-1,VALLE TELEVISION (CL)
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54874.m3u8
+#EXTINF:-1,VC Online Santiago CHILE | HD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54873.m3u8
+#EXTINF:-1,VH1 | SD*
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54872.m3u8
+#EXTINF:-1,WINSPORTS
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54871.m3u8
+#EXTINF:-1,WOBI HD (MX) | UHD
+http://thenew.tv:8000/live/2kCmsPQoHA/D3SvyfgdlC/54870.m3u8
