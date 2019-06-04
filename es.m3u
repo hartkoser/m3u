@@ -1,133 +1,415 @@
 #EXTM3U
-#EXTINF:-1,ANDALUCIA TV
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/315.m3u8
-#EXTINF:-1,LA 1
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/337.m3u8
-#EXTINF:-1,LA 2
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/336.m3u8
-#EXTINF:-1,24 Horas
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/7454.m3u8
-#EXTINF:-1,#O
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/349.m3u8
+#EXTINF:-1,#0 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/727.m3u8
+#EXTINF:-1,24 HORAS
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/726.m3u8
 #EXTINF:-1,A&E
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/316.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/725.m3u8
+#EXTINF:-1,A3 SERIES
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/724.m3u8
 #EXTINF:-1,AMC
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/348.m3u8
-#EXTINF:-1,Antena 3
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/187.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/531.m3u8
+#EXTINF:-1,AMC HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/711.m3u8
+#EXTINF:-1,ANDALUCIA TV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/710.m3u8
 #EXTINF:-1,AXN
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/347.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/602.m3u8
+#EXTINF:-1,AXN HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/709.m3u8
 #EXTINF:-1,AXN WHITE
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/346.m3u8
-#EXTINF:-1,BARCA TV
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/882.m3u8
-#EXTINF:-1,B31N La Liga HD
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/264.m3u8
-#EXTINF:-1,B31N Sp0rts SPAIN HD
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/160.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/708.m3u8
+#EXTINF:-1,AXN White HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/601.m3u8
+#EXTINF:-1,Antena 3 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/603.m3u8
+#EXTINF:-1,BAR.A TV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/707.m3u8
+#EXTINF:-1,BEIN LA LIGA TV 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/516.m3u8
+#EXTINF:-1,BEIN LA LIGA TV 2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/515.m3u8
+#EXTINF:-1,BEIN LALIGA1 (solo eventos)
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/614.m3u8
+#EXTINF:-1,BEIN LALIGA2 (solo eventos)
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/613.m3u8
+#EXTINF:-1,BEIN LALIGA3 (solo eventos)
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/612.m3u8
+#EXTINF:-1,BEIN MAX 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/706.m3u8
+#EXTINF:-1,BEIN MAX 1 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/513.m3u8
+#EXTINF:-1,BEIN MAX 2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/705.m3u8
+#EXTINF:-1,BEIN MAX 2 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/512.m3u8
+#EXTINF:-1,BEIN MAX 3
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/704.m3u8
+#EXTINF:-1,BEIN MAX 4
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/703.m3u8
+#EXTINF:-1,BEIN MAX 5
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/702.m3u8
+#EXTINF:-1,BEIN MAX 6
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/701.m3u8
+#EXTINF:-1,BEIN MAX 7
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/700.m3u8
+#EXTINF:-1,BEIN MAX 8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/699.m3u8
+#EXTINF:-1,BEIN SPORT HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/605.m3u8
+#EXTINF:-1,BEIN SPORT SP FHD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/611.m3u8
+#EXTINF:-1,BEIN SPORT SP HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/698.m3u8
+#EXTINF:-1,BEIN SPORTS
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/697.m3u8
+#EXTINF:-1,BEINLALIGA1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/696.m3u8
+#EXTINF:-1,BEINLALIGA2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/695.m3u8
+#EXTINF:-1,BEINLALIGA3
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/694.m3u8
+#EXTINF:-1,BEINLALIGA4
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/693.m3u8
+#EXTINF:-1,BEINLALIGA5
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/692.m3u8
+#EXTINF:-1,BEINLALIGA6
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/691.m3u8
+#EXTINF:-1,BEINLALIGA7
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/690.m3u8
+#EXTINF:-1,BEINLALIGA8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/689.m3u8
 #EXTINF:-1,BOING
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/345.m3u8
-#EXTINF:-1,CALLE 13
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/344.m3u8
-#EXTINF:-1,Caza y Pesca
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/11577.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/688.m3u8
+#EXTINF:-1,Baby TV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/600.m3u8
+#EXTINF:-1,Barca TV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/530.m3u8
+#EXTINF:-1,Bein LaLiga
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/599.m3u8
+#EXTINF:-1,Bein Sportpana
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/598.m3u8
+#EXTINF:-1,CANAL DEPORTES 1 FHD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/610.m3u8
+#EXTINF:-1,CANAL DEPORTES 2 FHD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/609.m3u8
+#EXTINF:-1,CANAL FUTBOL FHD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/608.m3u8
+#EXTINF:-1,CANAL ORBE 21
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/687.m3u8
+#EXTINF:-1,CANAL ORBE21
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/686.m3u8
+#EXTINF:-1,CANAL PANDA
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/685.m3u8
+#EXTINF:-1,CANAL SUR A.
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/684.m3u8
+#EXTINF:-1,CAZA Y PESCA
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/683.m3u8
+#EXTINF:-1,CAZAyPESCA HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/682.m3u8
+#EXTINF:-1,CLAN  TVE
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/681.m3u8
+#EXTINF:-1,CLAN TVE
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/680.m3u8
 #EXTINF:-1,COCINA
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/343.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/342.m3u8
-#EXTINF:-1,COSMO
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/341.m3u8
-#EXTINF:-1,CRIMEN INVESTIGACION
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/313.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/679.m3u8
+#EXTINF:-1,COMEDYCENTRALHD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/678.m3u8
+#EXTINF:-1,CRIMEN INVES
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/677.m3u8
 #EXTINF:-1,CUATRO
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/340.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/314.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/312.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/311.m3u8
-#EXTINF:-1,DISNEY XD
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/310.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/676.m3u8
+#EXTINF:-1,Calle 13 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/595.m3u8
+#EXTINF:-1,Canal Cocina
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/593.m3u8
+#EXTINF:-1,Canal DeCasa
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/592.m3u8
+#EXTINF:-1,Canal DeportSP
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/594.m3u8
+#EXTINF:-1,Cartoon Network
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/591.m3u8
+#EXTINF:-1,Comedy Central
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/590.m3u8
+#EXTINF:-1,Cosmo HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/589.m3u8
+#EXTINF:-1,Crimen y Investigation
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/588.m3u8
+#EXTINF:-1,Cuatro HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/587.m3u8
+#EXTINF:-1,DISCOVERY
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/675.m3u8
+#EXTINF:-1,DISNEY CH HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/674.m3u8
+#EXTINF:-1,DISNEY JR
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/673.m3u8
 #EXTINF:-1,DIVINITY
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/309.m3u8
-#EXTINF:-1,ENERGY
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/308.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/672.m3u8
+#EXTINF:-1,Disney Channel
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/586.m3u8
+#EXTINF:-1,Disney Junior
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/585.m3u8
+#EXTINF:-1,Disney XD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/584.m3u8
+#EXTINF:-1,EUROSPORT
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/582.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/671.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/670.m3u8
+#EXTINF:-1,Energy
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/583.m3u8
+#EXTINF:-1,F1 Formula 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/669.m3u8
 #EXTINF:-1,FDF
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/307.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/668.m3u8
 #EXTINF:-1,FOX
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/306.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/581.m3u8
+#EXTINF:-1,FOX HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/667.m3u8
 #EXTINF:-1,FOX LIFE
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/339.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/580.m3u8
+#EXTINF:-1,FOX Life HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/579.m3u8
+#EXTINF:-1,FOX NEWS
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/666.m3u8
+#EXTINF:-1,GALICIA TV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/528.m3u8
+#EXTINF:-1,GLAMOUR FM
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/665.m3u8
 #EXTINF:-1,GOL
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/265.m3u8
-#EXTINF:-1,HISTORIA
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/305.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/664.m3u8
+#EXTINF:-1,GOL TV HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/578.m3u8
 #EXTINF:-1,HOLLYWOOD
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/338.m3u8
-#EXTINF:-1,La Sexta
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/188.m3u8
-#EXTINF:-1,LaLigaTV BAR
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/161.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/663.m3u8
+#EXTINF:-1,Historia
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/577.m3u8
+#EXTINF:-1,Hollywood HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/576.m3u8
+#EXTINF:-1,IBERALIA TV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/527.m3u8
+#EXTINF:-1,LA 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/662.m3u8
+#EXTINF:-1,LA 1 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/661.m3u8
+#EXTINF:-1,LA 2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/660.m3u8
+#EXTINF:-1,LA LIGA TV BAR
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/511.m3u8
+#EXTINF:-1,LA SEXTA
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/659.m3u8
+#EXTINF:-1,LA sexta HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/574.m3u8
+#EXTINF:-1,LA1 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/510.m3u8
+#EXTINF:-1,LA2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/509.m3u8
+#EXTINF:-1,LALIGATV BAR
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/658.m3u8
+#EXTINF:-1,LALIGATV BAR 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/657.m3u8
+#EXTINF:-1,MEZZO
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/642.m3u8
+#EXTINF:-1,MEZZO LIVE HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/641.m3u8
+#EXTINF:-1,MOVISTAR ACCION HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/656.m3u8
+#EXTINF:-1,MOVISTAR Cine Español
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/655.m3u8
+#EXTINF:-1,MOVISTAR DCINE HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/654.m3u8
+#EXTINF:-1,MOVISTAR DEP 1 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/653.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES 1 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/573.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES 2 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/572.m3u8
+#EXTINF:-1,MOVISTAR DISNEY
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/652.m3u8
+#EXTINF:-1,MOVISTAR FORMULA 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/647.m3u8
+#EXTINF:-1,MOVISTAR FORMULA 1 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/646.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/651.m3u8
+#EXTINF:-1,MOVISTAR GOLF HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/650.m3u8
+#EXTINF:-1,MOVISTAR MOTO GP HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/571.m3u8
+#EXTINF:-1,MOVISTAR MOTOGP HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/645.m3u8
+#EXTINF:-1,MOVISTAR Partidazo
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/644.m3u8
+#EXTINF:-1,MOVISTAR Partidazo HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/643.m3u8
+#EXTINF:-1,MOVISTAR SERIES HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/649.m3u8
+#EXTINF:-1,MOVISTAR Series Xtra HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/648.m3u8
+#EXTINF:-1,MTV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/558.m3u8
+#EXTINF:-1,MTV espana
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/559.m3u8
+#EXTINF:-1,MULTI-X
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/640.m3u8
+#EXTINF:-1,MULTIDEPORTE
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/634.m3u8
+#EXTINF:-1,MULTIDEPORTE 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/639.m3u8
+#EXTINF:-1,MULTIDEPORTE 2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/638.m3u8
+#EXTINF:-1,MULTIDEPORTE 3
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/637.m3u8
+#EXTINF:-1,MULTIDEPORTE 4
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/636.m3u8
+#EXTINF:-1,MULTIDEPORTE 5
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/635.m3u8
+#EXTINF:-1,MULTIDEPORTES 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/508.m3u8
+#EXTINF:-1,MULTIDEPORTES 2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/507.m3u8
+#EXTINF:-1,MULTIDEPORTES 3
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/506.m3u8
+#EXTINF:-1,MULTIFUTBOL 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/633.m3u8
+#EXTINF:-1,MULTIFUTBOL 2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/632.m3u8
+#EXTINF:-1,MULTIFUTBOL 3
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/631.m3u8
+#EXTINF:-1,MULTIFUTBOL 4
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/630.m3u8
 #EXTINF:-1,Mega
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/263.m3u8
-#EXTINF:-1,MOVISTAR ACCION
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/156.m3u8
-#EXTINF:-1,MOVISTAR COMEDIA
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/335.m3u8
-#EXTINF:-1,MOVISTAR DCINE
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/334.m3u8
-#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES HD
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/20378.m3u8
-#EXTINF:-1,MOVISTAR  DEPORTES 1
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/159.m3u8
-#EXTINF:-1,#VAMOS
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/333.m3u8
-#EXTINF:-1,MOVISTAR ESTRENOS
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/332.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/570.m3u8
+#EXTINF:-1,Movistar Accion
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/569.m3u8
+#EXTINF:-1,Movistar Comedia HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/568.m3u8
+#EXTINF:-1,Movistar DCine
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/567.m3u8
 #EXTINF:-1,Movistar F1
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/189.m3u8
-#EXTINF:-1,MOVISTAR GOLF
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/157.m3u8
-#EXTINF:-1,MOVISTAR MOTO GP
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/331.m3u8
-#EXTINF:-1,MOVISTAR PARTIDAZO HD (Solo Eventos)
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/302.m3u8
-#EXTINF:-1,MOVISTAR SERIES
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/330.m3u8
-#EXTINF:-1,MOVISTAR SERIES XTRA
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/329.m3u8
-#EXTINF:-1,MOVISTAR XTRA
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/328.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/327.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/326.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/566.m3u8
+#EXTINF:-1,MOVISTAR MOTOGP FHD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/565.m3u8
+#EXTINF:-1,Movistar SeriSP Xtra
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/562.m3u8
+#EXTINF:-1,Movistar Series
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/564.m3u8
+#EXTINF:-1,Movistar Series Xtra
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/563.m3u8
+#EXTINF:-1,Movistar Xtra
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/561.m3u8
+#EXTINF:-1,Movistar estrenos
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/560.m3u8
+#EXTINF:-1,NAT GEO HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/629.m3u8
 #EXTINF:-1,NEOX
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/300.m3u8
-#EXTINF:-1,NICKELODEON
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/325.m3u8
-#EXTINF:-1,NOVA
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/324.m3u8
-#EXTINF:-1,ODISEA HD
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/298.m3u8
-#EXTINF:-1,PANDA
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/297.m3u8
-#EXTINF:-1,PARAMOUNT
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/296.m3u8
-#EXTINF:-1,Real Madrid TV
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/183.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/628.m3u8
+#EXTINF:-1,NG WILD HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/627.m3u8
+#EXTINF:-1,NICK JR
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/626.m3u8
+#EXTINF:-1,NONSTOPEOPLE
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/625.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/557.m3u8
+#EXTINF:-1,National Geographic
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/556.m3u8
+#EXTINF:-1,Neox TV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/555.m3u8
+#EXTINF:-1,Nickelodeon HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/554.m3u8
+#EXTINF:-1,Nova
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/553.m3u8
+#EXTINF:-1,Odisea TV
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/552.m3u8
+#EXTINF:-1,Paramount Channel
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/551.m3u8
+#EXTINF:-1,RTVA
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/550.m3u8
+#EXTINF:-1,Real Madrid tv
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/529.m3u8
+#EXTINF:-1,SUNDANCE
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/624.m3u8
 #EXTINF:-1,SYFY
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/323.m3u8
-#EXTINF:-1,TCM
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/322.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/549.m3u8
+#EXTINF:-1,TCM HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/623.m3u8
 #EXTINF:-1,TELECINCO
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/321.m3u8
-#EXTINF:-1,TELEDEPORTE
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/320.m3u8
-#EXTINF:-1,TeNeTe
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/319.m3u8
-#EXTINF:-1,TOROSTV HD
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/155.m3u8
-#EXTINF:-1,VIAJAR
-http://disfruta.net:8000/live/cata760/BczQ1Mqzu6/318.m3u8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/622.m3u8
+#EXTINF:-1,TELECINCO FHD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/621.m3u8
+#EXTINF:-1,TELEDEPORTE FHD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/606.m3u8
+#EXTINF:-1,TELEDEPORTE HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/620.m3u8
+#EXTINF:-1,TELEDEPORTES
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/505.m3u8
+#EXTINF:-1,TNT
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/619.m3u8
+#EXTINF:-1,TNT HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/618.m3u8
+#EXTINF:-1,TOROS TV HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/617.m3u8
+#EXTINF:-1,TV GALICIA
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/616.m3u8
+#EXTINF:-1,TV3 Catalynia HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/536.m3u8
+#EXTINF:-1,TVE Clan
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/535.m3u8
+#EXTINF:-1,TVE LA 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/526.m3u8
+#EXTINF:-1,TVE LA 1 HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/534.m3u8
+#EXTINF:-1,TVE LA 2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/533.m3u8
+#EXTINF:-1,Taquilla 1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/548.m3u8
+#EXTINF:-1,Taquilla 10
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/547.m3u8
+#EXTINF:-1,Taquilla 2
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/546.m3u8
+#EXTINF:-1,Taquilla 3
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/545.m3u8
+#EXTINF:-1,Taquilla 4
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/544.m3u8
+#EXTINF:-1,Taquilla 5
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/543.m3u8
+#EXTINF:-1,Taquilla 6
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/542.m3u8
+#EXTINF:-1,Taquilla 7
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/541.m3u8
+#EXTINF:-1,Taquilla 8
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/540.m3u8
+#EXTINF:-1,Taquilla 9
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/539.m3u8
+#EXTINF:-1,Telecinco HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/538.m3u8
+#EXTINF:-1,Toros Tv
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/537.m3u8
+#EXTINF:-1,VH1
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/615.m3u8
+#EXTINF:-1,Viajar HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/532.m3u8
+#EXTINF:-1,beIN Max 1 {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/525.m3u8
+#EXTINF:-1,beIN Max 2 HD {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/524.m3u8
+#EXTINF:-1,beIN Max 2 {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/523.m3u8
+#EXTINF:-1,beIN Max 3 {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/522.m3u8
+#EXTINF:-1,beIN Max 4 {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/521.m3u8
+#EXTINF:-1,beIN Max 5 {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/520.m3u8
+#EXTINF:-1,beIN Max 6 {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/519.m3u8
+#EXTINF:-1,beIN Max 7 {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/518.m3u8
+#EXTINF:-1,beIN Max 8 {partidos en vivo}
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/517.m3u8
+#EXTINF:-1,bein SPORTS HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/597.m3u8
+#EXTINF:-1,bein SPORTS LA LIGA HD
+http://x3iptv.com:57000/live/Tomas2019/Tomas2019/596.m3u8
