@@ -1,449 +1,203 @@
 #EXTM3U
-#EXTINF:-1,NHK
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163894.m3u8
-#EXTINF:-1,TV Geral
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95859.m3u8
-#EXTINF:-1,A&E HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66059.m3u8
-#EXTINF:-1,All Sports
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66050.m3u8
-#EXTINF:-1,AMC FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/100805.m3u8
-#EXTINF:-1,ANIMAL PLANET Brasil
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/206328.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68999.m3u8
-#EXTINF:-1,Anime Cartoon
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66019.m3u8
-#EXTINF:-1,Aparceida
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/159051.m3u8
-#EXTINF:-1,ARTE 1 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156983.m3u8
-#EXTINF:-1,AXN FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66021.m3u8
-#EXTINF:-1,BABY TV HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157962.m3u8
-#EXTINF:-1,BAND HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/100806.m3u8
-#EXTINF:-1,BAND News HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66056.m3u8
-#EXTINF:-1,Band Nordeste
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212705.m3u8
-#EXTINF:-1,BAND SP HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212123.m3u8
-#EXTINF:-1,BAND SPORT HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66054.m3u8
-#EXTINF:-1,BIS FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95823.m3u8
-#EXTINF:-1,Boomerang FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66065.m3u8
-#EXTINF:-1,BR GLOBOSAT HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212526.m3u8
-#EXTINF:-1,Brazil 2
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/209685.m3u8
-#EXTINF:-1,CANAL BRASIL HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156999.m3u8
-#EXTINF:-1,CANAL DO BOI
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/93196.m3u8
-#EXTINF:-1,Canal Escola
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95824.m3u8
-#EXTINF:-1,CANAL RURAL
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/124371.m3u8
-#EXTINF:-1,CANAL SONNY
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212193.m3u8
-#EXTINF:-1,Canal Sony HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157000.m3u8
-#EXTINF:-1,Cartoon Network FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139121.m3u8
-#EXTINF:-1,Cine 1
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/125480.m3u8
-#EXTINF:-1,Cinemax FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/100801.m3u8
-#EXTINF:-1,Combate FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156819.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163287.m3u8
-#EXTINF:-1,CURTA! HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/123157.m3u8
-#EXTINF:-1,DAZN HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/208359.m3u8
-#EXTINF:-1,Discovery Channel FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139122.m3u8
-#EXTINF:-1,Discovery Civilization FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66062.m3u8
-#EXTINF:-1,Discovery H&H HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/146294.m3u8
-#EXTINF:-1,Discovery HISTORY
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212532.m3u8
-#EXTINF:-1,Discovery Kids FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139125.m3u8
-#EXTINF:-1,Discovery Science FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/94188.m3u8
-#EXTINF:-1,Discovery Theater FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88099.m3u8
-#EXTINF:-1,Discovery Turbo FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139128.m3u8
-#EXTINF:-1,Discovery World FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/100091.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/116367.m3u8
-#EXTINF:-1,Disney Jr FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/196318.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68980.m3u8
-#EXTINF:-1,DW Latin
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95827.m3u8
-#EXTINF:-1,E! HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88100.m3u8
-#EXTINF:-1,EI MAX HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/208360.m3u8
-#EXTINF:-1,Eorte Int
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212717.m3u8
-#EXTINF:-1,ESPN + HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/100804.m3u8
-#EXTINF:-1,ESPN 2 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/130202.m3u8
-#EXTINF:-1,ESPN Brasil FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68955.m3u8
-#EXTINF:-1,ESPN EXTRA HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156829.m3u8
-#EXTINF:-1,ESPN FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66036.m3u8
-#EXTINF:-1,FILM & ARTS
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163854.m3u8
-#EXTINF:-1,Fish TV HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68974.m3u8
-#EXTINF:-1,Food Network FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88095.m3u8
-#EXTINF:-1,FOX CHANNEL HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156830.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156831.m3u8
-#EXTINF:-1,Fox Premium 1 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88101.m3u8
-#EXTINF:-1,FOX PREMIUM 2 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163856.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88071.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68970.m3u8
-#EXTINF:-1,FOX SPORTS HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156834.m3u8
-#EXTINF:-1,FOX USA
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/124217.m3u8
-#EXTINF:-1,Futura HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66041.m3u8
-#EXTINF:-1,FX HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156832.m3u8
-#EXTINF:-1,Globo Amazonas
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/123089.m3u8
-#EXTINF:-1,GLOBO BRASILIA HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/112287.m3u8
-#EXTINF:-1,Globo EPTV Campinas
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/149694.m3u8
-#EXTINF:-1,Globo EPTV S
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/123095.m3u8
-#EXTINF:-1,Globo ES HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136658.m3u8
-#EXTINF:-1,Globo MG
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/130194.m3u8
-#EXTINF:-1,Globo MINAS
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/92517.m3u8
-#EXTINF:-1,Globo NE
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136662.m3u8
-#EXTINF:-1,GLOBO NEWS HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156984.m3u8
-#EXTINF:-1,GLOBO NORDESTE HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/109201.m3u8
-#EXTINF:-1,Globo Premium
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88051.m3u8
-#EXTINF:-1,GLOBO RBS TV PORTO ALEGRE
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163872.m3u8
-#EXTINF:-1,GLOBO RJ HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/110340.m3u8
-#EXTINF:-1,GLOBO RN HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/124245.m3u8
-#EXTINF:-1,Globo Rural HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/209527.m3u8
-#EXTINF:-1,GLOBO SP HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/196249.m3u8
-#EXTINF:-1,Globo Sptv
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212725.m3u8
-#EXTINF:-1,Globo Tv Tem Bauru HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/149697.m3u8
-#EXTINF:-1,Globo Tv Verdes Mares Fortaleza
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139137.m3u8
-#EXTINF:-1,Globosat HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/102991.m3u8
-#EXTINF:-1,GLOOB HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156987.m3u8
-#EXTINF:-1,Gloobinho
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136680.m3u8
-#EXTINF:-1,GNT HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88049.m3u8
-#EXTINF:-1,GOSPEL CARTOON
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163954.m3u8
-#EXTINF:-1,H2 Brasil
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/110344.m3u8
-#EXTINF:-1,H2 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139141.m3u8
-#EXTINF:-1,HBO +
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212732.m3u8
-#EXTINF:-1,HBO 2 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156835.m3u8
-#EXTINF:-1,HBO FAMILY HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156836.m3u8
-#EXTINF:-1,HBO HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156837.m3u8
-#EXTINF:-1,HBO Plus
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/209698.m3u8
-#EXTINF:-1,HBO PLUS E
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68962.m3u8
-#EXTINF:-1,HBO Signature FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68961.m3u8
-#EXTINF:-1,History 2
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/210715.m3u8
-#EXTINF:-1,History Channel HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66051.m3u8
-#EXTINF:-1,Hit TV
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136697.m3u8
-#EXTINF:-1,Home&Health
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95841.m3u8
-#EXTINF:-1,ID
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212736.m3u8
-#EXTINF:-1,ID: Investigação Discovery HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/149711.m3u8
-#EXTINF:-1,INVESTIGATION Discovery HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163883.m3u8
-#EXTINF:-1,Investigation Disvovery
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/175466.m3u8
-#EXTINF:-1,Lifetime FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66068.m3u8
-#EXTINF:-1,Mais Globo Sa
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/114019.m3u8
-#EXTINF:-1,MAIS GLOBOSAT
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212554.m3u8
-#EXTINF:-1,Mana Sat
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66072.m3u8
-#EXTINF:-1,MASTER TV
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/105229.m3u8
-#EXTINF:-1,Max FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139147.m3u8
-#EXTINF:-1,MAX PRIME E
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212555.m3u8
-#EXTINF:-1,Max Prime HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157007.m3u8
-#EXTINF:-1,Max Up HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157008.m3u8
-#EXTINF:-1,Megapix FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156842.m3u8
-#EXTINF:-1,MTV FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/104797.m3u8
-#EXTINF:-1,MULTI SHOW HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156844.m3u8
-#EXTINF:-1,Multi TV
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95842.m3u8
-#EXTINF:-1,Music Box
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/209701.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66048.m3u8
-#EXTINF:-1,NAT GEO Kids FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/109218.m3u8
-#EXTINF:-1,NATGEO WILD HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163892.m3u8
-#EXTINF:-1,NBR
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/124375.m3u8
-#EXTINF:-1,Nick Junior HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/100803.m3u8
-#EXTINF:-1,NICKELODEN HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/109220.m3u8
-#EXTINF:-1,NICKELONDEON
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212224.m3u8
-#EXTINF:-1,Novo Tempo
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95844.m3u8
-#EXTINF:-1,OFF HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/104801.m3u8
-#EXTINF:-1,Paramount Channel FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68947.m3u8
-#EXTINF:-1,PFC 1 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136728.m3u8
-#EXTINF:-1,PFC 2 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136731.m3u8
-#EXTINF:-1,PFC 3 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136734.m3u8
-#EXTINF:-1,PFC 4 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136737.m3u8
-#EXTINF:-1,PFC 5 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136740.m3u8
-#EXTINF:-1,PFC 6 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136744.m3u8
-#EXTINF:-1,PFC 7 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136747.m3u8
-#EXTINF:-1,PFC HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88065.m3u8
-#EXTINF:-1,PLAY TV
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68946.m3u8
-#EXTINF:-1,POWER RANGES
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212591.m3u8
-#EXTINF:-1,PREMIER 7 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68939.m3u8
-#EXTINF:-1,Premiere 1 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/104803.m3u8
-#EXTINF:-1,Premiere 2 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156993.m3u8
-#EXTINF:-1,Premiere 3 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68943.m3u8
-#EXTINF:-1,Premiere 4
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68942.m3u8
-#EXTINF:-1,Premiere 5 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/164324.m3u8
-#EXTINF:-1,Premiere 6 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163900.m3u8
-#EXTINF:-1,Premiere 8
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163902.m3u8
-#EXTINF:-1,Premiere 9
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/196269.m3u8
+#EXTINF:-1,Premiere 3 FHD
+http://xtfreeme.zapto.org:8091/live/john/john1/39557.m3u8
+#EXTINF:-1,Premiere 4 FHD
+http://xtfreeme.zapto.org:8091/live/john/john1/39556.m3u8
+#EXTINF:-1,Premiere 5 FHD
+http://xtfreeme.zapto.org:8091/live/john/john1/39555.m3u8
+#EXTINF:-1,Premiere 7 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39554.m3u8
+#EXTINF:-1,Premiere 8 SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39553.m3u8
+#EXTINF:-1,Premiere 9 SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39552.m3u8
+#EXTINF:-1,Premiere Clubes FHD
+http://xtfreeme.zapto.org:8091/live/john/john1/39551.m3u8
+#EXTINF:-1,Premiere Clubes FHD*
+http://xtfreeme.zapto.org:8091/live/john/john1/39550.m3u8
 #EXTINF:-1,Premiere Clubes HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156848.m3u8
-#EXTINF:-1,Prime Box
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95846.m3u8
-#EXTINF:-1,Proyecto 40
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/135023.m3u8
-#EXTINF:-1,RBS
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212594.m3u8
-#EXTINF:-1,Record Campinas HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/123123.m3u8
-#EXTINF:-1,RECORD FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68934.m3u8
-#EXTINF:-1,Record News FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66031.m3u8
-#EXTINF:-1,Record SP HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/109214.m3u8
-#EXTINF:-1,REDE BRASIL TV
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/93193.m3u8
-#EXTINF:-1,REDE RECORD SP HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212164.m3u8
-#EXTINF:-1,REDE TV HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/93190.m3u8
-#EXTINF:-1,REDE VIDA
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212273.m3u8
-#EXTINF:-1,SBT BRASIL
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/111836.m3u8
+http://xtfreeme.zapto.org:8091/live/john/john1/39549.m3u8
+#EXTINF:-1,Premiere Clubes SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39548.m3u8
+#EXTINF:-1,Rede Genesis SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39547.m3u8
+#EXTINF:-1,Rede Gospel HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39546.m3u8
+#EXTINF:-1,Rede Litoral News RJ
+http://xtfreeme.zapto.org:8091/live/john/john1/39545.m3u8
+#EXTINF:-1,Rede Meio Norte PI
+http://xtfreeme.zapto.org:8091/live/john/john1/39544.m3u8
+#EXTINF:-1,Rede Minas FHD
+http://xtfreeme.zapto.org:8091/live/john/john1/39543.m3u8
+#EXTINF:-1,Rede Minas Tv Rio Doce SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39542.m3u8
+#EXTINF:-1,Rede New Tv SP
+http://xtfreeme.zapto.org:8091/live/john/john1/39541.m3u8
+#EXTINF:-1,Rede Ngt Rj
+http://xtfreeme.zapto.org:8091/live/john/john1/39540.m3u8
+#EXTINF:-1,Rede Seculo 21 Tv Kefas SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39539.m3u8
+#EXTINF:-1,Rede Super SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39538.m3u8
+#EXTINF:-1,Rede Tv HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39537.m3u8
+#EXTINF:-1,Rede Tv RJ
+http://xtfreeme.zapto.org:8091/live/john/john1/39536.m3u8
+#EXTINF:-1,Rede Tv SP
+http://xtfreeme.zapto.org:8091/live/john/john1/39535.m3u8
+#EXTINF:-1,Rede Vida SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39534.m3u8
+#EXTINF:-1,Redetv! SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39533.m3u8
+#EXTINF:-1,Brasil: Canal Sony HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39568.m3u8
+#EXTINF:-1,Brasil: Cartoon Network
+http://xtfreeme.zapto.org:8091/live/john/john1/39567.m3u8
+#EXTINF:-1,Brasil: Cine Brasil 1 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39566.m3u8
+#EXTINF:-1,Brasil: Combate HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39565.m3u8
+#EXTINF:-1,Brasil: Comedy Central HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39564.m3u8
+#EXTINF:-1,Brasil: Discovery World HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39563.m3u8
+#EXTINF:-1,Brasil: Espn Extra HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39562.m3u8
+#EXTINF:-1,Brasil: Fashion Tv HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39561.m3u8
+#EXTINF:-1,Brasil: Globo - Inter Tv Dos Vales SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39560.m3u8
+#EXTINF:-1,Brasil: Mtv HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39559.m3u8
+#EXTINF:-1,Brasil: Nickelodeon HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39558.m3u8
+#EXTINF:-1,A&E HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39634.m3u8
+#EXTINF:-1,AMC HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39633.m3u8
+#EXTINF:-1,Animal Planet HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39632.m3u8
+#EXTINF:-1,AXN HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39631.m3u8
+#EXTINF:-1,Band Campinas HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39630.m3u8
+#EXTINF:-1,Band News HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39629.m3u8
+#EXTINF:-1,Band Sports HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39628.m3u8
+#EXTINF:-1,BBC
+http://xtfreeme.zapto.org:8091/live/john/john1/39573.m3u8
+#EXTINF:-1,BOOMERANG
+http://xtfreeme.zapto.org:8091/live/john/john1/39627.m3u8
+#EXTINF:-1,Canal Off HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39626.m3u8
+#EXTINF:-1,Cinemax HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39625.m3u8
+#EXTINF:-1,Combate HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39624.m3u8
+#EXTINF:-1,Curta! HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39572.m3u8
+#EXTINF:-1,Discovery Channel  HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39623.m3u8
+#EXTINF:-1,Discovery Kids HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39622.m3u8
+#EXTINF:-1,Discovery TLC HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39577.m3u8
+#EXTINF:-1,Discovery Turbo HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39621.m3u8
+#EXTINF:-1,Disney junior
+http://xtfreeme.zapto.org:8091/live/john/john1/39620.m3u8
+#EXTINF:-1,Disney XD HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39619.m3u8
+#EXTINF:-1,E! Entertainment
+http://xtfreeme.zapto.org:8091/live/john/john1/39618.m3u8
+#EXTINF:-1,ESPN 2
+http://xtfreeme.zapto.org:8091/live/john/john1/39617.m3u8
+#EXTINF:-1,ESPN Brasil HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39616.m3u8
+#EXTINF:-1,Food Network HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39615.m3u8
+#EXTINF:-1,FOX HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39614.m3u8
+#EXTINF:-1,FOX Life HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39613.m3u8
+#EXTINF:-1,FOX Premium 1 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39612.m3u8
+#EXTINF:-1,FOX Premium 2 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39611.m3u8
+#EXTINF:-1,FOX Sports 1  HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39610.m3u8
+#EXTINF:-1,FOX Sports 2 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39609.m3u8
+#EXTINF:-1,Gazeta SD
+http://xtfreeme.zapto.org:8091/live/john/john1/39571.m3u8
+#EXTINF:-1,Globo News HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39608.m3u8
+#EXTINF:-1,Globo Premium
+http://xtfreeme.zapto.org:8091/live/john/john1/39607.m3u8
+#EXTINF:-1,Globo PT
+http://xtfreeme.zapto.org:8091/live/john/john1/39606.m3u8
+#EXTINF:-1,Globo Rio de Janeiro HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39605.m3u8
+#EXTINF:-1,Globo SP
+http://xtfreeme.zapto.org:8091/live/john/john1/39604.m3u8
+#EXTINF:-1,Gloob HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39603.m3u8
+#EXTINF:-1,HBO 2 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39602.m3u8
+#EXTINF:-1,HBO Family HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39601.m3u8
+#EXTINF:-1,HBO FULL HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39600.m3u8
+#EXTINF:-1,HBO Plus HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39599.m3u8
+#EXTINF:-1,HBO Signature HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39598.m3u8
+#EXTINF:-1,History Channel  HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39597.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39596.m3u8
+#EXTINF:-1,Megapix HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39595.m3u8
+#EXTINF:-1,Multishow HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39594.m3u8
+#EXTINF:-1,Music Box
+http://xtfreeme.zapto.org:8091/live/john/john1/39570.m3u8
+#EXTINF:-1,Nat. Geographic HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39593.m3u8
+#EXTINF:-1,Nick Jr HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39592.m3u8
+#EXTINF:-1,PFC  HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39591.m3u8
+#EXTINF:-1,Record HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39590.m3u8
+#EXTINF:-1,Record News HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39589.m3u8
+#EXTINF:-1,Rede TV HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39588.m3u8
 #EXTINF:-1,SBT HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139151.m3u8
-#EXTINF:-1,SBT SP HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/208370.m3u8
-#EXTINF:-1,SKY CINEMA HD UNO
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66080.m3u8
-#EXTINF:-1,Sony FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/110357.m3u8
-#EXTINF:-1,Space FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139152.m3u8
-#EXTINF:-1,SPORTV 1 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88062.m3u8
-#EXTINF:-1,SPORTV 2 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139153.m3u8
-#EXTINF:-1,SPORTV 3 FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139154.m3u8
-#EXTINF:-1,SPORTV HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/149745.m3u8
-#EXTINF:-1,STB
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68909.m3u8
-#EXTINF:-1,Studio Universal HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157009.m3u8
-#EXTINF:-1,SYFY HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156852.m3u8
-#EXTINF:-1,TBS HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88081.m3u8
-#EXTINF:-1,TC Action FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136774.m3u8
-#EXTINF:-1,TC Cult
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/206439.m3u8
-#EXTINF:-1,TC Fun FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136780.m3u8
-#EXTINF:-1,TC Pipoca HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212572.m3u8
-#EXTINF:-1,TC Premium FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136785.m3u8
-#EXTINF:-1,TCM
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157011.m3u8
-#EXTINF:-1,TELECINE ACTION HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157013.m3u8
-#EXTINF:-1,TELECINE CULT HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157014.m3u8
-#EXTINF:-1,TELECINE FUN HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156970.m3u8
-#EXTINF:-1,TELECINE PIPOCA HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/156969.m3u8
-#EXTINF:-1,TELECINE PREMIUM HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157016.m3u8
-#EXTINF:-1,TELECINE TOUCH HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157012.m3u8
-#EXTINF:-1,TERRA VIVA
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/124379.m3u8
-#EXTINF:-1,THE HISTORY CHANNEL HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163882.m3u8
-#EXTINF:-1,TLC HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/88079.m3u8
-#EXTINF:-1,TNT FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139155.m3u8
-#EXTINF:-1,TNT SERIES HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157018.m3u8
-#EXTINF:-1,TOONCAST HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163823.m3u8
-#EXTINF:-1,Travel
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212764.m3u8
-#EXTINF:-1,TV APARECIDA HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68905.m3u8
-#EXTINF:-1,TV BRASIL
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66028.m3u8
-#EXTINF:-1,TV Brasil Animada
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212765.m3u8
-#EXTINF:-1,TV Catve
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/212766.m3u8
-#EXTINF:-1,TV CINE 1 HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/124324.m3u8
-#EXTINF:-1,TV Cultura HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/123144.m3u8
-#EXTINF:-1,TV Diario
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66076.m3u8
-#EXTINF:-1,TV Escola
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66018.m3u8
-#EXTINF:-1,TV Faap
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66058.m3u8
-#EXTINF:-1,Tv Gazeta
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/139156.m3u8
-#EXTINF:-1,TV Globo HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/89540.m3u8
-#EXTINF:-1,TV GLOBO PREMIUM HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66024.m3u8
-#EXTINF:-1,TV Ideal
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136799.m3u8
-#EXTINF:-1,TV NOVO TEMPO
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163932.m3u8
-#EXTINF:-1,TV Ra tim Bum HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/124328.m3u8
-#EXTINF:-1,TV Record
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/66023.m3u8
-#EXTINF:-1,TVE
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/136630.m3u8
-#EXTINF:-1,TVI
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/95857.m3u8
-#EXTINF:-1,TVN Brasil
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/68828.m3u8
-#EXTINF:-1,Universal Channel FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/157019.m3u8
-#EXTINF:-1,VH1
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163938.m3u8
-#EXTINF:-1,VH1 Mega Hits
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/206449.m3u8
-#EXTINF:-1,Viva FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/104817.m3u8
-#EXTINF:-1,Warner Bros FHD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/104818.m3u8
-#EXTINF:-1,Woohoo Brasil
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/163312.m3u8
-#EXTINF:-1,Woohoo HD
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/146621.m3u8
-#EXTINF:-1,ZOOMOO
-http://dibo.live:8080/live/Cp4FEzcD52/GixgMLzAxW/164348.m3u8
+http://xtfreeme.zapto.org:8091/live/john/john1/39587.m3u8
+#EXTINF:-1,Spor TV 2 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39585.m3u8
+#EXTINF:-1,SporTV 1
+http://xtfreeme.zapto.org:8091/live/john/john1/39586.m3u8
+#EXTINF:-1,SporTV 3 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39584.m3u8
+#EXTINF:-1,TBS
+http://xtfreeme.zapto.org:8091/live/john/john1/39583.m3u8
+#EXTINF:-1,Telecine Action HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39582.m3u8
+#EXTINF:-1,Telecine Cult HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39581.m3u8
+#EXTINF:-1,Telecine Fun HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39580.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://xtfreeme.zapto.org:8091/live/john/john1/39579.m3u8
+#EXTINF:-1,Telecine Premium HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39578.m3u8
+#EXTINF:-1,TNT Series HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39576.m3u8
+#EXTINF:-1,Universal Channel
+http://xtfreeme.zapto.org:8091/live/john/john1/39575.m3u8
+#EXTINF:-1,Warner Channel HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39574.m3u8
