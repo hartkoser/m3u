@@ -1,227 +1,363 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7762.m3u8
-#EXTINF:-1,RTP 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7761.m3u8
-#EXTINF:-1,RTP 3
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7803.m3u8
-#EXTINF:-1,RTP Memoria
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7807.m3u8
-#EXTINF:-1,RTP Ãfrica
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7805.m3u8
-#EXTINF:-1,RTP Madeira
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7806.m3u8
-#EXTINF:-1,RTP Acores
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7804.m3u8
-#EXTINF:-1,SIC HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7760.m3u8
-#EXTINF:-1,SIC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15376.m3u8
-#EXTINF:-1,SIC Radical
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15380.m3u8
-#EXTINF:-1,SIC Caras
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15377.m3u8
-#EXTINF:-1,SIC Mulher
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15379.m3u8
-#EXTINF:-1,Tvi 24
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7752.m3u8
-#EXTINF:-1,TVI
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7744.m3u8
-#EXTINF:-1,TVI FICCAO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7751.m3u8
-#EXTINF:-1,Porto Canal
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7763.m3u8
-#EXTINF:-1,TPA Angola
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7808.m3u8
-#EXTINF:-1,TV Globo Premium
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7818.m3u8
-#EXTINF:-1,Cancao Nova
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15381.m3u8
-#EXTINF:-1,FTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15372.m3u8
-#EXTINF:-1,Fuel TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15373.m3u8
-#EXTINF:-1,Globo
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15362.m3u8
-#EXTINF:-1,Globo Premium
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15374.m3u8
-#EXTINF:-1,TVE Internacional
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15382.m3u8
-#EXTINF:-1,MOV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7766.m3u8
-#EXTINF:-1,Eleven Sport 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21586.m3u8
-#EXTINF:-1,Eleven Sport 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21585.m3u8
-#EXTINF:-1,Eleven Sport 3 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21584.m3u8
-#EXTINF:-1,Eleven Sport 4 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21583.m3u8
-#EXTINF:-1,Eleven Sport 5 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21582.m3u8
-#EXTINF:-1,Eleven Sport 6 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21581.m3u8
-#EXTINF:-1,SPORT TV +
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15368.m3u8
-#EXTINF:-1,SPORT TV + HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7816.m3u8
-#EXTINF:-1,SPORTTV 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7758.m3u8
-#EXTINF:-1,SPORTTV 1 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8469.m3u8
-#EXTINF:-1,SPORTTV 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7746.m3u8
-#EXTINF:-1,SPORTTV 2 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8470.m3u8
-#EXTINF:-1,SPORTTV 3 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7757.m3u8
-#EXTINF:-1,SPORTTV 3 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8471.m3u8
-#EXTINF:-1,SPORTTV 4 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7756.m3u8
-#EXTINF:-1,SPORTTV 5 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7745.m3u8
-#EXTINF:-1,EUROSPORT NEWS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7769.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7743.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7739.m3u8
-#EXTINF:-1,BTV 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7742.m3u8
-#EXTINF:-1,SPORTING TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7759.m3u8
-#EXTINF:-1,Motors TV HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7822.m3u8
-#EXTINF:-1,PFC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7764.m3u8
-#EXTINF:-1,Caca & Pesca
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7833.m3u8
-#EXTINF:-1,ABOLA TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7771.m3u8
-#EXTINF:-1,Kombat Sport
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18298.m3u8
-#EXTINF:-1,NBA TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18297.m3u8
-#EXTINF:-1,National Geographic HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8406.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7821.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15360.m3u8
-#EXTINF:-1,Discovery Channel
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13858.m3u8
-#EXTINF:-1,Odisseia
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7765.m3u8
-#EXTINF:-1,Travel Channel HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8407.m3u8
-#EXTINF:-1,Historia
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15363.m3u8
-#EXTINF:-1,Canal Historia
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7832.m3u8
-#EXTINF:-1,CANAL PANDA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7815.m3u8
-#EXTINF:-1,Nickelodeon
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7812.m3u8
-#EXTINF:-1,Baby First
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15358.m3u8
-#EXTINF:-1,Baby Tv
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15359.m3u8
-#EXTINF:-1,Biggs
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15370.m3u8
-#EXTINF:-1,Panda Biggs
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7811.m3u8
-#EXTINF:-1,SIC Kids HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7810.m3u8
-#EXTINF:-1,SIC K
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15378.m3u8
-#EXTINF:-1,Cartoon NetWork
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7814.m3u8
-#EXTINF:-1,Disney Channel
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7813.m3u8
-#EXTINF:-1,Disney Junior
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7747.m3u8
-#EXTINF:-1,TVCINE 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7809.m3u8
-#EXTINF:-1,TVCINE 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7755.m3u8
-#EXTINF:-1,TVCINE 3 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7754.m3u8
-#EXTINF:-1,TVCINE 4 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7753.m3u8
-#EXTINF:-1,Hollywood HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7767.m3u8
-#EXTINF:-1,AMC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15357.m3u8
-#EXTINF:-1,FOX Movies
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7824.m3u8
-#EXTINF:-1,AXN HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7830.m3u8
-#EXTINF:-1,AXN WHITE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7748.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15994.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7749.m3u8
-#EXTINF:-1,CINEMUNDO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7740.m3u8
-#EXTINF:-1,FOX Crime HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7826.m3u8
-#EXTINF:-1,FOX HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7768.m3u8
-#EXTINF:-1,Fox Life HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7825.m3u8
-#EXTINF:-1,FOX COMEDY
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8473.m3u8
-#EXTINF:-1,FX
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7823.m3u8
-#EXTINF:-1,TVC Series HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15993.m3u8
-#EXTINF:-1,SyFy
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7819.m3u8
-#EXTINF:-1,A&E
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7837.m3u8
-#EXTINF:-1,E! Entertaunment
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7828.m3u8
-#EXTINF:-1,TVI REALITY
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8494.m3u8
-#EXTINF:-1,TLC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15369.m3u8
-#EXTINF:-1,CBS Reality
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7831.m3u8
-#EXTINF:-1,Crime Investigation
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18299.m3u8
-#EXTINF:-1,Dog TV FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18296.m3u8
-#EXTINF:-1,Fine Living FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18294.m3u8
-#EXTINF:-1,Food Network HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18295.m3u8
-#EXTINF:-1,TVI Reality Mosaico
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21437.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21439.m3u8
-#EXTINF:-1,TVI Reality Camara Exclusiva 3
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21440.m3u8
-#EXTINF:-1,MCM Pop
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15365.m3u8
-#EXTINF:-1,MCM Top
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15366.m3u8
-#EXTINF:-1,Motorvision
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15364.m3u8
-#EXTINF:-1,MTV Portugal
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15367.m3u8
-#EXTINF:-1,Afro Music
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7750.m3u8
 #EXTINF:-1,24 Kitchen HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8408.m3u8
-#EXTINF:-1,Record News
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15375.m3u8
-#EXTINF:-1,SIC Noticias HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8409.m3u8
-#EXTINF:-1,SIC Noticias
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7820.m3u8
+http://xtfreeme.zapto.org:8091/live/john/john1/39532.m3u8
+#EXTINF:-1,A Bola TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39531.m3u8
+#EXTINF:-1,Afro Music
+http://xtfreeme.zapto.org:8091/live/john/john1/39530.m3u8
+#EXTINF:-1,AMC
+http://xtfreeme.zapto.org:8091/live/john/john1/39529.m3u8
+#EXTINF:-1,Angelus TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39528.m3u8
+#EXTINF:-1,ARTV
+http://xtfreeme.zapto.org:8091/live/john/john1/39527.m3u8
+#EXTINF:-1,AXN
+http://xtfreeme.zapto.org:8091/live/john/john1/39526.m3u8
+#EXTINF:-1,AXN Black
+http://xtfreeme.zapto.org:8091/live/john/john1/39525.m3u8
+#EXTINF:-1,AXN Black HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39524.m3u8
+#EXTINF:-1,AXN HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39523.m3u8
+#EXTINF:-1,AXN White
+http://xtfreeme.zapto.org:8091/live/john/john1/39522.m3u8
+#EXTINF:-1,AXN White FHD
+http://xtfreeme.zapto.org:8091/live/john/john1/39521.m3u8
+#EXTINF:-1,Baby TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39520.m3u8
+#EXTINF:-1,BBC World News
+http://xtfreeme.zapto.org:8091/live/john/john1/39519.m3u8
+#EXTINF:-1,Biggs
+http://xtfreeme.zapto.org:8091/live/john/john1/39518.m3u8
+#EXTINF:-1,Blaze
+http://xtfreeme.zapto.org:8091/live/john/john1/39517.m3u8
+#EXTINF:-1,Blaze HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39516.m3u8
+#EXTINF:-1,BTV 1
+http://xtfreeme.zapto.org:8091/live/john/john1/39515.m3u8
+#EXTINF:-1,BTV 1 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39514.m3u8
+#EXTINF:-1,Ca?a e Pesca
+http://xtfreeme.zapto.org:8091/live/john/john1/39513.m3u8
+#EXTINF:-1,Ca?avision
+http://xtfreeme.zapto.org:8091/live/john/john1/39512.m3u8
+#EXTINF:-1,Can??o Nova
+http://xtfreeme.zapto.org:8091/live/john/john1/39511.m3u8
+#EXTINF:-1,Canal Q
+http://xtfreeme.zapto.org:8091/live/john/john1/39510.m3u8
+#EXTINF:-1,Canal UM Europa
+http://xtfreeme.zapto.org:8091/live/john/john1/39509.m3u8
+#EXTINF:-1,Cartoon Network
+http://xtfreeme.zapto.org:8091/live/john/john1/39508.m3u8
+#EXTINF:-1,CBS Reality
+http://xtfreeme.zapto.org:8091/live/john/john1/39507.m3u8
+#EXTINF:-1,cinemundo
+http://xtfreeme.zapto.org:8091/live/john/john1/39506.m3u8
 #EXTINF:-1,CMTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7829.m3u8
-#EXTINF:-1,EUroNews
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15361.m3u8
+http://xtfreeme.zapto.org:8091/live/john/john1/39505.m3u8
+#EXTINF:-1,CMTV HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39504.m3u8
+#EXTINF:-1,CNBC europa
+http://xtfreeme.zapto.org:8091/live/john/john1/39503.m3u8
+#EXTINF:-1,CNN
+http://xtfreeme.zapto.org:8091/live/john/john1/39502.m3u8
+#EXTINF:-1,Crime & Investigation
+http://xtfreeme.zapto.org:8091/live/john/john1/39501.m3u8
+#EXTINF:-1,Discover channel
+http://xtfreeme.zapto.org:8091/live/john/john1/39500.m3u8
+#EXTINF:-1,Discovery HD Showcase
+http://xtfreeme.zapto.org:8091/live/john/john1/39499.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://xtfreeme.zapto.org:8091/live/john/john1/39498.m3u8
+#EXTINF:-1,Disney Junior
+http://xtfreeme.zapto.org:8091/live/john/john1/39497.m3u8
+#EXTINF:-1,Dog TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39496.m3u8
+#EXTINF:-1,E!
+http://xtfreeme.zapto.org:8091/live/john/john1/39495.m3u8
+#EXTINF:-1,E!  HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39494.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1
+http://xtfreeme.zapto.org:8091/live/john/john1/39493.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39492.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2
+http://xtfreeme.zapto.org:8091/live/john/john1/39491.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39490.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39489.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39488.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39487.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39486.m3u8
+#EXTINF:-1,EuroNews
+http://xtfreeme.zapto.org:8091/live/john/john1/39485.m3u8
+#EXTINF:-1,Eurosport 1
+http://xtfreeme.zapto.org:8091/live/john/john1/39484.m3u8
+#EXTINF:-1,Eurosport 2
+http://xtfreeme.zapto.org:8091/live/john/john1/39483.m3u8
+#EXTINF:-1,Eurosport HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39482.m3u8
+#EXTINF:-1,Fashion TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39481.m3u8
+#EXTINF:-1,Fight Network HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39480.m3u8
+#EXTINF:-1,Fine Living Network HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39479.m3u8
+#EXTINF:-1,Food Network HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39478.m3u8
+#EXTINF:-1,FOX
+http://xtfreeme.zapto.org:8091/live/john/john1/39477.m3u8
+#EXTINF:-1,FOX COMEDY
+http://xtfreeme.zapto.org:8091/live/john/john1/39476.m3u8
+#EXTINF:-1,FOX Comedy HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39475.m3u8
+#EXTINF:-1,FOX CRIME
+http://xtfreeme.zapto.org:8091/live/john/john1/39474.m3u8
+#EXTINF:-1,FOX Crime HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39473.m3u8
+#EXTINF:-1,Fox HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39472.m3u8
+#EXTINF:-1,Fox Life
+http://xtfreeme.zapto.org:8091/live/john/john1/39471.m3u8
+#EXTINF:-1,Fox Life HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39470.m3u8
+#EXTINF:-1,Fox Movies
+http://xtfreeme.zapto.org:8091/live/john/john1/39469.m3u8
+#EXTINF:-1,FOX Movies HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39468.m3u8
+#EXTINF:-1,FOX News
+http://xtfreeme.zapto.org:8091/live/john/john1/39467.m3u8
+#EXTINF:-1,France 24
+http://xtfreeme.zapto.org:8091/live/john/john1/39466.m3u8
+#EXTINF:-1,Fuel TV HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39465.m3u8
+#EXTINF:-1,Globo
+http://xtfreeme.zapto.org:8091/live/john/john1/39464.m3u8
+#EXTINF:-1,Globo Internacional
+http://xtfreeme.zapto.org:8091/live/john/john1/39463.m3u8
+#EXTINF:-1,Globo Premium
+http://xtfreeme.zapto.org:8091/live/john/john1/39462.m3u8
+#EXTINF:-1,GLOBO RECORD NEWS
+http://xtfreeme.zapto.org:8091/live/john/john1/39461.m3u8
+#EXTINF:-1,Historia
+http://xtfreeme.zapto.org:8091/live/john/john1/39460.m3u8
+#EXTINF:-1,Hollywood
+http://xtfreeme.zapto.org:8091/live/john/john1/39459.m3u8
+#EXTINF:-1,Hollywood HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39458.m3u8
+#EXTINF:-1,iConcerts HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39457.m3u8
+#EXTINF:-1,ID Investigation Discovery
+http://xtfreeme.zapto.org:8091/live/john/john1/39456.m3u8
+#EXTINF:-1,IUTV
+http://xtfreeme.zapto.org:8091/live/john/john1/39455.m3u8
+#EXTINF:-1,Jim Jam
+http://xtfreeme.zapto.org:8091/live/john/john1/39454.m3u8
+#EXTINF:-1,Kombat Sport
+http://xtfreeme.zapto.org:8091/live/john/john1/39453.m3u8
+#EXTINF:-1,Kuriakos TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39452.m3u8
+#EXTINF:-1,Localvisao
+http://xtfreeme.zapto.org:8091/live/john/john1/39451.m3u8
+#EXTINF:-1,Luxe TV HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39450.m3u8
+#EXTINF:-1,M6
+http://xtfreeme.zapto.org:8091/live/john/john1/39449.m3u8
+#EXTINF:-1,MCM POP
+http://xtfreeme.zapto.org:8091/live/john/john1/39448.m3u8
+#EXTINF:-1,MCM TOP
+http://xtfreeme.zapto.org:8091/live/john/john1/39447.m3u8
+#EXTINF:-1,MCS Extreme
+http://xtfreeme.zapto.org:8091/live/john/john1/39446.m3u8
+#EXTINF:-1,Motors TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39445.m3u8
+#EXTINF:-1,Motorvision
+http://xtfreeme.zapto.org:8091/live/john/john1/39444.m3u8
+#EXTINF:-1,MTV Dance
+http://xtfreeme.zapto.org:8091/live/john/john1/39443.m3u8
+#EXTINF:-1,MTV Portugal
+http://xtfreeme.zapto.org:8091/live/john/john1/39442.m3u8
+#EXTINF:-1,MTV Rocks
+http://xtfreeme.zapto.org:8091/live/john/john1/39441.m3u8
+#EXTINF:-1,MUSIC TOP
+http://xtfreeme.zapto.org:8091/live/john/john1/39440.m3u8
+#EXTINF:-1,MVM (music)
+http://xtfreeme.zapto.org:8091/live/john/john1/39439.m3u8
+#EXTINF:-1,MY CUISINE
+http://xtfreeme.zapto.org:8091/live/john/john1/39438.m3u8
+#EXTINF:-1,MyZen TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39437.m3u8
+#EXTINF:-1,Nacional  Geographic
+http://xtfreeme.zapto.org:8091/live/john/john1/39436.m3u8
+#EXTINF:-1,Nacional Geographic HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39435.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://xtfreeme.zapto.org:8091/live/john/john1/39434.m3u8
+#EXTINF:-1,NBA
+http://xtfreeme.zapto.org:8091/live/john/john1/39433.m3u8
+#EXTINF:-1,Nick Jr.
+http://xtfreeme.zapto.org:8091/live/john/john1/39432.m3u8
+#EXTINF:-1,Nickelodeon
+http://xtfreeme.zapto.org:8091/live/john/john1/39431.m3u8
+#EXTINF:-1,Odisseia
+http://xtfreeme.zapto.org:8091/live/john/john1/39430.m3u8
+#EXTINF:-1,OUTDOOR  HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39429.m3u8
+#EXTINF:-1,Panda
+http://xtfreeme.zapto.org:8091/live/john/john1/39428.m3u8
+#EXTINF:-1,PFC
+http://xtfreeme.zapto.org:8091/live/john/john1/39427.m3u8
+#EXTINF:-1,Porto Canal
+http://xtfreeme.zapto.org:8091/live/john/john1/39426.m3u8
+#EXTINF:-1,Real Madrid TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39425.m3u8
+#EXTINF:-1,Regioes TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39424.m3u8
+#EXTINF:-1,RTP 1
+http://xtfreeme.zapto.org:8091/live/john/john1/39423.m3u8
+#EXTINF:-1,RTP 1 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39422.m3u8
+#EXTINF:-1,RTP 2
+http://xtfreeme.zapto.org:8091/live/john/john1/39421.m3u8
+#EXTINF:-1,RTP 3
+http://xtfreeme.zapto.org:8091/live/john/john1/39420.m3u8
+#EXTINF:-1,RTP Acores
+http://xtfreeme.zapto.org:8091/live/john/john1/39419.m3u8
+#EXTINF:-1,RTP Africa
+http://xtfreeme.zapto.org:8091/live/john/john1/39418.m3u8
+#EXTINF:-1,RTP Internacional
+http://xtfreeme.zapto.org:8091/live/john/john1/39417.m3u8
+#EXTINF:-1,RTP Madeira
+http://xtfreeme.zapto.org:8091/live/john/john1/39416.m3u8
+#EXTINF:-1,RTP Memoria
+http://xtfreeme.zapto.org:8091/live/john/john1/39415.m3u8
+#EXTINF:-1,RTP2 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39414.m3u8
+#EXTINF:-1,RTP3 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39413.m3u8
+#EXTINF:-1,S   HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39412.m3u8
+#EXTINF:-1,Santu?rio de F?tima
+http://xtfreeme.zapto.org:8091/live/john/john1/39411.m3u8
+#EXTINF:-1,SCP HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39410.m3u8
+#EXTINF:-1,SIC
+http://xtfreeme.zapto.org:8091/live/john/john1/39409.m3u8
+#EXTINF:-1,SIC Caras
+http://xtfreeme.zapto.org:8091/live/john/john1/39408.m3u8
+#EXTINF:-1,SIC CARAS HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39407.m3u8
+#EXTINF:-1,SIC HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39406.m3u8
+#EXTINF:-1,SIC Internacional
+http://xtfreeme.zapto.org:8091/live/john/john1/39405.m3u8
+#EXTINF:-1,SIC K
+http://xtfreeme.zapto.org:8091/live/john/john1/39404.m3u8
+#EXTINF:-1,SIC Mulher
+http://xtfreeme.zapto.org:8091/live/john/john1/39403.m3u8
+#EXTINF:-1,SIC Mulher HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39402.m3u8
+#EXTINF:-1,SIC Noticias
+http://xtfreeme.zapto.org:8091/live/john/john1/39401.m3u8
+#EXTINF:-1,SIC Noticias HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39400.m3u8
+#EXTINF:-1,SIC Radical
+http://xtfreeme.zapto.org:8091/live/john/john1/39399.m3u8
+#EXTINF:-1,SKY News
+http://xtfreeme.zapto.org:8091/live/john/john1/39398.m3u8
+#EXTINF:-1,Sport TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39397.m3u8
+#EXTINF:-1,SPORT TV 1
+http://xtfreeme.zapto.org:8091/live/john/john1/39396.m3u8
+#EXTINF:-1,Sport TV 2
+http://xtfreeme.zapto.org:8091/live/john/john1/39395.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39394.m3u8
+#EXTINF:-1,Sport TV 3
+http://xtfreeme.zapto.org:8091/live/john/john1/39393.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39392.m3u8
+#EXTINF:-1,Sport TV 4
+http://xtfreeme.zapto.org:8091/live/john/john1/39391.m3u8
+#EXTINF:-1,Sport TV 4 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39390.m3u8
+#EXTINF:-1,SPORT TV 4K
+http://xtfreeme.zapto.org:8091/live/john/john1/39389.m3u8
+#EXTINF:-1,Sport TV 5
+http://xtfreeme.zapto.org:8091/live/john/john1/39388.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39387.m3u8
+#EXTINF:-1,Sporting TV HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39386.m3u8
+#EXTINF:-1,SPORTTV 1 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39385.m3u8
+#EXTINF:-1,Sundance HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39384.m3u8
+#EXTINF:-1,Syfy
+http://xtfreeme.zapto.org:8091/live/john/john1/39383.m3u8
+#EXTINF:-1,Tiji
+http://xtfreeme.zapto.org:8091/live/john/john1/39382.m3u8
+#EXTINF:-1,TLC
+http://xtfreeme.zapto.org:8091/live/john/john1/39381.m3u8
+#EXTINF:-1,Toros TV HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39380.m3u8
+#EXTINF:-1,TPA Internacional
+http://xtfreeme.zapto.org:8091/live/john/john1/39379.m3u8
+#EXTINF:-1,Trace TV
+http://xtfreeme.zapto.org:8091/live/john/john1/39378.m3u8
+#EXTINF:-1,Trace Urban HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39377.m3u8
+#EXTINF:-1,Travel Channel HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39376.m3u8
+#EXTINF:-1,TV 5 Monde
+http://xtfreeme.zapto.org:8091/live/john/john1/39375.m3u8
+#EXTINF:-1,TV Cabo Verde
+http://xtfreeme.zapto.org:8091/live/john/john1/39374.m3u8
+#EXTINF:-1,TV Galicia
+http://xtfreeme.zapto.org:8091/live/john/john1/39373.m3u8
+#EXTINF:-1,TV IGREJA MUNDIAL
+http://xtfreeme.zapto.org:8091/live/john/john1/39372.m3u8
+#EXTINF:-1,TV Record
+http://xtfreeme.zapto.org:8091/live/john/john1/39371.m3u8
+#EXTINF:-1,TV SERIES
+http://xtfreeme.zapto.org:8091/live/john/john1/39370.m3u8
+#EXTINF:-1,TVCine 1
+http://xtfreeme.zapto.org:8091/live/john/john1/39369.m3u8
+#EXTINF:-1,TVCine 1 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39368.m3u8
+#EXTINF:-1,TVCine 2
+http://xtfreeme.zapto.org:8091/live/john/john1/39367.m3u8
+#EXTINF:-1,TVCine 2 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39366.m3u8
+#EXTINF:-1,TVCine 3
+http://xtfreeme.zapto.org:8091/live/john/john1/39365.m3u8
+#EXTINF:-1,TVCine 3 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39364.m3u8
+#EXTINF:-1,TVCine 4
+http://xtfreeme.zapto.org:8091/live/john/john1/39363.m3u8
+#EXTINF:-1,TVCine 4 HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39362.m3u8
+#EXTINF:-1,TVE INTERNACIONAL
+http://xtfreeme.zapto.org:8091/live/john/john1/39361.m3u8
+#EXTINF:-1,TVI
+http://xtfreeme.zapto.org:8091/live/john/john1/39360.m3u8
+#EXTINF:-1,TVI 24
+http://xtfreeme.zapto.org:8091/live/john/john1/39359.m3u8
+#EXTINF:-1,TVI Ficcao
+http://xtfreeme.zapto.org:8091/live/john/john1/39358.m3u8
+#EXTINF:-1,TVI HD
+http://xtfreeme.zapto.org:8091/live/john/john1/39357.m3u8
+#EXTINF:-1,TVI Internacional
+http://xtfreeme.zapto.org:8091/live/john/john1/39356.m3u8
+#EXTINF:-1,TVI REALITY
+http://xtfreeme.zapto.org:8091/live/john/john1/39355.m3u8
+#EXTINF:-1,TVI Reality Mosaico
+http://xtfreeme.zapto.org:8091/live/john/john1/39354.m3u8
+#EXTINF:-1,VH1
+http://xtfreeme.zapto.org:8091/live/john/john1/39353.m3u8
+#EXTINF:-1,VH1Classic
+http://xtfreeme.zapto.org:8091/live/john/john1/39352.m3u8
