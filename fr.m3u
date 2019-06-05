@@ -1,579 +1,215 @@
 #EXTM3U
-#EXTINF:-1,6TER  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112048.m3u8
-#EXTINF:-1,6TER  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112194.m3u8
-#EXTINF:-1,A LA CARTE 1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112149.m3u8
-#EXTINF:-1,A LA CARTE 2 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112148.m3u8
-#EXTINF:-1,A LA CARTE 3 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112147.m3u8
-#EXTINF:-1,A LA CARTE 4  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112146.m3u8
-#EXTINF:-1,A LA CARTE 5 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112145.m3u8
-#EXTINF:-1,AB MOTEURS  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112095.m3u8
-#EXTINF:-1,AB MOTEURS  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112047.m3u8
-#EXTINF:-1,AB1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112066.m3u8
-#EXTINF:-1,AB1 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112046.m3u8
-#EXTINF:-1,AB3 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112065.m3u8
-#EXTINF:-1,AB3 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112045.m3u8
-#EXTINF:-1,ACTION HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112163.m3u8
-#EXTINF:-1,ACTION  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112044.m3u8
-#EXTINF:-1,ALTICE STUDIO  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112043.m3u8
-#EXTINF:-1,ANIMAUX  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112076.m3u8
-#EXTINF:-1,ANIMAUX  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112042.m3u8
-#EXTINF:-1,ARTE HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112204.m3u8
-#EXTINF:-1,ARTE SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112041.m3u8
-#EXTINF:-1,13EME RUE HD
-http://s1.electru.biz:8080/ROGER/ROGER/112165
-#EXTINF:-1,13EME RUE  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112049.m3u8
-#EXTINF:-1,BASHMENT CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111948.m3u8
-#EXTINF:-1,BBLACK AFRICA  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112040.m3u8
-#EXTINF:-1,BBLACK CLASSIK  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112039.m3u8
-#EXTINF:-1,BEIN SPORT 1 FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112118.m3u8
-#EXTINF:-1,BEIN SPORT 2 FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112117.m3u8
-#EXTINF:-1,BEIN SPORT 3 FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112116.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 10 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112109.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 4  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112115.m3u8
-#EXTINF:-1, BEIN SPORT MAX FR 5  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112114.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 6  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112113.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 7  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112112.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 8  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112111.m3u8
-#EXTINF:-1,BEIN SPORT MAX FR 9 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112110.m3u8
-#EXTINF:-1,BET  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112061.m3u8
-#EXTINF:-1,BFM HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112125.m3u8
-#EXTINF:-1,BFM SPORT  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112124.m3u8
-#EXTINF:-1,BFMTV SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112038.m3u8
-#EXTINF:-1,BOING  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112131.m3u8
-#EXTINF:-1,BOING SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112037.m3u8
-#EXTINF:-1,BONGO  TV ( DOMINICAN REPUBLIC) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111947.m3u8
-#EXTINF:-1,BOOMERANG FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112133.m3u8
-#EXTINF:-1,BOOMERANG SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112036.m3u8
-#EXTINF:-1,C 8 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112073.m3u8
-#EXTINF:-1,C8 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112203.m3u8
-#EXTINF:-1,C8 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112035.m3u8
-#EXTINF:-1,CANAL 11 (HAITI)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111946.m3u8
-#EXTINF:-1,CANAL CINEMA HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112184.m3u8
-#EXTINF:-1,CANAL CINEMA  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112034.m3u8
-#EXTINF:-1,CANAL DECALE HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112183.m3u8
-#EXTINF:-1,CANAL EMOTION  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112179.m3u8
-#EXTINF:-1,CANAL FAMILY HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112140.m3u8
-#EXTINF:-1,CANAL FAMILY  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112033.m3u8
-#EXTINF:-1,CANAL HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112205.m3u8
-#EXTINF:-1,CANAL JUNIOR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112137.m3u8
-#EXTINF:-1,CANAL JUNIOR  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112032.m3u8
-#EXTINF:-1,CANAL NEWS  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112121.m3u8
-#EXTINF:-1,CANAL PREMIER  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112181.m3u8
-#EXTINF:-1,CANAL  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112031.m3u8
-#EXTINF:-1,CANAL SERIES  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112182.m3u8
-#EXTINF:-1,CANAL SERIES  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112030.m3u8
-#EXTINF:-1,CANAL SPORT HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112120.m3u8
-#EXTINF:-1,CANAL SPORT SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112029.m3u8
-#EXTINF:-1,CARTOON NETWORK FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112135.m3u8
-#EXTINF:-1,CARTOON NETWORK  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112028.m3u8
-#EXTINF:-1,CATCH 2 HD (ST LUCIA)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111945.m3u8
-#EXTINF:-1,CATCH TV HD (ST LUCIA)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111944.m3u8
-#EXTINF:-1,CBC TV (BARBADOS) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111943.m3u8
-#EXTINF:-1,CDM INTERNATIONAL(PURETI RICO)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111942.m3u8
-#EXTINF:-1,CHANNEL 8 (US VIRGIN ISLANDS) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111941.m3u8
-#EXTINF:-1,CHASSE ET PECHE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112074.m3u8
-#EXTINF:-1,CHASSE&PECHE  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112027.m3u8
-#EXTINF:-1,CHERIE 25 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112191.m3u8
-#EXTINF:-1,CHERIE25  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112026.m3u8
-#EXTINF:-1,CINE CLASSIC HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112178.m3u8
-#EXTINF:-1,CINE CLASSIC  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112025.m3u8
-#EXTINF:-1,CINE CLUB SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112024.m3u8
-#EXTINF:-1,CINE EMOTION  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112023.m3u8
-#EXTINF:-1,CINE FAMIZ  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112177.m3u8
-#EXTINF:-1,CINE FAMIZ SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112022.m3u8
-#EXTINF:-1,CINE FRISSON HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112180.m3u8
-#EXTINF:-1,CINE FRISSON SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112021.m3u8
-#EXTINF:-1,CINE FX HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112176.m3u8
-#EXTINF:-1,CINE POLAR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112175.m3u8
-#EXTINF:-1,CINE PREMIER  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112020.m3u8
-#EXTINF:-1,CNC 3 (TRINIDAD)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111940.m3u8
-#EXTINF:-1,CNEWS  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112019.m3u8
-#EXTINF:-1,COLOUR VISION HD  (DOMINICAN REPUBLIC) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111939.m3u8
-#EXTINF:-1,COMEDIE   HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112067.m3u8
-#EXTINF:-1,COMEDIE SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112018.m3u8
-#EXTINF:-1,CRIME DISTRICT SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112017.m3u8
-#EXTINF:-1,CSTAR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112196.m3u8
-#EXTINF:-1,CSTAR  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112016.m3u8
-#EXTINF:-1,DISCOVERY FAMILY SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112015.m3u8
-#EXTINF:-1,DISCOVERY FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112089.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112014.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112088.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112013.m3u8
-#EXTINF:-1,DISCOVERY SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112012.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112142.m3u8
-#EXTINF:-1,DISNEY CHANNEL SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112011.m3u8
-#EXTINF:-1,DISNEY CHANNEL1  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112010.m3u8
-#EXTINF:-1,DISNEY CINEMA HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112143.m3u8
-#EXTINF:-1,DISNEY CINEMA SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112009.m3u8
-#EXTINF:-1,DISNEY JUNIOR  FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112138.m3u8
-#EXTINF:-1,DISNEY JUNIOR  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112008.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112132.m3u8
-#EXTINF:-1,DISNEY XD  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112007.m3u8
-#EXTINF:-1,E! ENTER  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112006.m3u8
-#EXTINF:-1,E! FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112060.m3u8
-#EXTINF:-1,ELLE GIRL  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112062.m3u8
-#EXTINF:-1,EQUIDIA  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112092.m3u8
-#EXTINF:-1,EQUIDIA LIVE  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112005.m3u8
-#EXTINF:-1,EQUIPE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112101.m3u8
-#EXTINF:-1,EQUIPE21 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112004.m3u8
-#EXTINF:-1,EURONEWS HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112108.m3u8
-#EXTINF:-1,EUROSPORT 1  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112003.m3u8
-#EXTINF:-1,EUROSPORT 2 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112002.m3u8
-#EXTINF:-1,EUROSPORT FR 1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112107.m3u8
-#EXTINF:-1,EUROSPORTFR 2 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112106.m3u8
-#EXTINF:-1,FOOT  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112094.m3u8
-#EXTINF:-1,FRANCE 2 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112210.m3u8
-#EXTINF:-1,FRANCE 2  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112001.m3u8
-#EXTINF:-1,FRANCE 24 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112119.m3u8
-#EXTINF:-1,FRANCE 3 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112209.m3u8
-#EXTINF:-1,FRANCE 3 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112000.m3u8
-#EXTINF:-1,FRANCE 4 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112208.m3u8
-#EXTINF:-1,FRANCE 4 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111999.m3u8
-#EXTINF:-1,FRANCE 5 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112207.m3u8
-#EXTINF:-1,FRANCE 5 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111998.m3u8
-#EXTINF:-1,FRANCE O HD.
-http://s1.electru.biz:8080/live/ROGER/ROGER/112206.m3u8
-#EXTINF:-1,FRANCE O  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111997.m3u8
-#EXTINF:-1,GAME ONE HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112141.m3u8
-#EXTINF:-1,GAMEONE SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111996.m3u8
-#EXTINF:-1,GBN (GRENADA) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111938.m3u8
-#EXTINF:-1,GIRONDINS TV  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112059.m3u8
-#EXTINF:-1,GOLF FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112098.m3u8
-#EXTINF:-1,GOLF CHANNEL HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112097.m3u8
-#EXTINF:-1,GOLF CHANNEL  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111995.m3u8
-#EXTINF:-1,GONG SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111994.m3u8
-#EXTINF:-1,GONG TV HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112162.m3u8
-#EXTINF:-1,GOOD NEWS TV  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111937.m3u8
-#EXTINF:-1,GRENADA FAMILY NETWORK (GRENADA)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111936.m3u8
-#EXTINF:-1,GULLI HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112144.m3u8
-#EXTINF:-1,GULLI  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111993.m3u8
-#EXTINF:-1,HISTOIRE FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112084.m3u8
-#EXTINF:-1,HOPE CHANNEL(PUERTO RICO)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111935.m3u8
-#EXTINF:-1,I24 NEWS HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112122.m3u8
-#EXTINF:-1,INFOSPORT HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112099.m3u8
-#EXTINF:-1,INFOSPORT  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111992.m3u8
-#EXTINF:-1,ISLAND LUCK TV (BAHAMAS) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111934.m3u8
-#EXTINF:-1,J-ONE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112058.m3u8
-#EXTINF:-1,KTO (HAITI) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111933.m3u8
-#EXTINF:-1,L EQUIPE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112100.m3u8
-#EXTINF:-1,LA VOZ DE MARIA (DOMINICAN REPUBLIC) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111932.m3u8
-#EXTINF:-1,LCI  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112123.m3u8
-#EXTINF:-1,LCI SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111991.m3u8
-#EXTINF:-1,LCP SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111990.m3u8
-#EXTINF:-1,M6 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112202.m3u8
-#EXTINF:-1,M6 MUSIC  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112057.m3u8
-#EXTINF:-1,M6 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111989.m3u8
-#EXTINF:-1,MANGAS HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112139.m3u8
-#EXTINF:-1,MANGAS SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111988.m3u8
-#EXTINF:-1,MCM TOP SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111987.m3u8
-#EXTINF:-1,MOTORSPORT TV HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112096.m3u8
-#EXTINF:-1,MOTOSPORT TV SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111986.m3u8
-#EXTINF:-1,MYCUISINE SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111985.m3u8
-#EXTINF:-1,NAT GEO SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111984.m3u8
-#EXTINF:-1,NAT GEO WILD SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111983.m3u8
-#EXTINF:-1,NATIONAL GEO WILD FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112090.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112091.m3u8
-#EXTINF:-1,NEVISTVS (KITTS NEVIS) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111931.m3u8
-#EXTINF:-1,NICKLODEON FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112134.m3u8
-#EXTINF:-1,NICKELODEON JUNIOR FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112136.m3u8
-#EXTINF:-1,NICKELODEN JUNIOR  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111982.m3u8
-#EXTINF:-1,NICKELODEON  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111981.m3u8
-#EXTINF:-1,NICKELODEON1  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111980.m3u8
-#EXTINF:-1,NRJ 12 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112197.m3u8
-#EXTINF:-1,NRJ HITS  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112056.m3u8
-#EXTINF:-1,NRJ HITS  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111979.m3u8
-#EXTINF:-1,NRJ12 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111978.m3u8
-#EXTINF:-1,NT 1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112055.m3u8
-#EXTINF:-1,NT1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112054.m3u8
-#EXTINF:-1,NUMERO 23 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112193.m3u8
-#EXTINF:-1,OCS CHOC HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112174.m3u8
-#EXTINF:-1,OCS CHOC  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111977.m3u8
-#EXTINF:-1,OCS CITY HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112173.m3u8
-#EXTINF:-1,OCS CITY SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111976.m3u8
-#EXTINF:-1,OCS GEANT HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112172.m3u8
-#EXTINF:-1,OCS GEANTS SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111975.m3u8
-#EXTINF:-1,OCS GO CINE 1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112161.m3u8
-#EXTINF:-1,OCS GO CINE 2 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112160.m3u8
-#EXTINF:-1,OCS GO CINE 3 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112159.m3u8
-#EXTINF:-1,OCS GO CINE 4 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112158.m3u8
-#EXTINF:-1,OCS GO CINE 5 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112157.m3u8
-#EXTINF:-1,OCS MAX HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112171.m3u8
-#EXTINF:-1,OCS MAX  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111974.m3u8
-#EXTINF:-1,OL TV  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112053.m3u8
-#EXTINF:-1,ORANGE CINE 1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112156.m3u8
-#EXTINF:-1,ORANGE CINE 2 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112155.m3u8
-#EXTINF:-1,ORANGE CINE 3 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112154.m3u8
-#EXTINF:-1,ORANGE CINE 4 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112153.m3u8
-#EXTINF:-1,ORANGE CINE 5 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112152.m3u8
-#EXTINF:-1,ORANGE CINE 6 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112151.m3u8
-#EXTINF:-1,ORANGE CINE 8 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112150.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111973.m3u8
-#EXTINF:-1,PARAMOUNT FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112164.m3u8
-#EXTINF:-1,PARIS PREMIER  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112190.m3u8
-#EXTINF:-1,PARIS PREMIER  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111972.m3u8
-#EXTINF:-1,PIWI  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112127.m3u8
-#EXTINF:-1,PIWI  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111971.m3u8
-#EXTINF:-1,PLANET AE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112086.m3u8
-#EXTINF:-1,PLANET CI  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112085.m3u8
-#EXTINF:-1,PLANET  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112087.m3u8
-#EXTINF:-1,PLANETE AE SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111970.m3u8
-#EXTINF:-1,PLANETE CI SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111969.m3u8
-#EXTINF:-1,PLANETE SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111968.m3u8
-#EXTINF:-1,RMC DECOUVERTE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112192.m3u8
-#EXTINF:-1,RMC DECOUVERTE SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111967.m3u8
-#EXTINF:-1,RMC SPORT 1 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111966.m3u8
-#EXTINF:-1,RMC SPORT 2  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111965.m3u8
-#EXTINF:-1,RMC SPORT 3 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111964.m3u8
-#EXTINF:-1,RMC SPORT 4 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111963.m3u8
-#EXTINF:-1,RMC SPORT NEWS  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111962.m3u8
-#EXTINF:-1,RMC STORY  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111961.m3u8
-#EXTINF:-1,ROUGE HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112051.m3u8
-#EXTINF:-1,RTH TV (HAITI) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111930.m3u8
-#EXTINF:-1,RTL9 FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112064.m3u8
-#EXTINF:-1,RTL9 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112063.m3u8
-#EXTINF:-1,RTL9 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111960.m3u8
-#EXTINF:-1,RTNH (HAIT) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111929.m3u8
-#EXTINF:-1,SCIENCE & VIE TV HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112077.m3u8
-#EXTINF:-1,SCIENCE&VIE SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111959.m3u8
-#EXTINF:-1,SEASONS HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112075.m3u8
-#EXTINF:-1,SERIE CLUB
-http://s1.electru.biz:8080/live/ROGER/ROGER/112170.m3u8
-#EXTINF:-1,SERIE CLUB HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112169.m3u8
-#EXTINF:-1,SERIE CLUB  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111958.m3u8
-#EXTINF:-1,SFR SPORT1  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112105.m3u8
-#EXTINF:-1,SFR SPORT 2 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112104.m3u8
-#EXTINF:-1,SFR SPORT 3 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112103.m3u8
-#EXTINF:-1,SFR SPORT 5 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112102.m3u8
-#EXTINF:-1,SNB TELECABDENA CTNI (PUERTO RICO) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111928.m3u8
-#EXTINF:-1,SUNDANCE  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111957.m3u8
-#EXTINF:-1,SUNDANCE TV  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112189.m3u8
-#EXTINF:-1,SUPER TV 55 (DOMINICAN REPUBLIC)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111925.m3u8
-#EXTINF:-1,SYFY FR HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112168.m3u8
-#EXTINF:-1,SYFY HD FR
-http://s1.electru.biz:8080/live/ROGER/ROGER/112167.m3u8
-#EXTINF:-1,SYFY  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111956.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112166.m3u8
-#EXTINF:-1,TCM CINEMA SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111955.m3u8
-#EXTINF:-1,TELE BOSTON (HAITI) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111924.m3u8
-#EXTINF:-1,TELE GINEN (HAITI) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111923.m3u8
-#EXTINF:-1,TELETOON  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112128.m3u8
-#EXTINF:-1,TELETOON SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111954.m3u8
-#EXTINF:-1,TELEUNIVERSO HD (DOMINICAN REPUBLIC)  CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111927.m3u8
-#EXTINF:-1,TEVA  FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112050.m3u8
-#EXTINF:-1,TEVA  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112068.m3u8
-#EXTINF:-1,TEVA  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111953.m3u8
 #EXTINF:-1,TF1 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112211.m3u8
-#EXTINF:-1,TF1 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111952.m3u8
-#EXTINF:-1,TF1 SERIES FILMS HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112195.m3u8
-#EXTINF:-1,TF1 SERIES FILMS SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111951.m3u8
-#EXTINF:-1,TFX HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112199.m3u8
-#EXTINF:-1,TFX SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112198.m3u8
-#EXTINF:-1,TIJI HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112130.m3u8
-#EXTINF:-1,TIJI SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112129.m3u8
-#EXTINF:-1,TMC FR  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112201.m3u8
-#EXTINF:-1,TMC SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112200.m3u8
-#EXTINF:-1,TOUTE HISTOIRE  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112082.m3u8
-#EXTINF:-1,TOUTE I'HISTOIRE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112083.m3u8
-#EXTINF:-1,TRACE AFRICA SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111950.m3u8
-#EXTINF:-1,TRACE SPORT STARS  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112093.m3u8
-#EXTINF:-1,TRACE URBAN  SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/111949.m3u8
-#EXTINF:-1,TREK HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112081.m3u8
-#EXTINF:-1,TREK SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112080.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112188.m3u8
-#EXTINF:-1,TV BREIZH SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112185.m3u8
-#EXTINF:-1,TV5 MONDE EUROPE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112070.m3u8
-#EXTINF:-1,TV5 MONDE HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112069.m3u8
-#EXTINF:-1,USHUAIA SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112186.m3u8
-#EXTINF:-1,USHUAIA TV HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112187.m3u8
-#EXTINF:-1,VOYAGE  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112079.m3u8
-#EXTINF:-1,VOYAGES SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112078.m3u8
-#EXTINF:-1,W9 HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112072.m3u8
-#EXTINF:-1,W9 SD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112071.m3u8
-#EXTINF:-1,WEO TV  HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112052.m3u8
-#EXTINF:-1,WSVI TV (US VIRGIN ISLANDS) CAR
-http://s1.electru.biz:8080/live/ROGER/ROGER/111926.m3u8
-#EXTINF:-1,ZOUZOUS HD
-http://s1.electru.biz:8080/live/ROGER/ROGER/112126.m3u8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8644.m3u8
+#EXTINF:-1,France 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8261.m3u8
+#EXTINF:-1,France 3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8260.m3u8
+#EXTINF:-1,France 4 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8590.m3u8
+#EXTINF:-1,France 5
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8591.m3u8
+#EXTINF:-1,France O
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8592.m3u8
+#EXTINF:-1,M6
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/2920.m3u8
+#EXTINF:-1,6TER
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8649.m3u8
+#EXTINF:-1,6Ter HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9425.m3u8
+#EXTINF:-1,HD1 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8648.m3u8
+#EXTINF:-1,Arte
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8593.m3u8
+#EXTINF:-1,Paris Premiere
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8653.m3u8
+#EXTINF:-1,TV-breizh HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8654.m3u8
+#EXTINF:-1,RTS UN
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13073.m3u8
+#EXTINF:-1,RTS DEUX
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13074.m3u8
+#EXTINF:-1,I-Tele HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13078.m3u8
+#EXTINF:-1,13 Rue
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17601.m3u8
+#EXTINF:-1,Action
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8667.m3u8
+#EXTINF:-1,Ocs max
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9397.m3u8
+#EXTINF:-1,Ocs Choc HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9398.m3u8
+#EXTINF:-1,OCS City HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9450.m3u8
+#EXTINF:-1,OCS Géants HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9451.m3u8
+#EXTINF:-1,Canal +
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9444.m3u8
+#EXTINF:-1,Canal+ Cinema
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9419.m3u8
+#EXTINF:-1,Canal+ Series
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9417.m3u8
+#EXTINF:-1,CANAL  Décalé
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9454.m3u8
+#EXTINF:-1,Canal+ Family
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9445.m3u8
+#EXTINF:-1,CINE+ Famiz
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9448.m3u8
+#EXTINF:-1,Cine  Classic
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9414.m3u8
+#EXTINF:-1,CINE+  Emotion
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9449.m3u8
+#EXTINF:-1,CINE  FRISSON
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9446.m3u8
+#EXTINF:-1,Cine+ Premier
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9413.m3u8
+#EXTINF:-1,Cine Fx
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9412.m3u8
+#EXTINF:-1,Cine POLAR
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8665.m3u8
+#EXTINF:-1,Serie club
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9393.m3u8
+#EXTINF:-1,PARAMOUNT
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8664.m3u8
+#EXTINF:-1,COMEDIE + HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8662.m3u8
+#EXTINF:-1,Comedie+
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9447.m3u8
+#EXTINF:-1,Syfy
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8646.m3u8
+#EXTINF:-1,Serie Club
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8655.m3u8
+#EXTINF:-1,A LA CARTE 1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9455.m3u8
+#EXTINF:-1,A la Carte 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9456.m3u8
+#EXTINF:-1,A la Carte 3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9457.m3u8
+#EXTINF:-1,A la Carte 4
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9458.m3u8
+#EXTINF:-1,A la Carte 5
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9459.m3u8
+#EXTINF:-1,A la Carte 6
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9460.m3u8
+#EXTINF:-1,A la Carte 7
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9461.m3u8
+#EXTINF:-1,A la Carte 9
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9463.m3u8
+#EXTINF:-1,A la Carte 10
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9464.m3u8
+#EXTINF:-1,AB1_HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8658.m3u8
+#EXTINF:-1,E! Entertainment
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9453.m3u8
+#EXTINF:-1,Tmc
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8666.m3u8
+#EXTINF:-1,NT1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13076.m3u8
+#EXTINF:-1,NT1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8650.m3u8
+#EXTINF:-1,Téva HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9428.m3u8
+#EXTINF:-1,W9
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8645.m3u8
+#EXTINF:-1,RTL9
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8647.m3u8
+#EXTINF:-1,NRJ12
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8651.m3u8
+#EXTINF:-1,NRJ 12
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9422.m3u8
+#EXTINF:-1,C8
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8660.m3u8
+#EXTINF:-1,Cstar
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8661.m3u8
+#EXTINF:-1,CHERIE 25 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8656.m3u8
+#EXTINF:-1,AB3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8659.m3u8
+#EXTINF:-1,13eme Rue
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8652.m3u8
+#EXTINF:-1,Canal+  Sport
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9416.m3u8
+#EXTINF:-1,Eurosport
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9407.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/14080.m3u8
+#EXTINF:-1,Eurosport 2 FHD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9406.m3u8
+#EXTINF:-1,Foot+24
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9405.m3u8
+#EXTINF:-1,SFR Sport 1 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13053.m3u8
+#EXTINF:-1,SFR Sport 2 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13054.m3u8
+#EXTINF:-1,SFR Sport 3 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13719.m3u8
+#EXTINF:-1,SFR Sport 5 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13720.m3u8
+#EXTINF:-1,RMC SPORTS 1
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26131.m3u8
+#EXTINF:-1,RMC SPORTS 2
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26130.m3u8
+#EXTINF:-1,RMC SPORTS 3
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26129.m3u8
+#EXTINF:-1,RMC SPORTS 4 FHD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26128.m3u8
+#EXTINF:-1,Equida Live
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13703.m3u8
+#EXTINF:-1,Infosport+
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9404.m3u8
+#EXTINF:-1,CHASSE & PECHE
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9452.m3u8
+#EXTINF:-1,Discovery
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9411.m3u8
+#EXTINF:-1,Discovery science
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9410.m3u8
+#EXTINF:-1,National geo wild
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9400.m3u8
+#EXTINF:-1,National geographic
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9399.m3u8
+#EXTINF:-1,Planete+ CI
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9395.m3u8
+#EXTINF:-1,Science&Vie TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9442.m3u8
+#EXTINF:-1,Histoire
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9426.m3u8
+#EXTINF:-1,Animaux
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9420.m3u8
+#EXTINF:-1,RMC DECOUVERTE
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9440.m3u8
+#EXTINF:-1,Toute l'histoire
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9427.m3u8
+#EXTINF:-1,USHUAIA TV
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9441.m3u8
+#EXTINF:-1,M6 Music
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9429.m3u8
+#EXTINF:-1,BOOMERANG
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9437.m3u8
+#EXTINF:-1,Cartoon Network
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9415.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9435.m3u8
+#EXTINF:-1,DISNEY CHANNEL  HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9436.m3u8
+#EXTINF:-1,Disney Cinema
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9430.m3u8
+#EXTINF:-1,Disney junior
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9409.m3u8
+#EXTINF:-1,Mangas
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9401.m3u8
+#EXTINF:-1,TELETOON + HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9431.m3u8
+#EXTINF:-1,GULLI
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9433.m3u8
+#EXTINF:-1,Cherie 25
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9421.m3u8
+#EXTINF:-1,BFM TV HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9438.m3u8
+#EXTINF:-1,Euronews
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9408.m3u8
+#EXTINF:-1,L'EQUIPE 21 HD
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9465.m3u8
+#EXTINF:-1,LCI
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9439.m3u8
+#EXTINF:-1,PIWI+
+http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9432.m3u8
