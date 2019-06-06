@@ -1,43 +1,163 @@
 #EXTM3U
-#EXTINF:-1,Veronica Disney Xd
-http://red-apk.com:8080/live/arnixfree/120718/781.m3u8
-#EXTINF:-1,Discovery Channel Hd
-http://red-apk.com:8080/live/arnixfree/120718/772.m3u8
-#EXTINF:-1,Film 1 Drama
-http://red-apk.com:8080/live/arnixfree/120718/778.m3u8
-#EXTINF:-1,Film 1 Action
-http://red-apk.com:8080/live/arnixfree/120718/779.m3u8
-#EXTINF:-1,24 Kitchen
-http://red-apk.com:8080/live/arnixfree/120718/773.m3u8
-#EXTINF:-1,Comedy Central
-http://red-apk.com:8080/live/arnixfree/120718/775.m3u8
-#EXTINF:-1,National Geo Hd
-http://red-apk.com:8080/live/arnixfree/120718/765.m3u8
-#EXTINF:-1,Film 1 Comedy
-http://red-apk.com:8080/live/arnixfree/120718/777.m3u8
-#EXTINF:-1,Film 1 Premier Hd
-http://red-apk.com:8080/live/arnixfree/120718/780.m3u8
-#EXTINF:-1,Nickelodeon Hd
-http://red-apk.com:8080/live/arnixfree/120718/782.m3u8
-#EXTINF:-1,Net 5 Hd
-http://red-apk.com:8080/live/arnixfree/120718/792.m3u8
-#EXTINF:-1,Npo 1 Hd
-http://red-apk.com:8080/live/arnixfree/120718/795.m3u8
-#EXTINF:-1,Npo 2 Hd
-http://red-apk.com:8080/live/arnixfree/120718/794.m3u8
-#EXTINF:-1,Npo 3 Hd
-http://red-apk.com:8080/live/arnixfree/120718/793.m3u8
-#EXTINF:-1,Rtl 4 Hd
-http://red-apk.com:8080/live/arnixfree/120718/791.m3u8
-#EXTINF:-1,Rtl 5 Hd
-http://red-apk.com:8080/live/arnixfree/120718/790.m3u8
-#EXTINF:-1,Rtl 7 Hd
-http://red-apk.com:8080/live/arnixfree/120718/789.m3u8
-#EXTINF:-1,Rtl 8 Hd
-http://red-apk.com:8080/live/arnixfree/120718/788.m3u8
-#EXTINF:-1,Sbs 6 Hd
-http://red-apk.com:8080/live/arnixfree/120718/787.m3u8
-#EXTINF:-1,Sbs 9
-http://red-apk.com:8080/live/arnixfree/120718/786.m3u8
-#EXTINF:-1,Rtl Z
-http://red-apk.com:8080/live/arnixfree/120718/1851.m3u8
+#EXTINF:0,NPO 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/23859
+#EXTINF:0,NPO 2 HD
+http://siptv-online.com:8789/Julien90/Julien90/23858
+#EXTINF:0,NPO 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/23857
+#EXTINF:0,RTL 4
+http://siptv-online.com:8789/Julien90/Julien90/23856
+#EXTINF:0,RTL 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/23855
+#EXTINF:0,RTL 7 HD
+http://siptv-online.com:8789/Julien90/Julien90/23854
+#EXTINF:0,RTL 8 HD
+http://siptv-online.com:8789/Julien90/Julien90/23853
+#EXTINF:0,RTV Drenthe
+http://siptv-online.com:8789/Julien90/Julien90/23852
+#EXTINF:0,RTL.Lounge
+http://siptv-online.com:8789/Julien90/Julien90/23851
+#EXTINF:0,RTV.Rijnmond
+http://siptv-online.com:8789/Julien90/Julien90/23850
+#EXTINF:0,RTL Z
+http://siptv-online.com:8789/Julien90/Julien90/23849
+#EXTINF:0,SBS 6HD
+http://siptv-online.com:8789/Julien90/Julien90/23848
+#EXTINF:0,SBS 9HD
+http://siptv-online.com:8789/Julien90/Julien90/23847
+#EXTINF:0,AT 5 HD
+http://siptv-online.com:8789/Julien90/Julien90/23846
+#EXTINF:0,|AR| CARTHAGE TV
+http://siptv-online.com:8789/Julien90/Julien90/23845
+#EXTINF:0, NET5 HD
+http://siptv-online.com:8789/Julien90/Julien90/23844
+#EXTINF:0,CANVAS HD
+http://siptv-online.com:8789/Julien90/Julien90/33589
+#EXTINF:0,DISCOVERY INVESTIGATION HD
+http://siptv-online.com:8789/Julien90/Julien90/33574
+#EXTINF:0,DISCOVERY SCIENCE HD
+http://siptv-online.com:8789/Julien90/Julien90/33573
+#EXTINF:0,DISCOVERY WORLD
+http://siptv-online.com:8789/Julien90/Julien90/33572
+#EXTINF:0,een HD
+http://siptv-online.com:8789/Julien90/Julien90/33588
+#EXTINF:0,HBO2
+http://siptv-online.com:8789/Julien90/Julien90/23807
+#EXTINF:0,HBO3
+http://siptv-online.com:8789/Julien90/Julien90/23806
+#EXTINF:0,KETOP12
+http://siptv-online.com:8789/Julien90/Julien90/33587
+#EXTINF:0,L1MBURG
+http://siptv-online.com:8789/Julien90/Julien90/33586
+#EXTINF:0,MOTOR SPORT
+http://siptv-online.com:8789/Julien90/Julien90/33570
+#EXTINF:0,NOORD Holland TV
+http://siptv-online.com:8789/Julien90/Julien90/33567
+#EXTINF:0,NPO Nieuws
+http://siptv-online.com:8789/Julien90/Julien90/33566
+#EXTINF:0,NPO Politiek
+http://siptv-online.com:8789/Julien90/Julien90/33584
+#EXTINF:0,NPO Zapp Xtra NPO BEST
+http://siptv-online.com:8789/Julien90/Julien90/33583
+#EXTINF:0,OMROEP Brabant
+http://siptv-online.com:8789/Julien90/Julien90/33565
+#EXTINF:0,OMROEP Flevoland
+http://siptv-online.com:8789/Julien90/Julien90/33564
+#EXTINF:0,OMROEP Frysland
+http://siptv-online.com:8789/Julien90/Julien90/33563
+#EXTINF:0,OMROEP Zeeland
+http://siptv-online.com:8789/Julien90/Julien90/33562
+#EXTINF:0,ONS
+http://siptv-online.com:8789/Julien90/Julien90/33582
+#EXTINF:0,Q2.HD
+http://siptv-online.com:8789/Julien90/Julien90/33581
+#EXTINF:0,TRAVEL CHANNEL HD
+http://siptv-online.com:8789/Julien90/Julien90/33561
+#EXTINF:0,TV Gelderland
+http://siptv-online.com:8789/Julien90/Julien90/33560
+#EXTINF:0,TV Oost
+http://siptv-online.com:8789/Julien90/Julien90/33559
+#EXTINF:0,VIER HD
+http://siptv-online.com:8789/Julien90/Julien90/33579
+#EXTINF:0,VIJF
+http://siptv-online.com:8789/Julien90/Julien90/33578
+#EXTINF:0,VITAYA
+http://siptv-online.com:8789/Julien90/Julien90/33577
+#EXTINF:0,VTM HD
+http://siptv-online.com:8789/Julien90/Julien90/33576
+#EXTINF:0,ZES
+http://siptv-online.com:8789/Julien90/Julien90/33575
+#EXTINF:0,NL| NAT GEO
+http://siptv-online.com:8789/Julien90/Julien90/23823
+#EXTINF:0,Nat Geo Wild
+http://siptv-online.com:8789/Julien90/Julien90/23822
+#EXTINF:0,Discover Channel HD
+http://siptv-online.com:8789/Julien90/Julien90/23821
+#EXTINF:0,Crime&lnvestigation
+http://siptv-online.com:8789/Julien90/Julien90/23820
+#EXTINF:0, NPO CULTURA
+http://siptv-online.com:8789/Julien90/Julien90/23819
+#EXTINF:0,DISCOVERY CHOWCASE
+http://siptv-online.com:8789/Julien90/Julien90/23818
+#EXTINF:0,DiscoveryID
+http://siptv-online.com:8789/Julien90/Julien90/23817
+#EXTINF:0,HISTORY
+http://siptv-online.com:8789/Julien90/Julien90/23816
+#EXTINF:0,FILM 1 PREMIERE
+http://siptv-online.com:8789/Julien90/Julien90/23814
+#EXTINF:0,Film 1 Sundance
+http://siptv-online.com:8789/Julien90/Julien90/23812
+#EXTINF:0, FILM 1 FAMILY
+http://siptv-online.com:8789/Julien90/Julien90/23811
+#EXTINF:0,HBO 1 HD
+http://siptv-online.com:8789/Julien90/Julien90/23810
+#EXTINF:0,HBO 3 HD
+http://siptv-online.com:8789/Julien90/Julien90/23809
+#EXTINF:0,FOX ND
+http://siptv-online.com:8789/Julien90/Julien90/23805
+#EXTINF:0,Fox Life
+http://siptv-online.com:8789/Julien90/Julien90/23804
+#EXTINF:0,Syfy
+http://siptv-online.com:8789/Julien90/Julien90/23803
+#EXTINF:0,13th Street
+http://siptv-online.com:8789/Julien90/Julien90/23802
+#EXTINF:0,24 Kitchen HD
+http://siptv-online.com:8789/Julien90/Julien90/23800
+#EXTINF:0,COMEDY CENTRAL
+http://siptv-online.com:8789/Julien90/Julien90/23799
+#EXTINF:0,Comedy Central extra
+http://siptv-online.com:8789/Julien90/Julien90/23798
+#EXTINF:0,Film1 Comedy and Kids
+http://siptv-online.com:8789/Julien90/Julien90/23797
+#EXTINF:0,Ketnet HD KIDS
+http://siptv-online.com:8789/Julien90/Julien90/23795
+#EXTINF:0,Cartoon Network
+http://siptv-online.com:8789/Julien90/Julien90/23794
+#EXTINF:0,Cartoon Network KIDS
+http://siptv-online.com:8789/Julien90/Julien90/23793
+#EXTINF:0,Disney Channel
+http://siptv-online.com:8789/Julien90/Julien90/23792
+#EXTINF:0,Disney Channel KIDS
+http://siptv-online.com:8789/Julien90/Julien90/23791
+#EXTINF:0,Disney Junior
+http://siptv-online.com:8789/Julien90/Julien90/23790
+#EXTINF:0,Disney Junior KIDS
+http://siptv-online.com:8789/Julien90/Julien90/23789
+#EXTINF:0, Disney Channel
+http://siptv-online.com:8789/Julien90/Julien90/23788
+#EXTINF:0, Veronica Disney XD
+http://siptv-online.com:8789/Julien90/Julien90/23787
+#EXTINF:0,Nick Jr KIDS
+http://siptv-online.com:8789/Julien90/Julien90/23786
+#EXTINF:0,NICK TOONS KIDS
+http://siptv-online.com:8789/Julien90/Julien90/23785
+#EXTINF:0,Nickelodeon
+http://siptv-online.com:8789/Julien90/Julien90/23784
+#EXTINF:0,Nickelodeon KIDS
+http://siptv-online.com:8789/Julien90/Julien90/23783
+#EXTINF:0,Nicktoons
+http://siptv-online.com:8789/Julien90/Julien90/23782
+#EXTINF:0,JimJam KIDS
+http://siptv-online.com:8789/Julien90/Julien90/23781
+#EXTINF:0,Veronica Disney XD HD
+http://siptv-online.com:8789/Julien90/Julien90/23780
