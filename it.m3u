@@ -1,2395 +1,339 @@
 #EXTM3U
-#EXTINF:-1,Rai 1 Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4429.m3u8
-#EXTINF:-1,Rai 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21435.m3u8
-#EXTINF:-1,Rai 1 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21597.m3u8
-#EXTINF:-1,Rai 2 Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4428.m3u8
-#EXTINF:-1,Rai 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21434.m3u8
-#EXTINF:-1,Rai 2 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21596.m3u8
-#EXTINF:-1,Rai 3 Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4427.m3u8
-#EXTINF:-1,Rai 3 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21433.m3u8
-#EXTINF:-1,Rai 3 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21595.m3u8
-#EXTINF:-1,Rete 4 Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21669.m3u8
-#EXTINF:-1,Rete 4 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4422.m3u8
-#EXTINF:-1,Rete 4 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21594.m3u8
-#EXTINF:-1,Canale 5 Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21710.m3u8
-#EXTINF:-1,Canale 5 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4471.m3u8
-#EXTINF:-1,Canale 5 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21600.m3u8
-#EXTINF:-1,Italia 1 Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21688.m3u8
-#EXTINF:-1,Italia 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4464.m3u8
-#EXTINF:-1,Italia 1 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21599.m3u8
-#EXTINF:-1,La 7 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4463.m3u8
-#EXTINF:-1,Tv 8
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4460.m3u8
-#EXTINF:-1,Nove HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17661.m3u8
-#EXTINF:-1,RSI La1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4421.m3u8
-#EXTINF:-1,RSI La2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4420.m3u8
-#EXTINF:-1,=======   CINEMA   =======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/640.m3u8
-#EXTINF:-1,SKY Cinema Uno  24 Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26166.m3u8
-#EXTINF:-1,SKY Cinema Uno  24 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26165.m3u8
-#EXTINF:-1,SKY Cinema Uno  24 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26164.m3u8
-#EXTINF:-1,Sky Cinema +1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17660.m3u8
-#EXTINF:-1,Sky Cinema +24 Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21408.m3u8
-#EXTINF:-1,Sky Cinema +24 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17375.m3u8
-#EXTINF:-1,Sky Cinema +24 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21407.m3u8
-#EXTINF:-1,Sky Cinema 1 Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21406.m3u8
-#EXTINF:-1,Sky Cinema 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4413.m3u8
-#EXTINF:-1,Sky Cinema 1 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21405.m3u8
-#EXTINF:-1,SKY Cinema Due   24 Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26163.m3u8
-#EXTINF:-1,SKY Cinema Due   24 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26162.m3u8
-#EXTINF:-1,SKY Cinema Due Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26158.m3u8
-#EXTINF:-1,SKY Cinema Due HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26157.m3u8
-#EXTINF:-1,SKY Cinema Due SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26156.m3u8
-#EXTINF:-1,SKY Cinema Action Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26161.m3u8
-#EXTINF:-1,SKY Cinema Action HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26160.m3u8
-#EXTINF:-1,SKY Cinema Action SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26159.m3u8
-#EXTINF:-1,SKY Cinema Collection Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26155.m3u8
-#EXTINF:-1,SKY Cinema Collection HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26154.m3u8
-#EXTINF:-1,SKY Cinema Collection SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26153.m3u8
-#EXTINF:-1,SKY Cinema Drama Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26168.m3u8
-#EXTINF:-1,SKY Cinema Drama HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26167.m3u8
-#EXTINF:-1,SKY Cinema Romance Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26171.m3u8
-#EXTINF:-1,SKY Cinema Romance HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26170.m3u8
-#EXTINF:-1,SKY Cinema Romance SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26169.m3u8
-#EXTINF:-1,SKY CINEMA Suspense FULL HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21666.m3u8
-#EXTINF:-1,Sky Cinema Suspense HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21665.m3u8
-#EXTINF:-1,SKY Cinema Suspense SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26172.m3u8
-#EXTINF:-1,Sky Cinema Classic HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17653.m3u8
-#EXTINF:-1,Sky Cinema Classic SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21404.m3u8
-#EXTINF:-1,Sky Cinema Comedy Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21403.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17656.m3u8
-#EXTINF:-1,Sky Cinema CULT FULL HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21339.m3u8
-#EXTINF:-1,Sky Cinema Comedy SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21402.m3u8
-#EXTINF:-1,Sky Cinema Cult HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17654.m3u8
-#EXTINF:-1,Sky Cinema Cult SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21401.m3u8
-#EXTINF:-1,Sky Cinema Family Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21400.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17659.m3u8
-#EXTINF:-1,Sky Cinema Family SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21399.m3u8
-#EXTINF:-1,Sky Cinema Hits Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21398.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17376.m3u8
-#EXTINF:-1,Sky Cinema Hits SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21397.m3u8
-#EXTINF:-1,SKY CINEMA MAX FULL HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21668.m3u8
-#EXTINF:-1,Sky Cinema Max HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17377.m3u8
-#EXTINF:-1,Sky Cinema Max SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21393.m3u8
-#EXTINF:-1,SKY CINEMA PASSION FULL HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21667.m3u8
-#EXTINF:-1,Sky Cinema Passion HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17657.m3u8
-#EXTINF:-1,Sky Cinema Passion SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21392.m3u8
-#EXTINF:-1,Cine Sony
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21707.m3u8
-#EXTINF:-1,Iris SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4465.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8493.m3u8
-#EXTINF:-1,Premium Action  +24
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4458.m3u8
-#EXTINF:-1,Premium Action Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21677.m3u8
-#EXTINF:-1,Premium Action HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4457.m3u8
-#EXTINF:-1,Premium Cinema 2  +24
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4445.m3u8
-#EXTINF:-1,Premium Cinema 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4444.m3u8
-#EXTINF:-1,Premium Cinema Comedy Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21675.m3u8
-#EXTINF:-1,Premium Cinema Comedy HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4443.m3u8
-#EXTINF:-1,Premium Cinema Emotion
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4434.m3u8
-#EXTINF:-1,Premium Cinema Energy Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21674.m3u8
-#EXTINF:-1,Premium Cinema Energy HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4442.m3u8
-#EXTINF:-1,Premium Cinema Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21673.m3u8
-#EXTINF:-1,Premium Cinema HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4441.m3u8
-#EXTINF:-1,Premium Emotion Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21671.m3u8
-#EXTINF:-1,Premium Joy HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4432.m3u8
-#EXTINF:-1,Premium Stories HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4430.m3u8
-#EXTINF:-1,Rai Movie
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4425.m3u8
-#EXTINF:-1,Studio Universal
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4349.m3u8
-#EXTINF:-1,=======   INTRATTENIMENTO   =======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/643.m3u8
-#EXTINF:-1,Sky Uno Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21391.m3u8
-#EXTINF:-1,Sky Uno HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4400.m3u8
-#EXTINF:-1,Sky Uno SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21389.m3u8
-#EXTINF:-1,Sky Uno +1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21390.m3u8
-#EXTINF:-1,Sky Atlantic Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21395.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17371.m3u8
-#EXTINF:-1,Sky Atlantic SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21394.m3u8
-#EXTINF:-1,Fox Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21380.m3u8
-#EXTINF:-1,Fox HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17378.m3u8
-#EXTINF:-1,Fox SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21376.m3u8
-#EXTINF:-1,Fox Crime Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21382.m3u8
-#EXTINF:-1,Fox Crime HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17380.m3u8
-#EXTINF:-1,Fox Crime SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21381.m3u8
-#EXTINF:-1,Fox Crime plus 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21383.m3u8
-#EXTINF:-1,Fox Comedy Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21385.m3u8
-#EXTINF:-1,Fox Comedy HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17379.m3u8
-#EXTINF:-1,Fox Comedy SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21384.m3u8
-#EXTINF:-1,Fox Comedy plus 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21386.m3u8
-#EXTINF:-1,Fox Life Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21378.m3u8
-#EXTINF:-1,FOX Life HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21379.m3u8
-#EXTINF:-1,Fox Life SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21377.m3u8
-#EXTINF:-1,Fox Animation Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21388.m3u8
-#EXTINF:-1,Fox Animation HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17647.m3u8
-#EXTINF:-1,Fox Animation SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21387.m3u8
-#EXTINF:-1,Comedy Central
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17646.m3u8
-#EXTINF:-1,CIELO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4366.m3u8
-#EXTINF:-1,Real Time
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17645.m3u8
-#EXTINF:-1,Giallo
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9590.m3u8
-#EXTINF:-1,Spike
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17644.m3u8
-#EXTINF:-1,Alpha TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18736.m3u8
-#EXTINF:-1,La7d HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4388.m3u8
-#EXTINF:-1,LEI HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17643.m3u8
-#EXTINF:-1,Dove TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17619.m3u8
-#EXTINF:-1,La 5 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4357.m3u8
-#EXTINF:-1,Rai Scuola
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/6142.m3u8
-#EXTINF:-1,Rai Storia HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/5458.m3u8
-#EXTINF:-1,Rai Premium
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4352.m3u8
-#EXTINF:-1,Rai 4 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21432.m3u8
-#EXTINF:-1,RAI 4
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4364.m3u8
-#EXTINF:-1,RAI 5 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4363.m3u8
-#EXTINF:-1,Mediaset Extra SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4462.m3u8
-#EXTINF:-1,Italia 2 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4387.m3u8
-#EXTINF:-1,MTV Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21682.m3u8
-#EXTINF:-1,MTV HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21681.m3u8
-#EXTINF:-1,Food Network
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21693.m3u8
-#EXTINF:-1,Mediaset 20 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21684.m3u8
-#EXTINF:-1,20 Mediaset SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21715.m3u8
-#EXTINF:-1,Top Crime HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4346.m3u8
-#EXTINF:-1,ID Investigation SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21689.m3u8
-#EXTINF:-1,Premium Crime Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21672.m3u8
-#EXTINF:-1,Premium Crime HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17866.m3u8
-#EXTINF:-1,Premium Crime  +24
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4440.m3u8
-#EXTINF:-1,CI Crime Investigation Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21375.m3u8
-#EXTINF:-1,Crime Investigation HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17649.m3u8
-#EXTINF:-1,CI Crime Investigation SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21374.m3u8
-#EXTINF:-1,=======   SPORT   =======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/638.m3u8
-#EXTINF:-1,Sky Sport 24 Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21424.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17642.m3u8
-#EXTINF:-1,Sky Sport 24 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21423.m3u8
-#EXTINF:-1,Sky Sport Uno Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21427.m3u8
-#EXTINF:-1,Sky Sport Uno HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17364.m3u8
-#EXTINF:-1,Sky Sport Uno SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21426.m3u8
-#EXTINF:-1,Sky Sport Arena FULL HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21337.m3u8
-#EXTINF:-1,Sky Sport Arena HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17365.m3u8
-#EXTINF:-1,Sky Sport Arena SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21422.m3u8
-#EXTINF:-1,Sky Sport Football FULL HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21338.m3u8
-#EXTINF:-1,Sky Sport Football HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17366.m3u8
-#EXTINF:-1,Sky Sport Football SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21425.m3u8
-#EXTINF:-1,Sky Sport Formula 1 Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21431.m3u8
-#EXTINF:-1,Sky Sport Formula 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17367.m3u8
-#EXTINF:-1,Sky Sport Formula 1 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21430.m3u8
-#EXTINF:-1,Sky Moto GP HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4379.m3u8
-#EXTINF:-1,Sky Sport Moto GP SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21428.m3u8
-#EXTINF:-1,Sky Sport NBA Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21662.m3u8
-#EXTINF:-1,Sky Sport NBA HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17641.m3u8
-#EXTINF:-1,Sky Sport NBA SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21587.m3u8
-#EXTINF:-1,Sky Sport Golf Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21663.m3u8
-#EXTINF:-1,Sky Sport Golf HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21412.m3u8
-#EXTINF:-1,Sky Sport Golf SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21410.m3u8
-#EXTINF:-1,Sky Sport Mix HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17640.m3u8
-#EXTINF:-1,Inter TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17370.m3u8
-#EXTINF:-1,Lazio Style HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17627.m3u8
-#EXTINF:-1,Milan TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17629.m3u8
-#EXTINF:-1,Roma TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17628.m3u8
-#EXTINF:-1,Torino Channel
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17626.m3u8
-#EXTINF:-1,Rai Sport + HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4351.m3u8
-#EXTINF:-1,Rai Sport SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4424.m3u8
-#EXTINF:-1,Sport Italia
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4350.m3u8
-#EXTINF:-1,Eurosport 1 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21695.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4368.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21342.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4367.m3u8
-#EXTINF:-1,Eurosport 2 SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21694.m3u8
-#EXTINF:-1,Super Tennis HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4399.m3u8
-#EXTINF:-1,Caccia
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17612.m3u8
-#EXTINF:-1,Pesca HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17611.m3u8
-#EXTINF:-1,Pescare e Cacciare
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15787.m3u8
-#EXTINF:-1,Italian Fishing
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/8725.m3u8
-#EXTINF:-1,UNIRESAT HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17870.m3u8
-#EXTINF:-1,Bike Channel HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17638.m3u8
-#EXTINF:-1,MOTOR TREND SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21683.m3u8
-#EXTINF:-1,=======   CALCIO   =======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/642.m3u8
-#EXTINF:-1,Sky Serie A Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21420.m3u8
-#EXTINF:-1,Sky Serie A HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21419.m3u8
-#EXTINF:-1,Sky Serie A SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21418.m3u8
-#EXTINF:-1,Sky Sport Serie A HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17635.m3u8
-#EXTINF:-1,( 251) SKY Sport Full HD - Diretta Gol
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21604.m3u8
-#EXTINF:-1,(251) SKY Sport Full HD - Diretta Gol
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21717.m3u8
-#EXTINF:-1,(252) SKY Sport SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21602.m3u8
-#EXTINF:-1,(251) SKY Sport HD - Diretta Gol
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17368.m3u8
-#EXTINF:-1,(251) SKY Sport - (Diretta Gol) SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21417.m3u8
-#EXTINF:-1,( 252) SKY Sport Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21603.m3u8
-#EXTINF:-1,(252) SKY Sport Full HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21716.m3u8
-#EXTINF:-1,(252) SKY Sport HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17369.m3u8
-#EXTINF:-1,(253) SKY Sport HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17634.m3u8
-#EXTINF:-1,(253) SKY Sport SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21601.m3u8
-#EXTINF:-1,(254) SKY Sport HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17633.m3u8
-#EXTINF:-1,(255) SKY Sport HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17632.m3u8
-#EXTINF:-1,(256) SKY Sport HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17631.m3u8
-#EXTINF:-1,(257) SKY Sport HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17899.m3u8
-#EXTINF:-1,(258) SKY Sport HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4320.m3u8
-#EXTINF:-1,Sky Calcio 9
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17896.m3u8
-#EXTINF:-1,Sky Calcio 10
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17897.m3u8
-#EXTINF:-1,Sky Calcio 11
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17898.m3u8
-#EXTINF:-1,Premium Sport 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/5419.m3u8
-#EXTINF:-1,DAZN SPORT VETRINA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21697.m3u8
-#EXTINF:-1,DAZN SERIE-A 1 (DVB-S) Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21700.m3u8
-#EXTINF:-1,DAZN SERIE-A 1 (DVB-S) HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21699.m3u8
-#EXTINF:-1,DAZN SERIE-A 1 (DVB-S) SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21698.m3u8
-#EXTINF:-1,DAZN 1 FULLHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21706.m3u8
-#EXTINF:-1,Dazn 1 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21160.m3u8
-#EXTINF:-1,Dazn 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21161.m3u8
-#EXTINF:-1,Dazn 3 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21162.m3u8
-#EXTINF:-1,Dazn 4 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21163.m3u8
-#EXTINF:-1,Dazn 5 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21164.m3u8
-#EXTINF:-1,DAZN 6 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21704.m3u8
-#EXTINF:-1,DAZN 7 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21703.m3u8
-#EXTINF:-1,DAZN 8 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21702.m3u8
-#EXTINF:-1,DAZN 9 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21701.m3u8
-#EXTINF:-1,DAZN 10 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21705.m3u8
-#EXTINF:-1,Dazn 11 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26124.m3u8
-#EXTINF:-1,Dazn 12
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21722.m3u8
-#EXTINF:-1,Dazn 13
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26121.m3u8
-#EXTINF:-1,Dazn 14 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26123.m3u8
-#EXTINF:-1,DAZN SPORT 1 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21336.m3u8
-#EXTINF:-1,DAZN SPORT 2 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21334.m3u8
-#EXTINF:-1,DAZN SPORT 3 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21333.m3u8
-#EXTINF:-1,DAZN SPORT 4 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21332.m3u8
-#EXTINF:-1,DAZN SPORT 5 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21331.m3u8
-#EXTINF:-1,DAZN SPORT 6 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21330.m3u8
-#EXTINF:-1,DAZN SPORT 7 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21329.m3u8
-#EXTINF:-1,DAZN SPORT 8 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21328.m3u8
-#EXTINF:-1,DAZN SPORT 9 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21327.m3u8
-#EXTINF:-1,DAZN SPORT 10 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21335.m3u8
-#EXTINF:-1,[LEGA PRO] CATANIA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21661.m3u8
-#EXTINF:-1,[LEGAPRO] ALBINOLEFFE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21660.m3u8
-#EXTINF:-1,[LEGAPRO] ALBISSOLA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21659.m3u8
-#EXTINF:-1,[LEGAPRO] ALESSANDRIA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21658.m3u8
-#EXTINF:-1,[LEGAPRO] AREZZO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21657.m3u8
-#EXTINF:-1,[LEGAPRO] ARZACHENA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21656.m3u8
-#EXTINF:-1,[LEGAPRO] BISCEGLIE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21655.m3u8
-#EXTINF:-1,[LEGAPRO] CARRARESE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21654.m3u8
-#EXTINF:-1,[LEGAPRO] CASERTANA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21653.m3u8
-#EXTINF:-1,[LEGAPRO] CATANZARO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21652.m3u8
-#EXTINF:-1,[LEGAPRO] CUNEO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21651.m3u8
-#EXTINF:-1,[LEGAPRO] FANO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21650.m3u8
-#EXTINF:-1,[LEGAPRO] FERALPISAL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21649.m3u8
-#EXTINF:-1,[LEGAPRO] FERMANA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21648.m3u8
-#EXTINF:-1,[LEGAPRO] GIANA ERMINIO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21647.m3u8
-#EXTINF:-1,[LEGAPRO] GOZZANO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21646.m3u8
-#EXTINF:-1,[LEGAPRO] GUBBIO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21645.m3u8
-#EXTINF:-1,[LEGAPRO] IMOLESE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21644.m3u8
-#EXTINF:-1,[LEGAPRO] JUVE STABIA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21643.m3u8
-#EXTINF:-1,[LEGAPRO] JUVENTUS 23
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21642.m3u8
-#EXTINF:-1,[LEGAPRO] LUCCHESE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21641.m3u8
-#EXTINF:-1,[LEGAPRO] MATERA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21640.m3u8
-#EXTINF:-1,[LEGAPRO] MONOPOLI
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21639.m3u8
-#EXTINF:-1,[LEGAPRO] MONZA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21638.m3u8
-#EXTINF:-1,[LEGAPRO] NOVARA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21637.m3u8
-#EXTINF:-1,[LEGAPRO] OLBIA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21636.m3u8
-#EXTINF:-1,[LEGAPRO] PAGANESE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21635.m3u8
-#EXTINF:-1,[LEGAPRO] PIACENZA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21634.m3u8
-#EXTINF:-1,[LEGAPRO] PISA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21633.m3u8
-#EXTINF:-1,[LEGAPRO] PISTOIESE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21632.m3u8
-#EXTINF:-1,[LEGAPRO] PONTEDERA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21631.m3u8
-#EXTINF:-1,[LEGAPRO] PORDENONE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21630.m3u8
-#EXTINF:-1,[LEGAPRO] POTENZA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21629.m3u8
-#EXTINF:-1,[LEGAPRO] PRO VERCELLI
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21628.m3u8
-#EXTINF:-1,[LEGAPRO] PROPATRIA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21627.m3u8
-#EXTINF:-1,[LEGAPRO] RAVENNA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21626.m3u8
-#EXTINF:-1,[LEGAPRO] REGGINA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21625.m3u8
-#EXTINF:-1,[LEGAPRO] RENATE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21624.m3u8
-#EXTINF:-1,[LEGAPRO] RENDE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21623.m3u8
-#EXTINF:-1,[LEGAPRO] RIETI
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21622.m3u8
-#EXTINF:-1,[LEGAPRO] RIMINI
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21621.m3u8
-#EXTINF:-1,[LEGAPRO] SANBENEDETTESE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21620.m3u8
-#EXTINF:-1,[LEGAPRO] SICULA LEONZIO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21619.m3u8
-#EXTINF:-1,[LEGAPRO] SIENA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21618.m3u8
-#EXTINF:-1,[LEGAPRO] SIRACUSA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21617.m3u8
-#EXTINF:-1,[LEGAPRO] SUD TIROL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21616.m3u8
-#EXTINF:-1,[LEGAPRO] TERAMO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21615.m3u8
-#EXTINF:-1,[LEGAPRO] TERNANA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21614.m3u8
-#EXTINF:-1,[LEGAPRO] TRAPANI
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21613.m3u8
-#EXTINF:-1,[LEGAPRO] TRIESTINA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21612.m3u8
-#EXTINF:-1,[LEGAPRO] VIBONESE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21611.m3u8
-#EXTINF:-1,[LEGAPRO] VICENZA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21610.m3u8
-#EXTINF:-1,[LEGAPRO] VIRTUS ENTELLA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21609.m3u8
-#EXTINF:-1,[LEGAPRO] VIRTUS FRANCAVILLA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21608.m3u8
-#EXTINF:-1,[LEGAPRO] VIRTUS VERONA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21607.m3u8
-#EXTINF:-1,[LEGAPRO] VIS PESARO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21606.m3u8
-#EXTINF:-1,[LEGAPRO] VITERBESE CASTRESE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21605.m3u8
-#EXTINF:-1,=======   CULTURA   =======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/641.m3u8
-#EXTINF:-1,National Geographic Full-HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17625.m3u8
-#EXTINF:-1,Nat Geo HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21680.m3u8
-#EXTINF:-1,Nat Geo People HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17624.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17623.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17622.m3u8
-#EXTINF:-1,Discovery Science FullHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4391.m3u8
-#EXTINF:-1,Discovery Science HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17621.m3u8
-#EXTINF:-1,Discovery Travel & Living HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17620.m3u8
+#EXTINF:-1,Alice
+http://vipsecure.tk:8080/live/volkan4/4volkan/55827.m3u8
 #EXTINF:-1,Animal Planet
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17617.m3u8
-#EXTINF:-1,History HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17614.m3u8
-#EXTINF:-1,Focus
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17618.m3u8
-#EXTINF:-1,BLAZE FULL HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21714.m3u8
-#EXTINF:-1,Blaze HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17648.m3u8
-#EXTINF:-1,Gambero Rosso HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17613.m3u8
-#EXTINF:-1,Sky Arte HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17616.m3u8
-#EXTINF:-1,Classica HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17615.m3u8
-#EXTINF:-1,Dmax HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4469.m3u8
-#EXTINF:-1,MARCOPOLO SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4338.m3u8
-#EXTINF:-1,Alice SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4397.m3u8
-#EXTINF:-1,=======   BAMBINI   =======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/645.m3u8
-#EXTINF:-1,Baby Tv
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7402.m3u8
-#EXTINF:-1,Disney Junior
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17609.m3u8
-#EXTINF:-1,Disney XD HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17603.m3u8
-#EXTINF:-1,Disney Channel HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17610.m3u8
-#EXTINF:-1,Dea Junior
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17606.m3u8
-#EXTINF:-1,Dea Kids
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17605.m3u8
-#EXTINF:-1,Cartoon Network
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4394.m3u8
-#EXTINF:-1,K2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4389.m3u8
-#EXTINF:-1,Rai yoyo
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4383.m3u8
-#EXTINF:-1,Boing
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4395.m3u8
-#EXTINF:-1,Rai Gulp
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4426.m3u8
+http://vipsecure.tk:8080/live/volkan4/4volkan/55875.m3u8
+#EXTINF:-1,Canal 5 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55876.m3u8
+#EXTINF:-1,Canale5 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55828.m3u8
 #EXTINF:-1,Cartoonito
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4393.m3u8
-#EXTINF:-1,Super!
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4348.m3u8
-#EXTINF:-1,Boomerang
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17602.m3u8
-#EXTINF:-1,Man-ga HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17608.m3u8
-#EXTINF:-1,Frisbee SD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21365.m3u8
-#EXTINF:-1,=======   MUSICA   =======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/639.m3u8
-#EXTINF:-1,RTL 102.5
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/9545.m3u8
-#EXTINF:-1,M2O HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4339.m3u8
-#EXTINF:-1,Radio 105 TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4355.m3u8
-#EXTINF:-1,Radio Deejay
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/5170.m3u8
-#EXTINF:-1,=======NOTIZIE=======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/637.m3u8
-#EXTINF:-1,Sky TG 24
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4380.m3u8
-#EXTINF:-1,Rai News 24 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4353.m3u8
-#EXTINF:-1,TG Norba 24
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21350.m3u8
-#EXTINF:-1,Tg Com 24
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4347.m3u8
-#EXTINF:-1,=======   REGIONALI   =======
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/636.m3u8
-#EXTINF:-1,TV 2000
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/4345.m3u8
-#EXTINF:-1,Cinquestelle
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/2142.m3u8
-#EXTINF:-1,Senato
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21367.m3u8
-#EXTINF:-1,'71
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5178.mkv
-#EXTINF:-1,10 Regole Per Fare Innamorare 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5179.mkv
-#EXTINF:-1,12 Anni Schiavo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5180.mkv
-#EXTINF:-1,3-Headed Shark Attack 3D
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5183.mkv
-#EXTINF:-1,Tre tigri contro tre tigri
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5181.mkv
-#EXTINF:-1,47 metri
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17874.mp4
-#EXTINF:-1,Cinquanta sfumature di grigio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5182.mkv
-#EXTINF:-1,50 volte il primo bacio 2°Parte
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9021.avi
-#EXTINF:-1,50 volte il primo bacio 1°Parte
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9022.avi
-#EXTINF:-1,A Good Man
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5217.mkv
-#EXTINF:-1,Inside - À l'intérieur
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9796.mkv
-#EXTINF:-1,A Natale Mi Sposo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9023.avi
-#EXTINF:-1,A piedi nudi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5218.mkv
-#EXTINF:-1,A spasso con i dinosauri 3D
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5184.mkv
-#EXTINF:-1,A Spasso Nel Tempo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9025.avi
-#EXTINF:-1,A Spasso Nel Tempo - L'Avventura Continua
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9024.avi
-#EXTINF:-1,A United Kingdom - L'amore che ha cambiato la storia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16218.mp4
-#EXTINF:-1,A very Murray christmas
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17580.mkv
-#EXTINF:-1,Bronx
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9015.avi
-#EXTINF:-1,Accidental Love
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5220.mkv
-#EXTINF:-1,Adult Beginners
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5221.mkv
-#EXTINF:-1,Affare fatto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5222.mkv
-#EXTINF:-1,Cenerentola in passerella
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5223.mkv
-#EXTINF:-1,Age of Ice
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5225.mkv
-#EXTINF:-1,Age of Tomorrow
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5224.mkv
-#EXTINF:-1,Ai Confini della Scienza Universi Paralleli
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17248.mp4
-#EXTINF:-1,Air - I custodi del risveglio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5226.mkv
-#EXTINF:-1,Al posto tuo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15775.mp4
-#EXTINF:-1,Alberi Di Natale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5235.mkv
-#EXTINF:-1,Albert E Il Diamante Magico
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5227.mkv
-#EXTINF:-1,All Eyez On Me
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18391.mp4
-#EXTINF:-1,Alvin Superstar Nessuno Ci Puo Fermare
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9026.avi
-#EXTINF:-1,American Assassin
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18401.mp4
-#EXTINF:-1,American Sniper
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5228.mkv
-#EXTINF:-1,Anarchia La Notte Del Giudizio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5229.mkv
-#EXTINF:-1,Anche Gli Angeli Mangiano Fagioli
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9027.avi
-#EXTINF:-1,Andiamo A Quel Paese
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5230.mkv
-#EXTINF:-1,Ange E Gabrielle Amore A Sorpresa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9797.avi
-#EXTINF:-1,Angeli
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17225.mp4
-#EXTINF:-1,Animali Fantastici E Dove Trovarli Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15651.mp4
-#EXTINF:-1,Annabelle 2 Creation
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17884.mp4
-#EXTINF:-1,Annabelle 2 Creation
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18390.mp4
-#EXTINF:-1,Anni 90 Parte1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9028.avi
-#EXTINF:-1,Anni 90 Parte2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9029.avi
-#EXTINF:-1,Anomalisa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7231.avi
-#EXTINF:-1,Ant-man
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5232.mkv
-#EXTINF:-1,Apartment 1303 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5186.mkv
-#EXTINF:-1,Apes Revolution: Il Pianeta Delle Scimmie 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5187.mkv
-#EXTINF:-1,Appuntamento Con L’amore
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5233.mkv
-#EXTINF:-1,Arn: L Ultimo Cavaliere 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5188.mkv
-#EXTINF:-1,Assassinio Sull Orient Express
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19083.mkv
-#EXTINF:-1,Assassin’s Creed
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16764.mp4
-#EXTINF:-1,Assediati in casa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9062.avi
-#EXTINF:-1,Atlantis: L'impero Perduto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5234.mkv
-#EXTINF:-1,Atomica Bionda
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18413.mp4
-#EXTINF:-1,Attacco Al Potere 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7232.avi
-#EXTINF:-1,Atto Di Forza
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9030.mp4
-#EXTINF:-1,Babadook
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5290.mkv
-#EXTINF:-1,Babbo Bastardo 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/14993.mp4
-#EXTINF:-1,Baby Boss
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17053.mp4
-#EXTINF:-1,Backtrack Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16307.mp4
-#EXTINF:-1,Ballerina
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16754.mp4
-#EXTINF:-1,Barbie E Il Regno Segreto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5292.mkv
-#EXTINF:-1,Barbie E Il Tesoro Dei Cuccioli
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5293.mkv
-#EXTINF:-1,Barbie E La Principessa Delle Perle
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5294.mkv
-#EXTINF:-1,Barbie Mariposa And The Fairy Princess
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5291.mkv
-#EXTINF:-1,Barbie – Nel mondo dei videogame HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16771.mp4
-#EXTINF:-1,Barbie: Principessa Rock
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5295.mkv
-#EXTINF:-1,Barry Seal Una Storia Americana
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18402.mp4
-#EXTINF:-1,Batman V Superman Dawn Of Justice
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8323.avi
-#EXTINF:-1,Batman: Return of the Caped Crusaders HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16772.mp4
-#EXTINF:-1,Baywatch HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17889.mp4
-#EXTINF:-1,Beasts Of No Nation
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5297.mkv
-#EXTINF:-1,Beata ignoranza
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16756.mp4
-#EXTINF:-1,Bedevil Non Installarla
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18389.mp4
-#EXTINF:-1,Before We Go
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5298.mkv
-#EXTINF:-1,Benedetta Follia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19077.mkv
-#EXTINF:-1,Benedetta follia [IT[
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19194.mp4
-#EXTINF:-1,Benvenuti Ma Non Troppi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/13873.mp4
-#EXTINF:-1,Benvenuto Presidente!
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5299.mkv
-#EXTINF:-1,Bessie
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5300.mkv
-#EXTINF:-1,Bianca Come Il Latte, Rossa Come Il Sangue
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5301.mkv
-#EXTINF:-1,Bianca E Bernie Nella Terra Dei Canguri
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5302.mkv
-#EXTINF:-1,Bianco Rosso E Verdone
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5303.mkv
-#EXTINF:-1,Big Game
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5305.avi
-#EXTINF:-1,Big Hero 6
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5304.mkv
-#EXTINF:-1,Bigfoot Junior
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19103.mkv
-#EXTINF:-1,Billy Il Koala
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8324.avi
-#EXTINF:-1,Bingo Bongo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5306.mkv
-#EXTINF:-1,Bis Ritorno Al Passato
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9798.avi
-#EXTINF:-1,Black Butterfly HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17881.mp4
-#EXTINF:-1,Black Mass
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5308.mkv
-#EXTINF:-1,Black Or White
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5307.mkv
-#EXTINF:-1,Blade Runner
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18403.mp4
-#EXTINF:-1,Blood Diamonds-diamanti Di Sangue
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9031.avi
-#EXTINF:-1,Boston Caccia All Uomo HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17568.mkv
-#EXTINF:-1,Brooklyn
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8325.avi
-#EXTINF:-1,Bud Spencer & Terence Hill - Non C'è Due Senza Quattro (1984)
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9032.avi
-#EXTINF:-1,Bud Spencer & Terence Hill 1974 (1) - Altrimenti Ci Arrabbiamo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9033.mkv
-#EXTINF:-1,Bud Spencer &  Terence Hill Miami Supercops
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9034.avi
-#EXTINF:-1,Burning Sands: Il Codice Del Silenzio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17581.mkv
-#EXTINF:-1,C'era Una Volta In America
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9016.avi
-#EXTINF:-1,C'era Una Volta A New York
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5428.mkv
-#EXTINF:-1,Caccia Al Tesoro
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19053.mkv
-#EXTINF:-1,Cado Dalle Nubi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5429.mkv
-#EXTINF:-1,Cane E Gatto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9035.avi
-#EXTINF:-1,Cane Mangia Cane
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18415.mp4
-#EXTINF:-1,Cani Sciolti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5430.mkv
-#EXTINF:-1,Carosello Napoletano
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5431.mkv
-#EXTINF:-1,Cars 2[ IT]
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5432.mkv
-#EXTINF:-1,Cars 3
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18395.mp4
-#EXTINF:-1,Cars - Motori ruggenti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5433.mkv
-#EXTINF:-1,Cattivi Vicini
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5434.mkv
-#EXTINF:-1,Cattivissimo Me 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5435.mkv
-#EXTINF:-1,Cattivissimo Me 3
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17873.mp4
-#EXTINF:-1,Cattivissimo Me
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5436.mkv
-#EXTINF:-1,Cella 211
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5437.mkv
-#EXTINF:-1,Cenerentola
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5438.mkv
-#EXTINF:-1,Chiamami Col Tuo Nome ENG Sub iTA
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19100.mkv
-#EXTINF:-1,Child 44
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5444.mkv
-#EXTINF:-1,Chips HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17878.mp4
-#EXTINF:-1,Christmas In Love
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5445.mkv
-#EXTINF:-1,Ci Devo Pensare
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9799.avi
-#EXTINF:-1,Ci Vediamo A Casa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5446.mkv
-#EXTINF:-1,Cinquanta Sfumature Di Nero
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16309.mp4
-#EXTINF:-1,Classe Z
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17024.mp4
-#EXTINF:-1,Cliffhanger L Ultima Sfida
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9036.avi
-#EXTINF:-1,Clinical.
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17582.mkv
-#EXTINF:-1,Cobra Silvester Stallone
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9037.avi
-#EXTINF:-1,Coco
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19101.mkv
-#EXTINF:-1,Codice 999
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9038.avi
-#EXTINF:-1,Colpa Delle Stelle
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5447.mkv
-#EXTINF:-1,Colpi Di Fulmine
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5448.mkv
-#EXTINF:-1,Combustion
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5449.mkv
-#EXTINF:-1,Come Ammazzare Il Capo 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5450.mkv
-#EXTINF:-1,Come Ammazzare Il Capo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5451.mkv
-#EXTINF:-1,Come Ti Ammazzo Il Bodyguard
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18412.mp4
-#EXTINF:-1,Come Ti Rovino Le Vacanze
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5452.mkv
-#EXTINF:-1,Come Ti Spaccio La Famiglia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5453.mkv
-#EXTINF:-1,Commando
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9017.mkv
-#EXTINF:-1,Complete Unknown: Cambio Di Identità
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15779.mp4
-#EXTINF:-1,Confusi E Felici
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5454.mkv
-#EXTINF:-1,Contagious
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5455.mkv
-#EXTINF:-1,Creed-nato Per Combattere
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7476.avi
-#EXTINF:-1,Criminal Activities
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5457.mkv
-#EXTINF:-1,Crimson Peak
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6709.avi
-#EXTINF:-1,Cross Wars Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16305.mp4
-#EXTINF:-1,CrossFire HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16768.mp4
-#EXTINF:-1,Crouching Tiger Hidden Dragon Sword Of Destiny
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9800.avi
-#EXTINF:-1,Crouching tiger hidden dragon sword of destiny
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17583.mkv
-#EXTINF:-1,Daddy's Home
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9801.mkv
-#EXTINF:-1,Dallas Buyers Club
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5459.mkv
-#EXTINF:-1,David Brent: Life On The Road Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16219.mp4
-#EXTINF:-1,Decay
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9039.avi
-#EXTINF:-1,Descendants
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5460.mkv
-#EXTINF:-1,Detroit
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19082.mkv
-#EXTINF:-1,Dino E La Macchina Del Tempo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5461.mkv
-#EXTINF:-1,Dinosaur Island Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/14962.mp4
-#EXTINF:-1,Discovery Channel - Search For Alien Planets
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17226.mp4
-#EXTINF:-1,Divorzio All Italiana
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5462.mkv
-#EXTINF:-1,Django Unchained
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9040.avi
-#EXTINF:-1,Don’t Hang Up HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16759.mp4
-#EXTINF:-1,Doraemon: Nobita E Gli Eroi Dello Spazio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5463.mkv
-#EXTINF:-1,Dove Eravamo Rimasti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5464.mkv
-#EXTINF:-1,Dragon Ball Z: La Rerurrezione Di Frezer
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5465.mkv
-#EXTINF:-1,Dragon Trainer
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5466.mkv
-#EXTINF:-1,Driven
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9041.avi
-#EXTINF:-1,Dumbo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5467.mkv
-#EXTINF:-1,Dunkirk
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18405.mp4
-#EXTINF:-1,Duri Si Diventa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5468.mkv
-#EXTINF:-1,E' Facile Smettere Di Fumare Se Sai Come Farlo - Metodo -Easy Way- Allen Carr
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17227.mp4
-#EXTINF:-1,E Arrivato Nostro Figlio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9803.mkv
-#EXTINF:-1,E Fuori Nevica!
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5520.mkv
-#EXTINF:-1,Emoji Accendi Le Emozioni
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18408.mp4
-#EXTINF:-1,End Of Watch
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5524.mkv
-#EXTINF:-1,Epic: Il Mondo Segreto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5525.mkv
-#EXTINF:-1,Era Mio Padre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9042.avi
-#EXTINF:-1,Ever after high
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17584.mkv
-#EXTINF:-1,Everest 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5191.mkv
-#EXTINF:-1,Everest
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5526.mkv
-#EXTINF:-1,Everly
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5527.mkv
-#EXTINF:-1,Ex Machina 2015 Ita-eng Bluray 720p X264-icv
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5529.mkv
-#EXTINF:-1,Ex Machina
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5528.mkv
-#EXTINF:-1,Exodus
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5530.mkv
-#EXTINF:-1,Exodus: Dei E Re 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5531.mkv
-#EXTINF:-1,Extinction Sopravvissuti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5532.mkv
-#EXTINF:-1,Faccio A Pezzi Il Teatro
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5534.mkv
-#EXTINF:-1,Falchi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16953.mp4
-#EXTINF:-1,Fallen HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17569.mkv
-#EXTINF:-1,Famiglia All Improvviso Istruzioni Non Incluse HD 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17570.mkv
-#EXTINF:-1,Fantasia 2000
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5535.mkv
-#EXTINF:-1,Fantasia: Walt Disney
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5536.mkv
-#EXTINF:-1,Fantozzi 1975
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5537.mkv
-#EXTINF:-1,Fantozzi 2000 La Clonazione
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9043.avi
-#EXTINF:-1,Fantozzi Alla Riscossa (1990)
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17775.mkv
-#EXTINF:-1,Fantozzi Alla Riscossa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9044.avi
-#EXTINF:-1,Fantozzi Contro Tutti 1980
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17776.mkv
-#EXTINF:-1,Fantozzi Contro Tutti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9045.avi
-#EXTINF:-1,Fantozzi Due 1976
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5538.mkv
-#EXTINF:-1,Fantozzi Il Ritorno 1996
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17777.mkv
-#EXTINF:-1,Fantozzi Il Ritorno
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9046.avi
-#EXTINF:-1,Fantozzi In Paradiso 1993
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17778.mkv
-#EXTINF:-1,Fantozzi In Paradiso
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9047.avi
-#EXTINF:-1,Fantozzi Subisce Ancora 1983
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17779.mkv
-#EXTINF:-1,Fantozzi Subisce Ancora
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9018.avi
-#EXTINF:-1,Fantozzi Va In Pensione
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9048.avi
-#EXTINF:-1,Fast & Furious 7
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9053.avi
-#EXTINF:-1,Fast & furious - Solo parti originali
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9054.mkv
-#EXTINF:-1,Fast And Furious 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9049.mkv
-#EXTINF:-1,Fast And Furious 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9050.mkv
-#EXTINF:-1,Fast And Furious 5
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9051.avi
-#EXTINF:-1,Fast And Furious 6
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9052.mkv
-#EXTINF:-1,Fast And Furious 8
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17025.mp4
-#EXTINF:-1,Fast E Furious 7
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5539.mkv
-#EXTINF:-1,Febbre Da Cavallo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5540.mkv
-#EXTINF:-1,Finalmete La Felicita
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5541.mkv
-#EXTINF:-1,Finders Keepers
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5542.mkv
-#EXTINF:-1,Flight
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5543.mkv
-#EXTINF:-1,Focus: Niente è Come Sembra
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5544.mkv
-#EXTINF:-1,Forever Young
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8326.avi
-#EXTINF:-1,Forrest Gump
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9056.mkv
-#EXTINF:-1,Franco E Ciccio Amici Piu Di Prima
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5545.mkv
-#EXTINF:-1,Franco E Ciccio: Due Mafiosi Contro Goldginger
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5546.mkv
-#EXTINF:-1,Franco E Ciccio: I Due Gattoni A Nove Code E Mezza Ad Amsterdam
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5547.mkv
-#EXTINF:-1,Francofonia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9804.avi
-#EXTINF:-1,Frantz
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16774.mp4
-#EXTINF:-1,Frozil Regno Di Ghiaccio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5548.mkv
-#EXTINF:-1,Fuga Da Reuma Park
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/14972.mp4
-#EXTINF:-1,Fuga Dall Inferno
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5550.mkv
-#EXTINF:-1,Fuga In Tacchi A Spillo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5551.mkv
-#EXTINF:-1,Fuga dall'Isis
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17228.mp4
-#EXTINF:-1,Fuga per la vittoria
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9057.mkv
-#EXTINF:-1,Fury
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5552.mkv
-#EXTINF:-1,Game Therapy
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5553.mkv
-#EXTINF:-1,Gangster Squad
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5554.mkv
-#EXTINF:-1,Generazione Perduta
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5555.mkv
-#EXTINF:-1,Gente Che Sta Bene
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5556.mkv
-#EXTINF:-1,Ghost In The Shell
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16954.mp4
-#EXTINF:-1,Giorno Di Nozze
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5557.mkv
-#EXTINF:-1,Giovani Si Diventa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5558.mkv
-#EXTINF:-1,Gli Specialisti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5559.mkv
-#EXTINF:-1,God S Pocket
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5560.mkv
-#EXTINF:-1,Gods Not Dead
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7237.avi
-#EXTINF:-1,Gods Of Egypt
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6710.avi
-#EXTINF:-1,Gold La Grande Truffa HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17571.mkv
-#EXTINF:-1,Gomorroide
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16786.mp4
-#EXTINF:-1,Grandi Magazzini
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5561.mkv
-#EXTINF:-1,Grandma
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9805.avi
-#EXTINF:-1,Guardiani Della Galassia Vol.2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17572.mkv
-#EXTINF:-1,Halo: La Caduta Di Reach
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5590.mkv
-#EXTINF:-1,Handsome Un Giallo Netflix HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17585.mkv
-#EXTINF:-1,Heart of the Sea - Le origini di Moby Dick
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9061.avi
-#EXTINF:-1,Hell And Back
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9806.avi
-#EXTINF:-1,Hitman-agent 47
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5591.mkv
-#EXTINF:-1,Ho Ucciso Napoleone
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5592.mkv
-#EXTINF:-1,Homefront
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5593.mkv
-#EXTINF:-1,Hot.Girls.Wanted.2015
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17229.mp4
-#EXTINF:-1,Hotel Transylvania 2 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5196.mkv
-#EXTINF:-1,Hotel Transylvania 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5594.mkv
-#EXTINF:-1,Hotel Transylvania 3 - Una vacanza mostruosa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/22399.mp4
-#EXTINF:-1,Hotel Transylvania 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5595.mkv
-#EXTINF:-1,Hotel Transylvania
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5596.mkv
-#EXTINF:-1,How To Be Single Hd (en)
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/10009.mkv
-#EXTINF:-1,Hunger Games
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5597.mkv
-#EXTINF:-1,Hunger Games: Il Canto Della Rivolta Parte 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5598.mkv
-#EXTINF:-1,Hunger Games: Il canto della rivolta - Parte 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9063.avi
-#EXTINF:-1,Hunger Games: La Ragazza Di Fuoco
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5599.mkv
-#EXTINF:-1,I 7 Nani 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5646.mkv
-#EXTINF:-1,I Bambini Sanno
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5647.mkv
-#EXTINF:-1,I Don’t Feel at Home in This World Anymore HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16755.mp4
-#EXTINF:-1,I Due Superpiedi Quasi Piatti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9019.avi
-#EXTINF:-1,I Fantastici 4 E Silver Surfer
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5648.mkv
-#EXTINF:-1,I Fantastici 4
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5649.mkv
-#EXTINF:-1,I Mercenari 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9064.avi
-#EXTINF:-1,I Mercenari 3
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9065.avi
-#EXTINF:-1,I Nostri Amanti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19210.mkv
-#EXTINF:-1,I Predoni Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16306.mp4
-#EXTINF:-1,I Puffi Viaggio Nella Foresta Segreta HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17026.mp4
-#EXTINF:-1,I Soliti Idioti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5650.mkv
-#EXTINF:-1,I pompieri
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9067.avi
-#EXTINF:-1,I pompieri 1985
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9066.avi
-#EXTINF:-1,I.T.
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18392.mp4
-#EXTINF:-1,Ieri Oggi E Domani
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5651.mkv
-#EXTINF:-1,Il Bianco Natale Di Topolino
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5655.mkv
-#EXTINF:-1,Il Canto Della Rivolta Parte 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5656.mkv
-#EXTINF:-1,Il Caso Di Lizzie Borden
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5652.mkv
-#EXTINF:-1,Il Caso Spotlight
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5641.avi
-#EXTINF:-1,Il Castello Nel Cielo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5657.mkv
-#EXTINF:-1,Il Clan Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/14961.mp4
-#EXTINF:-1,Il Codice Da Vinci  Cd1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9068.avi
-#EXTINF:-1,Il Codice Da Vinci  Cd2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9069.avi
-#EXTINF:-1,Il Codice Del Silenzio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17586.mkv
-#EXTINF:-1,Il Diritto di Contare HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16763.mp4
-#EXTINF:-1,Il Fidanzato Di Mia Sorella
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5658.mkv
-#EXTINF:-1,Il Gatto Con Gli Stivali
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5659.mkv
-#EXTINF:-1,Il Gobbo Di Notre Dame
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5660.mkv
-#EXTINF:-1,Il Libro Della Vita 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5661.mkv
-#EXTINF:-1,Il Libro Della Vita
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5662.mkv
-#EXTINF:-1,Il Luogo Delle Ombre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6711.avi
-#EXTINF:-1,Il Magico Mondo Di Oz 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5197.mkv
-#EXTINF:-1,Il Mancato Colpo di Stato Italiano
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17230.mp4
-#EXTINF:-1,Il Mio Amico Gigante
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5663.mkv
-#EXTINF:-1,Il Mio Grosso Grasso Matrimonio Greco 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8327.avi
-#EXTINF:-1,Il Mistero Dei Teschi Di Cristallo 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5664.mkv
-#EXTINF:-1,Il Mistero Dei Teschi Di Cristallo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5665.mkv
-#EXTINF:-1,Il Mondo con le Ali Asia e Australia HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17237.mp4
-#EXTINF:-1,Il Mostro Di Cleveland
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5666.mkv
-#EXTINF:-1,Il Natale Della Mamma Imperfetta
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5667.mkv
-#EXTINF:-1,Il Nemico Invisibile
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5668.mkv
-#EXTINF:-1,Il Nome Del Figlio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5669.mkv
-#EXTINF:-1,Il Padre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5653.mkv
-#EXTINF:-1,Il Peggior Natale Della Mia Vita
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5670.mkv
-#EXTINF:-1,Il Permesso 48 ore fuori HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17027.mp4
-#EXTINF:-1,Il Piccolo Principe - Le Petit Prince
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9807.avi
-#EXTINF:-1,Il Piccolo Principe 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5198.mkv
-#EXTINF:-1,Il Ponte Delle  Spie
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9070.mkv
-#EXTINF:-1,Il Pontedellespie
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9072.avi
-#EXTINF:-1,Il Postino
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5671.mkv
-#EXTINF:-1,Il Presidente: 30 Anni Di Milan
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7235.mkv
-#EXTINF:-1,Il Principe Abusivo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5654.mkv
-#EXTINF:-1,Il Professor Cenerentolo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9071.avi
-#EXTINF:-1,Il Racconto Dei Racconti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5672.mkv
-#EXTINF:-1,Il Ragazzo Invisibile
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5673.mkv
-#EXTINF:-1,Il Re Leone 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5199.mkv
-#EXTINF:-1,Il Re Leone
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5674.mkv
-#EXTINF:-1,Il Rosso E Il Blu
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5675.mkv
-#EXTINF:-1,Il Sindaco Pescatore
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9808.avi
-#EXTINF:-1,Il Sole Storia Di Una Stella
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17238.mp4
-#EXTINF:-1,Il Tempo e la Storia - Monachesimo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17231.mp4
-#EXTINF:-1,Il Treno Della Memoria - Firenze Auschwitz
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17233.mp4
-#EXTINF:-1,Il Viaggio Di Arlo 2015
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7236.avi
-#EXTINF:-1,Il Vigile
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5676.mkv
-#EXTINF:-1,Il cittadino illustre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16769.mp4
-#EXTINF:-1,Il complotto di Chernobyl - The Russian Woodpecker
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17234.mp4
-#EXTINF:-1,Il mondo con le ali Sud America
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17239.mp4
-#EXTINF:-1,Il vero costo della cocaina
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17235.mp4
-#EXTINF:-1,Il.Gemello.2012
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17236.mp4
-#EXTINF:-1,Iliza Shlesinger: Freezing Hot
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5677.mkv
-#EXTINF:-1,Iliza Shlesinger: Freezing hot
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17587.mkv
-#EXTINF:-1,Immaturi Il Viaggio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5678.mkv
-#EXTINF:-1,Imperial.Dreams.
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17588.mkv
-#EXTINF:-1,In Guerra Per Amore Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16308.mp4
-#EXTINF:-1,Inception
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9073.mkv
-#EXTINF:-1,Indivisibili
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15659.mp4
-#EXTINF:-1,Inside Out 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5680.mkv
-#EXTINF:-1,Inside Out
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5679.mkv
-#EXTINF:-1,Insospettabili Sospetti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17573.mkv
-#EXTINF:-1,Into The Woods
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5681.mkv
-#EXTINF:-1,Io Che Amo Solo Te
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5682.mkv
-#EXTINF:-1,Io E Lei
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5683.mkv
-#EXTINF:-1,Io Sto Con Gli Ippopotami
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9074.avi
-#EXTINF:-1,Italian Secret Service
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5684.mkv
-#EXTINF:-1,Italiano Medio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5685.mkv
-#EXTINF:-1,Italo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5686.mkv
-#EXTINF:-1,Jackass: Nonno Cattivo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5737.mkv
-#EXTINF:-1,Jenny’s Wedding
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5738.mkv
-#EXTINF:-1,John Wick Capitolo 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16955.mp4
-#EXTINF:-1,John Wick
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5739.mkv
-#EXTINF:-1,Joker: Wild Card
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5740.mkv
-#EXTINF:-1,Joy
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5741.mkv
-#EXTINF:-1,Jukai La Foresta Dei Suicidi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18409.mp4
-#EXTINF:-1,Jumanji Benvenuti Nella Giungla
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19099.mkv
-#EXTINF:-1,Jupiter: Il Destino Dell Universo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5743.mkv
-#EXTINF:-1,Jupiter: Il Destino Dell’universo 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5742.mkv
-#EXTINF:-1,Jurassic City
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5744.mkv
-#EXTINF:-1,Jurassic World 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5745.mkv
-#EXTINF:-1,Jurassic World
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5746.mkv
-#EXTINF:-1,Ken Il Guerriero: La Leggenda Di Raoul
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5747.mkv
-#EXTINF:-1,Kill Zone - Ai confini della giustizia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9809.avi
-#EXTINF:-1,King Arthur Il Potere Della Spada
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17574.mkv
-#EXTINF:-1,Kingsman Il Cerchio D'Oro
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18394.mp4
-#EXTINF:-1,Knock Knock
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5748.mkv
-#EXTINF:-1,Kong: Skull Island
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16787.mp4
-#EXTINF:-1,Krampus Natale Non è Sempre Natale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9810.avi
-#EXTINF:-1,Kristy 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5749.mkv
-#EXTINF:-1,Kristy
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5750.mkv
-#EXTINF:-1,Kung Fu Panda 3
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8328.avi
-#EXTINF:-1,L'uomo dai mille volti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19206.mkv
-#EXTINF:-1,L'ora più buia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19104.mkv
-#EXTINF:-1,L'Italia al tempo della peste
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17240.mp4
-#EXTINF:-1,L' Ora Legale HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17052.mkv
-#EXTINF:-1,L'ultimo Gangster
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5756.mkv
-#EXTINF:-1,L'evocazione
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5755.mkv
-#EXTINF:-1,L'attacco Dei Giganti: P  1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5754.mkv
-#EXTINF:-1,L'ape Maia 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5201.mkv
-#EXTINF:-1,L'amico Del Cuore
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5753.mkv
-#EXTINF:-1,L'allenatore Nel Pallone
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5752.mkv
-#EXTINF:-1,L'alba Di Un Impero 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5200.mkv
-#EXTINF:-1,L'alba Del Quarto Reich: Operazione Valchiria 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15006.mp4
-#EXTINF:-1,L' Ultimo Cacciatore Di Streghe
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9826.mkv
-#EXTINF:-1,L' Inizio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5751.mkv
-#EXTINF:-1,L A  Apocalypse - Apocalisse A Los Angeles 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5757.mkv
-#EXTINF:-1,L Esorcismo Di Anna Ecklund HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17589.mkv
-#EXTINF:-1,La Bella Addormentata Nel Bosco
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5758.mkv
-#EXTINF:-1,La Bella E La Bestia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5759.mkv
-#EXTINF:-1,La Cena Di Natale  HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16770.mp4
-#EXTINF:-1,La Corrispondenza
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9813.avi
-#EXTINF:-1,La Cura Dal Benessere
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17575.mkv
-#EXTINF:-1,La Dannazione
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5760.mkv
-#EXTINF:-1,La Donna Più Odiata D'America
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17590.mkv
-#EXTINF:-1,La Fidanzata Di Papà
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9076.avi
-#EXTINF:-1,La Fratellanza
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18414.mp4
-#EXTINF:-1,La Gente Che Sta Bene
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5761.mkv
-#EXTINF:-1,La Isla Minima
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5762.mkv
-#EXTINF:-1,La Legge Del Mercato 2015
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5642.avi
-#EXTINF:-1,La Luce Sugli Oceani HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17028.mp4
-#EXTINF:-1,La Madre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5763.mkv
-#EXTINF:-1,La Mafia Uccide Solo D'estate
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5764.mkv
-#EXTINF:-1,La Maschera Di Ferro
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9077.avi
-#EXTINF:-1,La Memoria Dell Acqua
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17242.mp4
-#EXTINF:-1,La Metamorfosi Del Male
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5765.mkv
-#EXTINF:-1,La Moglie Del Sarto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5766.mkv
-#EXTINF:-1,La Notte dei Dinosauri'010-'011 (Docs-tv)
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17241.mp4
-#EXTINF:-1,La Parrucchiera
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17029.mp4
-#EXTINF:-1,La Prima Luce
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5767.mkv
-#EXTINF:-1,La Prima Volta (di Mia Figlia)
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5768.mkv
-#EXTINF:-1,La Quinta Stagione
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5769.mkv
-#EXTINF:-1,La Ragazza Di Fuoco
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5770.mkv
-#EXTINF:-1,La Regola Del Gioco
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5771.mkv
-#EXTINF:-1,La Risposta è Nelle Stelle
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5772.mkv
-#EXTINF:-1,La Ruota Delle Meraviglie
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19098.mkv
-#EXTINF:-1,La Scelta
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5773.mkv
-#EXTINF:-1,La Sirenetta
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5774.mkv
-#EXTINF:-1,La Spada Nella Roccia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5775.mkv
-#EXTINF:-1,La Tartaruga Rossa Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16310.mp4
-#EXTINF:-1,La Torre Nera
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18416.mp4
-#EXTINF:-1,La Verita Vi Spiego Sull Amore
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17030.mp4
-#EXTINF:-1,La Vita è Bella
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5776.mkv
-#EXTINF:-1,La ragazza che sapeva troppo HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19207.mkv
-#EXTINF:-1,La verita sul desiderio femminile
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17243.mp4
-#EXTINF:-1,La.Mummia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17741.mkv
-#EXTINF:-1,La.Scoperta.HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17591.mkv
-#EXTINF:-1,Ladri Di Bicichette
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5777.mkv
-#EXTINF:-1,Ladri Di Biciclette
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5778.mkv
-#EXTINF:-1,Largo Baracche
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17244.mp4
-#EXTINF:-1,Last Knights
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5779.mkv
-#EXTINF:-1,Le Avventure Di Peter Pan
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5780.mkv
-#EXTINF:-1,Le Badanti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9815.avi
-#EXTINF:-1,Le Pagine Della Nostra Vita
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9814.mkv
-#EXTINF:-1,Le Spie Della Porta Accanto Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16313.mp4
-#EXTINF:-1,Le Vacanze Del Piccolo Nicolas
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5781.mkv
-#EXTINF:-1,Leatherface
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18396.mp4
-#EXTINF:-1,Left Behind La Profezia 2014 Dts Ita Eng 1080p Bluray X264-bluworld
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5783.mkv
-#EXTINF:-1,Left Behind: La Profezia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5782.mkv
-#EXTINF:-1,Lego Batman:il Film
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16217.mp4
-#EXTINF:-1,Lego Ninjago
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18410.mp4
-#EXTINF:-1,Lego Super Heroes: Justice League Vs Bizarro League
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5784.mkv
-#EXTINF:-1,Leviathan
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5785.mkv
-#EXTINF:-1,Life Non Oltrepassare Il Limite
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17031.mp4
-#EXTINF:-1,Lilli E Il Vagabondo 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5786.mkv
-#EXTINF:-1,Lilli E Il Vagabondo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5787.mkv
-#EXTINF:-1,Lilo & Stitch
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5788.mkv
-#EXTINF:-1,Limitless 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9078.avi
-#EXTINF:-1,Lion – La strada verso casa HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16762.mp4
-#EXTINF:-1,Live by Night HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16760.mp4
-#EXTINF:-1,Lo Hobbit La Battaglia Delle Cinque Armate 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5202.mkv
-#EXTINF:-1,Lo Stagista Inaspettato
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5789.mkv
-#EXTINF:-1,Lo Straordinario Viaggio Di T S Spivet
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9079.avi
-#EXTINF:-1,Lockout
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5790.mkv
-#EXTINF:-1,Logan – The Wolverine
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16789.mp4
-#EXTINF:-1,Loro di Napoli HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16767.mp4
-#EXTINF:-1,L’esorcismo Di Molly Hartley
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5792.mkv
-#EXTINF:-1,Ma Che Bella Sorpresa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5793.mkv
-#EXTINF:-1,Ma Vie De Courgette – La mia vita da Zucchina
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16793.mp4
-#EXTINF:-1,Macbeth
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9816.avi
-#EXTINF:-1,Mad Max: Fury Road 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5894.mkv
-#EXTINF:-1,Mad Max: Fury Road
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5893.mkv
-#EXTINF:-1,Magic In The Moonlight
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5896.mkv
-#EXTINF:-1,Magic Mike Xxl
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5895.mkv
-#EXTINF:-1,Malala
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7233.avi
-#EXTINF:-1,Mamma o papà?
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16758.mp4
-#EXTINF:-1,Maria Maddalena
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19203.mkv
-#EXTINF:-1,Matrimonio Al Sud
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8330.avi
-#EXTINF:-1,Matrimonio Al Sud
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9080.avi
-#EXTINF:-1,Max
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5897.mkv
-#EXTINF:-1,Maze Runner
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5898.mkv
-#EXTINF:-1,Mercenaire
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15658.mp4
-#EXTINF:-1,Merry Christmas
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9081.avi
-#EXTINF:-1,Mia Madre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5900.mkv
-#EXTINF:-1,Milionari
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7234.avi
-#EXTINF:-1,Minacce Dallo Spazio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17245.mp4
-#EXTINF:-1,Minions 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5203.mkv
-#EXTINF:-1,Minions
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5901.mkv
-#EXTINF:-1,Mission Impossible: Rogue Nation
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5902.mkv
-#EXTINF:-1,Missione Anthropoid Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15285.mp4
-#EXTINF:-1,Missione Eroica I Pompieri 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9082.avi
-#EXTINF:-1,Mister Felicità
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16776.mp4
-#EXTINF:-1,Mondo criminale - Los Angeles
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17246.mp4
-#EXTINF:-1,Monkey Business: Una Scimmietta Dispettosa Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15776.mp4
-#EXTINF:-1,Monster Family
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18404.mp4
-#EXTINF:-1,Monster High – S.O.S. Fantasmi HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16775.mp4
-#EXTINF:-1,Monster High: Boo York, Boo York
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5904.mkv
-#EXTINF:-1,Monster High: Ciak Si Grida
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5936.mkv
-#EXTINF:-1,Monster High: Freaky Fusion
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5937.mkv
-#EXTINF:-1,Monster High: Haunted
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5938.mkv
-#EXTINF:-1,Mr  Pig
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15656.mp4
-#EXTINF:-1,Mr. Gaga
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17247.mp4
-#EXTINF:-1,Mudbound HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19212.mkv
-#EXTINF:-1,Mune: Il Gurdiano Della Luna
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5905.mkv
-#EXTINF:-1,Naked Among Wolves: Il Bambino Nella Valigia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5939.mkv
-#EXTINF:-1,Napolislam
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8332.avi
-#EXTINF:-1,Naruto Shippuden: L'esercito fantasma
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5961.mkv
-#EXTINF:-1,Naruto: I Guardiani Del Regno Della Luna Crescente
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5940.mkv
-#EXTINF:-1,Naruto: Shippuden Il Maestro E Il Discepolo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5941.mkv
-#EXTINF:-1,Natale A Beverly Hills
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9083.avi
-#EXTINF:-1,Natale A Londra
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/14973.mp4
-#EXTINF:-1,Natale A Miami
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9084.avi
-#EXTINF:-1,Natale A New York
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9085.avi
-#EXTINF:-1,Natale A Rio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9086.avi
-#EXTINF:-1,Natale Col Boss 2015
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9087.avi
-#EXTINF:-1,Natale In Casa Cupiello
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5943.mkv
-#EXTINF:-1,Natale In Crociera
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9088.avi
-#EXTINF:-1,Natale In India
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9089.avi
-#EXTINF:-1,Natale In Sudafrica
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9090.avi
-#EXTINF:-1,Natale Sul Nilo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5944.mkv
-#EXTINF:-1,Nati Con La Camicia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9091.avi
-#EXTINF:-1,Nell'Oscurità - Le Montagne della Patagonia HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17249.mp4
-#EXTINF:-1,Nemesi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18406.mp4
-#EXTINF:-1,Neruda Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16312.mp4
-#EXTINF:-1,Nessuno Si Salva Da Solo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5945.mkv
-#EXTINF:-1,Nightingale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5946.mkv
-#EXTINF:-1,No Escape: Colpo Di Stato
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5947.mkv
-#EXTINF:-1,Noi E La Giulia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5948.mkv
-#EXTINF:-1,Nomi E Cognomi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5949.mkv
-#EXTINF:-1,Non Aprite Quella Porta 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5204.mkv
-#EXTINF:-1,Non Ci Resta Che Piangere
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5950.mkv
-#EXTINF:-1,Nonno Scatenato
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9092.avi
-#EXTINF:-1,Ogni Maledetto Natale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6034.mkv
-#EXTINF:-1,Ogni Tuo Respiro
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19096.mkv
-#EXTINF:-1,Oliver & Company
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6035.mkv
-#EXTINF:-1,Olly Il Sottomarino E Il Salvataggio Del Polipo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15013.mp4
-#EXTINF:-1,Oltre I Buchi Neri
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17250.mp4
-#EXTINF:-1,Olé
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9093.avi
-#EXTINF:-1,Omicidio All' Italiana
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16959.mp4
-#EXTINF:-1,Open Water 3 Cage Dive
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18411.mp4
-#EXTINF:-1,Operazione U N C L E
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6036.mkv
-#EXTINF:-1,Outcast 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6037.mkv
-#EXTINF:-1,Outcast
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6038.mkv
-#EXTINF:-1,Over The Top
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9094.avi
-#EXTINF:-1,Overdrive
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18418.mp4
-#EXTINF:-1,Ozzy cucciolo coraggioso HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16766.mp4
-#EXTINF:-1,Paddington
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6039.mkv
-#EXTINF:-1,Padri E Figlie
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6040.mkv
-#EXTINF:-1,Pan Viaggio Sull Isola Che Non C'e 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5206.mkv
-#EXTINF:-1,Pan Viaggio Sull Isola Che Non Ce
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6041.mkv
-#EXTINF:-1,Pan Viaggio Sullisola Che Non Ce
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9095.avi
-#EXTINF:-1,Paparazzi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9096.avi
-#EXTINF:-1,Pari E Dispari
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9097.avi
-#EXTINF:-1,Parigi A Tutti I Costi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6042.mkv
-#EXTINF:-1,Pee-wees big holiday 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17592.mkv
-#EXTINF:-1,Perfetti Sconosciuti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6713.avi
-#EXTINF:-1,Petrolio La spia invisibile
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17251.mp4
-#EXTINF:-1,Philadelphia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9098.mkv
-#EXTINF:-1,Piccoli Brividi 2015
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9817.avi
-#EXTINF:-1,Piccoli Brividi 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5207.mkv
-#EXTINF:-1,Piccoli Brividi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6043.mp4
-#EXTINF:-1,Pinocchio Il Film
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6044.mkv
-#EXTINF:-1,Pinocchio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6045.mkv
-#EXTINF:-1,Piovono Polpette
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6046.mkv
-#EXTINF:-1,Pixels 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6047.mkv
-#EXTINF:-1,Pixels
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6048.mkv
-#EXTINF:-1,Planetarium HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17576.mkv
-#EXTINF:-1,Pocahontas
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6050.mkv
-#EXTINF:-1,Point Break
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9099.avi
-#EXTINF:-1,Polar Express
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6051.mkv
-#EXTINF:-1,Poliopposti
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6053.avi
-#EXTINF:-1,Poltergeist 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6054.mkv
-#EXTINF:-1,Poltergeist
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6055.mkv
-#EXTINF:-1,Pompeii 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6056.mkv
-#EXTINF:-1,Porco Rosso
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6057.mkv
-#EXTINF:-1,Postino Pat
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6058.mkv
-#EXTINF:-1,Poveri Ma Ricchi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/14971.mp4
-#EXTINF:-1,Power Rangers HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17577.mkv
-#EXTINF:-1,Predestination 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5208.mkv
-#EXTINF:-1,Predestination
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6059.mkv
-#EXTINF:-1,Professore Per Amore
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6060.mkv
-#EXTINF:-1,Proprio Lui
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16961.mp4
-#EXTINF:-1,Prova A Prendermi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9100.avi
-#EXTINF:-1,Qualcosa Di Buono
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9101.avi
-#EXTINF:-1,Questa è La Mia Casa: 4closed
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6140.mkv
-#EXTINF:-1,Quo Vado
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6141.mkv
-#EXTINF:-1,Rambo 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9102.mkv
-#EXTINF:-1,Rambo 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9103.avi
-#EXTINF:-1,Rambo 3
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9104.avi
-#EXTINF:-1,Rams Storia Di Due Fratelli E Otto Pecore
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9818.avi
-#EXTINF:-1,Reach Me: La Strada Del Successo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6650.mkv
-#EXTINF:-1,Reclaim
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6651.mkv
-#EXTINF:-1,Red 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9820.mkv
-#EXTINF:-1,Red E Tody Nemiciamici
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6652.mkv
-#EXTINF:-1,Red
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9819.mkv
-#EXTINF:-1,Regali Da Uno Sconosciuto The Gift
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7230.avi
-#EXTINF:-1,Renegades-Commando D'Assalto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19081.mkv
-#EXTINF:-1,Resident Evil Retribution 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6653.mkv
-#EXTINF:-1,Resident Evil: The Final Chapter
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16761.mp4
-#EXTINF:-1,Return To Sender
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6654.mkv
-#EXTINF:-1,Revenant
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6655.mp4
-#EXTINF:-1,Revenant Redivivo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9105.avi
-#EXTINF:-1,Reversal
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6656.mkv
-#EXTINF:-1,Ricomincio Da Tre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6657.mkv
-#EXTINF:-1,Rio 2 Missione Amazzonia 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6658.mkv
-#EXTINF:-1,Ritorno Alla Vita 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5210.mkv
-#EXTINF:-1,Ritorno Alla Vita
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6659.mkv
-#EXTINF:-1,Rock Legends Bee Gees
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17252.mp4
-#EXTINF:-1,Rock dog
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16792.mp4
-#EXTINF:-1,Rocky 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9106.mkv
-#EXTINF:-1,Rocky 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9107.avi
-#EXTINF:-1,Rocky 3
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9108.mkv
-#EXTINF:-1,Rocky 4
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9109.mkv
-#EXTINF:-1,Rocky 5
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9110.avi
-#EXTINF:-1,Rocky 6
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9111.mkv
-#EXTINF:-1,Ronaldo Sub-ita
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6660.mkv
-#EXTINF:-1,Ronin (1998)
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9112.mkv
-#EXTINF:-1,Room
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8333.avi
-#EXTINF:-1,Run All Night: Una Notte Per Sopravvivere
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6661.mkv
-#EXTINF:-1,Rush 2013
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9113.avi
-#EXTINF:-1,Ruth E Alex L'amore Cerca Casa-5 Flights Up
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6714.avi
-#EXTINF:-1,Safe House-nessuno è Al Sicuro
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9821.mkv
-#EXTINF:-1,Salvate Il Soldato Ryan
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9114.avi
-#EXTINF:-1,Samba
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6662.mkv
-#EXTINF:-1,San Andreas 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6663.mkv
-#EXTINF:-1,San Andreas
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6664.mkv
-#EXTINF:-1,San Valentino Stories [IT[]
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19204.mkv
-#EXTINF:-1,Sandy Wexler HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17593.mkv
-#EXTINF:-1,Sangue Del Mio Sangue
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6665.mkv
-#EXTINF:-1,Sapore Di Mare 2: Un Anno Dopo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6666.mkv
-#EXTINF:-1,Sapore Di Mare Parte 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6667.mkv
-#EXTINF:-1,Sapore Di Mare Parte 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6668.mkv
-#EXTINF:-1,Sapore Di Te
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6669.mkv
-#EXTINF:-1,Sballati Per Le Feste
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8334.avi
-#EXTINF:-1,Scappa Get Out HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17578.mkv
-#EXTINF:-1,Scooby Doo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6670.mkv
-#EXTINF:-1,Scuola Di Ladri
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6671.mkv
-#EXTINF:-1,Scusa Se Esisto!
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6672.mkv
-#EXTINF:-1,Se Dio Vuole
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6673.mkv
-#EXTINF:-1,Se Mi Lasci Non Vale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6674.mkv
-#EXTINF:-1,Second Chance
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6675.mkv
-#EXTINF:-1,Selfless
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6676.mkv
-#EXTINF:-1,Selma
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6677.mkv
-#EXTINF:-1,Selvaggia Nuova Zelanda Da Un Estremo All'Altro
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17253.mp4
-#EXTINF:-1,Selvaggia Nuova Zelanda Nuovi Arrivi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17254.mp4
-#EXTINF:-1,Shak Week 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5211.mkv
-#EXTINF:-1,Shimmer Lake HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19209.mkv
-#EXTINF:-1,Shutter Island
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9115.mkv
-#EXTINF:-1,Si Accettano Miracoli
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6678.mkv
-#EXTINF:-1,Sicario
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6679.mkv
-#EXTINF:-1,Silicon Cowboys HD (Eng Sub Ita)
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17255.mp4
-#EXTINF:-1,Sing
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/14974.mp4
-#EXTINF:-1,Sinister
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6680.mkv
-#EXTINF:-1,Small Crimes
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19208.mkv
-#EXTINF:-1,Sniper Nemico Fantasma
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15011.mp4
-#EXTINF:-1,Snitch: L'infiltrato
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6681.mkv
-#EXTINF:-1,Snoopy And Friends-il Film Dei Peanuts
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6682.avi
-#EXTINF:-1,Soap Opera
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6683.mkv
-#EXTINF:-1,Sola Nel Buio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6684.mkv
-#EXTINF:-1,Soldato Semplice
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6685.mkv
-#EXTINF:-1,Sole A Catinelle
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6686.mkv
-#EXTINF:-1,Song To Song HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17885.mp4
-#EXTINF:-1,Sono La Bella Creatura Che Vive In Questa Casa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17594.mkv
-#EXTINF:-1,Sono tornato
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19199.mp4
-#EXTINF:-1,Sopravvissuto-the Martian
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6687.mkv
-#EXTINF:-1,Sopravvissuto: The Martian 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5212.mkv
-#EXTINF:-1,Sotto Il Cielo Delle Hawaii
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6688.mkv
-#EXTINF:-1,Sotto Una Buona Stella
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6689.mkv
-#EXTINF:-1,Soundbreaking
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17256.mp4
-#EXTINF:-1,Southbound - Autostrada per l'inferno
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19205.mkv
-#EXTINF:-1,Southpaw - L'ultima Sfida
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6690.mkv
-#EXTINF:-1,Spectral.
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17595.mkv
-#EXTINF:-1,Spectre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6691.mkv
-#EXTINF:-1,Spider-Man Homecoming
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17887.mp4
-#EXTINF:-1,Spongebob Fuori Dall Acqua 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5213.mkv
-#EXTINF:-1,Spqr 2000 E Mezzo Anni Fa
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9116.avi
-#EXTINF:-1,Spy
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6692.mkv
-#EXTINF:-1,Star Wars Episodio Vii Il Risveglio Della Forza
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9117.mp4
-#EXTINF:-1,Stato Islamico - Nascita di un Format.
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17257.mp4
-#EXTINF:-1,Step Up All In 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6693.mkv
-#EXTINF:-1,Stereo Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15650.mp4
-#EXTINF:-1,Steve Jobs
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6694.mkv
-#EXTINF:-1,Storie Sospese
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6695.mkv
-#EXTINF:-1,Straight Outta Compton
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6696.mkv
-#EXTINF:-1,Strange Magic
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6697.mkv
-#EXTINF:-1,Stretch
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6698.mkv
-#EXTINF:-1,Suburra
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6699.mkv
-#EXTINF:-1,Suffragette
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8335.avi
-#EXTINF:-1,Super Buddies
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6700.mkv
-#EXTINF:-1,Super Fantozzi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9118.avi
-#EXTINF:-1,Super Rapina A Milano
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6701.mkv
-#EXTINF:-1,Super Vacanze Di Natale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19095.mkv
-#EXTINF:-1,Superfantagenio 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9119.avi
-#EXTINF:-1,Survival
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6702.mkv
-#EXTINF:-1,Sword Of The Stranger
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6703.mkv
-#EXTINF:-1,Take The 10: L’autostrada
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15773.mp4
-#EXTINF:-1,Taken 3: L'ora Della Verità
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6740.mkv
-#EXTINF:-1,Tartarughe Ninja 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5214.mkv
-#EXTINF:-1,Ted 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6741.mkv
-#EXTINF:-1,Teen Titans Go! Il film
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/22404.mp4
-#EXTINF:-1,Teenage Cocktail
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15774.mp4
-#EXTINF:-1,Tempo Instabile Con Probabili Schiarite
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6742.mkv
-#EXTINF:-1,Teneramente Folle
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6743.mkv
-#EXTINF:-1,Terapia D'urto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9120.avi
-#EXTINF:-1,Terminator 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6744.mkv
-#EXTINF:-1,Terminator 2:  Il Giorno Del Giudizio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6745.mkv
-#EXTINF:-1,Terminator 3: Le Macchine Ribelli
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6746.mkv
-#EXTINF:-1,Terremoto 10 0 Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15652.mp4
-#EXTINF:-1,The Absent One – Battuta di caccia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16773.mp4
-#EXTINF:-1,The Avengers
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6760.mkv
-#EXTINF:-1,Avengers: Age of Ultron 3D
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6750.mkv
-#EXTINF:-1,The Avengers: Age Of Ultron
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6761.mkv
-#EXTINF:-1,The Beach
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9121.avi
-#EXTINF:-1,The Big Wedding
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6762.mkv
-#EXTINF:-1,The Captive
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6763.mkv
-#EXTINF:-1,The Circle HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17877.mp4
-#EXTINF:-1,The Colony
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6764.mkv
-#EXTINF:-1,The Danish Girl
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5644.avi
-#EXTINF:-1,The Departed
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9122.avi
-#EXTINF:-1,The Devil's Candy.
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18399.mp4
-#EXTINF:-1,The Dinner HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17888.mp4
-#EXTINF:-1,The Disaster Artist sub ENG 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19079.mkv
-#EXTINF:-1,The Divergent Series Allegiant
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9123.avi
-#EXTINF:-1,The Equalizer: Il Vendicatore
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6765.mkv
-#EXTINF:-1,The Fast and the Furious: Tokyo Drift
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9055.mkv
-#EXTINF:-1,The Founder
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15777.mp4
-#EXTINF:-1,The Gallows : L'esecuzione
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6751.mkv
-#EXTINF:-1,The Great Wall
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16757.mp4
-#EXTINF:-1,The Greatest Showman
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19093.mkv
-#EXTINF:-1,The Green Inferno
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6766.mkv
-#EXTINF:-1,The Humbling
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6767.mkv
-#EXTINF:-1,The Imitation Game
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6768.mkv
-#EXTINF:-1,The Institute
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16790.mp4
-#EXTINF:-1,The JacKal Addio Fottuti Musi Verdi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19097.mkv
-#EXTINF:-1,The Last Exorcism 2: Liberaci Dal Male
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6769.mkv
-#EXTINF:-1,The Last Witch Hunter: L Ultimo Cacciatore Di Streghe
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6770.mkv
-#EXTINF:-1,The Lego Movie 3D
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5215.mkv
-#EXTINF:-1,The Midnight Man
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19105.mkv
-#EXTINF:-1,The Model Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16311.mp4
-#EXTINF:-1,The Pills: Sempre Meglio Che Lavorare
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6752.mkv
-#EXTINF:-1,The Program
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6771.mkv
-#EXTINF:-1,The Reach
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6715.avi
-#EXTINF:-1,The Ridiculous 6
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6772.mkv
-#EXTINF:-1,The Ring 3 HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17579.mkv
-#EXTINF:-1,The Saint HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19211.mkv
-#EXTINF:-1,The Shape of Water - La Forma Dell' Acqua ENG Sub iTA
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19092.mkv
-#EXTINF:-1,The Terminal
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9020.avi
-#EXTINF:-1,The Transporter 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6753.mkv
-#EXTINF:-1,The Transporter 3
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6754.mkv
-#EXTINF:-1,The Transporter Extreme 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6755.mkv
-#EXTINF:-1,The Transporter Legacy 4
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6756.mkv
-#EXTINF:-1,The Untouchables - Gli intoccabili
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9059.mkv
-#EXTINF:-1,The Veil 2016
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9827.mp4
-#EXTINF:-1,The Visit
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6774.mkv
-#EXTINF:-1,The Walk 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5216.mkv
-#EXTINF:-1,The Walk
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6757.mkv
-#EXTINF:-1,The Wedding Ringer: Un Testimone In Affitto
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6758.mkv
-#EXTINF:-1,The Wolf Of Wall Street
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9124.mp4
-#EXTINF:-1,The Woman In Black 2: Angelo Della Morte
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6759.mkv
-#EXTINF:-1,The lodgers - Non infrangere le regole HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19201.mkv
-#EXTINF:-1,The ridiculous 6
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17596.mkv
-#EXTINF:-1,The young Pope - A tale of filmmaking
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17258.mp4
-#EXTINF:-1,This Is Where I Leave You
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6775.mkv
-#EXTINF:-1,Thor Ragnarok
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18393.mp4
-#EXTINF:-1,Thor The Dark World 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6776.mkv
-#EXTINF:-1,Tifosi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6777.mkv
-#EXTINF:-1,Tigri All'Assalto HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17597.mkv
-#EXTINF:-1,Tiramisu
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/7229.avi
-#EXTINF:-1,Tnic
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9125.mkv
-#EXTINF:-1,Tomorrowland: Il Mondo Di Domani
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6778.mkv
-#EXTINF:-1,Tooken
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6779.mkv
-#EXTINF:-1,Top Cat
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/15007.mp4
-#EXTINF:-1,Torno Da Mia Madre Hd
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/14977.mp4
-#EXTINF:-1,Torno Indietro E Cambio Vita 2015 Italian Dts 1080p Bluray X264-bluworld
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6780.mkv
-#EXTINF:-1,Toro  Scatenato
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9126.avi
-#EXTINF:-1,Tracers
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/8336.avi
-#EXTINF:-1,Transformers L Ultimo Cavaliere HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17890.mp4
-#EXTINF:-1,True Story
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6781.mkv
-#EXTINF:-1,Turbolenze D'amore
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6782.mkv
-#EXTINF:-1,Tutankhamon
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17259.mp4
-#EXTINF:-1,Tutte Contro Lui
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6784.mkv
-#EXTINF:-1,Tutte Lo Vogliono
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6783.mkv
-#EXTINF:-1,Tutti I Soldi Del Mondo
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19102.mkv
-#EXTINF:-1,Tutti Lo Vogliono
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6785.mkv
-#EXTINF:-1,Tutto Tutto Niente Niente
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6786.mkv
-#EXTINF:-1,Tutto o Niente
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17598.mkv
-#EXTINF:-1,Ulisse - Gli Enigmi Delle Civiltà, L'isola Di Pasqua, Stonenge, Egizi, Maya, Inca, Angkor, Petra
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17260.mp4
-#EXTINF:-1,Un Boss Sotto Stress
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9127.mkv
-#EXTINF:-1,Un Estate In Provenza 2016
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9128.avi
-#EXTINF:-1,Un Mostro A Parigi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6920.mkv
-#EXTINF:-1,Un Natale Con I Fiocchi
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6921.mkv
-#EXTINF:-1,Un Natale Stupefacente
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6919.mkv
-#EXTINF:-1,Un Occasione Da Dio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6706.avi
-#EXTINF:-1,Un Po Tanto Ciecamente 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17599.mkv
-#EXTINF:-1,Un Weekend Da Bamboccioni (2010)
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9129.avi
-#EXTINF:-1,Un Weekend Da Bamboccioni 2 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9130.mkv
-#EXTINF:-1,Una Notte Da Leoni 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6922.mkv
-#EXTINF:-1,Una Notte Da Leoni 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6923.mkv
-#EXTINF:-1,Una Notte Da Leoni 3
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6924.mkv
-#EXTINF:-1,Una Notte Da Matricole
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6925.mkv
-#EXTINF:-1,Una Piccola Impresa Meridionale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6926.mkv
-#EXTINF:-1,Una Vita Spezzata
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6927.mkv
-#EXTINF:-1,Unfriended
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6928.mkv
-#EXTINF:-1,Unknown: Senza Identita
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6929.mkv
-#EXTINF:-1,Uno Sceriffo Extraterrestre Poco Extra E Molto Terrestre
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9131.avi
-#EXTINF:-1,Uno Zoo In Fuga
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6930.mkv
-#EXTINF:-1,Uomini Di Parola
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6931.mkv
-#EXTINF:-1,V,cuore,battito
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9132.mkv
-#EXTINF:-1,Vacanze Di Natale 2000
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6933.mkv
-#EXTINF:-1,Vacanze Di Natale 83
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6935.mkv
-#EXTINF:-1,Vacanze Di Natale 90
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9133.avi
-#EXTINF:-1,Vacanze Di Natale 91
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6936.mkv
-#EXTINF:-1,Vacanze Di Natale 95
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6937.mkv
-#EXTINF:-1,Vacanze Di Natale A Cortina
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6934.mkv
-#EXTINF:-1,Vacanze In America
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9134.avi
-#EXTINF:-1,Vi Presento Christopher Robin
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19080.mkv
-#EXTINF:-1,Vi Presento I Nostri 
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9135.avi
-#EXTINF:-1,Via Col Vento
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6938.mkv
-#EXTINF:-1,Victor - La Storia Segreta Del Dott Frankenstein
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9830.avi
-#EXTINF:-1,Vieni A Vivere A Napoli
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16962.mp4
-#EXTINF:-1,Virunga
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6939.mkv
-#EXTINF:-1,Virunga
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17600.mkv
-#EXTINF:-1,Viva L Italia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6940.mkv
-#EXTINF:-1,Warrior
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6941.mkv
-#EXTINF:-1,Wish Upon
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17880.mp4
-#EXTINF:-1,Wish Upon
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/18400.mp4
-#EXTINF:-1,Wolverine L Immortale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9136.mkv
-#EXTINF:-1,Wonder Woman
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17886.mp4
-#EXTINF:-1,Wonder
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/19094.mkv
-#EXTINF:-1,X Men 1
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9137.mkv
-#EXTINF:-1,X Men 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9138.mkv
-#EXTINF:-1,X Men 3 Conflitto Finale
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9139.mkv
-#EXTINF:-1,X Men Giorni Di Un Futuro Passato
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9140.mkv
-#EXTINF:-1,X Men L Inizio
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9141.mkv
-#EXTINF:-1,X Men Le Origini Wolverine
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/9142.avi
-#EXTINF:-1,Yellowbird 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6944.mkv
-#EXTINF:-1,Yellowbird
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6945.mkv
-#EXTINF:-1,Young Detective Dee: Il Risveglio Del Drago Marino 3d
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6946.mkv
-#EXTINF:-1,Youth La Giovinezza
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6947.mkv
-#EXTINF:-1,Yu-Gi-Oh! Il Lato Oscuro Delle Dimensioni HD
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/16788.mp4
-#EXTINF:-1,ZERO la verità sulle torri gemelle
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/17261.mp4
-#EXTINF:-1,Zanetti Story
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6948.mkv
-#EXTINF:-1,Zero Dark Thirty
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6949.mkv
-#EXTINF:-1,Zoolander 2
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5645.avi
-#EXTINF:-1,Zootropolis
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/6950.avi
-#EXTINF:-1,è Arrivata Mia Figlia
-http://tv.iptvsensation.org:6500/movie/sjRcie9Xz1/OYSn9sLs1q/5533.mkv
+http://vipsecure.tk:8080/live/volkan4/4volkan/55877.m3u8
+#EXTINF:-1,Cielo
+http://vipsecure.tk:8080/live/volkan4/4volkan/55878.m3u8
+#EXTINF:-1,Discovery HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55879.m3u8
+#EXTINF:-1,Discovery Science HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55880.m3u8
+#EXTINF:-1,Discovery Travel&Living HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55881.m3u8
+#EXTINF:-1,Dmax HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55829.m3u8
+#EXTINF:-1,Eurosport 1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55830.m3u8
+#EXTINF:-1,Eurosport 2 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55831.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55832.m3u8
+#EXTINF:-1,Fox Crime HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55882.m3u8
+#EXTINF:-1,Fox Crime HD(1)
+http://vipsecure.tk:8080/live/volkan4/4volkan/55833.m3u8
+#EXTINF:-1,FOX HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55883.m3u8
+#EXTINF:-1,Fox Life HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55884.m3u8
+#EXTINF:-1,FOX Sport HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55885.m3u8
+#EXTINF:-1,Inter Channel
+http://vipsecure.tk:8080/live/volkan4/4volkan/55886.m3u8
+#EXTINF:-1,Iris
+http://vipsecure.tk:8080/live/volkan4/4volkan/55964.m3u8
+#EXTINF:-1,Italia 2
+http://vipsecure.tk:8080/live/volkan4/4volkan/55834.m3u8
+#EXTINF:-1,italia1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55835.m3u8
+#EXTINF:-1,Juventus TV
+http://vipsecure.tk:8080/live/volkan4/4volkan/55874.m3u8
+#EXTINF:-1,La7
+http://vipsecure.tk:8080/live/volkan4/4volkan/55836.m3u8
+#EXTINF:-1,Mediaset 20 TV HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55963.m3u8
+#EXTINF:-1,Mediaset Extra
+http://vipsecure.tk:8080/live/volkan4/4volkan/55962.m3u8
+#EXTINF:-1,Mediaset Extra(1)
+http://vipsecure.tk:8080/live/volkan4/4volkan/55837.m3u8
+#EXTINF:-1,Mediaset Iris
+http://vipsecure.tk:8080/live/volkan4/4volkan/55914.m3u8
+#EXTINF:-1,Mediaset Italia Due
+http://vipsecure.tk:8080/live/volkan4/4volkan/55961.m3u8
+#EXTINF:-1,Milan Channel
+http://vipsecure.tk:8080/live/volkan4/4volkan/55915.m3u8
+#EXTINF:-1,Nat Geo Wild HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55887.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55888.m3u8
+#EXTINF:-1,Pesca e Caccia
+http://vipsecure.tk:8080/live/volkan4/4volkan/55889.m3u8
+#EXTINF:-1,Premium Action
+http://vipsecure.tk:8080/live/volkan4/4volkan/55890.m3u8
+#EXTINF:-1,Premium Calcio
+http://vipsecure.tk:8080/live/volkan4/4volkan/55891.m3u8
+#EXTINF:-1,Premium Calcio 2*
+http://vipsecure.tk:8080/live/volkan4/4volkan/55839.m3u8
+#EXTINF:-1,Premium Calcio 3*
+http://vipsecure.tk:8080/live/volkan4/4volkan/55840.m3u8
+#EXTINF:-1,Premium Calcio 4
+http://vipsecure.tk:8080/live/volkan4/4volkan/55841.m3u8
+#EXTINF:-1,Premium Calcio 5*
+http://vipsecure.tk:8080/live/volkan4/4volkan/55842.m3u8
+#EXTINF:-1,Premium Cinema
+http://vipsecure.tk:8080/live/volkan4/4volkan/55843.m3u8
+#EXTINF:-1,Premium Cinema 2
+http://vipsecure.tk:8080/live/volkan4/4volkan/55845.m3u8
+#EXTINF:-1,Premium Cinema Energy
+http://vipsecure.tk:8080/live/volkan4/4volkan/55844.m3u8
+#EXTINF:-1,Premium Comedy
+http://vipsecure.tk:8080/live/volkan4/4volkan/55892.m3u8
+#EXTINF:-1,Premium Crime
+http://vipsecure.tk:8080/live/volkan4/4volkan/55846.m3u8
+#EXTINF:-1,Premium Disney Junior
+http://vipsecure.tk:8080/live/volkan4/4volkan/55893.m3u8
+#EXTINF:-1,Premium Disney Junior(1)
+http://vipsecure.tk:8080/live/volkan4/4volkan/55916.m3u8
+#EXTINF:-1,Premium Emotion
+http://vipsecure.tk:8080/live/volkan4/4volkan/55847.m3u8
+#EXTINF:-1,Premium Joy
+http://vipsecure.tk:8080/live/volkan4/4volkan/55848.m3u8
+#EXTINF:-1,Premium Sport 2
+http://vipsecure.tk:8080/live/volkan4/4volkan/55894.m3u8
+#EXTINF:-1,Premium Sport HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55872.m3u8
+#EXTINF:-1,Premium Stories
+http://vipsecure.tk:8080/live/volkan4/4volkan/55849.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://vipsecure.tk:8080/live/volkan4/4volkan/55895.m3u8
+#EXTINF:-1,Premium Top Crime
+http://vipsecure.tk:8080/live/volkan4/4volkan/55960.m3u8
+#EXTINF:-1,RAI 1
+http://vipsecure.tk:8080/live/volkan4/4volkan/55994.m3u8
+#EXTINF:-1,RAI 1 FHD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55996.m3u8
+#EXTINF:-1,RAI 1 FHD TNT
+http://vipsecure.tk:8080/live/volkan4/4volkan/55995.m3u8
+#EXTINF:-1,RAI 2
+http://vipsecure.tk:8080/live/volkan4/4volkan/55991.m3u8
+#EXTINF:-1,RAI 2 FHD (1080i)
+http://vipsecure.tk:8080/live/volkan4/4volkan/55993.m3u8
+#EXTINF:-1,Rai 2 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55992.m3u8
+#EXTINF:-1,RAI 3
+http://vipsecure.tk:8080/live/volkan4/4volkan/55988.m3u8
+#EXTINF:-1,RAI 3 FHD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55990.m3u8
+#EXTINF:-1,Rai 3 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55989.m3u8
+#EXTINF:-1,Rai 4
+http://vipsecure.tk:8080/live/volkan4/4volkan/55985.m3u8
+#EXTINF:-1,Rai 4 FHD (1080i)
+http://vipsecure.tk:8080/live/volkan4/4volkan/55987.m3u8
+#EXTINF:-1,Rai 4 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55986.m3u8
+#EXTINF:-1,Rai 5
+http://vipsecure.tk:8080/live/volkan4/4volkan/55982.m3u8
+#EXTINF:-1,Rai 5 FHD (1080i)
+http://vipsecure.tk:8080/live/volkan4/4volkan/55984.m3u8
+#EXTINF:-1,Rai 5 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55983.m3u8
+#EXTINF:-1,Rai Gulp
+http://vipsecure.tk:8080/live/volkan4/4volkan/55972.m3u8
+#EXTINF:-1,Rai Gulp FHD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55973.m3u8
+#EXTINF:-1,Rai Movie
+http://vipsecure.tk:8080/live/volkan4/4volkan/55974.m3u8
+#EXTINF:-1,Rai Movie FHD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55976.m3u8
+#EXTINF:-1,Rai Movie HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55975.m3u8
+#EXTINF:-1,Rai News 24
+http://vipsecure.tk:8080/live/volkan4/4volkan/55965.m3u8
+#EXTINF:-1,RAI NEWS 24 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55966.m3u8
+#EXTINF:-1,Rai Premium
+http://vipsecure.tk:8080/live/volkan4/4volkan/55850.m3u8
+#EXTINF:-1,Rai Premium FHD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55978.m3u8
+#EXTINF:-1,Rai Premium HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55977.m3u8
+#EXTINF:-1,Rai Scuola FHD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55971.m3u8
+#EXTINF:-1,RAI SCUOLA HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55970.m3u8
+#EXTINF:-1,Rai Sport
+http://vipsecure.tk:8080/live/volkan4/4volkan/55980.m3u8
+#EXTINF:-1,Rai Sport   HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55981.m3u8
+#EXTINF:-1,Rai Sport 1
+http://vipsecure.tk:8080/live/volkan4/4volkan/55851.m3u8
+#EXTINF:-1,RAI Sport 1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55979.m3u8
+#EXTINF:-1,Rai Sport2
+http://vipsecure.tk:8080/live/volkan4/4volkan/55852.m3u8
+#EXTINF:-1,Rai Storia HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55967.m3u8
+#EXTINF:-1,Rai Yoyo
+http://vipsecure.tk:8080/live/volkan4/4volkan/55896.m3u8
+#EXTINF:-1,Rai yoyo FHD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55969.m3u8
+#EXTINF:-1,Rai Yoyo HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55968.m3u8
+#EXTINF:-1,Rai1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55853.m3u8
+#EXTINF:-1,Rai2 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55854.m3u8
+#EXTINF:-1,Rai3 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55855.m3u8
+#EXTINF:-1,Rai4 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55856.m3u8
+#EXTINF:-1,Rai5
+http://vipsecure.tk:8080/live/volkan4/4volkan/55857.m3u8
+#EXTINF:-1,Real Time
+http://vipsecure.tk:8080/live/volkan4/4volkan/55917.m3u8
+#EXTINF:-1,Rete4 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55858.m3u8
+#EXTINF:-1,RSI La1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55859.m3u8
+#EXTINF:-1,RSI La2 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55860.m3u8
+#EXTINF:-1,Sky 3D HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55950.m3u8
+#EXTINF:-1,Sky Calcio 1
+http://vipsecure.tk:8080/live/volkan4/4volkan/55897.m3u8
+#EXTINF:-1,Sky Calcio 2
+http://vipsecure.tk:8080/live/volkan4/4volkan/55898.m3u8
+#EXTINF:-1,Sky Calcio 3
+http://vipsecure.tk:8080/live/volkan4/4volkan/55899.m3u8
+#EXTINF:-1,Sky Calcio 4
+http://vipsecure.tk:8080/live/volkan4/4volkan/55900.m3u8
+#EXTINF:-1,Sky Calcio 5
+http://vipsecure.tk:8080/live/volkan4/4volkan/55901.m3u8
+#EXTINF:-1,Sky Calcio 6
+http://vipsecure.tk:8080/live/volkan4/4volkan/55902.m3u8
+#EXTINF:-1,Sky Calcio 7
+http://vipsecure.tk:8080/live/volkan4/4volkan/55903.m3u8
+#EXTINF:-1,Sky Cinema  1 HD(1)
+http://vipsecure.tk:8080/live/volkan4/4volkan/55861.m3u8
+#EXTINF:-1,Sky Cinema Classic HD(1)
+http://vipsecure.tk:8080/live/volkan4/4volkan/55862.m3u8
+#EXTINF:-1,Sky Cinema Comedy HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55863.m3u8
+#EXTINF:-1,Sky Cinema Family HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55864.m3u8
+#EXTINF:-1,Sky Cinema Max HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55865.m3u8
+#EXTINF:-1,Sky Cinema Passion HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55866.m3u8
+#EXTINF:-1,Sky Cinema1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55867.m3u8
+#EXTINF:-1,SKY CINEMA24 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55868.m3u8
+#EXTINF:-1,SKY F1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55869.m3u8
+#EXTINF:-1,Sky Fox Comedy HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55904.m3u8
+#EXTINF:-1,Sky Foxcrime HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55870.m3u8
+#EXTINF:-1,Sky Moto GP HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55871.m3u8
+#EXTINF:-1,SKY PRIMAFILA 1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55949.m3u8
+#EXTINF:-1,SKY PRIMAFILA 10 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55941.m3u8
+#EXTINF:-1,SKY PRIMAFILA 11 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55940.m3u8
+#EXTINF:-1,SKY PRIMAFILA 12 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55939.m3u8
+#EXTINF:-1,SKY PRIMAFILA 13 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55938.m3u8
+#EXTINF:-1,SKY PRIMAFILA 14 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55937.m3u8
+#EXTINF:-1,SKY PRIMAFILA 15 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55936.m3u8
+#EXTINF:-1,SKY PRIMAFILA 2 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55948.m3u8
+#EXTINF:-1,SKY Primafila 3
+http://vipsecure.tk:8080/live/volkan4/4volkan/55905.m3u8
+#EXTINF:-1,SKY PRIMAFILA 3 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55947.m3u8
+#EXTINF:-1,SKY PRIMAFILA 4 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55946.m3u8
+#EXTINF:-1,SKY PRIMAFILA 5 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55945.m3u8
+#EXTINF:-1,Sky Primafila 6
+http://vipsecure.tk:8080/live/volkan4/4volkan/55906.m3u8
+#EXTINF:-1,SKY PRIMAFILA 6 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55944.m3u8
+#EXTINF:-1,Sky Primafila 7
+http://vipsecure.tk:8080/live/volkan4/4volkan/55907.m3u8
+#EXTINF:-1,SKY PRIMAFILA 7 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55943.m3u8
+#EXTINF:-1,Sky Primafila 8
+http://vipsecure.tk:8080/live/volkan4/4volkan/55908.m3u8
+#EXTINF:-1,SKY PRIMAFILA 9 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55942.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55918.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55919.m3u8
+#EXTINF:-1,Sky Sport1 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55920.m3u8
+#EXTINF:-1,Sky Sport2 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55921.m3u8
+#EXTINF:-1,Sky Sport3 HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55922.m3u8
+#EXTINF:-1,SKY TG 24
+http://vipsecure.tk:8080/live/volkan4/4volkan/55909.m3u8
+#EXTINF:-1,Sky Uno HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55873.m3u8
+#EXTINF:-1,SPORT ITALIA
+http://vipsecure.tk:8080/live/volkan4/4volkan/55910.m3u8
+#EXTINF:-1,Supercalcio HD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55911.m3u8
+#EXTINF:-1,Teleticino
+http://vipsecure.tk:8080/live/volkan4/4volkan/55934.m3u8
+#EXTINF:-1,TOP CRIME
+http://vipsecure.tk:8080/live/volkan4/4volkan/55935.m3u8
+#EXTINF:-1,Topolino Cip e Ciop Paperino
+http://vipsecure.tk:8080/live/volkan4/4volkan/55959.m3u8
+#EXTINF:-1,Trentino TV
+http://vipsecure.tk:8080/live/volkan4/4volkan/55958.m3u8
+#EXTINF:-1,TRM TV
+http://vipsecure.tk:8080/live/volkan4/4volkan/55957.m3u8
+#EXTINF:-1,Tv Avicenza
+http://vipsecure.tk:8080/live/volkan4/4volkan/55956.m3u8
+#EXTINF:-1,TV8
+http://vipsecure.tk:8080/live/volkan4/4volkan/55955.m3u8
+#EXTINF:-1,TVRS
+http://vipsecure.tk:8080/live/volkan4/4volkan/55954.m3u8
+#EXTINF:-1,Video Brescia
+http://vipsecure.tk:8080/live/volkan4/4volkan/55953.m3u8
+#EXTINF:-1,Video Italia FHD
+http://vipsecure.tk:8080/live/volkan4/4volkan/55952.m3u8
+#EXTINF:-1,Vitalia3
+http://vipsecure.tk:8080/live/volkan4/4volkan/55951.m3u8
+#EXTINF:-1,CARTOON  NETWORK
+http://vipsecure.tk:8080/live/volkan4/4volkan/55912.m3u8
+#EXTINF:-1,Discovery Focus
+http://vipsecure.tk:8080/live/volkan4/4volkan/55913.m3u8
+#EXTINF:-1,SKY Cinema 3D
+http://vipsecure.tk:8080/live/volkan4/4volkan/55923.m3u8
+#EXTINF:-1,SKY Primafila 1
+http://vipsecure.tk:8080/live/volkan4/4volkan/55924.m3u8
+#EXTINF:-1,Sky Primafila 10
+http://vipsecure.tk:8080/live/volkan4/4volkan/55925.m3u8
+#EXTINF:-1,Sky Primafila 12
+http://vipsecure.tk:8080/live/volkan4/4volkan/55926.m3u8
+#EXTINF:-1,Sky Primafila 13
+http://vipsecure.tk:8080/live/volkan4/4volkan/55927.m3u8
+#EXTINF:-1,Sky Primafila 14
+http://vipsecure.tk:8080/live/volkan4/4volkan/55928.m3u8
+#EXTINF:-1,SKY Primafila 2
+http://vipsecure.tk:8080/live/volkan4/4volkan/55929.m3u8
+#EXTINF:-1,Sky Primafila 4
+http://vipsecure.tk:8080/live/volkan4/4volkan/55930.m3u8
+#EXTINF:-1,Sky Primafila 5
+http://vipsecure.tk:8080/live/volkan4/4volkan/55931.m3u8
+#EXTINF:-1,Sky Primafila 9
+http://vipsecure.tk:8080/live/volkan4/4volkan/55932.m3u8
+#EXTINF:-1,Super Tennis
+http://vipsecure.tk:8080/live/volkan4/4volkan/55933.m3u8
