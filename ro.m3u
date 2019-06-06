@@ -1,243 +1,49 @@
 #EXTM3U
-#EXTINF:-1,1 Music Channel
-http://vipsecure.tk:8080/live/volkan4/4volkan/55337.m3u8
-#EXTINF:-1,Acasa Tv FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55299.m3u8
-#EXTINF:-1,Agro Tv
-http://vipsecure.tk:8080/live/volkan4/4volkan/55350.m3u8
-#EXTINF:-1,AMC
-http://vipsecure.tk:8080/live/volkan4/4volkan/55385.m3u8
-#EXTINF:-1,Antena 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55289.m3u8
-#EXTINF:-1,Antena 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/55288.m3u8
-#EXTINF:-1,Antena Stars
-http://vipsecure.tk:8080/live/volkan4/4volkan/55287.m3u8
+#EXTINF:-1,ACASA TV
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2540.m3u8
 #EXTINF:-1,AXN
-http://vipsecure.tk:8080/live/volkan4/4volkan/55301.m3u8
-#EXTINF:-1,AXN Romania
-http://vipsecure.tk:8080/live/volkan4/4volkan/55393.m3u8
-#EXTINF:-1,AXN White
-http://vipsecure.tk:8080/live/volkan4/4volkan/55392.m3u8
-#EXTINF:-1,BBC Earth HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55349.m3u8
-#EXTINF:-1,Bollywood TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55384.m3u8
-#EXTINF:-1,Boomerang
-http://vipsecure.tk:8080/live/volkan4/4volkan/55310.m3u8
-#EXTINF:-1,Cartoon Network
-http://vipsecure.tk:8080/live/volkan4/4volkan/55309.m3u8
-#EXTINF:-1,CBS Reality
-http://vipsecure.tk:8080/live/volkan4/4volkan/55383.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55394.m3u8
-#EXTINF:-1,Credo Tv
-http://vipsecure.tk:8080/live/volkan4/4volkan/55331.m3u8
-#EXTINF:-1,Cromtel TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55330.m3u8
-#EXTINF:-1,Digi 24 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55345.m3u8
-#EXTINF:-1,Digi Animal World
-http://vipsecure.tk:8080/live/volkan4/4volkan/55352.m3u8
-#EXTINF:-1,DIGI FILM
-http://vipsecure.tk:8080/live/volkan4/4volkan/55387.m3u8
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2541.m3u8
+#EXTINF:-1,DIGI 24 HD
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2543.m3u8
 #EXTINF:-1,DIGI LIFE
-http://vipsecure.tk:8080/live/volkan4/4volkan/55364.m3u8
-#EXTINF:-1,DIGI SPORT 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55406.m3u8
-#EXTINF:-1,DIGI SPORT 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55405.m3u8
-#EXTINF:-1,DIGI SPORT 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/55404.m3u8
-#EXTINF:-1,DIGI SPORT 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/55403.m3u8
-#EXTINF:-1,Digi World
-http://vipsecure.tk:8080/live/volkan4/4volkan/55351.m3u8
-#EXTINF:-1,Discovery ID
-http://vipsecure.tk:8080/live/volkan4/4volkan/55344.m3u8
-#EXTINF:-1,Discovery science
-http://vipsecure.tk:8080/live/volkan4/4volkan/55343.m3u8
-#EXTINF:-1,Discovery World
-http://vipsecure.tk:8080/live/volkan4/4volkan/55342.m3u8
-#EXTINF:-1,Disney Channel
-http://vipsecure.tk:8080/live/volkan4/4volkan/55311.m3u8
-#EXTINF:-1,Eurosport 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55402.m3u8
-#EXTINF:-1,Eurosport 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55401.m3u8
-#EXTINF:-1,Fashion TV HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55292.m3u8
-#EXTINF:-1,Favorit
-http://vipsecure.tk:8080/live/volkan4/4volkan/55291.m3u8
-#EXTINF:-1,Favorit Tv
-http://vipsecure.tk:8080/live/volkan4/4volkan/55339.m3u8
-#EXTINF:-1,Film Cafe
-http://vipsecure.tk:8080/live/volkan4/4volkan/55390.m3u8
-#EXTINF:-1,Film Mania
-http://vipsecure.tk:8080/live/volkan4/4volkan/55389.m3u8
-#EXTINF:-1,Film Mania HU
-http://vipsecure.tk:8080/live/volkan4/4volkan/55386.m3u8
-#EXTINF:-1,FilmBox Premium
-http://vipsecure.tk:8080/live/volkan4/4volkan/55298.m3u8
-#EXTINF:-1,Fine Living
-http://vipsecure.tk:8080/live/volkan4/4volkan/55348.m3u8
-#EXTINF:-1,Fine Living HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55340.m3u8
-#EXTINF:-1,Fix and Foxi
-http://vipsecure.tk:8080/live/volkan4/4volkan/55304.m3u8
-#EXTINF:-1,Gigel TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55329.m3u8
-#EXTINF:-1,H!T Music Channel
-http://vipsecure.tk:8080/live/volkan4/4volkan/55328.m3u8
-#EXTINF:-1,HBO 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55398.m3u8
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2544.m3u8
+#EXTINF:-1,DIGI SPORT 4 HD
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2545.m3u8
+#EXTINF:-1,KANAL D
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2546.m3u8
+#EXTINF:-1,MINIMAX
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2548.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2549.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC HD
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2550.m3u8
+#EXTINF:-1,PRIMA TV
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2551.m3u8
+#EXTINF:-1,ROMANIA TV
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2553.m3u8
+#EXTINF:-1,VIASAT  NATURE HD
+http://www.nilsattv.com:8080/live/ahmet56/03092018/2556.m3u8
+#EXTINF:-1,Cinemax 2
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1587.m3u8
 #EXTINF:-1,HBO 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55397.m3u8
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1577.m3u8
 #EXTINF:-1,HBO 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/55396.m3u8
-#EXTINF:-1,HBO mania
-http://vipsecure.tk:8080/live/volkan4/4volkan/55395.m3u8
-#EXTINF:-1,HBO Romania
-http://vipsecure.tk:8080/live/volkan4/4volkan/55399.m3u8
-#EXTINF:-1,Hora TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55327.m3u8
-#EXTINF:-1,ID Xtra HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55341.m3u8
-#EXTINF:-1,IDA
-http://vipsecure.tk:8080/live/volkan4/4volkan/55326.m3u8
-#EXTINF:-1,Impact TV HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55325.m3u8
-#EXTINF:-1,Infinit TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55324.m3u8
-#EXTINF:-1,INTERMEDIA SUCEAVA
-http://vipsecure.tk:8080/live/volkan4/4volkan/55297.m3u8
-#EXTINF:-1,JimJam
-http://vipsecure.tk:8080/live/volkan4/4volkan/55305.m3u8
-#EXTINF:-1,JimJam EMEA
-http://vipsecure.tk:8080/live/volkan4/4volkan/55306.m3u8
-#EXTINF:-1,Kanal D
-http://vipsecure.tk:8080/live/volkan4/4volkan/55338.m3u8
-#EXTINF:-1,Kanal D HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55296.m3u8
-#EXTINF:-1,KISS TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55332.m3u8
-#EXTINF:-1,Look Plus
-http://vipsecure.tk:8080/live/volkan4/4volkan/55381.m3u8
-#EXTINF:-1,Look Plus HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55380.m3u8
-#EXTINF:-1,Look Sport TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55382.m3u8
-#EXTINF:-1,Megamax
-http://vipsecure.tk:8080/live/volkan4/4volkan/55302.m3u8
-#EXTINF:-1,Mini Max
-http://vipsecure.tk:8080/live/volkan4/4volkan/55323.m3u8
-#EXTINF:-1,Minimax
-http://vipsecure.tk:8080/live/volkan4/4volkan/55303.m3u8
-#EXTINF:-1,Music Channel
-http://vipsecure.tk:8080/live/volkan4/4volkan/55354.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://vipsecure.tk:8080/live/volkan4/4volkan/55347.m3u8
-#EXTINF:-1,National TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55335.m3u8
-#EXTINF:-1,Neptun TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55322.m3u8
-#EXTINF:-1,Nick Jr
-http://vipsecure.tk:8080/live/volkan4/4volkan/55307.m3u8
-#EXTINF:-1,Nickelodeon
-http://vipsecure.tk:8080/live/volkan4/4volkan/55308.m3u8
-#EXTINF:-1,Orizont TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55321.m3u8
-#EXTINF:-1,Paramount Channel
-http://vipsecure.tk:8080/live/volkan4/4volkan/55388.m3u8
-#EXTINF:-1,Prima TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55356.m3u8
-#EXTINF:-1,Pro 2 FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55375.m3u8
-#EXTINF:-1,Pro 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55374.m3u8
-#EXTINF:-1,PRO CINEMA
-http://vipsecure.tk:8080/live/volkan4/4volkan/55391.m3u8
-#EXTINF:-1,Pro TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55379.m3u8
-#EXTINF:-1,Pro Tv Chisinau
-http://vipsecure.tk:8080/live/volkan4/4volkan/55378.m3u8
-#EXTINF:-1,Pro TV International
-http://vipsecure.tk:8080/live/volkan4/4volkan/55376.m3u8
-#EXTINF:-1,Pro X
-http://vipsecure.tk:8080/live/volkan4/4volkan/55370.m3u8
-#EXTINF:-1,Pro X FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55371.m3u8
-#EXTINF:-1,PRO.2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55373.m3u8
-#EXTINF:-1,PRO.2 FHD (Acasa Tv HD)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55286.m3u8
-#EXTINF:-1,PRO.2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55369.m3u8
-#EXTINF:-1,PRO.GOLD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55372.m3u8
-#EXTINF:-1,Pro.TV News
-http://vipsecure.tk:8080/live/volkan4/4volkan/55357.m3u8
-#EXTINF:-1,PRO.X
-http://vipsecure.tk:8080/live/volkan4/4volkan/55336.m3u8
-#EXTINF:-1,PRO2 FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55295.m3u8
-#EXTINF:-1,ProCinema
-http://vipsecure.tk:8080/live/volkan4/4volkan/55363.m3u8
-#EXTINF:-1,ProTV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55362.m3u8
-#EXTINF:-1,ProTv News
-http://vipsecure.tk:8080/live/volkan4/4volkan/55377.m3u8
-#EXTINF:-1,PTV FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55294.m3u8
-#EXTINF:-1,Publika TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55320.m3u8
-#EXTINF:-1,PX FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55293.m3u8
-#EXTINF:-1,Rapsodia TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55319.m3u8
-#EXTINF:-1,Realitatea Tv
-http://vipsecure.tk:8080/live/volkan4/4volkan/55358.m3u8
-#EXTINF:-1,Realitatea TV HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55318.m3u8
-#EXTINF:-1,Romania Tv
-http://vipsecure.tk:8080/live/volkan4/4volkan/55361.m3u8
-#EXTINF:-1,Somax TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55316.m3u8
-#EXTINF:-1,Taraf
-http://vipsecure.tk:8080/live/volkan4/4volkan/55290.m3u8
-#EXTINF:-1,Telestar 1 TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55315.m3u8
-#EXTINF:-1,TLC
-http://vipsecure.tk:8080/live/volkan4/4volkan/55346.m3u8
-#EXTINF:-1,TNT
-http://vipsecure.tk:8080/live/volkan4/4volkan/55334.m3u8
-#EXTINF:-1,TNT HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55353.m3u8
-#EXTINF:-1,Trace Sport Stars HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55400.m3u8
-#EXTINF:-1,Traditii TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55314.m3u8
-#EXTINF:-1,Trinitas
-http://vipsecure.tk:8080/live/volkan4/4volkan/55333.m3u8
-#EXTINF:-1,Trinity HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55313.m3u8
-#EXTINF:-1,TV 1000
-http://vipsecure.tk:8080/live/volkan4/4volkan/55365.m3u8
-#EXTINF:-1,TV Paprika
-http://vipsecure.tk:8080/live/volkan4/4volkan/55312.m3u8
-#EXTINF:-1,TVR Cluj
-http://vipsecure.tk:8080/live/volkan4/4volkan/55300.m3u8
-#EXTINF:-1,TVR Int
-http://vipsecure.tk:8080/live/volkan4/4volkan/55355.m3u8
-#EXTINF:-1,Viasat Explore
-http://vipsecure.tk:8080/live/volkan4/4volkan/55317.m3u8
-#EXTINF:-1,Viasat History
-http://vipsecure.tk:8080/live/volkan4/4volkan/55359.m3u8
-#EXTINF:-1,Viasat Nature
-http://vipsecure.tk:8080/live/volkan4/4volkan/55360.m3u8
-#EXTINF:-1,TVR 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55368.m3u8
-#EXTINF:-1,TVR 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55367.m3u8
-#EXTINF:-1,TVR 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/55366.m3u8
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1578.m3u8
+#EXTINF:-1,DIGI Film
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1586.m3u8
+#EXTINF:-1,Digi Sport 1 HD
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1584.m3u8
+#EXTINF:-1,Digi Sport 2 HD
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1585.m3u8
+#EXTINF:-1,Disney Junior
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1583.m3u8
+#EXTINF:-1,Eurosport 1
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1580.m3u8
+#EXTINF:-1,Eurosport 2
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1581.m3u8
+#EXTINF:-1,Fishing & Hunting
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1579.m3u8
+#EXTINF:-1,Digi Sport 3
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1576.m3u8
+#EXTINF:-1,Kiss TV
+http://www.nilsattv.com:8080/live/ahmet56/03092018/1575.m3u8
