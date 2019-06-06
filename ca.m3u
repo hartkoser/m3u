@@ -1,397 +1,299 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21927.m3u8
-#EXTINF:-1,A&E HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26110.m3u8
-#EXTINF:-1,ABC EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21926.m3u8
-#EXTINF:-1,ABC SPARK HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21925.m3u8
-#EXTINF:-1,ABC WEST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21924.m3u8
-#EXTINF:-1,ACTION
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21923.m3u8
-#EXTINF:-1,ADDIK TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21922.m3u8
-#EXTINF:-1,AHC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21921.m3u8
-#EXTINF:-1,AMC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21920.m3u8
-#EXTINF:-1,AMC HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26111.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21919.m3u8
-#EXTINF:-1,APTN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21918.m3u8
-#EXTINF:-1,ARTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21917.m3u8
-#EXTINF:-1,Assemblée Nationale Québec
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21916.m3u8
-#EXTINF:-1,BBC CANADA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21915.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21913.m3u8
-#EXTINF:-1,BET
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21912.m3u8
-#EXTINF:-1,BNN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21911.m3u8
-#EXTINF:-1,BNN HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26113.m3u8
-#EXTINF:-1,BOOK TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21910.m3u8
-#EXTINF:-1,BRAVO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21909.m3u8
-#EXTINF:-1,Bravo HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26112.m3u8
-#EXTINF:-1,CANAL D
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21908.m3u8
-#EXTINF:-1,CANAL SAVOIR
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21907.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21906.m3u8
+#EXTINF:-1,NBA TV (24/7 Coverage)
+http://thenew.tv:8000/live/Domingo1/Domingo12/7837.m3u8
+#EXTINF:-1,Avengers: Infinity War
+http://infabox1.ddns.net/files/movies/Avengers-Infinity.War.mp4
+#EXTINF:-1,Black Panther
+http://infabox2.ddns.net/filesOVH/Black.Panther.mp4
+#EXTINF:-1,A&E | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5147.m3u8
+#EXTINF:-1,ABC (West) | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5146.m3u8
+#EXTINF:-1,ABC SPARK | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5145.m3u8
+#EXTINF:-1,ACTION | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5143.m3u8
+#EXTINF:-1,AMC | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5141.m3u8
+#EXTINF:-1,ANIMAL PLANET | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5140.m3u8
+#EXTINF:-1,BBC NEWS | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5136.m3u8
+#EXTINF:-1,BBC WORLD NEWS | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5135.m3u8
+#EXTINF:-1,BET HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5134.m3u8
+#EXTINF:-1,BOOMERANG | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5132.m3u8
+#EXTINF:-1,BNN | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/41897.m3u8
+#EXTINF:-1,CITY TV HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5129.m3u8
+#EXTINF:-1,CARTOON NETWORK  HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5125.m3u8
+#EXTINF:-1,CBC CALGARY | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5124.m3u8
+#EXTINF:-1,CBC CHARLOTTETOWN | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5123.m3u8
+#EXTINF:-1,CBC EDMONTON | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5122.m3u8
+#EXTINF:-1,CBC FREDERICTON | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5121.m3u8
+#EXTINF:-1,CBC NEWS NETWORKS
+http://thenew.tv:8000/live/Domingo1/Domingo12/5120.m3u8
+#EXTINF:-1,CBC HALIFAX | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5119.m3u8
+#EXTINF:-1,CBC MONTREAL | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5118.m3u8
+#EXTINF:-1,CBC VENCOUVER | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5114.m3u8
+#EXTINF:-1,CBC REGINA | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5112.m3u8
+#EXTINF:-1,CBC ST. JOHNS | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5111.m3u8
+#EXTINF:-1,CBC TORONTO | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5110.m3u8
+#EXTINF:-1,CBC TV
+http://thenew.tv:8000/live/Domingo1/Domingo12/5109.m3u8
+#EXTINF:-1,CBC VANCOUVER | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5108.m3u8
+#EXTINF:-1,CBC WINDSOR | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5107.m3u8
+#EXTINF:-1,CBC WINNIPEG | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5106.m3u8
+#EXTINF:-1,CBC YELLOWKNIFE | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5105.m3u8
+#EXTINF:-1,CBS (West) | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5104.m3u8
+#EXTINF:-1,CBS NEWS | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5103.m3u8
+#EXTINF:-1,CHCH | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5101.m3u8
+#EXTINF:-1,CITY TORONTO | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5099.m3u8
+#EXTINF:-1,CNBC WORLD | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5092.m3u8
+#EXTINF:-1,CNN | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5089.m3u8
+#EXTINF:-1,COOKING CHANNEL | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5085.m3u8
+#EXTINF:-1,CP24  | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5082.m3u8
+#EXTINF:-1,CPAC | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5081.m3u8
+#EXTINF:-1,CRIME   INVESTIGATION | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5080.m3u8
+#EXTINF:-1,CTV (Kitchener) | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5079.m3u8
+#EXTINF:-1,CTV 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5077.m3u8
+#EXTINF:-1,CTV MONTREAL HD *
+http://thenew.tv:8000/live/Domingo1/Domingo12/5076.m3u8
+#EXTINF:-1,CTV NEWS | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5075.m3u8
+#EXTINF:-1,CTV TORONTO | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5074.m3u8
+#EXTINF:-1,CTV VANCOUVER | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5073.m3u8
+#EXTINF:-1,CW | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5072.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5070.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5069.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5068.m3u8
+#EXTINF:-1,DISNEY CHANNEL | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5066.m3u8
+#EXTINF:-1, DISNEY JR | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5065.m3u8
+#EXTINF:-1,DISNEY XD  HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5064.m3u8
+#EXTINF:-1,NETWORK | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5062.m3u8
+#EXTINF:-1,E! | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5059.m3u8
+#EXTINF:-1,FAMILY | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5054.m3u8
+#EXTINF:-1,FAMILY CHANNEL (East) | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5057.m3u8
+#EXTINF:-1,FAMILY JR | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5055.m3u8
+#EXTINF:-1, FIGHT NETWORK | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5053.m3u8
+#EXTINF:-1,FOOD NETWORK | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5052.m3u8
+#EXTINF:-1,FOX | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5051.m3u8
+#EXTINF:-1,FOX BUSINESS | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5050.m3u8
+#EXTINF:-1,FOX NEWS   HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5049.m3u8
+#EXTINF:-1,FOX Q13 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5048.m3u8
+#EXTINF:-1,FX CANADA | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5046.m3u8
+#EXTINF:-1,FXX CANADA | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5045.m3u8
+#EXTINF:-1,GAME SHOW NETWORK | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5044.m3u8
+#EXTINF:-1,GLOBAL BC | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5043.m3u8
+#EXTINF:-1,GLOBAL CALGARY   SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5042.m3u8
+#EXTINF:-1,GLOBAL EDMONTON | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5041.m3u8
+#EXTINF:-1,GLOBAL MONTREAL | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5039.m3u8
+#EXTINF:-1,GLOBAL NEWS | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5038.m3u8
+#EXTINF:-1,GLOBAL TORONTO | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5032.m3u8
+#EXTINF:-1,GLOBAL VANCOUVER | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5031.m3u8
+#EXTINF:-1,GOLF CHANNEL | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5030.m3u8
+#EXTINF:-1,HBO | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5029.m3u8
+#EXTINF:-1,HBO 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5026.m3u8
+#EXTINF:-1,HGTV HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5023.m3u8
+#EXTINF:-1,HISTORY | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5019.m3u8
+#EXTINF:-1,HLN | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5018.m3u8
+#EXTINF:-1,Legislative Assembly Of Ontario | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5010.m3u8
+#EXTINF:-1,LIFETIME | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5012.m3u8
+#EXTINF:-1,LOVE NATURE | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5011.m3u8
+#EXTINF:-1,MSNBC | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5009.m3u8
+#EXTINF:-1,MUCH  HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5008.m3u8
+#EXTINF:-1,NAT GEO | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5006.m3u8
+#EXTINF:-1,NAT GEO WILD | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5007.m3u8
+#EXTINF:-1,US: NBA TV HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5005.m3u8
+#EXTINF:-1,NBC | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5004.m3u8
+#EXTINF:-1,NICKTOONS | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5002.m3u8
+#EXTINF:-1,NTV NEWFOUND LAND | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5001.m3u8
+#EXTINF:-1,OLN | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5000.m3u8
+#EXTINF:-1,OMNI 1 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4999.m3u8
+#EXTINF:-1,OMNI 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4998.m3u8
+#EXTINF:-1,OUTDOOR LIFE NETWORK | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4997.m3u8
+#EXTINF:-1,OWN | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4996.m3u8
+#EXTINF:-1,PARAMOUNT NETWORK | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4995.m3u8
+#EXTINF:-1,PBS | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4993.m3u8
+#EXTINF:-1,SHOWCASE | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4991.m3u8
+#EXTINF:-1,SLICE TV  | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4989.m3u8
+#EXTINF:-1,SPACE | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4987.m3u8
+#EXTINF:-1,SPORTSNET 360 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4986.m3u8
+#EXTINF:-1,SPORTSNET EAST | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4985.m3u8
+#EXTINF:-1,SPORTSNET ONTARIO | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4983.m3u8
+#EXTINF:-1,SPORTSNET PACIFIC | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4982.m3u8
+#EXTINF:-1,SPORTSNET WEST | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4981.m3u8
+#EXTINF:-1,Sportsnet World | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/40671.m3u8
+#EXTINF:-1,TELETOON | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4977.m3u8
+#EXTINF:-1,THE SHOPPING CHANNEL | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4976.m3u8
+#EXTINF:-1,THE WEATHER NETWORK | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4974.m3u8
+#EXTINF:-1,TLC | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4973.m3u8
+#EXTINF:-1,TMN 2 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4971.m3u8
+#EXTINF:-1,TMN 4 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4969.m3u8
+#EXTINF:-1,TREEHOUSE | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4967.m3u8
+#EXTINF:-1,TSN 1 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4966.m3u8
+#EXTINF:-1,TSN 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4965.m3u8
+#EXTINF:-1,TSN 3 HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4964.m3u8
+#EXTINF:-1,TSN 4 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4963.m3u8
+#EXTINF:-1,TVO | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4957.m3u8
+#EXTINF:-1,WEATHER NETWORK (Toronto) | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4952.m3u8
+#EXTINF:-1,WEATHER NETWORK FRENCH HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4951.m3u8
+#EXTINF:-1,WOMENS NETWORK | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4950.m3u8
+#EXTINF:-1,YTV (East) | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4949.m3u8
+#EXTINF:-1,YTV | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/4948.m3u8
 #EXTINF:-1,CASA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21905.m3u8
-#EXTINF:-1,CBC MONTREAL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21904.m3u8
-#EXTINF:-1,CBC NEWS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21903.m3u8
-#EXTINF:-1,CBC OTTAWA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21902.m3u8
-#EXTINF:-1,CBC TORONTO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21901.m3u8
-#EXTINF:-1,CBC VANCOUVER
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21900.m3u8
-#EXTINF:-1,CBS EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21899.m3u8
-#EXTINF:-1,CBS WEST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21898.m3u8
-#EXTINF:-1,CHCH
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21897.m3u8
-#EXTINF:-1,CHCH HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26120.m3u8
-#EXTINF:-1,CINEPOP
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21896.m3u8
-#EXTINF:-1,CITY MONTREAL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21895.m3u8
-#EXTINF:-1,CITY TORONTO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21893.m3u8
-#EXTINF:-1,CITY VANCOUVER
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21892.m3u8
-#EXTINF:-1,CMT
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21890.m3u8
-#EXTINF:-1,CMT FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26118.m3u8
-#EXTINF:-1,CNBC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21889.m3u8
-#EXTINF:-1,CNN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21888.m3u8
-#EXTINF:-1,CNN HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26119.m3u8
-#EXTINF:-1,CNN INTERNATIONAL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21887.m3u8
-#EXTINF:-1,COMEDY EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21886.m3u8
-#EXTINF:-1,COMEDY GOLD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21885.m3u8
-#EXTINF:-1,COOKING CHANNEL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21883.m3u8
-#EXTINF:-1,COSMO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21882.m3u8
-#EXTINF:-1,COTTAGE LIFE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21881.m3u8
-#EXTINF:-1,CP24
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21880.m3u8
-#EXTINF:-1,CPAC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21879.m3u8
-#EXTINF:-1,CPAC FRENCH
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21878.m3u8
-#EXTINF:-1,CPAC HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26117.m3u8
-#EXTINF:-1,CRIME INVESTIGATION
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21877.m3u8
-#EXTINF:-1,CTV 2 VANCOUVER
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21876.m3u8
-#EXTINF:-1,CTV HALIFAX
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21875.m3u8
-#EXTINF:-1,CTV NEWS NETWORK
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21874.m3u8
-#EXTINF:-1,CTV OTTAWA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21873.m3u8
-#EXTINF:-1,CTV TORONTO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21872.m3u8
-#EXTINF:-1,CTV VANCOUVER
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21871.m3u8
-#EXTINF:-1,CTV2 OTTAWA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21870.m3u8
-#EXTINF:-1,CW 11
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21869.m3u8
-#EXTINF:-1,DAYSTAR TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21868.m3u8
-#EXTINF:-1,DEJAVIEW
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21867.m3u8
-#EXTINF:-1,DISCOVERY CHANNEL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21866.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21865.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21864.m3u8
-#EXTINF:-1,DISNEY FRENCH
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21863.m3u8
-#EXTINF:-1,DISNEY JR
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21862.m3u8
-#EXTINF:-1,DIY
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21861.m3u8
-#EXTINF:-1,DOCUMENTARY
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21860.m3u8
-#EXTINF:-1,DTOUR
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21859.m3u8
-#EXTINF:-1,Discovery Science HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26114.m3u8
-#EXTINF:-1,E!
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21858.m3u8
-#EXTINF:-1,ENCORE 1 EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21857.m3u8
-#EXTINF:-1,ENCORE 2 EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21856.m3u8
-#EXTINF:-1,EVASION
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21855.m3u8
-#EXTINF:-1,FAMILY CHRGD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21854.m3u8
-#EXTINF:-1,FAMILY EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21853.m3u8
-#EXTINF:-1,FAMILY JR
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21852.m3u8
-#EXTINF:-1,FAMILY WEST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21851.m3u8
-#EXTINF:-1,FIGHT NETWORK
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21850.m3u8
-#EXTINF:-1,FOOD NETWORK
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21849.m3u8
-#EXTINF:-1,FOX EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21848.m3u8
-#EXTINF:-1,FOX NEWS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21847.m3u8
-#EXTINF:-1,FOX WEST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21846.m3u8
-#EXTINF:-1,FTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21845.m3u8
-#EXTINF:-1,FYI
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21844.m3u8
-#EXTINF:-1,GINX ESPORTS TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21842.m3u8
-#EXTINF:-1,GLOBAL HALIFAX
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21841.m3u8
-#EXTINF:-1,GLOBAL TORONTO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21840.m3u8
-#EXTINF:-1,GLOBAL VANCOUVER
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21839.m3u8
-#EXTINF:-1,GOLF
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21838.m3u8
-#EXTINF:-1,GSN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21837.m3u8
-#EXTINF:-1,GUSTO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21836.m3u8
-#EXTINF:-1,Game TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21843.m3u8
-#EXTINF:-1,H2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21835.m3u8
-#EXTINF:-1,HBO 1
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21834.m3u8
-#EXTINF:-1,HBO 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21833.m3u8
-#EXTINF:-1,HBO 2 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26115.m3u8
-#EXTINF:-1,HGTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21832.m3u8
+http://thenew.tv:8000/live/Domingo1/Domingo12/1050.m3u8
+#EXTINF:-1,DISNEY (CANADA)  (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1048.m3u8
+#EXTINF:-1,EVASION (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/55772.m3u8
 #EXTINF:-1,HISTORIA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21831.m3u8
-#EXTINF:-1,HISTORY
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21830.m3u8
-#EXTINF:-1,HLN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21829.m3u8
-#EXTINF:-1,ICI MONTREAL
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21826.m3u8
+http://thenew.tv:8000/live/Domingo1/Domingo12/1046.m3u8
 #EXTINF:-1,ICI VANCOUVER
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21825.m3u8
-#EXTINF:-1,ID
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21824.m3u8
-#EXTINF:-1,IFC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21823.m3u8
-#EXTINF:-1,KNOWLEDGE KIDS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21821.m3u8
-#EXTINF:-1,KTLA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21820.m3u8
-#EXTINF:-1,LCN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21819.m3u8
-#EXTINF:-1,LIFETIME
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21818.m3u8
-#EXTINF:-1,MAX
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21816.m3u8
-#EXTINF:-1,METEO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21815.m3u8
-#EXTINF:-1,MIRACLE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21814.m3u8
-#EXTINF:-1,MLB NETWORK
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21813.m3u8
-#EXTINF:-1,MOI CIE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21812.m3u8
-#EXTINF:-1,MTIME
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21811.m3u8
-#EXTINF:-1,MTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21810.m3u8
-#EXTINF:-1,MTV 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21809.m3u8
-#EXTINF:-1,MUCH MUSIC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21808.m3u8
-#EXTINF:-1,MUSIQUE PLUS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21807.m3u8
-#EXTINF:-1,NAT GEO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21806.m3u8
-#EXTINF:-1,NBA TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21805.m3u8
-#EXTINF:-1,NBC EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21804.m3u8
-#EXTINF:-1,NBC WEST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21803.m3u8
-#EXTINF:-1,NTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21802.m3u8
-#EXTINF:-1,OLN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21801.m3u8
-#EXTINF:-1,OMNI 1
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21800.m3u8
-#EXTINF:-1,OMNI 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21799.m3u8
-#EXTINF:-1,ONE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21796.m3u8
-#EXTINF:-1,OUTTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21795.m3u8
-#EXTINF:-1,OWN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21794.m3u8
-#EXTINF:-1,PBS EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21793.m3u8
-#EXTINF:-1,PEACH TREE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21791.m3u8
-#EXTINF:-1,PRISE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21790.m3u8
-#EXTINF:-1,RDI
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21789.m3u8
-#EXTINF:-1,RDS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21788.m3u8
-#EXTINF:-1,RDS 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21787.m3u8
-#EXTINF:-1,RDS INFO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21786.m3u8
-#EXTINF:-1,SERIES+
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21785.m3u8
-#EXTINF:-1,SHOPPING
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21784.m3u8
-#EXTINF:-1,SHOWCASE EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21783.m3u8
-#EXTINF:-1,SILVER SCREEN CLASSICS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21782.m3u8
-#EXTINF:-1,SLICE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21781.m3u8
+http://thenew.tv:8000/live/Domingo1/Domingo12/1044.m3u8
+#EXTINF:-1,KNOWLEDGE KIDS HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/5015.m3u8
+#EXTINF:-1,LCN  HD *
+http://thenew.tv:8000/live/Domingo1/Domingo12/1043.m3u8
+#EXTINF:-1,MAX (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1042.m3u8
+#EXTINF:-1,METEO MEDIA  (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1041.m3u8
+#EXTINF:-1,MUSIQUE PLUS (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1040.m3u8
+#EXTINF:-1,PRISE 2 (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1039.m3u8
+#EXTINF:-1,ICI RDI HD *
+http://thenew.tv:8000/live/Domingo1/Domingo12/1038.m3u8
+#EXTINF:-1,RDS 2 (CANADA)  (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1036.m3u8
+#EXTINF:-1,RDS INFO (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1035.m3u8
+#EXTINF:-1,SERIS (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1034.m3u8
 #EXTINF:-1,SMITHSONIAN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21780.m3u8
-#EXTINF:-1,SPACE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21779.m3u8
-#EXTINF:-1,SPIKE TV / PARAMOUNT CANADA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21778.m3u8
-#EXTINF:-1,SPORTSNET 360
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21777.m3u8
-#EXTINF:-1,SPORTSNET EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21776.m3u8
-#EXTINF:-1,SPORTSNET ONE FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21775.m3u8
-#EXTINF:-1,SPORTSNET ONTARIO FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21774.m3u8
-#EXTINF:-1,SPORTSNET PACIFIC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21773.m3u8
-#EXTINF:-1,SPORTSNET WEST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21772.m3u8
-#EXTINF:-1,SUPER CHANNEL VAULT
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21770.m3u8
-#EXTINF:-1,SUPER ECRAN 1
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21769.m3u8
-#EXTINF:-1,SUPER ECRAN 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21768.m3u8
-#EXTINF:-1,SUPER ECRAN 3
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21767.m3u8
-#EXTINF:-1,SUPER ECRAN 4
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21766.m3u8
-#EXTINF:-1,TCM
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21765.m3u8
-#EXTINF:-1,TELE QUEBEC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21763.m3u8
-#EXTINF:-1,TELE TOON EAST
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21762.m3u8
-#EXTINF:-1,TELE TOON FRENCH
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21761.m3u8
-#EXTINF:-1,TELEMAGINO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21759.m3u8
-#EXTINF:-1,TFO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21758.m3u8
-#EXTINF:-1,THE MOVIE NETWORK 1
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21755.m3u8
-#EXTINF:-1,THE MOVIE NETWORK 2
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21754.m3u8
-#EXTINF:-1,THE MOVIE NETWORK 3
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21753.m3u8
-#EXTINF:-1,THE MOVIE NETWORK 4
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21752.m3u8
-#EXTINF:-1,THE WEATHER NETWORK
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21757.m3u8
-#EXTINF:-1,TLC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21756.m3u8
-#EXTINF:-1,TRAVEL  ESCAPE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21751.m3u8
-#EXTINF:-1,TREEHOUSE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21750.m3u8
-#EXTINF:-1,TSN 1 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21749.m3u8
-#EXTINF:-1,TSN 2 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21748.m3u8
-#EXTINF:-1,TSN 3 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21747.m3u8
-#EXTINF:-1,TSN 4 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21746.m3u8
-#EXTINF:-1,TSN 5 FHD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21745.m3u8
-#EXTINF:-1,TV5 QUEBEC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21744.m3u8
-#EXTINF:-1,TVA SPORTS
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21740.m3u8
-#EXTINF:-1,TVO
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21739.m3u8
-#EXTINF:-1,Treehouse HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/17924.m3u8
-#EXTINF:-1,UNIS TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21738.m3u8
-#EXTINF:-1,VIE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/19160.m3u8
-#EXTINF:-1,VISION
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21735.m3u8
-#EXTINF:-1,VRAK TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21734.m3u8
-#EXTINF:-1,W NETWORK
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21733.m3u8
-#EXTINF:-1,WFN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21732.m3u8
-#EXTINF:-1,WGN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21731.m3u8
-#EXTINF:-1,WSBK
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21729.m3u8
-#EXTINF:-1,Wild TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21730.m3u8
-#EXTINF:-1,YES TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21728.m3u8
-#EXTINF:-1,YOOPA
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21727.m3u8
-#EXTINF:-1,YTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21726.m3u8
-#EXTINF:-1,YTV EAST HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/26116.m3u8
-#EXTINF:-1,Z TELE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21724.m3u8
-#EXTINF:-1,ZESTE
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/21723.m3u8
+http://thenew.tv:8000/live/Domingo1/Domingo12/5150.m3u8
+#EXTINF:-1,TELE TOON (CANADA)  (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1032.m3u8
+#EXTINF:-1,TELEMAGINO (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1031.m3u8
+#EXTINF:-1,TFO (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1030.m3u8
+#EXTINF:-1,TV5 QUEBEC (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/1029.m3u8
+#EXTINF:-1,TVA MONTREAL HD *
+http://thenew.tv:8000/live/Domingo1/Domingo12/1027.m3u8
+#EXTINF:-1,V MONTREAL (French)
+http://thenew.tv:8000/live/Domingo1/Domingo12/2085.m3u8
+#EXTINF:-1,ADDIK TV FR
+http://thenew.tv:8000/live/Domingo1/Domingo12/2086.m3u8

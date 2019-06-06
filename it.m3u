@@ -1,339 +1,387 @@
 #EXTM3U
-#EXTINF:-1,Alice
-http://vipsecure.tk:8080/live/volkan4/4volkan/55827.m3u8
-#EXTINF:-1,Animal Planet
-http://vipsecure.tk:8080/live/volkan4/4volkan/55875.m3u8
-#EXTINF:-1,Canal 5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55876.m3u8
-#EXTINF:-1,Canale5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55828.m3u8
-#EXTINF:-1,Cartoonito
-http://vipsecure.tk:8080/live/volkan4/4volkan/55877.m3u8
-#EXTINF:-1,Cielo
-http://vipsecure.tk:8080/live/volkan4/4volkan/55878.m3u8
-#EXTINF:-1,Discovery HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55879.m3u8
-#EXTINF:-1,Discovery Science HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55880.m3u8
-#EXTINF:-1,Discovery Travel&Living HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55881.m3u8
-#EXTINF:-1,Dmax HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55829.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55830.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55831.m3u8
-#EXTINF:-1,Fox Comedy HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55832.m3u8
-#EXTINF:-1,Fox Crime HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55882.m3u8
-#EXTINF:-1,Fox Crime HD(1)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55833.m3u8
-#EXTINF:-1,FOX HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55883.m3u8
-#EXTINF:-1,Fox Life HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55884.m3u8
-#EXTINF:-1,FOX Sport HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55885.m3u8
-#EXTINF:-1,Inter Channel
-http://vipsecure.tk:8080/live/volkan4/4volkan/55886.m3u8
-#EXTINF:-1,Iris
-http://vipsecure.tk:8080/live/volkan4/4volkan/55964.m3u8
-#EXTINF:-1,Italia 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55834.m3u8
-#EXTINF:-1,italia1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55835.m3u8
-#EXTINF:-1,Juventus TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55874.m3u8
-#EXTINF:-1,La7
-http://vipsecure.tk:8080/live/volkan4/4volkan/55836.m3u8
-#EXTINF:-1,Mediaset 20 TV HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55963.m3u8
-#EXTINF:-1,Mediaset Extra
-http://vipsecure.tk:8080/live/volkan4/4volkan/55962.m3u8
-#EXTINF:-1,Mediaset Extra(1)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55837.m3u8
-#EXTINF:-1,Mediaset Iris
-http://vipsecure.tk:8080/live/volkan4/4volkan/55914.m3u8
-#EXTINF:-1,Mediaset Italia Due
-http://vipsecure.tk:8080/live/volkan4/4volkan/55961.m3u8
+#EXTINF:-1,CI Ivestigation F| HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74682.m3u8
+#EXTINF:-1,Classica | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74681.m3u8
+#EXTINF:-1,Crime&Investigation | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74680.m3u8
+#EXTINF:-1,DAZN 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74679.m3u8
+#EXTINF:-1,DAZN 6 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74678.m3u8
+#EXTINF:-1,EuroSport | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74677.m3u8
+#EXTINF:-1,Lazio Style
+http://thenew.tv:8000/live/Domingo1/Domingo12/74676.m3u8
+#EXTINF:-1,NAT GEO PEOPLE F| HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74675.m3u8
+#EXTINF:-1,Blaze | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74674.m3u8
+#EXTINF:-1,Blaze | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74673.m3u8
+#EXTINF:-1,Boing  | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74672.m3u8
+#EXTINF:-1,Boing | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74671.m3u8
+#EXTINF:-1,Boomerang | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74670.m3u8
+#EXTINF:-1,Boomerang | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74669.m3u8
+#EXTINF:-1,Caccia & Pesca
+http://thenew.tv:8000/live/Domingo1/Domingo12/74668.m3u8
+#EXTINF:-1,Caccia e Pesca | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74667.m3u8
+#EXTINF:-1,Caccia&Pesca
+http://thenew.tv:8000/live/Domingo1/Domingo12/74666.m3u8
+#EXTINF:-1,Caccia&Pesca 2
+http://thenew.tv:8000/live/Domingo1/Domingo12/74665.m3u8
+#EXTINF:-1,Cartoon Network | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74662.m3u8
+#EXTINF:-1,Cartoonito | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74661.m3u8
+#EXTINF:-1,Cielo | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74660.m3u8
+#EXTINF:-1,Crime Investigation | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74659.m3u8
+#EXTINF:-1,DAZN 12 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74658.m3u8
+#EXTINF:-1,DAZN 13 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74657.m3u8
+#EXTINF:-1,DAZN 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74656.m3u8
+#EXTINF:-1,DAZN 6 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74655.m3u8
+#EXTINF:-1,DAZN SPORT 5 | HD*
+http://thenew.tv:8000/live/Domingo1/Domingo12/74654.m3u8
+#EXTINF:-1,Dea Junior | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74653.m3u8
+#EXTINF:-1,Dea Kids | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74652.m3u8
+#EXTINF:-1,Deejay TV | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74651.m3u8
+#EXTINF:-1,Discovery | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74650.m3u8
+#EXTINF:-1,Discovery Channel | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74649.m3u8
+#EXTINF:-1,Discovery Science | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74648.m3u8
+#EXTINF:-1,Discovery Travel & Living | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74647.m3u8
+#EXTINF:-1,Disney | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74646.m3u8
+#EXTINF:-1,Disney Channel | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74645.m3u8
+#EXTINF:-1,Disney Junior | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74644.m3u8
+#EXTINF:-1,Disney XD | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74643.m3u8
+#EXTINF:-1,DMAX | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74642.m3u8
+#EXTINF:-1,DMAX F| HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74641.m3u8
+#EXTINF:-1,Eurosport 1 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74640.m3u8
+#EXTINF:-1,Eurosport 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74639.m3u8
+#EXTINF:-1,Focus
+http://thenew.tv:8000/live/Domingo1/Domingo12/74638.m3u8
+#EXTINF:-1,Focus | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74637.m3u8
+#EXTINF:-1,Food Network
+http://thenew.tv:8000/live/Domingo1/Domingo12/74636.m3u8
+#EXTINF:-1,Fox | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74635.m3u8
+#EXTINF:-1,Fox Animation | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74634.m3u8
+#EXTINF:-1,Fox Animation | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74633.m3u8
+#EXTINF:-1,Fox Comedy
+http://thenew.tv:8000/live/Domingo1/Domingo12/74632.m3u8
+#EXTINF:-1,Fox Comedy | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74631.m3u8
+#EXTINF:-1,Fox Comedy | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74630.m3u8
+#EXTINF:-1,FOX Comedy F | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74629.m3u8
+#EXTINF:-1,Fox Crime | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74628.m3u8
+#EXTINF:-1,Fox Crime | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74627.m3u8
+#EXTINF:-1,Fox Crime F | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74626.m3u8
+#EXTINF:-1,Fox Life | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74625.m3u8
+#EXTINF:-1,Fox Life F | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74624.m3u8
+#EXTINF:-1,Frisbee | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74623.m3u8
+#EXTINF:-1,Gambero Rosso
+http://thenew.tv:8000/live/Domingo1/Domingo12/74622.m3u8
+#EXTINF:-1,Giallo
+http://thenew.tv:8000/live/Domingo1/Domingo12/74621.m3u8
+#EXTINF:-1,History | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74620.m3u8
+#EXTINF:-1,History Channel | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74619.m3u8
+#EXTINF:-1,History Lab | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74618.m3u8
+#EXTINF:-1,Ialian Fishing
+http://thenew.tv:8000/live/Domingo1/Domingo12/74617.m3u8
+#EXTINF:-1,Inter Channel | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74616.m3u8
+#EXTINF:-1,Investigation Discovery
+http://thenew.tv:8000/live/Domingo1/Domingo12/74615.m3u8
+#EXTINF:-1,Italia 1 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74614.m3u8
+#EXTINF:-1,Italia 1 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74613.m3u8
+#EXTINF:-1,ITalia 2 | SD*
+http://thenew.tv:8000/live/Domingo1/Domingo12/74612.m3u8
+#EXTINF:-1,Juventus Channel | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74611.m3u8
+#EXTINF:-1,K2 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74610.m3u8
+#EXTINF:-1,LA 5 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74609.m3u8
+#EXTINF:-1,La 7 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74608.m3u8
+#EXTINF:-1,LA 7D | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74607.m3u8
+#EXTINF:-1,La5 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74606.m3u8
+#EXTINF:-1,Lazio Channel | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74605.m3u8
+#EXTINF:-1,M2o
+http://thenew.tv:8000/live/Domingo1/Domingo12/74604.m3u8
+#EXTINF:-1,Manga | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74603.m3u8
+#EXTINF:-1,MARCOPOLO
+http://thenew.tv:8000/live/Domingo1/Domingo12/74602.m3u8
+#EXTINF:-1,Masha e Orso TV | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74601.m3u8
+#EXTINF:-1,Mediaset 20 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74600.m3u8
+#EXTINF:-1,Mediaset Extra | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74599.m3u8
+#EXTINF:-1,Mediaset Italia 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74598.m3u8
 #EXTINF:-1,Milan Channel
-http://vipsecure.tk:8080/live/volkan4/4volkan/55915.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55887.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55888.m3u8
-#EXTINF:-1,Pesca e Caccia
-http://vipsecure.tk:8080/live/volkan4/4volkan/55889.m3u8
-#EXTINF:-1,Premium Action
-http://vipsecure.tk:8080/live/volkan4/4volkan/55890.m3u8
-#EXTINF:-1,Premium Calcio
-http://vipsecure.tk:8080/live/volkan4/4volkan/55891.m3u8
-#EXTINF:-1,Premium Calcio 2*
-http://vipsecure.tk:8080/live/volkan4/4volkan/55839.m3u8
-#EXTINF:-1,Premium Calcio 3*
-http://vipsecure.tk:8080/live/volkan4/4volkan/55840.m3u8
-#EXTINF:-1,Premium Calcio 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/55841.m3u8
-#EXTINF:-1,Premium Calcio 5*
-http://vipsecure.tk:8080/live/volkan4/4volkan/55842.m3u8
-#EXTINF:-1,Premium Cinema
-http://vipsecure.tk:8080/live/volkan4/4volkan/55843.m3u8
-#EXTINF:-1,Premium Cinema 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55845.m3u8
-#EXTINF:-1,Premium Cinema Energy
-http://vipsecure.tk:8080/live/volkan4/4volkan/55844.m3u8
-#EXTINF:-1,Premium Comedy
-http://vipsecure.tk:8080/live/volkan4/4volkan/55892.m3u8
-#EXTINF:-1,Premium Crime
-http://vipsecure.tk:8080/live/volkan4/4volkan/55846.m3u8
-#EXTINF:-1,Premium Disney Junior
-http://vipsecure.tk:8080/live/volkan4/4volkan/55893.m3u8
-#EXTINF:-1,Premium Disney Junior(1)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55916.m3u8
-#EXTINF:-1,Premium Emotion
-http://vipsecure.tk:8080/live/volkan4/4volkan/55847.m3u8
-#EXTINF:-1,Premium Joy
-http://vipsecure.tk:8080/live/volkan4/4volkan/55848.m3u8
-#EXTINF:-1,Premium Sport 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55894.m3u8
-#EXTINF:-1,Premium Sport HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55872.m3u8
-#EXTINF:-1,Premium Stories
-http://vipsecure.tk:8080/live/volkan4/4volkan/55849.m3u8
-#EXTINF:-1,Premium Studio Universal
-http://vipsecure.tk:8080/live/volkan4/4volkan/55895.m3u8
-#EXTINF:-1,Premium Top Crime
-http://vipsecure.tk:8080/live/volkan4/4volkan/55960.m3u8
-#EXTINF:-1,RAI 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55994.m3u8
-#EXTINF:-1,RAI 1 FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55996.m3u8
-#EXTINF:-1,RAI 1 FHD TNT
-http://vipsecure.tk:8080/live/volkan4/4volkan/55995.m3u8
-#EXTINF:-1,RAI 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55991.m3u8
-#EXTINF:-1,RAI 2 FHD (1080i)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55993.m3u8
-#EXTINF:-1,Rai 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55992.m3u8
-#EXTINF:-1,RAI 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/55988.m3u8
-#EXTINF:-1,RAI 3 FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55990.m3u8
-#EXTINF:-1,Rai 3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55989.m3u8
-#EXTINF:-1,Rai 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/55985.m3u8
-#EXTINF:-1,Rai 4 FHD (1080i)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55987.m3u8
-#EXTINF:-1,Rai 4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55986.m3u8
-#EXTINF:-1,Rai 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/55982.m3u8
-#EXTINF:-1,Rai 5 FHD (1080i)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55984.m3u8
-#EXTINF:-1,Rai 5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55983.m3u8
-#EXTINF:-1,Rai Gulp
-http://vipsecure.tk:8080/live/volkan4/4volkan/55972.m3u8
-#EXTINF:-1,Rai Gulp FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55973.m3u8
-#EXTINF:-1,Rai Movie
-http://vipsecure.tk:8080/live/volkan4/4volkan/55974.m3u8
-#EXTINF:-1,Rai Movie FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55976.m3u8
-#EXTINF:-1,Rai Movie HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55975.m3u8
-#EXTINF:-1,Rai News 24
-http://vipsecure.tk:8080/live/volkan4/4volkan/55965.m3u8
-#EXTINF:-1,RAI NEWS 24 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55966.m3u8
-#EXTINF:-1,Rai Premium
-http://vipsecure.tk:8080/live/volkan4/4volkan/55850.m3u8
-#EXTINF:-1,Rai Premium FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55978.m3u8
-#EXTINF:-1,Rai Premium HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55977.m3u8
-#EXTINF:-1,Rai Scuola FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55971.m3u8
-#EXTINF:-1,RAI SCUOLA HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55970.m3u8
-#EXTINF:-1,Rai Sport
-http://vipsecure.tk:8080/live/volkan4/4volkan/55980.m3u8
-#EXTINF:-1,Rai Sport   HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55981.m3u8
+http://thenew.tv:8000/live/Domingo1/Domingo12/74597.m3u8
+#EXTINF:-1,MotorTrend
+http://thenew.tv:8000/live/Domingo1/Domingo12/74596.m3u8
+#EXTINF:-1,MotorTrend | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74595.m3u8
+#EXTINF:-1,MTV | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74594.m3u8
+#EXTINF:-1,MTV F| HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74593.m3u8
+#EXTINF:-1,Nat Geo People | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74592.m3u8
+#EXTINF:-1,Nat Geo Wild | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74591.m3u8
+#EXTINF:-1,NatGeo Wild | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74590.m3u8
+#EXTINF:-1,National Geo People
+http://thenew.tv:8000/live/Domingo1/Domingo12/74589.m3u8
+#EXTINF:-1,National Geographic | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74588.m3u8
+#EXTINF:-1,NBA TV
+http://thenew.tv:8000/live/Domingo1/Domingo12/74587.m3u8
+#EXTINF:-1,Nick Jr | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74586.m3u8
+#EXTINF:-1,Nickelodeon | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74585.m3u8
+#EXTINF:-1,Paw Patrol TV | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74584.m3u8
+#EXTINF:-1,POP | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74583.m3u8
+#EXTINF:-1,Premium Action | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74582.m3u8
+#EXTINF:-1,Premium Cinema | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74581.m3u8
+#EXTINF:-1,Premium Cinema 24 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74580.m3u8
+#EXTINF:-1,Premium Cinema Comedy | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74579.m3u8
+#EXTINF:-1,Premium Cinema Emotion | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74578.m3u8
+#EXTINF:-1,Premium Cinema Energy | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74577.m3u8
+#EXTINF:-1,Premium Crime | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74576.m3u8
+#EXTINF:-1,Premium Joy | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74575.m3u8
+#EXTINF:-1,Premium Sport | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74574.m3u8
+#EXTINF:-1,Premium Stories | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74573.m3u8
+#EXTINF:-1,Premium Studio Universal | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74572.m3u8
+#EXTINF:-1,Primafila 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74571.m3u8
+#EXTINF:-1,Primafila 3 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74570.m3u8
+#EXTINF:-1,Primafila 4 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74569.m3u8
+#EXTINF:-1,Primafila 5 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74568.m3u8
+#EXTINF:-1,Primafila 6 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74567.m3u8
+#EXTINF:-1,Primafila 7 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74566.m3u8
+#EXTINF:-1,Rai 1 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74565.m3u8
+#EXTINF:-1,Rai 1 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74564.m3u8
+#EXTINF:-1,Rai 1 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74563.m3u8
+#EXTINF:-1,Rai 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74562.m3u8
+#EXTINF:-1,Rai 2 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74561.m3u8
+#EXTINF:-1,Rai 2 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74560.m3u8
+#EXTINF:-1,Rai 3 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74559.m3u8
+#EXTINF:-1,Rai 3 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74558.m3u8
+#EXTINF:-1,Rai 3 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74557.m3u8
+#EXTINF:-1,Rai 4 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74556.m3u8
+#EXTINF:-1,Rai 4 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74555.m3u8
+#EXTINF:-1,Rai 5 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74554.m3u8
+#EXTINF:-1,Rai 5 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74553.m3u8
+#EXTINF:-1,Rai Gulp | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74552.m3u8
+#EXTINF:-1,Rai Gulp | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74551.m3u8
+#EXTINF:-1,Rai Movie | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74550.m3u8
+#EXTINF:-1,Rai Movie | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74549.m3u8
+#EXTINF:-1,Rai NEWS 24
+http://thenew.tv:8000/live/Domingo1/Domingo12/74548.m3u8
+#EXTINF:-1,Rai News 24 | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74547.m3u8
+#EXTINF:-1,Rai News 24 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74546.m3u8
+#EXTINF:-1,Rai Premium | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74545.m3u8
+#EXTINF:-1,Rai Premium | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74544.m3u8
+#EXTINF:-1,Rai Scuola | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74543.m3u8
+#EXTINF:-1,Rai Sport | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74542.m3u8
+#EXTINF:-1,Rai Sport | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74541.m3u8
 #EXTINF:-1,Rai Sport 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55851.m3u8
-#EXTINF:-1,RAI Sport 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55979.m3u8
-#EXTINF:-1,Rai Sport2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55852.m3u8
-#EXTINF:-1,Rai Storia HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55967.m3u8
-#EXTINF:-1,Rai Yoyo
-http://vipsecure.tk:8080/live/volkan4/4volkan/55896.m3u8
-#EXTINF:-1,Rai yoyo FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55969.m3u8
-#EXTINF:-1,Rai Yoyo HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55968.m3u8
-#EXTINF:-1,Rai1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55853.m3u8
-#EXTINF:-1,Rai2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55854.m3u8
-#EXTINF:-1,Rai3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55855.m3u8
-#EXTINF:-1,Rai4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55856.m3u8
-#EXTINF:-1,Rai5
-http://vipsecure.tk:8080/live/volkan4/4volkan/55857.m3u8
-#EXTINF:-1,Real Time
-http://vipsecure.tk:8080/live/volkan4/4volkan/55917.m3u8
-#EXTINF:-1,Rete4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55858.m3u8
-#EXTINF:-1,RSI La1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55859.m3u8
-#EXTINF:-1,RSI La2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55860.m3u8
-#EXTINF:-1,Sky 3D HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55950.m3u8
-#EXTINF:-1,Sky Calcio 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55897.m3u8
-#EXTINF:-1,Sky Calcio 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55898.m3u8
-#EXTINF:-1,Sky Calcio 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/55899.m3u8
-#EXTINF:-1,Sky Calcio 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/55900.m3u8
-#EXTINF:-1,Sky Calcio 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/55901.m3u8
-#EXTINF:-1,Sky Calcio 6
-http://vipsecure.tk:8080/live/volkan4/4volkan/55902.m3u8
-#EXTINF:-1,Sky Calcio 7
-http://vipsecure.tk:8080/live/volkan4/4volkan/55903.m3u8
-#EXTINF:-1,Sky Cinema  1 HD(1)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55861.m3u8
-#EXTINF:-1,Sky Cinema Classic HD(1)
-http://vipsecure.tk:8080/live/volkan4/4volkan/55862.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55863.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55864.m3u8
-#EXTINF:-1,Sky Cinema Max HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55865.m3u8
-#EXTINF:-1,Sky Cinema Passion HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55866.m3u8
-#EXTINF:-1,Sky Cinema1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55867.m3u8
-#EXTINF:-1,SKY CINEMA24 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55868.m3u8
-#EXTINF:-1,SKY F1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55869.m3u8
-#EXTINF:-1,Sky Fox Comedy HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55904.m3u8
-#EXTINF:-1,Sky Foxcrime HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55870.m3u8
-#EXTINF:-1,Sky Moto GP HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55871.m3u8
-#EXTINF:-1,SKY PRIMAFILA 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55949.m3u8
-#EXTINF:-1,SKY PRIMAFILA 10 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55941.m3u8
-#EXTINF:-1,SKY PRIMAFILA 11 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55940.m3u8
-#EXTINF:-1,SKY PRIMAFILA 12 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55939.m3u8
-#EXTINF:-1,SKY PRIMAFILA 13 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55938.m3u8
-#EXTINF:-1,SKY PRIMAFILA 14 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55937.m3u8
-#EXTINF:-1,SKY PRIMAFILA 15 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55936.m3u8
-#EXTINF:-1,SKY PRIMAFILA 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55948.m3u8
-#EXTINF:-1,SKY Primafila 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/55905.m3u8
-#EXTINF:-1,SKY PRIMAFILA 3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55947.m3u8
-#EXTINF:-1,SKY PRIMAFILA 4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55946.m3u8
-#EXTINF:-1,SKY PRIMAFILA 5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55945.m3u8
-#EXTINF:-1,Sky Primafila 6
-http://vipsecure.tk:8080/live/volkan4/4volkan/55906.m3u8
-#EXTINF:-1,SKY PRIMAFILA 6 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55944.m3u8
-#EXTINF:-1,Sky Primafila 7
-http://vipsecure.tk:8080/live/volkan4/4volkan/55907.m3u8
-#EXTINF:-1,SKY PRIMAFILA 7 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55943.m3u8
-#EXTINF:-1,Sky Primafila 8
-http://vipsecure.tk:8080/live/volkan4/4volkan/55908.m3u8
-#EXTINF:-1,SKY PRIMAFILA 9 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55942.m3u8
-#EXTINF:-1,Sky Sport 24 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55918.m3u8
-#EXTINF:-1,Sky Sport F1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55919.m3u8
-#EXTINF:-1,Sky Sport1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55920.m3u8
-#EXTINF:-1,Sky Sport2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55921.m3u8
-#EXTINF:-1,Sky Sport3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55922.m3u8
-#EXTINF:-1,SKY TG 24
-http://vipsecure.tk:8080/live/volkan4/4volkan/55909.m3u8
-#EXTINF:-1,Sky Uno HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55873.m3u8
-#EXTINF:-1,SPORT ITALIA
-http://vipsecure.tk:8080/live/volkan4/4volkan/55910.m3u8
-#EXTINF:-1,Supercalcio HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55911.m3u8
-#EXTINF:-1,Teleticino
-http://vipsecure.tk:8080/live/volkan4/4volkan/55934.m3u8
-#EXTINF:-1,TOP CRIME
-http://vipsecure.tk:8080/live/volkan4/4volkan/55935.m3u8
-#EXTINF:-1,Topolino Cip e Ciop Paperino
-http://vipsecure.tk:8080/live/volkan4/4volkan/55959.m3u8
-#EXTINF:-1,Trentino TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55958.m3u8
-#EXTINF:-1,TRM TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/55957.m3u8
-#EXTINF:-1,Tv Avicenza
-http://vipsecure.tk:8080/live/volkan4/4volkan/55956.m3u8
-#EXTINF:-1,TV8
-http://vipsecure.tk:8080/live/volkan4/4volkan/55955.m3u8
-#EXTINF:-1,TVRS
-http://vipsecure.tk:8080/live/volkan4/4volkan/55954.m3u8
-#EXTINF:-1,Video Brescia
-http://vipsecure.tk:8080/live/volkan4/4volkan/55953.m3u8
-#EXTINF:-1,Video Italia FHD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55952.m3u8
-#EXTINF:-1,Vitalia3
-http://vipsecure.tk:8080/live/volkan4/4volkan/55951.m3u8
-#EXTINF:-1,CARTOON  NETWORK
-http://vipsecure.tk:8080/live/volkan4/4volkan/55912.m3u8
-#EXTINF:-1,Discovery Focus
-http://vipsecure.tk:8080/live/volkan4/4volkan/55913.m3u8
-#EXTINF:-1,SKY Cinema 3D
-http://vipsecure.tk:8080/live/volkan4/4volkan/55923.m3u8
-#EXTINF:-1,SKY Primafila 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/55924.m3u8
-#EXTINF:-1,Sky Primafila 10
-http://vipsecure.tk:8080/live/volkan4/4volkan/55925.m3u8
-#EXTINF:-1,Sky Primafila 12
-http://vipsecure.tk:8080/live/volkan4/4volkan/55926.m3u8
-#EXTINF:-1,Sky Primafila 13
-http://vipsecure.tk:8080/live/volkan4/4volkan/55927.m3u8
-#EXTINF:-1,Sky Primafila 14
-http://vipsecure.tk:8080/live/volkan4/4volkan/55928.m3u8
-#EXTINF:-1,SKY Primafila 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/55929.m3u8
-#EXTINF:-1,Sky Primafila 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/55930.m3u8
-#EXTINF:-1,Sky Primafila 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/55931.m3u8
-#EXTINF:-1,Sky Primafila 9
-http://vipsecure.tk:8080/live/volkan4/4volkan/55932.m3u8
-#EXTINF:-1,Super Tennis
-http://vipsecure.tk:8080/live/volkan4/4volkan/55933.m3u8
+http://thenew.tv:8000/live/Domingo1/Domingo12/74540.m3u8
+#EXTINF:-1,Rai Sport 1 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74539.m3u8
+#EXTINF:-1,Rai Storia | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74538.m3u8
+#EXTINF:-1,Rai YoYo | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74537.m3u8
+#EXTINF:-1,Rai YoYo | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74536.m3u8
+#EXTINF:-1,Real Time | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74535.m3u8
+#EXTINF:-1,Rete 4 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74534.m3u8
+#EXTINF:-1,Roma Channel
+http://thenew.tv:8000/live/Domingo1/Domingo12/74533.m3u8
+#EXTINF:-1,RSI LA 1 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74532.m3u8
+#EXTINF:-1,RSI LA 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74531.m3u8
+#EXTINF:-1,RTL102.5TV
+http://thenew.tv:8000/live/Domingo1/Domingo12/74530.m3u8
+#EXTINF:-1,Sardegna Uno TV | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74529.m3u8
+#EXTINF:-1,Sky Arte | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74528.m3u8
+#EXTINF:-1,Sky Atlantic | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74527.m3u8
+#EXTINF:-1,Sky Atlantic | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74526.m3u8
+#EXTINF:-1,Sky Atlantic | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74525.m3u8
+#EXTINF:-1,Sky Calcio 1 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74524.m3u8
+#EXTINF:-1,Sky Calcio 1 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74523.m3u8
+#EXTINF:-1,Sky Calcio 2 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74522.m3u8
+#EXTINF:-1,Sky Calcio 2 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74521.m3u8
+#EXTINF:-1,Sky Calcio 3 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74520.m3u8
+#EXTINF:-1,Sky Calcio 3 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74519.m3u8
+#EXTINF:-1,Sky Calcio 4 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74518.m3u8
+#EXTINF:-1,Sky Calcio 4 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74517.m3u8
+#EXTINF:-1,Sky Calcio 5 | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74516.m3u8
+#EXTINF:-1,Sky Calcio 6 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74515.m3u8
+#EXTINF:-1,Sky Calcio 7 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74514.m3u8
+#EXTINF:-1,Sky Calcio 8 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74513.m3u8
+#EXTINF:-1,Sky Calcio 9 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74512.m3u8
+#EXTINF:-1,Sky Cinema Classics | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74511.m3u8
+#EXTINF:-1,Sky Cinema Comedy | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74510.m3u8
+#EXTINF:-1,Sky Cinema Family | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74509.m3u8
+#EXTINF:-1,Sky Cinema Hits | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74508.m3u8
+#EXTINF:-1,Sky Cinema Passion | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74507.m3u8
+#EXTINF:-1,Sky Formula 1 F| HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74506.m3u8
+#EXTINF:-1,Sky MTV | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74505.m3u8
+#EXTINF:-1,Sky TG 24
+http://thenew.tv:8000/live/Domingo1/Domingo12/74504.m3u8
+#EXTINF:-1,Sky TG 24 | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74503.m3u8
+#EXTINF:-1,Sky Uno | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74502.m3u8
+#EXTINF:-1,Sky Uno | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74501.m3u8
+#EXTINF:-1,Sky Uno | UHD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74500.m3u8
+#EXTINF:-1,Spike | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74499.m3u8
+#EXTINF:-1,Sport Italia | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74498.m3u8
+#EXTINF:-1,Sportalia
+http://thenew.tv:8000/live/Domingo1/Domingo12/74497.m3u8
+#EXTINF:-1,Super Tennis | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74496.m3u8
+#EXTINF:-1,Super! | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74495.m3u8
+#EXTINF:-1,SUPERTENNIS
+http://thenew.tv:8000/live/Domingo1/Domingo12/74494.m3u8
+#EXTINF:-1,Teen Titans TV | HD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74493.m3u8
+#EXTINF:-1,TG Norba 24
+http://thenew.tv:8000/live/Domingo1/Domingo12/74492.m3u8
+#EXTINF:-1,TGCOM24
+http://thenew.tv:8000/live/Domingo1/Domingo12/74491.m3u8
+#EXTINF:-1,TOP CALCIO 24
+http://thenew.tv:8000/live/Domingo1/Domingo12/74490.m3u8
+#EXTINF:-1,Top Crime | SD
+http://thenew.tv:8000/live/Domingo1/Domingo12/74489.m3u8
+#EXTINF:-1,Torino Channel
+http://thenew.tv:8000/live/Domingo1/Domingo12/74488.m3u8
