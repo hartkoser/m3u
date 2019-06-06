@@ -1,147 +1,55 @@
 #EXTM3U
-#EXTINF:-1,Rai1
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11183.m3u8
-#EXTINF:-1,Rai 2
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11206.m3u8
-#EXTINF:-1,Rai 3
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11205.m3u8
-#EXTINF:-1,Rai 4
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11204.m3u8
-#EXTINF:-1,Rai 5
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11203.m3u8
-#EXTINF:-1,Rai Gulp
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11202.m3u8
-#EXTINF:-1,Rai Movie
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11194.m3u8
-#EXTINF:-1,Rai Premium
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11207.m3u8
-#EXTINF:-1,Rai Sport
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11199.m3u8
-#EXTINF:-1,Rai Yoyo
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11201.m3u8
-#EXTINF:-1,Alice
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11198.m3u8
-#EXTINF:-1,Canale 5
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11135.m3u8
-#EXTINF:-1,Cielo
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11197.m3u8
-#EXTINF:-1,Fox.
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11191.m3u8
-#EXTINF:-1,Fox Comedy Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11192.m3u8
-#EXTINF:-1,Fox Crime Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11137.m3u8
-#EXTINF:-1,Fox Sport Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11167.m3u8
-#EXTINF:-1,Rete 4 Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11180.m3u8
-#EXTINF:-1,History
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11138.m3u8
-#EXTINF:-1,Italia1
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11200.m3u8
-#EXTINF:-1,La7
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11139.m3u8
-#EXTINF:-1,Mediasat Extra
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11181.m3u8
-#EXTINF:-1,Mediaset Iris
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11140.m3u8
-#EXTINF:-1,Mediaset Top Crime
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11141.m3u8
-#EXTINF:-1,Sky Uno
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11195.m3u8
-#EXTINF:-1,Sky Cinema 1hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11182.m3u8
-#EXTINF:-1,Sky Cinema Family Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11196.m3u8
-#EXTINF:-1,Sky Cinema Hits
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11184.m3u8
-#EXTINF:-1,Sky Cinema Max
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11190.m3u8
-#EXTINF:-1,Premium Action
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11189.m3u8
-#EXTINF:-1,Premium Cinema 24
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11187.m3u8
-#EXTINF:-1,Premium Cinema Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11193.m3u8
-#EXTINF:-1,Premium Cinema2 Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11188.m3u8
-#EXTINF:-1,Premium Crime Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11186.m3u8
-#EXTINF:-1,Premium Emotion
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11178.m3u8
-#EXTINF:-1,Premium Studio Universal
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11177.m3u8
-#EXTINF:-1,Premium Crime24
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11179.m3u8
-#EXTINF:-1,Premium Disney Junior
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11165.m3u8
-#EXTINF:-1,Premium Energy
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11185.m3u8
-#EXTINF:-1,Skyprimafila1
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11161.m3u8
-#EXTINF:-1,Skyprimafila10
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11152.m3u8
-#EXTINF:-1,Skyprimafila2
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11160.m3u8
-#EXTINF:-1,Skyprimafila3
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11159.m3u8
-#EXTINF:-1,Skyprimafila4
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11158.m3u8
-#EXTINF:-1,Skyprimafila5
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11157.m3u8
-#EXTINF:-1,Skyprimafila6
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11156.m3u8
-#EXTINF:-1,Skyprimafila7
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11155.m3u8
-#EXTINF:-1,Skyprimafila8
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11154.m3u8
-#EXTINF:-1,Skyprimafila9
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11153.m3u8
-#EXTINF:-1,Skysupercalcio
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11151.m3u8
-#EXTINF:-1,Skytg24
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11164.m3u8
-#EXTINF:-1,Animalplanet
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11175.m3u8
-#EXTINF:-1,Cartoonito
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11162.m3u8
-#EXTINF:-1,Discovery Channel Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11136.m3u8
-#EXTINF:-1,Discoverysci Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11174.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11176.m3u8
-#EXTINF:-1,National Geo Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11142.m3u8
-#EXTINF:-1,Super Tennis
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11168.m3u8
-#EXTINF:-1,Premiumeurosport1
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11144.m3u8
-#EXTINF:-1,Premiumeurosport2
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11143.m3u8
-#EXTINF:-1,Premium Sport
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11166.m3u8
-#EXTINF:-1,Premium Calcio 1 Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11173.m3u8
-#EXTINF:-1,Premium Calcio 2 Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11163.m3u8
-#EXTINF:-1,Sky Sport 1 Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11172.m3u8
-#EXTINF:-1,Sky Sport 2 Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11171.m3u8
-#EXTINF:-1,Sky Sport 3 Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11170.m3u8
-#EXTINF:-1,Sky Sport F1 Hd
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11169.m3u8
-#EXTINF:-1,Sky Calcio 1
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11150.m3u8
-#EXTINF:-1,Sky Calcio 5
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11146.m3u8
-#EXTINF:-1,Skycalcio2
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11149.m3u8
-#EXTINF:-1,Skycalcio3
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11148.m3u8
-#EXTINF:-1,Skycalcio4
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11147.m3u8
-#EXTINF:-1,Skycalcio6
-http://force102.com:8080/live/BmleLlYwDm/XkJ1zDy9B8/11145.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207392.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207448.m3u8
+#EXTINF:-1,Discovery Channel FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207489.m3u8
+#EXTINF:-1,Energy HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207493.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207595.m3u8
+#EXTINF:-1,History Channel HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207599.m3u8
+#EXTINF:-1,MotoGP HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207600.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207475.m3u8
+#EXTINF:-1,Premium Cinema Action HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207478.m3u8
+#EXTINF:-1,Premium Cinema Comedy HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207480.m3u8
+#EXTINF:-1,Premium Cinema Emotion HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207481.m3u8
+#EXTINF:-1,Premium Cinema Energy HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207482.m3u8
+#EXTINF:-1,PREMIUM CINEMA STORIES
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207487.m3u8
+#EXTINF:-1,Premium Crime FHD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207488.m3u8
+#EXTINF:-1,PrimaFila 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207495.m3u8
+#EXTINF:-1,PrimaFila 2 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207505.m3u8
+#EXTINF:-1,PrimaFila 3 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207506.m3u8
+#EXTINF:-1,PrimaFila 4 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207507.m3u8
+#EXTINF:-1,PrimaFila 5 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207508.m3u8
+#EXTINF:-1,Rai MOVIE HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207573.m3u8
+#EXTINF:-1,Rai Premium HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207577.m3u8
+#EXTINF:-1,SKY CINEMA Action HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207587.m3u8
+#EXTINF:-1,Sky Cinema Atlantic 1 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207580.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207582.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207585.m3u8
+#EXTINF:-1,Sky Cinema Romance HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207588.m3u8
+#EXTINF:-1,SKY CINEMA UNO +24 HD
+http://dibo.live:8080/live/r2P3VCfI39/JW0WDKyEzr/207579.m3u8
