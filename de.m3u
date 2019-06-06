@@ -1,575 +1,97 @@
 #EXTM3U
-#EXTINF:-1,arte HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8679.m3u8
-#EXTINF:-1,Sat.1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8724.m3u8
-#EXTINF:-1,Sat.1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8783.m3u8
-#EXTINF:-1,SAT.1 Gold HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8723.m3u8
-#EXTINF:-1,Rtl HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8782.m3u8
-#EXTINF:-1,RTL HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8719.m3u8
-#EXTINF:-1,Rtl 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8781.m3u8
-#EXTINF:-1,RTL 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8717.m3u8
-#EXTINF:-1,RTL Crime HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8718.m3u8
-#EXTINF:-1,RTL Nitro HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8720.m3u8
-#EXTINF:-1,RTL Passion
-http://vipsecure.tk:8080/live/volkan4/4volkan/8721.m3u8
-#EXTINF:-1,RTLplus
-http://vipsecure.tk:8080/live/volkan4/4volkan/8722.m3u8
-#EXTINF:-1,Super Rtl HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8785.m3u8
-#EXTINF:-1,Super RTL HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8759.m3u8
-#EXTINF:-1,ProSieben HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8780.m3u8
-#EXTINF:-1,ProSieben HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8714.m3u8
-#EXTINF:-1,ProSieben MAXX
-http://vipsecure.tk:8080/live/volkan4/4volkan/8715.m3u8
-#EXTINF:-1,ZDF HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8773.m3u8
-#EXTINF:-1,Zdf HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8788.m3u8
-#EXTINF:-1,ZDFneo
-http://vipsecure.tk:8080/live/volkan4/4volkan/8774.m3u8
-#EXTINF:-1,Zee One
-http://vipsecure.tk:8080/live/volkan4/4volkan/8775.m3u8
-#EXTINF:-1,Zee One
-http://vipsecure.tk:8080/live/volkan4/4volkan/8789.m3u8
-#EXTINF:-1,VOX HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8769.m3u8
-#EXTINF:-1,Vox HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8787.m3u8
-#EXTINF:-1,ARD-Alpha
-http://vipsecure.tk:8080/live/volkan4/4volkan/8678.m3u8
-#EXTINF:-1,Das Erste HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8683.m3u8
-#EXTINF:-1,Welt (N24 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8771.m3u8
-#EXTINF:-1,Das Erste
-http://vipsecure.tk:8080/live/volkan4/4volkan/8777.m3u8
-#EXTINF:-1,Kabel Eins HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8778.m3u8
-#EXTINF:-1,N24 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8779.m3u8
-#EXTINF:-1,ONE HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8712.m3u8
-#EXTINF:-1,WDR  HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8770.m3u8
-#EXTINF:-1,NDR HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8709.m3u8
-#EXTINF:-1,Kinowelt TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/8674.m3u8
-#EXTINF:-1,13th Street HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8675.m3u8
-#EXTINF:-1,3sat HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8676.m3u8
+#EXTINF:-1,Tlc
+http://red-apk.com:8080/live/arnixfree/120718/1430.m3u8
+#EXTINF:-1,Kika
+http://red-apk.com:8080/live/arnixfree/120718/1429.m3u8
+#EXTINF:-1,Pro7 Maxx / Prosiebensat.1
+http://red-apk.com:8080/live/arnixfree/120718/1506.m3u8
+#EXTINF:-1,Pro7
+http://red-apk.com:8080/live/arnixfree/120718/1507.m3u8
+#EXTINF:-1,Rtl Living
+http://red-apk.com:8080/live/arnixfree/120718/1508.m3u8
+#EXTINF:-1,Rtl Television
+http://red-apk.com:8080/live/arnixfree/120718/1420.m3u8
+#EXTINF:-1,Rtlii Hd
+http://red-apk.com:8080/live/arnixfree/120718/1427.m3u8
+#EXTINF:-1,Rtl Crime / Sky
+http://red-apk.com:8080/live/arnixfree/120718/1509.m3u8
+#EXTINF:-1,Rtl Hd / Cbc
+http://red-apk.com:8080/live/arnixfree/120718/1513.m3u8
+#EXTINF:-1,Rtl2/cbc
+http://red-apk.com:8080/live/arnixfree/120718/1512.m3u8
+#EXTINF:-1,Rtl Nitro/cbc
+http://red-apk.com:8080/live/arnixfree/120718/1511.m3u8
+#EXTINF:-1,Rtlplus
+http://red-apk.com:8080/live/arnixfree/120718/4667.m3u8
+#EXTINF:-1,Rtl Passion / Sky
+http://red-apk.com:8080/live/arnixfree/120718/2626.m3u8
+#EXTINF:-1,Super Rtl
+http://red-apk.com:8080/live/arnixfree/120718/1419.m3u8
+#EXTINF:-1,Sat.1 Gold
+http://red-apk.com:8080/live/arnixfree/120718/4664.m3u8
+#EXTINF:-1,N 24
+http://red-apk.com:8080/live/arnixfree/120718/1411.m3u8
+#EXTINF:-1,13street
+http://red-apk.com:8080/live/arnixfree/120718/1402.m3u8
+#EXTINF:-1,Orf1
+http://red-apk.com:8080/live/arnixfree/120718/1421.m3u8
+#EXTINF:-1,Ard Hd
+http://red-apk.com:8080/live/arnixfree/120718/6324.m3u8
+#EXTINF:-1,Vox Hd
+http://red-apk.com:8080/live/arnixfree/120718/1423.m3u8
+#EXTINF:-1,Zdf
+http://red-apk.com:8080/live/arnixfree/120718/1422.m3u8
+#EXTINF:-1,Zdf Info
+http://red-apk.com:8080/live/arnixfree/120718/1473.m3u8
+#EXTINF:-1,Prosieben / Prosiebensat.1
+http://red-apk.com:8080/live/arnixfree/120718/1409.m3u8
+#EXTINF:-1,Ndr Hd
+http://red-apk.com:8080/live/arnixfree/120718/1477.m3u8
+#EXTINF:-1,Fox Hd
+http://red-apk.com:8080/live/arnixfree/120718/1522.m3u8
 #EXTINF:-1,Fox Serie
-http://vipsecure.tk:8080/live/volkan4/4volkan/8697.m3u8
-#EXTINF:-1,ROMANCE TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/8716.m3u8
-#EXTINF:-1,Sixx HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8725.m3u8
-#EXTINF:-1,KABEL 1 DOKU HD 720p
-http://vipsecure.tk:8080/live/volkan4/4volkan/8955.m3u8
-#EXTINF:-1,KABEL 1 DOKU
-http://vipsecure.tk:8080/live/volkan4/4volkan/9430.m3u8
-#EXTINF:-1,Anixe HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8677.m3u8
-#EXTINF:-1,Baden-Tv
-http://vipsecure.tk:8080/live/volkan4/4volkan/8680.m3u8
-#EXTINF:-1,Boomerang
-http://vipsecure.tk:8080/live/volkan4/4volkan/8681.m3u8
-#EXTINF:-1,Cartoon Network
-http://vipsecure.tk:8080/live/volkan4/4volkan/8682.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8684.m3u8
+http://red-apk.com:8080/live/arnixfree/120718/4670.m3u8
+#EXTINF:-1,Axn
+http://red-apk.com:8080/live/arnixfree/120718/1523.m3u8
+#EXTINF:-1,Sat1 Hd
+http://red-apk.com:8080/live/arnixfree/120718/1510.m3u8
+#EXTINF:-1,Srf1
+http://red-apk.com:8080/live/arnixfree/120718/1472.m3u8
+#EXTINF:-1,Romance
+http://red-apk.com:8080/live/arnixfree/120718/1475.m3u8
+#EXTINF:-1,Zdf Neo/zdfvision
+http://red-apk.com:8080/live/arnixfree/120718/1476.m3u8
+#EXTINF:-1,Wdrhd
+http://red-apk.com:8080/live/arnixfree/120718/1480.m3u8
+#EXTINF:-1,Orf2
+http://red-apk.com:8080/live/arnixfree/120718/1517.m3u8
+#EXTINF:-1,D Max Hd
+http://red-apk.com:8080/live/arnixfree/120718/1518.m3u8
+#EXTINF:-1,History Channel Hd
+http://red-apk.com:8080/live/arnixfree/120718/1497.m3u8
 #EXTINF:-1,Disney Channel
-http://vipsecure.tk:8080/live/volkan4/4volkan/8685.m3u8
-#EXTINF:-1,Disney Cinemagic HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8686.m3u8
-#EXTINF:-1,Disney Junior
-http://vipsecure.tk:8080/live/volkan4/4volkan/8687.m3u8
-#EXTINF:-1,Disney XD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8688.m3u8
-#EXTINF:-1,DMAX
-http://vipsecure.tk:8080/live/volkan4/4volkan/8689.m3u8
-#EXTINF:-1,DRF 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/8690.m3u8
-#EXTINF:-1,E! Entertainm. HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8691.m3u8
-#EXTINF:-1,Family TV HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8696.m3u8
-#EXTINF:-1,Heimatkanal
-http://vipsecure.tk:8080/live/volkan4/4volkan/8698.m3u8
-#EXTINF:-1,History HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8699.m3u8
-#EXTINF:-1,HR
-http://vipsecure.tk:8080/live/volkan4/4volkan/8700.m3u8
-#EXTINF:-1,Jukebox
-http://vipsecure.tk:8080/live/volkan4/4volkan/8701.m3u8
-#EXTINF:-1,Junior
-http://vipsecure.tk:8080/live/volkan4/4volkan/8702.m3u8
-#EXTINF:-1,Kabel eins HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8703.m3u8
-#EXTINF:-1,KIKA HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8704.m3u8
-#EXTINF:-1,MTV HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8705.m3u8
-#EXTINF:-1,n-tv HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8706.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8707.m3u8
-#EXTINF:-1,National Geographic HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8708.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8710.m3u8
-#EXTINF:-1,NRJ TV
-http://vipsecure.tk:8080/live/volkan4/4volkan/8711.m3u8
-#EXTINF:-1,Phoenix HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8713.m3u8
-#EXTINF:-1,SR HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8758.m3u8
-#EXTINF:-1,SWR BW HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8760.m3u8
-#EXTINF:-1,SYFY HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8761.m3u8
-#EXTINF:-1,Tele 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/8762.m3u8
-#EXTINF:-1,TLC
-http://vipsecure.tk:8080/live/volkan4/4volkan/8763.m3u8
-#EXTINF:-1,TNT Comedy HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8764.m3u8
-#EXTINF:-1,TNT Film (TCM)
-http://vipsecure.tk:8080/live/volkan4/4volkan/8765.m3u8
-#EXTINF:-1,TNT Serie HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8766.m3u8
-#EXTINF:-1,Universal HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8767.m3u8
-#EXTINF:-1,Spiegel Geschichte
-http://vipsecure.tk:8080/live/volkan4/4volkan/8755.m3u8
-#EXTINF:-1,VIVA HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8768.m3u8
-#EXTINF:-1,XITE HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8772.m3u8
-#EXTINF:-1,ANIXE SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8776.m3u8
-#EXTINF:-1,Sixx HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8784.m3u8
-#EXTINF:-1,ZDF Info HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/55066.m3u8
-#EXTINF:-1,ZDF info
-http://vipsecure.tk:8080/live/volkan4/4volkan/55065.m3u8
-#EXTINF:-1,TLC HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8786.m3u8
-#EXTINF:-1,TD BIR
-http://vipsecure.tk:8080/live/volkan4/4volkan/9516.m3u8
-#EXTINF:-1,Sky Select Live 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/8791.m3u8
-#EXTINF:-1,Sky Select Live 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/8792.m3u8
-#EXTINF:-1,Sky Select Live 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/8793.m3u8
-#EXTINF:-1,Sky Select Live 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/8794.m3u8
-#EXTINF:-1,Sky Select Live 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/8795.m3u8
-#EXTINF:-1,Sky Select Live 6
-http://vipsecure.tk:8080/live/volkan4/4volkan/8796.m3u8
-#EXTINF:-1,Sky Select Live 7
-http://vipsecure.tk:8080/live/volkan4/4volkan/8797.m3u8
-#EXTINF:-1,Sky Select Live 8
-http://vipsecure.tk:8080/live/volkan4/4volkan/8798.m3u8
-#EXTINF:-1,Sky Arts HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8726.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8727.m3u8
-#EXTINF:-1,Sky Cinema   24
-http://vipsecure.tk:8080/live/volkan4/4volkan/8729.m3u8
-#EXTINF:-1,Sky Cinema  1
-http://vipsecure.tk:8080/live/volkan4/4volkan/8728.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8730.m3u8
-#EXTINF:-1,Sky Cinema Comedy
-http://vipsecure.tk:8080/live/volkan4/4volkan/8731.m3u8
-#EXTINF:-1,Sky Cinema Emotion
-http://vipsecure.tk:8080/live/volkan4/4volkan/8732.m3u8
-#EXTINF:-1,Sky cinema Family
-http://vipsecure.tk:8080/live/volkan4/4volkan/8733.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8734.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8735.m3u8
-#EXTINF:-1,Sky Cinema Nostalgie
-http://vipsecure.tk:8080/live/volkan4/4volkan/8736.m3u8
-#EXTINF:-1,Sky Krimi
-http://vipsecure.tk:8080/live/volkan4/4volkan/8737.m3u8
-#EXTINF:-1,Sky Cinema  1 SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12330.m3u8
-#EXTINF:-1,Sky Cinema  24 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12322.m3u8
-#EXTINF:-1,Sky Cinema  24 SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12329.m3u8
-#EXTINF:-1,Sky Cinema Action HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12318.m3u8
-#EXTINF:-1,Sky Cinema Action SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12325.m3u8
-#EXTINF:-1,Sky Cinema Comedy HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12319.m3u8
-#EXTINF:-1,Sky Cinema Comedy SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12326.m3u8
-#EXTINF:-1,Sky Cinema Emotion HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12317.m3u8
-#EXTINF:-1,Sky Cinema Emotion SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12324.m3u8
-#EXTINF:-1,Sky Cinema Family HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12320.m3u8
-#EXTINF:-1,Sky Cinema Family SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12327.m3u8
-#EXTINF:-1,Sky Cinema HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12323.m3u8
-#EXTINF:-1,Sky Cinema Hits HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12321.m3u8
-#EXTINF:-1,Sky Cinema Hits SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12328.m3u8
-#EXTINF:-1,Sky Cinema SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12331.m3u8
-#EXTINF:-1,Film Club 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12336.m3u8
-#EXTINF:-1,Film Club 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12335.m3u8
-#EXTINF:-1,Film Club 3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12334.m3u8
-#EXTINF:-1,Film Club 4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12333.m3u8
-#EXTINF:-1,Film Club 5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/12332.m3u8
-#EXTINF:-1,Sky Select FHD 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/12349.m3u8
-#EXTINF:-1,Sky Select FHD 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/12348.m3u8
-#EXTINF:-1,Sky Select FHD 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/12347.m3u8
-#EXTINF:-1,Sky Select FHD 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/12346.m3u8
-#EXTINF:-1,Sky Select FHD 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/12345.m3u8
-#EXTINF:-1,Sky Select FHD 6
-http://vipsecure.tk:8080/live/volkan4/4volkan/12344.m3u8
-#EXTINF:-1,Sky Select FHD 7
-http://vipsecure.tk:8080/live/volkan4/4volkan/12343.m3u8
-#EXTINF:-1,Sky Select FHD 8
-http://vipsecure.tk:8080/live/volkan4/4volkan/12342.m3u8
-#EXTINF:-1,DAZN 1 Bar FHD local
-http://vipsecure.tk:8080/live/volkan4/4volkan/12261.m3u8
-#EXTINF:-1,DAZN 2 Bar FHD local
-http://vipsecure.tk:8080/live/volkan4/4volkan/12262.m3u8
-#EXTINF:-1,EuroNews
-http://vipsecure.tk:8080/live/volkan4/4volkan/8692.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8693.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8694.m3u8
-#EXTINF:-1,Eurosport 2 HD Xtra
-http://vipsecure.tk:8080/live/volkan4/4volkan/8695.m3u8
-#EXTINF:-1,Sky Sport 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/8738.m3u8
-#EXTINF:-1,Sky Sport 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/8739.m3u8
-#EXTINF:-1,Sky Sport 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/8740.m3u8
-#EXTINF:-1,Sky Sport 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/8741.m3u8
-#EXTINF:-1,Sky Sport 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/8742.m3u8
-#EXTINF:-1,Sky Sport 6
-http://vipsecure.tk:8080/live/volkan4/4volkan/8743.m3u8
-#EXTINF:-1,Sky Sport 7
-http://vipsecure.tk:8080/live/volkan4/4volkan/8744.m3u8
-#EXTINF:-1,Sky Sport Austria
-http://vipsecure.tk:8080/live/volkan4/4volkan/8745.m3u8
-#EXTINF:-1,Sky Sport Austria HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8746.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/8747.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/8748.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/8749.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/8750.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/8751.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 6
-http://vipsecure.tk:8080/live/volkan4/4volkan/8752.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 7
-http://vipsecure.tk:8080/live/volkan4/4volkan/8753.m3u8
-#EXTINF:-1,Sky Sport News HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8754.m3u8
-#EXTINF:-1,Sport 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/8756.m3u8
-#EXTINF:-1,Sport1  HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/8757.m3u8
-#EXTINF:-1,Auto Motor Sport HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13643.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13641.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13640.m3u8
-#EXTINF:-1,Eurosport 2 HD XTRA
-http://vipsecure.tk:8080/live/volkan4/4volkan/13639.m3u8
-#EXTINF:-1,FC BAYERN TV HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13644.m3u8
-#EXTINF:-1,Motorvision HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13642.m3u8
-#EXTINF:-1,ORF Sport  HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13633.m3u8
-#EXTINF:-1,Sky Sport 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/13661.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13671.m3u8
-#EXTINF:-1,Sky Sport 10 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13662.m3u8
-#EXTINF:-1,Sky Sport 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/13660.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13670.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13669.m3u8
-#EXTINF:-1,Sky Sport 4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13668.m3u8
-#EXTINF:-1,Sky Sport 5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13667.m3u8
-#EXTINF:-1,Sky Sport 6 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13666.m3u8
-#EXTINF:-1,Sky Sport 7 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13665.m3u8
-#EXTINF:-1,Sky Sport 8 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13664.m3u8
-#EXTINF:-1,Sky Sport 9 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13663.m3u8
-#EXTINF:-1,Sky Sport Austria HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13672.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13659.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 1 SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13649.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 10 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13650.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13658.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 2 SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13648.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13657.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 3 SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13647.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13656.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 4 SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13646.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13655.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 5 SD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13645.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 6 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13654.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 7 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13653.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 8 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13652.m3u8
-#EXTINF:-1,Sky Sport Bundesliga 9 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13651.m3u8
-#EXTINF:-1,Sky Sport News HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13673.m3u8
-#EXTINF:-1,SPORT 1  HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13635.m3u8
-#EXTINF:-1,SPORT 1 US HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13634.m3u8
-#EXTINF:-1,SPORT1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13636.m3u8
-#EXTINF:-1,Sportdigital HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13637.m3u8
-#EXTINF:-1,UPC My Sports HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/13638.m3u8
-#EXTINF:-1,VIP Sky Sport 1 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42625.m3u8
-#EXTINF:-1,VIP Sky Sport 10 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42624.m3u8
-#EXTINF:-1,VIP Sky Sport 11 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42623.m3u8
-#EXTINF:-1,VIP Sky Sport 2 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42622.m3u8
-#EXTINF:-1,VIP Sky Sport 3 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42621.m3u8
-#EXTINF:-1,VIP Sky Sport 4 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42620.m3u8
-#EXTINF:-1,VIP Sky Sport 5 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42619.m3u8
-#EXTINF:-1,VIP Sky Sport 6 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42618.m3u8
-#EXTINF:-1,VIP Sky Sport 7 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42617.m3u8
-#EXTINF:-1,VIP Sky Sport 8 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42616.m3u8
-#EXTINF:-1,VIP Sky Sport 9 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42615.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 1 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42613.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 10 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42612.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 2 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42611.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 3 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42610.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 4 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42609.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 5 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42608.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 6 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42607.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 7 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42606.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 8 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42605.m3u8
-#EXTINF:-1,VIP Sky Sport Bundesliga 9 HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42604.m3u8
-#EXTINF:-1,VIP Sky Sport News HD (1080P)
-http://vipsecure.tk:8080/live/volkan4/4volkan/42614.m3u8
-#EXTINF:-1,Sky Select Live 01
-http://vipsecure.tk:8080/live/volkan4/4volkan/41798.m3u8
-#EXTINF:-1,Sky Select Live 02
-http://vipsecure.tk:8080/live/volkan4/4volkan/41802.m3u8
-#EXTINF:-1,Sky Select Live 03
-http://vipsecure.tk:8080/live/volkan4/4volkan/41803.m3u8
-#EXTINF:-1,Sky Select Live 04
-http://vipsecure.tk:8080/live/volkan4/4volkan/41804.m3u8
-#EXTINF:-1,Sky Select Live 05
-http://vipsecure.tk:8080/live/volkan4/4volkan/41805.m3u8
-#EXTINF:-1,Sky Select Live 06
-http://vipsecure.tk:8080/live/volkan4/4volkan/41806.m3u8
-#EXTINF:-1,Sky Select Live 07
-http://vipsecure.tk:8080/live/volkan4/4volkan/41807.m3u8
-#EXTINF:-1,Sky Select Live 08
-http://vipsecure.tk:8080/live/volkan4/4volkan/41808.m3u8
-#EXTINF:-1,Sky Select 1
-http://vipsecure.tk:8080/live/volkan4/4volkan/38264.m3u8
-#EXTINF:-1,Sky Select 2
-http://vipsecure.tk:8080/live/volkan4/4volkan/38263.m3u8
-#EXTINF:-1,Sky Select 3
-http://vipsecure.tk:8080/live/volkan4/4volkan/38262.m3u8
-#EXTINF:-1,Sky Select 4
-http://vipsecure.tk:8080/live/volkan4/4volkan/38261.m3u8
-#EXTINF:-1,Sky Select 5
-http://vipsecure.tk:8080/live/volkan4/4volkan/38260.m3u8
-#EXTINF:-1,Sky Select 6
-http://vipsecure.tk:8080/live/volkan4/4volkan/38259.m3u8
-#EXTINF:-1,Sky Select 7
-http://vipsecure.tk:8080/live/volkan4/4volkan/38258.m3u8
-#EXTINF:-1,Sky Select 8
-http://vipsecure.tk:8080/live/volkan4/4volkan/38257.m3u8
-#EXTINF:-1,Sky Bundesliga 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25381.m3u8
-#EXTINF:-1,Sky Bundesliga 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25380.m3u8
-#EXTINF:-1,Sky Bundesliga 3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25379.m3u8
-#EXTINF:-1,Sky Bundesliga 4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25378.m3u8
-#EXTINF:-1,Sky Bundesliga 5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25377.m3u8
-#EXTINF:-1,Sky Bundesliga 6 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25376.m3u8
-#EXTINF:-1,Sky Bundesliga 7 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25375.m3u8
-#EXTINF:-1,Sky Bundesliga 8 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25374.m3u8
-#EXTINF:-1,Sky Sport 1 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25391.m3u8
-#EXTINF:-1,Sky Sport 10 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25382.m3u8
-#EXTINF:-1,Sky Sport 2 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25390.m3u8
-#EXTINF:-1,Sky Sport 3 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25389.m3u8
-#EXTINF:-1,Sky Sport 4 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25388.m3u8
-#EXTINF:-1,Sky Sport 5 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25387.m3u8
-#EXTINF:-1,Sky Sport 6 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25386.m3u8
-#EXTINF:-1,Sky Sport 7 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25385.m3u8
-#EXTINF:-1,Sky Sport 8 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25384.m3u8
-#EXTINF:-1,Sky Sport 9 HD
-http://vipsecure.tk:8080/live/volkan4/4volkan/25383.m3u8vsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18777.m3u8
-#EXTINF:-1,Dmax
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7417.m3u8
-#EXTINF:-1,TLC
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7427.m3u8
-#EXTINF:-1,13th Street HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15572.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15584.m3u8
-#EXTINF:-1,Deluxe Music HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7134.m3u8
-#EXTINF:-1,Classica Deutschland
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7135.m3u8
-#EXTINF:-1,Jukebox
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15343.m3u8
-#EXTINF:-1,Junior
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/13018.m3u8
-#EXTINF:-1,Disney XD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7453.m3u8
-#EXTINF:-1,Disney Junior
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7175.m3u8
-#EXTINF:-1,Disney Cinemagic
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7133.m3u8
-#EXTINF:-1,Disney Junior HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18778.m3u8
-#EXTINF:-1,Disney Channel HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18779.m3u8
-#EXTINF:-1,Disney Channel
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/7173.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18769.m3u8
-#EXTINF:-1,Toggo Plus
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15345.m3u8
-#EXTINF:-1,Boomerang
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15351.m3u8
-#EXTINF:-1,Cartoon Network
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15356.m3u8
-#EXTINF:-1,Disney Cinemagic HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/15571.m3u8
-#EXTINF:-1,123 TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18783.m3u8
-#EXTINF:-1,DW
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18776.m3u8
-#EXTINF:-1,EWTN
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18774.m3u8
-#EXTINF:-1,Genius Plus
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18773.m3u8
-#EXTINF:-1,Nitro
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18768.m3u8
-#EXTINF:-1,Nitro HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18767.m3u8
-#EXTINF:-1,NTV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18766.m3u8
-#EXTINF:-1,One
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18765.m3u8
-#EXTINF:-1,SIXX
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18755.m3u8
-#EXTINF:-1,Sophia TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18750.m3u8
-#EXTINF:-1,SPARHANDY TV
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18749.m3u8
-#EXTINF:-1,TELE 5 HD
-http://tv.iptvsensation.org:6500/live/sjRcie9Xz1/OYSn9sLs1q/18746.m3u8
+http://red-apk.com:8080/live/arnixfree/120718/1498.m3u8
+#EXTINF:-1,Tnt Serie Hd
+http://red-apk.com:8080/live/arnixfree/120718/1520.m3u8
+#EXTINF:-1,Arte / Ard
+http://red-apk.com:8080/live/arnixfree/120718/1516.m3u8
+#EXTINF:-1,Disney Junior / Sky
+http://red-apk.com:8080/live/arnixfree/120718/1501.m3u8
+#EXTINF:-1,Disney Xd
+http://red-apk.com:8080/live/arnixfree/120718/1502.m3u8
+#EXTINF:-1,Nick Jr
+http://red-apk.com:8080/live/arnixfree/120718/1504.m3u8
+#EXTINF:-1,Syfy
+http://red-apk.com:8080/live/arnixfree/120718/1521.m3u8
+#EXTINF:-1,Wdr
+http://red-apk.com:8080/live/arnixfree/120718/1505.m3u8
+#EXTINF:-1,Sixx
+http://red-apk.com:8080/live/arnixfree/120718/1519.m3u8
+#EXTINF:-1,Heimat Kanal
+http://red-apk.com:8080/live/arnixfree/120718/2631.m3u8
+#EXTINF:-1,Disney Cinemagic / Sky
+http://red-apk.com:8080/live/arnixfree/120718/2632.m3u8
+#EXTINF:-1,Discovery Channel Hd
+http://red-apk.com:8080/live/arnixfree/120718/6278.m3u8
+#EXTINF:-1,National Geographic
+http://red-apk.com:8080/live/arnixfree/120718/6279.m3u8
