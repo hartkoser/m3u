@@ -1,419 +1,181 @@
 #EXTM3U
-#EXTINF:-1,France 24
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/141688.m3u8
-#EXTINF:-1,MCM
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84250.m3u8
-#EXTINF:-1,MCM POP
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/197789.m3u8
-#EXTINF:-1,MCM TOP
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/109734.m3u8
-#EXTINF:-1,SPORT TV + FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84174.m3u8
-#EXTINF:-1,SPORT TV 1 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/198090.m3u8
-#EXTINF:-1,SPORT TV 2 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84209.m3u8
-#EXTINF:-1,SPORT TV 3 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/198094.m3u8
-#EXTINF:-1,SPORT TV 4 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65570.m3u8
-#EXTINF:-1,SPORT TV 5 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65569.m3u8
-#EXTINF:-1,TPA INTERNACIONAL
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/139832.m3u8
-#EXTINF:-1,TVE Internacional
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/156541.m3u8
-#EXTINF:-1,TVI REALITY CAMARA 2
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/85082.m3u8
-#EXTINF:-1,TVI REALITY MOSAICO
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/85085.m3u8
-#EXTINF:-1,1 Now TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210233.m3u8
-#EXTINF:-1,1+1
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210232.m3u8
-#EXTINF:-1,24 KITCHEN FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65589.m3u8
-#EXTINF:-1,A BOLA TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/156377.m3u8
-#EXTINF:-1,AFRO MUSIC
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/88151.m3u8
-#EXTINF:-1,ALJAZEERA
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210235.m3u8
-#EXTINF:-1,AMC FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/141663.m3u8
-#EXTINF:-1,ANGELUS TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210243.m3u8
-#EXTINF:-1,AR TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91654.m3u8
-#EXTINF:-1,ARTV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212645.m3u8
-#EXTINF:-1,AUTOMOTOTV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210315.m3u8
-#EXTINF:-1,AXN BLACK FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65649.m3u8
-#EXTINF:-1,AXN FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65638.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65640.m3u8
-#EXTINF:-1,Baby TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/87008.m3u8
-#EXTINF:-1,Barca TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/192620.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/169227.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91662.m3u8
-#EXTINF:-1,Benfica TV FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65585.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8876.m3u8
+#EXTINF:-1,A&E
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8875.m3u8
+#EXTINF:-1,ABOLA TV
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8874.m3u8
+#EXTINF:-1,Afro Music
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8873.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8872.m3u8
+#EXTINF:-1,AXN HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8871.m3u8
+#EXTINF:-1,AXN WHITE
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8870.m3u8
+#EXTINF:-1,Baby Tv
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8869.m3u8
 #EXTINF:-1,Biggs
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91642.m3u8
-#EXTINF:-1,Blaze
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65596.m3u8
-#EXTINF:-1,BLOOMBERG
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91666.m3u8
-#EXTINF:-1,BNT World
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210239.m3u8
-#EXTINF:-1,BTV FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/88976.m3u8
-#EXTINF:-1,BVN
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210240.m3u8
-#EXTINF:-1,CACA E PESCA HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/109723.m3u8
-#EXTINF:-1,CACAVISION
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/209248.m3u8
-#EXTINF:-1,CANAL 180
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91657.m3u8
-#EXTINF:-1,Canal Nova
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212647.m3u8
-#EXTINF:-1,CANAL Q
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/156381.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8868.m3u8
+#EXTINF:-1,BTV 1 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8867.m3u8
+#EXTINF:-1,Caca & Pesca
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8866.m3u8
+#EXTINF:-1,Canal Historia
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8865.m3u8
+#EXTINF:-1,CANAL PANDA
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8864.m3u8
 #EXTINF:-1,Cancao Nova
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/95008.m3u8
-#EXTINF:-1,CAPELA DE FATIMA
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/114296.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/141861.m3u8
-#EXTINF:-1,CAZA Y PESCA
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65602.m3u8
-#EXTINF:-1,Cazay e Pesca
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212646.m3u8
-#EXTINF:-1,CBS
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91660.m3u8
-#EXTINF:-1,CBS REALITY
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/156382.m3u8
-#EXTINF:-1,CCTV4
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210246.m3u8
-#EXTINF:-1,CGTN
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210247.m3u8
-#EXTINF:-1,CHELSEA TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210248.m3u8
-#EXTINF:-1,CINE MUNDO HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65643.m3u8
-#EXTINF:-1,CMTV FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/102317.m3u8
-#EXTINF:-1,CNBC
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210353.m3u8
-#EXTINF:-1,CNBC Europe
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212649.m3u8
-#EXTINF:-1,CNN
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/106942.m3u8
-#EXTINF:-1,Crime & Investigation
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/88981.m3u8
-#EXTINF:-1,Cubavision Internacional
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210252.m3u8
-#EXTINF:-1,Deutsche Welle
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/177010.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84181.m3u8
-#EXTINF:-1,Discovery SHOWCASE HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65604.m3u8
-#EXTINF:-1,Disney Channel HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118273.m3u8
-#EXTINF:-1,Disney Channel Wow
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212652.m3u8
-#EXTINF:-1,Disney JR
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/93188.m3u8
-#EXTINF:-1,DOG TV HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/207184.m3u8
-#EXTINF:-1,DW
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210256.m3u8
-#EXTINF:-1,E! HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84827.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/124300.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/133687.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/124721.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/127741.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/139862.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/127743.m3u8
-#EXTINF:-1,ENTERTAINMENT
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65601.m3u8
-#EXTINF:-1,Eurochannel
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212659.m3u8
-#EXTINF:-1,EURONEWS
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65588.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84177.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84216.m3u8
-#EXTINF:-1,EUROSPORT News
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84217.m3u8
-#EXTINF:-1,FASHION TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91646.m3u8
-#EXTINF:-1,Fight Box
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/101057.m3u8
-#EXTINF:-1,Fight Network HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/169032.m3u8
-#EXTINF:-1,FINE LIVING
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/93321.m3u8
-#EXTINF:-1,Food Network HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84813.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65645.m3u8
-#EXTINF:-1,FOX Crime FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118277.m3u8
-#EXTINF:-1,FOX FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/100841.m3u8
-#EXTINF:-1,FOX LIFE FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118278.m3u8
-#EXTINF:-1,Fox Movies HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/62342.m3u8
-#EXTINF:-1,FOX NEWS HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/88987.m3u8
-#EXTINF:-1,FTV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/106944.m3u8
-#EXTINF:-1,FUEL TV HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118279.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8863.m3u8
+#EXTINF:-1,Cartoon NetWork
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8862.m3u8
+#EXTINF:-1,CBS Reality
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8861.m3u8
+#EXTINF:-1,CINEMUNDO
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8860.m3u8
+#EXTINF:-1,CMTV
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8859.m3u8
+#EXTINF:-1,Discovery Channel
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8858.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8857.m3u8
+#EXTINF:-1,Disney Channel
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8856.m3u8
+#EXTINF:-1,E! Entertaunment
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8855.m3u8
+#EXTINF:-1,EUroNews
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8854.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8853.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8852.m3u8
+#EXTINF:-1,EuroSport 2 XTRA HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8851.m3u8
+#EXTINF:-1,EUROSPORT NEWS
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8850.m3u8
+#EXTINF:-1,FOX COMEDY
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8849.m3u8
+#EXTINF:-1,FOX Crime HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8848.m3u8
+#EXTINF:-1,FOX HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8847.m3u8
+#EXTINF:-1,Fox Life HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8846.m3u8
+#EXTINF:-1,FOX Movies
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8845.m3u8
+#EXTINF:-1,Fuel TV
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8844.m3u8
 #EXTINF:-1,FX
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/107711.m3u8
-#EXTINF:-1,Globo HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/87273.m3u8
-#EXTINF:-1,Globo Now HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/114285.m3u8
-#EXTINF:-1,HISTORIA HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84807.m3u8
-#EXTINF:-1,Hollywood FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118280.m3u8
-#EXTINF:-1,ICONCERTS HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/207183.m3u8
-#EXTINF:-1,INVESTIGATION Discovery FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210106.m3u8
-#EXTINF:-1,Jim Jam
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/157586.m3u8
-#EXTINF:-1,KITCHEN HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/107710.m3u8
-#EXTINF:-1,KOMBAT SPORTS HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65605.m3u8
-#EXTINF:-1,KURIAKOS KIDS
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210325.m3u8
-#EXTINF:-1,Kuriakos TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212667.m3u8
-#EXTINF:-1,LifeStyle TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65620.m3u8
-#EXTINF:-1,LOCALVISAO TV HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/115661.m3u8
-#EXTINF:-1,M6
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210266.m3u8
-#EXTINF:-1,MACAU TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91651.m3u8
-#EXTINF:-1,MCS EXTREME
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/198723.m3u8
-#EXTINF:-1,MCS LifeStyle
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84254.m3u8
-#EXTINF:-1,MEZZO HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91665.m3u8
-#EXTINF:-1,Motor vision
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212669.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8843.m3u8
+#EXTINF:-1,Globo
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8842.m3u8
+#EXTINF:-1,Globo Premium
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8841.m3u8
+#EXTINF:-1,Historia
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8840.m3u8
+#EXTINF:-1,Hollywood HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8839.m3u8
+#EXTINF:-1,MCM Pop
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8838.m3u8
 #EXTINF:-1,Motors TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65609.m3u8
-#EXTINF:-1,MOV HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65636.m3u8
-#EXTINF:-1,MTV HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65581.m3u8
-#EXTINF:-1,MTV Music
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210268.m3u8
-#EXTINF:-1,MVM
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210269.m3u8
-#EXTINF:-1,My cuisine
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/123325.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/84180.m3u8
-#EXTINF:-1,NAT GEO Wild HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65592.m3u8
-#EXTINF:-1,NBA FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65621.m3u8
-#EXTINF:-1,NFL NOW
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/88993.m3u8
-#EXTINF:-1,Nick Junior
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/106949.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8837.m3u8
+#EXTINF:-1,Motorvision
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8836.m3u8
+#EXTINF:-1,MOV
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8835.m3u8
+#EXTINF:-1,MTV Portugal
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8834.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8833.m3u8
+#EXTINF:-1,National Geographic HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8832.m3u8
 #EXTINF:-1,Nickelodeon
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65628.m3u8
-#EXTINF:-1,Nos
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/130339.m3u8
-#EXTINF:-1,NOW GLOBO
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/104587.m3u8
-#EXTINF:-1,Odisseia HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/139813.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91647.m3u8
-#EXTINF:-1,PANDA HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65590.m3u8
-#EXTINF:-1,PFC HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/64163.m3u8
-#EXTINF:-1,Phoenix CNE
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210274.m3u8
-#EXTINF:-1,Phoenix InfoNews
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210275.m3u8
-#EXTINF:-1,Playboy TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/177022.m3u8
-#EXTINF:-1,Plus TVI
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91945.m3u8
-#EXTINF:-1,PORTO CANAL HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/141702.m3u8
-#EXTINF:-1,Q CANAL
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65614.m3u8
-#EXTINF:-1,Rai News 24
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210276.m3u8
-#EXTINF:-1,Real Madrid TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212673.m3u8
-#EXTINF:-1,Record TV FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/88153.m3u8
-#EXTINF:-1,RT
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210280.m3u8
-#EXTINF:-1,RTL
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210281.m3u8
-#EXTINF:-1,RTP 1 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/94996.m3u8
-#EXTINF:-1,RTP 2 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65657.m3u8
-#EXTINF:-1,RTP 3 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65655.m3u8
-#EXTINF:-1,RTP ACORES
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65652.m3u8
-#EXTINF:-1,RTP AFRICA
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65651.m3u8
-#EXTINF:-1,RTP Alores
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212675.m3u8
-#EXTINF:-1,RTP frica
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212674.m3u8
-#EXTINF:-1,RTP International
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/88154.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8831.m3u8
+#EXTINF:-1,Odisseia
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8830.m3u8
+#EXTINF:-1,PFC
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8829.m3u8
+#EXTINF:-1,Porto Canal
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8828.m3u8
+#EXTINF:-1,Record News
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8827.m3u8
+#EXTINF:-1,RTP 1
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8826.m3u8
+#EXTINF:-1,RTP 2
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8825.m3u8
+#EXTINF:-1,RTP 3
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8824.m3u8
+#EXTINF:-1,RTP Acores
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8823.m3u8
+#EXTINF:-1,RTP Ãfrica
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8822.m3u8
 #EXTINF:-1,RTP Madeira
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65654.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8821.m3u8
 #EXTINF:-1,RTP Memoria
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65653.m3u8
-#EXTINF:-1,RTR Planeta
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210285.m3u8
-#EXTINF:-1,RTV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210279.m3u8
-#EXTINF:-1,SANTUARIO DE FATIMA HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/85091.m3u8
-#EXTINF:-1,SIC CARAS FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/141707.m3u8
-#EXTINF:-1,SIC FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/95001.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8820.m3u8
+#EXTINF:-1,SIC
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8819.m3u8
+#EXTINF:-1,SIC Caras
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8818.m3u8
+#EXTINF:-1,SIC HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8817.m3u8
 #EXTINF:-1,SIC K
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/141708.m3u8
-#EXTINF:-1,SIC Kids
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/101076.m3u8
-#EXTINF:-1,SIC MULHER FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118285.m3u8
-#EXTINF:-1,SIC NOTICIAS FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118286.m3u8
-#EXTINF:-1,SIC NotŦcias
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212678.m3u8
-#EXTINF:-1,SIC RADICAL FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/102329.m3u8
-#EXTINF:-1,SKY NEWS
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91663.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8816.m3u8
+#EXTINF:-1,SIC Kids HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8815.m3u8
+#EXTINF:-1,SIC Mulher
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8814.m3u8
+#EXTINF:-1,SIC Noticias
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8813.m3u8
+#EXTINF:-1,SIC Noticias HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8812.m3u8
+#EXTINF:-1,SIC Radical
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8811.m3u8
 #EXTINF:-1,SPORT TV
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212680.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65574.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65573.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65571.m3u8
-#EXTINF:-1,SPORT TV FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210314.m3u8
-#EXTINF:-1,SPORT TV NBA
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/198083.m3u8
-#EXTINF:-1,SPORTING FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65568.m3u8
-#EXTINF:-1,SUPER RTL
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210294.m3u8
-#EXTINF:-1,SYFY FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65641.m3u8
-#EXTINF:-1,Telesur
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/207346.m3u8
-#EXTINF:-1,Tiji
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/210296.m3u8
-#EXTINF:-1,TLC HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65617.m3u8
-#EXTINF:-1,TOROS HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/68725.m3u8
-#EXTINF:-1,TRACE TV HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/209375.m3u8
-#EXTINF:-1,TRACE URBAN HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/91659.m3u8
-#EXTINF:-1,Travel Channel FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65591.m3u8
-#EXTINF:-1,TV Galicia
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/106958.m3u8
-#EXTINF:-1,TV GLOBO HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/144231.m3u8
-#EXTINF:-1,TV Kujawy
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/114777.m3u8
-#EXTINF:-1,TV Record
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65650.m3u8
-#EXTINF:-1,TV SERIES FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/100834.m3u8
-#EXTINF:-1,TV5 Monde
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/106960.m3u8
-#EXTINF:-1,TVC 1 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/101092.m3u8
-#EXTINF:-1,TVC 2
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/101093.m3u8
-#EXTINF:-1,TVC 3 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/157023.m3u8
-#EXTINF:-1,TVC 4 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/97252.m3u8
-#EXTINF:-1,TVC Series HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/116240.m3u8
-#EXTINF:-1,TVCine 1 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/107665.m3u8
-#EXTINF:-1,TVCine 2 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118297.m3u8
-#EXTINF:-1,TVCine 3 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/100831.m3u8
-#EXTINF:-1,TVCine 4 FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118300.m3u8
-#EXTINF:-1,TVE 24h
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212693.m3u8
-#EXTINF:-1,TVI 24 HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118303.m3u8
-#EXTINF:-1,TVI FHD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65595.m3u8
-#EXTINF:-1,Tvi FIccao
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118304.m3u8
-#EXTINF:-1,TVI FicLao
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/212695.m3u8
-#EXTINF:-1,TVI Internacional
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/197804.m3u8
-#EXTINF:-1,TVI REALITY CAMARA 1
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/85081.m3u8
-#EXTINF:-1,TVI REALITY CAMARA 3
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/85083.m3u8
-#EXTINF:-1,TVI REALITY CAMARA 4
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/85084.m3u8
-#EXTINF:-1,TVI Reality HD
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/118305.m3u8
-#EXTINF:-1,VH1
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/65582.m3u8
-#EXTINF:-1,VH1 Classics
-http://dibo.live:8080/live/ay5LTi8EBi/TjrVkL7W0R/98020.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8810.m3u8
+#EXTINF:-1,SPORT TV   HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8809.m3u8
+#EXTINF:-1,SPORTING TV
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8808.m3u8
+#EXTINF:-1,SPORTTV 1 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8807.m3u8
+#EXTINF:-1,SPORTTV 1 SD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8806.m3u8
+#EXTINF:-1,SPORTTV 2 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8805.m3u8
+#EXTINF:-1,SPORTTV 2 SD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8804.m3u8
+#EXTINF:-1,SPORTTV 3 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8803.m3u8
+#EXTINF:-1,SPORTTV 3 SD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8802.m3u8
+#EXTINF:-1,SPORTTV 4 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8801.m3u8
+#EXTINF:-1,SPORTTV 5 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8800.m3u8
+#EXTINF:-1,TLC
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8799.m3u8
+#EXTINF:-1,TPA Angola
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8798.m3u8
+#EXTINF:-1,Travel Channel HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8797.m3u8
+#EXTINF:-1,TV Globo Premium
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8796.m3u8
+#EXTINF:-1,TVCINE 1 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8795.m3u8
+#EXTINF:-1,TVCINE 2 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8794.m3u8
+#EXTINF:-1,TVCINE 3 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8793.m3u8
+#EXTINF:-1,TVCINE 4 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8792.m3u8
+#EXTINF:-1,TVE Internacional
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8791.m3u8
+#EXTINF:-1,TVI
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8790.m3u8
+#EXTINF:-1,Tvi 24
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8789.m3u8
+#EXTINF:-1,TVI FICCAO
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8788.m3u8
+#EXTINF:-1,TVI REALITY
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8787.m3u8
