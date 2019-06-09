@@ -1,1015 +1,1129 @@
 #EXTM3U
 #EXTINF:-1,TF1 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13847
-#EXTINF:-1,TF1 HD
-http://siptv-online.com:8789/Julien90/Julien90/13917
-#EXTINF:-1,TF1 SD
-http://siptv-online.com:8789/Julien90/Julien90/84
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2650.m3u8
+#EXTINF:-1,TF1 FHD  STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9208.m3u8
 #EXTINF:-1,TF1 +1 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13817
-#EXTINF:-1,FRANCE 2 FHD
-http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41003
-#EXTINF:-1,FRANCE 2 HD
-http://siptv-online.com:8789/Julien90/Julien90/13916
-#EXTINF:-1,FRANCE 2 SD
-http://siptv-online.com:8789/Julien90/Julien90/1007
-#EXTINF:-1,FRANCE 3 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13738
-#EXTINF:-1,FRANCE 3 HD
-http://siptv-online.com:8789/Julien90/Julien90/13915
-#EXTINF:-1,FRANCE 3 SD
-http://siptv-online.com:8789/Julien90/Julien90/1008
-#EXTINF:-1,FRANCE 4 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13737
-#EXTINF:-1,FRANCE 4 HD
-http://siptv-online.com:8789/Julien90/Julien90/13914
-#EXTINF:-1,FRANCE 4 SD
-http://siptv-online.com:8789/Julien90/Julien90/1009
-#EXTINF:-1,FRANCE 5 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13736
-#EXTINF:-1,FRANCE 5 HD
-http://siptv-online.com:8789/Julien90/Julien90/13913
-#EXTINF:-1,FRANCE 5 SD
-http://siptv-online.com:8789/Julien90/Julien90/1013
-#EXTINF:-1,FRANCE O HD
-http://siptv-online.com:8789/Julien90/Julien90/13735
-#EXTINF:-1,FRANCE O SD
-http://siptv-online.com:8789/Julien90/Julien90/1021
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4036.m3u8
+#EXTINF:-1,TF1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/91.m3u8
 #EXTINF:-1,M6 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13726
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1651.m3u8
+#EXTINF:-1,M6 FHD STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9218.m3u8
 #EXTINF:-1,M6 HD
-http://siptv-online.com:8789/Julien90/Julien90/14003
-#EXTINF:-1,M6 SD
-http://siptv-online.com:8789/Julien90/Julien90/90
-#EXTINF:-1,PARIS PREMIERE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13824
-#EXTINF:-1,PARIS PREMIERE HD
-http://siptv-online.com:8789/Julien90/Julien90/13993
-#EXTINF:-1,PARIS PREMIERE SD
-http://siptv-online.com:8789/Julien90/Julien90/1030
-#EXTINF:-1,TMC FHD
-http://siptv-online.com:8789/Julien90/Julien90/13696
-#EXTINF:-1,TMC HD
-http://siptv-online.com:8789/Julien90/Julien90/13979
-#EXTINF:-1,TMC SD
-http://siptv-online.com:8789/Julien90/Julien90/1014
-#EXTINF:-1,TV BREIZH FHD
-http://siptv-online.com:8789/Julien90/Julien90/13693
-#EXTINF:-1,TV BREIZH HD
-http://siptv-online.com:8789/Julien90/Julien90/13975
-#EXTINF:-1,TV BREIZH SD
-http://siptv-online.com:8789/Julien90/Julien90/1032
-#EXTINF:-1,6TER FHD
-http://siptv-online.com:8789/Julien90/Julien90/13793
-#EXTINF:-1,6TER HD
-http://siptv-online.com:8789/Julien90/Julien90/14046
-#EXTINF:-1,6TER SD
-http://siptv-online.com:8789/Julien90/Julien90/1024
-#EXTINF:-1,ARTE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13788
-#EXTINF:-1,ARTE HD
-http://siptv-online.com:8789/Julien90/Julien90/14043
-#EXTINF:-1,ARTE SD
-http://siptv-online.com:8789/Julien90/Julien90/426
-#EXTINF:-1,CANAL + FHD
-http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41002
-#EXTINF:-1,CANAL+ HD
-http://siptv-online.com:8789/Julien90/Julien90/14167
-#EXTINF:-1,CANAL + SD
-http://siptv-online.com:8789/Julien90/Julien90/28345
-#EXTINF:-1,CANAL + DECALE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13768
-#EXTINF:-1,CANAL + DECALE HD
-http://siptv-online.com:8789/Julien90/Julien90/14035
-#EXTINF:-1,CANAL + DECALE SD
-http://siptv-online.com:8789/Julien90/Julien90/28346
-#EXTINF:-1,CANAL + FAMILY FHD
-http://siptv-online.com:8789/Julien90/Julien90/13767
-#EXTINF:-1,CANAL + FAMILY HD
-http://siptv-online.com:8789/Julien90/Julien90/14033
-#EXTINF:-1,CANAL + FAMILY SD
-http://siptv-online.com:8789/Julien90/Julien90/28348
-#EXTINF:-1,CANAL + CINEMA FHD
-http://siptv-online.com:8789/Julien90/Julien90/13769
-#EXTINF:-1,CANAL + CINEMA HD
-http://siptv-online.com:8789/Julien90/Julien90/28942
-#EXTINF:-1,CANAL + CINEMA SD
-http://siptv-online.com:8789/Julien90/Julien90/28347
-#EXTINF:-1,OCS MAX FHD
-http://siptv-online.com:8789/Julien90/Julien90/13825
-#EXTINF:-1,OCS MAX HD
-http://siptv-online.com:8789/Julien90/Julien90/13996
-#EXTINF:-1,OCS MAX SD
-http://siptv-online.com:8789/Julien90/Julien90/38198
-#EXTINF:-1,OCS GEANTS FHD
-http://siptv-online.com:8789/Julien90/Julien90/13833
-#EXTINF:-1,OCS GEANTS HD
-http://siptv-online.com:8789/Julien90/Julien90/13846
-#EXTINF:-1,OCS GEANT SD
-http://siptv-online.com:8789/Julien90/Julien90/38199
-#EXTINF:-1,OCS CITY FHD
-http://siptv-online.com:8789/Julien90/Julien90/13827
-#EXTINF:-1,OCS CITY HD
-http://siptv-online.com:8789/Julien90/Julien90/13994
-#EXTINF:-1,OCS CITY SD
-http://siptv-online.com:8789/Julien90/Julien90/38200
-#EXTINF:-1,OCS CHOC FHD
-http://siptv-online.com:8789/Julien90/Julien90/13834
-#EXTINF:-1,OCS CHOC HD
-http://siptv-online.com:8789/Julien90/Julien90/13995
-#EXTINF:-1,OCS CHOC SD
-http://siptv-online.com:8789/Julien90/Julien90/38201
-#EXTINF:-1,CINE+ PREMIER FHD
-http://siptv-online.com:8789/Julien90/Julien90/13759
-#EXTINF:-1,CINE+ PREMIER HD
-http://siptv-online.com:8789/Julien90/Julien90/14021
-#EXTINF:-1,CINE+ PREMIER SD
-http://siptv-online.com:8789/Julien90/Julien90/28332
-#EXTINF:-1,CINE+ FRISSON FHD
-http://siptv-online.com:8789/Julien90/Julien90/13754
-#EXTINF:-1,CINE+ FRISSON HD
-http://siptv-online.com:8789/Julien90/Julien90/14023
-#EXTINF:-1,CINE+ FRISSON SD
-http://siptv-online.com:8789/Julien90/Julien90/28331
-#EXTINF:-1,CINE+ FAMIZ FHD
-http://siptv-online.com:8789/Julien90/Julien90/13755
-#EXTINF:-1,CINE+ FAMIZ HD
-http://siptv-online.com:8789/Julien90/Julien90/13941
-#EXTINF:-1,CINE+ FAMIZ SD
-http://siptv-online.com:8789/Julien90/Julien90/28329
-#EXTINF:-1,CINE+ EMOTION FHD
-http://siptv-online.com:8789/Julien90/Julien90/13756
-#EXTINF:-1,CINE+ EMOTION HD
-http://siptv-online.com:8789/Julien90/Julien90/14024
-#EXTINF:-1,CINE+ EMOTION SD
-http://siptv-online.com:8789/Julien90/Julien90/28330
-#EXTINF:-1,ACTION FHD
-http://siptv-online.com:8789/Julien90/Julien90/13790
-#EXTINF:-1,ACTION HD
-http://siptv-online.com:8789/Julien90/Julien90/14045
-#EXTINF:-1,ACTION SD
-http://siptv-online.com:8789/Julien90/Julien90/28334
-#EXTINF:-1,CINE+ CLUB FHD
-http://siptv-online.com:8789/Julien90/Julien90/13757
-#EXTINF:-1,CINE+ CLUB HD
-http://siptv-online.com:8789/Julien90/Julien90/14025
-#EXTINF:-1,CINE+ CLUB SD
-http://siptv-online.com:8789/Julien90/Julien90/28328
-#EXTINF:-1,CINE POLAR FHD
-http://siptv-online.com:8789/Julien90/Julien90/13752
-#EXTINF:-1,CINE+ POLAR HD
-http://siptv-online.com:8789/Julien90/Julien90/14027
-#EXTINF:-1,CINE+ POLAR SD
-http://siptv-online.com:8789/Julien90/Julien90/28335
-#EXTINF:-1,WARNER TV FHD
-http://siptv-online.com:8789/Julien90/Julien90/13784
-#EXTINF:-1,POLAR+  FHD
-http://siptv-online.com:8789/Julien90/Julien90/13763
-#EXTINF:-1,POLAR+ HD
-http://siptv-online.com:8789/Julien90/Julien90/25041
-#EXTINF:-1,TCM CINEMA FHD
-http://siptv-online.com:8789/Julien90/Julien90/13697
-#EXTINF:-1,TCM CINEMA HD
-http://siptv-online.com:8789/Julien90/Julien90/13980
-#EXTINF:-1,TCM CINEMA SD
-http://siptv-online.com:8789/Julien90/Julien90/28337
-#EXTINF:-1,CINE+ CLASSIC FHD
-http://siptv-online.com:8789/Julien90/Julien90/13758
-#EXTINF:-1,CINE+ CLASSIC HD
-http://siptv-online.com:8789/Julien90/Julien90/14026
-#EXTINF:-1,CINE+ CLASSIC SD
-http://siptv-online.com:8789/Julien90/Julien90/28327
-#EXTINF:-1,CINE+ FX FHD
-http://siptv-online.com:8789/Julien90/Julien90/13753
-#EXTINF:-1,CINE+ FX HD
-http://siptv-online.com:8789/Julien90/Julien90/14022
-#EXTINF:-1,CINE+ FX SD
-http://siptv-online.com:8789/Julien90/Julien90/28336
-#EXTINF:-1,ALTICE STUDIO FHD
-http://siptv-online.com:8789/Julien90/Julien90/13787
-#EXTINF:-1,ALTICE STUDIO HD
-http://siptv-online.com:8789/Julien90/Julien90/28413
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
-http://siptv-online.com:8789/Julien90/Julien90/13713
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://siptv-online.com:8789/Julien90/Julien90/13911
-#EXTINF:-1,PARAMOUNT CHANNEL SD
-http://siptv-online.com:8789/Julien90/Julien90/28340
-#EXTINF:-1,PARAMOUNT DECALE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13829
-#EXTINF:-1,PARAMOUNT CHANNEL DECALE SD
-http://siptv-online.com:8789/Julien90/Julien90/28339
-#EXTINF:-1,CANALPLAY 1
-http://siptv-online.com:8789/Julien90/Julien90/13970
-#EXTINF:-1,CANALPLAY 2
-http://siptv-online.com:8789/Julien90/Julien90/13962
-#EXTINF:-1,CANALPLAY 3
-http://siptv-online.com:8789/Julien90/Julien90/13961
-#EXTINF:-1,CANALPLAY 4
-http://siptv-online.com:8789/Julien90/Julien90/13960
-#EXTINF:-1,CANALPLAY 5
-http://siptv-online.com:8789/Julien90/Julien90/13959
-#EXTINF:-1,CANALPLAY 6
-http://siptv-online.com:8789/Julien90/Julien90/13958
-#EXTINF:-1,CANALPLAY 7
-http://siptv-online.com:8789/Julien90/Julien90/13957
-#EXTINF:-1,CANALPLAY 8
-http://siptv-online.com:8789/Julien90/Julien90/13956
-#EXTINF:-1,CANALPLAY 9
-http://siptv-online.com:8789/Julien90/Julien90/13955
-#EXTINF:-1,CANALPLAY 10
-http://siptv-online.com:8789/Julien90/Julien90/13969
-#EXTINF:-1,CANALPLAY 11
-http://siptv-online.com:8789/Julien90/Julien90/13968
-#EXTINF:-1,CANALPLAY 12
-http://siptv-online.com:8789/Julien90/Julien90/13967
-#EXTINF:-1,CANALPLAY 13
-http://siptv-online.com:8789/Julien90/Julien90/13966
-#EXTINF:-1,CANALPLAY 14
-http://siptv-online.com:8789/Julien90/Julien90/13965
-#EXTINF:-1,CANALPLAY 15
-http://siptv-online.com:8789/Julien90/Julien90/13964
-#EXTINF:-1,CANALPLAY 16
-http://siptv-online.com:8789/Julien90/Julien90/13963
-#EXTINF:-1,ORANGE CINE
-http://siptv-online.com:8789/Julien90/Julien90/13926
-#EXTINF:-1,ORANGE CINE 1
-http://siptv-online.com:8789/Julien90/Julien90/13925
-#EXTINF:-1,ORANGE CINE 2
-http://siptv-online.com:8789/Julien90/Julien90/13924
-#EXTINF:-1,ORANGE CINE 3
-http://siptv-online.com:8789/Julien90/Julien90/13923
-#EXTINF:-1,ORANGE CINE 4
-http://siptv-online.com:8789/Julien90/Julien90/13922
-#EXTINF:-1,ORANGE CINE 5
-http://siptv-online.com:8789/Julien90/Julien90/13921
-#EXTINF:-1,ORANGE CINE 6
-http://siptv-online.com:8789/Julien90/Julien90/13920
-#EXTINF:-1,ORANGE CINE 7
-http://siptv-online.com:8789/Julien90/Julien90/13919
-#EXTINF:-1,ORANGE CINE 8
-http://siptv-online.com:8789/Julien90/Julien90/13918
-#EXTINF:-1,ALACARTE 1
-http://siptv-online.com:8789/Julien90/Julien90/13949
-#EXTINF:-1,ALACARTE 2
-http://siptv-online.com:8789/Julien90/Julien90/13947
-#EXTINF:-1,ALACARTE 3
-http://siptv-online.com:8789/Julien90/Julien90/13946
-#EXTINF:-1,ALACARTE 4
-http://siptv-online.com:8789/Julien90/Julien90/13945
-#EXTINF:-1,ALACARTE 5
-http://siptv-online.com:8789/Julien90/Julien90/13954
-#EXTINF:-1,ALACARTE 6
-http://siptv-online.com:8789/Julien90/Julien90/13953
-#EXTINF:-1,ALACARTE 7
-http://siptv-online.com:8789/Julien90/Julien90/13952
-#EXTINF:-1,ALACARTE 8
-http://siptv-online.com:8789/Julien90/Julien90/13951
-#EXTINF:-1,ALACARTE 9
-http://siptv-online.com:8789/Julien90/Julien90/13950
-#EXTINF:-1,ALACARTE 10
-http://siptv-online.com:8789/Julien90/Julien90/13948
-#EXTINF:-1,RMC SPORT NEWS FHD
-http://siptv-online.com:8789/Julien90/Julien90/35031
-#EXTINF:-1,RMC SPORT 1FHD
-http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41001
-#EXTINF:-1,RMC SPORT 1HD
-http://siptv-online.com:8789/Julien90/Julien90/32718
-#EXTINF:-1,RMC SPORT 1 SD
-http://siptv-online.com:8789/Julien90/Julien90/39589
-#EXTINF:-1,RMC SPORT ACCESS 1 HD
-http://siptv-online.com:8789/Julien90/Julien90/37931
-#EXTINF:-1,RMC SPORT 2FHD
-http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41000
-#EXTINF:-1,RMC SPORT 2HD
-http://siptv-online.com:8789/Julien90/Julien90/32719
-#EXTINF:-1,RMC SPORT 2 SD
-http://siptv-online.com:8789/Julien90/Julien90/39588
-#EXTINF:-1,RMC SPORT ACCESS 2 HD
-http://siptv-online.com:8789/Julien90/Julien90/37930
-#EXTINF:-1,RMC SPORT 3FHD
-http://siptv-online.com:8789/Julien90/Julien90/32715
-#EXTINF:-1,RMC SPORT 3HD
-http://siptv-online.com:8789/Julien90/Julien90/32720
-#EXTINF:-1,RMC SPORT 3 SD
-http://siptv-online.com:8789/Julien90/Julien90/39587
-#EXTINF:-1,RMC SPORT ACCESS 3 HD
-http://siptv-online.com:8789/Julien90/Julien90/37929
-#EXTINF:-1,RMC SPORT 4FHD
-http://siptv-online.com:8789/Julien90/Julien90/32716
-#EXTINF:-1,RMC SPORT 4HD
-http://siptv-online.com:8789/Julien90/Julien90/32721
-#EXTINF:-1,RMC SPORT 4 SD
-http://siptv-online.com:8789/Julien90/Julien90/39586
-#EXTINF:-1,RMC SPORT 4K
-http://siptv-online.com:8789/Julien90/Julien90/37942
-#EXTINF:-1,RMC SPORT LIVE 5 FHD
-http://siptv-online.com:8789/Julien90/Julien90/32717
-#EXTINF:-1,RMC SPORT LIVE 6 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37941
-#EXTINF:-1,RMC SPORT LIVE 7 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37940
-#EXTINF:-1,RMC SPORT LIVE 8 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37939
-#EXTINF:-1,RMC SPORT LIVE 9 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37938
-#EXTINF:-1,RMC SPORT LIVE 10 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37937
-#EXTINF:-1,RMC SPORT LIVE 11 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37936
-#EXTINF:-1,RMC SPORT LIVE 12 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37935
-#EXTINF:-1,RMC SPORT LIVE 13 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37934
-#EXTINF:-1,RMC SPORT LIVE 14 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37933
-#EXTINF:-1,RMC SPORT LIVE 15 FHD
-http://siptv-online.com:8789/Julien90/Julien90/37932
-#EXTINF:-1,RMC SPORT LIVE 16 FHD
-http://siptv-online.com:8789/Julien90/Julien90/35340
-#EXTINF:-1,BEINSPORTS 1 F.HD
-http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41005
-#EXTINF:-1,BEINSPORTS 1 HD
-http://siptv-online.com:8789/Julien90/Julien90/28941
-#EXTINF:-1,BEINSPORT 1 SD
-http://siptv-online.com:8789/Julien90/Julien90/92
-#EXTINF:-1,BEINSPORTS 2 F.HD
-http://iptvpro.premium-itv.com:8789/LOCAL_CRACK_PANEL/gQWV2nhdxH/41004
-#EXTINF:-1,BEINSPORTS 2 HD
-http://siptv-online.com:8789/Julien90/Julien90/28943
-#EXTINF:-1,BEINSPORT 2 SD
-http://siptv-online.com:8789/Julien90/Julien90/93
-#EXTINF:-1,BEINSPORTS 3 F.HD
-http://siptv-online.com:8789/Julien90/Julien90/14158
-#EXTINF:-1,BEINSPORTS 3 HD
-http://siptv-online.com:8789/Julien90/Julien90/14163
-#EXTINF:-1,BEINSPORT 3 SD
-http://siptv-online.com:8789/Julien90/Julien90/94
-#EXTINF:-1,BEINSPORT MAX 4
-http://siptv-online.com:8789/Julien90/Julien90/95
-#EXTINF:-1,BEINSPORT MAX 5
-http://siptv-online.com:8789/Julien90/Julien90/39882
-#EXTINF:-1,BEINSPORT MAX 6
-http://siptv-online.com:8789/Julien90/Julien90/1089
-#EXTINF:-1,BEINSPORT MAX 7
-http://siptv-online.com:8789/Julien90/Julien90/1113
-#EXTINF:-1,BEINSPORT MAX 8
-http://siptv-online.com:8789/Julien90/Julien90/1468
-#EXTINF:-1,BEINSPORT MAX 9
-http://siptv-online.com:8789/Julien90/Julien90/1469
-#EXTINF:-1,BEIN SPORT MAX 10
-http://siptv-online.com:8789/Julien90/Julien90/1470
-#EXTINF:-1,CANAL+ SPORT F.HD
-http://siptv-online.com:8789/Julien90/Julien90/14156
-#EXTINF:-1,CANAL+ SPORT HD
-http://siptv-online.com:8789/Julien90/Julien90/14161
-#EXTINF:-1,SPORT 365 FHD
-http://siptv-online.com:8789/Julien90/Julien90/25040
-#EXTINF:-1,FOOT+
-http://siptv-online.com:8789/Julien90/Julien90/13937
-#EXTINF:-1,FOOT+24 SD
-http://siptv-online.com:8789/Julien90/Julien90/425
-#EXTINF:-1,FOOT  HD
-http://siptv-online.com:8789/Julien90/Julien90/13936
-#EXTINF:-1,ONZEO FHD
-http://siptv-online.com:8789/Julien90/Julien90/13786
-#EXTINF:-1,MULTISPORTS 1
-http://siptv-online.com:8789/Julien90/Julien90/13807
-#EXTINF:-1,MULTISPORTS 2
-http://siptv-online.com:8789/Julien90/Julien90/13802
-#EXTINF:-1,MULTISPORTS 3
-http://siptv-online.com:8789/Julien90/Julien90/13806
-#EXTINF:-1,MULTISPORTS 4
-http://siptv-online.com:8789/Julien90/Julien90/13805
-#EXTINF:-1,MULTISPORTS 5
-http://siptv-online.com:8789/Julien90/Julien90/13804
-#EXTINF:-1,MULTISPORTS 6
-http://siptv-online.com:8789/Julien90/Julien90/13803
-#EXTINF:-1,TRACE SPORT FULLHD
-http://siptv-online.com:8789/Julien90/Julien90/13797
-#EXTINF:-1,BFM SPORT FHD
-http://siptv-online.com:8789/Julien90/Julien90/13843
-#EXTINF:-1,BFM SPORTS HD
-http://siptv-online.com:8789/Julien90/Julien90/13943
-#EXTINF:-1,BFM HD
-http://siptv-online.com:8789/Julien90/Julien90/13839
-#EXTINF:-1,INFOSPORT FHD
-http://siptv-online.com:8789/Julien90/Julien90/13729
-#EXTINF:-1,LEQUIPE 21 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13728
-#EXTINF:-1,EQUIPE 21 SD
-http://siptv-online.com:8789/Julien90/Julien90/1023
-#EXTINF:-1,OL TV FHD
-http://siptv-online.com:8789/Julien90/Julien90/13842
-#EXTINF:-1,EXTREME SPORTS
-http://siptv-online.com:8789/Julien90/Julien90/13740
-#EXTINF:-1,MUSCULATION TV HD
-http://siptv-online.com:8789/Julien90/Julien90/13801
-#EXTINF:-1,AUTOMOTO  HD
-http://siptv-online.com:8789/Julien90/Julien90/1035
-#EXTINF:-1,MOTORSPORT HD
-http://siptv-online.com:8789/Julien90/Julien90/13782
-#EXTINF:-1,MOTORSPORT FHD
-http://siptv-online.com:8789/Julien90/Julien90/13722
-#EXTINF:-1,EUROSPORT 1 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13742
-#EXTINF:-1,EUROSPORT1 HD
-http://siptv-online.com:8789/Julien90/Julien90/14011
-#EXTINF:-1,EUROSPORT 2 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13741
-#EXTINF:-1,EUROSPORT2 HD
-http://siptv-online.com:8789/Julien90/Julien90/14010
-#EXTINF:-1,EQUIDIA LIVE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13743
-#EXTINF:-1,EQUIDIA LIVE HD
-http://siptv-online.com:8789/Julien90/Julien90/14012
-#EXTINF:-1,EQUIDIA LIFE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13744
-#EXTINF:-1,EQUIDIA LIFE HD
-http://siptv-online.com:8789/Julien90/Julien90/14013
-#EXTINF:-1,FRANCE O
-http://siptv-online.com:8789/Julien90/Julien90/89
-#EXTINF:-1,EQUIDIA LIVE
-http://siptv-online.com:8789/Julien90/Julien90/1036
-#EXTINF:-1,EQUIDIA LIFE
-http://siptv-online.com:8789/Julien90/Julien90/85
-#EXTINF:-1,GOLF+ FHD
-http://siptv-online.com:8789/Julien90/Julien90/13734
-#EXTINF:-1,GOLF CHANNEL FHD
-http://siptv-online.com:8789/Julien90/Julien90/13689
-#EXTINF:-1,GOLF CHANNELS HD
-http://siptv-online.com:8789/Julien90/Julien90/13977
-#EXTINF:-1,CANAL+ SERIES FHD
-http://siptv-online.com:8789/Julien90/Julien90/13766
-#EXTINF:-1,CANAL + SERIES HD
-http://siptv-online.com:8789/Julien90/Julien90/28944
-#EXTINF:-1,13EME RUE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13794
-#EXTINF:-1,13EME RUE HD
-http://siptv-online.com:8789/Julien90/Julien90/14048
-#EXTINF:-1,SYFY HD
-http://siptv-online.com:8789/Julien90/Julien90/13981
-#EXTINF:-1,SYFY FHD
-http://siptv-online.com:8789/Julien90/Julien90/13698
-#EXTINF:-1,SUNDANCE TV FHD
-http://siptv-online.com:8789/Julien90/Julien90/13733
-#EXTINF:-1,SUNDANCE CHANNEL SD
-http://siptv-online.com:8789/Julien90/Julien90/28338
-#EXTINF:-1,TEVA FHD
-http://siptv-online.com:8789/Julien90/Julien90/35331
-#EXTINF:-1,TEVA HD
-http://siptv-online.com:8789/Julien90/Julien90/25039
-#EXTINF:-1,TEVA SD
-http://siptv-online.com:8789/Julien90/Julien90/1031
-#EXTINF:-1,COMEDIE+ FHD
-http://siptv-online.com:8789/Julien90/Julien90/13751
-#EXTINF:-1,COMEDIE  HD
-http://siptv-online.com:8789/Julien90/Julien90/14019
-#EXTINF:-1,MY CUISINE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13781
-#EXTINF:-1,E! ENTERTAINMENT FHD
-http://siptv-online.com:8789/Julien90/Julien90/13746
-#EXTINF:-1,E! ENTERTAINEMENT HD
-http://siptv-online.com:8789/Julien90/Julien90/14015
-#EXTINF:-1,NO STOP PEOPLE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13780
-#EXTINF:-1,NON STOP PEOPE
-http://siptv-online.com:8789/Julien90/Julien90/13928
-#EXTINF:-1,VIVOLTA HD
-http://siptv-online.com:8789/Julien90/Julien90/25044
-#EXTINF:-1,IL TV
-http://siptv-online.com:8789/Julien90/Julien90/13934
-#EXTINF:-1,NRJ12 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13717
-#EXTINF:-1,NRJ12 HD
-http://siptv-online.com:8789/Julien90/Julien90/14047
-#EXTINF:-1,NRJ12 SD
-http://siptv-online.com:8789/Julien90/Julien90/1019
-#EXTINF:-1,ELLE GIRL FHD
-http://siptv-online.com:8789/Julien90/Julien90/13745
-#EXTINF:-1,ELLE GIRL HD
-http://siptv-online.com:8789/Julien90/Julien90/14014
-#EXTINF:-1,BET FHD
-http://siptv-online.com:8789/Julien90/Julien90/13841
-#EXTINF:-1,VICELAND FHD
-http://siptv-online.com:8789/Julien90/Julien90/13772
-#EXTINF:-1,TV5 MONDE STYLE
-http://siptv-online.com:8789/Julien90/Julien90/25042
-#EXTINF:-1,TV 5 monde
-http://siptv-online.com:8789/Julien90/Julien90/1033
-#EXTINF:-1,CHERIE 25 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13760
-#EXTINF:-1,CHERIE 25 HD
-http://siptv-online.com:8789/Julien90/Julien90/14028
-#EXTINF:-1,CHERIE 25 SD
-http://siptv-online.com:8789/Julien90/Julien90/1027
-#EXTINF:-1,TF1 FILM ET SERIE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13732
-#EXTINF:-1,TF1 SÉRIES FILMS SD
-http://siptv-online.com:8789/Julien90/Julien90/1022
-#EXTINF:-1,C8 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13823
-#EXTINF:-1,C8 HD
-http://siptv-online.com:8789/Julien90/Julien90/14036
-#EXTINF:-1,C8 SD
-http://siptv-online.com:8789/Julien90/Julien90/188
-#EXTINF:-1,CSTAR FHD
-http://siptv-online.com:8789/Julien90/Julien90/13749
-#EXTINF:-1,DIRECT8
-http://siptv-online.com:8789/Julien90/Julien90/1091
-#EXTINF:-1,CSTAR HD
-http://siptv-online.com:8789/Julien90/Julien90/13940
-#EXTINF:-1,AZUR TV
-http://siptv-online.com:8789/Julien90/Julien90/25043
-#EXTINF:-1,WEO FHD
-http://siptv-online.com:8789/Julien90/Julien90/13795
-#EXTINF:-1,WEO HD
-http://siptv-online.com:8789/Julien90/Julien90/25045
-#EXTINF:-1,TV8 MONT BLANC FHD
-http://siptv-online.com:8789/Julien90/Julien90/13796
-#EXTINF:-1,RTL9 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13707
-#EXTINF:-1,RTL9 HD
-http://siptv-online.com:8789/Julien90/Julien90/13989
-#EXTINF:-1,RTL9 SD
-http://siptv-online.com:8789/Julien90/Julien90/1029
-#EXTINF:-1,A+  FHD
-http://siptv-online.com:8789/Julien90/Julien90/13695
-#EXTINF:-1,RMC STORY FHD
-http://siptv-online.com:8789/Julien90/Julien90/13715
-#EXTINF:-1,RMC STORY HD
-http://siptv-online.com:8789/Julien90/Julien90/13997
-#EXTINF:-1,RMC STORY   SD
-http://siptv-online.com:8789/Julien90/Julien90/1025
-#EXTINF:-1,TFX FHD
-http://siptv-online.com:8789/Julien90/Julien90/13716
-#EXTINF:-1,TFX HD
-http://siptv-online.com:8789/Julien90/Julien90/13998
-#EXTINF:-1,TFX SD
-http://siptv-online.com:8789/Julien90/Julien90/1015
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/124.m3u8
+#EXTINF:-1,M6 +1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4455.m3u8
 #EXTINF:-1,W9 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13690
-#EXTINF:-1,W9
-http://siptv-online.com:8789/Julien90/Julien90/13973
-#EXTINF:-1,W9 SD
-http://siptv-online.com:8789/Julien90/Julien90/421
-#EXTINF:-1,OFIVE TV
-http://siptv-online.com:8789/Julien90/Julien90/1038
-#EXTINF:-1,LUXE TV
-http://siptv-online.com:8789/Julien90/Julien90/1054
-#EXTINF:-1,GUYSEN TV
-http://siptv-online.com:8789/Julien90/Julien90/1063
-#EXTINF:-1,ALSACE
-http://siptv-online.com:8789/Julien90/Julien90/25048
-#EXTINF:-1,VOSGES
-http://siptv-online.com:8789/Julien90/Julien90/1102
-#EXTINF:-1,M6 BOUTIQUE
-http://siptv-online.com:8789/Julien90/Julien90/1097
-#EXTINF:-1,FASHIONTV
-http://siptv-online.com:8789/Julien90/Julien90/1064
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://siptv-online.com:8789/Julien90/Julien90/13861
-#EXTINF:-1,DISNEY CHANNEL  HD
-http://siptv-online.com:8789/Julien90/Julien90/24948
-#EXTINF:-1,DISNEY CHA SD
-http://siptv-online.com:8789/Julien90/Julien90/1040
-#EXTINF:-1,DISNEY CHA +1 HD
-http://siptv-online.com:8789/Julien90/Julien90/13849
-#EXTINF:-1,DISNEY CHA+1
-http://siptv-online.com:8789/Julien90/Julien90/1041
-#EXTINF:-1,DISNEY XD FHD
-http://siptv-online.com:8789/Julien90/Julien90/13862
-#EXTINF:-1,DISNEY XD HD
-http://siptv-online.com:8789/Julien90/Julien90/24942
-#EXTINF:-1,DISNEY JUNIOR FHD
-http://siptv-online.com:8789/Julien90/Julien90/13863
-#EXTINF:-1,DISNEY JUNIOR HD
-http://siptv-online.com:8789/Julien90/Julien90/24934
-#EXTINF:-1,DISNEY CINEMA FHD
-http://siptv-online.com:8789/Julien90/Julien90/13860
-#EXTINF:-1,DISNEY CINEMA HD
-http://siptv-online.com:8789/Julien90/Julien90/24940
-#EXTINF:-1,NICKELODEON HD
-http://siptv-online.com:8789/Julien90/Julien90/14037
-#EXTINF:-1,NICKELODEON  FHD
-http://siptv-online.com:8789/Julien90/Julien90/13854
-#EXTINF:-1,NICKELODEON JUN FHD
-http://siptv-online.com:8789/Julien90/Julien90/13851
-#EXTINF:-1,NICKELODEON JUNIOR HD
-http://siptv-online.com:8789/Julien90/Julien90/24935
-#EXTINF:-1,NICKELODEON JUN SD
-http://siptv-online.com:8789/Julien90/Julien90/28344
-#EXTINF:-1,NICKELODEON 4 TEEN FHD
-http://siptv-online.com:8789/Julien90/Julien90/24957
-#EXTINF:-1,TOONAMI FHD
-http://siptv-online.com:8789/Julien90/Julien90/13850
-#EXTINF:-1,|FR|TOONAMI HD
-http://siptv-online.com:8789/Julien90/Julien90/24956
-#EXTINF:-1,TELETOON+  FHD
-http://siptv-online.com:8789/Julien90/Julien90/13855
-#EXTINF:-1,TELETOON+ HD
-http://siptv-online.com:8789/Julien90/Julien90/24958
-#EXTINF:-1,TELETOON + 1 FHD
-http://siptv-online.com:8789/Julien90/Julien90/13869
-#EXTINF:-1,PIWI FHD
-http://siptv-online.com:8789/Julien90/Julien90/13867
-#EXTINF:-1,PIWI+ HD
-http://siptv-online.com:8789/Julien90/Julien90/24937
-#EXTINF:-1,MONDE DES PETITS
-http://siptv-online.com:8789/Julien90/Julien90/13848
-#EXTINF:-1,CANAL J FHD
-http://siptv-online.com:8789/Julien90/Julien90/13764
-#EXTINF:-1,Canal J HD
-http://siptv-online.com:8789/Julien90/Julien90/24941
-#EXTINF:-1,TIJI FHD
-http://siptv-online.com:8789/Julien90/Julien90/13868
-#EXTINF:-1,TIJI HD
-http://siptv-online.com:8789/Julien90/Julien90/24949
-#EXTINF:-1,BOOMERANG FHD
-http://siptv-online.com:8789/Julien90/Julien90/13858
-#EXTINF:-1,BOOMERANG HD
-http://siptv-online.com:8789/Julien90/Julien90/24954
-#EXTINF:-1,BOING FHD
-http://siptv-online.com:8789/Julien90/Julien90/13859
-#EXTINF:-1,BOING HD
-http://siptv-online.com:8789/Julien90/Julien90/24945
-#EXTINF:-1,CARTOON NETWORK FHD
-http://siptv-online.com:8789/Julien90/Julien90/13761
-#EXTINF:-1,CARTOON NETWORK HD
-http://siptv-online.com:8789/Julien90/Julien90/24933
-#EXTINF:-1,GAME ONE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13856
-#EXTINF:-1,GAMEONE HD
-http://siptv-online.com:8789/Julien90/Julien90/24952
-#EXTINF:-1,GAMEONE
-http://siptv-online.com:8789/Julien90/Julien90/1034
-#EXTINF:-1,GAME ONE +1
-http://siptv-online.com:8789/Julien90/Julien90/13857
-#EXTINF:-1,J ONE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13852
-#EXTINF:-1,GULLI FHD
-http://siptv-online.com:8789/Julien90/Julien90/13864
-#EXTINF:-1,GULLI SD
-http://siptv-online.com:8789/Julien90/Julien90/1020
-#EXTINF:-1,GONG FHD
-http://siptv-online.com:8789/Julien90/Julien90/13853
-#EXTINF:-1,GONG
-http://siptv-online.com:8789/Julien90/Julien90/24936
-#EXTINF:-1,MANGAS FHD
-http://siptv-online.com:8789/Julien90/Julien90/13865
-#EXTINF:-1,MANGAS HD
-http://siptv-online.com:8789/Julien90/Julien90/24932
-#EXTINF:-1,CINE KIDS HD
-http://siptv-online.com:8789/Julien90/Julien90/24959
-#EXTINF:-1,DISNEY ORANGE 1
-http://siptv-online.com:8789/Julien90/Julien90/24939
-#EXTINF:-1,DISNEY ORANGE 2
-http://siptv-online.com:8789/Julien90/Julien90/24950
-#EXTINF:-1,DISNEY ORANGE 3
-http://siptv-online.com:8789/Julien90/Julien90/24951
-#EXTINF:-1,PEPPA PIG
-http://siptv-online.com:8789/Julien90/Julien90/6700
-#EXTINF:-1,DISNEYS CARTOON CLASSIC
-http://siptv-online.com:8789/Julien90/Julien90/6713
-#EXTINF:-1,MILA MILA
-http://siptv-online.com:8789/Julien90/Julien90/6736
-#EXTINF:-1,TOM AND JERRY
-http://siptv-online.com:8789/Julien90/Julien90/6757
-#EXTINF:-1,MASHA ET MICHKA
-http://siptv-online.com:8789/Julien90/Julien90/7185
-#EXTINF:-1,LAPIN CRETIN
-http://siptv-online.com:8789/Julien90/Julien90/7258
-#EXTINF:-1,PLANETE+ FHD
-http://siptv-online.com:8789/Julien90/Julien90/13712
-#EXTINF:-1,PLANETE  HD
-http://siptv-online.com:8789/Julien90/Julien90/13991
-#EXTINF:-1,PLANETE+ CI FHD
-http://siptv-online.com:8789/Julien90/Julien90/13710
-#EXTINF:-1,PLANETE  CI HD
-http://siptv-online.com:8789/Julien90/Julien90/13992
-#EXTINF:-1,PLANETE+ AE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13711
-#EXTINF:-1,PLANETE A&E HD
-http://siptv-online.com:8789/Julien90/Julien90/13971
-#EXTINF:-1,DISCOVERY FHD
-http://siptv-online.com:8789/Julien90/Julien90/13748
-#EXTINF:-1,DISCOVERY HD
-http://siptv-online.com:8789/Julien90/Julien90/14017
-#EXTINF:-1,DISCOVERY SCIENCE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13747
-#EXTINF:-1,DISCOVERY SCIENCE HD
-http://siptv-online.com:8789/Julien90/Julien90/14016
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://siptv-online.com:8789/Julien90/Julien90/13836
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://siptv-online.com:8789/Julien90/Julien90/13828
-#EXTINF:-1,DISCOVERY FAMILY FHD
-http://siptv-online.com:8789/Julien90/Julien90/13811
-#EXTINF:-1,DISCOVERY FAMLIY HD
-http://siptv-online.com:8789/Julien90/Julien90/25047
-#EXTINF:-1,NATIONAL GEO WILD FHD
-http://siptv-online.com:8789/Julien90/Julien90/13719
-#EXTINF:-1,NAT GEO WILD HD
-http://siptv-online.com:8789/Julien90/Julien90/14000
-#EXTINF:-1,NATIONAL GEO FHD
-http://siptv-online.com:8789/Julien90/Julien90/13718
-#EXTINF:-1,NATIONAL GEO HD
-http://siptv-online.com:8789/Julien90/Julien90/13999
-#EXTINF:-1,ANIMAUX FHD
-http://siptv-online.com:8789/Julien90/Julien90/13789
-#EXTINF:-1,ANIMAUX HD
-http://siptv-online.com:8789/Julien90/Julien90/14044
-#EXTINF:-1,USHUAIA TV FHD
-http://siptv-online.com:8789/Julien90/Julien90/13692
-#EXTINF:-1,USHUAIA HD
-http://siptv-online.com:8789/Julien90/Julien90/13974
-#EXTINF:-1,USHUAIA SD
-http://siptv-online.com:8789/Julien90/Julien90/1055
-#EXTINF:-1,ULTRA NATURE UHD
-http://siptv-online.com:8789/Julien90/Julien90/25049
-#EXTINF:-1,RMC DECOUVERTE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13708
-#EXTINF:-1,RMC HD
-http://siptv-online.com:8789/Julien90/Julien90/13990
-#EXTINF:-1,RMC STORY SD
-http://siptv-online.com:8789/Julien90/Julien90/1026
-#EXTINF:-1,VOYAGE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13691
-#EXTINF:-1,VOYAGE HD
-http://siptv-online.com:8789/Julien90/Julien90/13972
-#EXTINF:-1,TREK FHD
-http://siptv-online.com:8789/Julien90/Julien90/13694
-#EXTINF:-1,TREK HD
-http://siptv-online.com:8789/Julien90/Julien90/13976
-#EXTINF:-1,CHASSE&PECHE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13837
-#EXTINF:-1,CHASSE & PECHE HD
-http://siptv-online.com:8789/Julien90/Julien90/14029
-#EXTINF:-1,CAMPAGNE TV
-http://siptv-online.com:8789/Julien90/Julien90/13942
-#EXTINF:-1,CRIME DISTRICT FHD
-http://siptv-online.com:8789/Julien90/Julien90/13750
-#EXTINF:-1,CRIME DISTRICT HD
-http://siptv-online.com:8789/Julien90/Julien90/14018
-#EXTINF:-1,MUSEUM CHANNEL FHD
-http://siptv-online.com:8789/Julien90/Julien90/13714
-#EXTINF:-1,HISTOIRE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13731
-#EXTINF:-1,HISTOIRE HD
-http://siptv-online.com:8789/Julien90/Julien90/14007
-#EXTINF:-1,TOUTE L'HISTOIRE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13832
-#EXTINF:-1,TOUTE L'HISTOIRE HD
-http://siptv-online.com:8789/Julien90/Julien90/25050
-#EXTINF:-1,HISTOIRE SD
-http://siptv-online.com:8789/Julien90/Julien90/1056
-#EXTINF:-1,LA CHAINE METEO FHD
-http://siptv-online.com:8789/Julien90/Julien90/13783
-#EXTINF:-1,EURONEWS
-http://siptv-online.com:8789/Julien90/Julien90/13938
-#EXTINF:-1,FRANCE 24
-http://siptv-online.com:8789/Julien90/Julien90/162
-#EXTINF:-1,BFM TV FHD
-http://siptv-online.com:8789/Julien90/Julien90/13770
-#EXTINF:-1,BFMTV HD
-http://siptv-online.com:8789/Julien90/Julien90/14039
-#EXTINF:-1,BFM TV SD
-http://siptv-online.com:8789/Julien90/Julien90/424
-#EXTINF:-1,BFM BUISINESS
-http://siptv-online.com:8789/Julien90/Julien90/1045
-#EXTINF:-1,LCI FHD
-http://siptv-online.com:8789/Julien90/Julien90/13727
-#EXTINF:-1,LCI sd
-http://siptv-online.com:8789/Julien90/Julien90/1042
-#EXTINF:-1,LCP FHD
-http://siptv-online.com:8789/Julien90/Julien90/13809
-#EXTINF:-1,LCP
-http://siptv-online.com:8789/Julien90/Julien90/1016
-#EXTINF:-1,LCP100%
-http://siptv-online.com:8789/Julien90/Julien90/1046
-#EXTINF:-1,CNEWS HD
-http://siptv-online.com:8789/Julien90/Julien90/14020
-#EXTINF:-1,CNEWS SD
-http://siptv-online.com:8789/Julien90/Julien90/1017
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1641.m3u8
+#EXTINF:-1,W9 FHD STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9209.m3u8
+#EXTINF:-1,W9 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/32.m3u8
+#EXTINF:-1,ARTE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3274.m3u8
+#EXTINF:-1,ARTE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/111.m3u8
+#EXTINF:-1,TF1 SERIES FILMS FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4002.m3u8
+#EXTINF:-1,TF1 SERIES FILMS HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4003.m3u8
+#EXTINF:-1,FRANCE O FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3412.m3u8
+#EXTINF:-1,FRANCE O HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/113.m3u8
+#EXTINF:-1,FRANCE 2  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2941.m3u8
+#EXTINF:-1,FRANCE 2 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/116.m3u8
+#EXTINF:-1,FRANCE 3 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3032.m3u8
+#EXTINF:-1,FRANCE 3 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/115.m3u8
+#EXTINF:-1,FRANCE 4 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2912.m3u8
+#EXTINF:-1,FRANCE 4 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/114.m3u8
+#EXTINF:-1,FRANCE 5 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2913.m3u8
+#EXTINF:-1,FRANCE 5 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/117.m3u8
+#EXTINF:-1,RMC STORY  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/7486.m3u8
+#EXTINF:-1,RMC STORY FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3013.m3u8
+#EXTINF:-1,RMC STORY HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2172.m3u8
+#EXTINF:-1,TFX FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3095.m3u8
+#EXTINF:-1,TFX HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/669.m3u8
+#EXTINF:-1,TMC +1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4037.m3u8
+#EXTINF:-1,TMC FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3096.m3u8
+#EXTINF:-1,TMC HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/670.m3u8
 #EXTINF:-1,FRANCE INFO HD
-http://siptv-online.com:8789/Julien90/Julien90/13935
-#EXTINF:-1,FRANCE INFO SD
-http://siptv-online.com:8789/Julien90/Julien90/1917
-#EXTINF:-1,TV5 MONDE FHD
-http://siptv-online.com:8789/Julien90/Julien90/25051
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4099.m3u8
+#EXTINF:-1,BFM BUSINESS FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4237.m3u8
+#EXTINF:-1,BFM BUSINESS HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3862.m3u8
+#EXTINF:-1,BFM TV HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/913.m3u8
+#EXTINF:-1,CNEWS FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2982.m3u8
+#EXTINF:-1,CNEWS HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9630.m3u8
+#EXTINF:-1,EURONEWS
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/656.m3u8
+#EXTINF:-1,FRANCE 24
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/623.m3u8
 #EXTINF:-1,TV5 MONDE
-http://siptv-online.com:8789/Julien90/Julien90/25052
-#EXTINF:-1,I24 NEWS FHD
-http://siptv-online.com:8789/Julien90/Julien90/13730
-#EXTINF:-1,i24 NEWS
-http://siptv-online.com:8789/Julien90/Julien90/1050
-#EXTINF:-1,RT FRANCE FHD
-http://siptv-online.com:8789/Julien90/Julien90/35341
-#EXTINF:-1,M6 MUSIC FHD
-http://siptv-online.com:8789/Julien90/Julien90/13826
-#EXTINF:-1,TRACE URBAN FHD
-http://siptv-online.com:8789/Julien90/Julien90/13844
-#EXTINF:-1,TRACE URBAN HD
-http://siptv-online.com:8789/Julien90/Julien90/13978
-#EXTINF:-1,TRACE URBAIN
-http://siptv-online.com:8789/Julien90/Julien90/1099
-#EXTINF:-1,TRACE URBAN INTER
-http://siptv-online.com:8789/Julien90/Julien90/9127
-#EXTINF:-1,TRACE URBAN TROPICAL
-http://siptv-online.com:8789/Julien90/Julien90/9128
-#EXTINF:-1,TRACE TROPICAL FHD
-http://siptv-online.com:8789/Julien90/Julien90/13771
-#EXTINF:-1,TRACE AFRICA FHD
-http://siptv-online.com:8789/Julien90/Julien90/13720
-#EXTINF:-1,TRACE GOSPEL
-http://siptv-online.com:8789/Julien90/Julien90/25054
-#EXTINF:-1,TRACE MZIKI
-http://siptv-online.com:8789/Julien90/Julien90/25057
-#EXTINF:-1,TRACE NAIJA
-http://siptv-online.com:8789/Julien90/Julien90/25055
-#EXTINF:-1,TRACE PRIME
-http://siptv-online.com:8789/Julien90/Julien90/25053
-#EXTINF:-1,TRACE TOCA
-http://siptv-online.com:8789/Julien90/Julien90/25056
-#EXTINF:-1,BBLACK CARIBBEAN
-http://siptv-online.com:8789/Julien90/Julien90/8050
-#EXTINF:-1,BBLACK CLASSIK
-http://siptv-online.com:8789/Julien90/Julien90/8052
-#EXTINF:-1,INDIES LIVE MUSIC
-http://siptv-online.com:8789/Julien90/Julien90/25058
-#EXTINF:-1,MTV MUSIC FHD
-http://siptv-online.com:8789/Julien90/Julien90/13721
-#EXTINF:-1,MTV MUSIC
-http://siptv-online.com:8789/Julien90/Julien90/13930
-#EXTINF:-1,MTV DANCE
-http://siptv-online.com:8789/Julien90/Julien90/13931
-#EXTINF:-1,MTV BASE
-http://siptv-online.com:8789/Julien90/Julien90/13932
-#EXTINF:-1,MTV HD
-http://siptv-online.com:8789/Julien90/Julien90/14009
-#EXTINF:-1,MCM FHD
-http://siptv-online.com:8789/Julien90/Julien90/13725
-#EXTINF:-1,MCM HD
-http://siptv-online.com:8789/Julien90/Julien90/14002
-#EXTINF:-1,MCM
-http://siptv-online.com:8789/Julien90/Julien90/1037
-#EXTINF:-1,MCM TOP FHD
-http://siptv-online.com:8789/Julien90/Julien90/13724
-#EXTINF:-1,RFM TV FHD
-http://siptv-online.com:8789/Julien90/Julien90/13709
-#EXTINF:-1,RFM HD
-http://siptv-online.com:8789/Julien90/Julien90/24960
-#EXTINF:-1,NRJ12 HITS
-http://siptv-online.com:8789/Julien90/Julien90/13927
-#EXTINF:-1,MEZZO HD
-http://siptv-online.com:8789/Julien90/Julien90/14001
-#EXTINF:-1,MEZZO LIVE FHD
-http://siptv-online.com:8789/Julien90/Julien90/13723
-#EXTINF:-1,VH1 HD
-http://siptv-online.com:8789/Julien90/Julien90/13840
-#EXTINF:-1,VH1 CLASSIC FHD
-http://siptv-online.com:8789/Julien90/Julien90/13815
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1899.m3u8
+#EXTINF:-1,I24 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4095.m3u8
+#EXTINF:-1,I24 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4097.m3u8
+#EXTINF:-1,LCI FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4098.m3u8
+#EXTINF:-1,LCI HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4096.m3u8
 #EXTINF:-1,MELODY TV
-http://siptv-online.com:8789/Julien90/Julien90/13808
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3569.m3u8
+#EXTINF:-1,RFM  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2922.m3u8
+#EXTINF:-1,TRACE AFRICA HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3299.m3u8
+#EXTINF:-1,TRACE TROPICAL HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3298.m3u8
+#EXTINF:-1,DJAZZ TV FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3028.m3u8
+#EXTINF:-1,BRAVA FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3030.m3u8
 #EXTINF:-1,BRAVA HD
-http://siptv-online.com:8789/Julien90/Julien90/14038
-#EXTINF:-1,DJAZZ TV
-http://siptv-online.com:8789/Julien90/Julien90/13939
-#EXTINF:-1,TELESUD
-http://siptv-online.com:8789/Julien90/Julien90/1101
-#EXTINF:-1,|BE| LA UNE HD
-http://siptv-online.com:8789/Julien90/Julien90/14150
-#EXTINF:-1,|BE|  LA UNE
-http://siptv-online.com:8789/Julien90/Julien90/29821
-#EXTINF:-1,|BE| LA DEUX
-http://siptv-online.com:8789/Julien90/Julien90/14149
-#EXTINF:-1,|BE| LA TROIS
-http://siptv-online.com:8789/Julien90/Julien90/14148
-#EXTINF:-1,|BE| CLUB RTL
-http://siptv-online.com:8789/Julien90/Julien90/14144
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2653.m3u8
+#EXTINF:-1,MEZZO LIVE  HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2969.m3u8
+#EXTINF:-1,MEZZO LIVE  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2684.m3u8
+#EXTINF:-1,VH1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2943.m3u8
+#EXTINF:-1,MCM TOP FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4291.m3u8
+#EXTINF:-1,MCM TOP  FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2920.m3u8
+#EXTINF:-1,MCM TOP HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2466.m3u8
+#EXTINF:-1,TRACE URBAN FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3287.m3u8
+#EXTINF:-1,TRACE URBAN HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/37.m3u8
+#EXTINF:-1,M6 MUSIC HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/38.m3u8
+#EXTINF:-1,NRJ HITS HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2400.m3u8
+#EXTINF:-1,VIRGIN HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/33.m3u8
+#EXTINF:-1,MTV LIVE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3411.m3u8
+#EXTINF:-1,MTV MUSIC
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1592.m3u8
+#EXTINF:-1,MTV HITS
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2397.m3u8
+#EXTINF:-1,MTV BASE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2201.m3u8
+#EXTINF:-1,MTV ROCK
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3272.m3u8
+#EXTINF:-1,MTV DANCE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2771.m3u8
+#EXTINF:-1,MTV CLASSIC
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9670.m3u8
+#EXTINF:-1,RMC SPORT 1  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8863.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD STABL
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9223.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2944.m3u8
+#EXTINF:-1,RMC SPORT 1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2318.m3u8
+#EXTINF:-1,RMC SPORT 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3616.m3u8
+#EXTINF:-1,RMC SPORT 2 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3012.m3u8
+#EXTINF:-1,RMC SPORT 2 FHD STABL
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9224.m3u8
+#EXTINF:-1,RMC SPORT 2 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2256.m3u8
+#EXTINF:-1,RMC SPORT 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3617.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2319.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD STABL
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9225.m3u8
+#EXTINF:-1,RMC SPORT 3 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3426.m3u8
+#EXTINF:-1,RMC SPORT 4 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4456.m3u8
+#EXTINF:-1,RMC SPORT 4 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4457.m3u8
+#EXTINF:-1,RMC SPORT 5 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3425.m3u8
+#EXTINF:-1,SFR ACTION
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3881.m3u8
+#EXTINF:-1,SFR COMEDY
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3882.m3u8
+#EXTINF:-1,SFR HORROR
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3883.m3u8
+#EXTINF:-1,SFR SCI-FI
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3884.m3u8
+#EXTINF:-1,BEIN SPORTS 1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2431.m3u8
+#EXTINF:-1,BEIN SPORT 1 FHD  STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9210.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/85.m3u8
+#EXTINF:-1,BEIN SPORT 1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3401.m3u8
+#EXTINF:-1,BEIN SPORTS 2 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2432.m3u8
+#EXTINF:-1,BEIN SPORT 2 FHD  STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9211.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2.m3u8
+#EXTINF:-1,BEIN SPORT 2 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3402.m3u8
+#EXTINF:-1,BEIN SPORTS 3 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2433.m3u8
+#EXTINF:-1,BEIN SPORT 3 FHD STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9212.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3011.m3u8
+#EXTINF:-1,BEIN SPORT 3 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9441.m3u8
+#EXTINF:-1,BEIN MAX 4 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1209.m3u8
+#EXTINF:-1,BEIN MAX 5 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/894.m3u8
+#EXTINF:-1,BEIN MAX 6 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/903.m3u8
+#EXTINF:-1,BEIN MAX 7 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/902.m3u8
+#EXTINF:-1,BEIN MAX 8 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/901.m3u8
+#EXTINF:-1,BEIN MAX 9 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2680.m3u8
+#EXTINF:-1,BEIN MAX 10 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2770.m3u8
+#EXTINF:-1,BEIN MAX 4 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3424.m3u8
+#EXTINF:-1,BEIN MAX 6 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3422.m3u8
+#EXTINF:-1,BEIN MAX 5 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3423.m3u8
+#EXTINF:-1,BEIN MAX 7 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3421.m3u8
+#EXTINF:-1,BEIN MAX 8 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3420.m3u8
+#EXTINF:-1,BEIN MAX 9 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3419.m3u8
+#EXTINF:-1,BEIN MAX 10 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3418.m3u8
+#EXTINF:-1,AB MOTEURS FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3413.m3u8
+#EXTINF:-1,AB MOTEURS HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/957.m3u8
+#EXTINF:-1,OL TV FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3083.m3u8
+#EXTINF:-1,EXTREME SPORT FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9263.m3u8
+#EXTINF:-1,EXTREME SPORT HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2924.m3u8
+#EXTINF:-1,MOTORSPORT TV HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3018.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2444.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4351.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/59.m3u8
+#EXTINF:-1,EUROSPORT 2 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2445.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4352.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/949.m3u8
+#EXTINF:-1,FOOT+ 24/24 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1650.m3u8
+#EXTINF:-1,FOOT+ 24/24
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/58.m3u8
+#EXTINF:-1,L'EQUIPE 21 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3355.m3u8
+#EXTINF:-1,L'EQUIPE 21 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/893.m3u8
+#EXTINF:-1,GOLF CHANNEL FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3302.m3u8
+#EXTINF:-1,GOLF CHANNEL HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3570.m3u8
+#EXTINF:-1,GOLF+ FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3283.m3u8
+#EXTINF:-1,GOLF+ HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2231.m3u8
+#EXTINF:-1,INFOSPORT+ FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/100.m3u8
+#EXTINF:-1,INFOSPORT+ HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3020.m3u8
+#EXTINF:-1,RMC NEWS SPORT FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3331.m3u8
+#EXTINF:-1,RMC NEWS SPORT HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2399.m3u8
+#EXTINF:-1,EQUIDIA LIVE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3417.m3u8
+#EXTINF:-1,EQUIDIA LIVE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1441.m3u8
+#EXTINF:-1,EQUIDIA LIFE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3416.m3u8
+#EXTINF:-1,EQUIDIA LIFE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2434.m3u8
+#EXTINF:-1,KOMBAT SPORT
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2346.m3u8
+#EXTINF:-1,MULTISPORTS 1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3320.m3u8
+#EXTINF:-1,MULTISPORTS 2 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3321.m3u8
+#EXTINF:-1,MULTISPORTS 3 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3322.m3u8
+#EXTINF:-1,MULTISPORTS 4 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3323.m3u8
+#EXTINF:-1,MULTISPORTS 5 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3324.m3u8
+#EXTINF:-1,MULTISPORTS 6 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3325.m3u8
+#EXTINF:-1,CANAL+ FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2467.m3u8
+#EXTINF:-1,CANAL+ FHD  STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9213.m3u8
+#EXTINF:-1,CANAL+ HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/82.m3u8
+#EXTINF:-1,CANAL+
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3094.m3u8
+#EXTINF:-1,CANAL+ CINEMA FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2470.m3u8
+#EXTINF:-1,CANAL+ CINEMA HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/81.m3u8
+#EXTINF:-1,CANAL+  CINEMA
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3014.m3u8
+#EXTINF:-1,CANAL+ SERIES FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2471.m3u8
+#EXTINF:-1,CANAL+ SERIES HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/78.m3u8
+#EXTINF:-1,CANAL+ SERIE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3015.m3u8
+#EXTINF:-1,CANAL+  FAMILY FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2468.m3u8
+#EXTINF:-1,CANAL+  FAMILY HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/79.m3u8
+#EXTINF:-1,CANAL+  FAMILY
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3017.m3u8
+#EXTINF:-1,CANAL+  DECALE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2469.m3u8
+#EXTINF:-1,CANAL+  DECALE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/80.m3u8
+#EXTINF:-1,CANAL+  DECALE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3016.m3u8
+#EXTINF:-1,CANAL + SPORT FHD STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9214.m3u8
+#EXTINF:-1,CANAL+  SPORT FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2534.m3u8
+#EXTINF:-1,CANAL+  SPORT HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/77.m3u8
+#EXTINF:-1,CANAL+  SPORT
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5437.m3u8
+#EXTINF:-1,OCS MAX   FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3902.m3u8
+#EXTINF:-1,OCS MAX  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3027.m3u8
+#EXTINF:-1,OCS MAX HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/895.m3u8
+#EXTINF:-1,OCS GEANT  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3900.m3u8
+#EXTINF:-1,OCS GEANT FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2975.m3u8
+#EXTINF:-1,OCS GEANT HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/816.m3u8
+#EXTINF:-1,OCS CHOC  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3901.m3u8
+#EXTINF:-1,OCS CHOC FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/814.m3u8
+#EXTINF:-1,OCS CHOC HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2981.m3u8
+#EXTINF:-1,OCS CITY  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3899.m3u8
+#EXTINF:-1,OCS CITY FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/55.m3u8
+#EXTINF:-1,OCS CITY HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1649.m3u8
+#EXTINF:-1,NOVELAS FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3332.m3u8
+#EXTINF:-1,NOVELAS HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4502.m3u8
+#EXTINF:-1,WARNER TV FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3328.m3u8
+#EXTINF:-1,WARNER TV HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3880.m3u8
+#EXTINF:-1,POLAR + FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4531.m3u8
+#EXTINF:-1,POLAR + HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3126.m3u8
+#EXTINF:-1,ALTICE STUDIO  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8862.m3u8
+#EXTINF:-1,ALTICE STUDIO FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3157.m3u8
+#EXTINF:-1,ALTICE STUDIO HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3866.m3u8
+#EXTINF:-1,CINE+  PREMIER
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3021.m3u8
+#EXTINF:-1,CINE+  PREMIER FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2497.m3u8
+#EXTINF:-1,CINE+  PREMIER HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/61.m3u8
+#EXTINF:-1,CINE+  FRISSON FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2498.m3u8
+#EXTINF:-1,CINE+  FRISSON HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/62.m3u8
+#EXTINF:-1,CINE+  FAMIZ FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2499.m3u8
+#EXTINF:-1,CINE+  FAMIZ HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/63.m3u8
+#EXTINF:-1,CINE+  EMOTION FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2500.m3u8
+#EXTINF:-1,CINE+  EMOTION HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/64.m3u8
+#EXTINF:-1,CINE CLASSIC FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2501.m3u8
+#EXTINF:-1,CINE CLASSIC HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/65.m3u8
+#EXTINF:-1,CINE+ CLUB FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3171.m3u8
+#EXTINF:-1,CINE+ CLUB HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2503.m3u8
+#EXTINF:-1,CLIQUE TV FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4512.m3u8
+#EXTINF:-1,CLIQUE TV HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2504.m3u8
+#EXTINF:-1,CINE POLAR FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2502.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3290.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/911.m3u8
+#EXTINF:-1,TCM CINEMA FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2916.m3u8
+#EXTINF:-1,TCM CINEMA HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2230.m3u8
+#EXTINF:-1,ACTION FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3099.m3u8
+#EXTINF:-1,ACTION HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/87.m3u8
+#EXTINF:-1,ES1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/7747.m3u8
+#EXTINF:-1,COMEDY CENTRAL FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6823.m3u8
+#EXTINF:-1,MTV FRANCE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9527.m3u8
+#EXTINF:-1,MTV FRANCE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2398.m3u8
+#EXTINF:-1,E! HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1900.m3u8
+#EXTINF:-1,ELLE GIRL HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2970.m3u8
+#EXTINF:-1,NOLLYWOOD FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8079.m3u8
+#EXTINF:-1,NOLLYWOOD HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2972.m3u8
+#EXTINF:-1,BET HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2942.m3u8
+#EXTINF:-1, A+ FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9543.m3u8
+#EXTINF:-1, A+ HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3087.m3u8
+#EXTINF:-1,MCM  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2914.m3u8
+#EXTINF:-1,MCM FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4292.m3u8
+#EXTINF:-1,MCM HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2685.m3u8
+#EXTINF:-1,COMEDIE+  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6724.m3u8
+#EXTINF:-1,COMEDIE+ FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2934.m3u8
+#EXTINF:-1,COMEDIE+ HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/118.m3u8
+#EXTINF:-1,SYFY FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2917.m3u8
+#EXTINF:-1,SYFY HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/129.m3u8
+#EXTINF:-1,PARIS PREMIERE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3334.m3u8
+#EXTINF:-1,PARIS PREMIERE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/67.m3u8
+#EXTINF:-1,NON STOP PEOPLE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3934.m3u8
+#EXTINF:-1,TV BREIZH  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6725.m3u8
+#EXTINF:-1,TV BREIZH FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2918.m3u8
+#EXTINF:-1,TV BREIZH HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1306.m3u8
+#EXTINF:-1,RTL9 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3098.m3u8
+#EXTINF:-1,RTL9 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/671.m3u8
+#EXTINF:-1,TEVA FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3097.m3u8
+#EXTINF:-1,TEVA HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/92.m3u8
+#EXTINF:-1,SERIE CLUB  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4358.m3u8
+#EXTINF:-1,SERIE CLUB FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2919.m3u8
+#EXTINF:-1,SERIE CLUB HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/53.m3u8
+#EXTINF:-1,13EME RUE  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/7865.m3u8
+#EXTINF:-1,13EME RUE FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2915.m3u8
+#EXTINF:-1,13EME RUE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/89.m3u8
+#EXTINF:-1,AB1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1160.m3u8
+#EXTINF:-1,AB1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2185.m3u8
+#EXTINF:-1,AB3 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2232.m3u8
+#EXTINF:-1,J ONE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3335.m3u8
+#EXTINF:-1,J ONE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2344.m3u8
+#EXTINF:-1,GAME ONE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3296.m3u8
+#EXTINF:-1,GAME ONE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2343.m3u8
+#EXTINF:-1,CHERIE25  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4359.m3u8
+#EXTINF:-1,CHERIE25 FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3294.m3u8
+#EXTINF:-1,CHERIE25 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/318.m3u8
+#EXTINF:-1,NRJ12 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3336.m3u8
+#EXTINF:-1,NRJ12 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/95.m3u8
+#EXTINF:-1,6TER FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3292.m3u8
+#EXTINF:-1,6TER HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/88.m3u8
+#EXTINF:-1,HD1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3010.m3u8
+#EXTINF:-1,HD1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/818.m3u8
+#EXTINF:-1,C8 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3297.m3u8
+#EXTINF:-1,C8 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/126.m3u8
+#EXTINF:-1,CSTAR FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3002.m3u8
+#EXTINF:-1,CSTAR HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/60.m3u8
+#EXTINF:-1,FASHION FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3864.m3u8
+#EXTINF:-1,FASHION HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3865.m3u8
+#EXTINF:-1,LA CHAINE METEO FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3327.m3u8
+#EXTINF:-1,LA CHAINE METEO HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3410.m3u8
+#EXTINF:-1,MUSEUM CHANNEL FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3086.m3u8
+#EXTINF:-1,MY CUISINE TV FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3088.m3u8
+#EXTINF:-1,MY CUISINE TV HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4465.m3u8
+#EXTINF:-1,SUNDANCE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3156.m3u8
+#EXTINF:-1,SUNDANCE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5333.m3u8
+#EXTINF:-1,MYZEN TV FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3342.m3u8
+#EXTINF:-1,VICELAND  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3089.m3u8
+#EXTINF:-1,VICELAND HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5330.m3u8
+#EXTINF:-1,MB LIVE TV
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/66.m3u8
+#EXTINF:-1,CRIME DISTRICT FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3300.m3u8
+#EXTINF:-1,CRIME DISTRICT HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2985.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3329.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2971.m3u8
+#EXTINF:-1,DISCOVERY FAMILY  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6636.m3u8
+#EXTINF:-1,DISCOVERY FAMILY FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3343.m3u8
+#EXTINF:-1,DISCOVERY FAMILY
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4245.m3u8
+#EXTINF:-1,DISCOVERY  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2508.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/125.m3u8
+#EXTINF:-1,DISCOVERY
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8852.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6480.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2435.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE  HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/107.m3u8
+#EXTINF:-1,VOYAGE  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4361.m3u8
+#EXTINF:-1,VOYAGE FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/819.m3u8
+#EXTINF:-1,VOYAGE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2553.m3u8
+#EXTINF:-1,NATIONAL GEO  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4360.m3u8
+#EXTINF:-1,NATIONAL GEO FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/97.m3u8
+#EXTINF:-1,NATIONAL GEO HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2999.m3u8
+#EXTINF:-1,NATIONAL GEO WILD  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6723.m3u8
+#EXTINF:-1,NATIONAL GEO WILD FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2948.m3u8
+#EXTINF:-1,NATIONAL GEO WILD HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/96.m3u8
+#EXTINF:-1,ANIMAUX FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3275.m3u8
+#EXTINF:-1,ANIMAUX HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/110.m3u8
+#EXTINF:-1,USHUAIA FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3276.m3u8
+#EXTINF:-1,USHUAIA TV
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/51.m3u8
+#EXTINF:-1,CHASSE ET PECHE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3977.m3u8
+#EXTINF:-1,CHASSE ET PECHE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/68.m3u8
+#EXTINF:-1,SEASONS  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6722.m3u8
+#EXTINF:-1,SEASONS FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2978.m3u8
+#EXTINF:-1,SEASONS HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2317.m3u8
+#EXTINF:-1,SCIENCES & VIE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3314.m3u8
+#EXTINF:-1,SCIENCES & VIE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/912.m3u8
+#EXTINF:-1,TOUTE L HISTOIRE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4123.m3u8
+#EXTINF:-1,TOUTE L HISTOIRE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/958.m3u8
+#EXTINF:-1,HISTOIRE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/7488.m3u8
+#EXTINF:-1,HISTOIRE FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2930.m3u8
+#EXTINF:-1,HISTOIRE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1654.m3u8
+#EXTINF:-1,PLANETE+ A&E  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4293.m3u8
+#EXTINF:-1,PLANETE+ A&E FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2909.m3u8
+#EXTINF:-1,PLANETE+ A&E HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1257.m3u8
+#EXTINF:-1,PLANETE  CI FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2936.m3u8
+#EXTINF:-1,PLANETE  CI HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/93.m3u8
+#EXTINF:-1,PLANETE+ FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/224.m3u8
+#EXTINF:-1,PLANETE+ HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2921.m3u8
+#EXTINF:-1,RMC DECOUVERTE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2979.m3u8
+#EXTINF:-1,RMC DECOUVERTE HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/815.m3u8
+#EXTINF:-1,TREK FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2910.m3u8
+#EXTINF:-1,TREK HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2187.m3u8
+#EXTINF:-1,TOONAMI  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9506.m3u8
+#EXTINF:-1,TOONAMI  FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3052.m3u8
+#EXTINF:-1,TOONAMI  HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3053.m3u8
+#EXTINF:-1,CARTOON NETWORK  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6631.m3u8
+#EXTINF:-1,CARTOON NETWORK FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2935.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/109.m3u8
+#EXTINF:-1,TELETOON +1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3339.m3u8
+#EXTINF:-1,TELETOON+ HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/914.m3u8
+#EXTINF:-1,ZOUZOU TV HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/946.m3u8
+#EXTINF:-1,NICKELODEON JR FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3414.m3u8
+#EXTINF:-1,NICKELODEON JR HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2171.m3u8
+#EXTINF:-1,NICKELODEON FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3415.m3u8
+#EXTINF:-1,NICKELODEON +1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4454.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1647.m3u8
+#EXTINF:-1,NICKELODEON 4TEEN FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3340.m3u8
+#EXTINF:-1,NICKELODEON 4TEEN HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1648.m3u8
+#EXTINF:-1,DISNEY CINEMA   FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6632.m3u8
+#EXTINF:-1,DISNEY CINEMA  FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1229.m3u8
+#EXTINF:-1,DISNEY CINEMA HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2646.m3u8
+#EXTINF:-1,DISNEY CHANNEL  +1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2759.m3u8
+#EXTINF:-1,DISNEY CHANNEL FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3289.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1230.m3u8
+#EXTINF:-1,DISNEY XD  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6633.m3u8
+#EXTINF:-1,DISNEY XD FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2911.m3u8
+#EXTINF:-1,DISNEY XD HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/119.m3u8
+#EXTINF:-1,PIWI FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3284.m3u8
+#EXTINF:-1,PIWI HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/128.m3u8
+#EXTINF:-1,CANAL J FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3338.m3u8
+#EXTINF:-1,CANAL J HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/652.m3u8
+#EXTINF:-1,BOOMERANG FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3295.m3u8
+#EXTINF:-1,BOOMERANG HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/127.m3u8
+#EXTINF:-1,MANGAS FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3592.m3u8
+#EXTINF:-1,MANGAS HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/98.m3u8
+#EXTINF:-1,BOING  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6630.m3u8
+#EXTINF:-1,BOING FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2931.m3u8
+#EXTINF:-1,BOING HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/653.m3u8
+#EXTINF:-1,DISNEY JUNIOR  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6629.m3u8
+#EXTINF:-1,DISNEY JUNIOR FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2933.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/105.m3u8
+#EXTINF:-1,TIJI  FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6721.m3u8
+#EXTINF:-1,TIJI FHD.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2932.m3u8
+#EXTINF:-1,TIJI HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1208.m3u8
+#EXTINF:-1,GULLI FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/56.m3u8
+#EXTINF:-1,GULLI HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4263.m3u8
+#EXTINF:-1,WEO HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/947.m3u8
+#EXTINF:-1,RMC SPORT 1 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9169.m3u8
+#EXTINF:-1,RMC SPORT 2 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9168.m3u8
+#EXTINF:-1,RMC SPORT 3 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9145.m3u8
+#EXTINF:-1,RMC SPORT 4 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9144.m3u8
+#EXTINF:-1,TF1 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9206.m3u8
+#EXTINF:-1,M6 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9200.m3u8
+#EXTINF:-1,W9 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9199.m3u8
+#EXTINF:-1,FRANCE 2 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9205.m3u8
+#EXTINF:-1,FRANCE 3 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9204.m3u8
+#EXTINF:-1,FRANCE 5 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9202.m3u8
+#EXTINF:-1,FRANCE O H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9193.m3u8
+#EXTINF:-1,RMC STORY  H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9128.m3u8
+#EXTINF:-1,FRANCE INFO H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9185.m3u8
+#EXTINF:-1,L'EQUIPE H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9191.m3u8
+#EXTINF:-1,6TER H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9186.m3u8
+#EXTINF:-1,TMC H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9187.m3u8
+#EXTINF:-1,ARTE H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9201.m3u8
+#EXTINF:-1,C8 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9198.m3u8
+#EXTINF:-1,CSTAR H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9196.m3u8
+#EXTINF:-1,NRJ12 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9189.m3u8
+#EXTINF:-1,TFX H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9188.m3u8
+#EXTINF:-1,RMC STORY H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9190.m3u8
+#EXTINF:-1,BEIN 1 SPORT H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9184.m3u8
+#EXTINF:-1,BEIN 2 SPORT H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9183.m3u8
+#EXTINF:-1,BEIN 3 SPORT H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9182.m3u8
+#EXTINF:-1,BOOMERANG H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9167.m3u8
+#EXTINF:-1,CANAL H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9180.m3u8
+#EXTINF:-1,CANAL+ CINEMA h265
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9495.m3u8
+#EXTINF:-1,CANAL+ DECALE H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9172.m3u8
+#EXTINF:-1,CANAL+ FAMILY H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9173.m3u8
+#EXTINF:-1,CANAL+ SERIES H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9179.m3u8
+#EXTINF:-1,CANAL+  SPORT H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9178.m3u8
+#EXTINF:-1,CINE+ EMOTION H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9165.m3u8
+#EXTINF:-1,CINE+ FAMIZ H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9153.m3u8
+#EXTINF:-1,CINE+ FRISSON H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9171.m3u8
+#EXTINF:-1,CINE+ PREMIER H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9164.m3u8
+#EXTINF:-1,OCS CHOC H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9152.m3u8
+#EXTINF:-1,OCS CITY H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9155.m3u8
+#EXTINF:-1,OCS GEANTS H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9154.m3u8
+#EXTINF:-1,OCS MAX H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9156.m3u8
+#EXTINF:-1,DISCOVERY INVESTIGATION H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9146.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9147.m3u8
+#EXTINF:-1,DISCOVERY FAMILY H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9148.m3u8
+#EXTINF:-1,DISCOVERY H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9149.m3u8
+#EXTINF:-1,NATIONAL GEO H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9161.m3u8
+#EXTINF:-1,NAT GEO WILD H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9176.m3u8
+#EXTINF:-1,DISNEY JUNIOR H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9159.m3u8
+#EXTINF:-1,CANAL J H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9142.m3u8
+#EXTINF:-1,EQUIDIA H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9157.m3u8
+#EXTINF:-1,EUROSPORT 1 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9133.m3u8
+#EXTINF:-1,EUROSPORT 2 H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9132.m3u8
+#EXTINF:-1,M6 MUSIC H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9175.m3u8
+#EXTINF:-1,ALTICE STUDIO H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9136.m3u8
+#EXTINF:-1,ANIMAUX H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9177.m3u8
+#EXTINF:-1,NICKELODEON H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9129.m3u8
+#EXTINF:-1,NICKELODEON 4TEEN H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9130.m3u8
+#EXTINF:-1,NON STOP PEOPLE H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9134.m3u8
+#EXTINF:-1,PLANETE A&E H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9140.m3u8
+#EXTINF:-1,RMC DECOUVERTE H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9127.m3u8
+#EXTINF:-1,SEASONS H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9125.m3u8
+#EXTINF:-1,USHUAIA H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9141.m3u8
+#EXTINF:-1,WARNER TV H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9135.m3u8
+#EXTINF:-1,ULTRA NATURE H265.
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9170.m3u8
+#EXTINF:-1,----------- BOUQUET BELGES -----------
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2753.m3u8
+#EXTINF:-1,|BE| LA UNE FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8614.m3u8
+#EXTINF:-1,|BE| LA UNE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/132.m3u8
+#EXTINF:-1,|BE| PLUG RTL HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8613.m3u8
 #EXTINF:-1,|BE| PLUG RTL
-http://siptv-online.com:8789/Julien90/Julien90/14147
-#EXTINF:-1,|BE| RTL TVi FHD
-http://siptv-online.com:8789/Julien90/Julien90/14145
-#EXTINF:-1,|BE| RTL TVi HD
-http://siptv-online.com:8789/Julien90/Julien90/14146
-#EXTINF:-1,|BE| AB1 HD
-http://siptv-online.com:8789/Julien90/Julien90/14143
-#EXTINF:-1,|BE| AB3 HD
-http://siptv-online.com:8789/Julien90/Julien90/14115
-#EXTINF:-1,|BE| AB3 FHD
-http://siptv-online.com:8789/Julien90/Julien90/14142
-#EXTINF:-1,|BE| AB XPLORE HD
-http://siptv-online.com:8789/Julien90/Julien90/29560
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/131.m3u8
+#EXTINF:-1,|BE| RTL TVI FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8318.m3u8
+#EXTINF:-1,|BE| RTL TVI HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/130.m3u8
 #EXTINF:-1,|BE| CINEMA 1
-http://siptv-online.com:8789/Julien90/Julien90/14141
-#EXTINF:-1,|BE| 2BE FHD
-http://siptv-online.com:8789/Julien90/Julien90/25060
-#EXTINF:-1,|BE| ZES
-http://siptv-online.com:8789/Julien90/Julien90/14140
-#EXTINF:-1,|BE| TELE BRUXELLES
-http://siptv-online.com:8789/Julien90/Julien90/25117
-#EXTINF:-1,|BE| PROXIMUS 11 FHD
-http://siptv-online.com:8789/Julien90/Julien90/35336
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2756.m3u8
+#EXTINF:-1,|BE| CINEMA 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2757.m3u8
+#EXTINF:-1,|BE| BE SERIE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/675.m3u8
+#EXTINF:-1,|BE| CLUB RTL
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/676.m3u8
+#EXTINF:-1,|BE| LA DEUX HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/134.m3u8
+#EXTINF:-1,|BE| LA TROIS
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/133.m3u8
 #EXTINF:-1,|BE| VOO SPORT 1 FHD
-http://siptv-online.com:8789/Julien90/Julien90/14137
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4244.m3u8
+#EXTINF:-1,|BE| VOO SPORT 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2186.m3u8
+#EXTINF:-1,|BE| VOO SPORT 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2768.m3u8
 #EXTINF:-1,|BE| VOO SPORT WORLD 1
-http://siptv-online.com:8789/Julien90/Julien90/14136
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3291.m3u8
 #EXTINF:-1,|BE| VOO SPORT WORLD 2
-http://siptv-online.com:8789/Julien90/Julien90/14128
-#EXTINF:-1,|BE| ELEVEN SPORT 3 HD
-http://siptv-online.com:8789/Julien90/Julien90/33590
-#EXTINF:-1,|BE| ELEVEN SPORT 1 HD
-http://siptv-online.com:8789/Julien90/Julien90/14134
-#EXTINF:-1,|BE| ELEVEN SPORT 2 HD
-http://siptv-online.com:8789/Julien90/Julien90/14133
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3500.m3u8
+#EXTINF:-1,|BE| VOO SPORT WORLD 3
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3501.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3614.m3u8
+#EXTINF:-1,|BE| ELEVEN SPORT 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3615.m3u8
+#EXTINF:-1,|BE| 2BE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/673.m3u8
 #EXTINF:-1,|BE| EEN HD
-http://siptv-online.com:8789/Julien90/Julien90/14122
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4008.m3u8
+#EXTINF:-1,|BE| KADET HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4009.m3u8
 #EXTINF:-1,|BE| VIER HD
-http://siptv-online.com:8789/Julien90/Julien90/14111
-#EXTINF:-1,|BE| VIJF
-http://siptv-online.com:8789/Julien90/Julien90/14112
-#EXTINF:-1,|BE|  VITAYA  HD
-http://siptv-online.com:8789/Julien90/Julien90/14109
-#EXTINF:-1,|BE| CANVAS HD
-http://siptv-online.com:8789/Julien90/Julien90/14110
-#EXTINF:-1,|BE| 192 TV
-http://siptv-online.com:8789/Julien90/Julien90/14124
-#EXTINF:-1,|BE| KETNET
-http://siptv-online.com:8789/Julien90/Julien90/14119
-#EXTINF:-1,|BE| TVO
-http://siptv-online.com:8789/Julien90/Julien90/14117
-#EXTINF:-1,|BE| VTM HD
-http://siptv-online.com:8789/Julien90/Julien90/14126
-#EXTINF:-1,|BE| VTM KAZOOM HD
-http://siptv-online.com:8789/Julien90/Julien90/14125
-#EXTINF:-1,|BE| Q2 HD
-http://siptv-online.com:8789/Julien90/Julien90/14127
-#EXTINF:-1,|BE| KET OP2
-http://siptv-online.com:8789/Julien90/Julien90/14120
-#EXTINF:-1,|BE| ACHT TV
-http://siptv-online.com:8789/Julien90/Julien90/14113
-#EXTINF:-1,|BE| KADET
-http://siptv-online.com:8789/Julien90/Julien90/14121
-#EXTINF:-1,|BE| ATV ANTWERPEN
-http://siptv-online.com:8789/Julien90/Julien90/14123
-#EXTINF:-1,|BE| NO TELE
-http://siptv-online.com:8789/Julien90/Julien90/25119
-#EXTINF:-1,|BE| CANAL ZOOM
-http://siptv-online.com:8789/Julien90/Julien90/25120
-#EXTINF:-1,|BE| CANAL C
-http://siptv-online.com:8789/Julien90/Julien90/25118
-#EXTINF:-1,|CH| RTS UN HD
-http://siptv-online.com:8789/Julien90/Julien90/13705
-#EXTINF:-1,|CH| RTS DEUX HD
-http://siptv-online.com:8789/Julien90/Julien90/13706
-#EXTINF:-1,|CH| BE CURIOUS
-http://siptv-online.com:8789/Julien90/Julien90/21776
-#EXTINF:-1,|CH| RSI LA 1 HD
-http://siptv-online.com:8789/Julien90/Julien90/29567
-#EXTINF:-1,|CH| RSI LA 2 HD
-http://siptv-online.com:8789/Julien90/Julien90/29568
-#EXTINF:-1,|CH| BOING
-http://siptv-online.com:8789/Julien90/Julien90/21775
-#EXTINF:-1,|CH|  BOOMERANG
-http://siptv-online.com:8789/Julien90/Julien90/21773
-#EXTINF:-1,|CH| CARTOON NETWORK
-http://siptv-online.com:8789/Julien90/Julien90/21772
-#EXTINF:-1,|CH| MOTORS TV
-http://siptv-online.com:8789/Julien90/Julien90/21771
-#EXTINF:-1,|CH|  ROUGE TV
-http://siptv-online.com:8789/Julien90/Julien90/21770
-#EXTINF:-1,|CH|  TELECLUB CINEMA
-http://siptv-online.com:8789/Julien90/Julien90/21769
-#EXTINF:-1,|CH|  TELECLUB ACTION
-http://siptv-online.com:8789/Julien90/Julien90/21768
-#EXTINF:-1,|CH| TELECLUB EMOTION
-http://siptv-online.com:8789/Julien90/Julien90/21767
-#EXTINF:-1,|CH| TELECLUB SPORT1
-http://siptv-online.com:8789/Julien90/Julien90/21764
-#EXTINF:-1,|CH| TELECLUB SPORT 2
-http://siptv-online.com:8789/Julien90/Julien90/21763
-#EXTINF:-1,|CH| OCS GO CINE 1
-http://siptv-online.com:8789/Julien90/Julien90/29574
-#EXTINF:-1,|CH| OCS Go Cine 2
-http://siptv-online.com:8789/Julien90/Julien90/29573
-#EXTINF:-1,|CH| OCS GO CINE 3
-http://siptv-online.com:8789/Julien90/Julien90/29572
-#EXTINF:-1,|CH| OCS GO CINE 4
-http://siptv-online.com:8789/Julien90/Julien90/29571
-#EXTINF:-1,|CH| OCS GO CINE 5
-http://siptv-online.com:8789/Julien90/Julien90/29570
-#EXTINF:-1,|CH| TELE M1
-http://siptv-online.com:8789/Julien90/Julien90/21762
-#EXTINF:-1,|CH|  TELEBASEL
-http://siptv-online.com:8789/Julien90/Julien90/21761
-#EXTINF:-1,|CH| TELE BIELINGUE
-http://siptv-online.com:8789/Julien90/Julien90/21760
-#EXTINF:-1,|CH| TELE ZURICH
-http://siptv-online.com:8789/Julien90/Julien90/21759
-#EXTINF:-1,|CH| SRF 1
-http://siptv-online.com:8789/Julien90/Julien90/21755
-#EXTINF:-1,|CH| SRF ZWEI FHD
-http://siptv-online.com:8789/Julien90/Julien90/21754
-#EXTINF:-1,|CH| SRF INFO
-http://siptv-online.com:8789/Julien90/Julien90/21753
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4007.m3u8
+#EXTINF:-1,|BE| VIJF HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4005.m3u8
+#EXTINF:-1,|BE| ZES HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4006.m3u8
+#EXTINF:-1,----------- FILMS OCS -----------
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3606.m3u8
+#EXTINF:-1,|FR|ORANGE CINE 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3605.m3u8
+#EXTINF:-1,|FR|ORANGE CINE 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3604.m3u8
+#EXTINF:-1,|FR|ORANGE CINE 3
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3603.m3u8
+#EXTINF:-1,|FR|ORANGE CINE 4
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3602.m3u8
+#EXTINF:-1,|FR|ORANGE CINE 5
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3601.m3u8
+#EXTINF:-1,|FR|OCS GO CINE 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3600.m3u8
+#EXTINF:-1,|FR|OCS GO CINE 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3599.m3u8
+#EXTINF:-1,|FR|OCS GO CINE 3
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3598.m3u8
+#EXTINF:-1,|FR|OCS GO CINE 4
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3597.m3u8
+#EXTINF:-1,|FR|OCS GO CINE 6
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3627.m3u8
+#EXTINF:-1,|FR|OCS GO CINE 7
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3628.m3u8
+#EXTINF:-1,|FR|OCS GO CINE 8
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3629.m3u8
+#EXTINF:-1,|FR|OCS GO CINE 5
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3596.m3u8
+#EXTINF:-1,----------- CHAINES CANALPLAY -----------
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2473.m3u8
+#EXTINF:-1,CANAL PLAY 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2351.m3u8
+#EXTINF:-1,CANAL PLAY 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2352.m3u8
+#EXTINF:-1,CANAL PLAY 3
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2353.m3u8
+#EXTINF:-1,CANAL PLAY 4
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2354.m3u8
+#EXTINF:-1,CANAL PLAY 5
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2355.m3u8
+#EXTINF:-1,CANAL PLAY 6
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2356.m3u8
+#EXTINF:-1,CANAL PLAY 7
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3345.m3u8
+#EXTINF:-1,CANAL PLAY 8
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3346.m3u8
+#EXTINF:-1,CANAL PLAY 9
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3347.m3u8
+#EXTINF:-1,CANAL PLAY 10
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3348.m3u8
+#EXTINF:-1,RMC SPORT 1 FHD STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9215.m3u8
+#EXTINF:-1,RMC SPORT 2 FHD STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9216.m3u8
+#EXTINF:-1,RMC SPORT 3 FHD STABLE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9217.m3u8
+#EXTINF:-1,RMC SPORT 1 HD ACCESS
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6726.m3u8
+#EXTINF:-1,RMC SPORT 2 HD ACCESS
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6727.m3u8
+#EXTINF:-1,RMC SPORT 3 HD ACCESS
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6728.m3u8
+#EXTINF:-1,RMC SPORT 1 HD  720p
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6514.m3u8
+#EXTINF:-1,RMC SPORT 2 HD  720p
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6515.m3u8
+#EXTINF:-1,RMC SPORT 3 HD  720p
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6516.m3u8
+#EXTINF:-1,RMC SPORT 4 HD  720p
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6517.m3u8
+#EXTINF:-1,RMC SPORT 5 HD  720p
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6518.m3u8
+#EXTINF:-1,RMC SPORT LIVE 5
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5709.m3u8
+#EXTINF:-1,RMC SPORT LIVE 6
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5708.m3u8
+#EXTINF:-1,RMC SPORT LIVE 7
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5707.m3u8
+#EXTINF:-1,RMC SPORT LIVE 8
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5706.m3u8
+#EXTINF:-1,RMC SPORT LIVE 9
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5705.m3u8
+#EXTINF:-1,RMC SPORT UHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5710.m3u8
+#EXTINF:-1,RMC SPORT LIVE 10 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6503.m3u8
+#EXTINF:-1,RMC SPORT LIVE 11 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5704.m3u8
+#EXTINF:-1,RMC SPORT LIVE 12 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5703.m3u8
+#EXTINF:-1,RMC SPORT LIVE 13 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5702.m3u8
+#EXTINF:-1,RMC SPORT LIVE 14 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6504.m3u8
+#EXTINF:-1,RMC SPORT LIVE 15 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6505.m3u8
+#EXTINF:-1,RMC SPORT LIVE 16 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6506.m3u8
+#EXTINF:-1, A LA CARTE 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/49.m3u8
+#EXTINF:-1, A LA CARTE 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/48.m3u8
+#EXTINF:-1, A LA CARTE 3
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/47.m3u8
+#EXTINF:-1, A LA CARTE 4
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/46.m3u8
+#EXTINF:-1, A LA CARTE 5
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/45.m3u8
+#EXTINF:-1, A LA CARTE 6
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1817.m3u8
+#EXTINF:-1, A LA CARTE 7
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/962.m3u8
+#EXTINF:-1, A LA CARTE 8
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1591.m3u8
+#EXTINF:-1, A LA CARTE 9
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1590.m3u8
+#EXTINF:-1, A LA CARTE 10
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/960.m3u8
+#EXTINF:-1,----------- CHAINES SUISSES -----------
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2718.m3u8
+#EXTINF:-1,RTS UN HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2345.m3u8
+#EXTINF:-1,RTS  DEUX HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2690.m3u8
+#EXTINF:-1,|SUI| SRF 1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8910.m3u8
+#EXTINF:-1,|SUI| SRF 2 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8909.m3u8
+#EXTINF:-1,|SUI| SRF INFO
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8908.m3u8
+#EXTINF:-1,|SUI| RSI 1 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8901.m3u8
+#EXTINF:-1,|SUI| RSI 2 HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8900.m3u8
+#EXTINF:-1,|SUI| RTS UN HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8897.m3u8
+#EXTINF:-1,|SUI| RTS DEUX HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8899.m3u8
+#EXTINF:-1,|SUI| TVO HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8902.m3u8
+#EXTINF:-1,|SUI| 3+  HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8895.m3u8
+#EXTINF:-1,|SUI| 4+  HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8894.m3u8
+#EXTINF:-1,|SUI| 5+  HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8893.m3u8
+#EXTINF:-1,|SUI| TLC HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8886.m3u8
+#EXTINF:-1,|SUI| TELE ZURICH
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8905.m3u8
+#EXTINF:-1,|SUI| TELEBIELINGUE
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8903.m3u8
+#EXTINF:-1,|SUI| TELECLUB CINEMA
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2732.m3u8
+#EXTINF:-1,|SUI| TELECLUB PRIME
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2731.m3u8
+#EXTINF:-1,|SUI| TELECLUB STAR
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2730.m3u8
+#EXTINF:-1,|SUI| TELECLUB ZOOM
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8906.m3u8
+#EXTINF:-1,|SUI| TELECLUB SPORT 1
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2727.m3u8
+#EXTINF:-1,|SUI| TELECLUB SPORT 2
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8904.m3u8
+#EXTINF:-1,|SUI| COMEDY CENTRAL
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8892.m3u8
+#EXTINF:-1,|SUI| TC DISCOVERY CHANNEL HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8883.m3u8
+#EXTINF:-1,|SUI| TC ANIMAL PLANET HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8889.m3u8
+#EXTINF:-1,|SUI| DISNEY CHANNEL HD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8891.m3u8
+#EXTINF:-1,|SUI| NICKELODEON CH
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8890.m3u8
+#EXTINF:-1,|SUI| TC BUNDESLIGA
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8871.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 1 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9658.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 2 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9657.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 3 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9656.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 4 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9655.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 5 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9654.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 6 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9653.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 7 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9652.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 8 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9651.m3u8
+#EXTINF:-1,|SUI| MYSPORTS 9 FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9650.m3u8
+#EXTINF:-1,|SUI| MYSPORTS FHD
+http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9649.m3u8
