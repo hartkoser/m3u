@@ -593,71 +593,71 @@ http://iptv-world.ddns.net:8000/live/marcello/1234/49202.m3u8
 http://iptv-world.ddns.net:8000/live/marcello/1234/7782.m3u8
 #EXTINF:-1,LabTv
 http://iptv-world.ddns.net:8000/live/marcello/1234/25528.m3u8
-#EXTINF:-1,(IT) 8 Video Calabria
+#EXTINF:-1,8 Video Calabria
 http://iptv-world.ddns.net:8000/live/marcello/1234/6252.m3u8
-#EXTINF:-1,(IT) C.T.S TV
+#EXTINF:-1,C.T.S TV
 http://iptv-world.ddns.net:8000/live/marcello/1234/6323.m3u8
-#EXTINF:-1,(IT) Cafe TV 24
+#EXTINF:-1,Cafe TV 24
 http://iptv-world.ddns.net:8000/live/marcello/1234/6335.m3u8
-#EXTINF:-1,(IT) Canale 7
+#EXTINF:-1,Canale 7
 http://iptv-world.ddns.net:8000/live/marcello/1234/6311.m3u8
-#EXTINF:-1,(IT) Canale 8
+#EXTINF:-1,Canale 8
 http://iptv-world.ddns.net:8000/live/marcello/1234/6254.m3u8
-#EXTINF:-1,(IT) Cremona 1
+#EXTINF:-1,Cremona 1
 http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,(IT) ETV Marche
+#EXTINF:-1,ETV Marche
 http://iptv-world.ddns.net:8000/live/marcello/1234/6340.m3u8
-#EXTINF:-1,(IT) Fano Tv
+#EXTINF:-1,Fano Tv
 http://iptv-world.ddns.net:8000/live/marcello/1234/6341.m3u8
-#EXTINF:-1,(IT) FRANCE 24
+#EXTINF:-1,FRANCE 24
 http://iptv-world.ddns.net:8000/live/marcello/1234/6215.m3u8
-#EXTINF:-1,(IT) HSE24
+#EXTINF:-1,HSE24
 http://iptv-world.ddns.net:8000/live/marcello/1234/6202.m3u8
-#EXTINF:-1,(IT) Ibiza TV
+#EXTINF:-1,Ibiza TV
 http://wma10.fluidstream.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1,(IT) Imperia TV
+#EXTINF:-1,Imperia TV
 http://ximperia-tvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,(IT) KissKiss Italia TV
+#EXTINF:-1,KissKiss Italia TV
 http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1,(IT) kissKiss Napoli TV
+#EXTINF:-1,kissKiss Napoli TV
 http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1,(IT) KIssKiss TV
+#EXTINF:-1,KIssKiss TV
 http://wma05.fluidstream.net/KKMulti/livestream_600p/playlist.m3u8
-#EXTINF:-1,(IT) Onda tv
+#EXTINF:-1,Onda tv
 http://iptv-world.ddns.net:8000/live/marcello/1234/6325.m3u8
-#EXTINF:-1,(IT) Rtp TV
+#EXTINF:-1,Rtp TV
 http://iptv-world.ddns.net:8000/live/marcello/1234/6322.m3u8
-#EXTINF:-1,(IT) Siena TV
+#EXTINF:-1,Siena TV
 http://iptv-world.ddns.net:8000/live/marcello/1234/6327.m3u8
-#EXTINF:-1,(IT) Sky Tg24
+#EXTINF:-1,Sky Tg24
 http://iptv-world.ddns.net:8000/live/marcello/1234/6208.m3u8
-#EXTINF:-1,(IT) Studio 100
+#EXTINF:-1,Studio 100
 rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
-#EXTINF:-1,(IT) TeleBoario
+#EXTINF:-1,TeleBoario
 http://iptv-world.ddns.net:8000/live/marcello/1234/6301.m3u8
-#EXTINF:-1,(IT) TeleChiara
+#EXTINF:-1,TeleChiara
 http://iptv-world.ddns.net:8000/live/marcello/1234/6333.m3u8
-#EXTINF:-1,(IT) TeleOLTRE
+#EXTINF:-1,TeleOLTRE
 http://iptv-world.ddns.net:8000/live/marcello/1234/6230.m3u8
-#EXTINF:-1,(IT) Teleromagna
+#EXTINF:-1,Teleromagna
 http://iptv-world.ddns.net:8000/live/marcello/1234/6264.m3u8
-#EXTINF:-1,(IT) Teleromagna Lifestyle
+#EXTINF:-1,Teleromagna Lifestyle
 http://iptv-world.ddns.net:8000/live/marcello/1234/6268.m3u8
-#EXTINF:-1,(IT) Teleromagna Sport
+#EXTINF:-1,Teleromagna Sport
 http://iptv-world.ddns.net:8000/live/marcello/1234/6266.m3u8
-#EXTINF:-1,(IT) Televenezia
+#EXTINF:-1,Televenezia
 http://iptv-world.ddns.net:8000/live/marcello/1234/6331.m3u8
-#EXTINF:-1,(IT) Top Crime HD
+#EXTINF:-1,Top Crime HD
 http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
-#EXTINF:-1,(IT) TSN Tele Sondrio News
+#EXTINF:-1,TSN Tele Sondrio News
 http://iptv-world.ddns.net:8000/live/marcello/1234/6288.m3u8
-#EXTINF:-1,(IT) TVRS
+#EXTINF:-1,TVRS
 http://iptv-world.ddns.net:8000/live/marcello/1234/6339.m3u8
-#EXTINF:-1,(IT) Umbria TV
+#EXTINF:-1,Umbria TV
 http://iptv-world.ddns.net:8000/live/marcello/1234/6330.m3u8
-#EXTINF:-1,(IT) Vera TV
+#EXTINF:-1,Vera TV
 http://iptv-world.ddns.net:8000/live/marcello/1234/6329.m3u8
-#EXTINF:-1,(IT) Videolina
+#EXTINF:-1,Videolina
 http://iptv-world.ddns.net:8000/live/marcello/1234/19918.m3u8
 #EXTINF:-1,*-*-*-*-*- SD Channel Adsl Merdose SD -*-*-*-*-*
 http://iptv-world.ddns.net:8000/live/marcello/1234/12769.m3u8
