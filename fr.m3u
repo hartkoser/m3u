@@ -1,1129 +1,223 @@
 #EXTM3U
-#EXTINF:-1,TF1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2650.m3u8
-#EXTINF:-1,TF1 FHD  STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9208.m3u8
-#EXTINF:-1,TF1 +1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4036.m3u8
-#EXTINF:-1,TF1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/91.m3u8
-#EXTINF:-1,M6 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1651.m3u8
-#EXTINF:-1,M6 FHD STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9218.m3u8
-#EXTINF:-1,M6 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/124.m3u8
-#EXTINF:-1,M6 +1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4455.m3u8
-#EXTINF:-1,W9 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1641.m3u8
-#EXTINF:-1,W9 FHD STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9209.m3u8
-#EXTINF:-1,W9 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/32.m3u8
-#EXTINF:-1,ARTE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3274.m3u8
-#EXTINF:-1,ARTE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/111.m3u8
-#EXTINF:-1,TF1 SERIES FILMS FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4002.m3u8
-#EXTINF:-1,TF1 SERIES FILMS HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4003.m3u8
-#EXTINF:-1,FRANCE O FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3412.m3u8
-#EXTINF:-1,FRANCE O HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/113.m3u8
-#EXTINF:-1,FRANCE 2  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2941.m3u8
-#EXTINF:-1,FRANCE 2 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/116.m3u8
-#EXTINF:-1,FRANCE 3 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3032.m3u8
-#EXTINF:-1,FRANCE 3 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/115.m3u8
-#EXTINF:-1,FRANCE 4 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2912.m3u8
-#EXTINF:-1,FRANCE 4 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/114.m3u8
-#EXTINF:-1,FRANCE 5 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2913.m3u8
-#EXTINF:-1,FRANCE 5 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/117.m3u8
-#EXTINF:-1,RMC STORY  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/7486.m3u8
-#EXTINF:-1,RMC STORY FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3013.m3u8
-#EXTINF:-1,RMC STORY HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2172.m3u8
-#EXTINF:-1,TFX FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3095.m3u8
-#EXTINF:-1,TFX HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/669.m3u8
-#EXTINF:-1,TMC +1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4037.m3u8
-#EXTINF:-1,TMC FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3096.m3u8
-#EXTINF:-1,TMC HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/670.m3u8
-#EXTINF:-1,FRANCE INFO HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4099.m3u8
-#EXTINF:-1,BFM BUSINESS FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4237.m3u8
-#EXTINF:-1,BFM BUSINESS HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3862.m3u8
-#EXTINF:-1,BFM TV HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/913.m3u8
-#EXTINF:-1,CNEWS FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2982.m3u8
-#EXTINF:-1,CNEWS HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9630.m3u8
-#EXTINF:-1,EURONEWS
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/656.m3u8
-#EXTINF:-1,FRANCE 24
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/623.m3u8
-#EXTINF:-1,TV5 MONDE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1899.m3u8
-#EXTINF:-1,I24 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4095.m3u8
-#EXTINF:-1,I24 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4097.m3u8
-#EXTINF:-1,LCI FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4098.m3u8
-#EXTINF:-1,LCI HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4096.m3u8
-#EXTINF:-1,MELODY TV
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3569.m3u8
-#EXTINF:-1,RFM  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2922.m3u8
-#EXTINF:-1,TRACE AFRICA HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3299.m3u8
-#EXTINF:-1,TRACE TROPICAL HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3298.m3u8
-#EXTINF:-1,DJAZZ TV FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3028.m3u8
-#EXTINF:-1,BRAVA FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3030.m3u8
-#EXTINF:-1,BRAVA HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2653.m3u8
-#EXTINF:-1,MEZZO LIVE  HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2969.m3u8
-#EXTINF:-1,MEZZO LIVE  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2684.m3u8
-#EXTINF:-1,VH1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2943.m3u8
-#EXTINF:-1,MCM TOP FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4291.m3u8
-#EXTINF:-1,MCM TOP  FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2920.m3u8
-#EXTINF:-1,MCM TOP HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2466.m3u8
-#EXTINF:-1,TRACE URBAN FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3287.m3u8
-#EXTINF:-1,TRACE URBAN HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/37.m3u8
-#EXTINF:-1,M6 MUSIC HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/38.m3u8
-#EXTINF:-1,NRJ HITS HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2400.m3u8
-#EXTINF:-1,VIRGIN HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/33.m3u8
-#EXTINF:-1,MTV LIVE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3411.m3u8
-#EXTINF:-1,MTV MUSIC
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1592.m3u8
-#EXTINF:-1,MTV HITS
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2397.m3u8
-#EXTINF:-1,MTV BASE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2201.m3u8
-#EXTINF:-1,MTV ROCK
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3272.m3u8
-#EXTINF:-1,MTV DANCE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2771.m3u8
-#EXTINF:-1,MTV CLASSIC
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9670.m3u8
-#EXTINF:-1,RMC SPORT 1  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8863.m3u8
-#EXTINF:-1,RMC SPORT 1 FHD STABL
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9223.m3u8
-#EXTINF:-1,RMC SPORT 1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2944.m3u8
-#EXTINF:-1,RMC SPORT 1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2318.m3u8
-#EXTINF:-1,RMC SPORT 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3616.m3u8
-#EXTINF:-1,RMC SPORT 2 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3012.m3u8
-#EXTINF:-1,RMC SPORT 2 FHD STABL
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9224.m3u8
-#EXTINF:-1,RMC SPORT 2 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2256.m3u8
-#EXTINF:-1,RMC SPORT 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3617.m3u8
-#EXTINF:-1,RMC SPORT 3 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2319.m3u8
-#EXTINF:-1,RMC SPORT 3 FHD STABL
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9225.m3u8
-#EXTINF:-1,RMC SPORT 3 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3426.m3u8
-#EXTINF:-1,RMC SPORT 4 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4456.m3u8
-#EXTINF:-1,RMC SPORT 4 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4457.m3u8
-#EXTINF:-1,RMC SPORT 5 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3425.m3u8
-#EXTINF:-1,SFR ACTION
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3881.m3u8
-#EXTINF:-1,SFR COMEDY
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3882.m3u8
-#EXTINF:-1,SFR HORROR
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3883.m3u8
-#EXTINF:-1,SFR SCI-FI
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3884.m3u8
-#EXTINF:-1,BEIN SPORTS 1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2431.m3u8
-#EXTINF:-1,BEIN SPORT 1 FHD  STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9210.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/85.m3u8
+#EXTINF:-1,Fr: 13eme Rue HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8092.m3u8
+#EXTINF:-1,Fr: 6TER HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8091.m3u8
+#EXTINF:-1,Fr: A la carte 1 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8090.m3u8
+#EXTINF:-1,Fr: A la carte 2 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8089.m3u8
+#EXTINF:-1,Fr: A la carte 3 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8088.m3u8
+#EXTINF:-1,Fr: A la carte 5 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8086.m3u8
+#EXTINF:-1,Fr: Arte HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8085.m3u8
+#EXTINF:-1,Fr: Berbere Television
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8081.m3u8
+#EXTINF:-1,Fr: BFM TV
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8079.m3u8
+#EXTINF:-1,Fr: Boomerang France HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8077.m3u8
+#EXTINF:-1,Fr: C 8 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8076.m3u8
+#EXTINF:-1,Fr: C News
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8075.m3u8
+#EXTINF:-1,Fr: C Star HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8074.m3u8
+#EXTINF:-1,Fr: Canal    Décalé HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8073.m3u8
+#EXTINF:-1,Fr: Canal    Sport HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8072.m3u8
+#EXTINF:-1,Fr: Canal   Cinema HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8071.m3u8
+#EXTINF:-1,Fr: Canal   HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8070.m3u8
+#EXTINF:-1,Fr: Canal  Family HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8069.m3u8
+#EXTINF:-1,Fr: Canal  serie HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8068.m3u8
+#EXTINF:-1,Fr: Canal J
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8067.m3u8
+#EXTINF:-1,Fr: Cartoon network  Fr
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8066.m3u8
+#EXTINF:-1,FR: Chasse & peche
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/7589.m3u8
+#EXTINF:-1,Fr: Chérie 25 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8065.m3u8
+#EXTINF:-1,Fr: Cine   Frisson
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8064.m3u8
+#EXTINF:-1,Fr: Cine   Premier
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8063.m3u8
+#EXTINF:-1,Fr: Cine  Classic HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8062.m3u8
+#EXTINF:-1,Fr: Cine  emotion HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8061.m3u8
+#EXTINF:-1,Fr: Cine  Famiz HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8060.m3u8
+#EXTINF:-1,Fr: Cine FX
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8059.m3u8
+#EXTINF:-1,Fr: Cine Polar
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8058.m3u8
+#EXTINF:-1,Fr: Comédie   HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8057.m3u8
+#EXTINF:-1,Fr: Discovery channel HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8056.m3u8
+#EXTINF:-1,Fr: Discovery Investigation HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8055.m3u8
+#EXTINF:-1,Fr: Discovery Science HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8054.m3u8
+#EXTINF:-1,Fr: Disney Channel FR
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8053.m3u8
+#EXTINF:-1,Fr: Disney Cinema Fr HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8052.m3u8
+#EXTINF:-1,Fr: Disney Junior FR
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8051.m3u8
+#EXTINF:-1,Fr: Disney XD FR
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8050.m3u8
+#EXTINF:-1,Fr: E! Entertainment HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8049.m3u8
+#EXTINF:-1,Fr: Equidia Live HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8048.m3u8
+#EXTINF:-1,Fr: Euronews Fr
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8047.m3u8
+#EXTINF:-1,Fr: Eurosport 1 Fr
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8046.m3u8
+#EXTINF:-1,Fr: France 2
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8044.m3u8
+#EXTINF:-1,Fr: FRANCE 24 NEWS FR
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8043.m3u8
+#EXTINF:-1,Fr: France 3
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8042.m3u8
+#EXTINF:-1,Fr: France 4
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8041.m3u8
+#EXTINF:-1,Fr: France 5
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8040.m3u8
+#EXTINF:-1,Fr: France O
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8039.m3u8
+#EXTINF:-1,Fr: Game One HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8038.m3u8
+#EXTINF:-1,Fr: Golf   HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8037.m3u8
+#EXTINF:-1,Fr: Gulli
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8036.m3u8
+#EXTINF:-1,Fr: HD1 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8035.m3u8
+#EXTINF:-1,Fr: Histoire
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8034.m3u8
+#EXTINF:-1,Fr: InfoSport
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8033.m3u8
+#EXTINF:-1,Fr: LCI
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8030.m3u8
+#EXTINF:-1,Fr: M6 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8029.m3u8
+#EXTINF:-1,Fr: National Geo HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8028.m3u8
+#EXTINF:-1,Fr: National Geo Wild HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8027.m3u8
+#EXTINF:-1,Fr: Nickelodeon HD FR
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8026.m3u8
+#EXTINF:-1,Fr: Nickelodeon Junior FR
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8025.m3u8
+#EXTINF:-1,Fr: NRJ 12 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8024.m3u8
+#EXTINF:-1,Fr: Numéro 23
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8023.m3u8
+#EXTINF:-1,Fr: OS CHOC HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8022.m3u8
+#EXTINF:-1,Fr: OS City HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8021.m3u8
+#EXTINF:-1,Fr: OS Geant HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8020.m3u8
+#EXTINF:-1,Fr: OS Max HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8019.m3u8
+#EXTINF:-1,Fr: Paramount Channel HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8018.m3u8
+#EXTINF:-1,Fr: Paris Premiere HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8017.m3u8
+#EXTINF:-1,Fr: Piwi
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8016.m3u8
+#EXTINF:-1,Fr: Planet   A&E HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8015.m3u8
+#EXTINF:-1,Fr: Planete  CI HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8014.m3u8
+#EXTINF:-1,Fr: RMC Découverte
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8013.m3u8
+#EXTINF:-1,Fr: RTL 9 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8012.m3u8
+#EXTINF:-1,Fr: RTS Deux HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8011.m3u8
+#EXTINF:-1,Fr: RTS Un HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8010.m3u8
+#EXTINF:-1,Fr: Serie Club HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8009.m3u8
+#EXTINF:-1,Fr: Syfy HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8005.m3u8
+#EXTINF:-1,Fr: TCM Cinema HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8004.m3u8
+#EXTINF:-1,Fr: Teletoon HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8003.m3u8
+#EXTINF:-1,Fr: Téva HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8002.m3u8
+#EXTINF:-1,Fr: TF1 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8001.m3u8
+#EXTINF:-1,Fr: TMC HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/8000.m3u8
+#EXTINF:-1,FR: Trek My
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/7593.m3u8
+#EXTINF:-1,Fr: TV5 Europe
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/7999.m3u8
+#EXTINF:-1,Fr: Ushuaia HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/7998.m3u8
+#EXTINF:-1,Fr: Voyage
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/7997.m3u8
+#EXTINF:-1,Fr: W9 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/7996.m3u8
 #EXTINF:-1,BEIN SPORT 1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3401.m3u8
-#EXTINF:-1,BEIN SPORTS 2 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2432.m3u8
-#EXTINF:-1,BEIN SPORT 2 FHD  STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9211.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14041.m3u8
 #EXTINF:-1,BEIN SPORT 2 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3402.m3u8
-#EXTINF:-1,BEIN SPORTS 3 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2433.m3u8
-#EXTINF:-1,BEIN SPORT 3 FHD STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9212.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3011.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14040.m3u8
 #EXTINF:-1,BEIN SPORT 3 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9441.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14039.m3u8
 #EXTINF:-1,BEIN MAX 4 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1209.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14038.m3u8
 #EXTINF:-1,BEIN MAX 5 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/894.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14037.m3u8
 #EXTINF:-1,BEIN MAX 6 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/903.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14036.m3u8
 #EXTINF:-1,BEIN MAX 7 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/902.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14035.m3u8
 #EXTINF:-1,BEIN MAX 8 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/901.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14034.m3u8
 #EXTINF:-1,BEIN MAX 9 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2680.m3u8
-#EXTINF:-1,BEIN MAX 10 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2770.m3u8
-#EXTINF:-1,BEIN MAX 4 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3424.m3u8
-#EXTINF:-1,BEIN MAX 6 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3422.m3u8
-#EXTINF:-1,BEIN MAX 5 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3423.m3u8
-#EXTINF:-1,BEIN MAX 7 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3421.m3u8
-#EXTINF:-1,BEIN MAX 8 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3420.m3u8
-#EXTINF:-1,BEIN MAX 9 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3419.m3u8
-#EXTINF:-1,BEIN MAX 10 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3418.m3u8
-#EXTINF:-1,AB MOTEURS FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3413.m3u8
-#EXTINF:-1,AB MOTEURS HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/957.m3u8
-#EXTINF:-1,OL TV FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3083.m3u8
-#EXTINF:-1,EXTREME SPORT FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9263.m3u8
-#EXTINF:-1,EXTREME SPORT HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2924.m3u8
-#EXTINF:-1,MOTORSPORT TV HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3018.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2444.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4351.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/59.m3u8
-#EXTINF:-1,EUROSPORT 2 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2445.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4352.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/949.m3u8
-#EXTINF:-1,FOOT+ 24/24 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1650.m3u8
-#EXTINF:-1,FOOT+ 24/24
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/58.m3u8
-#EXTINF:-1,L'EQUIPE 21 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3355.m3u8
-#EXTINF:-1,L'EQUIPE 21 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/893.m3u8
-#EXTINF:-1,GOLF CHANNEL FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3302.m3u8
-#EXTINF:-1,GOLF CHANNEL HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3570.m3u8
-#EXTINF:-1,GOLF+ FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3283.m3u8
-#EXTINF:-1,GOLF+ HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2231.m3u8
-#EXTINF:-1,INFOSPORT+ FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/100.m3u8
-#EXTINF:-1,INFOSPORT+ HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3020.m3u8
-#EXTINF:-1,RMC NEWS SPORT FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3331.m3u8
-#EXTINF:-1,RMC NEWS SPORT HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2399.m3u8
-#EXTINF:-1,EQUIDIA LIVE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3417.m3u8
-#EXTINF:-1,EQUIDIA LIVE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1441.m3u8
-#EXTINF:-1,EQUIDIA LIFE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3416.m3u8
-#EXTINF:-1,EQUIDIA LIFE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2434.m3u8
-#EXTINF:-1,KOMBAT SPORT
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2346.m3u8
-#EXTINF:-1,MULTISPORTS 1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3320.m3u8
-#EXTINF:-1,MULTISPORTS 2 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3321.m3u8
-#EXTINF:-1,MULTISPORTS 3 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3322.m3u8
-#EXTINF:-1,MULTISPORTS 4 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3323.m3u8
-#EXTINF:-1,MULTISPORTS 5 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3324.m3u8
-#EXTINF:-1,MULTISPORTS 6 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3325.m3u8
-#EXTINF:-1,CANAL+ FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2467.m3u8
-#EXTINF:-1,CANAL+ FHD  STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9213.m3u8
-#EXTINF:-1,CANAL+ HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/82.m3u8
-#EXTINF:-1,CANAL+
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3094.m3u8
-#EXTINF:-1,CANAL+ CINEMA FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2470.m3u8
-#EXTINF:-1,CANAL+ CINEMA HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/81.m3u8
-#EXTINF:-1,CANAL+  CINEMA
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3014.m3u8
-#EXTINF:-1,CANAL+ SERIES FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2471.m3u8
-#EXTINF:-1,CANAL+ SERIES HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/78.m3u8
-#EXTINF:-1,CANAL+ SERIE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3015.m3u8
-#EXTINF:-1,CANAL+  FAMILY FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2468.m3u8
-#EXTINF:-1,CANAL+  FAMILY HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/79.m3u8
-#EXTINF:-1,CANAL+  FAMILY
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3017.m3u8
-#EXTINF:-1,CANAL+  DECALE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2469.m3u8
-#EXTINF:-1,CANAL+  DECALE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/80.m3u8
-#EXTINF:-1,CANAL+  DECALE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3016.m3u8
-#EXTINF:-1,CANAL + SPORT FHD STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9214.m3u8
-#EXTINF:-1,CANAL+  SPORT FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2534.m3u8
-#EXTINF:-1,CANAL+  SPORT HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/77.m3u8
-#EXTINF:-1,CANAL+  SPORT
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5437.m3u8
-#EXTINF:-1,OCS MAX   FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3902.m3u8
-#EXTINF:-1,OCS MAX  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3027.m3u8
-#EXTINF:-1,OCS MAX HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/895.m3u8
-#EXTINF:-1,OCS GEANT  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3900.m3u8
-#EXTINF:-1,OCS GEANT FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2975.m3u8
-#EXTINF:-1,OCS GEANT HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/816.m3u8
-#EXTINF:-1,OCS CHOC  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3901.m3u8
-#EXTINF:-1,OCS CHOC FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/814.m3u8
-#EXTINF:-1,OCS CHOC HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2981.m3u8
-#EXTINF:-1,OCS CITY  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3899.m3u8
-#EXTINF:-1,OCS CITY FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/55.m3u8
-#EXTINF:-1,OCS CITY HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1649.m3u8
-#EXTINF:-1,NOVELAS FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3332.m3u8
-#EXTINF:-1,NOVELAS HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4502.m3u8
-#EXTINF:-1,WARNER TV FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3328.m3u8
-#EXTINF:-1,WARNER TV HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3880.m3u8
-#EXTINF:-1,POLAR + FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4531.m3u8
-#EXTINF:-1,POLAR + HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3126.m3u8
-#EXTINF:-1,ALTICE STUDIO  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8862.m3u8
-#EXTINF:-1,ALTICE STUDIO FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3157.m3u8
-#EXTINF:-1,ALTICE STUDIO HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3866.m3u8
-#EXTINF:-1,CINE+  PREMIER
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3021.m3u8
-#EXTINF:-1,CINE+  PREMIER FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2497.m3u8
-#EXTINF:-1,CINE+  PREMIER HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/61.m3u8
-#EXTINF:-1,CINE+  FRISSON FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2498.m3u8
-#EXTINF:-1,CINE+  FRISSON HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/62.m3u8
-#EXTINF:-1,CINE+  FAMIZ FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2499.m3u8
-#EXTINF:-1,CINE+  FAMIZ HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/63.m3u8
-#EXTINF:-1,CINE+  EMOTION FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2500.m3u8
-#EXTINF:-1,CINE+  EMOTION HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/64.m3u8
-#EXTINF:-1,CINE CLASSIC FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2501.m3u8
-#EXTINF:-1,CINE CLASSIC HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/65.m3u8
-#EXTINF:-1,CINE+ CLUB FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3171.m3u8
-#EXTINF:-1,CINE+ CLUB HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2503.m3u8
-#EXTINF:-1,CLIQUE TV FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4512.m3u8
-#EXTINF:-1,CLIQUE TV HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2504.m3u8
-#EXTINF:-1,CINE POLAR FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2502.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3290.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/911.m3u8
-#EXTINF:-1,TCM CINEMA FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2916.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2230.m3u8
-#EXTINF:-1,ACTION FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3099.m3u8
-#EXTINF:-1,ACTION HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/87.m3u8
-#EXTINF:-1,ES1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/7747.m3u8
-#EXTINF:-1,COMEDY CENTRAL FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6823.m3u8
-#EXTINF:-1,MTV FRANCE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9527.m3u8
-#EXTINF:-1,MTV FRANCE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2398.m3u8
-#EXTINF:-1,E! HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1900.m3u8
-#EXTINF:-1,ELLE GIRL HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2970.m3u8
-#EXTINF:-1,NOLLYWOOD FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8079.m3u8
-#EXTINF:-1,NOLLYWOOD HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2972.m3u8
-#EXTINF:-1,BET HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2942.m3u8
-#EXTINF:-1, A+ FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9543.m3u8
-#EXTINF:-1, A+ HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3087.m3u8
-#EXTINF:-1,MCM  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2914.m3u8
-#EXTINF:-1,MCM FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4292.m3u8
-#EXTINF:-1,MCM HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2685.m3u8
-#EXTINF:-1,COMEDIE+  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6724.m3u8
-#EXTINF:-1,COMEDIE+ FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2934.m3u8
-#EXTINF:-1,COMEDIE+ HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/118.m3u8
-#EXTINF:-1,SYFY FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2917.m3u8
-#EXTINF:-1,SYFY HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/129.m3u8
-#EXTINF:-1,PARIS PREMIERE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3334.m3u8
-#EXTINF:-1,PARIS PREMIERE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/67.m3u8
-#EXTINF:-1,NON STOP PEOPLE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3934.m3u8
-#EXTINF:-1,TV BREIZH  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6725.m3u8
-#EXTINF:-1,TV BREIZH FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2918.m3u8
-#EXTINF:-1,TV BREIZH HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1306.m3u8
-#EXTINF:-1,RTL9 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3098.m3u8
-#EXTINF:-1,RTL9 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/671.m3u8
-#EXTINF:-1,TEVA FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3097.m3u8
-#EXTINF:-1,TEVA HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/92.m3u8
-#EXTINF:-1,SERIE CLUB  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4358.m3u8
-#EXTINF:-1,SERIE CLUB FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2919.m3u8
-#EXTINF:-1,SERIE CLUB HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/53.m3u8
-#EXTINF:-1,13EME RUE  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/7865.m3u8
-#EXTINF:-1,13EME RUE FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2915.m3u8
-#EXTINF:-1,13EME RUE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/89.m3u8
-#EXTINF:-1,AB1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1160.m3u8
-#EXTINF:-1,AB1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2185.m3u8
-#EXTINF:-1,AB3 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2232.m3u8
-#EXTINF:-1,J ONE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3335.m3u8
-#EXTINF:-1,J ONE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2344.m3u8
-#EXTINF:-1,GAME ONE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3296.m3u8
-#EXTINF:-1,GAME ONE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2343.m3u8
-#EXTINF:-1,CHERIE25  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4359.m3u8
-#EXTINF:-1,CHERIE25 FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3294.m3u8
-#EXTINF:-1,CHERIE25 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/318.m3u8
-#EXTINF:-1,NRJ12 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3336.m3u8
-#EXTINF:-1,NRJ12 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/95.m3u8
-#EXTINF:-1,6TER FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3292.m3u8
-#EXTINF:-1,6TER HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/88.m3u8
-#EXTINF:-1,HD1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3010.m3u8
-#EXTINF:-1,HD1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/818.m3u8
-#EXTINF:-1,C8 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3297.m3u8
-#EXTINF:-1,C8 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/126.m3u8
-#EXTINF:-1,CSTAR FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3002.m3u8
-#EXTINF:-1,CSTAR HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/60.m3u8
-#EXTINF:-1,FASHION FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3864.m3u8
-#EXTINF:-1,FASHION HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3865.m3u8
-#EXTINF:-1,LA CHAINE METEO FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3327.m3u8
-#EXTINF:-1,LA CHAINE METEO HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3410.m3u8
-#EXTINF:-1,MUSEUM CHANNEL FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3086.m3u8
-#EXTINF:-1,MY CUISINE TV FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3088.m3u8
-#EXTINF:-1,MY CUISINE TV HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4465.m3u8
-#EXTINF:-1,SUNDANCE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3156.m3u8
-#EXTINF:-1,SUNDANCE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5333.m3u8
-#EXTINF:-1,MYZEN TV FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3342.m3u8
-#EXTINF:-1,VICELAND  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3089.m3u8
-#EXTINF:-1,VICELAND HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5330.m3u8
-#EXTINF:-1,MB LIVE TV
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/66.m3u8
-#EXTINF:-1,CRIME DISTRICT FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3300.m3u8
-#EXTINF:-1,CRIME DISTRICT HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2985.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3329.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2971.m3u8
-#EXTINF:-1,DISCOVERY FAMILY  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6636.m3u8
-#EXTINF:-1,DISCOVERY FAMILY FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3343.m3u8
-#EXTINF:-1,DISCOVERY FAMILY
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4245.m3u8
-#EXTINF:-1,DISCOVERY  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2508.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/125.m3u8
-#EXTINF:-1,DISCOVERY
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8852.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6480.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2435.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE  HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/107.m3u8
-#EXTINF:-1,VOYAGE  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4361.m3u8
-#EXTINF:-1,VOYAGE FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/819.m3u8
-#EXTINF:-1,VOYAGE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2553.m3u8
-#EXTINF:-1,NATIONAL GEO  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4360.m3u8
-#EXTINF:-1,NATIONAL GEO FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/97.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2999.m3u8
-#EXTINF:-1,NATIONAL GEO WILD  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6723.m3u8
-#EXTINF:-1,NATIONAL GEO WILD FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2948.m3u8
-#EXTINF:-1,NATIONAL GEO WILD HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/96.m3u8
-#EXTINF:-1,ANIMAUX FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3275.m3u8
-#EXTINF:-1,ANIMAUX HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/110.m3u8
-#EXTINF:-1,USHUAIA FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3276.m3u8
-#EXTINF:-1,USHUAIA TV
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/51.m3u8
-#EXTINF:-1,CHASSE ET PECHE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3977.m3u8
-#EXTINF:-1,CHASSE ET PECHE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/68.m3u8
-#EXTINF:-1,SEASONS  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6722.m3u8
-#EXTINF:-1,SEASONS FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2978.m3u8
-#EXTINF:-1,SEASONS HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2317.m3u8
-#EXTINF:-1,SCIENCES & VIE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3314.m3u8
-#EXTINF:-1,SCIENCES & VIE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/912.m3u8
-#EXTINF:-1,TOUTE L HISTOIRE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4123.m3u8
-#EXTINF:-1,TOUTE L HISTOIRE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/958.m3u8
-#EXTINF:-1,HISTOIRE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/7488.m3u8
-#EXTINF:-1,HISTOIRE FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2930.m3u8
-#EXTINF:-1,HISTOIRE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1654.m3u8
-#EXTINF:-1,PLANETE+ A&E  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4293.m3u8
-#EXTINF:-1,PLANETE+ A&E FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2909.m3u8
-#EXTINF:-1,PLANETE+ A&E HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1257.m3u8
-#EXTINF:-1,PLANETE  CI FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2936.m3u8
-#EXTINF:-1,PLANETE  CI HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/93.m3u8
-#EXTINF:-1,PLANETE+ FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/224.m3u8
-#EXTINF:-1,PLANETE+ HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2921.m3u8
-#EXTINF:-1,RMC DECOUVERTE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2979.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14033.m3u8
+#EXTINF:-1,RMC News HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15726.m3u8
+#EXTINF:-1,RMC Sport 1 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14046.m3u8
+#EXTINF:-1,RMC Sport 2 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14045.m3u8
+#EXTINF:-1,RMC Sport 3 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14044.m3u8
+#EXTINF:-1,RMC Sport 4 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14043.m3u8
+#EXTINF:-1,RMC Sport 5 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/14042.m3u8
+#EXTINF:-1,RMC ACCESS SPORT 1 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15721.m3u8
+#EXTINF:-1,RMC ACCESS SPORT 2 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15720.m3u8
+#EXTINF:-1,RMC ACCESS SPORT 3 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15719.m3u8
+#EXTINF:-1,RMC ACCESS SPORT 4 HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15718.m3u8
+#EXTINF:-1,RMC SPORT 1 HD Backup
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15725.m3u8
+#EXTINF:-1,RMC SPORT 2 HD Backup
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15724.m3u8
+#EXTINF:-1,RMC SPORT 3 HD Backup
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15723.m3u8
+#EXTINF:-1,RMC STORY HD
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15717.m3u8
 #EXTINF:-1,RMC DECOUVERTE HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/815.m3u8
-#EXTINF:-1,TREK FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2910.m3u8
-#EXTINF:-1,TREK HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2187.m3u8
-#EXTINF:-1,TOONAMI  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9506.m3u8
-#EXTINF:-1,TOONAMI  FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3052.m3u8
-#EXTINF:-1,TOONAMI  HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3053.m3u8
-#EXTINF:-1,CARTOON NETWORK  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6631.m3u8
-#EXTINF:-1,CARTOON NETWORK FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2935.m3u8
-#EXTINF:-1,CARTOON NETWORK HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/109.m3u8
-#EXTINF:-1,TELETOON +1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3339.m3u8
-#EXTINF:-1,TELETOON+ HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/914.m3u8
-#EXTINF:-1,ZOUZOU TV HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/946.m3u8
-#EXTINF:-1,NICKELODEON JR FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3414.m3u8
-#EXTINF:-1,NICKELODEON JR HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2171.m3u8
-#EXTINF:-1,NICKELODEON FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3415.m3u8
-#EXTINF:-1,NICKELODEON +1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4454.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1647.m3u8
-#EXTINF:-1,NICKELODEON 4TEEN FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3340.m3u8
-#EXTINF:-1,NICKELODEON 4TEEN HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1648.m3u8
-#EXTINF:-1,DISNEY CINEMA   FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6632.m3u8
-#EXTINF:-1,DISNEY CINEMA  FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1229.m3u8
-#EXTINF:-1,DISNEY CINEMA HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2646.m3u8
-#EXTINF:-1,DISNEY CHANNEL  +1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2759.m3u8
-#EXTINF:-1,DISNEY CHANNEL FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3289.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1230.m3u8
-#EXTINF:-1,DISNEY XD  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6633.m3u8
-#EXTINF:-1,DISNEY XD FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2911.m3u8
-#EXTINF:-1,DISNEY XD HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/119.m3u8
-#EXTINF:-1,PIWI FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3284.m3u8
-#EXTINF:-1,PIWI HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/128.m3u8
-#EXTINF:-1,CANAL J FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3338.m3u8
-#EXTINF:-1,CANAL J HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/652.m3u8
-#EXTINF:-1,BOOMERANG FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3295.m3u8
-#EXTINF:-1,BOOMERANG HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/127.m3u8
-#EXTINF:-1,MANGAS FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3592.m3u8
-#EXTINF:-1,MANGAS HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/98.m3u8
-#EXTINF:-1,BOING  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6630.m3u8
-#EXTINF:-1,BOING FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2931.m3u8
-#EXTINF:-1,BOING HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/653.m3u8
-#EXTINF:-1,DISNEY JUNIOR  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6629.m3u8
-#EXTINF:-1,DISNEY JUNIOR FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2933.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/105.m3u8
-#EXTINF:-1,TIJI  FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6721.m3u8
-#EXTINF:-1,TIJI FHD.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2932.m3u8
-#EXTINF:-1,TIJI HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1208.m3u8
-#EXTINF:-1,GULLI FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/56.m3u8
-#EXTINF:-1,GULLI HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4263.m3u8
-#EXTINF:-1,WEO HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/947.m3u8
-#EXTINF:-1,RMC SPORT 1 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9169.m3u8
-#EXTINF:-1,RMC SPORT 2 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9168.m3u8
-#EXTINF:-1,RMC SPORT 3 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9145.m3u8
-#EXTINF:-1,RMC SPORT 4 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9144.m3u8
-#EXTINF:-1,TF1 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9206.m3u8
-#EXTINF:-1,M6 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9200.m3u8
-#EXTINF:-1,W9 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9199.m3u8
-#EXTINF:-1,FRANCE 2 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9205.m3u8
-#EXTINF:-1,FRANCE 3 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9204.m3u8
-#EXTINF:-1,FRANCE 5 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9202.m3u8
-#EXTINF:-1,FRANCE O H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9193.m3u8
-#EXTINF:-1,RMC STORY  H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9128.m3u8
-#EXTINF:-1,FRANCE INFO H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9185.m3u8
-#EXTINF:-1,L'EQUIPE H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9191.m3u8
-#EXTINF:-1,6TER H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9186.m3u8
-#EXTINF:-1,TMC H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9187.m3u8
-#EXTINF:-1,ARTE H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9201.m3u8
-#EXTINF:-1,C8 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9198.m3u8
-#EXTINF:-1,CSTAR H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9196.m3u8
-#EXTINF:-1,NRJ12 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9189.m3u8
-#EXTINF:-1,TFX H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9188.m3u8
-#EXTINF:-1,RMC STORY H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9190.m3u8
-#EXTINF:-1,BEIN 1 SPORT H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9184.m3u8
-#EXTINF:-1,BEIN 2 SPORT H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9183.m3u8
-#EXTINF:-1,BEIN 3 SPORT H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9182.m3u8
-#EXTINF:-1,BOOMERANG H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9167.m3u8
-#EXTINF:-1,CANAL H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9180.m3u8
-#EXTINF:-1,CANAL+ CINEMA h265
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9495.m3u8
-#EXTINF:-1,CANAL+ DECALE H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9172.m3u8
-#EXTINF:-1,CANAL+ FAMILY H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9173.m3u8
-#EXTINF:-1,CANAL+ SERIES H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9179.m3u8
-#EXTINF:-1,CANAL+  SPORT H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9178.m3u8
-#EXTINF:-1,CINE+ EMOTION H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9165.m3u8
-#EXTINF:-1,CINE+ FAMIZ H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9153.m3u8
-#EXTINF:-1,CINE+ FRISSON H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9171.m3u8
-#EXTINF:-1,CINE+ PREMIER H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9164.m3u8
-#EXTINF:-1,OCS CHOC H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9152.m3u8
-#EXTINF:-1,OCS CITY H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9155.m3u8
-#EXTINF:-1,OCS GEANTS H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9154.m3u8
-#EXTINF:-1,OCS MAX H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9156.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9146.m3u8
-#EXTINF:-1,DISCOVERY SCIENCE H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9147.m3u8
-#EXTINF:-1,DISCOVERY FAMILY H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9148.m3u8
-#EXTINF:-1,DISCOVERY H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9149.m3u8
-#EXTINF:-1,NATIONAL GEO H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9161.m3u8
-#EXTINF:-1,NAT GEO WILD H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9176.m3u8
-#EXTINF:-1,DISNEY JUNIOR H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9159.m3u8
-#EXTINF:-1,CANAL J H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9142.m3u8
-#EXTINF:-1,EQUIDIA H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9157.m3u8
-#EXTINF:-1,EUROSPORT 1 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9133.m3u8
-#EXTINF:-1,EUROSPORT 2 H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9132.m3u8
-#EXTINF:-1,M6 MUSIC H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9175.m3u8
-#EXTINF:-1,ALTICE STUDIO H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9136.m3u8
-#EXTINF:-1,ANIMAUX H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9177.m3u8
-#EXTINF:-1,NICKELODEON H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9129.m3u8
-#EXTINF:-1,NICKELODEON 4TEEN H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9130.m3u8
-#EXTINF:-1,NON STOP PEOPLE H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9134.m3u8
-#EXTINF:-1,PLANETE A&E H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9140.m3u8
-#EXTINF:-1,RMC DECOUVERTE H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9127.m3u8
-#EXTINF:-1,SEASONS H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9125.m3u8
-#EXTINF:-1,USHUAIA H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9141.m3u8
-#EXTINF:-1,WARNER TV H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9135.m3u8
-#EXTINF:-1,ULTRA NATURE H265.
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9170.m3u8
-#EXTINF:-1,----------- BOUQUET BELGES -----------
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2753.m3u8
-#EXTINF:-1,|BE| LA UNE FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8614.m3u8
-#EXTINF:-1,|BE| LA UNE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/132.m3u8
-#EXTINF:-1,|BE| PLUG RTL HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8613.m3u8
-#EXTINF:-1,|BE| PLUG RTL
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/131.m3u8
-#EXTINF:-1,|BE| RTL TVI FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8318.m3u8
-#EXTINF:-1,|BE| RTL TVI HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/130.m3u8
-#EXTINF:-1,|BE| CINEMA 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2756.m3u8
-#EXTINF:-1,|BE| CINEMA 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2757.m3u8
-#EXTINF:-1,|BE| BE SERIE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/675.m3u8
-#EXTINF:-1,|BE| CLUB RTL
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/676.m3u8
-#EXTINF:-1,|BE| LA DEUX HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/134.m3u8
-#EXTINF:-1,|BE| LA TROIS
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/133.m3u8
-#EXTINF:-1,|BE| VOO SPORT 1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4244.m3u8
-#EXTINF:-1,|BE| VOO SPORT 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2186.m3u8
-#EXTINF:-1,|BE| VOO SPORT 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2768.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3291.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3500.m3u8
-#EXTINF:-1,|BE| VOO SPORT WORLD 3
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3501.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3614.m3u8
-#EXTINF:-1,|BE| ELEVEN SPORT 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3615.m3u8
-#EXTINF:-1,|BE| 2BE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/673.m3u8
-#EXTINF:-1,|BE| EEN HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4008.m3u8
-#EXTINF:-1,|BE| KADET HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4009.m3u8
-#EXTINF:-1,|BE| VIER HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4007.m3u8
-#EXTINF:-1,|BE| VIJF HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4005.m3u8
-#EXTINF:-1,|BE| ZES HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/4006.m3u8
-#EXTINF:-1,----------- FILMS OCS -----------
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3606.m3u8
-#EXTINF:-1,|FR|ORANGE CINE 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3605.m3u8
-#EXTINF:-1,|FR|ORANGE CINE 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3604.m3u8
-#EXTINF:-1,|FR|ORANGE CINE 3
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3603.m3u8
-#EXTINF:-1,|FR|ORANGE CINE 4
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3602.m3u8
-#EXTINF:-1,|FR|ORANGE CINE 5
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3601.m3u8
-#EXTINF:-1,|FR|OCS GO CINE 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3600.m3u8
-#EXTINF:-1,|FR|OCS GO CINE 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3599.m3u8
-#EXTINF:-1,|FR|OCS GO CINE 3
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3598.m3u8
-#EXTINF:-1,|FR|OCS GO CINE 4
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3597.m3u8
-#EXTINF:-1,|FR|OCS GO CINE 6
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3627.m3u8
-#EXTINF:-1,|FR|OCS GO CINE 7
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3628.m3u8
-#EXTINF:-1,|FR|OCS GO CINE 8
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3629.m3u8
-#EXTINF:-1,|FR|OCS GO CINE 5
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3596.m3u8
-#EXTINF:-1,----------- CHAINES CANALPLAY -----------
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2473.m3u8
-#EXTINF:-1,CANAL PLAY 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2351.m3u8
-#EXTINF:-1,CANAL PLAY 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2352.m3u8
-#EXTINF:-1,CANAL PLAY 3
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2353.m3u8
-#EXTINF:-1,CANAL PLAY 4
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2354.m3u8
-#EXTINF:-1,CANAL PLAY 5
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2355.m3u8
-#EXTINF:-1,CANAL PLAY 6
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2356.m3u8
-#EXTINF:-1,CANAL PLAY 7
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3345.m3u8
-#EXTINF:-1,CANAL PLAY 8
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3346.m3u8
-#EXTINF:-1,CANAL PLAY 9
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3347.m3u8
-#EXTINF:-1,CANAL PLAY 10
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/3348.m3u8
-#EXTINF:-1,RMC SPORT 1 FHD STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9215.m3u8
-#EXTINF:-1,RMC SPORT 2 FHD STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9216.m3u8
-#EXTINF:-1,RMC SPORT 3 FHD STABLE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9217.m3u8
-#EXTINF:-1,RMC SPORT 1 HD ACCESS
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6726.m3u8
-#EXTINF:-1,RMC SPORT 2 HD ACCESS
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6727.m3u8
-#EXTINF:-1,RMC SPORT 3 HD ACCESS
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6728.m3u8
-#EXTINF:-1,RMC SPORT 1 HD  720p
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6514.m3u8
-#EXTINF:-1,RMC SPORT 2 HD  720p
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6515.m3u8
-#EXTINF:-1,RMC SPORT 3 HD  720p
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6516.m3u8
-#EXTINF:-1,RMC SPORT 4 HD  720p
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6517.m3u8
-#EXTINF:-1,RMC SPORT 5 HD  720p
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6518.m3u8
-#EXTINF:-1,RMC SPORT LIVE 5
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5709.m3u8
-#EXTINF:-1,RMC SPORT LIVE 6
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5708.m3u8
-#EXTINF:-1,RMC SPORT LIVE 7
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5707.m3u8
-#EXTINF:-1,RMC SPORT LIVE 8
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5706.m3u8
-#EXTINF:-1,RMC SPORT LIVE 9
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5705.m3u8
-#EXTINF:-1,RMC SPORT UHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5710.m3u8
-#EXTINF:-1,RMC SPORT LIVE 10 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6503.m3u8
-#EXTINF:-1,RMC SPORT LIVE 11 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5704.m3u8
-#EXTINF:-1,RMC SPORT LIVE 12 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5703.m3u8
-#EXTINF:-1,RMC SPORT LIVE 13 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/5702.m3u8
-#EXTINF:-1,RMC SPORT LIVE 14 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6504.m3u8
-#EXTINF:-1,RMC SPORT LIVE 15 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6505.m3u8
-#EXTINF:-1,RMC SPORT LIVE 16 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/6506.m3u8
-#EXTINF:-1, A LA CARTE 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/49.m3u8
-#EXTINF:-1, A LA CARTE 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/48.m3u8
-#EXTINF:-1, A LA CARTE 3
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/47.m3u8
-#EXTINF:-1, A LA CARTE 4
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/46.m3u8
-#EXTINF:-1, A LA CARTE 5
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/45.m3u8
-#EXTINF:-1, A LA CARTE 6
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1817.m3u8
-#EXTINF:-1, A LA CARTE 7
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/962.m3u8
-#EXTINF:-1, A LA CARTE 8
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1591.m3u8
-#EXTINF:-1, A LA CARTE 9
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/1590.m3u8
-#EXTINF:-1, A LA CARTE 10
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/960.m3u8
-#EXTINF:-1,----------- CHAINES SUISSES -----------
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2718.m3u8
-#EXTINF:-1,RTS UN HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2345.m3u8
-#EXTINF:-1,RTS  DEUX HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2690.m3u8
-#EXTINF:-1,|SUI| SRF 1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8910.m3u8
-#EXTINF:-1,|SUI| SRF 2 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8909.m3u8
-#EXTINF:-1,|SUI| SRF INFO
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8908.m3u8
-#EXTINF:-1,|SUI| RSI 1 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8901.m3u8
-#EXTINF:-1,|SUI| RSI 2 HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8900.m3u8
-#EXTINF:-1,|SUI| RTS UN HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8897.m3u8
-#EXTINF:-1,|SUI| RTS DEUX HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8899.m3u8
-#EXTINF:-1,|SUI| TVO HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8902.m3u8
-#EXTINF:-1,|SUI| 3+  HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8895.m3u8
-#EXTINF:-1,|SUI| 4+  HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8894.m3u8
-#EXTINF:-1,|SUI| 5+  HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8893.m3u8
-#EXTINF:-1,|SUI| TLC HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8886.m3u8
-#EXTINF:-1,|SUI| TELE ZURICH
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8905.m3u8
-#EXTINF:-1,|SUI| TELEBIELINGUE
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8903.m3u8
-#EXTINF:-1,|SUI| TELECLUB CINEMA
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2732.m3u8
-#EXTINF:-1,|SUI| TELECLUB PRIME
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2731.m3u8
-#EXTINF:-1,|SUI| TELECLUB STAR
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2730.m3u8
-#EXTINF:-1,|SUI| TELECLUB ZOOM
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8906.m3u8
-#EXTINF:-1,|SUI| TELECLUB SPORT 1
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/2727.m3u8
-#EXTINF:-1,|SUI| TELECLUB SPORT 2
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8904.m3u8
-#EXTINF:-1,|SUI| COMEDY CENTRAL
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8892.m3u8
-#EXTINF:-1,|SUI| TC DISCOVERY CHANNEL HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8883.m3u8
-#EXTINF:-1,|SUI| TC ANIMAL PLANET HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8889.m3u8
-#EXTINF:-1,|SUI| DISNEY CHANNEL HD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8891.m3u8
-#EXTINF:-1,|SUI| NICKELODEON CH
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8890.m3u8
-#EXTINF:-1,|SUI| TC BUNDESLIGA
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/8871.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 1 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9658.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 2 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9657.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 3 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9656.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 4 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9655.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 5 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9654.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 6 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9653.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 7 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9652.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 8 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9651.m3u8
-#EXTINF:-1,|SUI| MYSPORTS 9 FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9650.m3u8
-#EXTINF:-1,|SUI| MYSPORTS FHD
-http://localhd.tv:8081/live/ben.lafitte64/wlhTLQCxYx/9649.m3u8
+http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/15716.m3u8
