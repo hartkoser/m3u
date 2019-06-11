@@ -1,151 +1,631 @@
 #EXTM3U
-#EXTINF:-1,BEIN-SPORT-1=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/2
-#EXTINF:-1,BEIN-SPORT-2=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/3
-#EXTINF:-1,BEIN-SPORT-3=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/4
-#EXTINF:-1,BEIN-SPORT-4=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/6
-#EXTINF:-1,BEIN-SPORT-5=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/7
-#EXTINF:-1,BEIN-SPORT-6=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/8
-#EXTINF:-1,BEIN-SPORT-7=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/9
-#EXTINF:-1,BEIN-SPORT-8=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/10
-#EXTINF:-1,BEIN-SPORT-9=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/11
-#EXTINF:-1,BEIN-SPORT-10=512
-http://egyman.net:1978/abdalhemh5/abdarhem456/12
-#EXTINF:-1,BEIN-SPORT-1=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/22
-#EXTINF:-1,BEIN-SPORT-2=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/21
-#EXTINF:-1,BEIN-SPORT-3=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/20
-#EXTINF:-1,BEIN-SPORT-4=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/19
-#EXTINF:-1,BEIN-SPORT-5=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/18
-#EXTINF:-1,BEIN-SPORT-6=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/17
-#EXTINF:-1,BEIN-SPORT-7=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/16
-#EXTINF:-1,BEIN-SPORT-8=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/15
-#EXTINF:-1,BEIN-SPORT-9=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/14
-#EXTINF:-1,BEIN-SPORT-10=SD
-http://egyman.net:1978/abdalhemh5/abdarhem456/13
-#EXTINF:-1,BEIN-SPORT-1=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4555
-#EXTINF:-1,BEIN-SPORT-2=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4554
-#EXTINF:-1,BEIN-SPORT-3=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4553
-#EXTINF:-1,BEIN-SPORT-4=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4552
-#EXTINF:-1,BEIN-SPORT-5=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4551
-#EXTINF:-1,BEIN-SPORT-6=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4550
-#EXTINF:-1,BEIN-SPORT-7=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4549
-#EXTINF:-1,BEIN-SPORT-8=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4548
-#EXTINF:-1,BEIN-SPORT-9=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4547
-#EXTINF:-1,BEIN-SPORT-10=HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4546
-#EXTINF:-1,BEIN-SPORT-1=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4885
-#EXTINF:-1,BEIN-SPORT-2=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4884
-#EXTINF:-1,BEIN-SPORT-3=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4883
-#EXTINF:-1,BEIN-SPORT-4=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4882
-#EXTINF:-1,BEIN-SPORT-5=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4881
-#EXTINF:-1,BEIN-SPORT-6=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4880
-#EXTINF:-1,BEIN-SPORT-7=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4879
-#EXTINF:-1,BEIN-SPORT-8=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4878
-#EXTINF:-1,BEIN-SPORT-9=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4877
-#EXTINF:-1,BEIN-SPORT-10=FULL-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4876
-#EXTINF:-1,BEIN-SPORT-1=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4609
-#EXTINF:-1,BEIN-SPORT-2=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4610
-#EXTINF:-1,BEIN-SPORT-3=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4611
-#EXTINF:-1,BEIN-SPORT-4=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4612
-#EXTINF:-1,BEIN-SPORT-5=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4613
-#EXTINF:-1,BEIN-SPORT-6=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4614
-#EXTINF:-1,BEIN-SPORT-7=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4615
-#EXTINF:-1,BEIN-SPORT-8=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4616
-#EXTINF:-1,BEIN-SPORT-9=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4617
-#EXTINF:-1,BEIN-SPORT-10=4K
-http://egyman.net:1978/abdalhemh5/abdarhem456/4618
-#EXTINF:-1,AD SPORT HD1
-http://egyman.net:1978/abdalhemh5/abdarhem456/6859
-#EXTINF:-1,AD SPORT HD2
-http://egyman.net:1978/abdalhemh5/abdarhem456/6860
-#EXTINF:-1,AD SPORT HD3
-http://egyman.net:1978/abdalhemh5/abdarhem456/6861
-#EXTINF:-1,AD SPORT HD4
-http://egyman.net:1978/abdalhemh5/abdarhem456/6862
-#EXTINF:-1,AR:-OSN-WWE
-http://egyman.net:1978/abdalhemh5/abdarhem456/4556
-#EXTINF:-1,OSN-SPORT-1-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4559
-#EXTINF:-1,OSN-SPORT-2-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4558
-#EXTINF:-1,OSN-SPORT-3-HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/4573
-#EXTINF:-1,MAR:Arryadia HD
-http://egyman.net:1978/abdalhemh5/abdarhem456/9374
-#EXTINF:-1,BEIN-MAX-LOW-1
-http://egyman.net:1978/abdalhemh5/abdarhem456/8541
-#EXTINF:-1,BEIN-MAX-LOW-2
-http://egyman.net:1978/abdalhemh5/abdarhem456/8540
-#EXTINF:-1,BEIN-MAX-512-1
-http://egyman.net:1978/abdalhemh5/abdarhem456/8543
-#EXTINF:-1,BEIN-MAX-512-2
-http://egyman.net:1978/abdalhemh5/abdarhem456/8542
-#EXTINF:-1,BEIN-MAX-SD-1
-http://egyman.net:1978/abdalhemh5/abdarhem456/8545
-#EXTINF:-1,BEIN-MAX-SD-2
-http://egyman.net:1978/abdalhemh5/abdarhem456/8544
-#EXTINF:-1,BEIN-SPORT-1=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4937
-#EXTINF:-1,BEIN-SPORT-2=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4936
-#EXTINF:-1,BEIN-SPORT-3=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4935
-#EXTINF:-1,BEIN-SPORT-4=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4934
-#EXTINF:-1,BEIN-SPORT-5=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4933
-#EXTINF:-1,BEIN-SPORT-6=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4932
-#EXTINF:-1,BEIN-SPORT-7=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4931
-#EXTINF:-1,BEIN-SPORT-8=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4930
-#EXTINF:-1,BEIN-SPORT-9=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4929
-#EXTINF:-1,BEIN-SPORT-10=LOW
-http://egyman.net:1978/abdalhemh5/abdarhem456/4928
+#EXTINF:-1,Sport TV +
+http://service.biptv.uk:80/live/george/george/52093.m3u8
+#EXTINF:-1,SPORT TV + HD
+http://service.biptv.uk:80/live/george/george/52086.m3u8
+#EXTINF:-1,RTP 1
+http://service.biptv.uk:80/live/george/george/52101.m3u8
+#EXTINF:-1,SPORT TV 1
+http://service.biptv.uk:80/live/george/george/52092.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://service.biptv.uk:80/live/george/george/52085.m3u8
+#EXTINF:-1,Sport TV 1 FHD
+http://service.biptv.uk:80/live/george/george/52078.m3u8
+#EXTINF:-1,Sport Tv 1 UHD 4K
+http://service.biptv.uk:80/live/george/george/52072.m3u8
+#EXTINF:-1,SPORT TV 2
+http://service.biptv.uk:80/live/george/george/52091.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://service.biptv.uk:80/live/george/george/52084.m3u8
+#EXTINF:-1,Sport TV 2 FHD
+http://service.biptv.uk:80/live/george/george/52077.m3u8
+#EXTINF:-1,SPORT TV 3
+http://service.biptv.uk:80/live/george/george/52090.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://service.biptv.uk:80/live/george/george/52083.m3u8
+#EXTINF:-1,Sport TV 3 FHD
+http://service.biptv.uk:80/live/george/george/52076.m3u8
+#EXTINF:-1,SPORT TV 4
+http://service.biptv.uk:80/live/george/george/52089.m3u8
+#EXTINF:-1,Sport TV 4 FHD
+http://service.biptv.uk:80/live/george/george/52075.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://service.biptv.uk:80/live/george/george/52082.m3u8
+#EXTINF:-1,SPORT TV 5
+http://service.biptv.uk:80/live/george/george/52088.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://service.biptv.uk:80/live/george/george/52081.m3u8
+#EXTINF:-1,Sport TV 5 FHD
+http://service.biptv.uk:80/live/george/george/52074.m3u8
+#EXTINF:-1,Sport TV NBA
+http://service.biptv.uk:80/live/george/george/52087.m3u8
+#EXTINF:-1,Sport TV NBA HD
+http://service.biptv.uk:80/live/george/george/52080.m3u8
+#EXTINF:-1,Sport TV NBA FHD
+http://service.biptv.uk:80/live/george/george/52073.m3u8
+#EXTINF:-1,Eleven Sports 1
+http://service.biptv.uk:80/live/george/george/52071.m3u8
+#EXTINF:-1,Eleven Sports 1 HD
+http://service.biptv.uk:80/live/george/george/52065.m3u8
+#EXTINF:-1,Eleven Sports 1 FHD
+http://service.biptv.uk:80/live/george/george/52059.m3u8
+#EXTINF:-1,Eleven Sports 2
+http://service.biptv.uk:80/live/george/george/52070.m3u8
+#EXTINF:-1,Eleven Sports 2 HD
+http://service.biptv.uk:80/live/george/george/52064.m3u8
+#EXTINF:-1,Eleven Sports 2 FHD
+http://service.biptv.uk:80/live/george/george/52058.m3u8
+#EXTINF:-1,Eleven Sports 3
+http://service.biptv.uk:80/live/george/george/52069.m3u8
+#EXTINF:-1,Eleven Sports 3 HD
+http://service.biptv.uk:80/live/george/george/52063.m3u8
+#EXTINF:-1,Eleven Sports 3 FHD
+http://service.biptv.uk:80/live/george/george/52057.m3u8
+#EXTINF:-1,Eleven Sports 4
+http://service.biptv.uk:80/live/george/george/52068.m3u8
+#EXTINF:-1,Eleven Sports 4 HD
+http://service.biptv.uk:80/live/george/george/52062.m3u8
+#EXTINF:-1,Eleven Sports 4 FHD
+http://service.biptv.uk:80/live/george/george/52056.m3u8
+#EXTINF:-1,Eleven Sports 5
+http://service.biptv.uk:80/live/george/george/52067.m3u8
+#EXTINF:-1,Eleven Sports 5 HD
+http://service.biptv.uk:80/live/george/george/52061.m3u8
+#EXTINF:-1,Eleven Sports 5 FHD
+http://service.biptv.uk:80/live/george/george/52055.m3u8
+#EXTINF:-1,Eleven sports 6
+http://service.biptv.uk:80/live/george/george/52066.m3u8
+#EXTINF:-1,Eleven Sports 6 HD
+http://service.biptv.uk:80/live/george/george/52060.m3u8
+#EXTINF:-1,Eleven Sports 6 FHD
+http://service.biptv.uk:80/live/george/george/52054.m3u8
+#EXTINF:-1,Benfica TV
+http://service.biptv.uk:80/live/george/george/52051.m3u8
+#EXTINF:-1,Benfica TV HD
+http://service.biptv.uk:80/live/george/george/52052.m3u8
+#EXTINF:-1,Benfica TV FHD
+http://service.biptv.uk:80/live/george/george/52050.m3u8
+#EXTINF:-1,SPORTING HD
+http://service.biptv.uk:80/live/george/george/52025.m3u8
+#EXTINF:-1,SPORTING TV
+http://service.biptv.uk:80/live/george/george/52026.m3u8
+#EXTINF:-1,CHELSEA TV
+http://service.biptv.uk:80/live/george/george/52043.m3u8
+#EXTINF:-1,Real Madrid TV HD
+http://service.biptv.uk:80/live/george/george/52029.m3u8
+#EXTINF:-1,Bar
+http://service.biptv.uk:80/live/george/george/52049.m3u8
+#EXTINF:-1,PFC
+http://service.biptv.uk:80/live/george/george/52032.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://service.biptv.uk:80/live/george/george/52048.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://service.biptv.uk:80/live/george/george/52047.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://service.biptv.uk:80/live/george/george/52046.m3u8
+#EXTINF:-1,FIGHT NETWORK  HD
+http://service.biptv.uk:80/live/george/george/52041.m3u8
+#EXTINF:-1,FightBox
+http://service.biptv.uk:80/live/george/george/52039.m3u8
+#EXTINF:-1,Figth Sports HD
+http://service.biptv.uk:80/live/george/george/52042.m3u8
+#EXTINF:-1,KOMBAT SPORT
+http://service.biptv.uk:80/live/george/george/52033.m3u8
+#EXTINF:-1,MOTORVISION HD
+http://service.biptv.uk:80/live/george/george/52030.m3u8
+#EXTINF:-1,[ ENCODER] Eleven Sports 1 HD  [360P]
+http://service.biptv.uk:80/live/george/george/50391.m3u8
+#EXTINF:-1,[ ENCODER] Eleven Sports 2 HD  [360P]
+http://service.biptv.uk:80/live/george/george/50390.m3u8
+#EXTINF:-1,[ ENCODER] Eleven Sports 3 HD  [360P]
+http://service.biptv.uk:80/live/george/george/50389.m3u8
+#EXTINF:-1,[ ENCODER] Eleven Sports 4 HD  [360P]
+http://service.biptv.uk:80/live/george/george/50388.m3u8
+#EXTINF:-1,[ ENCODER] Eleven Sports 5 HD  [360P]
+http://service.biptv.uk:80/live/george/george/50387.m3u8
+#EXTINF:-1,[ ENCODER] Eleven Sports 6 HD  [360P]
+http://service.biptv.uk:80/live/george/george/50386.m3u8
+#EXTINF:-1,[ENCODER] Sport TV 1 [360p]
+http://service.biptv.uk:80/live/george/george/50404.m3u8
+#EXTINF:-1,[ENCODER] Sport TV 1 HD [360p]
+http://service.biptv.uk:80/live/george/george/50393.m3u8
+#EXTINF:-1,[ENCODER] Sport TV 2  [360p]
+http://service.biptv.uk:80/live/george/george/50403.m3u8
+#EXTINF:-1,[ENCODER] Sport TV 2 HD [360p]
+http://service.biptv.uk:80/live/george/george/50392.m3u8
+#EXTINF:-1,[ENCODER] Sport TV 3  [360p]
+http://service.biptv.uk:80/live/george/george/50402.m3u8
+#EXTINF:-1,[ENCODER] Sport TV 4  [360p]
+http://service.biptv.uk:80/live/george/george/50401.m3u8
+#EXTINF:-1,[ENCODER] Sport TV 5  [360p]
+http://service.biptv.uk:80/live/george/george/50400.m3u8
+#EXTINF:-1,[BR-VIP]  BAND SPORTS
+http://service.biptv.uk:80/live/george/george/52585.m3u8
+#EXTINF:-1,[BR-VIP]  BAND SPORTS FHD (H265)
+http://service.biptv.uk:80/live/george/george/52584.m3u8
+#EXTINF:-1,[BR-VIP]  BAND SPORTS HD *
+http://service.biptv.uk:80/live/george/george/52583.m3u8
+#EXTINF:-1,[BR-VIP]  FOX SPORTS
+http://service.biptv.uk:80/live/george/george/52494.m3u8
+#EXTINF:-1,[BR-VIP]  FOX SPORTS 2
+http://service.biptv.uk:80/live/george/george/52493.m3u8
+#EXTINF:-1,[BR-VIP]  FOX SPORTS 2 FHD (H265)
+http://service.biptv.uk:80/live/george/george/52492.m3u8
+#EXTINF:-1,[BR-VIP]  FOX SPORTS 2 HD
+http://service.biptv.uk:80/live/george/george/52491.m3u8
+#EXTINF:-1,[BR-VIP]  FOX SPORTS FHD (H265)
+http://service.biptv.uk:80/live/george/george/52490.m3u8
+#EXTINF:-1,[BR-VIP]  FOX SPORTS HD
+http://service.biptv.uk:80/live/george/george/52489.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV
+http://service.biptv.uk:80/live/george/george/52330.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV 2
+http://service.biptv.uk:80/live/george/george/52329.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV 2 FHD *
+http://service.biptv.uk:80/live/george/george/52328.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV 2 HD *
+http://service.biptv.uk:80/live/george/george/52327.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV 3
+http://service.biptv.uk:80/live/george/george/52326.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV 3 FHD (H265)
+http://service.biptv.uk:80/live/george/george/52325.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV 3 HD *
+http://service.biptv.uk:80/live/george/george/52324.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV FHD *
+http://service.biptv.uk:80/live/george/george/52323.m3u8
+#EXTINF:-1,[BR-VIP]  SPORTV HD *
+http://service.biptv.uk:80/live/george/george/52322.m3u8
+#EXTINF:-1,RO: Digi Sport 1
+http://service.biptv.uk:80/live/george/george/51726.m3u8
+#EXTINF:-1,RO: Digi Sport 1 FHD
+http://service.biptv.uk:80/live/george/george/51725.m3u8
+#EXTINF:-1,RO: DIGI Sport 1 HD
+http://service.biptv.uk:80/live/george/george/51724.m3u8
+#EXTINF:-1,RO: Digi Sport 2
+http://service.biptv.uk:80/live/george/george/51723.m3u8
+#EXTINF:-1,RO: Digi Sport 3
+http://service.biptv.uk:80/live/george/george/51722.m3u8
+#EXTINF:-1,RO: Digi Sport 4
+http://service.biptv.uk:80/live/george/george/51721.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 1
+http://service.biptv.uk:80/live/george/george/51672.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 2
+http://service.biptv.uk:80/live/george/george/51671.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 3
+http://service.biptv.uk:80/live/george/george/51670.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 4
+http://service.biptv.uk:80/live/george/george/51669.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 5
+http://service.biptv.uk:80/live/george/george/51668.m3u8
+#EXTINF:-1,RO: TELEKOM SPORT 6
+http://service.biptv.uk:80/live/george/george/51667.m3u8
+#EXTINF:-1,CA: TVA sports (Frances)
+http://service.biptv.uk:80/live/george/george/51564.m3u8
+#EXTINF:-1,CA: TVA SPORTS 1 HD
+http://service.biptv.uk:80/live/george/george/51563.m3u8
+#EXTINF:-1,CA: TVA SPORTS 2 HD
+http://service.biptv.uk:80/live/george/george/51562.m3u8
+#EXTINF:-1,[RU] Extreme Sports
+http://service.biptv.uk:80/live/george/george/49571.m3u8
+#EXTINF:-1,BE: Voo Sport 1
+http://service.biptv.uk:80/live/george/george/48391.m3u8
+#EXTINF:-1,BE: Voo Sport World 1
+http://service.biptv.uk:80/live/george/george/48390.m3u8
+#EXTINF:-1,BE: Voo Sport World 2
+http://service.biptv.uk:80/live/george/george/48389.m3u8
+#EXTINF:-1,BE: Voo Sport World 3
+http://service.biptv.uk:80/live/george/george/48388.m3u8
+#EXTINF:-1,[NL]  EDGE Sport FHD
+http://service.biptv.uk:80/live/george/george/50211.m3u8
+#EXTINF:-1,[NL]  Eurosport 1 FHD
+http://service.biptv.uk:80/live/george/george/50210.m3u8
+#EXTINF:-1,[NL]  Eurosport 1 HD
+http://service.biptv.uk:80/live/george/george/50209.m3u8
+#EXTINF:-1,[NL]  Eurosport 2
+http://service.biptv.uk:80/live/george/george/50208.m3u8
+#EXTINF:-1,[NL]  Eurosport 2 HD
+http://service.biptv.uk:80/live/george/george/50207.m3u8
+#EXTINF:-1,[NL]  Extreme Sports
+http://service.biptv.uk:80/live/george/george/50206.m3u8
+#EXTINF:-1,[NL]  FOX Sports 1 FHD
+http://service.biptv.uk:80/live/george/george/50192.m3u8
+#EXTINF:-1,[NL]  FOX Sports 1 HD
+http://service.biptv.uk:80/live/george/george/50191.m3u8
+#EXTINF:-1,[NL]  FOX Sports 2 FHD
+http://service.biptv.uk:80/live/george/george/50190.m3u8
+#EXTINF:-1,[NL]  FOX Sports 2 HD
+http://service.biptv.uk:80/live/george/george/50189.m3u8
+#EXTINF:-1,[NL]  FOX Sports 3 FHD
+http://service.biptv.uk:80/live/george/george/50188.m3u8
+#EXTINF:-1,[NL]  FOX Sports 4 FHD
+http://service.biptv.uk:80/live/george/george/50187.m3u8
+#EXTINF:-1,[NL]  FOX Sports 4 HD
+http://service.biptv.uk:80/live/george/george/50186.m3u8
+#EXTINF:-1,[NL]  FOX Sports 5 FHD
+http://service.biptv.uk:80/live/george/george/50185.m3u8
+#EXTINF:-1,[NL]  FOX Sports 5 HD
+http://service.biptv.uk:80/live/george/george/50184.m3u8
+#EXTINF:-1,[NL]  FOX Sports 6 FHD
+http://service.biptv.uk:80/live/george/george/50183.m3u8
+#EXTINF:-1,[NL]  FOX Sports 6 HD
+http://service.biptv.uk:80/live/george/george/50182.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport  FHD
+http://service.biptv.uk:80/live/george/george/50104.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Extra 1
+http://service.biptv.uk:80/live/george/george/50103.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Extra FHD
+http://service.biptv.uk:80/live/george/george/50102.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Golf FHD
+http://service.biptv.uk:80/live/george/george/50101.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Racing (CatchUp)
+http://service.biptv.uk:80/live/george/george/50100.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Racing HD
+http://service.biptv.uk:80/live/george/george/50099.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Select (CatchUp)
+http://service.biptv.uk:80/live/george/george/50098.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Select FHD
+http://service.biptv.uk:80/live/george/george/50097.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Voetbal
+http://service.biptv.uk:80/live/george/george/50096.m3u8
+#EXTINF:-1,[NL]  Ziggo Sport Voetbal HD
+http://service.biptv.uk:80/live/george/george/50095.m3u8
+#EXTINF:-1,[NL] Eleven Sports 1 HD
+http://service.biptv.uk:80/live/george/george/48440.m3u8
+#EXTINF:-1,[NL] Eleven Sports 1 SD
+http://service.biptv.uk:80/live/george/george/48439.m3u8
+#EXTINF:-1,[NL] Eleven Sports 2 HD
+http://service.biptv.uk:80/live/george/george/48438.m3u8
+#EXTINF:-1,[NL] Eleven Sports 2 SD
+http://service.biptv.uk:80/live/george/george/48437.m3u8
+#EXTINF:-1,[NL] Eleven Sports 3 HD
+http://service.biptv.uk:80/live/george/george/48436.m3u8
+#EXTINF:-1,[NL] Eleven Sports 3 SD
+http://service.biptv.uk:80/live/george/george/48435.m3u8
+#EXTINF:-1,CH|  MySports
+http://service.biptv.uk:80/live/george/george/48378.m3u8
+#EXTINF:-1,CH|  MySports 1 FHD (CH)
+http://service.biptv.uk:80/live/george/george/48377.m3u8
+#EXTINF:-1,CH|  MySports 2/Sky 2 FHD (CH)
+http://service.biptv.uk:80/live/george/george/48376.m3u8
+#EXTINF:-1,CH|  MySports 3/Sky 3 FHD (CH)
+http://service.biptv.uk:80/live/george/george/48375.m3u8
+#EXTINF:-1,CH|  MySports 4/Sky 4 FHD (CH)
+http://service.biptv.uk:80/live/george/george/48374.m3u8
+#EXTINF:-1,CH|  MySports 5/Sky 5 FHD (CH)
+http://service.biptv.uk:80/live/george/george/48373.m3u8
+#EXTINF:-1,CH|  MySports 6/Sky 6 FHD (CH)
+http://service.biptv.uk:80/live/george/george/48372.m3u8
+#EXTINF:-1,CH|  MySports 9/Sky 9 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48371.m3u8
+#EXTINF:-1,CH|  MySports FHD (FR)
+http://service.biptv.uk:80/live/george/george/48370.m3u8
+#EXTINF:-1,CH|  TC Sport 1
+http://service.biptv.uk:80/live/george/george/48346.m3u8
+#EXTINF:-1,CH|  TC Sport 1 HD
+http://service.biptv.uk:80/live/george/george/48345.m3u8
+#EXTINF:-1,CH|  TC Sport 2
+http://service.biptv.uk:80/live/george/george/48344.m3u8
+#EXTINF:-1,CH|  TC Sport 2 HD
+http://service.biptv.uk:80/live/george/george/48343.m3u8
+#EXTINF:-1,CH|  TC Sport 3
+http://service.biptv.uk:80/live/george/george/48342.m3u8
+#EXTINF:-1,CH|  TC Sport 3 HD
+http://service.biptv.uk:80/live/george/george/48341.m3u8
+#EXTINF:-1,CH| MySports 1 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48325.m3u8
+#EXTINF:-1,CH| MySports 2/Sky 2 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48324.m3u8
+#EXTINF:-1,CH| MySports 3/Sky 3 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48323.m3u8
+#EXTINF:-1,CH| MySports 4/Sky 4 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48322.m3u8
+#EXTINF:-1,CH| MySports 5/Sky 5 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48321.m3u8
+#EXTINF:-1,CH| MySports 6/Sky 6 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48320.m3u8
+#EXTINF:-1,CH| MySports 7/Sky 7 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48319.m3u8
+#EXTINF:-1,CH| MySports 8/Sky 8 FHD (FR)
+http://service.biptv.uk:80/live/george/george/48318.m3u8
+#EXTINF:-1,[IT]  Premium Sport 2
+http://service.biptv.uk:80/live/george/george/48530.m3u8
+#EXTINF:-1,[IT]  Premium Sport HD
+http://service.biptv.uk:80/live/george/george/48529.m3u8
+#EXTINF:-1,[IT]  Rai Sport 1
+http://service.biptv.uk:80/live/george/george/48500.m3u8
+#EXTINF:-1,[IT]  Rai Sport 2
+http://service.biptv.uk:80/live/george/george/48499.m3u8
+#EXTINF:-1,[IT]  Sky Sport 1 HD
+http://service.biptv.uk:80/live/george/george/48471.m3u8
+#EXTINF:-1,[IT]  Sky Sport 2 HD
+http://service.biptv.uk:80/live/george/george/48470.m3u8
+#EXTINF:-1,[IT]  Sky Sport 24 HD
+http://service.biptv.uk:80/live/george/george/48469.m3u8
+#EXTINF:-1,[IT]  Sky Sport 3 HD
+http://service.biptv.uk:80/live/george/george/48468.m3u8
+#EXTINF:-1,[IT]  SKY SPORT ARENA
+http://service.biptv.uk:80/live/george/george/48467.m3u8
+#EXTINF:-1,[IT]  Sky Sport F1 HD
+http://service.biptv.uk:80/live/george/george/48466.m3u8
+#EXTINF:-1,[IT]  SKY SPORT MotoGP HD
+http://service.biptv.uk:80/live/george/george/48465.m3u8
+#EXTINF:-1,[IT]  Sky Sport Plus HD
+http://service.biptv.uk:80/live/george/george/48464.m3u8
+#EXTINF:-1,[IT]  Sky Sport Serie A
+http://service.biptv.uk:80/live/george/george/48463.m3u8
+#EXTINF:-1,[IT]  Sky Supercalcio HD
+http://service.biptv.uk:80/live/george/george/48462.m3u8
+#EXTINF:-1,[PL] CANAL  Sport
+http://service.biptv.uk:80/live/george/george/47757.m3u8
+#EXTINF:-1,[PL] CANAL  Sport 2
+http://service.biptv.uk:80/live/george/george/47756.m3u8
+#EXTINF:-1,[PL] CANAL  Sport 2 FHD
+http://service.biptv.uk:80/live/george/george/47755.m3u8
+#EXTINF:-1,[PL] CANAL  Sport 2 HD
+http://service.biptv.uk:80/live/george/george/47754.m3u8
+#EXTINF:-1,[PL] CANAL  Sport FHD
+http://service.biptv.uk:80/live/george/george/47753.m3u8
+#EXTINF:-1,[PL] CANAL  Sport HD
+http://service.biptv.uk:80/live/george/george/47752.m3u8
+#EXTINF:-1,[PL] Eleven Sports 1
+http://service.biptv.uk:80/live/george/george/47728.m3u8
+#EXTINF:-1,[PL] Eleven Sports 1 FHD
+http://service.biptv.uk:80/live/george/george/47727.m3u8
+#EXTINF:-1,[PL] Eleven Sports 2 FHD
+http://service.biptv.uk:80/live/george/george/47726.m3u8
+#EXTINF:-1,[PL] Eleven Sports 3 FHD
+http://service.biptv.uk:80/live/george/george/47725.m3u8
+#EXTINF:-1,[PL] Eleven Sports 4 FHD
+http://service.biptv.uk:80/live/george/george/47724.m3u8
+#EXTINF:-1,[PL] EuroSport 1
+http://service.biptv.uk:80/live/george/george/47721.m3u8
+#EXTINF:-1,[PL] EuroSport 1 FHD
+http://service.biptv.uk:80/live/george/george/47720.m3u8
+#EXTINF:-1,[PL] EuroSport 2 FHD
+http://service.biptv.uk:80/live/george/george/47719.m3u8
+#EXTINF:-1,[PL] Extreme Sports
+http://service.biptv.uk:80/live/george/george/47718.m3u8
+#EXTINF:-1,[PL] Extreme Sports FHD
+http://service.biptv.uk:80/live/george/george/47717.m3u8
+#EXTINF:-1,[PL] Fightbox FHD
+http://service.biptv.uk:80/live/george/george/47716.m3u8
+#EXTINF:-1,[PL] Polsat Sport
+http://service.biptv.uk:80/live/george/george/47650.m3u8
+#EXTINF:-1,[PL] Polsat Sport Extra
+http://service.biptv.uk:80/live/george/george/47649.m3u8
+#EXTINF:-1,[PL] Polsat Sport Extra FHD
+http://service.biptv.uk:80/live/george/george/47648.m3u8
+#EXTINF:-1,[PL] Polsat Sport Extra HD
+http://service.biptv.uk:80/live/george/george/47647.m3u8
+#EXTINF:-1,[PL] Polsat Sport FHD
+http://service.biptv.uk:80/live/george/george/47646.m3u8
+#EXTINF:-1,[PL] Polsat Sport Fight
+http://service.biptv.uk:80/live/george/george/47645.m3u8
+#EXTINF:-1,[PL] POLSAT Sport Fight FHD
+http://service.biptv.uk:80/live/george/george/47644.m3u8
+#EXTINF:-1,[PL] Polsat Sport HD
+http://service.biptv.uk:80/live/george/george/47643.m3u8
+#EXTINF:-1,[PL] Polsat Sport News
+http://service.biptv.uk:80/live/george/george/47642.m3u8
+#EXTINF:-1,[PL] Polsat Sport News HD
+http://service.biptv.uk:80/live/george/george/47641.m3u8
+#EXTINF:-1,[PL] Polsat Sport Premium 1 FHD
+http://service.biptv.uk:80/live/george/george/47640.m3u8
+#EXTINF:-1,[PL] Polsat Sport Premium 2 FHD
+http://service.biptv.uk:80/live/george/george/47639.m3u8
+#EXTINF:-1,[PL] Polsat Sport Premium PPV 3
+http://service.biptv.uk:80/live/george/george/47638.m3u8
+#EXTINF:-1,[PL] Polsat Sport Premium PPV 4
+http://service.biptv.uk:80/live/george/george/47637.m3u8
+#EXTINF:-1,[PL] Polsat Sport Premium PPV 5
+http://service.biptv.uk:80/live/george/george/47636.m3u8
+#EXTINF:-1,[PL] Polsat Sport Premium PPV 6
+http://service.biptv.uk:80/live/george/george/47635.m3u8
+#EXTINF:-1,DE| BBL sport 1 nur Spiel Tag
+http://service.biptv.uk:80/live/george/george/47938.m3u8
+#EXTINF:-1,DE| BBL sport 2 nur Spiel Tag
+http://service.biptv.uk:80/live/george/george/47937.m3u8
+#EXTINF:-1,DE| BBL sport 3 nur Spiel Tag
+http://service.biptv.uk:80/live/george/george/47936.m3u8
+#EXTINF:-1,DE| BBL sport 4 nur Spiel Tag
+http://service.biptv.uk:80/live/george/george/47935.m3u8
+#EXTINF:-1,DE| Sport 1
+http://service.biptv.uk:80/live/george/george/47811.m3u8
+#EXTINF:-1,[UK] BT Sport 1 FHD
+http://service.biptv.uk:80/live/george/george/49448.m3u8
+#EXTINF:-1,[UK] BT Sport 2
+http://service.biptv.uk:80/live/george/george/49447.m3u8
+#EXTINF:-1,[UK] BT Sport 2 FHD
+http://service.biptv.uk:80/live/george/george/49446.m3u8
+#EXTINF:-1,[UK] BT Sport 2 HD
+http://service.biptv.uk:80/live/george/george/49445.m3u8
+#EXTINF:-1,[UK] BT Sport 3
+http://service.biptv.uk:80/live/george/george/49444.m3u8
+#EXTINF:-1,[UK] BT Sport 3 FHD
+http://service.biptv.uk:80/live/george/george/49443.m3u8
+#EXTINF:-1,[UK] BT Sport 3 HD
+http://service.biptv.uk:80/live/george/george/49442.m3u8
+#EXTINF:-1,[UK] BT Sport ESPN (CatchUp)
+http://service.biptv.uk:80/live/george/george/49441.m3u8
+#EXTINF:-1,[UK] BT Sport ESPN FHD
+http://service.biptv.uk:80/live/george/george/49440.m3u8
+#EXTINF:-1,[UK] BT Sport Extra 1
+http://service.biptv.uk:80/live/george/george/49439.m3u8
+#EXTINF:-1,[UK] BT Sport Extra 3
+http://service.biptv.uk:80/live/george/george/49438.m3u8
+#EXTINF:-1,[UK] BT Sport Extra 4
+http://service.biptv.uk:80/live/george/george/49437.m3u8
+#EXTINF:-1,[UK] BT Sport Mosaic 2
+http://service.biptv.uk:80/live/george/george/49436.m3u8
+#EXTINF:-1,[UK] BT Sports 3 FHD
+http://service.biptv.uk:80/live/george/george/49435.m3u8
+#EXTINF:-1,[UK] BT Sports 3 HD
+http://service.biptv.uk:80/live/george/george/49434.m3u8
+#EXTINF:-1,[UK] Eir Sport 1
+http://service.biptv.uk:80/live/george/george/49362.m3u8
+#EXTINF:-1,[UK] eir Sport 2 FHD
+http://service.biptv.uk:80/live/george/george/49361.m3u8
+#EXTINF:-1,[UK] eir Sport 2 HD
+http://service.biptv.uk:80/live/george/george/49360.m3u8
+#EXTINF:-1,[UK] ELEVEN SPORTS FHD
+http://service.biptv.uk:80/live/george/george/49359.m3u8
+#EXTINF:-1,[UK] Eurosport 1 FHD
+http://service.biptv.uk:80/live/george/george/49356.m3u8
+#EXTINF:-1,[UK] Eurosport 1 HD
+http://service.biptv.uk:80/live/george/george/49355.m3u8
+#EXTINF:-1,[UK] Eurosport 2 FHD
+http://service.biptv.uk:80/live/george/george/49354.m3u8
+#EXTINF:-1,[UK] Premier Sports
+http://service.biptv.uk:80/live/george/george/49245.m3u8
+#EXTINF:-1,[UK] Premier Sports FHD
+http://service.biptv.uk:80/live/george/george/49244.m3u8
+#EXTINF:-1,[UK] Premier Sports HD
+http://service.biptv.uk:80/live/george/george/49243.m3u8
+#EXTINF:-1,[UK] Sky Sports Action
+http://service.biptv.uk:80/live/george/george/49141.m3u8
+#EXTINF:-1,[UK] Sky Sports Action FHD
+http://service.biptv.uk:80/live/george/george/49140.m3u8
+#EXTINF:-1,[UK] Sky Sports Action HD
+http://service.biptv.uk:80/live/george/george/49139.m3u8
+#EXTINF:-1,[UK] Sky Sports Arena
+http://service.biptv.uk:80/live/george/george/49138.m3u8
+#EXTINF:-1,[UK] Sky Sports Arena FHD
+http://service.biptv.uk:80/live/george/george/49137.m3u8
+#EXTINF:-1,[UK] Sky Sports Arena HD
+http://service.biptv.uk:80/live/george/george/49136.m3u8
+#EXTINF:-1,[UK] Sky Sports Box Office PPV
+http://service.biptv.uk:80/live/george/george/49135.m3u8
+#EXTINF:-1,[UK] Sky Sports Cricket
+http://service.biptv.uk:80/live/george/george/49134.m3u8
+#EXTINF:-1,[UK] Sky Sports Cricket FHD
+http://service.biptv.uk:80/live/george/george/49133.m3u8
+#EXTINF:-1,[UK] Sky Sports Cricket HD
+http://service.biptv.uk:80/live/george/george/49132.m3u8
+#EXTINF:-1,[UK] Sky Sports F1
+http://service.biptv.uk:80/live/george/george/49131.m3u8
+#EXTINF:-1,[UK] Sky Sports F1 FHD
+http://service.biptv.uk:80/live/george/george/49130.m3u8
+#EXTINF:-1,[UK] Sky Sports Football FHD
+http://service.biptv.uk:80/live/george/george/49129.m3u8
+#EXTINF:-1,[UK] Sky Sports Football HD
+http://service.biptv.uk:80/live/george/george/49128.m3u8
+#EXTINF:-1,[UK] Sky Sports Golf
+http://service.biptv.uk:80/live/george/george/49127.m3u8
+#EXTINF:-1,[UK] Sky Sports Golf FHD
+http://service.biptv.uk:80/live/george/george/49126.m3u8
+#EXTINF:-1,[UK] Sky Sports Golf HD
+http://service.biptv.uk:80/live/george/george/49125.m3u8
+#EXTINF:-1,[UK] Sky Sports Main Event FHD
+http://service.biptv.uk:80/live/george/george/49124.m3u8
+#EXTINF:-1,[UK] Sky Sports Main Event HD
+http://service.biptv.uk:80/live/george/george/49123.m3u8
+#EXTINF:-1,[UK] Sky Sports Main Event SD
+http://service.biptv.uk:80/live/george/george/49122.m3u8
+#EXTINF:-1,[UK] Sky Sports Mix FHD
+http://service.biptv.uk:80/live/george/george/49121.m3u8
+#EXTINF:-1,[UK] Sky Sports Mix HD
+http://service.biptv.uk:80/live/george/george/49120.m3u8
+#EXTINF:-1,[UK] Sky Sports News
+http://service.biptv.uk:80/live/george/george/49119.m3u8
+#EXTINF:-1,[UK] Sky Sports News FHD
+http://service.biptv.uk:80/live/george/george/49118.m3u8
+#EXTINF:-1,[UK] Sky Sports Premier League
+http://service.biptv.uk:80/live/george/george/49117.m3u8
+#EXTINF:-1,[UK] Sky Sports Premier League FHD
+http://service.biptv.uk:80/live/george/george/49116.m3u8
+#EXTINF:-1,[UK] Sky Sports Premier League HD
+http://service.biptv.uk:80/live/george/george/49115.m3u8
+#EXTINF:-1,[UK] SkyNet Sports 1
+http://service.biptv.uk:80/live/george/george/49111.m3u8
+#EXTINF:-1,[UK] SkyNet Sports 3
+http://service.biptv.uk:80/live/george/george/49110.m3u8
+#EXTINF:-1,[UK] SkyNet Sports 4
+http://service.biptv.uk:80/live/george/george/49109.m3u8
+#EXTINF:-1,[UK] SkyNet Sports 6
+http://service.biptv.uk:80/live/george/george/49108.m3u8
+#EXTINF:-1,FR| BEIN MAX 10
+http://service.biptv.uk:80/live/george/george/48281.m3u8
+#EXTINF:-1,FR| BEIN_MAX_4
+http://service.biptv.uk:80/live/george/george/48280.m3u8
+#EXTINF:-1,FR| BEIN_MAX_5
+http://service.biptv.uk:80/live/george/george/48279.m3u8
+#EXTINF:-1,FR| BEIN_MAX_6
+http://service.biptv.uk:80/live/george/george/48278.m3u8
+#EXTINF:-1,FR| BEIN_MAX_7
+http://service.biptv.uk:80/live/george/george/48277.m3u8
+#EXTINF:-1,FR| BEIN_MAX_8
+http://service.biptv.uk:80/live/george/george/48276.m3u8
+#EXTINF:-1,FR| BEIN_MAX_9
+http://service.biptv.uk:80/live/george/george/48275.m3u8
+#EXTINF:-1,FR| BEIN_SPORT_1
+http://service.biptv.uk:80/live/george/george/48274.m3u8
+#EXTINF:-1,FR| BEIN_SPORT_2
+http://service.biptv.uk:80/live/george/george/48273.m3u8
+#EXTINF:-1,FR| BEIN_SPORT_3
+http://service.biptv.uk:80/live/george/george/48272.m3u8
+#EXTINF:-1,FR| BEINSPORT 1 FHD
+http://service.biptv.uk:80/live/george/george/48291.m3u8
+#EXTINF:-1,FR| BEINSPORT 2 FHD
+http://service.biptv.uk:80/live/george/george/48290.m3u8
+#EXTINF:-1,FR| BEINSPORT 3 FHD
+http://service.biptv.uk:80/live/george/george/48289.m3u8
+#EXTINF:-1,FR| BEINSPORT MAX 10
+http://service.biptv.uk:80/live/george/george/48288.m3u8
+#EXTINF:-1,FR| BEINSPORT MAX 4
+http://service.biptv.uk:80/live/george/george/48287.m3u8
+#EXTINF:-1,FR| BEINSPORT MAX 5
+http://service.biptv.uk:80/live/george/george/48286.m3u8
+#EXTINF:-1,FR| BEINSPORT MAX 6
+http://service.biptv.uk:80/live/george/george/48285.m3u8
+#EXTINF:-1,FR| BEINSPORT MAX 7
+http://service.biptv.uk:80/live/george/george/48284.m3u8
+#EXTINF:-1,FR| BEINSPORT MAX 8
+http://service.biptv.uk:80/live/george/george/48283.m3u8
+#EXTINF:-1,FR| BEINSPORT MAX 9
+http://service.biptv.uk:80/live/george/george/48282.m3u8
+#EXTINF:-1,FR| BFM SPORT FHD
+http://service.biptv.uk:80/live/george/george/48267.m3u8
+#EXTINF:-1,FR| CANAL  SPORT FHD
+http://service.biptv.uk:80/live/george/george/48242.m3u8
+#EXTINF:-1,FR| CANAL  SPORT HD
+http://service.biptv.uk:80/live/george/george/48241.m3u8
+#EXTINF:-1,FR| EQUIDIA LIVE FHD
+http://service.biptv.uk:80/live/george/george/48187.m3u8
+#EXTINF:-1,FR| EQUIDIA_LIVE
+http://service.biptv.uk:80/live/george/george/48186.m3u8
+#EXTINF:-1,FR| EURONEWS FRANCE
+http://service.biptv.uk:80/live/george/george/48185.m3u8
+#EXTINF:-1,FR| EUROSPORT 1
+http://service.biptv.uk:80/live/george/george/48181.m3u8
+#EXTINF:-1,FR| EUROSPORT 2 FHD
+http://service.biptv.uk:80/live/george/george/48184.m3u8
+#EXTINF:-1,FR| Eurosport 2 HD
+http://service.biptv.uk:80/live/george/george/48183.m3u8
+#EXTINF:-1,FR| EUROSPORT FHD
+http://service.biptv.uk:80/live/george/george/48182.m3u8
+#EXTINF:-1,FR| FOOT  24/24 FHD
+http://service.biptv.uk:80/live/george/george/48180.m3u8
+#EXTINF:-1,FR| FOOT 24
+http://service.biptv.uk:80/live/george/george/48179.m3u8
+#EXTINF:-1,FR| INFOSPORT
+http://service.biptv.uk:80/live/george/george/48147.m3u8
+#EXTINF:-1,FR| INFOSPORT  FHD
+http://service.biptv.uk:80/live/george/george/48146.m3u8
+#EXTINF:-1,FR| RMC SPORT 1 FHD
+http://service.biptv.uk:80/live/george/george/48052.m3u8
+#EXTINF:-1,FR| RMC SPORT 2 FHD
+http://service.biptv.uk:80/live/george/george/48051.m3u8
+#EXTINF:-1,FR| RMC SPORT 3 FHD
+http://service.biptv.uk:80/live/george/george/48050.m3u8
+#EXTINF:-1,FR| RMC SPORT 4 FHD
+http://service.biptv.uk:80/live/george/george/48049.m3u8
+#EXTINF:-1,FR| SFR Sport 4 HD
+http://service.biptv.uk:80/live/george/george/48038.m3u8
+#EXTINF:-1,FR| SFR_SPORT_1
+http://service.biptv.uk:80/live/george/george/48037.m3u8
+#EXTINF:-1,FR| SFR_SPORT_2
+http://service.biptv.uk:80/live/george/george/48036.m3u8
+#EXTINF:-1,FR| SFR_SPORT_3
+http://service.biptv.uk:80/live/george/george/48035.m3u8
+#EXTINF:-1,FR| SPORT 365
+http://service.biptv.uk:80/live/george/george/48034.m3u8
