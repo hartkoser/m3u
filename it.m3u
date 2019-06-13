@@ -1,941 +1,305 @@
 #EXTM3U
-#EXTINF:-1,Rai 1 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/18744.m3u8
-#EXTINF:-1,Rai 1 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1710.m3u8
-#EXTINF:-1,Rai 2 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1711.m3u8
-#EXTINF:-1,RAI 2 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24035.m3u8
-#EXTINF:-1,Rai 3 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1712.m3u8
-#EXTINF:-1,Rai 3 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24036.m3u8
-#EXTINF:-1,Rete 4 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1713.m3u8
-#EXTINF:-1,Rete 4 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24037.m3u8
-#EXTINF:-1,Canale 5 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/18718.m3u8
-#EXTINF:-1,Canale 5 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1674.m3u8
-#EXTINF:-1,Italia 1 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1675.m3u8
-#EXTINF:-1,Italia 1 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24038.m3u8
-#EXTINF:-1,La 7 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1707.m3u8
-#EXTINF:-1,La 7d HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/18708.m3u8
-#EXTINF:-1,Grande Fratello (Regia 1)
-http://iptv-world.ddns.net:8000/live/marcello/1234/47099.m3u8
-#EXTINF:-1,Grande Fratello (Regia 2)
-http://iptv-world.ddns.net:8000/live/marcello/1234/47100.m3u8
-#EXTINF:-1,Grande Fratello (Un'Ora fà)
-http://iptv-world.ddns.net:8000/live/marcello/1234/47101.m3u8
-#EXTINF:-1,Cine Sony
-http://iptv-world.ddns.net:8000/live/marcello/1234/25163.m3u8
-#EXTINF:-1,20 Mediaset FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/25151.m3u8
-#EXTINF:-1,RSI LA 1 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/3157.m3u8
-#EXTINF:-1,RSI LA 2 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/4662.m3u8
-#EXTINF:-1,*-*-*-*-*- Cinema -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/3180.m3u8
-#EXTINF:-1,Cinema Uno FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24013.m3u8
-#EXTINF:-1,Cinema Uno HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/45.m3u8
-#EXTINF:-1,Cinema +Uno HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1049.m3u8
-#EXTINF:-1,Cinema Due FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36928.m3u8
-#EXTINF:-1,Cinema Due HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/263.m3u8
-#EXTINF:-1,Cinema Due +24 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/4316.m3u8
-#EXTINF:-1,Cinema +24 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35563.m3u8
-#EXTINF:-1,Cinema +24 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/46.m3u8
-#EXTINF:-1,Cinema Collection FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/28941.m3u8
-#EXTINF:-1,Cinema Collection HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/133.m3u8
-#EXTINF:-1,Cinema Drama FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/43629.m3u8
-#EXTINF:-1,Cinema Drama HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/43630.m3u8
-#EXTINF:-1,Cinema Family FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24020.m3u8
-#EXTINF:-1,Cinema Family HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/48.m3u8
-#EXTINF:-1,Cinema Family +1 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/744.m3u8
-#EXTINF:-1,Cinema Romance FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36925.m3u8
-#EXTINF:-1,Cinema Romance HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/49.m3u8
-#EXTINF:-1,Cinema Comedy FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36929.m3u8
-#EXTINF:-1,Cinema Comedy HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/50.m3u8
-#EXTINF:-1,Cinema Action FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24021.m3u8
-#EXTINF:-1,Cinema Action HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/51.m3u8
-#EXTINF:-1,Cinema Suspense FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36930.m3u8
-#EXTINF:-1,Cinema Suspense HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/52.m3u8
-#EXTINF:-1,Paramount Channel HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/4814.m3u8
-#EXTINF:-1,Rai Movie HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/764.m3u8
-#EXTINF:-1,IRIS
-http://iptv-world.ddns.net:8000/live/marcello/1234/773.m3u8
-#EXTINF:-1,*-*-*-*-*- Intrattenimento -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/11467.m3u8
-#EXTINF:-1,Sky Uno FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36917.m3u8
-#EXTINF:-1,Sky Uno HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/138.m3u8
-#EXTINF:-1,Sky Uno +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/742.m3u8
-#EXTINF:-1,Sky Atlantic FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24022.m3u8
-#EXTINF:-1,Sky Atlantic HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/137.m3u8
-#EXTINF:-1,Sky Atlantic +1 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/3604.m3u8
-#EXTINF:-1,FOX FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36924.m3u8
-#EXTINF:-1,FOX HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/265.m3u8
-#EXTINF:-1,FOX +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/4281.m3u8
-#EXTINF:-1,FOX Life FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36921.m3u8
-#EXTINF:-1,FOX Life HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/478.m3u8
-#EXTINF:-1,FOX Life +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/4279.m3u8
-#EXTINF:-1,FOX Crime FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36922.m3u8
-#EXTINF:-1,FOX Crime HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/136.m3u8
-#EXTINF:-1,FOX Crime +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/4277.m3u8
-#EXTINF:-1,FOX Comedy HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1668.m3u8
-#EXTINF:-1,Lei
-http://iptv-world.ddns.net:8000/live/marcello/1234/3653.m3u8
-#EXTINF:-1,Blaze FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24014.m3u8
-#EXTINF:-1,Comedy Central
-http://iptv-world.ddns.net:8000/live/marcello/1234/3999.m3u8
-#EXTINF:-1,Comedy Central +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/5471.m3u8
-#EXTINF:-1,Sky Arte HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/745.m3u8
-#EXTINF:-1,Cielo
-http://iptv-world.ddns.net:8000/live/marcello/1234/936.m3u8
-#EXTINF:-1,LaEffe
-http://iptv-world.ddns.net:8000/live/marcello/1234/5737.m3u8
-#EXTINF:-1,Spike Italia
-http://iptv-world.ddns.net:8000/live/marcello/1234/23410.m3u8
-#EXTINF:-1,Motor Trend
-http://iptv-world.ddns.net:8000/live/marcello/1234/26887.m3u8
-#EXTINF:-1,Real Time HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1679.m3u8
-#EXTINF:-1,Real Time +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/7763.m3u8
-#EXTINF:-1,Rai Premium HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/762.m3u8
-#EXTINF:-1,Rai 4 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/756.m3u8
-#EXTINF:-1,Rai 5 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1531.m3u8
-#EXTINF:-1,Rai Scuola HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/18763.m3u8
-#EXTINF:-1,La 5
-http://iptv-world.ddns.net:8000/live/marcello/1234/1714.m3u8
-#EXTINF:-1,MEDIASET EXTRA
-http://iptv-world.ddns.net:8000/live/marcello/1234/754.m3u8
-#EXTINF:-1,TopCrime
-http://iptv-world.ddns.net:8000/live/marcello/1234/774.m3u8
-#EXTINF:-1,Nove
-http://iptv-world.ddns.net:8000/live/marcello/1234/3593.m3u8
-#EXTINF:-1,Giallo
-http://iptv-world.ddns.net:8000/live/marcello/1234/3645.m3u8
-#EXTINF:-1,Italia 2
-http://iptv-world.ddns.net:8000/live/marcello/1234/6865.m3u8
-#EXTINF:-1,Alice
-http://iptv-world.ddns.net:8000/live/marcello/1234/3595.m3u8
-#EXTINF:-1,VH1
-http://iptv-world.ddns.net:8000/live/marcello/1234/25152.m3u8
-#EXTINF:-1,*-*-*-*-*- Sport -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/3184.m3u8
-#EXTINF:-1,Sky Sport24 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/54.m3u8
-#EXTINF:-1,Sky Sport Uno FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24018.m3u8
-#EXTINF:-1,Sky Sport Uno HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/65.m3u8
-#EXTINF:-1,Sky Sport Arena FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35564.m3u8
-#EXTINF:-1,Sky Sport Arena HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/66.m3u8
-#EXTINF:-1,Sky Sport Football FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35565.m3u8
-#EXTINF:-1,Sky Sport Football HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/297.m3u8
-#EXTINF:-1,Sky Sport Golf FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36919.m3u8
-#EXTINF:-1,Sky Sport Golf HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/751.m3u8
-#EXTINF:-1,Sky Sport NBA FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36918.m3u8
-#EXTINF:-1,Sky Sport NBA HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1677.m3u8
-#EXTINF:-1,SportItalia
-http://iptv-world.ddns.net:8000/live/marcello/1234/3591.m3u8
-#EXTINF:-1,Sky Sport F1 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24023.m3u8
-#EXTINF:-1,Sky Sport F1 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/85.m3u8
-#EXTINF:-1,Sky Sport MotoGP FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35572.m3u8
-#EXTINF:-1,Sky Sport MotoGP HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/521.m3u8
-#EXTINF:-1,Top Calcio 24
-http://iptv-world.ddns.net:8000/live/marcello/1234/5855.m3u8
-#EXTINF:-1,UnireSat by Teleippica
-http://iptv-world.ddns.net:8000/live/marcello/1234/11185.m3u8
-#EXTINF:-1,Eurosport 1
-http://iptv-world.ddns.net:8000/live/marcello/1234/3619.m3u8
-#EXTINF:-1,Eurosport 2
-http://iptv-world.ddns.net:8000/live/marcello/1234/3485.m3u8
-#EXTINF:-1,Bike Channel HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/3586.m3u8
-#EXTINF:-1,Rai Sport + HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/3590.m3u8
-#EXTINF:-1,Canale 85
-http://iptv-world.ddns.net:8000/live/marcello/1234/25280.m3u8
-#EXTINF:-1,SuperTennis HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1165.m3u8
-#EXTINF:-1,Lazio Style Ch
-http://iptv-world.ddns.net:8000/live/marcello/1234/753.m3u8
-#EXTINF:-1,Roma TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/752.m3u8
-#EXTINF:-1,Inter Channel
-http://iptv-world.ddns.net:8000/live/marcello/1234/749.m3u8
-#EXTINF:-1,Milan Channel
-http://iptv-world.ddns.net:8000/live/marcello/1234/750.m3u8
-#EXTINF:-1,Torino Channel
-http://iptv-world.ddns.net:8000/live/marcello/1234/15709.m3u8
-#EXTINF:-1,Class Horse TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/5736.m3u8
-#EXTINF:-1,*-*-*-*-*- Calcio -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/4249.m3u8
-#EXTINF:-1,Sky Sport Serie A 265
-http://iptv-world.ddns.net:8000/live/marcello/1234/35556.m3u8
-#EXTINF:-1,Sky Sport Serie A FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24017.m3u8
-#EXTINF:-1,Sky Sport Serie A HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/67.m3u8
-#EXTINF:-1,Sky Calcio 1 265
-http://iptv-world.ddns.net:8000/live/marcello/1234/36638.m3u8
-#EXTINF:-1,Sky Calcio 1 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35560.m3u8
-#EXTINF:-1,Sky Calcio 1 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/58.m3u8
-#EXTINF:-1,Sky Calcio 2 H265
-http://iptv-world.ddns.net:8000/live/marcello/1234/36639.m3u8
-#EXTINF:-1,Sky Calcio 2 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35561.m3u8
-#EXTINF:-1,Sky Calcio 2 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/68.m3u8
-#EXTINF:-1,Sky Calcio 3 H265
-http://iptv-world.ddns.net:8000/live/marcello/1234/36640.m3u8
-#EXTINF:-1,Sky Calcio 3 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35562.m3u8
-#EXTINF:-1,Sky Calcio 3 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/69.m3u8
-#EXTINF:-1,Sky Calcio 4 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/70.m3u8
-#EXTINF:-1,Sky Calcio 5 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/71.m3u8
-#EXTINF:-1,Sky Calcio 6 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/72.m3u8
-#EXTINF:-1,Sky Calcio 7 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/740.m3u8
-#EXTINF:-1,*-*-*-*-*- Serie A/B (DAZN) -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/28934.m3u8
-#EXTINF:-1,Dazn-1
-http://iptv-world.ddns.net:8000/live/marcello/1234/28935.m3u8
-#EXTINF:-1,Dazn-2
-http://iptv-world.ddns.net:8000/live/marcello/1234/31146.m3u8
-#EXTINF:-1,Dazn-3
-http://iptv-world.ddns.net:8000/live/marcello/1234/28928.m3u8
-#EXTINF:-1,Dazn-4
-http://iptv-world.ddns.net:8000/live/marcello/1234/28929.m3u8
-#EXTINF:-1,Dazn-5
-http://iptv-world.ddns.net:8000/live/marcello/1234/28930.m3u8
-#EXTINF:-1,Dazn-6
-http://iptv-world.ddns.net:8000/live/marcello/1234/28931.m3u8
-#EXTINF:-1,Dazn-7
-http://iptv-world.ddns.net:8000/live/marcello/1234/28932.m3u8
-#EXTINF:-1,Eleven Sports 1 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/31161.m3u8
-#EXTINF:-1,Eleven Sports 2 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/45473.m3u8
-#EXTINF:-1,Eleven Sports 3 FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/45474.m3u8
-#EXTINF:-1,*-*-*-*-*- Documentari -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/4219.m3u8
-#EXTINF:-1,NationalGeo HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/3286.m3u8
-#EXTINF:-1,NationalGeo +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/5472.m3u8
-#EXTINF:-1,NatGeo People FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/24016.m3u8
-#EXTINF:-1,NatGeo People HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1256.m3u8
-#EXTINF:-1,NatGeo Wild FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36920.m3u8
-#EXTINF:-1,NatGeo Wild HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1565.m3u8
-#EXTINF:-1,NatGeo Wild +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/5473.m3u8
-#EXTINF:-1,Discovery FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35568.m3u8
-#EXTINF:-1,Discovery HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1666.m3u8
-#EXTINF:-1,Discovery +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/5469.m3u8
-#EXTINF:-1,Discovery SCI FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35569.m3u8
-#EXTINF:-1,Discovery Sci HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1023.m3u8
-#EXTINF:-1,Crime Investigation FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35567.m3u8
-#EXTINF:-1,CI Crime+Inv. HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/481.m3u8
-#EXTINF:-1,Classica HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/4538.m3u8
-#EXTINF:-1,DoveTv
-http://iptv-world.ddns.net:8000/live/marcello/1234/18838.m3u8
-#EXTINF:-1,Fishing TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/47106.m3u8
-#EXTINF:-1,Focus
-http://iptv-world.ddns.net:8000/live/marcello/1234/3511.m3u8
-#EXTINF:-1,Automoto TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/5747.m3u8
-#EXTINF:-1,DMAX HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1676.m3u8
-#EXTINF:-1,Dmax +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/7762.m3u8
-#EXTINF:-1,History HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1680.m3u8
-#EXTINF:-1,History +1
-http://iptv-world.ddns.net:8000/live/marcello/1234/5474.m3u8
-#EXTINF:-1,Gambero Rosso HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1047.m3u8
-#EXTINF:-1,TV8 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/746.m3u8
-#EXTINF:-1,Marcopolo
-http://iptv-world.ddns.net:8000/live/marcello/1234/3584.m3u8
-#EXTINF:-1,Caccia & Pesca
-http://iptv-world.ddns.net:8000/live/marcello/1234/565.m3u8
-#EXTINF:-1,Pesca & Caccia
-http://iptv-world.ddns.net:8000/live/marcello/1234/3644.m3u8
-#EXTINF:-1,Rai Storia HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/760.m3u8
-#EXTINF:-1,*-*-*-*-*- Ragazzi -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/3182.m3u8
-#EXTINF:-1,FOX Animation FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/36923.m3u8
-#EXTINF:-1,FOX Animation HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1669.m3u8
-#EXTINF:-1,Cartoon Network FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35557.m3u8
-#EXTINF:-1,Disney Channel FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/38565.m3u8
-#EXTINF:-1,Disney Ch. HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1664.m3u8
-#EXTINF:-1,Disney XD FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35570.m3u8
-#EXTINF:-1,Disney XD HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1144.m3u8
-#EXTINF:-1,Nick Jr
-http://iptv-world.ddns.net:8000/live/marcello/1234/4534.m3u8
-#EXTINF:-1,Nickelodeon
-http://iptv-world.ddns.net:8000/live/marcello/1234/3658.m3u8
-#EXTINF:-1,MAN-GA
-http://iptv-world.ddns.net:8000/live/marcello/1234/3672.m3u8
-#EXTINF:-1,Disney Junior
-http://iptv-world.ddns.net:8000/live/marcello/1234/3675.m3u8
-#EXTINF:-1,DeaKids
-http://iptv-world.ddns.net:8000/live/marcello/1234/1682.m3u8
-#EXTINF:-1,Baby TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/4533.m3u8
-#EXTINF:-1,Dea Junior
-http://iptv-world.ddns.net:8000/live/marcello/1234/5364.m3u8
-#EXTINF:-1,Boomerang
-http://iptv-world.ddns.net:8000/live/marcello/1234/1007.m3u8
-#EXTINF:-1,Super!
-http://iptv-world.ddns.net:8000/live/marcello/1234/1166.m3u8
-#EXTINF:-1,K2
-http://iptv-world.ddns.net:8000/live/marcello/1234/1143.m3u8
-#EXTINF:-1,-Frisbee-
-http://iptv-world.ddns.net:8000/live/marcello/1234/944.m3u8
-#EXTINF:-1,Rai yoyo HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/759.m3u8
-#EXTINF:-1,Rai Gulp HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/758.m3u8
-#EXTINF:-1,BOING
-http://iptv-world.ddns.net:8000/live/marcello/1234/777.m3u8
-#EXTINF:-1,Cartoonito
-http://iptv-world.ddns.net:8000/live/marcello/1234/941.m3u8
-#EXTINF:-1,Sky Tg24 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/1678.m3u8
-#EXTINF:-1,Rai News 24 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/763.m3u8
-#EXTINF:-1,TGCOM 24
-http://iptv-world.ddns.net:8000/live/marcello/1234/120.m3u8
-#EXTINF:-1,*-*-*-*-*- DTT/Premium-Sky -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/3186.m3u8
-#EXTINF:-1,Premium Cinema FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35559.m3u8
-#EXTINF:-1,Premium Cinema
-http://iptv-world.ddns.net:8000/live/marcello/1234/1.m3u8
-#EXTINF:-1,Premium Cinema Comedy
-http://iptv-world.ddns.net:8000/live/marcello/1234/13.m3u8
-#EXTINF:-1,Premium Crime
-http://iptv-world.ddns.net:8000/live/marcello/1234/14.m3u8
-#EXTINF:-1,Premium Stories
-http://iptv-world.ddns.net:8000/live/marcello/1234/1040.m3u8
-#EXTINF:-1,Premium Cinema Emotion
-http://iptv-world.ddns.net:8000/live/marcello/1234/15.m3u8
-#EXTINF:-1,Premium Joi
-http://iptv-world.ddns.net:8000/live/marcello/1234/17.m3u8
-#EXTINF:-1,Premium Energy
-http://iptv-world.ddns.net:8000/live/marcello/1234/16.m3u8
-#EXTINF:-1,Premium Action FHD
-http://iptv-world.ddns.net:8000/live/marcello/1234/35558.m3u8
-#EXTINF:-1,Premium Action
-http://iptv-world.ddns.net:8000/live/marcello/1234/2.m3u8
-#EXTINF:-1,*-*-*-*-*- LegaPro -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/31554.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Albinoleffe
-http://iptv-world.ddns.net:8000/live/marcello/1234/38085.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Albissola
-http://iptv-world.ddns.net:8000/live/marcello/1234/38084.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Alessandria
-http://iptv-world.ddns.net:8000/live/marcello/1234/38083.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Arezzo
-http://iptv-world.ddns.net:8000/live/marcello/1234/38082.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Arzachena
-http://iptv-world.ddns.net:8000/live/marcello/1234/38081.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Bisceglie
-http://iptv-world.ddns.net:8000/live/marcello/1234/38080.m3u8
-#EXTINF:-1,|v|LEGA PRO|| CATANIA
-http://iptv-world.ddns.net:8000/live/marcello/1234/38075.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Carrarese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38079.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Casertana
-http://iptv-world.ddns.net:8000/live/marcello/1234/38078.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Catanzaro
-http://iptv-world.ddns.net:8000/live/marcello/1234/38077.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Cavese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38076.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Cuneo
-http://iptv-world.ddns.net:8000/live/marcello/1234/38074.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Fano
-http://iptv-world.ddns.net:8000/live/marcello/1234/38073.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Feralpisalo
-http://iptv-world.ddns.net:8000/live/marcello/1234/38072.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Fermana
-http://iptv-world.ddns.net:8000/live/marcello/1234/38071.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Francavilla
-http://iptv-world.ddns.net:8000/live/marcello/1234/38070.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Giana Erminio
-http://iptv-world.ddns.net:8000/live/marcello/1234/38069.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Gozzano
-http://iptv-world.ddns.net:8000/live/marcello/1234/38068.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Gubbio
-http://iptv-world.ddns.net:8000/live/marcello/1234/38067.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Imolese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38066.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Juve Stabia
-http://iptv-world.ddns.net:8000/live/marcello/1234/38065.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Juventus 23
-http://iptv-world.ddns.net:8000/live/marcello/1234/38064.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Lucchese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38063.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Matera
-http://iptv-world.ddns.net:8000/live/marcello/1234/38062.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Monopoli
-http://iptv-world.ddns.net:8000/live/marcello/1234/38061.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Monza
-http://iptv-world.ddns.net:8000/live/marcello/1234/38060.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Novara
-http://iptv-world.ddns.net:8000/live/marcello/1234/38059.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Olbia
-http://iptv-world.ddns.net:8000/live/marcello/1234/38058.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Paganese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38057.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Pisa
-http://iptv-world.ddns.net:8000/live/marcello/1234/38056.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Pistoiese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38055.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Pontedera
-http://iptv-world.ddns.net:8000/live/marcello/1234/38054.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Pordenone
-http://iptv-world.ddns.net:8000/live/marcello/1234/38053.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Potenza
-http://iptv-world.ddns.net:8000/live/marcello/1234/38052.m3u8
-#EXTINF:-1,|v|LEGA PRO||  Pro Piacenza
-http://iptv-world.ddns.net:8000/live/marcello/1234/38088.m3u8
-#EXTINF:-1,|v|LEGA PRO||  Pro vercelli
-http://iptv-world.ddns.net:8000/live/marcello/1234/38087.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Propatria
-http://iptv-world.ddns.net:8000/live/marcello/1234/38051.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Ravenna
-http://iptv-world.ddns.net:8000/live/marcello/1234/38050.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Reggina
-http://iptv-world.ddns.net:8000/live/marcello/1234/38049.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Renate
-http://iptv-world.ddns.net:8000/live/marcello/1234/38048.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Rende
-http://iptv-world.ddns.net:8000/live/marcello/1234/38047.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Rieti
-http://iptv-world.ddns.net:8000/live/marcello/1234/38046.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Rimini
-http://iptv-world.ddns.net:8000/live/marcello/1234/38045.m3u8
-#EXTINF:-1,|v|LEGA PRO||  Robur Siena
-http://iptv-world.ddns.net:8000/live/marcello/1234/38086.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Sambenedettese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38044.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Sicula Leonzio
-http://iptv-world.ddns.net:8000/live/marcello/1234/38043.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Siracusa
-http://iptv-world.ddns.net:8000/live/marcello/1234/38042.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Sudtirol
-http://iptv-world.ddns.net:8000/live/marcello/1234/38041.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Teramo
-http://iptv-world.ddns.net:8000/live/marcello/1234/38040.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Ternana
-http://iptv-world.ddns.net:8000/live/marcello/1234/38039.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Trapani
-http://iptv-world.ddns.net:8000/live/marcello/1234/38038.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Triestina
-http://iptv-world.ddns.net:8000/live/marcello/1234/38037.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Vibonese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38036.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Vicenza
-http://iptv-world.ddns.net:8000/live/marcello/1234/38035.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Virtus Entella
-http://iptv-world.ddns.net:8000/live/marcello/1234/38034.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Virtus Verona
-http://iptv-world.ddns.net:8000/live/marcello/1234/38033.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Vis Pesaro
-http://iptv-world.ddns.net:8000/live/marcello/1234/38032.m3u8
-#EXTINF:-1,|v|LEGA PRO|| Viterbese Castrese
-http://iptv-world.ddns.net:8000/live/marcello/1234/38031.m3u8
-#EXTINF:-1,*-*-*-*-*- WorlD ChaNNeL -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/11469.m3u8
-#EXTINF:-1,WorlD Channel 3D
-http://iptv-world.ddns.net:8000/live/marcello/1234/24034.m3u8
-#EXTINF:-1,WorlD Christmas Channel
-http://iptv-world.ddns.net:8000/live/marcello/1234/23421.m3u8
-#EXTINF:-1,WorlD Kids-Channel
-http://iptv-world.ddns.net:8000/live/marcello/1234/16414.m3u8
-#EXTINF:-1,WorlD La Pimpa
-http://iptv-world.ddns.net:8000/live/marcello/1234/49207.m3u8
-#EXTINF:-1,WorlD Masha e Orso
-http://iptv-world.ddns.net:8000/live/marcello/1234/15774.m3u8
-#EXTINF:-1,WorlD Naruto Compilation
-http://iptv-world.ddns.net:8000/live/marcello/1234/17356.m3u8
-#EXTINF:-1,WorlD Peppa Pig Channel
-http://iptv-world.ddns.net:8000/live/marcello/1234/49206.m3u8
-#EXTINF:-1,WorlD Peppa Pig Channel 2
-http://iptv-world.ddns.net:8000/live/marcello/1234/15775.m3u8
-#EXTINF:-1,WorlD Peppa Pig Channel 3
-http://iptv-world.ddns.net:8000/live/marcello/1234/47931.m3u8
-#EXTINF:-1,WorlD Saga Alien
-http://iptv-world.ddns.net:8000/live/marcello/1234/16836.m3u8
-#EXTINF:-1,WorlD Super Pigiamini
-http://iptv-world.ddns.net:8000/live/marcello/1234/16786.m3u8
-#EXTINF:-1,WorlD Teletubbies
-http://iptv-world.ddns.net:8000/live/marcello/1234/49208.m3u8
-#EXTINF:-1,WorlD Totò Channel
-http://iptv-world.ddns.net:8000/live/marcello/1234/16787.m3u8
-#EXTINF:-1,WorlD Twilight
-http://iptv-world.ddns.net:8000/live/marcello/1234/16835.m3u8
-#EXTINF:-1,WorlD Winx Club III
-http://iptv-world.ddns.net:8000/live/marcello/1234/17545.m3u8
-#EXTINF:-1,WorlD bob il treno
-http://iptv-world.ddns.net:8000/live/marcello/1234/49205.m3u8
-#EXTINF:-1,WorlD bob il treno 2
-http://iptv-world.ddns.net:8000/live/marcello/1234/23488.m3u8
-#EXTINF:-1,WorlD: Esplorando il Corpo Umano
-http://iptv-world.ddns.net:8000/live/marcello/1234/49118.m3u8
-#EXTINF:-1,WorlD: Franco e Ciccio
-http://iptv-world.ddns.net:8000/live/marcello/1234/19271.m3u8
-#EXTINF:-1,WorlD: Holly & Benji
-http://iptv-world.ddns.net:8000/live/marcello/1234/49203.m3u8
-#EXTINF:-1,WorlD: The Simpson
-http://iptv-world.ddns.net:8000/live/marcello/1234/49202.m3u8
-#EXTINF:-1,*-*-*-*-*- Nazionali Italiani -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/7782.m3u8
-#EXTINF:-1,LabTv
-http://iptv-world.ddns.net:8000/live/marcello/1234/25528.m3u8
-#EXTINF:-1,8 Video Calabria
-http://iptv-world.ddns.net:8000/live/marcello/1234/6252.m3u8
-#EXTINF:-1,C.T.S TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/6323.m3u8
-#EXTINF:-1,Cafe TV 24
-http://iptv-world.ddns.net:8000/live/marcello/1234/6335.m3u8
-#EXTINF:-1,Canale 7
-http://iptv-world.ddns.net:8000/live/marcello/1234/6311.m3u8
-#EXTINF:-1,Canale 8
-http://iptv-world.ddns.net:8000/live/marcello/1234/6254.m3u8
-#EXTINF:-1,Cremona 1
-http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
-#EXTINF:-1,ETV Marche
-http://iptv-world.ddns.net:8000/live/marcello/1234/6340.m3u8
-#EXTINF:-1,Fano Tv
-http://iptv-world.ddns.net:8000/live/marcello/1234/6341.m3u8
-#EXTINF:-1,FRANCE 24
-http://iptv-world.ddns.net:8000/live/marcello/1234/6215.m3u8
-#EXTINF:-1,HSE24
-http://iptv-world.ddns.net:8000/live/marcello/1234/6202.m3u8
-#EXTINF:-1,Ibiza TV
-http://wma10.fluidstream.net/RadioIbizaTV/livestream/playlist.m3u8
-#EXTINF:-1,Imperia TV
-http://ximperia-tvx.api.channel.livestream.com/3.0/playlist.m3u8
-#EXTINF:-1,KissKiss Italia TV
-http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
-#EXTINF:-1,kissKiss Napoli TV
-http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
-#EXTINF:-1,KIssKiss TV
-http://wma05.fluidstream.net/KKMulti/livestream_600p/playlist.m3u8
-#EXTINF:-1,Onda tv
-http://iptv-world.ddns.net:8000/live/marcello/1234/6325.m3u8
-#EXTINF:-1,Rtp TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/6322.m3u8
-#EXTINF:-1,Siena TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/6327.m3u8
-#EXTINF:-1,Sky Tg24
-http://iptv-world.ddns.net:8000/live/marcello/1234/6208.m3u8
-#EXTINF:-1,Studio 100
-rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
-#EXTINF:-1,TeleBoario
-http://iptv-world.ddns.net:8000/live/marcello/1234/6301.m3u8
-#EXTINF:-1,TeleChiara
-http://iptv-world.ddns.net:8000/live/marcello/1234/6333.m3u8
-#EXTINF:-1,TeleOLTRE
-http://iptv-world.ddns.net:8000/live/marcello/1234/6230.m3u8
-#EXTINF:-1,Teleromagna
-http://iptv-world.ddns.net:8000/live/marcello/1234/6264.m3u8
-#EXTINF:-1,Teleromagna Lifestyle
-http://iptv-world.ddns.net:8000/live/marcello/1234/6268.m3u8
-#EXTINF:-1,Teleromagna Sport
-http://iptv-world.ddns.net:8000/live/marcello/1234/6266.m3u8
-#EXTINF:-1,Televenezia
-http://iptv-world.ddns.net:8000/live/marcello/1234/6331.m3u8
-#EXTINF:-1,Top Crime HD
-http://live3.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
-#EXTINF:-1,TSN Tele Sondrio News
-http://iptv-world.ddns.net:8000/live/marcello/1234/6288.m3u8
-#EXTINF:-1,TVRS
-http://iptv-world.ddns.net:8000/live/marcello/1234/6339.m3u8
-#EXTINF:-1,Umbria TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/6330.m3u8
-#EXTINF:-1,Vera TV
-http://iptv-world.ddns.net:8000/live/marcello/1234/6329.m3u8
-#EXTINF:-1,Videolina
-http://iptv-world.ddns.net:8000/live/marcello/1234/19918.m3u8
-#EXTINF:-1,*-*-*-*-*- SD Channel Adsl Merdose SD -*-*-*-*-*
-http://iptv-world.ddns.net:8000/live/marcello/1234/12769.m3u8
-#EXTINF:-1,(SD)Sky Sport Uno HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/12733.m3u8
-#EXTINF:-1,(SD)Sky Sport F1 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/12727.m3u8
-#EXTINF:-1,(SD)Sky Sport MotoGP HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/12726.m3u8
-#EXTINF:-1,(SD)Sky Sport Serie A HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/12723.m3u8
-#EXTINF:-1,(SD)Sky Calcio 1 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/12722.m3u8
-#EXTINF:-1,(SD)Sky Calcio 2 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/12721.m3u8
-#EXTINF:-1,(SD)Sky Calcio 3 HD
-http://iptv-world.ddns.net:8000/live/marcello/1234/12720.m3u8
-#EXTINF:-1,-*-*-*- PRIMAFILA VOD -*-*-*-
-http://iptv-world.ddns.net:8000/movie/marcello/1234/7771.mp4
-#EXTINF:-1,(PF) La favorita
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49379.mp4
-#EXTINF:-1,(PF) Glass
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49378.mp4
-#EXTINF:-1,(PF) Dragon Trainer 3 Il mondo nascosto
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49380.mp4
-#EXTINF:-1,(PF) Creed II
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49381.mp4
-#EXTINF:-1,(PF) Ralph spacca Internet
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49382.mp4
-#EXTINF:-1,(PF) Vice L'uomo nell'ombra
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49383.mp4
-#EXTINF:-1,(PF) Maria Regina di Scozia
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49384.mp4
-#EXTINF:-1,(PF) Green Book
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49385.mp4
-#EXTINF:-1,(PF) Ricomincio da me
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49386.mp4
-#EXTINF:-1,(PF) La befana vien di notte
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49387.mp4
-#EXTINF:-1,(PF) L'esorcismo di Hannah Grace
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49388.mp4
-#EXTINF:-1,(PF) A-X-L Un'amicizia extraordinaria
-http://iptv-world.ddns.net:8000/movie/marcello/1234/46950.mp4
-#EXTINF:-1,============  Al Cinema  ============
-http://iptv-world.ddns.net:8000/movie/marcello/1234/8011.mp4
-#EXTINF:-1,A un metro da te
-http://iptv-world.ddns.net:8000/movie/marcello/1234/47083.mp4
-#EXTINF:-1,After
-http://iptv-world.ddns.net:8000/movie/marcello/1234/47919.mp4
-#EXTINF:-1,Aladdin (2019)
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49390.mp4
-#EXTINF:-1,Attacco a Mumbai  Una vera storia di coraggio
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49167.mp4
-#EXTINF:-1,Attenti a quelle due
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49391.mp4
-#EXTINF:-1,Avengers  Endgame
-http://iptv-world.ddns.net:8000/movie/marcello/1234/48145.mp4
-#EXTINF:-1,C'era una volta il Principe Azzurro
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45825.mp4
-#EXTINF:-1,Captain Marvel
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45444.mp4
-#EXTINF:-1,Dumbo film
-http://iptv-world.ddns.net:8000/movie/marcello/1234/46956.mp4
-#EXTINF:-1,Escape Room
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45826.mp4
-#EXTINF:-1,Hellboy (2019)
-http://iptv-world.ddns.net:8000/movie/marcello/1234/47924.mp4
-#EXTINF:-1,I fratelli Sisters
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49124.mp4
-#EXTINF:-1,Il grande spirito
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49367.mp4
-#EXTINF:-1,Il professore e il pazzo
-http://iptv-world.ddns.net:8000/movie/marcello/1234/46958.mp4
-#EXTINF:-1,Il traditore
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49398.mp4
-#EXTINF:-1,John Wick 3 Parabellum
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49356.mkv
-#EXTINF:-1,L'agenzia dei bugiardi
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49126.mp4
-#EXTINF:-1,La Llorona  Le lacrime del male
-http://iptv-world.ddns.net:8000/movie/marcello/1234/48149.mp4
-#EXTINF:-1,Ma cosa ci dice il cervello
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49176.mp4
-#EXTINF:-1,Non sono un assassino
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49358.mp4
-#EXTINF:-1,Pet Sematary
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49371.mp4
-#EXTINF:-1,Pokémon Detective Pikachu
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49363.mp4
-#EXTINF:-1,Red Joan
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49374.mp4
-#EXTINF:-1,Shazam!
-http://iptv-world.ddns.net:8000/movie/marcello/1234/47084.mp4
-#EXTINF:-1,Stanlio & Ollio
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49135.mp4
-#EXTINF:-1,Ted Bundy Fascino criminale
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49357.mp4
-#EXTINF:-1,The Hard Way
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45487.mp4
-#EXTINF:-1,The Prodigy  Il figlio del male
-http://iptv-world.ddns.net:8000/movie/marcello/1234/47097.mp4
-#EXTINF:-1,============  Ultimi Inseriti  ============
-http://iptv-world.ddns.net:8000/movie/marcello/1234/16465.mp4
-#EXTINF:-1,Black Tide
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49414.mp4
-#EXTINF:-1,tramonto
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49411.mp4
-#EXTINF:-1,The Perfection
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49410.mp4
-#EXTINF:-1,The Kid
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49409.mp4
-#EXTINF:-1,Tale madre tale figlia
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49408.mp4
-#EXTINF:-1,Rex  Un Cucciolo a Palazzo
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49406.mp4
-#EXTINF:-1,Notte nuda
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49405.mp4
-#EXTINF:-1,Monkey King  The Hero Is Back
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49404.mp4
-#EXTINF:-1,Molly Cooper Omicidio sul fronte
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49403.mp4
-#EXTINF:-1,mio figlio
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49402.mp4
-#EXTINF:-1,Matrimonio in Toscana
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49401.mp4
-#EXTINF:-1,Life on the Line
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49400.mp4
-#EXTINF:-1,La mia peggiore amica2
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49399.mp4
-#EXTINF:-1,Il coraggio della verità  The Hate U Give
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49397.mp4
-#EXTINF:-1,Duisburg  Linea di sangue
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49396.mp4
-#EXTINF:-1,Cyrano mon amour
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49395.mp4
-#EXTINF:-1,Cristiano Rolando
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49394.mp4
-#EXTINF:-1,Copperman
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49393.mp4
-#EXTINF:-1,Calore e polvere
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49392.mp4
-#EXTINF:-1,What Men Want  Quello che gli uomini vogliono
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49377.mp4
-#EXTINF:-1,See You Yesterday
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49375.mp4
-#EXTINF:-1,Rabbia Furiosa  Er Canaro
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49373.mp4
-#EXTINF:-1,Quando corre Nuvolari
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49372.mp4
-#EXTINF:-1,Malibu Rescue
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49370.mp4
-#EXTINF:-1,Two Lovers
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49369.mp4
-#EXTINF:-1,Inversione di rotta
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49368.mp4
-#EXTINF:-1,Il ragazzo che diventerà re
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49366.mp4
-#EXTINF:-1,Good Sam
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49365.mp4
-#EXTINF:-1,Gli ultimi giorni nel deserto
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49364.mp4
-#EXTINF:-1,Cyborg 2
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49362.mp4
-#EXTINF:-1,Curse II The Bite
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49361.mp4
-#EXTINF:-1,Chi salverà le rose?
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49360.mp4
-#EXTINF:-1,Blood Fest
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49359.mp4
-#EXTINF:-1,The Monster
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49178.mp4
-#EXTINF:-1,Miss Bala  Sola contro tutti
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49177.mp4
-#EXTINF:-1,Gente que viene y bah
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49172.mp4
-#EXTINF:-1,L'ora più bella
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49174.mp4
-#EXTINF:-1,Wine Country
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49171.mp4
-#EXTINF:-1,Caffè
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49170.mp4
-#EXTINF:-1,Boy Erased  Vite Cancellate
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49169.mp4
-#EXTINF:-1,Amicizia a rischio
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49166.mp4
-#EXTINF:-1,Pokémon  Genesect e il risveglio della leggenda
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49140.mp4
-#EXTINF:-1,Voglio una vita a forma di me
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49139.mp4
-#EXTINF:-1,Un valzer tra gli scaffali
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49138.mp4
-#EXTINF:-1,I tre volti
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49137.mp4
-#EXTINF:-1,The Last Summer
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49136.mp4
-#EXTINF:-1,sotto sequestro
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49134.mp4
-#EXTINF:-1,Operation Mekong
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49133.mp4
-#EXTINF:-1,Misfire  Bersaglio mancato
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49131.mp4
-#EXTINF:-1,Leonardo  Cinquecento
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49130.mp4
-#EXTINF:-1,La gang del bosco
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49129.mp4
-#EXTINF:-1,Jo Pil ho L'alba della vendetta
-http://iptv-world.ddns.net:8000/movie/marcello/1234/49125.mp4
-#EXTINF:-1,-=FINE ULTIMI INSERITI=-
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25336.mp4
-#EXTINF:-1,======== VOD 4K/1080P ========
-http://iptv-world.ddns.net:8000/movie/marcello/1234/21814.mp4
-#EXTINF:-1,Alien: Covenant 1080p
-http://iptv-world.ddns.net:8000/movie/marcello/1234/21809.mkv
-#EXTINF:-1,Atomica Bionda
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23541.mkv
-#EXTINF:-1,Barry Seal Una Storia Americana
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23542.mkv
-#EXTINF:-1,Baywatch
-http://iptv-world.ddns.net:8000/movie/marcello/1234/21810.mkv
-#EXTINF:-1,Blade Runner
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23729.mkv
-#EXTINF:-1,Brawl In Cell Block 99
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25487.mkv
-#EXTINF:-1,Dunkirk
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23544.mkv
-#EXTINF:-1,Harry Potter e il calice di fuoco (4K)
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45820.mkv
-#EXTINF:-1,Harry Potter e la camera dei segreti (4K)
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45817.mkv
-#EXTINF:-1,Harry Potter e la pietra filosofale (4K)
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45821.mkv
-#EXTINF:-1,IT
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23538.mkv
-#EXTINF:-1,Jerry Maguire
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25628.mkv
-#EXTINF:-1,John Wick 4K
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23545.mkv
-#EXTINF:-1,Jupiter: Il destino dell'universo
-http://iptv-world.ddns.net:8000/movie/marcello/1234/27013.mkv
-#EXTINF:-1,King Arthur: Il Potere Della Spada
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23601.mp4
-#EXTINF:-1,L'Uomo Sul Treno: The Commuter
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25629.mkv
-#EXTINF:-1,Maze Runner: La Rivelazione
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25489.mkv
-#EXTINF:-1,Napoli Velata
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25490.mkv
-#EXTINF:-1,Overdrive
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23548.mkv
-#EXTINF:-1,Pacific Rim La Rivolta 1080p
-http://iptv-world.ddns.net:8000/movie/marcello/1234/27311.mkv
-#EXTINF:-1,Passengers 4K
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23549.mkv
-#EXTINF:-1,Pirati dei Caraibi La vendetta di Salazar 1080P
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23550.mkv
-#EXTINF:-1,Rogue One A Star Wars Story (4K)
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45822.mkv
-#EXTINF:-1,Rogue One: A Star Wars Story 4K
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23539.mkv
-#EXTINF:-1,Spider-Man Homecoming
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23551.mkv
-#EXTINF:-1,Star Wars Episodio VIII: Gli Ultimi Jedi
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25491.mkv
-#EXTINF:-1,Suicide Squad (4K)
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45818.mkv
-#EXTINF:-1,Sully (4K)
-http://iptv-world.ddns.net:8000/movie/marcello/1234/45819.mkv
-#EXTINF:-1,The Disaster Artist
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25492.mkv
-#EXTINF:-1,The War  Il Pianeta Delle Scimmie
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23553.mkv
-#EXTINF:-1,Transformers 5 L'Ultimo Cavaliere
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23552.mkv
-#EXTINF:-1,Valerian E La Citta Dei Mille Pianeti 4K
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23730.mkv
-#EXTINF:-1,Watchmen
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25485.mkv
-#EXTINF:-1,Wonder Woman
-http://iptv-world.ddns.net:8000/movie/marcello/1234/23554.mkv
-#EXTINF:-1,X-Men Apocalypse
-http://iptv-world.ddns.net:8000/movie/marcello/1234/25627.mkv
+#EXTINF:-1,IT: RAI 1
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14025.m3u8
+#EXTINF:-1,IT: RAI 1 (R)
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19085.m3u8
+#EXTINF:-1,IT: RAI 2
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14024.m3u8
+#EXTINF:-1,IT: RAI 2 (R)
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19086.m3u8
+#EXTINF:-1,IT: RAI 3
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14023.m3u8
+#EXTINF:-1,IT: RAI 3 (R)
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19087.m3u8
+#EXTINF:-1,IT: RETE 4
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14014.m3u8
+#EXTINF:-1,IT: RETE 4 (R)
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19083.m3u8
+#EXTINF:-1,IT: CANALE 5
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14013.m3u8
+#EXTINF:-1,IT: CANALE 5 (R)
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19082.m3u8
+#EXTINF:-1,IT: ITALIA 1
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14016.m3u8
+#EXTINF:-1,IT: ITALIA 1 (R)
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19084.m3u8
+#EXTINF:-1,IT: ITALIA 2
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14015.m3u8
+#EXTINF:-1,IT: RAI 4
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14022.m3u8
+#EXTINF:-1,IT: RAI 5
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14021.m3u8
+#EXTINF:-1,IT: LA5
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14006.m3u8
+#EXTINF:-1,IT: LA 7
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14005.m3u8
+#EXTINF:-1,IT: LA 7 (R)
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13883.m3u8
+#EXTINF:-1,IT: LA 7D
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17203.m3u8
+#EXTINF:-1,IT: RSI LA1
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14008.m3u8
+#EXTINF:-1,IT: RSI LA2
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14007.m3u8
+#EXTINF:-1,IT: 20 MEDIASET
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13910.m3u8
+#EXTINF:-1,IT: MEDIASET EXTRA
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14011.m3u8
+#EXTINF:-1,IT: MEDIASET TOP CRIME
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14010.m3u8
+#EXTINF:-1,IT: MEDIASET IRIS
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14071.m3u8
+#EXTINF:-1,IT: MEDIASET IRIS (R)
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13155.m3u8
+#EXTINF:-1,IT: RAI NEWS 24
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14018.m3u8
+#EXTINF:-1,IT: SKY TG 24 HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20616.m3u8
+#EXTINF:-1,===== PREMIUM ITALIA =====
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14044.m3u8
+#EXTINF:-1,IT: PREMIUM CINEMA HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14039.m3u8
+#EXTINF:-1,IT: PREMIUM ACTION HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14042.m3u8
+#EXTINF:-1,IT: PREMIUM COMEDY HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14035.m3u8
+#EXTINF:-1,IT: PREMIUM ENERGY HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14043.m3u8
+#EXTINF:-1,IT: PREMIUM CINEMA EMOTION
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14038.m3u8
+#EXTINF:-1,IT: PREMIUM JOI
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14073.m3u8
+#EXTINF:-1,IT: PREMIUM STORIES
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14027.m3u8
+#EXTINF:-1,IT: PREMIUM CRIME HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14037.m3u8
+#EXTINF:-1,IT: STUDIO UNIVERSAL
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14034.m3u8
+#EXTINF:-1,===== SKY ITALIA =====
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14050.m3u8
+#EXTINF:-1,IT: SKY UNO HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17224.m3u8
+#EXTINF:-1,IT: SKY ATLANTIC HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14004.m3u8
+#EXTINF:-1,IT: SKY CINEMA UNO HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14048.m3u8
+#EXTINF:-1,IT: SKY CINEMA COLLECTION HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20615.m3u8
+#EXTINF:-1,IT: SKY CINEMA COMEDY HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14045.m3u8
+#EXTINF:-1,IT: SKY CINEMA FAMILY HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14046.m3u8
+#EXTINF:-1,IT: SKY CINEMA ACTION HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14047.m3u8
+#EXTINF:-1,IT: SKY CINEMA ROMANCE HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14049.m3u8
+#EXTINF:-1,IT: SKY CINEMA DUE HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/15208.m3u8
+#EXTINF:-1,IT: SKY CINEMA DRAMA HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/15207.m3u8
+#EXTINF:-1,===== SERIE/FILM ITALIA =====
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14033.m3u8
+#EXTINF:-1,IT: FOX HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14030.m3u8
+#EXTINF:-1,IT: FOX LIFE
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14079.m3u8
+#EXTINF:-1,IT: FOX COMEDY
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14051.m3u8
+#EXTINF:-1,IT: FOX CRIME HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14029.m3u8
+#EXTINF:-1,IT: FOX ANIMATION
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14076.m3u8
+#EXTINF:-1,IT: PARAMOUNT CHANNEL
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14017.m3u8
+#EXTINF:-1,IT: TV8
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17232.m3u8
+#EXTINF:-1,IT: LAEFFE
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14036.m3u8
+#EXTINF:-1,IT: GIALLO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13569.m3u8
+#EXTINF:-1,IT: CIELO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14031.m3u8
+#EXTINF:-1,IT: COMEDY CENTRAL
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14069.m3u8
+#EXTINF:-1,IT: RAI MOVIE
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14020.m3u8
+#EXTINF:-1,IT: RAI PREMIUM
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14019.m3u8
+#EXTINF:-1,===== BAMBINI ITALIA =====
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14068.m3u8
+#EXTINF:-1,IT: NICKELODEON
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14075.m3u8
+#EXTINF:-1,IT: NOVE
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13176.m3u8
+#EXTINF:-1,IT: NICK JR
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13175.m3u8
+#EXTINF:-1,IT: CARTOON NETWORK
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14066.m3u8
+#EXTINF:-1,IT: DISNEY CHANNEL
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14074.m3u8
+#EXTINF:-1,IT: DISNEY JUNIOR
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14078.m3u8
+#EXTINF:-1,IT: DISNEY XD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13174.m3u8
+#EXTINF:-1,IT: BOOMERANG
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13893.m3u8
+#EXTINF:-1,IT: DEA KIDS
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14067.m3u8
+#EXTINF:-1,IT: DEA JUNIOR
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13884.m3u8
+#EXTINF:-1,IT: CARTOONITO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17355.m3u8
+#EXTINF:-1,IT: FRISBEE
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14040.m3u8
+#EXTINF:-1,IT: BOING
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14012.m3u8
+#EXTINF:-1,IT: K2
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13886.m3u8
+#EXTINF:-1,IT: RAI GULP
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14065.m3u8
+#EXTINF:-1,IT: RAI YOYO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14064.m3u8
+#EXTINF:-1,===== DOCU ITALIA =====
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14077.m3u8
+#EXTINF:-1,IT: NAT GEO WILD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14072.m3u8
+#EXTINF:-1,IT: NAT GEO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14070.m3u8
+#EXTINF:-1,IT: HISTORY
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14032.m3u8
+#EXTINF:-1,IT: DISCOVERY
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13904.m3u8
+#EXTINF:-1,DE: DISCOVERY SCIENCE
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13905.m3u8
+#EXTINF:-1,IT: DISCOVERY FOCUS
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13894.m3u8
+#EXTINF:-1,IT: INVESTIGATION DISCOVERY
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13890.m3u8
+#EXTINF:-1,IT: DISCOVERY ID
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13235.m3u8
+#EXTINF:-1,IT: MARCO POLO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14028.m3u8
+#EXTINF:-1,IT: REAL TIME
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14063.m3u8
+#EXTINF:-1,IT: GAMBERO ROSSO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13230.m3u8
+#EXTINF:-1,IT: SPIKE
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13281.m3u8
+#EXTINF:-1,IT: DMAX
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14009.m3u8
+#EXTINF:-1,===== SPORT ITALIA =====
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14084.m3u8
+#EXTINF:-1,IT: SKY SPORT 24
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20027.m3u8
+#EXTINF:-1,IT: SKY SPORT UNO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13136.m3u8
+#EXTINF:-1,IT: SKY SPORT F1 HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14083.m3u8
+#EXTINF:-1,IT: SKY SPORT MOTO GP
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14099.m3u8
+#EXTINF:-1,IT: SKY SPORT FOOTBALL
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14082.m3u8
+#EXTINF:-1,IT: SKY SPORT ARENA
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13134.m3u8
+#EXTINF:-1,IT: SKY SPORT GOLF
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14081.m3u8
+#EXTINF:-1,IT: SKY SPORT NBA HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14080.m3u8
+#EXTINF:-1,IT: EUROSPORT 1
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14085.m3u8
+#EXTINF:-1,IT: EUROSPORT 2
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20614.m3u8
+#EXTINF:-1,IT: SUPER TENNIS
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13888.m3u8
+#EXTINF:-1,IT: SPORT ITALIA
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17228.m3u8
+#EXTINF:-1,IT: RAI SPORT
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17229.m3u8
+#EXTINF:-1,IT: SKY CINEMA SUSPENSE HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20716.m3u8
+#EXTINF:-1,IT: MILAN TV
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17225.m3u8
+#EXTINF:-1,IT: INTER CHANNEL
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17227.m3u8
+#EXTINF:-1,===== SPORT CALCIO =====
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14101.m3u8
+#EXTINF:-1,IT: SKY SPORT SERIE A
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14100.m3u8
+#EXTINF:-1,IT: SKY CALCIO 1 HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14091.m3u8
+#EXTINF:-1,IT: SKY CALCIO 2 HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14090.m3u8
+#EXTINF:-1,IT: SKY CALCIO 3 HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14089.m3u8
+#EXTINF:-1,IT: SKY CALCIO 4 HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14088.m3u8
+#EXTINF:-1,IT: SKY CALCIO 5 HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14087.m3u8
+#EXTINF:-1,IT: SKY CALCIO 6 HD
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14086.m3u8
+#EXTINF:-1,IT: VETRINA DAZN SPORT
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13907.m3u8
+#EXTINF:-1,IT: DAZN SPORT 1
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14098.m3u8
+#EXTINF:-1,IT: DAZN SPORT 2
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14097.m3u8
+#EXTINF:-1,IT: DAZN SPORT 3
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14096.m3u8
+#EXTINF:-1,IT: DAZN SPORT 4
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14095.m3u8
+#EXTINF:-1,IT: DAZN SPORT 5
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14094.m3u8
+#EXTINF:-1,IT: DAZN SPORT 6
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14093.m3u8
+#EXTINF:-1,IT: DAZN SPORT 7
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17356.m3u8
+#EXTINF:-1,IT: DAZN SPORT 8
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17358.m3u8
+#EXTINF:-1,IT: DAZN SPORT 9
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17226.m3u8
+#EXTINF:-1,IT: DAZN SPORT 10
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13908.m3u8
+#EXTINF:-1,===== PRIMAFILA =====
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14062.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 1
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14061.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 2
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14060.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 3
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14059.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 4
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14058.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 5
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14057.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 6
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14056.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 7
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14055.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 8
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14054.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 9
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14053.m3u8
+#EXTINF:-1,IT: SKY PRIMAFILA 10
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14052.m3u8
+#EXTINF:-1,====== MUSICA ITALIA ======
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13885.m3u8
+#EXTINF:-1,IT: RADIO LINEA NO1
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13872.m3u8
+#EXTINF:-1,IT: COMPANY TV
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13879.m3u8
+#EXTINF:-1,IT: RADIO 51 TV
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13880.m3u8
+#EXTINF:-1,IT: RADIO BRUNO
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13878.m3u8
+#EXTINF:-1,IT: RADIO ITALIA
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13875.m3u8
+#EXTINF:-1,IT: M2O TV
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13865.m3u8
+#EXTINF:-1,IT | RADIO NUMBER 1
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13882.m3u8
+#EXTINF:-1,IT: RADIO TIVU AZZURRA
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13881.m3u8
+#EXTINF:-1,IT: CAPITAL
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13867.m3u8
+#EXTINF:-1,IT: OTTO FM TV
+http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13286.m3u8
