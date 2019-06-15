@@ -1,305 +1,673 @@
 #EXTM3U
-#EXTINF:-1,RAI 1
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14025.m3u8
-#EXTINF:-1,RAI 1 (R)
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19085.m3u8
-#EXTINF:-1,RAI 2
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14024.m3u8
-#EXTINF:-1,RAI 2 (R)
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19086.m3u8
-#EXTINF:-1,RAI 3
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14023.m3u8
-#EXTINF:-1,RAI 3 (R)
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19087.m3u8
-#EXTINF:-1,RETE 4
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14014.m3u8
-#EXTINF:-1,RETE 4 (R)
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19083.m3u8
-#EXTINF:-1,CANALE 5
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14013.m3u8
-#EXTINF:-1,CANALE 5 (R)
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19082.m3u8
-#EXTINF:-1,ITALIA 1
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14016.m3u8
-#EXTINF:-1,ITALIA 1 (R)
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/19084.m3u8
-#EXTINF:-1,ITALIA 2
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14015.m3u8
-#EXTINF:-1,RAI 4
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14022.m3u8
-#EXTINF:-1,RAI 5
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14021.m3u8
-#EXTINF:-1,LA5
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14006.m3u8
-#EXTINF:-1,LA 7
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14005.m3u8
-#EXTINF:-1,LA 7 (R)
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13883.m3u8
-#EXTINF:-1,LA 7D
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17203.m3u8
-#EXTINF:-1,RSI LA1
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14008.m3u8
-#EXTINF:-1,RSI LA2
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14007.m3u8
-#EXTINF:-1,20 MEDIASET
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13910.m3u8
-#EXTINF:-1,MEDIASET EXTRA
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14011.m3u8
-#EXTINF:-1,MEDIASET TOP CRIME
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14010.m3u8
-#EXTINF:-1,MEDIASET IRIS
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14071.m3u8
-#EXTINF:-1,MEDIASET IRIS (R)
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13155.m3u8
-#EXTINF:-1,RAI NEWS 24
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14018.m3u8
-#EXTINF:-1,SKY TG 24 HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20616.m3u8
-#EXTINF:-1,===== PREMIUM ITALIA =====
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14044.m3u8
-#EXTINF:-1,PREMIUM CINEMA HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14039.m3u8
-#EXTINF:-1,PREMIUM ACTION HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14042.m3u8
-#EXTINF:-1,PREMIUM COMEDY HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14035.m3u8
-#EXTINF:-1,PREMIUM ENERGY HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14043.m3u8
-#EXTINF:-1,PREMIUM CINEMA EMOTION
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14038.m3u8
-#EXTINF:-1,PREMIUM JOI
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14073.m3u8
-#EXTINF:-1,PREMIUM STORIES
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14027.m3u8
-#EXTINF:-1,PREMIUM CRIME HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14037.m3u8
-#EXTINF:-1,STUDIO UNIVERSAL
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14034.m3u8
-#EXTINF:-1,===== SKY ITALIA =====
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14050.m3u8
-#EXTINF:-1,SKY UNO HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17224.m3u8
-#EXTINF:-1,SKY ATLANTIC HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14004.m3u8
-#EXTINF:-1,SKY CINEMA UNO HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14048.m3u8
-#EXTINF:-1,SKY CINEMA COLLECTION HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20615.m3u8
-#EXTINF:-1,SKY CINEMA COMEDY HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14045.m3u8
-#EXTINF:-1,SKY CINEMA FAMILY HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14046.m3u8
-#EXTINF:-1,SKY CINEMA ACTION HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14047.m3u8
-#EXTINF:-1,SKY CINEMA ROMANCE HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14049.m3u8
-#EXTINF:-1,SKY CINEMA DUE HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/15208.m3u8
-#EXTINF:-1,SKY CINEMA DRAMA HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/15207.m3u8
-#EXTINF:-1,===== SERIE/FILM ITALIA =====
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14033.m3u8
-#EXTINF:-1,FOX HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14030.m3u8
-#EXTINF:-1,FOX LIFE
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14079.m3u8
-#EXTINF:-1,FOX COMEDY
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14051.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14029.m3u8
-#EXTINF:-1,FOX ANIMATION
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14076.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14017.m3u8
-#EXTINF:-1,TV8
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17232.m3u8
-#EXTINF:-1,LAEFFE
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14036.m3u8
-#EXTINF:-1,GIALLO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13569.m3u8
-#EXTINF:-1,CIELO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14031.m3u8
+#EXTINF:-1,NRJ Hits HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155945.m3u8
+#EXTINF:-1,Sky Sport 9 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130891.m3u8
+#EXTINF:-1,Sky Sport 10 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130892.m3u8
+#EXTINF:-1,105 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155953.m3u8
+#EXTINF:-1,51 Radio TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144952.m3u8
+#EXTINF:-1,Al Jazeera
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212628.m3u8
+#EXTINF:-1,Alice HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155936.m3u8
+#EXTINF:-1,Alto Adige Tv
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63973.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64022.m3u8
+#EXTINF:-1,Antenna Tre Nordest
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144954.m3u8
+#EXTINF:-1,Antennasud
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144955.m3u8
+#EXTINF:-1,Arte HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130899.m3u8
+#EXTINF:-1,Auto Motor TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64024.m3u8
+#EXTINF:-1,AXN FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64108.m3u8
+#EXTINF:-1,Baby TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175381.m3u8
+#EXTINF:-1,BIKE CHANNEL HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89364.m3u8
+#EXTINF:-1,Bloomberg TV Europe
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212631.m3u8
+#EXTINF:-1,BOING HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62077.m3u8
+#EXTINF:-1,Boomerang
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175382.m3u8
+#EXTINF:-1,BOX OFFICE 10
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159127.m3u8
+#EXTINF:-1,BRESCIA LIVE TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136045.m3u8
+#EXTINF:-1,Caccia e Pesca HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89378.m3u8
+#EXTINF:-1,Caffe TV 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63911.m3u8
+#EXTINF:-1,CANAL 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/211941.m3u8
+#EXTINF:-1,Canale 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62022.m3u8
+#EXTINF:-1,Canale 7
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63957.m3u8
+#EXTINF:-1,Canale 8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63955.m3u8
+#EXTINF:-1,Canale 10
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63922.m3u8
+#EXTINF:-1,Canale 85
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144962.m3u8
+#EXTINF:-1,Carina TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63999.m3u8
+#EXTINF:-1,Cartonito TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/91202.m3u8
+#EXTINF:-1,CARTOON NETWORK HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64127.m3u8
+#EXTINF:-1,Cartoonito HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64134.m3u8
+#EXTINF:-1,CBS News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212638.m3u8
+#EXTINF:-1,Channel 636 of the DTT
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155954.m3u8
+#EXTINF:-1,CIELO HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208418.m3u8
+#EXTINF:-1,Cine Sony
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212617.m3u8
+#EXTINF:-1,Classica HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136071.m3u8
+#EXTINF:-1,CNN
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212630.m3u8
 #EXTINF:-1,COMEDY CENTRAL
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14069.m3u8
-#EXTINF:-1,RAI MOVIE
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14020.m3u8
-#EXTINF:-1,RAI PREMIUM
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14019.m3u8
-#EXTINF:-1,===== BAMBINI ITALIA =====
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14068.m3u8
-#EXTINF:-1,NICKELODEON
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14075.m3u8
-#EXTINF:-1,NOVE
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13176.m3u8
-#EXTINF:-1,NICK JR
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13175.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14066.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14074.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14078.m3u8
-#EXTINF:-1,DISNEY XD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13174.m3u8
-#EXTINF:-1,BOOMERANG
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13893.m3u8
-#EXTINF:-1,DEA KIDS
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14067.m3u8
-#EXTINF:-1,DEA JUNIOR
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13884.m3u8
-#EXTINF:-1,CARTOONITO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17355.m3u8
-#EXTINF:-1,FRISBEE
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14040.m3u8
-#EXTINF:-1,BOING
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14012.m3u8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212616.m3u8
+#EXTINF:-1,Company TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144966.m3u8
+#EXTINF:-1,CRIME & INVESTIGATION HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/122273.m3u8
+#EXTINF:-1,DAZN 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/128035.m3u8
+#EXTINF:-1,DAZN 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/128036.m3u8
+#EXTINF:-1,DAZN 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/128037.m3u8
+#EXTINF:-1,DAZN 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/128038.m3u8
+#EXTINF:-1,DAZN 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136049.m3u8
+#EXTINF:-1,DAZN 7 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/150125.m3u8
+#EXTINF:-1,DAZN 8 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/150126.m3u8
+#EXTINF:-1,DAZN 9 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/150127.m3u8
+#EXTINF:-1,DAZN 10 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/150128.m3u8
+#EXTINF:-1,DAZN 11 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/160980.m3u8
+#EXTINF:-1,Dea Junior
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/134620.m3u8
+#EXTINF:-1,Deejay TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/115616.m3u8
+#EXTINF:-1,Di TV 1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63961.m3u8
+#EXTINF:-1,Di TV 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63960.m3u8
+#EXTINF:-1,Di TV 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63959.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64032.m3u8
+#EXTINF:-1,Discovery focus
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/93492.m3u8
+#EXTINF:-1,Discovery Science HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175369.m3u8
+#EXTINF:-1,Discovery Travel & Living HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/160977.m3u8
+#EXTINF:-1,Disney Channel HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64128.m3u8
+#EXTINF:-1,Disney Junior HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64129.m3u8
+#EXTINF:-1,Disney XD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64130.m3u8
+#EXTINF:-1,DMAX HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/88472.m3u8
+#EXTINF:-1,Dove TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/140037.m3u8
+#EXTINF:-1,Eagle Cinema Animazione FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206418.m3u8
+#EXTINF:-1,Eagle Cinema Avventura FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206419.m3u8
+#EXTINF:-1,Eagle Cinema Azione FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206438.m3u8
+#EXTINF:-1,Eagle Cinema Comico Cult FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206421.m3u8
+#EXTINF:-1,Eagle Cinema Commedia FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206422.m3u8
+#EXTINF:-1,Eagle Cinema Drammatico FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206423.m3u8
+#EXTINF:-1,Eagle Cinema Fantastico FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206420.m3u8
+#EXTINF:-1,Eagle Cinema Film in Sala FHD (qualita camera)
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206430.m3u8
+#EXTINF:-1,Eagle Cinema Horror FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206425.m3u8
+#EXTINF:-1,Eagle Cinema Mitologia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206428.m3u8
+#EXTINF:-1,Eagle Cinema Passione FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206427.m3u8
+#EXTINF:-1,Eagle Cinema Prima Visione FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206417.m3u8
+#EXTINF:-1,Eagle Cinema Sorriso FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206429.m3u8
+#EXTINF:-1,Eagle Cinema Storico FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206424.m3u8
+#EXTINF:-1,Eagle Cinema Thriller FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206426.m3u8
+#EXTINF:-1,Eagle Disney Topolino Paperino e Pippo
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206431.m3u8
+#EXTINF:-1,Eagle Fiabe Magiche
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206433.m3u8
+#EXTINF:-1,Eagle Le Fiabe Disney
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206434.m3u8
+#EXTINF:-1,Eagle Masha e Orso
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206436.m3u8
+#EXTINF:-1,Eagle Peppa Pig
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206435.m3u8
+#EXTINF:-1,Eagle Super Pigiamini FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206437.m3u8
+#EXTINF:-1,Energy HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64096.m3u8
+#EXTINF:-1,Esperia TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63964.m3u8
+#EXTINF:-1,ETV Marche
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/135958.m3u8
+#EXTINF:-1,ETV Rete7
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144970.m3u8
+#EXTINF:-1,EURONEWS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175393.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62019.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62018.m3u8
+#EXTINF:-1,Fano TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63966.m3u8
+#EXTINF:-1,FISHING TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114084.m3u8
+#EXTINF:-1,Focus TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73958.m3u8
+#EXTINF:-1,FOOD NETWORK
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/117407.m3u8
+#EXTINF:-1,Fox Animation HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73959.m3u8
+#EXTINF:-1,Fox Comedy HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62015.m3u8
+#EXTINF:-1,Fox Crime HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62014.m3u8
+#EXTINF:-1,FOX HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73938.m3u8
+#EXTINF:-1,Fox Life HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62013.m3u8
+#EXTINF:-1,FOX SPORTS HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63841.m3u8
+#EXTINF:-1,Frisbee TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64133.m3u8
+#EXTINF:-1,Gambero Rosso HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64018.m3u8
+#EXTINF:-1,Giallo HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155931.m3u8
+#EXTINF:-1,History Channel HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64025.m3u8
+#EXTINF:-1,History Lab HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/93182.m3u8
+#EXTINF:-1,Hit Music Channel
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155956.m3u8
+#EXTINF:-1,HSE24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144973.m3u8
+#EXTINF:-1,Inter Channel HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73985.m3u8
+#EXTINF:-1,Investigation Disvovery
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73960.m3u8
+#EXTINF:-1,IRC Sport
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144975.m3u8
+#EXTINF:-1,Iris HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64142.m3u8
+#EXTINF:-1,ITALIA 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212888.m3u8
+#EXTINF:-1,Italian Fishing
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159620.m3u8
+#EXTINF:-1,Julie Italia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94130.m3u8
+#EXTINF:-1,Juventus Channel
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63846.m3u8
 #EXTINF:-1,K2
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13886.m3u8
-#EXTINF:-1,RAI GULP
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14065.m3u8
-#EXTINF:-1,RAI YOYO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14064.m3u8
-#EXTINF:-1,===== DOCU ITALIA =====
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14077.m3u8
-#EXTINF:-1,NAT GEO WILD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14072.m3u8
-#EXTINF:-1,NAT GEO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14070.m3u8
-#EXTINF:-1,HISTORY
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14032.m3u8
-#EXTINF:-1,DISCOVERY
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13904.m3u8
-#EXTINF:-1,DE: DISCOVERY SCIENCE
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13905.m3u8
-#EXTINF:-1,DISCOVERY FOCUS
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13894.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13890.m3u8
-#EXTINF:-1,DISCOVERY ID
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13235.m3u8
-#EXTINF:-1,MARCO POLO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14028.m3u8
-#EXTINF:-1,REAL TIME
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14063.m3u8
-#EXTINF:-1,GAMBERO ROSSO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13230.m3u8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64135.m3u8
+#EXTINF:-1,Krimisa TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144958.m3u8
+#EXTINF:-1,L7
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/117355.m3u8
+#EXTINF:-1,LA 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64141.m3u8
+#EXTINF:-1,LA 7 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62008.m3u8
+#EXTINF:-1,LaEffe
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175309.m3u8
+#EXTINF:-1,LAZIO CHANNEL HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/108794.m3u8
+#EXTINF:-1,LEI
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/199100.m3u8
+#EXTINF:-1,Lucania TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63925.m3u8
+#EXTINF:-1,m20 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144981.m3u8
+#EXTINF:-1,Marcopolo HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64017.m3u8
+#EXTINF:-1,Mediaset 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111113.m3u8
+#EXTINF:-1,Mediaset 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111114.m3u8
+#EXTINF:-1,Mediaset 5
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111116.m3u8
+#EXTINF:-1,MEDIASET 20 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/117348.m3u8
+#EXTINF:-1,MEDIASET EXTRA HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212612.m3u8
+#EXTINF:-1,MEDIASET ITALIA 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212903.m3u8
+#EXTINF:-1,Mexicana
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155950.m3u8
+#EXTINF:-1,Milan CHANNEL
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/97464.m3u8
+#EXTINF:-1,MotoGP HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159446.m3u8
+#EXTINF:-1,Motor Trend HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/103406.m3u8
+#EXTINF:-1,MTV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212613.m3u8
+#EXTINF:-1,MTV 8 Musica
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136026.m3u8
+#EXTINF:-1,MTV Music
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136031.m3u8
+#EXTINF:-1,MTV Rock HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136027.m3u8
+#EXTINF:-1,Napoli Canale 21
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63951.m3u8
+#EXTINF:-1,NAT GEO HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73928.m3u8
+#EXTINF:-1,NAT GEO PEOPLE FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62006.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62005.m3u8
+#EXTINF:-1,NOVE HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212611.m3u8
+#EXTINF:-1,OndaTV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/144984.m3u8
+#EXTINF:-1,Orler TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94131.m3u8
+#EXTINF:-1,Otto Fm Tv
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155961.m3u8
+#EXTINF:-1,Paramount Channel HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64107.m3u8
+#EXTINF:-1,PEPPA PIG Channel
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/140049.m3u8
+#EXTINF:-1,Pesca e Caccia HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/121589.m3u8
+#EXTINF:-1,POP TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/140056.m3u8
+#EXTINF:-1,PREIMIUM CINEMA 24 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114620.m3u8
+#EXTINF:-1,PREMIUM ACTION HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212907.m3u8
+#EXTINF:-1,Premium Calcio 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114246.m3u8
+#EXTINF:-1,Premium Calcio 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63851.m3u8
+#EXTINF:-1,Premium Calcio 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63850.m3u8
+#EXTINF:-1,Premium Calcio 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63849.m3u8
+#EXTINF:-1,Premium Calcio 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63848.m3u8
+#EXTINF:-1,Premium Calcio 6 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63847.m3u8
+#EXTINF:-1,Premium CALCIO HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89380.m3u8
+#EXTINF:-1,Premium Cartoon Network HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64124.m3u8
+#EXTINF:-1,Premium Cinema 2
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/199381.m3u8
+#EXTINF:-1,PREMIUM Cinema 24 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212619.m3u8
+#EXTINF:-1,Premium Cinema Action HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/111139.m3u8
+#EXTINF:-1,Premium Cinema Comedy HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62000.m3u8
+#EXTINF:-1,Premium Cinema Emotion HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/61998.m3u8
+#EXTINF:-1,Premium Cinema Energy HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73964.m3u8
+#EXTINF:-1,Premium Cinema HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/156575.m3u8
+#EXTINF:-1,PREMIUM CINEMA JOI
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114416.m3u8
+#EXTINF:-1,Premium Cinema Plus 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73965.m3u8
+#EXTINF:-1,PREMIUM CINEMA STORIES
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/176117.m3u8
+#EXTINF:-1,PREMIUM CINEMA UNIVERSAL HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114417.m3u8
+#EXTINF:-1,PREMIUM COMEDY
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212893.m3u8
+#EXTINF:-1,Premium Crime FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/61999.m3u8
+#EXTINF:-1,PREMIUM Emotion
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212621.m3u8
+#EXTINF:-1,PREMIUM Energy HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212620.m3u8
+#EXTINF:-1,PREMIUM JOI
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212909.m3u8
+#EXTINF:-1,Premium Sport 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/61996.m3u8
+#EXTINF:-1,Premium Stories HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64091.m3u8
+#EXTINF:-1,Premium Studio Universal
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/157165.m3u8
+#EXTINF:-1,Prenium Cinema HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73968.m3u8
+#EXTINF:-1,PrimaFila 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86201.m3u8
+#EXTINF:-1,PrimaFila 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73949.m3u8
+#EXTINF:-1,PrimaFila 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73948.m3u8
+#EXTINF:-1,PrimaFila 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73947.m3u8
+#EXTINF:-1,PrimaFila 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73946.m3u8
+#EXTINF:-1,PrimaFila 6 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73945.m3u8
+#EXTINF:-1,PrimaFila 7 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73944.m3u8
+#EXTINF:-1,PrimaFila 8 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73943.m3u8
+#EXTINF:-1,PrimaFila 9 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73942.m3u8
+#EXTINF:-1,PrimaFila 10 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73950.m3u8
+#EXTINF:-1,PrimaFila 11 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86460.m3u8
+#EXTINF:-1,PrimaFila 12 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86461.m3u8
+#EXTINF:-1,PrimaFila 13 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86473.m3u8
+#EXTINF:-1,PrimaFila 14 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86474.m3u8
+#EXTINF:-1,PrimaFila 15 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86475.m3u8
+#EXTINF:-1,PrimaFila 16 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94606.m3u8
+#EXTINF:-1,PrimaFila 17 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/93504.m3u8
+#EXTINF:-1,Primafila 18
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212945.m3u8
+#EXTINF:-1,Primafila 19
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212946.m3u8
+#EXTINF:-1,Primafila Vetrina
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212934.m3u8
+#EXTINF:-1,PrimaFila WWE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159595.m3u8
+#EXTINF:-1,Primafilla 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159605.m3u8
+#EXTINF:-1,Primafilla 10 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159604.m3u8
+#EXTINF:-1,Primocanale TV HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63962.m3u8
+#EXTINF:-1,Quarta Rete TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64140.m3u8
+#EXTINF:-1,Qvc
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/128207.m3u8
+#EXTINF:-1,Radio Super
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/206222.m3u8
+#EXTINF:-1,Rai 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62053.m3u8
+#EXTINF:-1,Rai 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62052.m3u8
+#EXTINF:-1,Rai 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62051.m3u8
+#EXTINF:-1,Rai 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62050.m3u8
+#EXTINF:-1,Rai 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62049.m3u8
+#EXTINF:-1,Rai Gulp HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73920.m3u8
+#EXTINF:-1,Rai MOVIE HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73921.m3u8
+#EXTINF:-1,Rai Nettuno
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64148.m3u8
+#EXTINF:-1,Rai News 24 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64015.m3u8
+#EXTINF:-1,Rai Premium HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73923.m3u8
+#EXTINF:-1,Rai Scuola HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64149.m3u8
+#EXTINF:-1,Rai Sport + FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/156411.m3u8
+#EXTINF:-1,RAI SPORT HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212911.m3u8
+#EXTINF:-1,Rai Storia FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64150.m3u8
+#EXTINF:-1,Rai YoYo HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73924.m3u8
+#EXTINF:-1,RDS Social TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145001.m3u8
+#EXTINF:-1,Real Time HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64034.m3u8
+#EXTINF:-1,Rete 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62042.m3u8
+#EXTINF:-1,Rete 79 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145002.m3u8
+#EXTINF:-1,Rete Biella TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63975.m3u8
+#EXTINF:-1,ROMA CHANNEL HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63845.m3u8
+#EXTINF:-1,RSI 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/129976.m3u8
+#EXTINF:-1,RSI 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/120931.m3u8
+#EXTINF:-1,RSI LA 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73932.m3u8
+#EXTINF:-1,RSI LA 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73931.m3u8
+#EXTINF:-1,RTC Calabria Channel
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145005.m3u8
+#EXTINF:-1,RTE News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212639.m3u8
+#EXTINF:-1,RTL 1025 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63876.m3u8
+#EXTINF:-1,RTTR TV Trento
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145006.m3u8
+#EXTINF:-1,RTV Reggio
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145007.m3u8
+#EXTINF:-1,Sardegna Uno TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64003.m3u8
+#EXTINF:-1,Senato TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145011.m3u8
+#EXTINF:-1,Sky 3D FHD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86472.m3u8
+#EXTINF:-1,Sky Arte HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114108.m3u8
+#EXTINF:-1,Sky Atlantic HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/209276.m3u8
+#EXTINF:-1,Sky Calcio 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63869.m3u8
+#EXTINF:-1,Sky Calcio 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/100354.m3u8
+#EXTINF:-1,Sky Calcio 3 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63867.m3u8
+#EXTINF:-1,Sky Calcio 4 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63866.m3u8
+#EXTINF:-1,Sky Calcio 5 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63865.m3u8
+#EXTINF:-1,Sky Calcio 6 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63864.m3u8
+#EXTINF:-1,Sky Cartoon Network HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130909.m3u8
+#EXTINF:-1,Sky Cielo HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/124147.m3u8
+#EXTINF:-1,SKY CINEMA +24 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64122.m3u8
+#EXTINF:-1,SKY CINEMA Action HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62031.m3u8
+#EXTINF:-1,Sky Cinema Atlantic 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62038.m3u8
+#EXTINF:-1,SKY CINEMA CLASSICS HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212898.m3u8
+#EXTINF:-1,SKY CINEMA COLLECTION HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62035.m3u8
+#EXTINF:-1,SKY CINEMA COLLETION
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212507.m3u8
+#EXTINF:-1,SKY CINEMA COMEDY HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/156577.m3u8
+#EXTINF:-1,SKY CINEMA CULT HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64116.m3u8
+#EXTINF:-1,SKY CINEMA DRAMA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212511.m3u8
+#EXTINF:-1,SKY CINEMA DUE
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212506.m3u8
+#EXTINF:-1,SKY CINEMA FAMILY HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62033.m3u8
+#EXTINF:-1,SKY CINEMA HITS HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62032.m3u8
+#EXTINF:-1,SKY CINEMA MAX HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212897.m3u8
+#EXTINF:-1,SKY CINEMA PASSION HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212896.m3u8
+#EXTINF:-1,SKY CINEMA ROMANC
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212510.m3u8
+#EXTINF:-1,Sky Cinema Romance HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159585.m3u8
+#EXTINF:-1,SKY CINEMA Suspense HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212513.m3u8
+#EXTINF:-1,SKY CINEMA UNO +24 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86462.m3u8
+#EXTINF:-1,SKY CINEMA UNO HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/163330.m3u8
+#EXTINF:-1,Sky News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212629.m3u8
+#EXTINF:-1,Sky Serie A
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62026.m3u8
+#EXTINF:-1,Sky Sport 1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/87636.m3u8
+#EXTINF:-1,Sky Sport 2 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/159584.m3u8
+#EXTINF:-1,Sky Sport 3 ARENA
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212500.m3u8
+#EXTINF:-1,Sky Sport 6 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130888.m3u8
+#EXTINF:-1,Sky Sport 24 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/127134.m3u8
+#EXTINF:-1,Sky Sport Arena HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/175342.m3u8
+#EXTINF:-1,Sky Sport F1 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/93168.m3u8
+#EXTINF:-1,Sky Sport Football HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/128219.m3u8
+#EXTINF:-1,Sky Sport GOLF
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212502.m3u8
+#EXTINF:-1,Sky Sport Live
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212615.m3u8
+#EXTINF:-1,Sky Sport MotoGP HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/91943.m3u8
+#EXTINF:-1,Sky Sport NBA HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/128226.m3u8
+#EXTINF:-1,Sky Sport Seria A
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212614.m3u8
+#EXTINF:-1,Sky Sport Serie A HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130887.m3u8
+#EXTINF:-1,Sky Sport Uno HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/128228.m3u8
+#EXTINF:-1,SKY SUPER CALCIO HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/86484.m3u8
+#EXTINF:-1,SKY SUPER TENNIS HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62023.m3u8
+#EXTINF:-1,Sky TG 24 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62096.m3u8
+#EXTINF:-1,Sky Uno HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/62024.m3u8
 #EXTINF:-1,SPIKE
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13281.m3u8
-#EXTINF:-1,DMAX
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14009.m3u8
-#EXTINF:-1,===== SPORT ITALIA =====
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14084.m3u8
-#EXTINF:-1,SKY SPORT 24
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20027.m3u8
-#EXTINF:-1,SKY SPORT UNO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13136.m3u8
-#EXTINF:-1,SKY SPORT F1 HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14083.m3u8
-#EXTINF:-1,SKY SPORT MOTO GP
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14099.m3u8
-#EXTINF:-1,SKY SPORT FOOTBALL
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14082.m3u8
-#EXTINF:-1,SKY SPORT ARENA
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13134.m3u8
-#EXTINF:-1,SKY SPORT GOLF
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14081.m3u8
-#EXTINF:-1,SKY SPORT NBA HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14080.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14085.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20614.m3u8
-#EXTINF:-1,SUPER TENNIS
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13888.m3u8
-#EXTINF:-1,SPORT ITALIA
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17228.m3u8
-#EXTINF:-1,RAI SPORT
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17229.m3u8
-#EXTINF:-1,SKY CINEMA SUSPENSE HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/20716.m3u8
-#EXTINF:-1,MILAN TV
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17225.m3u8
-#EXTINF:-1,INTER CHANNEL
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17227.m3u8
-#EXTINF:-1,===== SPORT CALCIO =====
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14101.m3u8
-#EXTINF:-1,SKY SPORT SERIE A
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14100.m3u8
-#EXTINF:-1,SKY CALCIO 1 HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14091.m3u8
-#EXTINF:-1,SKY CALCIO 2 HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14090.m3u8
-#EXTINF:-1,SKY CALCIO 3 HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14089.m3u8
-#EXTINF:-1,SKY CALCIO 4 HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14088.m3u8
-#EXTINF:-1,SKY CALCIO 5 HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14087.m3u8
-#EXTINF:-1,SKY CALCIO 6 HD
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14086.m3u8
-#EXTINF:-1,VETRINA DAZN SPORT
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13907.m3u8
-#EXTINF:-1,DAZN SPORT 1
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14098.m3u8
-#EXTINF:-1,DAZN SPORT 2
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14097.m3u8
-#EXTINF:-1,DAZN SPORT 3
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14096.m3u8
-#EXTINF:-1,DAZN SPORT 4
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14095.m3u8
-#EXTINF:-1,DAZN SPORT 5
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14094.m3u8
-#EXTINF:-1,DAZN SPORT 6
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14093.m3u8
-#EXTINF:-1,DAZN SPORT 7
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17356.m3u8
-#EXTINF:-1,DAZN SPORT 8
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17358.m3u8
-#EXTINF:-1,DAZN SPORT 9
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/17226.m3u8
-#EXTINF:-1,DAZN SPORT 10
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13908.m3u8
-#EXTINF:-1,===== PRIMAFILA =====
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14062.m3u8
-#EXTINF:-1,SKY PRIMAFILA 1
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14061.m3u8
-#EXTINF:-1,SKY PRIMAFILA 2
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14060.m3u8
-#EXTINF:-1,SKY PRIMAFILA 3
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14059.m3u8
-#EXTINF:-1,SKY PRIMAFILA 4
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14058.m3u8
-#EXTINF:-1,SKY PRIMAFILA 5
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14057.m3u8
-#EXTINF:-1,SKY PRIMAFILA 6
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14056.m3u8
-#EXTINF:-1,SKY PRIMAFILA 7
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14055.m3u8
-#EXTINF:-1,SKY PRIMAFILA 8
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14054.m3u8
-#EXTINF:-1,SKY PRIMAFILA 9
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14053.m3u8
-#EXTINF:-1,SKY PRIMAFILA 10
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/14052.m3u8
-#EXTINF:-1,====== MUSICA ITALIA ======
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13885.m3u8
-#EXTINF:-1,RADIO LINEA NO1
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13872.m3u8
-#EXTINF:-1,COMPANY TV
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13879.m3u8
-#EXTINF:-1,RADIO 51 TV
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13880.m3u8
-#EXTINF:-1,RADIO BRUNO
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13878.m3u8
-#EXTINF:-1,RADIO ITALIA
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13875.m3u8
-#EXTINF:-1,M2O TV
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13865.m3u8
-#EXTINF:-1,IT | RADIO NUMBER 1
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13882.m3u8
-#EXTINF:-1,RADIO TIVU AZZURRA
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13881.m3u8
-#EXTINF:-1,CAPITAL
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13867.m3u8
-#EXTINF:-1,OTTO FM TV
-http://live.darkside-iptv.com:8080/live/i4ysemdvgr/O8H2YeOifF/13286.m3u8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212906.m3u8
+#EXTINF:-1,Sport Italia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/157167.m3u8
+#EXTINF:-1,Studio 100
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63942.m3u8
+#EXTINF:-1,Studio Universal
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/130001.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL PREMIUM
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212894.m3u8
+#EXTINF:-1,Super J
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145015.m3u8
+#EXTINF:-1,Super Tennis HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212625.m3u8
+#EXTINF:-1,Super!
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63913.m3u8
+#EXTINF:-1,Tele Arena Siena
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64006.m3u8
+#EXTINF:-1,Tele Boario
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63979.m3u8
+#EXTINF:-1,Tele Chiara
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63965.m3u8
+#EXTINF:-1,Tele Dehon TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63986.m3u8
+#EXTINF:-1,TELE MONTE NEVE 3
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63900.m3u8
+#EXTINF:-1,Tele Padova Telecitt
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63982.m3u8
+#EXTINF:-1,Tele Sondrio News
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63931.m3u8
+#EXTINF:-1,Teleabruzzo
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145019.m3u8
+#EXTINF:-1,TeleBari
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145021.m3u8
+#EXTINF:-1,Telemantova
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/145030.m3u8
+#EXTINF:-1,TeleMIa
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63928.m3u8
+#EXTINF:-1,TeleNorba 24 TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/64002.m3u8
+#EXTINF:-1,TeleNorba TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212846.m3u8
+#EXTINF:-1,Teleromagna
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63940.m3u8
+#EXTINF:-1,TeleSondrio Livigno
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63930.m3u8
+#EXTINF:-1,TeleTicino HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63991.m3u8
+#EXTINF:-1,TeleVenezia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63992.m3u8
+#EXTINF:-1,TG 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/102233.m3u8
+#EXTINF:-1,TG com 24 HD
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/114118.m3u8
+#EXTINF:-1,TG NORBA 24
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/212634.m3u8
+#EXTINF:-1,Top Crime
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/73970.m3u8
+#EXTINF:-1,Trentino TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63994.m3u8
+#EXTINF:-1,TV 8
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/89408.m3u8
+#EXTINF:-1,TV 2000
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/155935.m3u8
+#EXTINF:-1,TV Avicenza
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63996.m3u8
+#EXTINF:-1,TV Videolina
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/208420.m3u8
+#EXTINF:-1,TVRS
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63938.m3u8
+#EXTINF:-1,Umbria TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63881.m3u8
+#EXTINF:-1,Vera TV
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63998.m3u8
+#EXTINF:-1,Vetrina Primafila
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/94124.m3u8
+#EXTINF:-1,VH1
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/136025.m3u8
+#EXTINF:-1,Video Brescia
+http://qipo.live:8080/live/1MX084zfc9/T1TVpRl10e/63939.m3u8
