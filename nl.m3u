@@ -1,111 +1,245 @@
 #EXTM3U
+#EXTINF:-1,NPO 1 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9607.m3u8
 #EXTINF:-1,NPO 1 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1349.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/1579.m3u8
+#EXTINF:-1,NPO 2 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9608.m3u8
 #EXTINF:-1,NPO 2 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1350.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3410.m3u8
+#EXTINF:-1,NPO 3 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9609.m3u8
 #EXTINF:-1,NPO 3 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1351.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4401.m3u8
+#EXTINF:-1,NPO Zappelin Xtra/Humor TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3780.m3u8
+#EXTINF:-1,NPO Politiek/Best
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6320.m3u8
+#EXTINF:-1,NPO Nieuws
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/23324.m3u8
+#EXTINF:-1,NPO FunX
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7406.m3u8
+#EXTINF:-1,NPO 101
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7405.m3u8
+#EXTINF:-1,RTL 4 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9610.m3u8
 #EXTINF:-1,RTL 4 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/272.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3774.m3u8
+#EXTINF:-1,RTL 5 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9611.m3u8
 #EXTINF:-1,RTL 5 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/273.m3u8
-#EXTINF:-1,RTL 7 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1530.m3u8
-#EXTINF:-1,RTL 8 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1372.m3u8
-#EXTINF:-1,RTL Z
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/17336.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3775.m3u8
+#EXTINF:-1,SBS 6 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9612.m3u8
 #EXTINF:-1,SBS 6 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1529.m3u8
-#EXTINF:-1,NET 5
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1375.m3u8
-#EXTINF:-1,AT 5
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/19664.m3u8
-#EXTINF:-1,FOX
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/7181.m3u8
-#EXTINF:-1,TLC
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/7183.m3u8
-#EXTINF:-1,SBS 9 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1371.m3u8
-#EXTINF:-1,VERONICA DISNEY XD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1136.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3772.m3u8
+#EXTINF:-1,RTL 7 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9613.m3u8
+#EXTINF:-1,RTL 7 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3776.m3u8
+#EXTINF:-1,RTL 8 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9614.m3u8
+#EXTINF:-1,RTL 8 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3777.m3u8
+#EXTINF:-1,RTL Z FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125548.m3u8
+#EXTINF:-1,RTL Z
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5891.m3u8
+#EXTINF:-1,SBS 9 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125549.m3u8
+#EXTINF:-1,SBS 9
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5887.m3u8
+#EXTINF:-1,Veronica/DisneyXD FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9615.m3u8
+#EXTINF:-1,Net 5 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/14762.m3u8
+#EXTINF:-1,Net 5 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3418.m3u8
+#EXTINF:-1,AT5 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5895.m3u8
+#EXTINF:-1,ONS
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5888.m3u8
+#EXTINF:-1,WOS TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5916.m3u8
+#EXTINF:-1,538 TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5904.m3u8
+#EXTINF:-1,Slam
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5906.m3u8
+#EXTINF:-1,L1 Limburg
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5917.m3u8
+#EXTINF:-1,EDE TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5918.m3u8
+#EXTINF:-1,24 Kitchen
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5896.m3u8
+#EXTINF:-1,Fryslan HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3783.m3u8
+#EXTINF:-1,TVO
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/1431.m3u8
 #EXTINF:-1,RTV Drenthe
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/20400.m3u8
-#EXTINF:-1,RTV DRENTHE HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1388.m3u8
-#EXTINF:-1,Comedy Central Extra HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/37037.m3u8
-#EXTINF:-1,Comedy Central HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/37036.m3u8
-#EXTINF:-1,Spike tv HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/37038.m3u8
-#EXTINF:-1,OMROEP Flevoland HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34055.m3u8
-#EXTINF:-1,OMROEP Fryslân  HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34052.m3u8
-#EXTINF:-1,OMROEP Tilburg HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34056.m3u8
-#EXTINF:-1,OMROEP sudwest HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34053.m3u8
-#EXTINF:-1,OMROEP Zuidplas HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34054.m3u8
-#EXTINF:-1,NICK Jr (toons)
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1374.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1376.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4589.m3u8
-#EXTINF:-1,KET NET
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4588.m3u8
-#EXTINF:-1,NICK TOONS
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4584.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4586.m3u8
-#EXTINF:-1,RTL TELEKIDS
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4587.m3u8
-#EXTINF:-1,OMROEP Brabant HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34051.m3u8
-#EXTINF:-1,DISCOVERY ID
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/7182.m3u8
-#EXTINF:-1,HISTORY HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4512.m3u8
-#EXTINF:-1,NAT GEOGRAPHIC  HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/261.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1531.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/262.m3u8
-#EXTINF:-1,FILM 1 PREMIER HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1373.m3u8
-#EXTINF:-1,FILM 1  DRAMA HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/279.m3u8
-#EXTINF:-1,FILM 1 FAMILY HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/282.m3u8
-#EXTINF:-1,FILM 1 ACTION HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/283.m3u8
-#EXTINF:-1,Eurosports 1 HD NL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34049.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1138.m3u8
-#EXTINF:-1,Ziggo Sport Golf
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4328.m3u8
-#EXTINF:-1,Ziggo Sport Racing
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4327.m3u8
-#EXTINF:-1,Ziggo Sport Select HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4326.m3u8
-#EXTINF:-1,Ziggo Sport eXtra 1
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4330.m3u8
-#EXTINF:-1,Ziggo Sport eXtra 2
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4329.m3u8
-#EXTINF:-1,FOX SPORTS 1 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/264.m3u8
-#EXTINF:-1,FOX SPORTS 2 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/265.m3u8
-#EXTINF:-1,FOX SPORTS 3 HD EREDIVISIE
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/266.m3u8
-#EXTINF:-1,FOX SPORTS 4 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/267.m3u8
-#EXTINF:-1,FOX SPORTS 5 HD EREDIVISIE HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/268.m3u8
-#EXTINF:-1,Fox Sports 6 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4331.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3785.m3u8
+#EXTINF:-1,Salto 1
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11740.m3u8
+#EXTINF:-1,Oost
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3786.m3u8
+#EXTINF:-1,Omroep Zeeland
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3787.m3u8
+#EXTINF:-1,TLC
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5905.m3u8
+#EXTINF:-1,MTV HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5894.m3u8
+#EXTINF:-1,Fox FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125550.m3u8
+#EXTINF:-1,Fox HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5892.m3u8
+#EXTINF:-1,Spike
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/22631.m3u8
+#EXTINF:-1,E! Entertainement
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5898.m3u8
+#EXTINF:-1,BBC Entertainement
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5915.m3u8
+#EXTINF:-1,Viceland FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125552.m3u8
+#EXTINF:-1,Shorts TV HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5900.m3u8
+#EXTINF:-1,TV Oranje
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6350.m3u8
+#EXTINF:-1,BBC One HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7407.m3u8
+#EXTINF:-1,BBC First HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7408.m3u8
+#EXTINF:-1,TV West FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125553.m3u8
+#EXTINF:-1,RTV Totaal voor Maas en Waal
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7409.m3u8
+#EXTINF:-1,RTV Noord
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7410.m3u8
+#EXTINF:-1,Omroep Brabant
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7411.m3u8
+#EXTINF:-1,192TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11743.m3u8
+#EXTINF:-1,Xite
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/17962.m3u8
+#EXTINF:-1,MTV Music 24
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11744.m3u8
+#EXTINF:-1,N1 (Nijmegen)
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3784.m3u8
+#EXTINF:-1,I Concerts
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5911.m3u8
+#EXTINF:-1,--------- NL Kids ----------
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5126.m3u8
+#EXTINF:-1,Disney Junior
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7403.m3u8
+#EXTINF:-1,JimJam
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5913.m3u8
+#EXTINF:-1,Baby TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11739.m3u8
+#EXTINF:-1,Boomerang
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11737.m3u8
+#EXTINF:-1,Nicktoons
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5901.m3u8
+#EXTINF:-1,Nick Jr
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5902.m3u8
+#EXTINF:-1,Nickelodeon
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5909.m3u8
+#EXTINF:-1,Cartoon Network
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5903.m3u8
+#EXTINF:-1,Disney Channel HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3773.m3u8
+#EXTINF:-1,Veronica / Disney XD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5893.m3u8
+#EXTINF:-1,RTL Telekids FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125556.m3u8
+#EXTINF:-1,RTL Telekids
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3914.m3u8
+#EXTINF:-1,--------- NL Docu -----------
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5127.m3u8
+#EXTINF:-1,Discovery FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9616.m3u8
+#EXTINF:-1,Discovery Channel
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4406.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7412.m3u8
+#EXTINF:-1,Investigation Discovery
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5914.m3u8
+#EXTINF:-1,National Geographic FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10949.m3u8
+#EXTINF:-1,National Geographic HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4413.m3u8
+#EXTINF:-1,National Geographic Wild HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5910.m3u8
+#EXTINF:-1,Crime & Investigation
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4404.m3u8
+#EXTINF:-1,Animal Planet HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5899.m3u8
+#EXTINF:-1,Travel Channel HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11736.m3u8
+#EXTINF:-1,History Channel
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7404.m3u8
+#EXTINF:-1,--------- NL Cinema ---------
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5128.m3u8
+#EXTINF:-1,Film 1 Premiere FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10942.m3u8
+#EXTINF:-1,Film 1 Premiere HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3415.m3u8
+#EXTINF:-1,Film 1 Action FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125538.m3u8
+#EXTINF:-1,Film 1 Action HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3416.m3u8
+#EXTINF:-1,Film 1 Family FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125539.m3u8
+#EXTINF:-1,Film 1 Family HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3417.m3u8
+#EXTINF:-1,Film 1 Drama FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125540.m3u8
+#EXTINF:-1,Film 1 Drama HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4409.m3u8
+#EXTINF:-1,Film Europe FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125541.m3u8
+#EXTINF:-1,Film Europe HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4408.m3u8
+#EXTINF:-1,Film Cinema HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125547.m3u8
+#EXTINF:-1,HBO 1 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/129278.m3u8
+#EXTINF:-1,HBO 2 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/129279.m3u8
+#EXTINF:-1,HBO 3 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/129280.m3u8
+#EXTINF:-1,RTL Crime FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125555.m3u8
+#EXTINF:-1,RTL Crime HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11738.m3u8
+#EXTINF:-1,RTL Lounge FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/125554.m3u8
+#EXTINF:-1,RTL Lounge
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5912.m3u8
+#EXTINF:-1,Comedy Central
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4405.m3u8
+#EXTINF:-1,Comedy Central Extra
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5907.m3u8
+#EXTINF:-1,Comedy Central Family
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9212.m3u8
+#EXTINF:-1,Sky Movies 1 HD - Arizona
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136268.m3u8
+#EXTINF:-1,Sky Movies 2 HD - Destroyer
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136269.m3u8
+#EXTINF:-1,Sky Movies 3 HD - Dragged Across Concrete
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136270.m3u8
+#EXTINF:-1,Sky Movies 4 HD - Escape Room
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136271.m3u8
+#EXTINF:-1,Sky Movies 5 HD - First Kiss
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136272.m3u8
+#EXTINF:-1,Sky Movies 6 HD - Glass
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136273.m3u8
+#EXTINF:-1,Sky Movies 7 HD - The Highwayman
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136274.m3u8
+#EXTINF:-1,Sky Movies 8 HD - The Mule
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136275.m3u8
+#EXTINF:-1,Sky Movies 9 HD - Bon Bini Holland 2
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136276.m3u8
+#EXTINF:-1,Sky Movies 10 HD - First Kiss
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136277.m3u8
+#EXTINF:-1,Sky Movies 11 HD - In Blue
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136278.m3u8
+#EXTINF:-1,Sky Movies 12 HD - Huisvrouwen Bestaan Niet
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/136279.m3u8
