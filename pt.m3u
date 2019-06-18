@@ -1,419 +1,125 @@
 #EXTM3U
-#EXTINF:-1,France 24
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/141688.m3u8
-#EXTINF:-1,MCM
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84250.m3u8
-#EXTINF:-1,MCM POP
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/197789.m3u8
-#EXTINF:-1,MCM TOP
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/109734.m3u8
-#EXTINF:-1,SPORT TV + FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84174.m3u8
-#EXTINF:-1,SPORT TV 1 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/198090.m3u8
-#EXTINF:-1,SPORT TV 2 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84209.m3u8
-#EXTINF:-1,SPORT TV 3 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/198094.m3u8
-#EXTINF:-1,SPORT TV 4 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65570.m3u8
-#EXTINF:-1,SPORT TV 5 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65569.m3u8
-#EXTINF:-1,TPA INTERNACIONAL
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/139832.m3u8
-#EXTINF:-1,TVE Internacional
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/156541.m3u8
-#EXTINF:-1,TVI REALITY CAMARA 2
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/85082.m3u8
-#EXTINF:-1,TVI REALITY MOSAICO
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/85085.m3u8
-#EXTINF:-1,1 Now TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210233.m3u8
-#EXTINF:-1,1+1
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210232.m3u8
-#EXTINF:-1,24 KITCHEN FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65589.m3u8
-#EXTINF:-1,A BOLA TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/156377.m3u8
-#EXTINF:-1,AFRO MUSIC
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/88151.m3u8
-#EXTINF:-1,ALJAZEERA
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210235.m3u8
-#EXTINF:-1,AMC FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/141663.m3u8
-#EXTINF:-1,ANGELUS TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210243.m3u8
-#EXTINF:-1,AR TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91654.m3u8
-#EXTINF:-1,ARTV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212645.m3u8
-#EXTINF:-1,AUTOMOTOTV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210315.m3u8
-#EXTINF:-1,AXN BLACK FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65649.m3u8
-#EXTINF:-1,AXN FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65638.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65640.m3u8
-#EXTINF:-1,Baby TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/87008.m3u8
-#EXTINF:-1,Barca TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/192620.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/169227.m3u8
-#EXTINF:-1,BBC WORLD NEWS
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91662.m3u8
-#EXTINF:-1,Benfica TV FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65585.m3u8
-#EXTINF:-1,Biggs
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91642.m3u8
-#EXTINF:-1,Blaze
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65596.m3u8
-#EXTINF:-1,BLOOMBERG
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91666.m3u8
-#EXTINF:-1,BNT World
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210239.m3u8
-#EXTINF:-1,BTV FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/88976.m3u8
-#EXTINF:-1,BVN
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210240.m3u8
-#EXTINF:-1,CACA E PESCA HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/109723.m3u8
-#EXTINF:-1,CACAVISION
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/209248.m3u8
-#EXTINF:-1,CANAL 180
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91657.m3u8
-#EXTINF:-1,Canal Nova
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212647.m3u8
-#EXTINF:-1,CANAL Q
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/156381.m3u8
-#EXTINF:-1,Cancao Nova
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/95008.m3u8
-#EXTINF:-1,CAPELA DE FATIMA
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/114296.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/141861.m3u8
-#EXTINF:-1,CAZA Y PESCA
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65602.m3u8
-#EXTINF:-1,Cazay e Pesca
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212646.m3u8
-#EXTINF:-1,CBS
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91660.m3u8
-#EXTINF:-1,CBS REALITY
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/156382.m3u8
-#EXTINF:-1,CCTV4
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210246.m3u8
-#EXTINF:-1,CGTN
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210247.m3u8
-#EXTINF:-1,CHELSEA TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210248.m3u8
-#EXTINF:-1,CINE MUNDO HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65643.m3u8
-#EXTINF:-1,CMTV FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/102317.m3u8
-#EXTINF:-1,CNBC
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210353.m3u8
-#EXTINF:-1,CNBC Europe
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212649.m3u8
-#EXTINF:-1,CNN
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/106942.m3u8
-#EXTINF:-1,Crime & Investigation
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/88981.m3u8
-#EXTINF:-1,Cubavision Internacional
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210252.m3u8
-#EXTINF:-1,Deutsche Welle
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/177010.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84181.m3u8
-#EXTINF:-1,Discovery SHOWCASE HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65604.m3u8
-#EXTINF:-1,Disney Channel HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118273.m3u8
-#EXTINF:-1,Disney Channel Wow
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212652.m3u8
-#EXTINF:-1,Disney JR
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/93188.m3u8
-#EXTINF:-1,DOG TV HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/207184.m3u8
-#EXTINF:-1,DW
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210256.m3u8
-#EXTINF:-1,E! HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84827.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/124300.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/133687.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/124721.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/127741.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/139862.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/127743.m3u8
-#EXTINF:-1,ENTERTAINMENT
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65601.m3u8
-#EXTINF:-1,Eurochannel
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212659.m3u8
-#EXTINF:-1,EURONEWS
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65588.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84177.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84216.m3u8
-#EXTINF:-1,EUROSPORT News
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84217.m3u8
-#EXTINF:-1,FASHION TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91646.m3u8
-#EXTINF:-1,Fight Box
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/101057.m3u8
-#EXTINF:-1,Fight Network HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/169032.m3u8
-#EXTINF:-1,FINE LIVING
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/93321.m3u8
-#EXTINF:-1,Food Network HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84813.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65645.m3u8
-#EXTINF:-1,FOX Crime FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118277.m3u8
-#EXTINF:-1,FOX FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/100841.m3u8
-#EXTINF:-1,FOX LIFE FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118278.m3u8
-#EXTINF:-1,Fox Movies HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/62342.m3u8
-#EXTINF:-1,FOX NEWS HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/88987.m3u8
-#EXTINF:-1,FTV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/106944.m3u8
-#EXTINF:-1,FUEL TV HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118279.m3u8
-#EXTINF:-1,FX
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/107711.m3u8
-#EXTINF:-1,Globo HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/87273.m3u8
-#EXTINF:-1,Globo Now HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/114285.m3u8
-#EXTINF:-1,HISTORIA HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84807.m3u8
-#EXTINF:-1,Hollywood FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118280.m3u8
-#EXTINF:-1,ICONCERTS HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/207183.m3u8
-#EXTINF:-1,INVESTIGATION Discovery FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210106.m3u8
-#EXTINF:-1,Jim Jam
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/157586.m3u8
-#EXTINF:-1,KITCHEN HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/107710.m3u8
-#EXTINF:-1,KOMBAT SPORTS HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65605.m3u8
-#EXTINF:-1,KURIAKOS KIDS
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210325.m3u8
-#EXTINF:-1,Kuriakos TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212667.m3u8
-#EXTINF:-1,LifeStyle TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65620.m3u8
-#EXTINF:-1,LOCALVISAO TV HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/115661.m3u8
-#EXTINF:-1,M6
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210266.m3u8
-#EXTINF:-1,MACAU TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91651.m3u8
-#EXTINF:-1,MCS EXTREME
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/198723.m3u8
-#EXTINF:-1,MCS LifeStyle
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84254.m3u8
-#EXTINF:-1,MEZZO HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91665.m3u8
-#EXTINF:-1,Motor vision
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212669.m3u8
-#EXTINF:-1,Motors TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65609.m3u8
-#EXTINF:-1,MOV HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65636.m3u8
-#EXTINF:-1,MTV HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65581.m3u8
-#EXTINF:-1,MTV Music
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210268.m3u8
-#EXTINF:-1,MVM
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210269.m3u8
-#EXTINF:-1,My cuisine
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/123325.m3u8
-#EXTINF:-1,NAT GEO FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/84180.m3u8
-#EXTINF:-1,NAT GEO Wild HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65592.m3u8
-#EXTINF:-1,NBA FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65621.m3u8
-#EXTINF:-1,NFL NOW
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/88993.m3u8
-#EXTINF:-1,Nick Junior
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/106949.m3u8
-#EXTINF:-1,Nickelodeon
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65628.m3u8
-#EXTINF:-1,Nos
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/130339.m3u8
-#EXTINF:-1,NOW GLOBO
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/104587.m3u8
-#EXTINF:-1,Odisseia HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/139813.m3u8
-#EXTINF:-1,OUTDOOR CHANNEL
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91647.m3u8
-#EXTINF:-1,PANDA HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65590.m3u8
-#EXTINF:-1,PFC HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/64163.m3u8
-#EXTINF:-1,Phoenix CNE
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210274.m3u8
-#EXTINF:-1,Phoenix InfoNews
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210275.m3u8
-#EXTINF:-1,Playboy TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/177022.m3u8
-#EXTINF:-1,Plus TVI
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91945.m3u8
-#EXTINF:-1,PORTO CANAL HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/141702.m3u8
-#EXTINF:-1,Q CANAL
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65614.m3u8
-#EXTINF:-1,Rai News 24
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210276.m3u8
-#EXTINF:-1,Real Madrid TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212673.m3u8
-#EXTINF:-1,Record TV FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/88153.m3u8
-#EXTINF:-1,RT
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210280.m3u8
-#EXTINF:-1,RTL
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210281.m3u8
-#EXTINF:-1,RTP 1 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/94996.m3u8
-#EXTINF:-1,RTP 2 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65657.m3u8
+#EXTINF:-1,RTP 1 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1453.m3u8
+#EXTINF:-1,RTP 2 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1465.m3u8
 #EXTINF:-1,RTP 3 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65655.m3u8
-#EXTINF:-1,RTP ACORES
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65652.m3u8
-#EXTINF:-1,RTP AFRICA
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65651.m3u8
-#EXTINF:-1,RTP Alores
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212675.m3u8
-#EXTINF:-1,RTP frica
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212674.m3u8
-#EXTINF:-1,RTP International
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/88154.m3u8
-#EXTINF:-1,RTP Madeira
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65654.m3u8
-#EXTINF:-1,RTP Memoria
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65653.m3u8
-#EXTINF:-1,RTR Planeta
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210285.m3u8
-#EXTINF:-1,RTV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210279.m3u8
-#EXTINF:-1,SANTUARIO DE FATIMA HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/85091.m3u8
-#EXTINF:-1,SIC CARAS FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/141707.m3u8
-#EXTINF:-1,SIC FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/95001.m3u8
-#EXTINF:-1,SIC K
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/141708.m3u8
-#EXTINF:-1,SIC Kids
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/101076.m3u8
-#EXTINF:-1,SIC MULHER FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118285.m3u8
-#EXTINF:-1,SIC NOTICIAS FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118286.m3u8
-#EXTINF:-1,SIC NotŦcias
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212678.m3u8
-#EXTINF:-1,SIC RADICAL FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/102329.m3u8
-#EXTINF:-1,SKY NEWS
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91663.m3u8
-#EXTINF:-1,SPORT TV
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212680.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65574.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65573.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65571.m3u8
-#EXTINF:-1,SPORT TV FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210314.m3u8
-#EXTINF:-1,SPORT TV NBA
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/198083.m3u8
-#EXTINF:-1,SPORTING FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65568.m3u8
-#EXTINF:-1,SUPER RTL
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210294.m3u8
-#EXTINF:-1,SYFY FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65641.m3u8
-#EXTINF:-1,Telesur
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/207346.m3u8
-#EXTINF:-1,Tiji
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/210296.m3u8
-#EXTINF:-1,TLC HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65617.m3u8
-#EXTINF:-1,TOROS HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/68725.m3u8
-#EXTINF:-1,TRACE TV HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/209375.m3u8
-#EXTINF:-1,TRACE URBAN HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/91659.m3u8
-#EXTINF:-1,Travel Channel FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65591.m3u8
-#EXTINF:-1,TV Galicia
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/106958.m3u8
-#EXTINF:-1,TV GLOBO HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/144231.m3u8
-#EXTINF:-1,TV Kujawy
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/114777.m3u8
-#EXTINF:-1,TV Record
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65650.m3u8
-#EXTINF:-1,TV SERIES FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/100834.m3u8
-#EXTINF:-1,TV5 Monde
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/106960.m3u8
-#EXTINF:-1,TVC 1 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/101092.m3u8
-#EXTINF:-1,TVC 2
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/101093.m3u8
-#EXTINF:-1,TVC 3 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/157023.m3u8
-#EXTINF:-1,TVC 4 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/97252.m3u8
-#EXTINF:-1,TVC Series HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/116240.m3u8
-#EXTINF:-1,TVCine 1 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/107665.m3u8
-#EXTINF:-1,TVCine 2 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118297.m3u8
-#EXTINF:-1,TVCine 3 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/100831.m3u8
-#EXTINF:-1,TVCine 4 FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118300.m3u8
-#EXTINF:-1,TVE 24h
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212693.m3u8
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1466.m3u8
+#EXTINF:-1,RTP AFRICA HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1697.m3u8
+#EXTINF:-1,RTP ACORES HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1696.m3u8
+#EXTINF:-1,RTP MEMORIA HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1698.m3u8
+#EXTINF:-1,RTP MADEIRA HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1467.m3u8
+#EXTINF:-1,SIC
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1524.m3u8
+#EXTINF:-1,SIC KIDS
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1702.m3u8
+#EXTINF:-1,SIC RADICAL HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1701.m3u8
+#EXTINF:-1,SIC NOTICIAS HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1703.m3u8
+#EXTINF:-1,SIC CARAS HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1471.m3u8
+#EXTINF:-1,TVI HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1525.m3u8
 #EXTINF:-1,TVI 24 HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118303.m3u8
-#EXTINF:-1,TVI FHD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65595.m3u8
-#EXTINF:-1,Tvi FIccao
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118304.m3u8
-#EXTINF:-1,TVI FicLao
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/212695.m3u8
-#EXTINF:-1,TVI Internacional
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/197804.m3u8
-#EXTINF:-1,TVI REALITY CAMARA 1
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/85081.m3u8
-#EXTINF:-1,TVI REALITY CAMARA 3
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/85083.m3u8
-#EXTINF:-1,TVI REALITY CAMARA 4
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/85084.m3u8
-#EXTINF:-1,TVI Reality HD
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/118305.m3u8
-#EXTINF:-1,VH1
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/65582.m3u8
-#EXTINF:-1,VH1 Classics
-http://qipo.live:8080/live/gjwTPEQh7p/MwKRPQt0jw/98020.m3u8
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1642.m3u8
+#EXTINF:-1,TVI REALITY HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1643.m3u8
+#EXTINF:-1,TVI FACCAO HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4706.m3u8
+#EXTINF:-1,AXN HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1457.m3u8
+#EXTINF:-1,AXN WHITE HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1458.m3u8
+#EXTINF:-1,AXN BLACK HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1456.m3u8
+#EXTINF:-1,FOX HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1454.m3u8
+#EXTINF:-1,FOX LIFE HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1462.m3u8
+#EXTINF:-1,FOX CRIME HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1463.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1455.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1464.m3u8
+#EXTINF:-1,HOLLYWOOD HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1461.m3u8
+#EXTINF:-1,SYFY
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4389.m3u8
+#EXTINF:-1,MOV HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1460.m3u8
+#EXTINF:-1,AMC HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1459.m3u8
+#EXTINF:-1,TV SERIES HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1645.m3u8
+#EXTINF:-1,CINEMUNDO
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4388.m3u8
+#EXTINF:-1,ODISSEIA
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4387.m3u8
+#EXTINF:-1,VH 1 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1480.m3u8
+#EXTINF:-1, FUEL TV
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4707.m3u8
+#EXTINF:-1,A BOLA TV
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1478.m3u8
+#EXTINF:-1,PORTO CANAL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4385.m3u8
+#EXTINF:-1,PANDA PIGGS HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1479.m3u8
+#EXTINF:-1,CACA E PESCA
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4709.m3u8
+#EXTINF:-1,TVCINE 1 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1449.m3u8
+#EXTINF:-1,TVCINE 2 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1450.m3u8
+#EXTINF:-1,TVCINE 3 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1451.m3u8
+#EXTINF:-1,TVCINE 4 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1452.m3u8
+#EXTINF:-1,CANAL PANDA
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1704.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1475.m3u8
+#EXTINF:-1,DISNEY JUNIOR HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1468.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1469.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1474.m3u8
+#EXTINF:-1,A&E
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1477.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1473.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1472.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1700.m3u8
+#EXTINF:-1,DISCOVERY SHOWCASE HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4386.m3u8
+#EXTINF:-1,MOTORS TV
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1528.m3u8
+#EXTINF:-1,MOTORVISION
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4544.m3u8
+#EXTINF:-1,BENFICA TV HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1470.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1526.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1527.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/500.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/499.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/498.m3u8
+#EXTINF:-1,SPORT TV 4 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/497.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1644.m3u8
+#EXTINF:-1,SPORTING TV HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1705.m3u8

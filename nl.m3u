@@ -1,213 +1,111 @@
 #EXTM3U
-#EXTINF:-1,NPO 1
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17518.m3u8
-#EXTINF:-1,NPO 2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17517.m3u8
-#EXTINF:-1,NPO 3
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17516.m3u8
-#EXTINF:-1,RTL 4
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17513.m3u8
-#EXTINF:-1,RTL 5
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17512.m3u8
-#EXTINF:-1,RTL 7
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17511.m3u8
-#EXTINF:-1,RTL 8
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17510.m3u8
-#EXTINF:-1,RTL Crime
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17509.m3u8
-#EXTINF:-1,RTL Lounge
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17508.m3u8
+#EXTINF:-1,NPO 1 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1349.m3u8
+#EXTINF:-1,NPO 2 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1350.m3u8
+#EXTINF:-1,NPO 3 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1351.m3u8
+#EXTINF:-1,RTL 4 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/272.m3u8
+#EXTINF:-1,RTL 5 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/273.m3u8
+#EXTINF:-1,RTL 7 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1530.m3u8
+#EXTINF:-1,RTL 8 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1372.m3u8
 #EXTINF:-1,RTL Z
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17506.m3u8
-#EXTINF:-1,RTL Telekids
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17507.m3u8
-#EXTINF:-1,NPO Nieuws
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17515.m3u8
-#EXTINF:-1,SBS 6
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17504.m3u8
-#EXTINF:-1,SBS 9
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17503.m3u8
-#EXTINF:-1,Film 1 Action
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17540.m3u8
-#EXTINF:-1,Film 1 Family
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17538.m3u8
-#EXTINF:-1,Film 1 Premiere
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17537.m3u8
-#EXTINF:-1,Film 1 Drama
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17539.m3u8
-#EXTINF:-1,24 Kitchen
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17556.m3u8
-#EXTINF:-1,Comedy Central
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17549.m3u8
-#EXTINF:-1,Comedy Central
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17550.m3u8
-#EXTINF:-1,Crime Inv
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17548.m3u8
-#EXTINF:-1,E! NL
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17543.m3u8
-#EXTINF:-1,Net 5
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17523.m3u8
-#EXTINF:-1,TV Oost
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17499.m3u8
-#EXTINF:-1,TV Rijnmond
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17497.m3u8
-#EXTINF:-1,RTV Utrecht
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17505.m3u8
-#EXTINF:-1,MTV
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17526.m3u8
-#EXTINF:-1,Nick Music
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17521.m3u8
-#EXTINF:-1,Ons
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17514.m3u8
-#EXTINF:-1,Spike
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17501.m3u8
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/17336.m3u8
+#EXTINF:-1,SBS 6 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1529.m3u8
+#EXTINF:-1,NET 5
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1375.m3u8
+#EXTINF:-1,AT 5
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/19664.m3u8
+#EXTINF:-1,FOX
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/7181.m3u8
 #EXTINF:-1,TLC
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17500.m3u8
-#EXTINF:-1,TV Oranje
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17498.m3u8
-#EXTINF:-1,FOX Channel
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17535.m3u8
-#EXTINF:-1,Slam!TV
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17502.m3u8
-#EXTINF:-1,Djazz tv
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17544.m3u8
-#EXTINF:-1,Viceland
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17494.m3u8
-#EXTINF:-1,Animal Planet
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17555.m3u8
-#EXTINF:-1,NatGeo Wild
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17525.m3u8
-#EXTINF:-1,National Geographic
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17524.m3u8
-#EXTINF:-1,Baby TV
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17554.m3u8
-#EXTINF:-1,history channel
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17528.m3u8
-#EXTINF:-1,Boomerang
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17553.m3u8
-#EXTINF:-1,Discovery
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17546.m3u8
-#EXTINF:-1,Discovery Inv
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17527.m3u8
-#EXTINF:-1,Cartoon Network
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17551.m3u8
-#EXTINF:-1,Disney Junior
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17545.m3u8
-#EXTINF:-1,Veronica
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17495.m3u8
-#EXTINF:-1,Nick Jr.
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17522.m3u8
-#EXTINF:-1,Nick toons
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17520.m3u8
-#EXTINF:-1,Nickelodeon
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17519.m3u8
-#EXTINF:-1,Eurosport 1
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17542.m3u8
-#EXTINF:-1,Eurosport 2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17541.m3u8
-#EXTINF:-1,Ziggo Sport Racing
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17489.m3u8
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/7183.m3u8
+#EXTINF:-1,SBS 9 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1371.m3u8
+#EXTINF:-1,VERONICA DISNEY XD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1136.m3u8
+#EXTINF:-1,RTV Drenthe
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/20400.m3u8
+#EXTINF:-1,RTV DRENTHE HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1388.m3u8
+#EXTINF:-1,Comedy Central Extra HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/37037.m3u8
+#EXTINF:-1,Comedy Central HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/37036.m3u8
+#EXTINF:-1,Spike tv HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/37038.m3u8
+#EXTINF:-1,OMROEP Flevoland HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34055.m3u8
+#EXTINF:-1,OMROEP Fryslân  HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34052.m3u8
+#EXTINF:-1,OMROEP Tilburg HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34056.m3u8
+#EXTINF:-1,OMROEP sudwest HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34053.m3u8
+#EXTINF:-1,OMROEP Zuidplas HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34054.m3u8
+#EXTINF:-1,NICK Jr (toons)
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1374.m3u8
+#EXTINF:-1,DISNEY CHANNEL HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1376.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4589.m3u8
+#EXTINF:-1,KET NET
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4588.m3u8
+#EXTINF:-1,NICK TOONS
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4584.m3u8
+#EXTINF:-1,NICKELODEON HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4586.m3u8
+#EXTINF:-1,RTL TELEKIDS
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4587.m3u8
+#EXTINF:-1,OMROEP Brabant HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34051.m3u8
+#EXTINF:-1,DISCOVERY ID
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/7182.m3u8
+#EXTINF:-1,HISTORY HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4512.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC  HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/261.m3u8
+#EXTINF:-1,NAT GEO WILD HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1531.m3u8
+#EXTINF:-1,DISCOVERY HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/262.m3u8
+#EXTINF:-1,FILM 1 PREMIER HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1373.m3u8
+#EXTINF:-1,FILM 1  DRAMA HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/279.m3u8
+#EXTINF:-1,FILM 1 FAMILY HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/282.m3u8
+#EXTINF:-1,FILM 1 ACTION HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/283.m3u8
+#EXTINF:-1,Eurosports 1 HD NL
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/34049.m3u8
 #EXTINF:-1,Ziggo Sport Voetbal
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17487.m3u8
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1138.m3u8
 #EXTINF:-1,Ziggo Sport Golf
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17490.m3u8
-#EXTINF:-1,Ziggo Sport Select
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17488.m3u8
-#EXTINF:-1,Ziggo Sport
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17493.m3u8
-#EXTINF:-1,Ziggo Sport Extra 1
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17492.m3u8
-#EXTINF:-1,Ziggo Sport Extra 2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17491.m3u8
-#EXTINF:-1,Fox Sports 1
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17534.m3u8
-#EXTINF:-1,Fox Sports 2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17533.m3u8
-#EXTINF:-1,Fox Sports 3
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17532.m3u8
-#EXTINF:-1,Fox Sports 4
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17531.m3u8
-#EXTINF:-1,Fox Sports 5
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17530.m3u8
-#EXTINF:-1,Fox Sports 6
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17529.m3u8
-#EXTINF:-1,Food Network
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17536.m3u8
-#EXTINF:-1,Brava
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17552.m3u8
-#EXTINF:-1,TV West
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17496.m3u8
-#EXTINF:-1,100% NL TV
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/17557.m3u8
-#EXTINF:-1,Ziggo Sport Voetbal Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11192.m3u8
-#EXTINF:-1,Ziggo Sport Select HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11193.m3u8
-#EXTINF:-1,Ziggo Sport Golf Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11194.m3u8
-#EXTINF:-1,Ziggo Sport Extra 1 Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11196.m3u8
-#EXTINF:-1,Ziggo Sport Extra 2 Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11195.m3u8
-#EXTINF:-1,Fox Sport 1 HD backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11202.m3u8
-#EXTINF:-1,Fox Sport 2 HD backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11201.m3u8
-#EXTINF:-1,Fox Sport 3 HD backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11200.m3u8
-#EXTINF:-1,Fox Sport 4 HD backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11199.m3u8
-#EXTINF:-1,Fox Sport 5 HD backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11198.m3u8
-#EXTINF:-1,Fox Sport 6 HD backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/11197.m3u8
-#EXTINF:-1,FOX Sports 1 HD Backup2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13549.m3u8
-#EXTINF:-1,FOX Sports 2 HD Backup2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13548.m3u8
-#EXTINF:-1,FOX Sports 3 HD Backup2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13547.m3u8
-#EXTINF:-1,FOX Sports 4 HD Backup2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13546.m3u8
-#EXTINF:-1,FOX Sports 5 HD Backup2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13545.m3u8
-#EXTINF:-1,FOX Sports 6 HD Backup2
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13544.m3u8
-#EXTINF:-1,RTL 4 FHD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13537.m3u8
-#EXTINF:-1,RTL 5 FHD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13536.m3u8
-#EXTINF:-1,RTL 7 FHD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13535.m3u8
-#EXTINF:-1,RTL 8 FHD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13534.m3u8
-#EXTINF:-1,RTL Crime HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13533.m3u8
-#EXTINF:-1,RTL Lounge Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13532.m3u8
-#EXTINF:-1,RTL Z Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13529.m3u8
-#EXTINF:-1,NPO 1 HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13543.m3u8
-#EXTINF:-1,NPO 2 HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13542.m3u8
-#EXTINF:-1,NPO 3 Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13541.m3u8
-#EXTINF:-1,NPO 3 Extra Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13540.m3u8
-#EXTINF:-1,NPO Politiek Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13539.m3u8
-#EXTINF:-1,NPO Zapp HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13538.m3u8
-#EXTINF:-1,SBS 9 HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13551.m3u8
-#EXTINF:-1,SBS6 HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13550.m3u8
-#EXTINF:-1,Film1 Action HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13528.m3u8
-#EXTINF:-1,Film1 Family HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13526.m3u8
-#EXTINF:-1,Film1 Premiere HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13525.m3u8
-#EXTINF:-1,Film1 Drama HD Backup
-http://m-iptv.net:6204/live/AFEOdvNlBf/3zrFg7Q96M/13527.m3u8
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4328.m3u8
+#EXTINF:-1,Ziggo Sport Racing
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4327.m3u8
+#EXTINF:-1,Ziggo Sport Select HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4326.m3u8
+#EXTINF:-1,Ziggo Sport eXtra 1
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4330.m3u8
+#EXTINF:-1,Ziggo Sport eXtra 2
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4329.m3u8
+#EXTINF:-1,FOX SPORTS 1 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/264.m3u8
+#EXTINF:-1,FOX SPORTS 2 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/265.m3u8
+#EXTINF:-1,FOX SPORTS 3 HD EREDIVISIE
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/266.m3u8
+#EXTINF:-1,FOX SPORTS 4 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/267.m3u8
+#EXTINF:-1,FOX SPORTS 5 HD EREDIVISIE HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/268.m3u8
+#EXTINF:-1,Fox Sports 6 HD
+http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4331.m3u8
