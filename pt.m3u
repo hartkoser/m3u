@@ -1,125 +1,287 @@
 #EXTM3U
 #EXTINF:-1,RTP 1 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1453.m3u8
-#EXTINF:-1,RTP 2 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1465.m3u8
-#EXTINF:-1,RTP 3 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1466.m3u8
-#EXTINF:-1,RTP AFRICA HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1697.m3u8
-#EXTINF:-1,RTP ACORES HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1696.m3u8
-#EXTINF:-1,RTP MEMORIA HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1698.m3u8
-#EXTINF:-1,RTP MADEIRA HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1467.m3u8
-#EXTINF:-1,SIC
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1524.m3u8
-#EXTINF:-1,SIC KIDS
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1702.m3u8
-#EXTINF:-1,SIC RADICAL HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1701.m3u8
-#EXTINF:-1,SIC NOTICIAS HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1703.m3u8
-#EXTINF:-1,SIC CARAS HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1471.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11206.m3u8
+#EXTINF:-1,RTP 1
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3320.m3u8
+#EXTINF:-1,RTP 2
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3321.m3u8
+#EXTINF:-1,RTP 3
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5102.m3u8
+#EXTINF:-1,RTP Madeira
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4451.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5107.m3u8
+#EXTINF:-1,RTP International
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4448.m3u8
+#EXTINF:-1,RTP Acores
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4453.m3u8
+#EXTINF:-1,RTP Africa
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6295.m3u8
 #EXTINF:-1,TVI HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1525.m3u8
-#EXTINF:-1,TVI 24 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1642.m3u8
-#EXTINF:-1,TVI REALITY HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1643.m3u8
-#EXTINF:-1,TVI FACCAO HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4706.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11207.m3u8
+#EXTINF:-1,TVI
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3322.m3u8
+#EXTINF:-1,TVI Reality
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5098.m3u8
+#EXTINF:-1,TVI Ficçao
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5103.m3u8
+#EXTINF:-1,TV Record HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11227.m3u8
+#EXTINF:-1,Sic HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11208.m3u8
+#EXTINF:-1,SIC
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4461.m3u8
+#EXTINF:-1,Sic Radical HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11214.m3u8
+#EXTINF:-1,Sic Radical
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5101.m3u8
+#EXTINF:-1,SIC MULHER
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5105.m3u8
+#EXTINF:-1,Sic Caras
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11209.m3u8
+#EXTINF:-1,Porto Canal
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4452.m3u8
+#EXTINF:-1,TV Record
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4455.m3u8
+#EXTINF:-1,Globo Portugal
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15062.m3u8
+#EXTINF:-1,TV Globo
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4463.m3u8
+#EXTINF:-1,Globo Premium
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11205.m3u8
+#EXTINF:-1,CM TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5116.m3u8
+#EXTINF:-1,MTV Portugal
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5112.m3u8
+#EXTINF:-1,E! Entertainment
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6296.m3u8
+#EXTINF:-1,Canal Q
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11210.m3u8
+#EXTINF:-1,Afro Music
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11226.m3u8
+#EXTINF:-1,MCM Pop
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11215.m3u8
+#EXTINF:-1,MCM TOP
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6293.m3u8
+#EXTINF:-1,VH1
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6294.m3u8
+#EXTINF:-1,--------- PT Kids ----------
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5068.m3u8
+#EXTINF:-1,Disney Junior
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4458.m3u8
+#EXTINF:-1,Disney Channel
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4459.m3u8
+#EXTINF:-1,Canal Panda
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4465.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5109.m3u8
+#EXTINF:-1,Nickelodeon
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5111.m3u8
+#EXTINF:-1,JIM JAM
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5114.m3u8
+#EXTINF:-1,Baby TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5120.m3u8
+#EXTINF:-1,Cartoon Network
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6299.m3u8
+#EXTINF:-1,SIC K
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5106.m3u8
+#EXTINF:-1,--------- PT Docu -----------
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5069.m3u8
+#EXTINF:-1,24 Kitchen HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4466.m3u8
+#EXTINF:-1,My Cuisine
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/28829.m3u8
+#EXTINF:-1,Food Network
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5100.m3u8
+#EXTINF:-1,Odisseia
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5110.m3u8
+#EXTINF:-1,Discovery Channel
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4460.m3u8
+#EXTINF:-1,Discovery Showcase HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11135.m3u8
+#EXTINF:-1,National Geographic HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6300.m3u8
+#EXTINF:-1,Nat Geo Wild FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11217.m3u8
+#EXTINF:-1,Nat Geo Wild
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4457.m3u8
+#EXTINF:-1,Fine Living Network FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11216.m3u8
+#EXTINF:-1,Travel Channel HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6298.m3u8
+#EXTINF:-1,Cacavision HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6284.m3u8
+#EXTINF:-1,TLC
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6285.m3u8
+#EXTINF:-1,A & E
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6282.m3u8
+#EXTINF:-1,Historia
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5118.m3u8
+#EXTINF:-1,Caza E Pesca
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6286.m3u8
+#EXTINF:-1,--------- PT Cinema --------
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5070.m3u8
+#EXTINF:-1,TV Cine 1 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11218.m3u8
+#EXTINF:-1,TV Cine 1
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3329.m3u8
+#EXTINF:-1,TV Cine 2 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11219.m3u8
+#EXTINF:-1,TV Cine 2
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3475.m3u8
+#EXTINF:-1,TV Cine 3 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11220.m3u8
+#EXTINF:-1,TV Cine 3
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3332.m3u8
+#EXTINF:-1,TV Cine 4 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11221.m3u8
+#EXTINF:-1,TV Cine 4
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3333.m3u8
+#EXTINF:-1,TV Series FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11222.m3u8
+#EXTINF:-1,TV Series
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4454.m3u8
+#EXTINF:-1,VH1 Classic
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6283.m3u8
+#EXTINF:-1,Hollywood FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11211.m3u8
+#EXTINF:-1,Hollywood
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6278.m3u8
+#EXTINF:-1,Syfy FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11225.m3u8
+#EXTINF:-1,SyFy
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4456.m3u8
+#EXTINF:-1,Fox FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/21028.m3u8
+#EXTINF:-1,Fox HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6289.m3u8
+#EXTINF:-1,Fox Life HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4464.m3u8
+#EXTINF:-1,Fox Movies
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3330.m3u8
+#EXTINF:-1,Fox Crime HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6290.m3u8
+#EXTINF:-1,Fox Comedy
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6280.m3u8
 #EXTINF:-1,AXN HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1457.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1458.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3331.m3u8
+#EXTINF:-1,AXN White FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3676.m3u8
+#EXTINF:-1,AXN WHITE
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6288.m3u8
+#EXTINF:-1,AXN Black FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11224.m3u8
 #EXTINF:-1,AXN BLACK HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1456.m3u8
-#EXTINF:-1,FOX HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1454.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1462.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1463.m3u8
-#EXTINF:-1,FOX MOVIES HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1455.m3u8
-#EXTINF:-1,FOX COMEDY HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1464.m3u8
-#EXTINF:-1,HOLLYWOOD HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1461.m3u8
-#EXTINF:-1,SYFY
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4389.m3u8
-#EXTINF:-1,MOV HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1460.m3u8
-#EXTINF:-1,AMC HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1459.m3u8
-#EXTINF:-1,TV SERIES HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1645.m3u8
-#EXTINF:-1,CINEMUNDO
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4388.m3u8
-#EXTINF:-1,ODISSEIA
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4387.m3u8
-#EXTINF:-1,VH 1 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1480.m3u8
-#EXTINF:-1, FUEL TV
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4707.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6287.m3u8
+#EXTINF:-1,Sundance FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11212.m3u8
+#EXTINF:-1,Cinemundo
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5117.m3u8
+#EXTINF:-1,CBS Reality
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6292.m3u8
+#EXTINF:-1,AMC FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11223.m3u8
+#EXTINF:-1,AMC
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5121.m3u8
+#EXTINF:-1,Sky Cinema 1 HD - Nosso Ultimo Verao
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126692.m3u8
+#EXTINF:-1,Sky Cinema 2 HD - O Menino que Queria Ser Rei
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126693.m3u8
+#EXTINF:-1,Sky Cinema 3 HD - O Outro Pai
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126694.m3u8
+#EXTINF:-1,Sky Cinema 4 HD - Uma Aventura Lego 2
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126695.m3u8
+#EXTINF:-1,Sky Cinema 5 HD - O 12 Homem
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126696.m3u8
+#EXTINF:-1,Sky Cinema 6 HD - Era Uma Vez Um Principe
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126697.m3u8
+#EXTINF:-1,Sky Cinema 7 HD - Bravestorm
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126698.m3u8
+#EXTINF:-1,Sky Cinema 8 HD - Colette
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126699.m3u8
+#EXTINF:-1,Sky Cinema 9 HD - Sonanbula
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126700.m3u8
+#EXTINF:-1,Sky Cinema 10 HD - Na Corda Bamba
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/126701.m3u8
+#EXTINF:-1,---------- PT News ---------
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5072.m3u8
+#EXTINF:-1,TVI24
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5104.m3u8
+#EXTINF:-1,SIC Noticias
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4462.m3u8
+#EXTINF:-1,Record News
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11228.m3u8
+#EXTINF:-1,TPA 1
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3674.m3u8
+#EXTINF:-1,TV Zimbo
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3675.m3u8
+#EXTINF:-1,-------- Portugal Sports -------
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4135.m3u8
+#EXTINF:-1,4K: Sport TV UHD PT
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/113637.m3u8
+#EXTINF:-1,SPORT TV 1 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7797.m3u8
+#EXTINF:-1,Sport TV 1 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3013.m3u8
+#EXTINF:-1,SPORT TV 2 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7798.m3u8
+#EXTINF:-1,Sport TV 2 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3014.m3u8
+#EXTINF:-1,SPORT TV 3 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7799.m3u8
+#EXTINF:-1,Sport TV 3 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3015.m3u8
+#EXTINF:-1,SPORT TV 4 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7800.m3u8
+#EXTINF:-1,Sport TV 4 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3017.m3u8
+#EXTINF:-1,SPORT TV 5 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7801.m3u8
+#EXTINF:-1,Sport TV 5 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3669.m3u8
+#EXTINF:-1,Sport TV+
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9343.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/94661.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/94660.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/94659.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/94658.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/94657.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/94656.m3u8
+#EXTINF:-1,BENFICA TV1 HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4449.m3u8
+#EXTINF:-1,Sporting TV FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4450.m3u8
+#EXTINF:-1,Sporting TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5099.m3u8
+#EXTINF:-1,KOMBAT SPORT
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7834.m3u8
+#EXTINF:-1,Fightox FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16991.m3u8
 #EXTINF:-1,A BOLA TV
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1478.m3u8
-#EXTINF:-1,PORTO CANAL
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4385.m3u8
-#EXTINF:-1,PANDA PIGGS HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1479.m3u8
-#EXTINF:-1,CACA E PESCA
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4709.m3u8
-#EXTINF:-1,TVCINE 1 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1449.m3u8
-#EXTINF:-1,TVCINE 2 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1450.m3u8
-#EXTINF:-1,TVCINE 3 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1451.m3u8
-#EXTINF:-1,TVCINE 4 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1452.m3u8
-#EXTINF:-1,CANAL PANDA
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1704.m3u8
-#EXTINF:-1,NICKELODEON HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1475.m3u8
-#EXTINF:-1,DISNEY JUNIOR HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1468.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1469.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1474.m3u8
-#EXTINF:-1,A&E
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1477.m3u8
-#EXTINF:-1,DISCOVERY HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1473.m3u8
-#EXTINF:-1,NAT GEO WILD HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1472.m3u8
-#EXTINF:-1,NAT GEOGRAPHIC HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1700.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4386.m3u8
-#EXTINF:-1,MOTORS TV
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1528.m3u8
-#EXTINF:-1,MOTORVISION
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/4544.m3u8
-#EXTINF:-1,BENFICA TV HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1470.m3u8
-#EXTINF:-1,EUROSPORT 1 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1526.m3u8
-#EXTINF:-1,EUROSPORT 2 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1527.m3u8
-#EXTINF:-1,SPORT TV 1 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/500.m3u8
-#EXTINF:-1,SPORT TV 2 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/499.m3u8
-#EXTINF:-1,SPORT TV 3 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/498.m3u8
-#EXTINF:-1,SPORT TV 4 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/497.m3u8
-#EXTINF:-1,SPORT TV 5 HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1644.m3u8
-#EXTINF:-1,SPORTING TV HD
-http://ip.tv4k.be:8000/live/iopSTSD2eF/EupkCkEBXC/1705.m3u8
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6281.m3u8
+#EXTINF:-1,PFC
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6291.m3u8
+#EXTINF:-1,Fuel TV FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5108.m3u8
+#EXTINF:-1,Fuel TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6297.m3u8
+#EXTINF:-1,Motors TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5113.m3u8
+#EXTINF:-1,Motorvision
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9346.m3u8
+#EXTINF:-1,Eurosport News
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/28248.m3u8
+#EXTINF:-1,Eurosport 1 FHD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5119.m3u8
+#EXTINF:-1,Eurosport HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5115.m3u8
+#EXTINF:-1,Eurosport 2
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9345.m3u8
+#EXTINF:-1,MCS Extreme
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11213.m3u8
