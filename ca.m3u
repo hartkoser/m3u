@@ -1,273 +1,95 @@
 #EXTM3U
-#EXTINF:0,A & E
-http://topiptv.net:5890/zina/zina/26743
-#EXTINF:0,ABC
-http://topiptv.net:5890/zina/zina/26798
-#EXTINF:0,ABC SPARK
-http://topiptv.net:5890/zina/zina/26799
-#EXTINF:0,ACTION
-http://topiptv.net:5890/zina/zina/26769
-#EXTINF:0,AMC
-http://topiptv.net:5890/zina/zina/26768
-#EXTINF:0,ANIMAL PLANET
-http://topiptv.net:5890/zina/zina/26742
-#EXTINF:0,BBC CANADA
-http://topiptv.net:5890/zina/zina/26756
-#EXTINF:0,BNN
-http://topiptv.net:5890/zina/zina/26812
-#EXTINF:0,BRAVO
-http://topiptv.net:5890/zina/zina/26755
-#EXTINF:0,CARTOON NETWORK
-http://topiptv.net:5890/zina/zina/26738
-#EXTINF:0,CBC MONTREAL
-http://topiptv.net:5890/zina/zina/26797
-#EXTINF:0,CBC NEWS
-http://topiptv.net:5890/zina/zina/26811
-#EXTINF:0,CBC OTTAWA
-http://topiptv.net:5890/zina/zina/26796
-#EXTINF:0,CBC TORONTO
-http://topiptv.net:5890/zina/zina/26795
-#EXTINF:0,CBC VANCOUVER
-http://topiptv.net:5890/zina/zina/26794
-#EXTINF:0,CBS EAST
-http://topiptv.net:5890/zina/zina/26793
-#EXTINF:0,CHCH
-http://topiptv.net:5890/zina/zina/26813
-#EXTINF:0,CITY HD
-http://topiptv.net:5890/zina/zina/26792
-#EXTINF:0,CITY VANCOUVER
-http://topiptv.net:5890/zina/zina/26791
-#EXTINF:0,CMT CANADA
-http://topiptv.net:5890/zina/zina/26790
-#EXTINF:0,CNBC WORLD HD
-http://topiptv.net:5890/zina/zina/26810
-#EXTINF:0,CNN
-http://topiptv.net:5890/zina/zina/26809
-#EXTINF:0,COMEDY GOLD
-http://topiptv.net:5890/zina/zina/26754
-#EXTINF:0,COTTAGE LIFE
-http://topiptv.net:5890/zina/zina/26753
-#EXTINF:0,CP24 HD
-http://topiptv.net:5890/zina/zina/26808
-#EXTINF:0,CPAC
-http://topiptv.net:5890/zina/zina/26807
-#EXTINF:0,CRIME  INVEST
-http://topiptv.net:5890/zina/zina/26741
-#EXTINF:0,CTV
-http://topiptv.net:5890/zina/zina/26788
-#EXTINF:0,CTV 2
-http://topiptv.net:5890/zina/zina/26789
-#EXTINF:0,CTV NEWS NETWORK
-http://topiptv.net:5890/zina/zina/26806
-#EXTINF:0,CTV TORONTO
-http://topiptv.net:5890/zina/zina/26787
-#EXTINF:0,CTV VANCOUVER
-http://topiptv.net:5890/zina/zina/26786
-#EXTINF:0,DISCOVERY  VELOCITY
-http://topiptv.net:5890/zina/zina/26740
-#EXTINF:0,DISCOVERY ID
-http://topiptv.net:5890/zina/zina/26731
-#EXTINF:0,DISCOVERY SCIENCE CANADA
-http://topiptv.net:5890/zina/zina/26739
-#EXTINF:0,DISNEY CANADA
-http://topiptv.net:5890/zina/zina/26733
-#EXTINF:0,DISNEY JR
-http://topiptv.net:5890/zina/zina/26732
-#EXTINF:0,DIY NETWORK
-http://topiptv.net:5890/zina/zina/26752
-#EXTINF:0,ENCORE 2 EAST
-http://topiptv.net:5890/zina/zina/26767
-#EXTINF:0,FOX NEWS
-http://topiptv.net:5890/zina/zina/26805
-#EXTINF:0,FYI
-http://topiptv.net:5890/zina/zina/26750
-#EXTINF:0,GameSHOW TV
-http://topiptv.net:5890/zina/zina/26728
-#EXTINF:0,GLOBAL
-http://topiptv.net:5890/zina/zina/26785
-#EXTINF:0,HBO
-http://topiptv.net:5890/zina/zina/26758
-#EXTINF:0,HGTV
-http://topiptv.net:5890/zina/zina/26749
-#EXTINF:0,KNOWLEDGE KIDS
-http://topiptv.net:5890/zina/zina/26729
-#EXTINF:0,LIFETIME
-http://topiptv.net:5890/zina/zina/26766
-#EXTINF:0,LOVE NATURE
-http://topiptv.net:5890/zina/zina/26735
-#EXTINF:0,MAX
-http://topiptv.net:5890/zina/zina/26748
-#EXTINF:0,MSNBC
-http://topiptv.net:5890/zina/zina/26804
-#EXTINF:0,NAT GEO WILD
-http://topiptv.net:5890/zina/zina/26736
-#EXTINF:0,NBA TV
-http://topiptv.net:5890/zina/zina/26776
-#EXTINF:0,NBC FHD
-http://topiptv.net:5890/zina/zina/26803
-#EXTINF:0,NBC WEST
-http://topiptv.net:5890/zina/zina/26802
-#EXTINF:0,NICK JR
-http://topiptv.net:5890/zina/zina/26730
-#EXTINF:0,OWN
-http://topiptv.net:5890/zina/zina/26784
-#EXTINF:0,PEACH TREE
-http://topiptv.net:5890/zina/zina/26783
-#EXTINF:0,SHOWCASE
-http://topiptv.net:5890/zina/zina/26757
-#EXTINF:0,SLICE
-http://topiptv.net:5890/zina/zina/26746
-#EXTINF:0,SPACE
-http://topiptv.net:5890/zina/zina/26745
-#EXTINF:0,SPORTNET 360
-http://topiptv.net:5890/zina/zina/26775
-#EXTINF:0,SPORTNET ONE
-http://topiptv.net:5890/zina/zina/26774
-#EXTINF:0,SPORTNET ONTARIO
-http://topiptv.net:5890/zina/zina/26773
-#EXTINF:0,SPORTSNET PACIFIC
-http://topiptv.net:5890/zina/zina/26771
-#EXTINF:0,SPORTSNET WEST
-http://topiptv.net:5890/zina/zina/26772
-#EXTINF:0,SPORTSNET WORLD
-http://topiptv.net:5890/zina/zina/26770
-#EXTINF:0,SUPER CHANNEL 1
-http://topiptv.net:5890/zina/zina/26765
-#EXTINF:0,SUPER CHANNEL 2
-http://topiptv.net:5890/zina/zina/26764
-#EXTINF:0,SUPER CHANNEL VAULT
-http://topiptv.net:5890/zina/zina/26763
-#EXTINF:0,THE WEATHER NETWORK
-http://topiptv.net:5890/zina/zina/26800
-#EXTINF:0,TLC
-http://topiptv.net:5890/zina/zina/26737
-#EXTINF:0,TMN 1
-http://topiptv.net:5890/zina/zina/26762
-#EXTINF:0,TMN 2
-http://topiptv.net:5890/zina/zina/26761
-#EXTINF:0,TMN 3
-http://topiptv.net:5890/zina/zina/26760
-#EXTINF:0,TMN 4
-http://topiptv.net:5890/zina/zina/26759
-#EXTINF:0,TREEHOUSE
-http://topiptv.net:5890/zina/zina/26744
-#EXTINF:0,TSN  3HD
-http://topiptv.net:5890/zina/zina/26779
-#EXTINF:0,TSN 1HD
-http://topiptv.net:5890/zina/zina/26781
-#EXTINF:0,TSN 2HD
-http://topiptv.net:5890/zina/zina/26780
-#EXTINF:0,TSN 4HD
-http://topiptv.net:5890/zina/zina/26778
-#EXTINF:0,TSN 5HD
-http://topiptv.net:5890/zina/zina/26777
-#EXTINF:0,WORLD FISHING NET
-http://topiptv.net:5890/zina/zina/26734
-#EXTINF:0,YES TV
-http://topiptv.net:5890/zina/zina/26782
-#EXTINF:0,ADDIK TV
-http://topiptv.net:5890/zina/zina/26720
-#EXTINF:0,ALJALEYA TV
-http://topiptv.net:5890/zina/zina/26672
-#EXTINF:0,ARTV
-http://topiptv.net:5890/zina/zina/26719
-#EXTINF:0,ASSEMBLEE NATIONALE
-http://topiptv.net:5890/zina/zina/26718
-#EXTINF:0,CANADIAN ARAB TV
-http://topiptv.net:5890/zina/zina/26671
-#EXTINF:0,CANAL D HD
-http://topiptv.net:5890/zina/zina/26717
-#EXTINF:0,CANAL SAVOIR
-http://topiptv.net:5890/zina/zina/26716
-#EXTINF:0,CANAL VIE
-http://topiptv.net:5890/zina/zina/26715
-#EXTINF:0,CANALSAVOIR
-http://topiptv.net:5890/zina/zina/26714
-#EXTINF:0,CASA
-http://topiptv.net:5890/zina/zina/26713
-#EXTINF:0,CINEPOP
-http://topiptv.net:5890/zina/zina/26685
-#EXTINF:0,COOKING CHANNEL
-http://topiptv.net:5890/zina/zina/26712
-#EXTINF:0,CPAC FRENCH
-http://topiptv.net:5890/zina/zina/26711
-#EXTINF:0,DISNEY FRENCH
-http://topiptv.net:5890/zina/zina/26710
-#EXTINF:0,EVASION
-http://topiptv.net:5890/zina/zina/26709
-#EXTINF:0,FRISSONS
-http://topiptv.net:5890/zina/zina/26686
-#EXTINF:0,GOLF HD
-http://topiptv.net:5890/zina/zina/26708
-#EXTINF:0,HISTORIA
-http://topiptv.net:5890/zina/zina/26707
-#EXTINF:0,ICI MONTREAL
-http://topiptv.net:5890/zina/zina/26706
-#EXTINF:0,ICI TELE
-http://topiptv.net:5890/zina/zina/26704
-#EXTINF:0,ICI VANCOUVER
-http://topiptv.net:5890/zina/zina/26705
-#EXTINF:0,LCN
-http://topiptv.net:5890/zina/zina/26703
-#EXTINF:0,METEO
-http://topiptv.net:5890/zina/zina/26702
-#EXTINF:0,MOI & CIE
-http://topiptv.net:5890/zina/zina/26701
-#EXTINF:0,PRISE 2
-http://topiptv.net:5890/zina/zina/26699
-#EXTINF:0,RDI
-http://topiptv.net:5890/zina/zina/26698
-#EXTINF:0,RDS
-http://topiptv.net:5890/zina/zina/26697
-#EXTINF:0,RDS 2
-http://topiptv.net:5890/zina/zina/26696
-#EXTINF:0,RDS INFO
-http://topiptv.net:5890/zina/zina/26695
-#EXTINF:0,SERIES
-http://topiptv.net:5890/zina/zina/26692
-#EXTINF:0,SPIKE TV
-http://topiptv.net:5890/zina/zina/26691
-#EXTINF:0,SUPER ECRAN 1
-http://topiptv.net:5890/zina/zina/26690
-#EXTINF:0,SUPER ECRAN 2
-http://topiptv.net:5890/zina/zina/26689
-#EXTINF:0,SUPER ECRAN 3
-http://topiptv.net:5890/zina/zina/26688
-#EXTINF:0,SUPER ECRAN 4
-http://topiptv.net:5890/zina/zina/26687
-#EXTINF:0,TELE QUEBEC
-http://topiptv.net:5890/zina/zina/26684
-#EXTINF:0,TELE TOON
-http://topiptv.net:5890/zina/zina/26683
-#EXTINF:0,TELEMAGINO
-http://topiptv.net:5890/zina/zina/26682
-#EXTINF:0,TELETOON
-http://topiptv.net:5890/zina/zina/26681
-#EXTINF:0,TFO
-http://topiptv.net:5890/zina/zina/26680
-#EXTINF:0,TV5 QUEBEC
-http://topiptv.net:5890/zina/zina/26679
-#EXTINF:0,TVA
-http://topiptv.net:5890/zina/zina/26724
-#EXTINF:0,TVA  3  WEST
-http://topiptv.net:5890/zina/zina/26723
-#EXTINF:0,TVA HD
-http://topiptv.net:5890/zina/zina/26725
-#EXTINF:0,TVA SPORTS 1 HD
-http://topiptv.net:5890/zina/zina/26694
-#EXTINF:0,TVA SPORTS 2 HD
-http://topiptv.net:5890/zina/zina/26693
-#EXTINF:0,UNIS TV
-http://topiptv.net:5890/zina/zina/26678
-#EXTINF:0,VRAK TV
-http://topiptv.net:5890/zina/zina/26722
-#EXTINF:0,VTELE HD
-http://topiptv.net:5890/zina/zina/26721
-#EXTINF:0,YOOPA
-http://topiptv.net:5890/zina/zina/26677
-#EXTINF:0,ZTELE
-http://topiptv.net:5890/zina/zina/26675
-#EXTINF:0,AssemblÈe Nationale QuÈbec
-http://topiptv.net:5890/zina/zina/26674
-#EXTINF:0,TV-Francophonie
-http://topiptv.net:5890/zina/zina/26673
+#EXTINF:-1,HBO 1
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15425.m3u8
+#EXTINF:-1,HBO 2
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15424.m3u8
+#EXTINF:-1,CHCH HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/28247.m3u8
+#EXTINF:-1,CBC Montreal
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15412.m3u8
+#EXTINF:-1,US: CBS East
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15413.m3u8
+#EXTINF:-1,CITY HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15414.m3u8
+#EXTINF:-1,CP 24 HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15421.m3u8
+#EXTINF:-1,CTV HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15415.m3u8
+#EXTINF:-1,CW
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15416.m3u8
+#EXTINF:-1,GLOBAL HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15417.m3u8
+#EXTINF:-1,HLN HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15426.m3u8
+#EXTINF:-1,ME TV
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15418.m3u8
+#EXTINF:-1,Peach Tree HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15419.m3u8
+#EXTINF:-1,FOX HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15423.m3u8
+#EXTINF:-1,NBC East
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15420.m3u8
+#EXTINF:-1,OWN HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15427.m3u8
+#EXTINF:-1,Slice HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15429.m3u8
+#EXTINF:-1,E! HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15422.m3u8
+#EXTINF:-1,TLC HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15430.m3u8
+#EXTINF:-1,Comedy Gold
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15431.m3u8
+#EXTINF:-1,GSN HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15273.m3u8
+#EXTINF:-1,ABC Spark HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15269.m3u8
+#EXTINF:-1,RDS (FR)
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11040.m3u8
+#EXTINF:-1,Lifetime HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5326.m3u8
+#EXTINF:-1,Space
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/9582.m3u8
+#EXTINF:-1,BNN HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/9584.m3u8
+#EXTINF:-1,AMC HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/9583.m3u8
+#EXTINF:-1,CPAC HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10711.m3u8
+#EXTINF:-1,ABC HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10714.m3u8
+#EXTINF:-1,RDS 2 (FR)
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10717.m3u8
+#EXTINF:-1,FXX HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10718.m3u8
+#EXTINF:-1,FX HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10719.m3u8
+#EXTINF:-1,Casa
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10720.m3u8
+#EXTINF:-1,HGTV HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10721.m3u8
+#EXTINF:-1,Addik TV
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10722.m3u8
+#EXTINF:-1,Bravo HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10723.m3u8
+#EXTINF:-1,Bet
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10724.m3u8
+#EXTINF:-1,OLN
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10729.m3u8
+#EXTINF:-1,Family Chrgd
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/10730.m3u8
+#EXTINF:-1,Z Tele
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/44167.m3u8
+#EXTINF:-1,Historio
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/44166.m3u8
+#EXTINF:-1,ICI ARTV HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/44160.m3u8
+#EXTINF:-1,Ici Radio Canada Tele Acadie HD
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/44162.m3u8
+#EXTINF:-1,ICI Montreal
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/44163.m3u8
+#EXTINF:-1,ICI Vancouver
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/44165.m3u8
+#EXTINF:-1,TVA Montreal
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/44164.m3u8
+#EXTINF:-1,Evasion
+http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/44161.m3u8
