@@ -1,95 +1,145 @@
 #EXTM3U
-#EXTINF:0,AE HD
-http://topiptv.net:5890/zina/zina/28834
-#EXTINF:0,Animal Planet HD
-http://topiptv.net:5890/zina/zina/28833
-#EXTINF:0,Arte 1
-http://topiptv.net:5890/zina/zina/28832
-#EXTINF:0,Azteca 13 HD
-http://topiptv.net:5890/zina/zina/28831
-#EXTINF:0,Band Sport HD
-http://topiptv.net:5890/zina/zina/28830
-#EXTINF:0,Can
-http://topiptv.net:5890/zina/zina/28829
-#EXTINF:0,Discovery TV
-http://topiptv.net:5890/zina/zina/28827
-#EXTINF:0,DW Latin
-http://topiptv.net:5890/zina/zina/28828
-#EXTINF:0,Fish TV
-http://topiptv.net:5890/zina/zina/28826
-#EXTINF:0,FOX Sports 2
-http://topiptv.net:5890/zina/zina/28824
-#EXTINF:0,FOX Sports HD
-http://topiptv.net:5890/zina/zina/28825
-#EXTINF:0,Globo News
-http://topiptv.net:5890/zina/zina/28823
-#EXTINF:0,Globo Nordeste
-http://topiptv.net:5890/zina/zina/28822
-#EXTINF:0,Globo Premium
-http://topiptv.net:5890/zina/zina/28821
-#EXTINF:0,Globo RJ
-http://topiptv.net:5890/zina/zina/28820
-#EXTINF:0,Globo RJ HD
-http://topiptv.net:5890/zina/zina/28819
-#EXTINF:0,Globo SP
-http://topiptv.net:5890/zina/zina/28818
-#EXTINF:0,Globo SP HD
-http://topiptv.net:5890/zina/zina/28817
-#EXTINF:0,Gloob
-http://topiptv.net:5890/zina/zina/28816
-#EXTINF:0,History FHD
-http://topiptv.net:5890/zina/zina/28815
-#EXTINF:0,Mais Globosat HD
-http://topiptv.net:5890/zina/zina/28813
-#EXTINF:0,MegaPix
-http://topiptv.net:5890/zina/zina/28812
-#EXTINF:0,MegaPix TV
-http://topiptv.net:5890/zina/zina/28811
-#EXTINF:0,Proyecto 40
-http://topiptv.net:5890/zina/zina/28810
-#EXTINF:0,RCTV
-http://topiptv.net:5890/zina/zina/28809
-#EXTINF:0,Rede Brasil
-http://topiptv.net:5890/zina/zina/28808
-#EXTINF:0,Rede Gospel
-http://topiptv.net:5890/zina/zina/28807
-#EXTINF:0,Rede TV
-http://topiptv.net:5890/zina/zina/28806
-#EXTINF:0,SporTV 1
-http://topiptv.net:5890/zina/zina/28805
-#EXTINF:0,SporTV 2
-http://topiptv.net:5890/zina/zina/28804
-#EXTINF:0,SporTV 3
-http://topiptv.net:5890/zina/zina/28803
-#EXTINF:0,Syfy
-http://topiptv.net:5890/zina/zina/28802
-#EXTINF:0,TC Action
-http://topiptv.net:5890/zina/zina/28801
-#EXTINF:0,TC Cult
-http://topiptv.net:5890/zina/zina/28800
-#EXTINF:0,TC Fun
-http://topiptv.net:5890/zina/zina/28799
-#EXTINF:0,TC Pipoca HD
-http://topiptv.net:5890/zina/zina/28798
-#EXTINF:0,TNT HD
-http://topiptv.net:5890/zina/zina/28797
-#EXTINF:0,TV Aparceida
-http://topiptv.net:5890/zina/zina/28796
-#EXTINF:0,TV Brasil Central
-http://topiptv.net:5890/zina/zina/28795
-#EXTINF:0,TV Escola
-http://topiptv.net:5890/zina/zina/28794
-#EXTINF:0,TV Gazeta HD
-http://topiptv.net:5890/zina/zina/28793
-#EXTINF:0,TV Gearl
-http://topiptv.net:5890/zina/zina/28792
-#EXTINF:0,TV Globo
-http://topiptv.net:5890/zina/zina/28791
-#EXTINF:0,TV Globo Premium
-http://topiptv.net:5890/zina/zina/28790
-#EXTINF:0,TV Mana France
-http://topiptv.net:5890/zina/zina/28789
-#EXTINF:0,TVI 24
-http://topiptv.net:5890/zina/zina/28788
-#EXTINF:0,TVI
-http://topiptv.net:5890/zina/zina/28787
+#EXTINF:-1,Rede TV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5730.m3u8
+#EXTINF:-1,Record News
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5731.m3u8
+#EXTINF:-1,Record HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5732.m3u8
+#EXTINF:-1,TV Globo PT
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5733.m3u8
+#EXTINF:-1,TV Brasil
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5734.m3u8
+#EXTINF:-1,Rede Familia
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5735.m3u8
+#EXTINF:-1,PFC
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5737.m3u8
+#EXTINF:-1,TV Globo Premium
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5738.m3u8
+#EXTINF:-1,Rede Brasil
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5740.m3u8
+#EXTINF:-1,Cançao Nova
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11082.m3u8
+#EXTINF:-1,A&E
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16964.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16963.m3u8
+#EXTINF:-1,AXN
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16962.m3u8
+#EXTINF:-1,BAND
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16961.m3u8
+#EXTINF:-1,BAND NEWS
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16960.m3u8
+#EXTINF:-1,Boomerang
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16950.m3u8
+#EXTINF:-1,Brazil 2
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16897.m3u8
+#EXTINF:-1,Canal Brasil
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16949.m3u8
+#EXTINF:-1,Canal Do Boi Tv
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16898.m3u8
+#EXTINF:-1,Canal Sony
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16948.m3u8
+#EXTINF:-1,CINEMAX
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16959.m3u8
+#EXTINF:-1,Combate
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16947.m3u8
+#EXTINF:-1,Universal Channel
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16899.m3u8
+#EXTINF:-1,DISCOVERY
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16958.m3u8
+#EXTINF:-1,Discovery Civilization
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16946.m3u8
+#EXTINF:-1,Discovery Science
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16945.m3u8
+#EXTINF:-1,Discovery Turbo
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16944.m3u8
+#EXTINF:-1,Disney
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16943.m3u8
+#EXTINF:-1,Disney Jr
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16942.m3u8
+#EXTINF:-1,E!
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16941.m3u8
+#EXTINF:-1,FOX
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16957.m3u8
+#EXTINF:-1,Fox Life
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16939.m3u8
+#EXTINF:-1,Globo News
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16938.m3u8
+#EXTINF:-1,Globo Premium
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16937.m3u8
+#EXTINF:-1,Gloob
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16936.m3u8
+#EXTINF:-1,GNT
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16935.m3u8
+#EXTINF:-1,H2
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16934.m3u8
+#EXTINF:-1,HBO
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16956.m3u8
+#EXTINF:-1,HBO 2
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16955.m3u8
+#EXTINF:-1,HBO Family
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16933.m3u8
+#EXTINF:-1,HBO Plus
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16932.m3u8
+#EXTINF:-1,HBO Signature
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16931.m3u8
+#EXTINF:-1,Investigação Discovery
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16930.m3u8
+#EXTINF:-1,Max
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16929.m3u8
+#EXTINF:-1,Max Prime
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16928.m3u8
+#EXTINF:-1,Max Up
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16927.m3u8
+#EXTINF:-1,MTV
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16954.m3u8
+#EXTINF:-1,Multishow
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16926.m3u8
+#EXTINF:-1,National Geographic
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16925.m3u8
+#EXTINF:-1,Nick
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16924.m3u8
+#EXTINF:-1,Paramount
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16923.m3u8
+#EXTINF:-1,Prime Box Brasil
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16916.m3u8
+#EXTINF:-1,REDE GOSPEL
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16901.m3u8
+#EXTINF:-1,SBT PE HD
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/18462.m3u8
+#EXTINF:-1,TC Action
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16915.m3u8
+#EXTINF:-1,TC Cult
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16914.m3u8
+#EXTINF:-1,TC Fun
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16913.m3u8
+#EXTINF:-1,TC Pipoca
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16912.m3u8
+#EXTINF:-1,TC Premium
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16911.m3u8
+#EXTINF:-1,TC Touch
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16910.m3u8
+#EXTINF:-1,TCM
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16909.m3u8
+#EXTINF:-1,The History Channel
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16908.m3u8
+#EXTINF:-1,TLC
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16953.m3u8
+#EXTINF:-1,TNT
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16952.m3u8
+#EXTINF:-1,TNT Series
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16907.m3u8
+#EXTINF:-1,TV Diario Brasil
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16902.m3u8
+#EXTINF:-1,TV Globo
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16903.m3u8
+#EXTINF:-1,TVN Brasil
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16904.m3u8
+#EXTINF:-1,TVE Brasil
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16905.m3u8
+#EXTINF:-1,Viva
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16906.m3u8
+#EXTINF:-1,WARNER
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16951.m3u8
+#EXTINF:-1,Proyecto 40
+http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4211.m3u8
