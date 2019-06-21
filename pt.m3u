@@ -1,287 +1,341 @@
 #EXTM3U
-#EXTINF:-1,RTP 1 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11206.m3u8
-#EXTINF:-1,RTP 1
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3320.m3u8
-#EXTINF:-1,RTP 2
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3321.m3u8
-#EXTINF:-1,RTP 3
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5102.m3u8
-#EXTINF:-1,RTP Madeira
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4451.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5107.m3u8
-#EXTINF:-1,RTP International
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4448.m3u8
-#EXTINF:-1,RTP Acores
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4453.m3u8
-#EXTINF:-1,RTP Africa
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6295.m3u8
-#EXTINF:-1,TVI HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11207.m3u8
-#EXTINF:-1,TVI
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3322.m3u8
-#EXTINF:-1,TVI Reality
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5098.m3u8
-#EXTINF:-1,TVI Ficçao
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5103.m3u8
-#EXTINF:-1,TV Record HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11227.m3u8
-#EXTINF:-1,Sic HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11208.m3u8
-#EXTINF:-1,SIC
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4461.m3u8
-#EXTINF:-1,Sic Radical HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11214.m3u8
-#EXTINF:-1,Sic Radical
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5101.m3u8
-#EXTINF:-1,SIC MULHER
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5105.m3u8
-#EXTINF:-1,Sic Caras
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11209.m3u8
-#EXTINF:-1,Porto Canal
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4452.m3u8
-#EXTINF:-1,TV Record
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4455.m3u8
-#EXTINF:-1,Globo Portugal
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/15062.m3u8
-#EXTINF:-1,TV Globo
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4463.m3u8
-#EXTINF:-1,Globo Premium
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11205.m3u8
-#EXTINF:-1,CM TV
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5116.m3u8
-#EXTINF:-1,MTV Portugal
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5112.m3u8
-#EXTINF:-1,E! Entertainment
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6296.m3u8
-#EXTINF:-1,Canal Q
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11210.m3u8
-#EXTINF:-1,Afro Music
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11226.m3u8
-#EXTINF:-1,MCM Pop
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11215.m3u8
-#EXTINF:-1,MCM TOP
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6293.m3u8
-#EXTINF:-1,VH1
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6294.m3u8
-#EXTINF:-1,--------- PT Kids ----------
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5068.m3u8
-#EXTINF:-1,Disney Junior
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4458.m3u8
-#EXTINF:-1,Disney Channel
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4459.m3u8
-#EXTINF:-1,Canal Panda
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4465.m3u8
-#EXTINF:-1,PANDA BIGGS
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5109.m3u8
-#EXTINF:-1,Nickelodeon
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5111.m3u8
-#EXTINF:-1,JIM JAM
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5114.m3u8
-#EXTINF:-1,Baby TV
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5120.m3u8
-#EXTINF:-1,Cartoon Network
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6299.m3u8
-#EXTINF:-1,SIC K
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5106.m3u8
-#EXTINF:-1,--------- PT Docu -----------
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5069.m3u8
-#EXTINF:-1,24 Kitchen HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4466.m3u8
-#EXTINF:-1,My Cuisine
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/28829.m3u8
-#EXTINF:-1,Food Network
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5100.m3u8
-#EXTINF:-1,Odisseia
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5110.m3u8
-#EXTINF:-1,Discovery Channel
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4460.m3u8
-#EXTINF:-1,Discovery Showcase HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11135.m3u8
-#EXTINF:-1,National Geographic HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6300.m3u8
-#EXTINF:-1,Nat Geo Wild FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11217.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4457.m3u8
-#EXTINF:-1,Fine Living Network FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11216.m3u8
-#EXTINF:-1,Travel Channel HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6298.m3u8
-#EXTINF:-1,Cacavision HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6284.m3u8
-#EXTINF:-1,TLC
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6285.m3u8
-#EXTINF:-1,A & E
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6282.m3u8
-#EXTINF:-1,Historia
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5118.m3u8
-#EXTINF:-1,Caza E Pesca
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6286.m3u8
-#EXTINF:-1,--------- PT Cinema --------
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5070.m3u8
-#EXTINF:-1,TV Cine 1 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11218.m3u8
-#EXTINF:-1,TV Cine 1
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3329.m3u8
-#EXTINF:-1,TV Cine 2 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11219.m3u8
-#EXTINF:-1,TV Cine 2
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3475.m3u8
-#EXTINF:-1,TV Cine 3 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11220.m3u8
-#EXTINF:-1,TV Cine 3
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3332.m3u8
-#EXTINF:-1,TV Cine 4 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11221.m3u8
-#EXTINF:-1,TV Cine 4
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3333.m3u8
-#EXTINF:-1,TV Series FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11222.m3u8
-#EXTINF:-1,TV Series
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4454.m3u8
-#EXTINF:-1,VH1 Classic
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6283.m3u8
-#EXTINF:-1,Hollywood FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11211.m3u8
-#EXTINF:-1,Hollywood
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6278.m3u8
-#EXTINF:-1,Syfy FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11225.m3u8
-#EXTINF:-1,SyFy
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4456.m3u8
-#EXTINF:-1,Fox FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/21028.m3u8
-#EXTINF:-1,Fox HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6289.m3u8
-#EXTINF:-1,Fox Life HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4464.m3u8
-#EXTINF:-1,Fox Movies
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3330.m3u8
-#EXTINF:-1,Fox Crime HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6290.m3u8
-#EXTINF:-1,Fox Comedy
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6280.m3u8
-#EXTINF:-1,AXN HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3331.m3u8
-#EXTINF:-1,AXN White FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3676.m3u8
-#EXTINF:-1,AXN WHITE
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6288.m3u8
-#EXTINF:-1,AXN Black FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11224.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6287.m3u8
-#EXTINF:-1,Sundance FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11212.m3u8
-#EXTINF:-1,Cinemundo
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5117.m3u8
-#EXTINF:-1,CBS Reality
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6292.m3u8
-#EXTINF:-1,AMC FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11223.m3u8
-#EXTINF:-1,AMC
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5121.m3u8
-#EXTINF:-1,Sky Cinema 1 HD - Nosso Ultimo Verao
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126692.m3u8
-#EXTINF:-1,Sky Cinema 2 HD - O Menino que Queria Ser Rei
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126693.m3u8
-#EXTINF:-1,Sky Cinema 3 HD - O Outro Pai
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126694.m3u8
-#EXTINF:-1,Sky Cinema 4 HD - Uma Aventura Lego 2
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126695.m3u8
-#EXTINF:-1,Sky Cinema 5 HD - O 12 Homem
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126696.m3u8
-#EXTINF:-1,Sky Cinema 6 HD - Era Uma Vez Um Principe
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126697.m3u8
-#EXTINF:-1,Sky Cinema 7 HD - Bravestorm
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126698.m3u8
-#EXTINF:-1,Sky Cinema 8 HD - Colette
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126699.m3u8
-#EXTINF:-1,Sky Cinema 9 HD - Sonanbula
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126700.m3u8
-#EXTINF:-1,Sky Cinema 10 HD - Na Corda Bamba
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/126701.m3u8
-#EXTINF:-1,---------- PT News ---------
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5072.m3u8
-#EXTINF:-1,TVI24
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5104.m3u8
-#EXTINF:-1,SIC Noticias
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4462.m3u8
-#EXTINF:-1,Record News
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11228.m3u8
-#EXTINF:-1,TPA 1
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3674.m3u8
-#EXTINF:-1,TV Zimbo
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3675.m3u8
-#EXTINF:-1,-------- Portugal Sports -------
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4135.m3u8
-#EXTINF:-1,4K: Sport TV UHD PT
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/113637.m3u8
+#EXTINF:-1,CANAL 180
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/91657.m3u8
+#EXTINF:-1,CHELSEA TV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/210248.m3u8
+#EXTINF:-1,CNN
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/106942.m3u8
+#EXTINF:-1,France 24
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141688.m3u8
+#EXTINF:-1,MCM POP
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/197789.m3u8
+#EXTINF:-1,SPORT TV + FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84174.m3u8
 #EXTINF:-1,SPORT TV 1 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/7797.m3u8
-#EXTINF:-1,Sport TV 1 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3013.m3u8
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/198090.m3u8
 #EXTINF:-1,SPORT TV 2 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/7798.m3u8
-#EXTINF:-1,Sport TV 2 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3014.m3u8
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84209.m3u8
 #EXTINF:-1,SPORT TV 3 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/7799.m3u8
-#EXTINF:-1,Sport TV 3 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3015.m3u8
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/198094.m3u8
 #EXTINF:-1,SPORT TV 4 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/7800.m3u8
-#EXTINF:-1,Sport TV 4 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3017.m3u8
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65570.m3u8
 #EXTINF:-1,SPORT TV 5 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/7801.m3u8
-#EXTINF:-1,Sport TV 5 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/3669.m3u8
-#EXTINF:-1,Sport TV+
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/9343.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/94661.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/94660.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/94659.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/94658.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/94657.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/94656.m3u8
-#EXTINF:-1,BENFICA TV1 HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4449.m3u8
-#EXTINF:-1,Sporting TV FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/4450.m3u8
-#EXTINF:-1,Sporting TV
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5099.m3u8
-#EXTINF:-1,KOMBAT SPORT
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/7834.m3u8
-#EXTINF:-1,Fightox FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/16991.m3u8
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65569.m3u8
+#EXTINF:-1,SPORT TV NBA
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/198083.m3u8
+#EXTINF:-1,TPA INTERNACIONAL
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/139832.m3u8
+#EXTINF:-1,TV5 Monde
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/106960.m3u8
+#EXTINF:-1,TVE Internacional
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/156541.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 2
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/85082.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 4
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/85084.m3u8
+#EXTINF:-1,TVI REALITY MOSAICO
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/85085.m3u8
+#EXTINF:-1,###### PORTUGAL ######
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/216571.m3u8
+#EXTINF:-1,24 KITCHEN FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65589.m3u8
 #EXTINF:-1,A BOLA TV
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6281.m3u8
-#EXTINF:-1,PFC
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6291.m3u8
-#EXTINF:-1,Fuel TV FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5108.m3u8
-#EXTINF:-1,Fuel TV
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/6297.m3u8
-#EXTINF:-1,Motors TV
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5113.m3u8
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/156377.m3u8
+#EXTINF:-1,AFRO MUSIC
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/88151.m3u8
+#EXTINF:-1,AMC HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141663.m3u8
+#EXTINF:-1,ANGELUS TV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/210243.m3u8
+#EXTINF:-1,ARTV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212645.m3u8
+#EXTINF:-1,AUTOMOTOTV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/210315.m3u8
+#EXTINF:-1,AXN BLACK FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65649.m3u8
+#EXTINF:-1,AXN FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65638.m3u8
+#EXTINF:-1,AXN WHITE FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65640.m3u8
+#EXTINF:-1,Baby TV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/87008.m3u8
+#EXTINF:-1,Barca TV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/192620.m3u8
+#EXTINF:-1,BBC ENTERTAINMENT
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/169227.m3u8
+#EXTINF:-1,BBC WORLD NEWS
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/91662.m3u8
+#EXTINF:-1,Benfica TV HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65585.m3u8
+#EXTINF:-1,Biggs
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/221437.m3u8
+#EXTINF:-1,Blaze
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65596.m3u8
+#EXTINF:-1,BLOOMBERG
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/91666.m3u8
+#EXTINF:-1,BTV FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/88976.m3u8
+#EXTINF:-1,CACA E PESCA HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/109723.m3u8
+#EXTINF:-1,CACAVISION
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/209248.m3u8
+#EXTINF:-1,Canal Nova
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212647.m3u8
+#EXTINF:-1,Canal Panda
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141670.m3u8
+#EXTINF:-1,CANAL Q
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/156381.m3u8
+#EXTINF:-1,Cancao Nova
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/221439.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141861.m3u8
+#EXTINF:-1,Casa E Pesca
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/221276.m3u8
+#EXTINF:-1,CBS REALITY
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/156382.m3u8
+#EXTINF:-1,CINE MUNDO HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65643.m3u8
+#EXTINF:-1,CMTV HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/102317.m3u8
+#EXTINF:-1,CNBC
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/221438.m3u8
+#EXTINF:-1,CNBC Europe
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212649.m3u8
+#EXTINF:-1,Crime & Investigation
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/88981.m3u8
+#EXTINF:-1,Discovery Channel HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84181.m3u8
+#EXTINF:-1,Discovery SHOWCASE HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65604.m3u8
+#EXTINF:-1,Disney Channel HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118273.m3u8
+#EXTINF:-1,Disney Jr
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/93188.m3u8
+#EXTINF:-1,DOG TV HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/207184.m3u8
+#EXTINF:-1,E! HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84827.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/124300.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/133687.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/124721.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/127741.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/139862.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/127743.m3u8
+#EXTINF:-1,EURO CHANNEL
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212659.m3u8
+#EXTINF:-1,euronews
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65588.m3u8
+#EXTINF:-1,EUROSPORT 1 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84177.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84216.m3u8
+#EXTINF:-1,Fight Box
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/101057.m3u8
+#EXTINF:-1,Fight Network HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/169032.m3u8
+#EXTINF:-1,FINE LIVING
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/93321.m3u8
+#EXTINF:-1,FLASH NEWS
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/221436.m3u8
+#EXTINF:-1,Food Network HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84813.m3u8
+#EXTINF:-1,FOOD NETWORK US
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/216790.m3u8
+#EXTINF:-1,FOX COMEDY HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65645.m3u8
+#EXTINF:-1,FOX Crime FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118277.m3u8
+#EXTINF:-1,FOX FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/100841.m3u8
+#EXTINF:-1,FOX LIFE FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118278.m3u8
+#EXTINF:-1,Fox Movies HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/62342.m3u8
+#EXTINF:-1,FOX NEWS HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/88987.m3u8
+#EXTINF:-1,FTV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/106944.m3u8
+#EXTINF:-1,Globo HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/114285.m3u8
+#EXTINF:-1,HISTORIA HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84807.m3u8
+#EXTINF:-1,Hollywood FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/88154.m3u8
+#EXTINF:-1,ICONCERTS HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/207183.m3u8
+#EXTINF:-1,Investigation Discovery HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/210106.m3u8
+#EXTINF:-1,Jim Jam
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/157586.m3u8
+#EXTINF:-1,KOMBAT SPORT HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65605.m3u8
+#EXTINF:-1,KURIAKOS KIDS
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/210325.m3u8
+#EXTINF:-1,Kuriakos TV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212667.m3u8
+#EXTINF:-1,LOCALVISAO TV HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/115661.m3u8
+#EXTINF:-1,MACAU TV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/91651.m3u8
+#EXTINF:-1,MCM TOP
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/109734.m3u8
+#EXTINF:-1,MEZZO HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/91665.m3u8
 #EXTINF:-1,Motorvision
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/9346.m3u8
-#EXTINF:-1,Eurosport News
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/28248.m3u8
-#EXTINF:-1,Eurosport 1 FHD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5119.m3u8
-#EXTINF:-1,Eurosport HD
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/5115.m3u8
-#EXTINF:-1,Eurosport 2
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/9345.m3u8
-#EXTINF:-1,MCS Extreme
-http://clientbox.tv:80/live/Zdocy2bPM9/NB3xkLiy6J/11213.m3u8
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141698.m3u8
+#EXTINF:-1,MTV HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65581.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212284.m3u8
+#EXTINF:-1,My cuisine
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/123325.m3u8
+#EXTINF:-1,NAT GEO HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/84180.m3u8
+#EXTINF:-1,NAT GEO Wild HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65592.m3u8
+#EXTINF:-1,NBA HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65621.m3u8
+#EXTINF:-1,NFL NOW
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/88993.m3u8
+#EXTINF:-1,Nick Junior
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/106949.m3u8
+#EXTINF:-1,Nickelodeon
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65628.m3u8
+#EXTINF:-1,Odisseia HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/139813.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/91647.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/216794.m3u8
+#EXTINF:-1,PANDA HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65590.m3u8
+#EXTINF:-1,PFC HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/64163.m3u8
+#EXTINF:-1,PORTO CANAL HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141702.m3u8
+#EXTINF:-1,Q CANAL
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65614.m3u8
+#EXTINF:-1,Real Madrid TV
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212673.m3u8
+#EXTINF:-1,Record TV FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/88153.m3u8
+#EXTINF:-1,RTP 1 HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/94996.m3u8
+#EXTINF:-1,RTP 2 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65657.m3u8
+#EXTINF:-1,RTP 3
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118311.m3u8
+#EXTINF:-1,RTP ACORES
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65652.m3u8
+#EXTINF:-1,RTP AFRICA
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65651.m3u8
+#EXTINF:-1,RTP AĿores
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141706.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/216520.m3u8
+#EXTINF:-1,RTP Memoria
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65653.m3u8
+#EXTINF:-1,SANTUARIO DE FATIMA HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/85091.m3u8
+#EXTINF:-1,SIC CARAS HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141707.m3u8
+#EXTINF:-1,SIC HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/95001.m3u8
+#EXTINF:-1,SIC Kids
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/101076.m3u8
+#EXTINF:-1,SIC MULHER HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118285.m3u8
+#EXTINF:-1,SIC NOTICIAS HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118286.m3u8
+#EXTINF:-1,SIC NotŦcias
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212678.m3u8
+#EXTINF:-1,SIC RADICAL HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/102329.m3u8
+#EXTINF:-1,SKY NEWS
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/91663.m3u8
+#EXTINF:-1,SPORT TV 1
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/221268.m3u8
+#EXTINF:-1,SPORT TV 1 HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65574.m3u8
+#EXTINF:-1,SPORT TV 2
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118289.m3u8
+#EXTINF:-1,SPORT TV 2 HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65573.m3u8
+#EXTINF:-1,SPORT TV 3
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118290.m3u8
+#EXTINF:-1,SPORT TV 3 HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65571.m3u8
+#EXTINF:-1,SPORT TV 4
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118291.m3u8
+#EXTINF:-1,SPORT TV 5
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/221445.m3u8
+#EXTINF:-1,SPORT TV 5 HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118292.m3u8
+#EXTINF:-1,SPORT TV+
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/217493.m3u8
+#EXTINF:-1,SPORTING FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65568.m3u8
+#EXTINF:-1,SYFY HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65641.m3u8
+#EXTINF:-1,TLC HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65617.m3u8
+#EXTINF:-1,TOROS HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/68725.m3u8
+#EXTINF:-1,TRACE URBAN TV HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/209375.m3u8
+#EXTINF:-1,Travel Channel FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65591.m3u8
+#EXTINF:-1,TV Cine 1 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/216519.m3u8
+#EXTINF:-1,TV Cine 2 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/216518.m3u8
+#EXTINF:-1,TV Cine 3 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118298.m3u8
+#EXTINF:-1,TV Cine 4 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118300.m3u8
+#EXTINF:-1,TV Cine 5 FHD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/100834.m3u8
+#EXTINF:-1,TV Galicia
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/106958.m3u8
+#EXTINF:-1,TV Globo Premium HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/91946.m3u8
+#EXTINF:-1,TV Record
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/141726.m3u8
+#EXTINF:-1,TV SERIES
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/181776.m3u8
+#EXTINF:-1,TVC 1 HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/101092.m3u8
+#EXTINF:-1,TVC 2
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/101093.m3u8
+#EXTINF:-1,TVC 3
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/157023.m3u8
+#EXTINF:-1,TVC 4
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/97252.m3u8
+#EXTINF:-1,TVE 24h
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/212693.m3u8
+#EXTINF:-1,TVI 24
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/216522.m3u8
+#EXTINF:-1,TVI 888
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65595.m3u8
+#EXTINF:-1,Tvi FIccao
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118304.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 1
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/85081.m3u8
+#EXTINF:-1,TVI REALITY CAMARA 3
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/85083.m3u8
+#EXTINF:-1,TVI Reality HD
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/118305.m3u8
+#EXTINF:-1,Unicanal
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/222062.m3u8
+#EXTINF:-1,VH1
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/65582.m3u8
+#EXTINF:-1,VH1 Classics
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/98020.m3u8
+#EXTINF:-1,ZDF
+http://bestiptv.info:8080/live/SYZ0xKaN9j/5wYmBkuWld/177010.m3u8
