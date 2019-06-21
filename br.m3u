@@ -1,145 +1,143 @@
 #EXTM3U
-#EXTINF:-1,Rede TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5730.m3u8
-#EXTINF:-1,Record News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5731.m3u8
-#EXTINF:-1,Record HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5732.m3u8
-#EXTINF:-1,TV Globo PT
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5733.m3u8
-#EXTINF:-1,TV Brasil
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5734.m3u8
-#EXTINF:-1,Rede Familia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5735.m3u8
-#EXTINF:-1,PFC
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5737.m3u8
-#EXTINF:-1,TV Globo Premium
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5738.m3u8
-#EXTINF:-1,Rede Brasil
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5740.m3u8
-#EXTINF:-1,Cançao Nova
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/11082.m3u8
 #EXTINF:-1,A&E
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16964.m3u8
-#EXTINF:-1,ANIMAL PLANET
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16963.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3430.m3u8
+#EXTINF:-1,Animal Planet
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3431.m3u8
 #EXTINF:-1,AXN
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16962.m3u8
-#EXTINF:-1,BAND
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16961.m3u8
-#EXTINF:-1,BAND NEWS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16960.m3u8
-#EXTINF:-1,Boomerang
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16950.m3u8
-#EXTINF:-1,Brazil 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16897.m3u8
-#EXTINF:-1,Canal Brasil
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16949.m3u8
-#EXTINF:-1,Canal Do Boi Tv
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16898.m3u8
-#EXTINF:-1,Canal Sony
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16948.m3u8
-#EXTINF:-1,CINEMAX
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16959.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3432.m3u8
+#EXTINF:-1,Band
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3433.m3u8
+#EXTINF:-1,Band News
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3434.m3u8
+#EXTINF:-1,Band Sports
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3435.m3u8
+#EXTINF:-1,Canal do Boi
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3437.m3u8
+#EXTINF:-1,Cartoon Network
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3438.m3u8
 #EXTINF:-1,Combate
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16947.m3u8
-#EXTINF:-1,Universal Channel
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16899.m3u8
-#EXTINF:-1,DISCOVERY
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16958.m3u8
-#EXTINF:-1,Discovery Civilization
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16946.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3439.m3u8
+#EXTINF:-1,Discovery Channel
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3440.m3u8
+#EXTINF:-1,Discovery Home & Health
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3441.m3u8
+#EXTINF:-1,Discovery Kids
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3442.m3u8
 #EXTINF:-1,Discovery Science
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16945.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3443.m3u8
 #EXTINF:-1,Discovery Turbo
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16944.m3u8
-#EXTINF:-1,Disney
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16943.m3u8
-#EXTINF:-1,Disney Jr
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16942.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3444.m3u8
+#EXTINF:-1,Disney Channel
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3445.m3u8
+#EXTINF:-1,Disney Junior
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3446.m3u8
+#EXTINF:-1,Disney XD
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3447.m3u8
 #EXTINF:-1,E!
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16941.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3448.m3u8
+#EXTINF:-1,EI Maxx
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3449.m3u8
+#EXTINF:-1,EI Maxx 2
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3450.m3u8
+#EXTINF:-1,ESPN
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3451.m3u8
+#EXTINF:-1,ESPN Brasil
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3452.m3u8
 #EXTINF:-1,FOX
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16957.m3u8
-#EXTINF:-1,Fox Life
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16939.m3u8
-#EXTINF:-1,Globo News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16938.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3453.m3u8
+#EXTINF:-1,FOX Life
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3454.m3u8
+#EXTINF:-1,FOX Sports
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3455.m3u8
+#EXTINF:-1,FOX Sports 2
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3456.m3u8
+#EXTINF:-1,FX
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3457.m3u8
+#EXTINF:-1,Globo
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3458.m3u8
 #EXTINF:-1,Globo Premium
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16937.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3459.m3u8
+#EXTINF:-1,Globo PT
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3460.m3u8
 #EXTINF:-1,Gloob
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16936.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3461.m3u8
 #EXTINF:-1,GNT
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16935.m3u8
-#EXTINF:-1,H2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16934.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3462.m3u8
 #EXTINF:-1,HBO
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16956.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3463.m3u8
 #EXTINF:-1,HBO 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16955.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3464.m3u8
 #EXTINF:-1,HBO Family
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16933.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3465.m3u8
 #EXTINF:-1,HBO Plus
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16932.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3466.m3u8
 #EXTINF:-1,HBO Signature
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16931.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3467.m3u8
+#EXTINF:-1,historia
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3468.m3u8
+#EXTINF:-1,History 2
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3469.m3u8
 #EXTINF:-1,Investigação Discovery
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16930.m3u8
-#EXTINF:-1,Max
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16929.m3u8
-#EXTINF:-1,Max Prime
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16928.m3u8
-#EXTINF:-1,Max Up
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16927.m3u8
-#EXTINF:-1,MTV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16954.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3470.m3u8
+#EXTINF:-1,MAX
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3471.m3u8
+#EXTINF:-1,MAX Prime
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3472.m3u8
+#EXTINF:-1,MAX Up
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3473.m3u8
+#EXTINF:-1,MEGAPIX
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3474.m3u8
 #EXTINF:-1,Multishow
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16926.m3u8
-#EXTINF:-1,National Geographic
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16925.m3u8
-#EXTINF:-1,Nick
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16924.m3u8
-#EXTINF:-1,Paramount
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16923.m3u8
-#EXTINF:-1,Prime Box Brasil
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16916.m3u8
-#EXTINF:-1,REDE GOSPEL
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16901.m3u8
-#EXTINF:-1,SBT PE HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/18462.m3u8
-#EXTINF:-1,TC Action
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16915.m3u8
-#EXTINF:-1,TC Cult
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16914.m3u8
-#EXTINF:-1,TC Fun
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16913.m3u8
-#EXTINF:-1,TC Pipoca
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16912.m3u8
-#EXTINF:-1,TC Premium
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16911.m3u8
-#EXTINF:-1,TC Touch
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16910.m3u8
-#EXTINF:-1,TCM
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16909.m3u8
-#EXTINF:-1,The History Channel
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16908.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3475.m3u8
+#EXTINF:-1,Nat. Geographic
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3476.m3u8
+#EXTINF:-1,Nick Jr.
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3477.m3u8
+#EXTINF:-1,Paramount Channel
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3478.m3u8
+#EXTINF:-1,PFC
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3479.m3u8
+#EXTINF:-1,Record
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3480.m3u8
+#EXTINF:-1,Record News
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3481.m3u8
+#EXTINF:-1,Rede TV
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3482.m3u8
+#EXTINF:-1,SBT
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3483.m3u8
+#EXTINF:-1,SporTV 2
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3484.m3u8
+#EXTINF:-1,SporTV 3
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3485.m3u8
+#EXTINF:-1,sportv1
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3486.m3u8
+#EXTINF:-1,TBS
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3487.m3u8
+#EXTINF:-1,Telecine Action
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3488.m3u8
+#EXTINF:-1,Telecine Cult
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3489.m3u8
+#EXTINF:-1,Telecine Fun
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3490.m3u8
+#EXTINF:-1,Telecine Pipoca
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3491.m3u8
+#EXTINF:-1,Telecine Premium
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3492.m3u8
+#EXTINF:-1,Telecine Touch
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3493.m3u8
 #EXTINF:-1,TLC
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16953.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3494.m3u8
 #EXTINF:-1,TNT
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16952.m3u8
-#EXTINF:-1,TNT Series
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16907.m3u8
-#EXTINF:-1,TV Diario Brasil
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16902.m3u8
-#EXTINF:-1,TV Globo
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16903.m3u8
-#EXTINF:-1,TVN Brasil
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16904.m3u8
-#EXTINF:-1,TVE Brasil
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16905.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3495.m3u8
+#EXTINF:-1,TV BrasiL
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3496.m3u8
+#EXTINF:-1,TV Cultura
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3497.m3u8
+#EXTINF:-1,Universal Channel
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3498.m3u8
 #EXTINF:-1,Viva
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16906.m3u8
-#EXTINF:-1,WARNER
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/16951.m3u8
-#EXTINF:-1,Proyecto 40
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4211.m3u8
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3499.m3u8
+#EXTINF:-1,Warner Channel
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3500.m3u8
+#EXTINF:-1,Woohoo
+http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3501.m3u8

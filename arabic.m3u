@@ -1,1051 +1,933 @@
 #EXTM3U
-#EXTINF:-1,Bein Movies 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3501.m3u8
-#EXTINF:-1,Bein Movies 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3502.m3u8
-#EXTINF:-1,Bein Movies 3 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3503.m3u8
-#EXTINF:-1,Bein Movies 4 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5354.m3u8
-#EXTINF:-1,OSN Al Yawm
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3488.m3u8
-#EXTINF:-1,OSN Musalsalat HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8205.m3u8
-#EXTINF:-1,OSN Living HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8211.m3u8
-#EXTINF:-1,OSN Yahala First HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8012.m3u8
-#EXTINF:-1,OSN Yahala HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8015.m3u8
-#EXTINF:-1,OSN Yahala Cinema HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8014.m3u8
-#EXTINF:-1,OSN Paramount
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8018.m3u8
-#EXTINF:-1,OSN Cinema 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8214.m3u8
-#EXTINF:-1,OSN Cinema 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8215.m3u8
-#EXTINF:-1,OSN Fann
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8212.m3u8
-#EXTINF:-1,OSN First Home Of HBO HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8017.m3u8
-#EXTINF:-1,OSN First Comedy HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8016.m3u8
-#EXTINF:-1,OSN Movies HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8019.m3u8
-#EXTINF:-1,OSN Movies Premiere HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/13790.m3u8
-#EXTINF:-1,OSN Movies First HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8020.m3u8
-#EXTINF:-1,OSN Movies Festival HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8023.m3u8
-#EXTINF:-1,OSN Movies Comedy HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8024.m3u8
-#EXTINF:-1,OSN Movies Family HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8021.m3u8
-#EXTINF:-1,OSN Movies Action +2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8232.m3u8
-#EXTINF:-1,OSN Movies Drama HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8022.m3u8
-#EXTINF:-1,OSN Discovery Family
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8190.m3u8
-#EXTINF:-1,OSN Movies Thriller HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8013.m3u8
-#EXTINF:-1,OSN Kids Zone HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8025.m3u8
-#EXTINF:-1,OSN Movies Kids
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8063.m3u8
-#EXTINF:-1,OSN Fox Family Movies HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8209.m3u8
-#EXTINF:-1,OSN Series Comedy HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8220.m3u8
-#EXTINF:-1,OSN FX HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8219.m3u8
-#EXTINF:-1,OSN Syfy HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8208.m3u8
-#EXTINF:-1,OSN Star World HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8207.m3u8
-#EXTINF:-1,OSN Box Office 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8061.m3u8
-#EXTINF:-1,OSN Box Office 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8062.m3u8
-#EXTINF:-1,OSN Box Office 3 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5923.m3u8
-#EXTINF:-1,OSN Discovery HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8192.m3u8
-#EXTINF:-1,OSN Discovery Science HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8064.m3u8
-#EXTINF:-1,OSN Nat Geographic HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8187.m3u8
-#EXTINF:-1,OSN Nat Geo Wild HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8188.m3u8
-#EXTINF:-1,OSN Nat Geo People HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8189.m3u8
-#EXTINF:-1,OSN Animal Planet HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8193.m3u8
-#EXTINF:-1,OSN Outdoor HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8213.m3u8
-#EXTINF:-1,OSN Quest Arabic HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8218.m3u8
-#EXTINF:-1,OSN ITV CHOICE
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10927.m3u8
-#EXTINF:-1,OSN On Demand Extra
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62286.m3u8
-#EXTINF:-1,MBC1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8036.m3u8
+#EXTINF:-1,ART AFLAM 1
+http://s1.electru.biz:8080/live/Jorge/12345678/111239.m3u8
+#EXTINF:-1,ART AFLAM 2
+http://s1.electru.biz:8080/live/Jorge/12345678/111238.m3u8
+#EXTINF:-1,ART CINEMA
+http://s1.electru.biz:8080/live/Jorge/12345678/111235.m3u8
+#EXTINF:-1,ART HEKAYAT 1
+http://s1.electru.biz:8080/live/Jorge/12345678/111237.m3u8
+#EXTINF:-1,ART HEKAYAT 2
+http://s1.electru.biz:8080/live/Jorge/12345678/111236.m3u8
+#EXTINF:-1,MBC  DRAMA HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111206.m3u8
 #EXTINF:-1,MBC 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2820.m3u8
-#EXTINF:-1,MBC 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8035.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111234.m3u8
+#EXTINF:-1,MBC 1 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111233.m3u8
+#EXTINF:-1,MBC 1 HD  4
+http://s1.electru.biz:8080/live/Jorge/12345678/111232.m3u8
 #EXTINF:-1,MBC 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/1214.m3u8
-#EXTINF:-1,MBC 3 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8034.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111231.m3u8
+#EXTINF:-1,MBC 2 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111230.m3u8
+#EXTINF:-1,MBC 2 HD  4
+http://s1.electru.biz:8080/live/Jorge/12345678/111229.m3u8
 #EXTINF:-1,MBC 3
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3377.m3u8
-#EXTINF:-1,MBC 4 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8033.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111228.m3u8
+#EXTINF:-1,MBC 3 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111227.m3u8
+#EXTINF:-1,MBC 3 HD  4
+http://s1.electru.biz:8080/live/Jorge/12345678/111226.m3u8
 #EXTINF:-1,MBC 4
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/1217.m3u8
-#EXTINF:-1,MBC Drama HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8039.m3u8
-#EXTINF:-1,MBC Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3457.m3u8
-#EXTINF:-1,MBC Drama + HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6149.m3u8
-#EXTINF:-1,MBC Variety HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3491.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111225.m3u8
+#EXTINF:-1,MBC 4 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111224.m3u8
+#EXTINF:-1,MBC 4 HD  4
+http://s1.electru.biz:8080/live/Jorge/12345678/111223.m3u8
+#EXTINF:-1,MBC ACTION
+http://s1.electru.biz:8080/live/Jorge/12345678/111222.m3u8
+#EXTINF:-1,MBC ACTION HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111221.m3u8
+#EXTINF:-1,MBC ACTION HD  4
+http://s1.electru.biz:8080/live/Jorge/12345678/111220.m3u8
+#EXTINF:-1,MBC BOLLYWOOD
+http://s1.electru.biz:8080/live/Jorge/12345678/111219.m3u8
+#EXTINF:-1,MBC BOLLYWOOD HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111218.m3u8
+#EXTINF:-1,MBC BOLLYWOOD HD  4
+http://s1.electru.biz:8080/live/Jorge/12345678/111217.m3u8
+#EXTINF:-1,MBC DRAMA
+http://s1.electru.biz:8080/live/Jorge/12345678/111216.m3u8
+#EXTINF:-1,MBC DRAMA HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111215.m3u8
+#EXTINF:-1,MBC DRAMA HD  4
+http://s1.electru.biz:8080/live/Jorge/12345678/111214.m3u8
+#EXTINF:-1,MBC MASR 1 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111213.m3u8
+#EXTINF:-1,MBC MASR 2 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111212.m3u8
+#EXTINF:-1,MBC MAX
+http://s1.electru.biz:8080/live/Jorge/12345678/111211.m3u8
 #EXTINF:-1,MBC MAX HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8037.m3u8
-#EXTINF:-1,MBC Max
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/1215.m3u8
-#EXTINF:-1,MBC Action HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8041.m3u8
-#EXTINF:-1,MBC Action
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/1213.m3u8
-#EXTINF:-1,MBC Bollywood
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/1216.m3u8
-#EXTINF:-1,MBC Masr
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3379.m3u8
-#EXTINF:-1,MBC Masr 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4275.m3u8
-#EXTINF:-1,Seevii Prime 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62275.m3u8
-#EXTINF:-1,Seevii Prime 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62276.m3u8
-#EXTINF:-1,Fatafeat HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4316.m3u8
-#EXTINF:-1,BEIN Gourmet HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8227.m3u8
-#EXTINF:-1,Bein Series HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/56570.m3u8
-#EXTINF:-1,My Cinema HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/56569.m3u8
-#EXTINF:-1,My Music 24 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/56573.m3u8
-#EXTINF:-1,My Stereo Music Always HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/56572.m3u8
-#EXTINF:-1,BEIN STAR WORLD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8228.m3u8
-#EXTINF:-1,BEIN FX HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8225.m3u8
-#EXTINF:-1,Bein Dmax HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62279.m3u8
-#EXTINF:-1,Bein Dream Works HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62277.m3u8
-#EXTINF:-1,Bein Junior HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62281.m3u8
-#EXTINF:-1,Bein DTX HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62280.m3u8
-#EXTINF:-1,Bein AMC HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62278.m3u8
-#EXTINF:-1,Bein Outdoor HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62282.m3u8
-#EXTINF:-1,Fox Movies HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62285.m3u8
-#EXTINF:-1,Fox Action Movies HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62283.m3u8
-#EXTINF:-1,Fox Family Movies HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/62284.m3u8
-#EXTINF:-1,Fix Foxi HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8217.m3u8
-#EXTINF:-1,Cinemachi Kidz HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8191.m3u8
-#EXTINF:-1,------ Lebanon ------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/17959.m3u8
-#EXTINF:-1,LBC HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10952.m3u8
-#EXTINF:-1,LBC
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3163.m3u8
-#EXTINF:-1,LBC 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3378.m3u8
-#EXTINF:-1,MTV Liban
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2789.m3u8
-#EXTINF:-1,LDC
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3164.m3u8
-#EXTINF:-1,Future TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2796.m3u8
-#EXTINF:-1,Al Jadeed
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3104.m3u8
-#EXTINF:-1,TL Liban
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4127.m3u8
-#EXTINF:-1,NBN HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3425.m3u8
-#EXTINF:-1,Al Aan
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2919.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111210.m3u8
+#EXTINF:-1,MBC MAX HD  4
+http://s1.electru.biz:8080/live/Jorge/12345678/111209.m3u8
+#EXTINF:-1,MBC VARIETY
+http://s1.electru.biz:8080/live/Jorge/12345678/111208.m3u8
+#EXTINF:-1,MBC VARIETY HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111207.m3u8
+#EXTINF:-1,OSN ACTION HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111184.m3u8
+#EXTINF:-1,OSN AL SAFWA HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111205.m3u8
+#EXTINF:-1,OSN AL YOUM HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111204.m3u8
+#EXTINF:-1,OSN ANIMAL PLANET HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111203.m3u8
+#EXTINF:-1,OSN BABY HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111202.m3u8
+#EXTINF:-1,OSN CINEMA 1 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111201.m3u8
+#EXTINF:-1,OSN CINEMA 1 HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111200.m3u8
+#EXTINF:-1,OSN CINEMA 2 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111199.m3u8
+#EXTINF:-1,OSN CINEMA 3 HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111198.m3u8
+#EXTINF:-1,OSN COMEDY CENTRAL HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111197.m3u8
+#EXTINF:-1,OSN COMEDY HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111183.m3u8
+#EXTINF:-1,OSN DISCOVERY FAMILY HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111196.m3u8
+#EXTINF:-1,OSN DISCOVERY HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111195.m3u8
+#EXTINF:-1,OSN DISCOVERY ID HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111194.m3u8
+#EXTINF:-1,OSN DISCOVERY IDX HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111193.m3u8
+#EXTINF:-1,OSN DISCOVERY IDX HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111185.m3u8
+#EXTINF:-1,OSN Discovey Science HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111192.m3u8
+#EXTINF:-1,OSN DISNEY JUNIOR HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111191.m3u8
+#EXTINF:-1,OSN DISNEY XD HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111190.m3u8
+#EXTINF:-1,OSN ENIGMA HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111179.m3u8
+#EXTINF:-1,OSN ENTERTAINMENT HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111189.m3u8
+#EXTINF:-1,OSN HISTORY 2 HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111187.m3u8
+#EXTINF:-1,OSN HISTORY HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111186.m3u8
+#EXTINF:-1,OSN KIDS HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111180.m3u8
+#EXTINF:-1,OSN LIVING HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111188.m3u8
+#EXTINF:-1,OSN MOVIES DISNEY HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111182.m3u8
+#EXTINF:-1,OSN MOVIES HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111181.m3u8
+#EXTINF:-1,OSN MUSALSALAT HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111178.m3u8
+#EXTINF:-1,OSN MUSIC NOW HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111177.m3u8
+#EXTINF:-1,OSN MUSIC NOW HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111176.m3u8
+#EXTINF:-1,OSN NAT GEO PEOPLE HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111175.m3u8
+#EXTINF:-1,OSN NAT GEO PEOPLE HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111174.m3u8
+#EXTINF:-1,OSN NAT GEO WILD HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111173.m3u8
+#EXTINF:-1,OSN SERIES COMEDY 2 HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111172.m3u8
+#EXTINF:-1,OSN STAR MOVIE FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/111171.m3u8
+#EXTINF:-1,OSN STAR WORLD FHD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111170.m3u8
+#EXTINF:-1,OSN SUNDANCE HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111169.m3u8
+#EXTINF:-1,OSN SYFY HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111168.m3u8
+#EXTINF:-1,OSN TLC HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111167.m3u8
+#EXTINF:-1,OSN TRAVEL HD ✦
+http://s1.electru.biz:8080/live/Jorge/12345678/111166.m3u8
+#EXTINF:-1,AL AAN TV
+http://s1.electru.biz:8080/live/Jorge/12345678/114597.m3u8
+#EXTINF:-1,AL JADEED TV
+http://s1.electru.biz:8080/live/Jorge/12345678/114609.m3u8
+#EXTINF:-1,AL MANAR
+http://s1.electru.biz:8080/live/Jorge/12345678/114608.m3u8
+#EXTINF:-1,AL MAYADEEN
+http://s1.electru.biz:8080/live/Jorge/12345678/114607.m3u8
+#EXTINF:-1,ATFAL MWAHEB
+http://s1.electru.biz:8080/live/Jorge/12345678/114596.m3u8
+#EXTINF:-1,FUTURE TV
+http://s1.electru.biz:8080/live/Jorge/12345678/114606.m3u8
+#EXTINF:-1,HODHOD TV
+http://s1.electru.biz:8080/live/Jorge/12345678/114595.m3u8
+#EXTINF:-1,KRAMESH
+http://s1.electru.biz:8080/live/Jorge/12345678/114594.m3u8
+#EXTINF:-1,LBC TV
+http://s1.electru.biz:8080/live/Jorge/12345678/114605.m3u8
+#EXTINF:-1,LDC TV
+http://s1.electru.biz:8080/live/Jorge/12345678/114602.m3u8
+#EXTINF:-1,MAJID TV
+http://s1.electru.biz:8080/live/Jorge/12345678/114593.m3u8
+#EXTINF:-1,MICKEY
+http://s1.electru.biz:8080/live/Jorge/12345678/114592.m3u8
+#EXTINF:-1,MODY
+http://s1.electru.biz:8080/live/Jorge/12345678/114591.m3u8
+#EXTINF:-1,MTV FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/114601.m3u8
+#EXTINF:-1,NBN TV
+http://s1.electru.biz:8080/live/Jorge/12345678/114600.m3u8
+#EXTINF:-1,NOON
+http://s1.electru.biz:8080/live/Jorge/12345678/114590.m3u8
 #EXTINF:-1,OTV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2818.m3u8
-#EXTINF:-1,Heya
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4300.m3u8
-#EXTINF:-1,Rotana Clip HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8183.m3u8
-#EXTINF:-1,Rotana Classic HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8045.m3u8
-#EXTINF:-1,Rotana Music HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8042.m3u8
-#EXTINF:-1,Rotana Masriah HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8043.m3u8
-#EXTINF:-1,Rotana Khalijiah HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8044.m3u8
-#EXTINF:-1,Rotana Cinema HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8046.m3u8
-#EXTINF:-1,Rotana Aflam HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8047.m3u8
-#EXTINF:-1,Rotana Classic
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2929.m3u8
-#EXTINF:-1,Rotana Musika
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2932.m3u8
-#EXTINF:-1,Rotana Masriya
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2928.m3u8
-#EXTINF:-1,Rotana Khalijiya
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2930.m3u8
-#EXTINF:-1,Rotana Clip
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2931.m3u8
-#EXTINF:-1,Rotana Cinema
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2918.m3u8
-#EXTINF:-1,Rotana Cinema KSA
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2923.m3u8
-#EXTINF:-1,==== AR Maghreb =====
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5153.m3u8
-#EXTINF:-1,Tunisie 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2854.m3u8
-#EXTINF:-1,Tunisie 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2821.m3u8
-#EXTINF:-1,Al Hiwar Ettounsi
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2847.m3u8
-#EXTINF:-1,Ettasiaa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3382.m3u8
-#EXTINF:-1,Tounesna
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3211.m3u8
-#EXTINF:-1,Nessma
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3166.m3u8
-#EXTINF:-1,Hannibal
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3167.m3u8
-#EXTINF:-1,Telvza TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6321.m3u8
-#EXTINF:-1,Al Janoubiya
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3046.m3u8
-#EXTINF:-1,M Tunisie
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6130.m3u8
-#EXTINF:-1,Carthage+
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4318.m3u8
-#EXTINF:-1,Sahel Tunisian Voice
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/116150.m3u8
-#EXTINF:-1,I Love Tunisia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/25696.m3u8
-#EXTINF:-1,Mouzika Tounsia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3352.m3u8
-#EXTINF:-1,Zaytouna
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3165.m3u8
-#EXTINF:-1,Al Insen
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3429.m3u8
-#EXTINF:-1,Al Mustakillah
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4322.m3u8
-#EXTINF:-1,Jawhara FM
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3374.m3u8
-#EXTINF:-1,Canal Algerie
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2823.m3u8
-#EXTINF:-1,Al Jazaairia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4336.m3u8
-#EXTINF:-1,Dzair
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4353.m3u8
-#EXTINF:-1,Echourouk HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2809.m3u8
-#EXTINF:-1,CBC Benna
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10739.m3u8
-#EXTINF:-1,Ennahar
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2921.m3u8
-#EXTINF:-1,A3 Algerie
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2862.m3u8
-#EXTINF:-1,Algerie 4
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3078.m3u8
-#EXTINF:-1,Algerie 5
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4360.m3u8
-#EXTINF:-1,Al Anis
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4329.m3u8
-#EXTINF:-1,Bahia TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8070.m3u8
-#EXTINF:-1,Samira TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4348.m3u8
-#EXTINF:-1,Al Bilad
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3438.m3u8
-#EXTINF:-1,Chams TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4282.m3u8
-#EXTINF:-1,ENTV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4298.m3u8
-#EXTINF:-1,Al Adjwaa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10741.m3u8
-#EXTINF:-1,Beur TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4281.m3u8
-#EXTINF:-1,Berbere TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10742.m3u8
-#EXTINF:-1,Berbere Jeunesse
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3545.m3u8
-#EXTINF:-1,Berbere Music
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3683.m3u8
-#EXTINF:-1,Echourouk News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10740.m3u8
-#EXTINF:-1,Numedia News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4306.m3u8
-#EXTINF:-1,Dzair News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2933.m3u8
-#EXTINF:-1,Al Heddaf
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4296.m3u8
-#EXTINF:-1,Al Maghribia FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3437.m3u8
-#EXTINF:-1,Maroc 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2810.m3u8
-#EXTINF:-1,Medi 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3442.m3u8
-#EXTINF:-1,2M Monde
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3386.m3u8
-#EXTINF:-1,Arrabiaa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10924.m3u8
-#EXTINF:-1,Assadisa Maroc
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3956.m3u8
-#EXTINF:-1,Tele Maroc
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/20993.m3u8
-#EXTINF:-1,Al Magharibia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4354.m3u8
-#EXTINF:-1,Al Maghribia Ikhbaria
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2808.m3u8
-#EXTINF:-1,Canal Atlas
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10925.m3u8
-#EXTINF:-1,Tamazigh
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4265.m3u8
-#EXTINF:-1,Arriadia Live HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/20995.m3u8
-#EXTINF:-1,Arriadia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3929.m3u8
-#EXTINF:-1,GM Aflam
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66333.m3u8
-#EXTINF:-1,GM Afro Hit
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66332.m3u8
-#EXTINF:-1,GM Chaabi
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66331.m3u8
-#EXTINF:-1,GM Comedia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66330.m3u8
-#EXTINF:-1,GM Documentaire
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66329.m3u8
-#EXTINF:-1,GM Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66328.m3u8
-#EXTINF:-1,GM Katakit
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66327.m3u8
-#EXTINF:-1,GM Music TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66326.m3u8
-#EXTINF:-1,GM Rap Arab
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66325.m3u8
-#EXTINF:-1,GM Tamazight
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/66324.m3u8
-#EXTINF:-1,Libya Al Nabaa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3436.m3u8
-#EXTINF:-1,Libya TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4285.m3u8
-#EXTINF:-1,Libya Al Rasmia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4319.m3u8
-#EXTINF:-1,Libya 218
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3082.m3u8
-#EXTINF:-1,Libya Al Watan
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4340.m3u8
-#EXTINF:-1,-------- AR Islam ---------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3487.m3u8
-#EXTINF:-1,Mekkah Quran
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2817.m3u8
-#EXTINF:-1,Medine Sunnah Nebawiya
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2816.m3u8
-#EXTINF:-1,Al Resala HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4276.m3u8
-#EXTINF:-1,Al Resala
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2811.m3u8
-#EXTINF:-1,Iqraa TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2791.m3u8
-#EXTINF:-1,Mekkah
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3434.m3u8
-#EXTINF:-1,Al Jamila
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9873.m3u8
-#EXTINF:-1,Al Afassy TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/10193.m3u8
-#EXTINF:-1,Ayaat
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3933.m3u8
-#EXTINF:-1,Al Majd
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2920.m3u8
-#EXTINF:-1,Al Majd Quran
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2924.m3u8
-#EXTINF:-1,Al Majd Hadith
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2604.m3u8
-#EXTINF:-1,Al Majd Educational
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2922.m3u8
-#EXTINF:-1,Al Rahma
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3011.m3u8
-#EXTINF:-1,Al Nas
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9872.m3u8
-#EXTINF:-1,Noor Dubai
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2751.m3u8
-#EXTINF:-1,Tayba
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9859.m3u8
-#EXTINF:-1,Noor Al Sham
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2784.m3u8
-#EXTINF:-1,Ahl Al Quran
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3435.m3u8
-#EXTINF:-1,Al Quran
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/18437.m3u8
-#EXTINF:-1,TV Coran
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4521.m3u8
-#EXTINF:-1,Quran TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4522.m3u8
-#EXTINF:-1,Bahrain Quran
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/18436.m3u8
-#EXTINF:-1,Kaifa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3433.m3u8
-#EXTINF:-1,Azhari
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4339.m3u8
-#EXTINF:-1,Al Erth Al Nabawi
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9875.m3u8
-#EXTINF:-1,Safa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2938.m3u8
-#EXTINF:-1,Wesal TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2790.m3u8
-#EXTINF:-1,Al Maaref
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2936.m3u8
-#EXTINF:-1,Al Basira
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4331.m3u8
-#EXTINF:-1,Al Dawaeah
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9885.m3u8
-#EXTINF:-1,Al Fath Quran
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9876.m3u8
-#EXTINF:-1,Al Haqiqa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9868.m3u8
-#EXTINF:-1,Al Iman
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9891.m3u8
-#EXTINF:-1,Tarteel Channel
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9866.m3u8
-#EXTINF:-1,Al Nada
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9864.m3u8
-#EXTINF:-1,Masdar TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9863.m3u8
-#EXTINF:-1,Al Tanasuh
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9883.m3u8
-#EXTINF:-1,Bin Othaimeen
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9890.m3u8
-#EXTINF:-1,Minhaj Al Noubouwa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9878.m3u8
-#EXTINF:-1,Peace TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9888.m3u8
-#EXTINF:-1,Thaqalayn TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9881.m3u8
-#EXTINF:-1,Al Sirat
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9862.m3u8
-#EXTINF:-1,Al Anwar
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/23141.m3u8
-#EXTINF:-1,Karbala
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/23140.m3u8
-#EXTINF:-1,Quran Hidaya French
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8823.m3u8
-#EXTINF:-1,Quran Hidaya English
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8824.m3u8
-#EXTINF:-1,-------- AR Atfal ---------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3483.m3u8
-#EXTINF:-1,Gulli Bil Arabie HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8210.m3u8
-#EXTINF:-1,Gulli Bil Arabie
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4345.m3u8
-#EXTINF:-1,Bein Baraem HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8231.m3u8
-#EXTINF:-1,Baraem
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3389.m3u8
-#EXTINF:-1,Cartoon Network
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3394.m3u8
-#EXTINF:-1,Bein Jeem HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8230.m3u8
-#EXTINF:-1,Touyour Baby HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3452.m3u8
-#EXTINF:-1,Touyour Al Jannah
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3432.m3u8
-#EXTINF:-1,Jeem
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2753.m3u8
-#EXTINF:-1,Hod Hod
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3448.m3u8
-#EXTINF:-1,Taha
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4334.m3u8
-#EXTINF:-1,Space Toon
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3459.m3u8
-#EXTINF:-1,Karameesh
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2768.m3u8
-#EXTINF:-1,Majed
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3930.m3u8
-#EXTINF:-1,Ajial
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2801.m3u8
-#EXTINF:-1,Mody Kids
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4278.m3u8
-#EXTINF:-1,--------- AR Orient -----------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3952.m3u8
-#EXTINF:-1,------ Egypt ------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/17960.m3u8
-#EXTINF:-1,ESC Egypt
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3443.m3u8
-#EXTINF:-1,Masr 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4343.m3u8
-#EXTINF:-1,Dream
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3423.m3u8
-#EXTINF:-1,Al Mehwar
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2815.m3u8
-#EXTINF:-1,Ten
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4342.m3u8
-#EXTINF:-1,Al Nahar One
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4311.m3u8
-#EXTINF:-1,Al Nahar Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4313.m3u8
-#EXTINF:-1,Al hayat
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3385.m3u8
-#EXTINF:-1,Al Hayat 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4266.m3u8
-#EXTINF:-1,Al Hayat Musalsalat
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3381.m3u8
-#EXTINF:-1,CBC
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3380.m3u8
-#EXTINF:-1,CBC Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4312.m3u8
-#EXTINF:-1,CBC Sofra
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4315.m3u8
-#EXTINF:-1,Panorama Food
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3383.m3u8
-#EXTINF:-1,ON TV Live
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2848.m3u8
-#EXTINF:-1,ON E TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6143.m3u8
-#EXTINF:-1,ON TV Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4335.m3u8
-#EXTINF:-1,DMC
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3080.m3u8
-#EXTINF:-1,Al Kahira Wal Nes
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4328.m3u8
-#EXTINF:-1,Al Kahira Wal Nes 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4338.m3u8
-#EXTINF:-1,Al Sharq
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3107.m3u8
-#EXTINF:-1,Sada Balad
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4321.m3u8
-#EXTINF:-1,Sada Al Balad Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4341.m3u8
-#EXTINF:-1,Al Shasha
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4283.m3u8
-#EXTINF:-1,Al Masrawia Aflam
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2803.m3u8
-#EXTINF:-1,Al Hayat Tawazon
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4352.m3u8
-#EXTINF:-1,Afak
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3387.m3u8
-#EXTINF:-1,Al Ghad
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9869.m3u8
-#EXTINF:-1,Nile TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4274.m3u8
-#EXTINF:-1,Nile Life
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4270.m3u8
-#EXTINF:-1,Nile Family
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4273.m3u8
-#EXTINF:-1,Nile Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4269.m3u8
-#EXTINF:-1,Nile Cultural
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4271.m3u8
-#EXTINF:-1,Nile Comedy
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4268.m3u8
-#EXTINF:-1,Nile Cinema
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4267.m3u8
-#EXTINF:-1,----- Syria ------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/17961.m3u8
-#EXTINF:-1,Syria Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2781.m3u8
-#EXTINF:-1,Syria Al Oula
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2779.m3u8
-#EXTINF:-1,Syria Shada Al Horiya
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2780.m3u8
-#EXTINF:-1,Syria Sham FM
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2786.m3u8
-#EXTINF:-1,Sama TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2783.m3u8
-#EXTINF:-1,Roya
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4317.m3u8
-#EXTINF:-1,Elmoled
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3428.m3u8
-#EXTINF:-1,Al Sharq Al Awsat
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8590.m3u8
-#EXTINF:-1,Fox Rewayat
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8661.m3u8
-#EXTINF:-1,--------- Gulf ----------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3950.m3u8
-#EXTINF:-1,Watan TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9870.m3u8
-#EXTINF:-1,Al Rayyan
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4279.m3u8
-#EXTINF:-1,Qatar
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3351.m3u8
-#EXTINF:-1,Saoudi 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4357.m3u8
-#EXTINF:-1,Saoudi 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4356.m3u8
-#EXTINF:-1,Wanasah
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3079.m3u8
-#EXTINF:-1,Al Amaken Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8652.m3u8
-#EXTINF:-1,Al Waha
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9874.m3u8
-#EXTINF:-1,Al Maaly
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9882.m3u8
-#EXTINF:-1,Family Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9877.m3u8
-#EXTINF:-1,Etihad TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9886.m3u8
-#EXTINF:-1,Funoon
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2802.m3u8
-#EXTINF:-1,Al Qaseem
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8234.m3u8
-#EXTINF:-1,Lana TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4349.m3u8
-#EXTINF:-1,Sharjah HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2792.m3u8
-#EXTINF:-1,Abou Dhabi TV HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3395.m3u8
-#EXTINF:-1,AD Drama HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2209.m3u8
-#EXTINF:-1,Dubai TV HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2754.m3u8
-#EXTINF:-1,Dubai One
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2755.m3u8
-#EXTINF:-1,Dubai Zaman
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3044.m3u8
-#EXTINF:-1,Al Istiqama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2211.m3u8
-#EXTINF:-1,Sama Dubai
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2797.m3u8
-#EXTINF:-1,National Geographic Abu Dhabi HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6074.m3u8
-#EXTINF:-1,Ajman
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4297.m3u8
-#EXTINF:-1,Al Emarate
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4261.m3u8
-#EXTINF:-1,Fujaira TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9884.m3u8
-#EXTINF:-1,DMC Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2793.m3u8
-#EXTINF:-1,KTV 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2794.m3u8
-#EXTINF:-1,KTV 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8656.m3u8
-#EXTINF:-1,KTV Ethraa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2795.m3u8
-#EXTINF:-1,KTV Al Majlis
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4291.m3u8
-#EXTINF:-1,Al Rai
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4280.m3u8
-#EXTINF:-1,Oman
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4358.m3u8
-#EXTINF:-1,Oman Culture
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4277.m3u8
-#EXTINF:-1,Oman Educational
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4302.m3u8
-#EXTINF:-1,Baghdad TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3463.m3u8
-#EXTINF:-1,A1 Jordan
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8844.m3u8
-#EXTINF:-1,Mekameleen
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/56574.m3u8
-#EXTINF:-1,Al Iraqia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3458.m3u8
-#EXTINF:-1,Al Rafidayn
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4359.m3u8
-#EXTINF:-1,Al Rasheed
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4327.m3u8
-#EXTINF:-1,Al Mawsiliyah
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8235.m3u8
-#EXTINF:-1,Dorar TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2805.m3u8
-#EXTINF:-1,Al Diyar
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3083.m3u8
-#EXTINF:-1,Iraq Future
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/20994.m3u8
-#EXTINF:-1,Aden TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2940.m3u8
-#EXTINF:-1,Belqees TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9889.m3u8
-#EXTINF:-1,--------- AR Cinema ----------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4524.m3u8
-#EXTINF:-1,ART Cinema
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4259.m3u8
-#EXTINF:-1,ART Aflam 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4260.m3u8
-#EXTINF:-1,ART Aflam 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4257.m3u8
-#EXTINF:-1,ART Hikayat
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4256.m3u8
-#EXTINF:-1,ART Hikayat 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4258.m3u8
-#EXTINF:-1,4G Aflam
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3439.m3u8
-#EXTINF:-1,Asia TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/25621.m3u8
-#EXTINF:-1,4G Cima
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/25620.m3u8
-#EXTINF:-1,B4U Aflam
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3427.m3u8
-#EXTINF:-1,B4U Plus
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4355.m3u8
-#EXTINF:-1,Musalsalat Tube
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4287.m3u8
-#EXTINF:-1,Cinema Pro
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4262.m3u8
-#EXTINF:-1,SBC
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4263.m3u8
-#EXTINF:-1,Masrawiya Aflam
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4293.m3u8
-#EXTINF:-1,Cima
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4323.m3u8
-#EXTINF:-1,4G Film
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4288.m3u8
-#EXTINF:-1,Cairo Cinema
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4309.m3u8
-#EXTINF:-1,Cairo Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4308.m3u8
-#EXTINF:-1,Panorama Film
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4332.m3u8
-#EXTINF:-1,Panorama Drama 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3384.m3u8
-#EXTINF:-1,Maspero Zaman
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4290.m3u8
-#EXTINF:-1,Free TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4289.m3u8
-#EXTINF:-1,ifilm
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4305.m3u8
-#EXTINF:-1,Zee Alwan
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3414.m3u8
-#EXTINF:-1,Zee Aflam
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4523.m3u8
-#EXTINF:-1,Toktok Cinema
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4307.m3u8
-#EXTINF:-1,Star Cinema 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4303.m3u8
-#EXTINF:-1,Star Cinema 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4324.m3u8
-#EXTINF:-1,Chada TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4320.m3u8
-#EXTINF:-1,Panorama Drama
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3081.m3u8
-#EXTINF:-1,Imagine Movies
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4347.m3u8
-#EXTINF:-1,--------- AR Music ----------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3951.m3u8
-#EXTINF:-1,Arabica
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4294.m3u8
-#EXTINF:-1,Mazzika
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3426.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/114599.m3u8
+#EXTINF:-1,SAT7 KIDS
+http://s1.electru.biz:8080/live/Jorge/12345678/114589.m3u8
+#EXTINF:-1,SEMSEM
+http://s1.electru.biz:8080/live/Jorge/12345678/114588.m3u8
+#EXTINF:-1,T?L? LIBAN
+http://s1.electru.biz:8080/live/Jorge/12345678/114598.m3u8
+#EXTINF:-1,2M
+http://s1.electru.biz:8080/live/Jorge/12345678/110825.m3u8
+#EXTINF:-1,4Shabab
+http://s1.electru.biz:8080/live/Jorge/12345678/110934.m3u8
+#EXTINF:-1,7besha Cima
+http://s1.electru.biz:8080/live/Jorge/12345678/110782.m3u8
+#EXTINF:-1,ABU DHABI DRAMA
+http://s1.electru.biz:8080/live/Jorge/12345678/111087.m3u8
+#EXTINF:-1,ABU DHABI TV HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111088.m3u8
+#EXTINF:-1,Aden Tv
+http://s1.electru.biz:8080/live/Jorge/12345678/110803.m3u8
+#EXTINF:-1,Adwa2
+http://s1.electru.biz:8080/live/Jorge/12345678/110907.m3u8
+#EXTINF:-1,Affaq
+http://s1.electru.biz:8080/live/Jorge/12345678/110959.m3u8
 #EXTINF:-1,Aghani
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2798.m3u8
-#EXTINF:-1,Afrah TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4325.m3u8
-#EXTINF:-1,Music Al Haneen
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4346.m3u8
-#EXTINF:-1,Hawacom
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/25618.m3u8
-#EXTINF:-1,Shabab TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3440.m3u8
-#EXTINF:-1,--------- AR News ---------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3486.m3u8
-#EXTINF:-1,Al Jazeera FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8653.m3u8
-#EXTINF:-1,Al Jazeera HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2813.m3u8
-#EXTINF:-1,Al Mayadeen
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3176.m3u8
-#EXTINF:-1,Al Manar
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2925.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/110736.m3u8
+#EXTINF:-1,Aghapy
+http://s1.electru.biz:8080/live/Jorge/12345678/111020.m3u8
+#EXTINF:-1,Ahel Al Quran
+http://s1.electru.biz:8080/live/Jorge/12345678/111019.m3u8
+#EXTINF:-1,AJMAN TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111079.m3u8
+#EXTINF:-1,Ajyal TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111018.m3u8
+#EXTINF:-1,AJYAL TV | PALESTINE
+http://s1.electru.biz:8080/live/Jorge/12345678/111006.m3u8
+#EXTINF:-1,Al Affasy TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111016.m3u8
+#EXTINF:-1,Al Ahd
+http://s1.electru.biz:8080/live/Jorge/12345678/111017.m3u8
+#EXTINF:-1,Al Ahly
+http://s1.electru.biz:8080/live/Jorge/12345678/111033.m3u8
 #EXTINF:-1,Al Alam
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3441.m3u8
-#EXTINF:-1,Al Arabiya HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2788.m3u8
-#EXTINF:-1,Al Hadath HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2742.m3u8
-#EXTINF:-1,BBC Arabic
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2752.m3u8
-#EXTINF:-1,RT Arabia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3462.m3u8
-#EXTINF:-1,CBC Extra News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4314.m3u8
-#EXTINF:-1,France 24
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4525.m3u8
-#EXTINF:-1,Al Jazeera Mubashir
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3105.m3u8
-#EXTINF:-1,Al Jazeera Documentary
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/1224.m3u8
-#EXTINF:-1,Sky News Arabia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3444.m3u8
-#EXTINF:-1,ANN
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4531.m3u8
-#EXTINF:-1,Orient News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3446.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111015.m3u8
+#EXTINF:-1,Al Aoula TV FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/110822.m3u8
 #EXTINF:-1,Al Aqsa TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6396.m3u8
-#EXTINF:-1,Al Quds
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2814.m3u8
-#EXTINF:-1,Palestine News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2819.m3u8
-#EXTINF:-1,Al Falastiniya
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2804.m3u8
-#EXTINF:-1,Palestine Mubasher
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8651.m3u8
-#EXTINF:-1,Palestine TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8650.m3u8
-#EXTINF:-1,Halab Today
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8655.m3u8
-#EXTINF:-1,Al Hurra HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3445.m3u8
-#EXTINF:-1,Saoudi 24
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4264.m3u8
-#EXTINF:-1,Al Charkia News HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2812.m3u8
-#EXTINF:-1,Sharqia News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4333.m3u8
-#EXTINF:-1,Al Nabaa
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2807.m3u8
-#EXTINF:-1,Al Hiwar
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3447.m3u8
-#EXTINF:-1,TRT Arabia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2673.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111014.m3u8
+#EXTINF:-1,Al Arabiya TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111012.m3u8
+#EXTINF:-1,Al Araby
+http://s1.electru.biz:8080/live/Jorge/12345678/111013.m3u8
+#EXTINF:-1,AL ASSEMA
+http://s1.electru.biz:8080/live/Jorge/12345678/111011.m3u8
+#EXTINF:-1,Al Basira
+http://s1.electru.biz:8080/live/Jorge/12345678/111010.m3u8
+#EXTINF:-1,Al Basra
+http://s1.electru.biz:8080/live/Jorge/12345678/111009.m3u8
+#EXTINF:-1,AL DAFRAH TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111078.m3u8
+#EXTINF:-1,AL EMARAT TV FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/111089.m3u8
+#EXTINF:-1,Al Etihad
+http://s1.electru.biz:8080/live/Jorge/12345678/110956.m3u8
+#EXTINF:-1,Al Fady
+http://s1.electru.biz:8080/live/Jorge/12345678/111007.m3u8
+#EXTINF:-1,Al Fallujah
+http://s1.electru.biz:8080/live/Jorge/12345678/110933.m3u8
+#EXTINF:-1,Al Falstiniah
+http://s1.electru.biz:8080/live/Jorge/12345678/111036.m3u8
+#EXTINF:-1,Al Forat TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110955.m3u8
+#EXTINF:-1,Al Fursan
+http://s1.electru.biz:8080/live/Jorge/12345678/111005.m3u8
 #EXTINF:-1,Al Ghadeer
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2937.m3u8
-#EXTINF:-1,DW
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3106.m3u8
-#EXTINF:-1,Syria News
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2782.m3u8
-#EXTINF:-1,Al Hayat Wel Nas
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4337.m3u8
-#EXTINF:-1,CGTN Arabic
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4286.m3u8
-#EXTINF:-1,Al Hurra Iraq
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8843.m3u8
-#EXTINF:-1,Hona Baghdad
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8842.m3u8
-#EXTINF:-1,Jordan Al Riadia
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8841.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111004.m3u8
+#EXTINF:-1,Al Hadath
+http://s1.electru.biz:8080/live/Jorge/12345678/111002.m3u8
+#EXTINF:-1,Al Hadath HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111003.m3u8
+#EXTINF:-1,Al Halba
+http://s1.electru.biz:8080/live/Jorge/12345678/110735.m3u8
+#EXTINF:-1,Al Hayah 1
+http://s1.electru.biz:8080/live/Jorge/12345678/110734.m3u8
+#EXTINF:-1,Al Hayah 2
+http://s1.electru.biz:8080/live/Jorge/12345678/110733.m3u8
+#EXTINF:-1,Al Hayah Muslsalat
+http://s1.electru.biz:8080/live/Jorge/12345678/110776.m3u8
+#EXTINF:-1,Al Hayah we Alnas
+http://s1.electru.biz:8080/live/Jorge/12345678/110732.m3u8
+#EXTINF:-1,Al Hayat
+http://s1.electru.biz:8080/live/Jorge/12345678/110760.m3u8
+#EXTINF:-1,Al Hayat 1
+http://s1.electru.biz:8080/live/Jorge/12345678/110888.m3u8
+#EXTINF:-1,Al Hayat 2
+http://s1.electru.biz:8080/live/Jorge/12345678/110887.m3u8
+#EXTINF:-1,Al Hiwar
+http://s1.electru.biz:8080/live/Jorge/12345678/110731.m3u8
+#EXTINF:-1,Al Hora
+http://s1.electru.biz:8080/live/Jorge/12345678/110954.m3u8
+#EXTINF:-1,Al Horreya
+http://s1.electru.biz:8080/live/Jorge/12345678/111001.m3u8
+#EXTINF:-1,Al iman
+http://s1.electru.biz:8080/live/Jorge/12345678/111008.m3u8
+#EXTINF:-1,Al Insen
+http://s1.electru.biz:8080/live/Jorge/12345678/110828.m3u8
+#EXTINF:-1,Al Jazeera Doc
+http://s1.electru.biz:8080/live/Jorge/12345678/110998.m3u8
+#EXTINF:-1,Al Jazeera Mubasher
+http://s1.electru.biz:8080/live/Jorge/12345678/110999.m3u8
+#EXTINF:-1,AL Jazeera TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111000.m3u8
+#EXTINF:-1,Al Kahera Wa Alnas
+http://s1.electru.biz:8080/live/Jorge/12345678/110729.m3u8
+#EXTINF:-1,Al Karma
+http://s1.electru.biz:8080/live/Jorge/12345678/110886.m3u8
+#EXTINF:-1,Al Karma TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110884.m3u8
+#EXTINF:-1,Al Karma TV US
+http://s1.electru.biz:8080/live/Jorge/12345678/110883.m3u8
+#EXTINF:-1,AL Karma.
+http://s1.electru.biz:8080/live/Jorge/12345678/110890.m3u8
+#EXTINF:-1,Al Kawthar
+http://s1.electru.biz:8080/live/Jorge/12345678/110953.m3u8
+#EXTINF:-1,Al Keraza TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110885.m3u8
+#EXTINF:-1,Al Maaly
+http://s1.electru.biz:8080/live/Jorge/12345678/110997.m3u8
+#EXTINF:-1,Al Maaref
+http://s1.electru.biz:8080/live/Jorge/12345678/110996.m3u8
+#EXTINF:-1,Al Magharibia News
+http://s1.electru.biz:8080/live/Jorge/12345678/110842.m3u8
+#EXTINF:-1,Al Magharibia TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110844.m3u8
+#EXTINF:-1,Al Maghribia 5 TV FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/110843.m3u8
+#EXTINF:-1,Al Maghribia TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110853.m3u8
+#EXTINF:-1,Al Malakoot TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110991.m3u8
+#EXTINF:-1,Al Masrwia Aflam
+http://s1.electru.biz:8080/live/Jorge/12345678/110777.m3u8
+#EXTINF:-1,Al Massar TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110990.m3u8
+#EXTINF:-1,Al Mawsleya
+http://s1.electru.biz:8080/live/Jorge/12345678/110952.m3u8
+#EXTINF:-1,Al Meedan
+http://s1.electru.biz:8080/live/Jorge/12345678/110989.m3u8
+#EXTINF:-1,Al Mehwar
+http://s1.electru.biz:8080/live/Jorge/12345678/110763.m3u8
+#EXTINF:-1,AL  MUSTAKILA
+http://s1.electru.biz:8080/live/Jorge/12345678/110988.m3u8
+#EXTINF:-1,Al Naba TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110762.m3u8
+#EXTINF:-1,Al Naeem
+http://s1.electru.biz:8080/live/Jorge/12345678/110951.m3u8
+#EXTINF:-1,AL Nahar
+http://s1.electru.biz:8080/live/Jorge/12345678/110761.m3u8
+#EXTINF:-1,AL Nahar Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110775.m3u8
+#EXTINF:-1,Al Najah NBC
+http://s1.electru.biz:8080/live/Jorge/12345678/110949.m3u8
+#EXTINF:-1,Al Nas
+http://s1.electru.biz:8080/live/Jorge/12345678/110727.m3u8
+#EXTINF:-1,Al Qamar
+http://s1.electru.biz:8080/live/Jorge/12345678/110948.m3u8
+#EXTINF:-1,Al Rahma
+http://s1.electru.biz:8080/live/Jorge/12345678/110987.m3u8
+#EXTINF:-1,Al Rai TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111058.m3u8
+#EXTINF:-1,Al Rasheed
+http://s1.electru.biz:8080/live/Jorge/12345678/110986.m3u8
+#EXTINF:-1,Al Resalah
+http://s1.electru.biz:8080/live/Jorge/12345678/110985.m3u8
+#EXTINF:-1,AL Salam
+http://s1.electru.biz:8080/live/Jorge/12345678/110984.m3u8
+#EXTINF:-1,Al Shahed Tv
+http://s1.electru.biz:8080/live/Jorge/12345678/111059.m3u8
+#EXTINF:-1,AL SHARJAH
+http://s1.electru.biz:8080/live/Jorge/12345678/111077.m3u8
+#EXTINF:-1,Al Sharqia News
+http://s1.electru.biz:8080/live/Jorge/12345678/110947.m3u8
+#EXTINF:-1,Al Sharqiyah
+http://s1.electru.biz:8080/live/Jorge/12345678/110946.m3u8
+#EXTINF:-1,Al Sirat
+http://s1.electru.biz:8080/live/Jorge/12345678/110945.m3u8
+#EXTINF:-1,Al Sumaria
+http://s1.electru.biz:8080/live/Jorge/12345678/110944.m3u8
+#EXTINF:-1,Al Taghier
+http://s1.electru.biz:8080/live/Jorge/12345678/110943.m3u8
+#EXTINF:-1,Al Waa3d
+http://s1.electru.biz:8080/live/Jorge/12345678/110983.m3u8
+#EXTINF:-1,AL-Quds Edu
+http://s1.electru.biz:8080/live/Jorge/12345678/110902.m3u8
+#EXTINF:-1,Alinssan
+http://s1.electru.biz:8080/live/Jorge/12345678/110730.m3u8
+#EXTINF:-1,Alkahera Wa Alnas 2
+http://s1.electru.biz:8080/live/Jorge/12345678/110728.m3u8
+#EXTINF:-1,Almagd TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110882.m3u8
+#EXTINF:-1,ANB
+http://s1.electru.biz:8080/live/Jorge/12345678/110942.m3u8
+#EXTINF:-1,ANN
+http://s1.electru.biz:8080/live/Jorge/12345678/110982.m3u8
+#EXTINF:-1,Arabica
+http://s1.electru.biz:8080/live/Jorge/12345678/110981.m3u8
+#EXTINF:-1,ARAMIYA (ABNSAT)
+http://s1.electru.biz:8080/live/Jorge/12345678/110889.m3u8
+#EXTINF:-1,Arriadia TV FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/111022.m3u8
+#EXTINF:-1,Arriadia TV HD
+http://s1.electru.biz:8080/live/Jorge/12345678/110821.m3u8
+#EXTINF:-1,Asia
+http://s1.electru.biz:8080/live/Jorge/12345678/110980.m3u8
+#EXTINF:-1,Assadissa TV FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/110820.m3u8
+#EXTINF:-1,Attesia TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110836.m3u8
+#EXTINF:-1,Awdeh
+http://s1.electru.biz:8080/live/Jorge/12345678/110979.m3u8
+#EXTINF:-1,Awhad
+http://s1.electru.biz:8080/live/Jorge/12345678/110941.m3u8
+#EXTINF:-1,Azhari
+http://s1.electru.biz:8080/live/Jorge/12345678/110978.m3u8
+#EXTINF:-1,B4u Aflam
+http://s1.electru.biz:8080/live/Jorge/12345678/110778.m3u8
+#EXTINF:-1,B4u Plus
+http://s1.electru.biz:8080/live/Jorge/12345678/110780.m3u8
+#EXTINF:-1,Baghdad
+http://s1.electru.biz:8080/live/Jorge/12345678/110940.m3u8
+#EXTINF:-1,Bahia Tv
+http://s1.electru.biz:8080/live/Jorge/12345678/110849.m3u8
+#EXTINF:-1,Bahrain International
+http://s1.electru.biz:8080/live/Jorge/12345678/111050.m3u8
+#EXTINF:-1,Bahrain Sport
+http://s1.electru.biz:8080/live/Jorge/12345678/111034.m3u8
+#EXTINF:-1,Bahrain TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111051.m3u8
+#EXTINF:-1,Baraem
+http://s1.electru.biz:8080/live/Jorge/12345678/110974.m3u8
+#EXTINF:-1,BBC Arabic
+http://s1.electru.biz:8080/live/Jorge/12345678/110973.m3u8
+#EXTINF:-1,Belqees News
+http://s1.electru.biz:8080/live/Jorge/12345678/110903.m3u8
+#EXTINF:-1,Berbere Jeunesse TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110858.m3u8
+#EXTINF:-1,Berbere TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110857.m3u8
+#EXTINF:-1,Beur TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110851.m3u8
+#EXTINF:-1,Bin Othmaien
+http://s1.electru.biz:8080/live/Jorge/12345678/110972.m3u8
+#EXTINF:-1,Cairo Aflam
+http://s1.electru.biz:8080/live/Jorge/12345678/110799.m3u8
+#EXTINF:-1,Cairo Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110772.m3u8
+#EXTINF:-1,Canal Algerie
+http://s1.electru.biz:8080/live/Jorge/12345678/110862.m3u8
+#EXTINF:-1,Carthage TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110832.m3u8
+#EXTINF:-1,CBC
+http://s1.electru.biz:8080/live/Jorge/12345678/110758.m3u8
+#EXTINF:-1,CBC Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110771.m3u8
+#EXTINF:-1,CBC Extra
+http://s1.electru.biz:8080/live/Jorge/12345678/110756.m3u8
+#EXTINF:-1,CBC Sofra
+http://s1.electru.biz:8080/live/Jorge/12345678/110757.m3u8
+#EXTINF:-1,Chams Tv
+http://s1.electru.biz:8080/live/Jorge/12345678/110850.m3u8
+#EXTINF:-1,Charles Aznavour
+http://s1.electru.biz:8080/live/Jorge/12345678/110866.m3u8
+#EXTINF:-1,China Arab TV (CATV)
+http://s1.electru.biz:8080/live/Jorge/12345678/110804.m3u8
+#EXTINF:-1,Christ TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110881.m3u8
+#EXTINF:-1,Cima
+http://s1.electru.biz:8080/live/Jorge/12345678/110798.m3u8
+#EXTINF:-1,Cima Alibaba
+http://s1.electru.biz:8080/live/Jorge/12345678/110797.m3u8
+#EXTINF:-1,Cinema 1
+http://s1.electru.biz:8080/live/Jorge/12345678/110795.m3u8
+#EXTINF:-1,Cinema 2
+http://s1.electru.biz:8080/live/Jorge/12345678/110794.m3u8
+#EXTINF:-1,Cinema Pro
+http://s1.electru.biz:8080/live/Jorge/12345678/110796.m3u8
+#EXTINF:-1,CN Arabia
+http://s1.electru.biz:8080/live/Jorge/12345678/110971.m3u8
 #EXTINF:-1,CNBC
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4526.m3u8
-#EXTINF:-1,---------- AR Sports ---------
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3482.m3u8
-#EXTINF:-1,Bein Sports News HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2745.m3u8
-#EXTINF:-1,beINSports 1 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51918.m3u8
-#EXTINF:-1,beIN SPORTS HD 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15664.m3u8
-#EXTINF:-1,beINSports 2 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51917.m3u8
-#EXTINF:-1,beIN SPORTS HD 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15663.m3u8
-#EXTINF:-1,beINSports 3 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51916.m3u8
-#EXTINF:-1,beIN SPORTS HD 3
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15662.m3u8
-#EXTINF:-1,beINSports 4 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51915.m3u8
-#EXTINF:-1,beIN SPORTS HD 4
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15661.m3u8
-#EXTINF:-1,beINSports 5 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51914.m3u8
-#EXTINF:-1,beIN SPORTS HD 5
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15660.m3u8
-#EXTINF:-1,beINSports 6 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51913.m3u8
-#EXTINF:-1,beIN SPORTS HD 6
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15659.m3u8
-#EXTINF:-1,beINSports 7 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51912.m3u8
-#EXTINF:-1,beIN SPORTS HD 7
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15658.m3u8
-#EXTINF:-1,beINSports 8 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51911.m3u8
-#EXTINF:-1,beIN SPORTS HD 8
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15657.m3u8
-#EXTINF:-1,beINSports 9 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51910.m3u8
-#EXTINF:-1,beIN SPORTS HD 9
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15656.m3u8
-#EXTINF:-1,beINSports 10 FHD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/51909.m3u8
-#EXTINF:-1,beIN SPORTS HD 10
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15655.m3u8
-#EXTINF:-1,beINSports 13 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8592.m3u8
-#EXTINF:-1,beINSports 14 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8593.m3u8
-#EXTINF:-1,beIN Sports 15 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3012.m3u8
-#EXTINF:-1,BeoutQ 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/114073.m3u8
-#EXTINF:-1,BeoutQ 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/114072.m3u8
-#EXTINF:-1,BeoutQ 3 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/114071.m3u8
-#EXTINF:-1,BeoutQ 4 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/114070.m3u8
-#EXTINF:-1,BeoutQ 5 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/114069.m3u8
-#EXTINF:-1,BeoutQ 6 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/114068.m3u8
-#EXTINF:-1,BeoutQ 7 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/114067.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8073.m3u8
-#EXTINF:-1,BEIN SPORTS 1 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8074.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8075.m3u8
-#EXTINF:-1,BEIN SPORTS 2 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8076.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8077.m3u8
-#EXTINF:-1,BEIN SPORTS 3 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8078.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8079.m3u8
-#EXTINF:-1,BEIN SPORTS 4 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8080.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8081.m3u8
-#EXTINF:-1,BEIN SPORTS 5 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8082.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8083.m3u8
-#EXTINF:-1,BEIN SPORTS 6 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8084.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8085.m3u8
-#EXTINF:-1,BEIN SPORTS 7 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8086.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8087.m3u8
-#EXTINF:-1,BEIN SPORTS 8 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8088.m3u8
-#EXTINF:-1,BEIN SPORTS 9 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8089.m3u8
-#EXTINF:-1,BEIN SPORTS 9 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8090.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8091.m3u8
-#EXTINF:-1,BEIN SPORTS 10 HDS
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8185.m3u8
-#EXTINF:-1,AD Sports 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7855.m3u8
-#EXTINF:-1,AD Sports 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7854.m3u8
-#EXTINF:-1,AD Sports 3 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8664.m3u8
-#EXTINF:-1,AD Sports 4 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8665.m3u8
-#EXTINF:-1,AD Sports 5 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8666.m3u8
-#EXTINF:-1,Al Kaas 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4638.m3u8
-#EXTINF:-1,Al Kaas 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4639.m3u8
-#EXTINF:-1,Al Kaas 3 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5920.m3u8
-#EXTINF:-1,Al Kaas 4 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4301.m3u8
-#EXTINF:-1,Al Kaas 5 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/5921.m3u8
-#EXTINF:-1,OnSport HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/9637.m3u8
-#EXTINF:-1,DMC Sports
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/15452.m3u8
-#EXTINF:-1,Dubai Sports HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/7833.m3u8
-#EXTINF:-1,SA 24 Sport TV
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/28246.m3u8
-#EXTINF:-1,Kuwait Sports
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/28252.m3u8
-#EXTINF:-1,Bein Sports 1 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4658.m3u8
-#EXTINF:-1,Bein Sports 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2602.m3u8
-#EXTINF:-1,Bein Sports 2 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4659.m3u8
-#EXTINF:-1,Bein Sports 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3084.m3u8
-#EXTINF:-1,Bein Sports 3 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4660.m3u8
-#EXTINF:-1,Bein Sports 3
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2825.m3u8
-#EXTINF:-1,Bein Sports 4 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4661.m3u8
-#EXTINF:-1,Bein Sports 4
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3085.m3u8
-#EXTINF:-1,Bein Sports 5 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4662.m3u8
-#EXTINF:-1,Bein Sports 5
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3086.m3u8
-#EXTINF:-1,Bein Sports 6 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4663.m3u8
-#EXTINF:-1,Bein Sports 6
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3087.m3u8
-#EXTINF:-1,Bein Sports 7 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4664.m3u8
-#EXTINF:-1,Bein Sports 7
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3088.m3u8
-#EXTINF:-1,Bein Sports 8 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4665.m3u8
-#EXTINF:-1,Bein Sports 8
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3089.m3u8
-#EXTINF:-1,Bein Sports 9 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4666.m3u8
-#EXTINF:-1,Bein Sports 9
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3090.m3u8
-#EXTINF:-1,Bein Sports 10 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4667.m3u8
-#EXTINF:-1,Bein Sports 10
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3091.m3u8
-#EXTINF:-1,Bein Sports 14 HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4657.m3u8
-#EXTINF:-1,Bein Sports Global HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3094.m3u8
-#EXTINF:-1,Oman Sports
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3424.m3u8
-#EXTINF:-1,Dubai Sports 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3955.m3u8
-#EXTINF:-1,Dubai Sports 3
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2787.m3u8
-#EXTINF:-1,Dubai Sports 4
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3953.m3u8
-#EXTINF:-1,AD Sports 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3460.m3u8
-#EXTINF:-1,AD Sports 2
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/3461.m3u8
-#EXTINF:-1,Yas Sports HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/6142.m3u8
-#EXTINF:-1,Dubai Racing
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2747.m3u8
-#EXTINF:-1,Sharjah Sports HD
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/2785.m3u8
-#EXTINF:-1,Saudi Sport 1
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/8654.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/110970.m3u8
+#EXTINF:-1,Coptic Sat
+http://s1.electru.biz:8080/live/Jorge/12345678/110880.m3u8
+#EXTINF:-1,CTV
+http://s1.electru.biz:8080/live/Jorge/12345678/110969.m3u8
+#EXTINF:-1,CYC TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110879.m3u8
+#EXTINF:-1,Dijlah
+http://s1.electru.biz:8080/live/Jorge/12345678/110939.m3u8
+#EXTINF:-1,Dmc Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110770.m3u8
+#EXTINF:-1,Dmc Sport
+http://s1.electru.biz:8080/live/Jorge/12345678/111032.m3u8
+#EXTINF:-1,Dmc TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110754.m3u8
+#EXTINF:-1,Dream
+http://s1.electru.biz:8080/live/Jorge/12345678/110755.m3u8
+#EXTINF:-1,DUBAI  ONE
+http://s1.electru.biz:8080/live/Jorge/12345678/111084.m3u8
+#EXTINF:-1,Dubai Racing 1
+http://s1.electru.biz:8080/live/Jorge/12345678/111021.m3u8
+#EXTINF:-1,DUBAI  TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111086.m3u8
+#EXTINF:-1,DUBAI ZAMAN
+http://s1.electru.biz:8080/live/Jorge/12345678/111083.m3u8
+#EXTINF:-1,DW TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110968.m3u8
+#EXTINF:-1,Dzaier TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110859.m3u8
+#EXTINF:-1,Dzair News
+http://s1.electru.biz:8080/live/Jorge/12345678/110967.m3u8
+#EXTINF:-1,Dzzair News
+http://s1.electru.biz:8080/live/Jorge/12345678/110856.m3u8
+#EXTINF:-1,Echorouk Benna
+http://s1.electru.biz:8080/live/Jorge/12345678/110846.m3u8
+#EXTINF:-1,Echourouk News
+http://s1.electru.biz:8080/live/Jorge/12345678/110855.m3u8
+#EXTINF:-1,Echourouk TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110847.m3u8
+#EXTINF:-1,Egy 1 TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110723.m3u8
+#EXTINF:-1,Egy 2 TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110722.m3u8
+#EXTINF:-1,Egy Al Delta
+http://s1.electru.biz:8080/live/Jorge/12345678/110753.m3u8
+#EXTINF:-1,Egy Al eskandria
+http://s1.electru.biz:8080/live/Jorge/12345678/110752.m3u8
+#EXTINF:-1,Egy Al Kahera
+http://s1.electru.biz:8080/live/Jorge/12345678/110719.m3u8
+#EXTINF:-1,Egy Al Masriyah
+http://s1.electru.biz:8080/live/Jorge/12345678/110751.m3u8
+#EXTINF:-1,Egy Tebah
+http://s1.electru.biz:8080/live/Jorge/12345678/110750.m3u8
+#EXTINF:-1,EL Djazairia One
+http://s1.electru.biz:8080/live/Jorge/12345678/110860.m3u8
+#EXTINF:-1,EL HEDDAF  TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111023.m3u8
+#EXTINF:-1,Elhiwar Ettounsi
+http://s1.electru.biz:8080/live/Jorge/12345678/110839.m3u8
+#EXTINF:-1,Elmaqar TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110878.m3u8
+#EXTINF:-1,Elsharq
+http://s1.electru.biz:8080/live/Jorge/12345678/110749.m3u8
+#EXTINF:-1,Eman Channel UK
+http://s1.electru.biz:8080/live/Jorge/12345678/110877.m3u8
+#EXTINF:-1,Ennahar News
+http://s1.electru.biz:8080/live/Jorge/12345678/110854.m3u8
+#EXTINF:-1,ENTV
+http://s1.electru.biz:8080/live/Jorge/12345678/110861.m3u8
+#EXTINF:-1,Euronews
+http://s1.electru.biz:8080/live/Jorge/12345678/110966.m3u8
+#EXTINF:-1,Fayrouz Album
+http://s1.electru.biz:8080/live/Jorge/12345678/110867.m3u8
+#EXTINF:-1,France 24°
+http://s1.electru.biz:8080/live/Jorge/12345678/110965.m3u8
+#EXTINF:-1,Funoon TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111060.m3u8
+#EXTINF:-1,Good Samaritan
+http://s1.electru.biz:8080/live/Jorge/12345678/110876.m3u8
+#EXTINF:-1,Gulli Arabic
+http://s1.electru.biz:8080/live/Jorge/12345678/110800.m3u8
+#EXTINF:-1,Hannibal TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110838.m3u8
+#EXTINF:-1,Hareem Alsultan
+http://s1.electru.biz:8080/live/Jorge/12345678/110764.m3u8
+#EXTINF:-1,Hawacom
+http://s1.electru.biz:8080/live/Jorge/12345678/110748.m3u8
+#EXTINF:-1,HodHod Europe
+http://s1.electru.biz:8080/live/Jorge/12345678/110869.m3u8
+#EXTINF:-1,Hona Baghdad
+http://s1.electru.biz:8080/live/Jorge/12345678/110936.m3u8
+#EXTINF:-1,Huda TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110963.m3u8
+#EXTINF:-1,Huda TV SD
+http://s1.electru.biz:8080/live/Jorge/12345678/110962.m3u8
+#EXTINF:-1,Iqraa TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110960.m3u8
+#EXTINF:-1,Iraq ALanbar
+http://s1.electru.biz:8080/live/Jorge/12345678/110958.m3u8
+#EXTINF:-1,Iraq Alanwar
+http://s1.electru.biz:8080/live/Jorge/12345678/110957.m3u8
+#EXTINF:-1,Iraq Alnahar
+http://s1.electru.biz:8080/live/Jorge/12345678/110950.m3u8
+#EXTINF:-1,Iraq Edu
+http://s1.electru.biz:8080/live/Jorge/12345678/110938.m3u8
+#EXTINF:-1,Iraq Future
+http://s1.electru.biz:8080/live/Jorge/12345678/110937.m3u8
+#EXTINF:-1,Iraq News
+http://s1.electru.biz:8080/live/Jorge/12345678/110935.m3u8
+#EXTINF:-1,Iraq Sport
+http://s1.electru.biz:8080/live/Jorge/12345678/111031.m3u8
+#EXTINF:-1,Iraqia TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110932.m3u8
+#EXTINF:-1,Islam Channel UK
+http://s1.electru.biz:8080/live/Jorge/12345678/110931.m3u8
+#EXTINF:-1,Janoubia TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110831.m3u8
+#EXTINF:-1,Jawhara FM
+http://s1.electru.biz:8080/live/Jorge/12345678/110827.m3u8
+#EXTINF:-1,Jeem Europe
+http://s1.electru.biz:8080/live/Jorge/12345678/110868.m3u8
+#EXTINF:-1,Jordan Noor
+http://s1.electru.biz:8080/live/Jorge/12345678/110929.m3u8
+#EXTINF:-1,Jordan ONE
+http://s1.electru.biz:8080/live/Jorge/12345678/110927.m3u8
+#EXTINF:-1,Jordan Sport
+http://s1.electru.biz:8080/live/Jorge/12345678/111030.m3u8
+#EXTINF:-1,Jordan TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110930.m3u8
+#EXTINF:-1,KBC TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110852.m3u8
+#EXTINF:-1,Kidzinia
+http://s1.electru.biz:8080/live/Jorge/12345678/110926.m3u8
+#EXTINF:-1,Koogi TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110875.m3u8
+#EXTINF:-1,Kuwait 1
+http://s1.electru.biz:8080/live/Jorge/12345678/111065.m3u8
+#EXTINF:-1,Kuwait 2
+http://s1.electru.biz:8080/live/Jorge/12345678/111064.m3u8
+#EXTINF:-1,Kuwait Al Arabi
+http://s1.electru.biz:8080/live/Jorge/12345678/111063.m3u8
+#EXTINF:-1,Kuwait Ethraa
+http://s1.electru.biz:8080/live/Jorge/12345678/111062.m3u8
+#EXTINF:-1,Kuwait Plus
+http://s1.electru.biz:8080/live/Jorge/12345678/111061.m3u8
+#EXTINF:-1,Kuwait Sport
+http://s1.electru.biz:8080/live/Jorge/12345678/111029.m3u8
+#EXTINF:-1,Libya 218
+http://s1.electru.biz:8080/live/Jorge/12345678/110818.m3u8
+#EXTINF:-1,Libya Ahrar
+http://s1.electru.biz:8080/live/Jorge/12345678/110813.m3u8
+#EXTINF:-1,Libya Al Rasmia
+http://s1.electru.biz:8080/live/Jorge/12345678/110817.m3u8
+#EXTINF:-1,Libya Al Watanya
+http://s1.electru.biz:8080/live/Jorge/12345678/110816.m3u8
+#EXTINF:-1,Libya Channel
+http://s1.electru.biz:8080/live/Jorge/12345678/110812.m3u8
+#EXTINF:-1,Libya One
+http://s1.electru.biz:8080/live/Jorge/12345678/110815.m3u8
+#EXTINF:-1,Libya Panorama
+http://s1.electru.biz:8080/live/Jorge/12345678/110814.m3u8
+#EXTINF:-1,Logos TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110874.m3u8
+#EXTINF:-1,LTC
+http://s1.electru.biz:8080/live/Jorge/12345678/110747.m3u8
+#EXTINF:-1,M Tunissa
+http://s1.electru.biz:8080/live/Jorge/12345678/110835.m3u8
+#EXTINF:-1,Maan News
+http://s1.electru.biz:8080/live/Jorge/12345678/110906.m3u8
+#EXTINF:-1,Majan
+http://s1.electru.biz:8080/live/Jorge/12345678/111046.m3u8
+#EXTINF:-1,Malkoot TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110873.m3u8
+#EXTINF:-1,Mazzika
+http://s1.electru.biz:8080/live/Jorge/12345678/110746.m3u8
+#EXTINF:-1,MBC 1
+http://s1.electru.biz:8080/live/Jorge/12345678/110925.m3u8
+#EXTINF:-1,MBC 2
+http://s1.electru.biz:8080/live/Jorge/12345678/110924.m3u8
+#EXTINF:-1,MBC 3
+http://s1.electru.biz:8080/live/Jorge/12345678/110923.m3u8
+#EXTINF:-1,MBC 4
+http://s1.electru.biz:8080/live/Jorge/12345678/110922.m3u8
+#EXTINF:-1,MBC Action
+http://s1.electru.biz:8080/live/Jorge/12345678/110921.m3u8
+#EXTINF:-1,MBC Bollywood
+http://s1.electru.biz:8080/live/Jorge/12345678/110920.m3u8
+#EXTINF:-1,MBC Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110919.m3u8
+#EXTINF:-1,MBC Max
+http://s1.electru.biz:8080/live/Jorge/12345678/110917.m3u8
+#EXTINF:-1,MBC Variety
+http://s1.electru.biz:8080/live/Jorge/12345678/110918.m3u8
+#EXTINF:-1,Medi 1
+http://s1.electru.biz:8080/live/Jorge/12345678/110824.m3u8
+#EXTINF:-1,Melody Aflam
+http://s1.electru.biz:8080/live/Jorge/12345678/110793.m3u8
+#EXTINF:-1,Melody Classic
+http://s1.electru.biz:8080/live/Jorge/12345678/110792.m3u8
+#EXTINF:-1,Melody Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110767.m3u8
+#EXTINF:-1,Melody Hits
+http://s1.electru.biz:8080/live/Jorge/12345678/110745.m3u8
+#EXTINF:-1,Menhag Alnbowa
+http://s1.electru.biz:8080/live/Jorge/12345678/110916.m3u8
+#EXTINF:-1,Miracle
+http://s1.electru.biz:8080/live/Jorge/12345678/110915.m3u8
+#EXTINF:-1,Miracle TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110872.m3u8
+#EXTINF:-1,Misr Al Zera3ya
+http://s1.electru.biz:8080/live/Jorge/12345678/110744.m3u8
+#EXTINF:-1,Mkamleen
+http://s1.electru.biz:8080/live/Jorge/12345678/110721.m3u8
+#EXTINF:-1,Moga Comedy
+http://s1.electru.biz:8080/live/Jorge/12345678/110743.m3u8
+#EXTINF:-1,Mosaique_FM
+http://s1.electru.biz:8080/live/Jorge/12345678/110826.m3u8
+#EXTINF:-1,Musawa
+http://s1.electru.biz:8080/live/Jorge/12345678/110914.m3u8
+#EXTINF:-1,Nablus Live
+http://s1.electru.biz:8080/live/Jorge/12345678/110905.m3u8
+#EXTINF:-1,NAT GEO ABU DHABI FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/111081.m3u8
+#EXTINF:-1,Nessma TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110837.m3u8
+#EXTINF:-1,Nile Cinma
+http://s1.electru.biz:8080/live/Jorge/12345678/110791.m3u8
+#EXTINF:-1,Nile Comedy
+http://s1.electru.biz:8080/live/Jorge/12345678/110790.m3u8
+#EXTINF:-1,Nile Culture
+http://s1.electru.biz:8080/live/Jorge/12345678/110742.m3u8
+#EXTINF:-1,Nile Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110768.m3u8
+#EXTINF:-1,Nile Family
+http://s1.electru.biz:8080/live/Jorge/12345678/110759.m3u8
+#EXTINF:-1,Nile Life
+http://s1.electru.biz:8080/live/Jorge/12345678/110741.m3u8
+#EXTINF:-1,Nile News
+http://s1.electru.biz:8080/live/Jorge/12345678/110913.m3u8
 #EXTINF:-1,Nile Sport
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4272.m3u8
-#EXTINF:-1,Modern Sport
-http://clientbox.tv:80/live/R3iFUw9egV/uOyijX2ohY/4344.m3u8
+http://s1.electru.biz:8080/live/Jorge/12345678/111028.m3u8
+#EXTINF:-1,NOOR DUBAI
+http://s1.electru.biz:8080/live/Jorge/12345678/111082.m3u8
+#EXTINF:-1,Nour alSham
+http://s1.electru.biz:8080/live/Jorge/12345678/110909.m3u8
+#EXTINF:-1,Noursat
+http://s1.electru.biz:8080/live/Jorge/12345678/110912.m3u8
+#EXTINF:-1,Noursat al Qouds
+http://s1.electru.biz:8080/live/Jorge/12345678/110910.m3u8
+#EXTINF:-1,Noursat Chabab
+http://s1.electru.biz:8080/live/Jorge/12345678/110911.m3u8
+#EXTINF:-1,Numedia TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110848.m3u8
+#EXTINF:-1,Oman Cultural
+http://s1.electru.biz:8080/live/Jorge/12345678/111047.m3u8
+#EXTINF:-1,Oman Live
+http://s1.electru.biz:8080/live/Jorge/12345678/111048.m3u8
+#EXTINF:-1,Oman Sport
+http://s1.electru.biz:8080/live/Jorge/12345678/111027.m3u8
+#EXTINF:-1,Oman TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111049.m3u8
+#EXTINF:-1,On E
+http://s1.electru.biz:8080/live/Jorge/12345678/110766.m3u8
+#EXTINF:-1,On Live
+http://s1.electru.biz:8080/live/Jorge/12345678/110739.m3u8
+#EXTINF:-1,ON Sport HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111026.m3u8
+#EXTINF:-1,ON TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110740.m3u8
+#EXTINF:-1,Orient FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/110908.m3u8
+#EXTINF:-1,Palestine Kofiya
+http://s1.electru.biz:8080/live/Jorge/12345678/111035.m3u8
+#EXTINF:-1,Palestine Live
+http://s1.electru.biz:8080/live/Jorge/12345678/111039.m3u8
+#EXTINF:-1,Palestine Sport
+http://s1.electru.biz:8080/live/Jorge/12345678/110964.m3u8
+#EXTINF:-1,Palestine Today
+http://s1.electru.biz:8080/live/Jorge/12345678/111037.m3u8
+#EXTINF:-1,Palestine TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111040.m3u8
+#EXTINF:-1,Panorama Comedy
+http://s1.electru.biz:8080/live/Jorge/12345678/110738.m3u8
+#EXTINF:-1,Panorama Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110774.m3u8
+#EXTINF:-1,Panorama Drama 2
+http://s1.electru.biz:8080/live/Jorge/12345678/110773.m3u8
+#EXTINF:-1,Panorama Film
+http://s1.electru.biz:8080/live/Jorge/12345678/110789.m3u8
+#EXTINF:-1,Panorama Food
+http://s1.electru.biz:8080/live/Jorge/12345678/110737.m3u8
+#EXTINF:-1,Peace
+http://s1.electru.biz:8080/live/Jorge/12345678/110904.m3u8
+#EXTINF:-1,Qatar Al Rayyan
+http://s1.electru.biz:8080/live/Jorge/12345678/111067.m3u8
+#EXTINF:-1,Qatar TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111068.m3u8
+#EXTINF:-1,QUEST ARABIA
+http://s1.electru.biz:8080/live/Jorge/12345678/111080.m3u8
+#EXTINF:-1,Quran Hidayah English
+http://s1.electru.biz:8080/live/Jorge/12345678/110961.m3u8
+#EXTINF:-1,Ro2ya
+http://s1.electru.biz:8080/live/Jorge/12345678/110928.m3u8
+#EXTINF:-1,Rock Sat TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110871.m3u8
+#EXTINF:-1,Rotana Cinema
+http://s1.electru.biz:8080/live/Jorge/12345678/110977.m3u8
+#EXTINF:-1,Rotana Classic
+http://s1.electru.biz:8080/live/Jorge/12345678/110976.m3u8
+#EXTINF:-1,Rotana Khaliji
+http://s1.electru.biz:8080/live/Jorge/12345678/110975.m3u8
+#EXTINF:-1,Rotana Masriya
+http://s1.electru.biz:8080/live/Jorge/12345678/110901.m3u8
+#EXTINF:-1,Rotana Music
+http://s1.electru.biz:8080/live/Jorge/12345678/110900.m3u8
+#EXTINF:-1,Russia Today
+http://s1.electru.biz:8080/live/Jorge/12345678/110899.m3u8
+#EXTINF:-1,Sada Drama
+http://s1.electru.biz:8080/live/Jorge/12345678/110769.m3u8
+#EXTINF:-1,Sada Elbalad
+http://s1.electru.biz:8080/live/Jorge/12345678/110720.m3u8
+#EXTINF:-1,Safaa TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110898.m3u8
+#EXTINF:-1,SAMA  DUBAI
+http://s1.electru.biz:8080/live/Jorge/12345678/111085.m3u8
+#EXTINF:-1,Samira TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110845.m3u8
+#EXTINF:-1,SAT7 KIDS
+http://s1.electru.biz:8080/live/Jorge/12345678/111091.m3u8
+#EXTINF:-1,Sat7 TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110897.m3u8
+#EXTINF:-1,SAUDI  24
+http://s1.electru.biz:8080/live/Jorge/12345678/111074.m3u8
+#EXTINF:-1,SAUDI AJYAL
+http://s1.electru.biz:8080/live/Jorge/12345678/111071.m3u8
+#EXTINF:-1,Saudi News
+http://s1.electru.biz:8080/live/Jorge/12345678/111069.m3u8
+#EXTINF:-1,Saudi Quran
+http://s1.electru.biz:8080/live/Jorge/12345678/111070.m3u8
+#EXTINF:-1,SAUDI TV 1
+http://s1.electru.biz:8080/live/Jorge/12345678/111076.m3u8
+#EXTINF:-1,SAUDI TV 2
+http://s1.electru.biz:8080/live/Jorge/12345678/111075.m3u8
+#EXTINF:-1,SBC HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111073.m3u8
+#EXTINF:-1,SBC SD
+http://s1.electru.biz:8080/live/Jorge/12345678/111072.m3u8
+#EXTINF:-1,SEMSEM
+http://s1.electru.biz:8080/live/Jorge/12345678/111090.m3u8
+#EXTINF:-1,Sha3beyat
+http://s1.electru.biz:8080/live/Jorge/12345678/110726.m3u8
+#EXTINF:-1,Sky News Arabiya
+http://s1.electru.biz:8080/live/Jorge/12345678/110896.m3u8
+#EXTINF:-1,Spacetoon
+http://s1.electru.biz:8080/live/Jorge/12345678/110895.m3u8
+#EXTINF:-1,Star Cinema 1
+http://s1.electru.biz:8080/live/Jorge/12345678/110788.m3u8
+#EXTINF:-1,Star Cinema 2
+http://s1.electru.biz:8080/live/Jorge/12345678/110787.m3u8
+#EXTINF:-1,Sudan Blue Nile
+http://s1.electru.biz:8080/live/Jorge/12345678/110810.m3u8
+#EXTINF:-1,Sudan Jazeera Green
+http://s1.electru.biz:8080/live/Jorge/12345678/110809.m3u8
+#EXTINF:-1,Sudan Kassala
+http://s1.electru.biz:8080/live/Jorge/12345678/110808.m3u8
+#EXTINF:-1,Sudan Knowledge
+http://s1.electru.biz:8080/live/Jorge/12345678/110807.m3u8
+#EXTINF:-1,Sudan Music
+http://s1.electru.biz:8080/live/Jorge/12345678/110805.m3u8
+#EXTINF:-1,Sudan Om Dorman
+http://s1.electru.biz:8080/live/Jorge/12345678/110806.m3u8
+#EXTINF:-1,SUDAN SPORT
+http://s1.electru.biz:8080/live/Jorge/12345678/111025.m3u8
+#EXTINF:-1,Sudan TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110811.m3u8
+#EXTINF:-1,Suhail TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111052.m3u8
+#EXTINF:-1,Tamazight TV FHD
+http://s1.electru.biz:8080/live/Jorge/12345678/110819.m3u8
+#EXTINF:-1,Tele Maroc
+http://s1.electru.biz:8080/live/Jorge/12345678/110823.m3u8
+#EXTINF:-1,Telvza TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110834.m3u8
+#EXTINF:-1,Ten
+http://s1.electru.biz:8080/live/Jorge/12345678/110725.m3u8
+#EXTINF:-1,The Way Sat
+http://s1.electru.biz:8080/live/Jorge/12345678/110870.m3u8
+#EXTINF:-1,Time Classic
+http://s1.electru.biz:8080/live/Jorge/12345678/110786.m3u8
+#EXTINF:-1,TokTok Aflam
+http://s1.electru.biz:8080/live/Jorge/12345678/110785.m3u8
+#EXTINF:-1,TokTok Cima
+http://s1.electru.biz:8080/live/Jorge/12345678/110784.m3u8
+#EXTINF:-1,Tounesna TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110833.m3u8
+#EXTINF:-1,Toyor Al Janah
+http://s1.electru.biz:8080/live/Jorge/12345678/110892.m3u8
+#EXTINF:-1,Toyor Baby
+http://s1.electru.biz:8080/live/Jorge/12345678/110893.m3u8
+#EXTINF:-1,TRT Arabic
+http://s1.electru.biz:8080/live/Jorge/12345678/110894.m3u8
+#EXTINF:-1,Tube Cinema
+http://s1.electru.biz:8080/live/Jorge/12345678/110783.m3u8
+#EXTINF:-1,Tube Mosalsalat
+http://s1.electru.biz:8080/live/Jorge/12345678/110765.m3u8
+#EXTINF:-1,TV A3
+http://s1.electru.biz:8080/live/Jorge/12345678/110865.m3u8
+#EXTINF:-1,TV A4
+http://s1.electru.biz:8080/live/Jorge/12345678/110864.m3u8
+#EXTINF:-1,TV A5
+http://s1.electru.biz:8080/live/Jorge/12345678/110863.m3u8
+#EXTINF:-1,V3: Al Kass Five HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111041.m3u8
+#EXTINF:-1,V3: Al Kass One HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111043.m3u8
+#EXTINF:-1,V3: Al Kass Two HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111042.m3u8
+#EXTINF:-1,V3: Al Majd 01
+http://s1.electru.biz:8080/live/Jorge/12345678/110995.m3u8
+#EXTINF:-1,V3: Al Majd 02
+http://s1.electru.biz:8080/live/Jorge/12345678/110993.m3u8
+#EXTINF:-1,V3: Al Majd 03
+http://s1.electru.biz:8080/live/Jorge/12345678/110992.m3u8
+#EXTINF:-1,V3: Al Majd 04
+http://s1.electru.biz:8080/live/Jorge/12345678/110994.m3u8
+#EXTINF:-1,V3: Dubai Sport 1 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111045.m3u8
+#EXTINF:-1,V3: Dubai Sport 2 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111044.m3u8
+#EXTINF:-1,Wanasah Music
+http://s1.electru.biz:8080/live/Jorge/12345678/110802.m3u8
+#EXTINF:-1,Wataniya 1 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/110841.m3u8
+#EXTINF:-1,Wataniya 2 HD
+http://s1.electru.biz:8080/live/Jorge/12345678/110840.m3u8
+#EXTINF:-1,Watar TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111038.m3u8
+#EXTINF:-1,Watn TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110724.m3u8
+#EXTINF:-1,Wesal TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110891.m3u8
+#EXTINF:-1,YAS SPORT HD
+http://s1.electru.biz:8080/live/Jorge/12345678/111024.m3u8
+#EXTINF:-1,Yemen Al Saeedah
+http://s1.electru.biz:8080/live/Jorge/12345678/111055.m3u8
+#EXTINF:-1,Yemen Almaasirah
+http://s1.electru.biz:8080/live/Jorge/12345678/111056.m3u8
+#EXTINF:-1,Yemen Shabab
+http://s1.electru.biz:8080/live/Jorge/12345678/111054.m3u8
+#EXTINF:-1,Yemen Today
+http://s1.electru.biz:8080/live/Jorge/12345678/111053.m3u8
+#EXTINF:-1,Yemen TV
+http://s1.electru.biz:8080/live/Jorge/12345678/111057.m3u8
+#EXTINF:-1,Zad Tv
+http://s1.electru.biz:8080/live/Jorge/12345678/110801.m3u8
+#EXTINF:-1,Zaytouna Hedeya TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110829.m3u8
+#EXTINF:-1,Zaytouna TV
+http://s1.electru.biz:8080/live/Jorge/12345678/110830.m3u8
+#EXTINF:-1,Zee Aflam
+http://s1.electru.biz:8080/live/Jorge/12345678/110781.m3u8
+#EXTINF:-1,Zee Alwan
+http://s1.electru.biz:8080/live/Jorge/12345678/110779.m3u8
