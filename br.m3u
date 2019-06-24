@@ -1,143 +1,171 @@
 #EXTM3U
-#EXTINF:-1,A&E
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3430.m3u8
-#EXTINF:-1,Animal Planet
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3431.m3u8
-#EXTINF:-1,AXN
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3432.m3u8
-#EXTINF:-1,Band
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3433.m3u8
-#EXTINF:-1,Band News
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3434.m3u8
-#EXTINF:-1,Band Sports
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3435.m3u8
-#EXTINF:-1,Canal do Boi
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3437.m3u8
-#EXTINF:-1,Cartoon Network
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3438.m3u8
-#EXTINF:-1,Combate
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3439.m3u8
-#EXTINF:-1,Discovery Channel
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3440.m3u8
-#EXTINF:-1,Discovery Home & Health
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3441.m3u8
-#EXTINF:-1,Discovery Kids
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3442.m3u8
-#EXTINF:-1,Discovery Science
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3443.m3u8
-#EXTINF:-1,Discovery Turbo
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3444.m3u8
-#EXTINF:-1,Disney Channel
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3445.m3u8
-#EXTINF:-1,Disney Junior
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3446.m3u8
-#EXTINF:-1,Disney XD
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3447.m3u8
+#EXTINF:-1,AMC
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114327.m3u8
+#EXTINF:-1,ANIMAL PLANET
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114325.m3u8
+#EXTINF:-1,ANIMAL PLANET ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114324.m3u8
+#EXTINF:-1,BABY TV ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114320.m3u8
+#EXTINF:-1,BIS
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114315.m3u8
+#EXTINF:-1,BIS HD
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114314.m3u8
+#EXTINF:-1,CANAL BRASIL
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114312.m3u8
+#EXTINF:-1,CANAL BRAZIL ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114311.m3u8
+#EXTINF:-1,CANAL SONY
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114310.m3u8
+#EXTINF:-1,CANAL SONY ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114309.m3u8
+#EXTINF:-1,DISCOVERY CIVILIZATION
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114299.m3u8
+#EXTINF:-1,DISCOVERY H&H
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114298.m3u8
+#EXTINF:-1,DISCOVERY H&H ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114297.m3u8
+#EXTINF:-1,DISCOVERY THEATER ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114292.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114289.m3u8
+#EXTINF:-1,DISNEY CHANNEL ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114287.m3u8
+#EXTINF:-1,DISNEY JUNIOR ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114296.m3u8
+#EXTINF:-1,DISNEY XD
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114285.m3u8
 #EXTINF:-1,E!
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3448.m3u8
-#EXTINF:-1,EI Maxx
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3449.m3u8
-#EXTINF:-1,EI Maxx 2
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3450.m3u8
-#EXTINF:-1,ESPN
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3451.m3u8
-#EXTINF:-1,ESPN Brasil
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3452.m3u8
-#EXTINF:-1,FOX
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3453.m3u8
-#EXTINF:-1,FOX Life
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3454.m3u8
-#EXTINF:-1,FOX Sports
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3455.m3u8
-#EXTINF:-1,FOX Sports 2
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3456.m3u8
-#EXTINF:-1,FX
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3457.m3u8
-#EXTINF:-1,Globo
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3458.m3u8
-#EXTINF:-1,Globo Premium
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3459.m3u8
-#EXTINF:-1,Globo PT
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3460.m3u8
-#EXTINF:-1,Gloob
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3461.m3u8
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114284.m3u8
+#EXTINF:-1,FISH TV
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114271.m3u8
+#EXTINF:-1,FOOD NETWORK ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114270.m3u8
+#EXTINF:-1,FOX LIFE  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114267.m3u8
+#EXTINF:-1,FOX PREMIUM 1 ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114266.m3u8
+#EXTINF:-1,FOX PREMIUM 2 ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114265.m3u8
+#EXTINF:-1,FOX SPORTS
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114264.m3u8
+#EXTINF:-1,FOX SPORTS ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114261.m3u8
+#EXTINF:-1,FUTURA
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114260.m3u8
+#EXTINF:-1,FX ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114258.m3u8
+#EXTINF:-1,GLOBO  BRASILLIA
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114257.m3u8
+#EXTINF:-1,GLOBO MG ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114254.m3u8
+#EXTINF:-1,GLOBO NEWS
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114253.m3u8
+#EXTINF:-1,GLOBO NEWS ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114252.m3u8
+#EXTINF:-1,GLOBO NEWS ʜᴅ *
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114251.m3u8
+#EXTINF:-1,GLOBO  RJ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114248.m3u8
+#EXTINF:-1,GLOBO RJ  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114247.m3u8
+#EXTINF:-1,GLOBO SP
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114246.m3u8
+#EXTINF:-1,GLOBO  SP (b)
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114245.m3u8
+#EXTINF:-1,GLOOB
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114243.m3u8
+#EXTINF:-1,GLOOB FHD
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114242.m3u8
 #EXTINF:-1,GNT
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3462.m3u8
-#EXTINF:-1,HBO
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3463.m3u8
-#EXTINF:-1,HBO 2
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3464.m3u8
-#EXTINF:-1,HBO Family
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3465.m3u8
-#EXTINF:-1,HBO Plus
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3466.m3u8
-#EXTINF:-1,HBO Signature
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3467.m3u8
-#EXTINF:-1,historia
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3468.m3u8
-#EXTINF:-1,History 2
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3469.m3u8
-#EXTINF:-1,Investigação Discovery
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3470.m3u8
-#EXTINF:-1,MAX
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3471.m3u8
-#EXTINF:-1,MAX Prime
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3472.m3u8
-#EXTINF:-1,MAX Up
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3473.m3u8
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114241.m3u8
+#EXTINF:-1,HBO  FAMILY
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114234.m3u8
+#EXTINF:-1,HBO FAMILY  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114233.m3u8
+#EXTINF:-1,HISTORY CHANNEL
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114226.m3u8
+#EXTINF:-1,MAX ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114220.m3u8
+#EXTINF:-1,MAX PRIME
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114219.m3u8
+#EXTINF:-1,MAX PRIME ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114218.m3u8
+#EXTINF:-1,MAX UP ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114217.m3u8
 #EXTINF:-1,MEGAPIX
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3474.m3u8
-#EXTINF:-1,Multishow
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3475.m3u8
-#EXTINF:-1,Nat. Geographic
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3476.m3u8
-#EXTINF:-1,Nick Jr.
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3477.m3u8
-#EXTINF:-1,Paramount Channel
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3478.m3u8
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114216.m3u8
+#EXTINF:-1,Megapix ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114215.m3u8
+#EXTINF:-1,MTV ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114213.m3u8
+#EXTINF:-1,MUSIC BOX  BRAZIL
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114210.m3u8
+#EXTINF:-1,NAT GEO KIDS  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114208.m3u8
+#EXTINF:-1,NAT GEO WILD  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114209.m3u8
+#EXTINF:-1,NATGEO  Wild
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114207.m3u8
+#EXTINF:-1,NATGEO WILD ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114206.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114205.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114204.m3u8
+#EXTINF:-1,NICK JR ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114203.m3u8
+#EXTINF:-1,PARAMOUNT
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114200.m3u8
+#EXTINF:-1,PARAMOUNT ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114199.m3u8
 #EXTINF:-1,PFC
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3479.m3u8
-#EXTINF:-1,Record
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3480.m3u8
-#EXTINF:-1,Record News
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3481.m3u8
-#EXTINF:-1,Rede TV
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3482.m3u8
-#EXTINF:-1,SBT
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3483.m3u8
-#EXTINF:-1,SporTV 2
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3484.m3u8
-#EXTINF:-1,SporTV 3
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3485.m3u8
-#EXTINF:-1,sportv1
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3486.m3u8
-#EXTINF:-1,TBS
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3487.m3u8
-#EXTINF:-1,Telecine Action
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3488.m3u8
-#EXTINF:-1,Telecine Cult
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3489.m3u8
-#EXTINF:-1,Telecine Fun
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3490.m3u8
-#EXTINF:-1,Telecine Pipoca
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3491.m3u8
-#EXTINF:-1,Telecine Premium
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3492.m3u8
-#EXTINF:-1,Telecine Touch
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3493.m3u8
-#EXTINF:-1,TLC
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3494.m3u8
-#EXTINF:-1,TNT
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3495.m3u8
-#EXTINF:-1,TV BrasiL
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3496.m3u8
-#EXTINF:-1,TV Cultura
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3497.m3u8
-#EXTINF:-1,Universal Channel
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3498.m3u8
-#EXTINF:-1,Viva
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3499.m3u8
-#EXTINF:-1,Warner Channel
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3500.m3u8
-#EXTINF:-1,Woohoo
-http://painel.soeu.kim:8080/live/fSZRHUex16/4njF5w0fsZ/3501.m3u8
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114198.m3u8
+#EXTINF:-1,PREMIERE 1 ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114196.m3u8
+#EXTINF:-1,PREMIERE  2
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114197.m3u8
+#EXTINF:-1,PREMIERE 3
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114195.m3u8
+#EXTINF:-1,PREMIERE  3 ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114194.m3u8
+#EXTINF:-1,PREMIERE  4
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114193.m3u8
+#EXTINF:-1,PREMIERE 4  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114192.m3u8
+#EXTINF:-1,PREMIERE  5
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114191.m3u8
+#EXTINF:-1,PREMIERE CLUBES  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114184.m3u8
+#EXTINF:-1,RECORD
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114182.m3u8
+#EXTINF:-1,RECORD  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114181.m3u8
+#EXTINF:-1,RECORD MG ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114255.m3u8
+#EXTINF:-1,RECORD  NEWS
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114180.m3u8
+#EXTINF:-1,RECORD NEWS  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114179.m3u8
+#EXTINF:-1,RECORD SP ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114178.m3u8
+#EXTINF:-1,SONY ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114165.m3u8
+#EXTINF:-1,SPORTV  2
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114170.m3u8
+#EXTINF:-1,SPORTV 2  ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114169.m3u8
+#EXTINF:-1,SYFY
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114163.m3u8
+#EXTINF:-1,TBS ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114161.m3u8
+#EXTINF:-1,TELECINE CULT ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114157.m3u8
+#EXTINF:-1,TELECINE FUN ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114156.m3u8
+#EXTINF:-1,TLC ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114151.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114146.m3u8
+#EXTINF:-1,WARNER CHANNEL ʜᴅ
+http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114143.m3u8

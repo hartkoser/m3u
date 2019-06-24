@@ -1,4 +1,47 @@
 #EXTM3U
+#EXTM3U
+#EXTINF:-1,BEIN SPORTS HD
+http://voxtv.dynns.com:8000/live/USA/USA/2352.m3u8
+#EXTINF:-1,BLOOMBERG EUROPE
+http://voxtv.dynns.com:8000/live/USA/USA/2256.m3u8
+#EXTINF:-1,BLOOMBERG TV
+http://voxtv.dynns.com:8000/live/USA/USA/2257.m3u8
+#EXTINF:-1,Boomerang
+http://voxtv.dynns.com:8000/live/USA/USA/2258.m3u8
+#EXTINF:-1,BRAVO HD
+http://voxtv.dynns.com:8000/live/USA/USA/2259.m3u8
+#EXTINF:-1,BYU TV
+http://voxtv.dynns.com:8000/live/USA/USA/2255.m3u8
+#EXTINF:-1,C-SPAN 1
+http://voxtv.dynns.com:8000/live/USA/USA/2260.m3u8
+#EXTINF:-1,C-SPAN 2
+http://voxtv.dynns.com:8000/live/USA/USA/2261.m3u8
+#EXTINF:-1,C-SPAN 3
+http://voxtv.dynns.com:8000/live/USA/USA/2262.m3u8
+#EXTINF:-1,CA SPORTSNET 360 HD
+http://voxtv.dynns.com:8000/live/USA/USA/2263.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://voxtv.dynns.com:8000/live/USA/USA/2270.m3u8
+#EXTINF:-1,A&E HD
+http://voxtv.dynns.com:8000/live/USA/USA/2247.m3u8
+#EXTINF:-1,US ABC HD
+http://voxtv.dynns.com:8000/live/USA/USA/2248.m3u8
+#EXTINF:-1,ABC NEWS HD
+http://voxtv.dynns.com:8000/live/USA/USA/2249.m3u8
+#EXTINF:-1,AFN SPORTS 1
+http://voxtv.dynns.com:8000/live/USA/USA/2250.m3u8
+#EXTINF:-1,AFN SPORTS 2
+http://voxtv.dynns.com:8000/live/USA/USA/2251.m3u8
+#EXTINF:-1,AMAZING DISCOVERIES HD
+http://voxtv.dynns.com:8000/live/USA/USA/2253.m3u8
+#EXTINF:-1,AMC HD
+http://voxtv.dynns.com:8000/live/USA/USA/2252.m3u8
+#EXTINF:-1,ANIMAL PLANET HD
+http://voxtv.dynns.com:8000/live/USA/USA/2254.m3u8
+#EXTINF:-1,CBS
+http://voxtv.dynns.com:8000/live/USA/USA/2264.m3u8
+#EXTINF:-1,CBSN  HD
+http://voxtv.dynns.com:8000/live/USA/USA/2265.m3u8
 #EXTINF:-1,CINEMAX 5
 http://voxtv.dynns.com:8000/live/USA/USA/2271.m3u8
 #EXTINF:-1,CINEMAX ACTION HD
@@ -27,48 +70,6 @@ http://voxtv.dynns.com:8000/live/USA/USA/2279.m3u8
 http://voxtv.dynns.com:8000/live/USA/USA/2281.m3u8
 #EXTINF:-1,DISCOVERY VELOCITY
 http://voxtv.dynns.com:8000/live/USA/USA/2282.m3u8
-#EXTINF:-1,A&E HD
-http://voxtv.dynns.com:8000/live/USA/USA/2247.m3u8
-#EXTINF:-1,US ABC HD
-http://voxtv.dynns.com:8000/live/USA/USA/2248.m3u8
-#EXTINF:-1,ABC NEWS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2249.m3u8
-#EXTINF:-1,AFN SPORTS 1
-http://voxtv.dynns.com:8000/live/USA/USA/2250.m3u8
-#EXTINF:-1,AFN SPORTS 2
-http://voxtv.dynns.com:8000/live/USA/USA/2251.m3u8
-#EXTINF:-1,AMAZING DISCOVERIES HD
-http://voxtv.dynns.com:8000/live/USA/USA/2253.m3u8
-#EXTINF:-1,AMC HD
-http://voxtv.dynns.com:8000/live/USA/USA/2252.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://voxtv.dynns.com:8000/live/USA/USA/2254.m3u8
-#EXTINF:-1,BEIN SPORTS HD
-http://voxtv.dynns.com:8000/live/USA/USA/2352.m3u8
-#EXTINF:-1,BLOOMBERG EUROPE
-http://voxtv.dynns.com:8000/live/USA/USA/2256.m3u8
-#EXTINF:-1,BLOOMBERG TV
-http://voxtv.dynns.com:8000/live/USA/USA/2257.m3u8
-#EXTINF:-1,Boomerang
-http://voxtv.dynns.com:8000/live/USA/USA/2258.m3u8
-#EXTINF:-1,BRAVO HD
-http://voxtv.dynns.com:8000/live/USA/USA/2259.m3u8
-#EXTINF:-1,BYU TV
-http://voxtv.dynns.com:8000/live/USA/USA/2255.m3u8
-#EXTINF:-1,C-SPAN 1
-http://voxtv.dynns.com:8000/live/USA/USA/2260.m3u8
-#EXTINF:-1,C-SPAN 2
-http://voxtv.dynns.com:8000/live/USA/USA/2261.m3u8
-#EXTINF:-1,C-SPAN 3
-http://voxtv.dynns.com:8000/live/USA/USA/2262.m3u8
-#EXTINF:-1,CA SPORTSNET 360 HD
-http://voxtv.dynns.com:8000/live/USA/USA/2263.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://voxtv.dynns.com:8000/live/USA/USA/2270.m3u8
-#EXTINF:-1,CBS
-http://voxtv.dynns.com:8000/live/USA/USA/2264.m3u8
-#EXTINF:-1,CBSN  HD
-http://voxtv.dynns.com:8000/live/USA/USA/2265.m3u8
 #EXTINF:-1,DIY NETWORK
 http://voxtv.dynns.com:8000/live/USA/USA/2277.m3u8
 #EXTINF:-1,DW
