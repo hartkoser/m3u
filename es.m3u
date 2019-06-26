@@ -1,257 +1,175 @@
 #EXTM3U
-#EXTINF:-1,AMC
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39327.m3u8
-#EXTINF:-1,AMC FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39326.m3u8
-#EXTINF:-1,ANTENA 3
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39325.m3u8
-#EXTINF:-1,ANTENA 3  FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39324.m3u8
-#EXTINF:-1,ARAGON TV INT
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39323.m3u8
-#EXTINF:-1,AXN
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39321.m3u8
-#EXTINF:-1,AXN WHITE
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39320.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39319.m3u8
-#EXTINF:-1,AXN_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39322.m3u8
-#EXTINF:-1,BABY_TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39318.m3u8
-#EXTINF:-1,BAR.A_TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39317.m3u8
-#EXTINF:-1,BE MAD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39316.m3u8
-#EXTINF:-1,BEIN LALIGA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39315.m3u8
-#EXTINF:-1,BEINLALIGA1
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39314.m3u8
-#EXTINF:-1,BEINLALIGA2
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39313.m3u8
-#EXTINF:-1,BEINLALIGA3
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39312.m3u8
-#EXTINF:-1,BEINLALIGA4
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39311.m3u8
-#EXTINF:-1,BEINLALIGA5
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39310.m3u8
-#EXTINF:-1,BEINLALIGA6
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39309.m3u8
-#EXTINF:-1,BEINLALIGA7
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39308.m3u8
-#EXTINF:-1,BEINLALIGA8
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39307.m3u8
-#EXTINF:-1,BLAZE
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39306.m3u8
+#EXTINF:-1,13 TV
+http://thepk.co:2086/live/enigma10/10enigma/36326.m3u8
+#EXTINF:-1,7 MURCIA
+http://thepk.co:2086/live/enigma10/10enigma/36327.m3u8
+#EXTINF:-1,A BOLA TV
+http://thepk.co:2086/live/enigma10/10enigma/22376.m3u8
+#EXTINF:-1,ALCARRIA TV
+http://thepk.co:2086/live/enigma10/10enigma/36325.m3u8
+#EXTINF:-1,ARAGON TV
+http://thepk.co:2086/live/enigma10/10enigma/36324.m3u8
 #EXTINF:-1,BOING
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39305.m3u8
-#EXTINF:-1,CALLE 13 FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39303.m3u8
-#EXTINF:-1,CALLE_13
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39304.m3u8
-#EXTINF:-1,CANAL DECASA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39301.m3u8
-#EXTINF:-1,CANAL ODISEA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39300.m3u8
-#EXTINF:-1,CANAL_COCINA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39302.m3u8
-#EXTINF:-1,CANAL_ORBE21
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39299.m3u8
-#EXTINF:-1,CANAL_PANDA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39298.m3u8
-#EXTINF:-1,CAZAyPESCA_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39296.m3u8
-#EXTINF:-1,CAZA_Y_PESCA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39297.m3u8
-#EXTINF:-1,CLAN TVE
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39295.m3u8
-#EXTINF:-1,CLASSICA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39294.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22375.m3u8
+#EXTINF:-1,CANAL 4 TENERIFE
+http://thepk.co:2086/live/enigma10/10enigma/36323.m3u8
+#EXTINF:-1,CANAL COCINA
+http://thepk.co:2086/live/enigma10/10enigma/22374.m3u8
+#EXTINF:-1,CANARIA SAT
+http://thepk.co:2086/live/enigma10/10enigma/36322.m3u8
 #EXTINF:-1,COMEDY CENTRAL
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39293.m3u8
-#EXTINF:-1,COMEDYCENTRALFHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39292.m3u8
-#EXTINF:-1,COSMO
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39291.m3u8
-#EXTINF:-1,COSMO_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39290.m3u8
-#EXTINF:-1,CRIMEN INVES
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39289.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22373.m3u8
+#EXTINF:-1,COSTA DEL SOL TV
+http://thepk.co:2086/live/enigma10/10enigma/36321.m3u8
 #EXTINF:-1,CUATRO
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39288.m3u8
-#EXTINF:-1,CUATRO_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39287.m3u8
-#EXTINF:-1,DISCOVERY
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39286.m3u8
-#EXTINF:-1,DISNEY_CH.
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39284.m3u8
-#EXTINF:-1,DISNEY_CH_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39285.m3u8
-#EXTINF:-1,DISNEY_JR
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39283.m3u8
-#EXTINF:-1,DISNEY_XD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39282.m3u8
-#EXTINF:-1,DIVINITY
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39281.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22372.m3u8
+#EXTINF:-1,DISCOVERY EN ESPANOL
+http://thepk.co:2086/live/enigma10/10enigma/15479.m3u8
+#EXTINF:-1,DISCOVERY FAMILIA
+http://thepk.co:2086/live/enigma10/10enigma/15480.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://thepk.co:2086/live/enigma10/10enigma/22371.m3u8
+#EXTINF:-1,DISNEY JR
+http://thepk.co:2086/live/enigma10/10enigma/22370.m3u8
+#EXTINF:-1,DIVINITY TV
+http://thepk.co:2086/live/enigma10/10enigma/36320.m3u8
+#EXTINF:-1,EIBT SAT
+http://thepk.co:2086/live/enigma10/10enigma/36319.m3u8
+#EXTINF:-1,EN CUATRO
+http://thepk.co:2086/live/enigma10/10enigma/22352.m3u8
 #EXTINF:-1,ENERGY
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39280.m3u8
-#EXTINF:-1,EUROSPORT1
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39279.m3u8
-#EXTINF:-1,EUROSPORT1FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39277.m3u8
-#EXTINF:-1,EUROSPORT2
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39278.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22368.m3u8
+#EXTINF:-1,EUROSPORT
+http://thepk.co:2086/live/enigma10/10enigma/22369.m3u8
+#EXTINF:-1,FIGHT TIME
+http://thepk.co:2086/live/enigma10/10enigma/36318.m3u8
 #EXTINF:-1,FOX
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39276.m3u8
-#EXTINF:-1,FOX FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39275.m3u8
-#EXTINF:-1,FOX LIVE
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39274.m3u8
-#EXTINF:-1,FOX LIVE FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39273.m3u8
-#EXTINF:-1,FOX NEWS
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39272.m3u8
-#EXTINF:-1,GOL
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39271.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22367.m3u8
+#EXTINF:-1,FOX LIFE
+http://thepk.co:2086/live/enigma10/10enigma/22366.m3u8
+#EXTINF:-1,GOL TV
+http://thepk.co:2086/live/enigma10/10enigma/21914.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://thepk.co:2086/live/enigma10/10enigma/22364.m3u8
 #EXTINF:-1,HISTORIA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39270.m3u8
-#EXTINF:-1,HOLLYWOOD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39269.m3u8
-#EXTINF:-1,HOLLYWOODFHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39268.m3u8
-#EXTINF:-1,IBERALIA_TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39267.m3u8
-#EXTINF:-1,LA2
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39264.m3u8
-#EXTINF:-1,LALIGA123TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39261.m3u8
-#EXTINF:-1,LALIGATVBAR1
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39259.m3u8
-#EXTINF:-1,LALIGATVBAR2
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39258.m3u8
-#EXTINF:-1,LALIGATV_BAR
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39260.m3u8
-#EXTINF:-1,LA_1
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39266.m3u8
-#EXTINF:-1,LA_1_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39265.m3u8
-#EXTINF:-1,LA_SEXTA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39263.m3u8
-#EXTINF:-1,LA_SEXTA_HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39262.m3u8
-#EXTINF:-1,LCAMPEONES
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39233.m3u8
-#EXTINF:-1,M. FORMULA1
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39242.m3u8
-#EXTINF:-1,M. FORMULA1 HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39241.m3u8
-#EXTINF:-1,M_ACCIN
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39257.m3u8
-#EXTINF:-1,M. ACCION FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39256.m3u8
-#EXTINF:-1,M. Cine Espaniol
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39255.m3u8
-#EXTINF:-1,M. DEPORTES
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39254.m3u8
-#EXTINF:-1,M. DEPORTES1
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39253.m3u8
-#EXTINF:-1,M. DEPORTES2
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39252.m3u8
-#EXTINF:-1,M. DEPORTES3
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39251.m3u8
-#EXTINF:-1,M. DEPORTES4
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39250.m3u8
-#EXTINF:-1,M. DEPORTES6
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39249.m3u8
-#EXTINF:-1,M. DEPORTES7
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39248.m3u8
-#EXTINF:-1,M. DEPORTES FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39247.m3u8
-#EXTINF:-1,M. DISNEY
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39246.m3u8
-#EXTINF:-1,M. DRAMA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39245.m3u8
-#EXTINF:-1,M. DRAMA FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39244.m3u8
-#EXTINF:-1,M. ESTRENOS FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39243.m3u8
-#EXTINF:-1,MEZZO
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39228.m3u8
-#EXTINF:-1,MEZZO_LIVE_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39227.m3u8
-#EXTINF:-1,MLCAMPEON1
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39240.m3u8
-#EXTINF:-1,MLCAMPEON2
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39239.m3u8
-#EXTINF:-1,MLCAMPEON3
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39238.m3u8
-#EXTINF:-1,MLCAMPEON4
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39237.m3u8
-#EXTINF:-1,MLCAMPEON5
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39236.m3u8
-#EXTINF:-1,MLCAMPEON6
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39235.m3u8
-#EXTINF:-1,MLCAMPEON7
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39234.m3u8
-#EXTINF:-1,MMOTOGPFHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39232.m3u8
-#EXTINF:-1,MNavidadDisney
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39231.m3u8
-#EXTINF:-1,MPartidazo
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39230.m3u8
-#EXTINF:-1,MSeriesmaniaFHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39229.m3u8
-#EXTINF:-1,MTV_ESPAniaA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39226.m3u8
-#EXTINF:-1,MULTIDEPORTE
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39225.m3u8
-#EXTINF:-1,NAT GEOGRAPH
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39222.m3u8
-#EXTINF:-1,NAT_GEO_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39224.m3u8
-#EXTINF:-1,NAT_GEO_WILD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39223.m3u8
-#EXTINF:-1,NEOX
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39221.m3u8
-#EXTINF:-1,NG_WILD_HD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39220.m3u8
-#EXTINF:-1,NICKELODEON
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39218.m3u8
-#EXTINF:-1,NICKELODEONFHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39217.m3u8
-#EXTINF:-1,NICK_JR
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39219.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22363.m3u8
+#EXTINF:-1,HIT TV
+http://thepk.co:2086/live/enigma10/10enigma/36317.m3u8
+#EXTINF:-1,IBIZA GLOBAL TV
+http://thepk.co:2086/live/enigma10/10enigma/36316.m3u8
+#EXTINF:-1,LA SEXTA
+http://thepk.co:2086/live/enigma10/10enigma/22361.m3u8
+#EXTINF:-1,LANCELOT TV
+http://thepk.co:2086/live/enigma10/10enigma/36312.m3u8
+#EXTINF:-1,MEGA
+http://thepk.co:2086/live/enigma10/10enigma/22360.m3u8
+#EXTINF:-1,MOVISTAR ACTION
+http://thepk.co:2086/live/enigma10/10enigma/22359.m3u8
+#EXTINF:-1,MOVISTAR COMEDIA
+http://thepk.co:2086/live/enigma10/10enigma/22358.m3u8
+#EXTINF:-1,MOVISTAR DCINE
+http://thepk.co:2086/live/enigma10/10enigma/22357.m3u8
+#EXTINF:-1,MOVISTAR DEPORTES 2
+http://thepk.co:2086/live/enigma10/10enigma/53519.m3u8
+#EXTINF:-1,MOVISTAR ESTRENOS
+http://thepk.co:2086/live/enigma10/10enigma/22356.m3u8
+#EXTINF:-1,MOVISTAR FORMULA 1
+http://thepk.co:2086/live/enigma10/10enigma/53518.m3u8
+#EXTINF:-1,MOVISTAR FUTBOL
+http://thepk.co:2086/live/enigma10/10enigma/53517.m3u8
+#EXTINF:-1,MOVISTAR GOLF
+http://thepk.co:2086/live/enigma10/10enigma/53515.m3u8
+#EXTINF:-1,MOVISTAR LIGA DE CAMPEONES
+http://thepk.co:2086/live/enigma10/10enigma/53516.m3u8
+#EXTINF:-1,MOVISTAR MOTOGP
+http://thepk.co:2086/live/enigma10/10enigma/53514.m3u8
+#EXTINF:-1,MOVISTAR PARTIDAZO[Live During Events Only]
+http://thepk.co:2086/live/enigma10/10enigma/53513.m3u8
+#EXTINF:-1,MOVISTAR SERIES
+http://thepk.co:2086/live/enigma10/10enigma/22355.m3u8
+#EXTINF:-1,MOVISTAR SERIES XTRA
+http://thepk.co:2086/live/enigma10/10enigma/22354.m3u8
+#EXTINF:-1,MOVISTAR SERIESMANIA
+http://thepk.co:2086/live/enigma10/10enigma/53512.m3u8
+#EXTINF:-1,MOVISTAR XTRA
+http://thepk.co:2086/live/enigma10/10enigma/22353.m3u8
+#EXTINF:-1,MTV
+http://thepk.co:2086/live/enigma10/10enigma/22362.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://thepk.co:2086/live/enigma10/10enigma/22351.m3u8
+#EXTINF:-1,NATIONAL GEOGRAPHIC
+http://thepk.co:2086/live/enigma10/10enigma/22350.m3u8
+#EXTINF:-1,NEOX TV
+http://thepk.co:2086/live/enigma10/10enigma/22349.m3u8
 #EXTINF:-1,NOVA
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39216.m3u8
-#EXTINF:-1,PARAMOUNT
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39215.m3u8
-#EXTINF:-1,PLAYBOY_TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39214.m3u8
-#EXTINF:-1,R_MADRID_TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39213.m3u8
-#EXTINF:-1,SUNDANCE_TV
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39212.m3u8
-#EXTINF:-1,SYFY
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39211.m3u8
-#EXTINF:-1,SYFY FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39210.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22348.m3u8
+#EXTINF:-1,PARAMOUNT CHANNEL
+http://thepk.co:2086/live/enigma10/10enigma/36315.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://thepk.co:2086/live/enigma10/10enigma/13734.m3u8
+#EXTINF:-1,RT
+http://thepk.co:2086/live/enigma10/10enigma/21950.m3u8
+#EXTINF:-1,RTVA
+http://thepk.co:2086/live/enigma10/10enigma/36314.m3u8
+#EXTINF:-1,RTVE
+http://thepk.co:2086/live/enigma10/10enigma/22347.m3u8
+#EXTINF:-1,SEVILLA CHANNEL
+http://thepk.co:2086/live/enigma10/10enigma/22346.m3u8
+#EXTINF:-1,SPORT TV 1
+http://thepk.co:2086/live/enigma10/10enigma/22345.m3u8
+#EXTINF:-1,SPORT TV 2
+http://thepk.co:2086/live/enigma10/10enigma/22344.m3u8
+#EXTINF:-1,SPORT TV 3
+http://thepk.co:2086/live/enigma10/10enigma/22343.m3u8
+#EXTINF:-1,SPORT TV 4
+http://thepk.co:2086/live/enigma10/10enigma/22342.m3u8
+#EXTINF:-1,SPORT TV 5
+http://thepk.co:2086/live/enigma10/10enigma/22341.m3u8
+#EXTINF:-1,TAQUILLA 1
+http://thepk.co:2086/live/enigma10/10enigma/22336.m3u8
+#EXTINF:-1,TAQUILLA 2
+http://thepk.co:2086/live/enigma10/10enigma/22335.m3u8
+#EXTINF:-1,TAQUILLA 3
+http://thepk.co:2086/live/enigma10/10enigma/22334.m3u8
+#EXTINF:-1,TAQUILLA 4
+http://thepk.co:2086/live/enigma10/10enigma/22333.m3u8
+#EXTINF:-1,TAQUILLA 5
+http://thepk.co:2086/live/enigma10/10enigma/22332.m3u8
+#EXTINF:-1,TAQUILLA 6
+http://thepk.co:2086/live/enigma10/10enigma/22331.m3u8
+#EXTINF:-1,TAQUILLA 7
+http://thepk.co:2086/live/enigma10/10enigma/22330.m3u8
+#EXTINF:-1,TAQUILLA 8
+http://thepk.co:2086/live/enigma10/10enigma/22329.m3u8
 #EXTINF:-1,TELECINCO
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39209.m3u8
-#EXTINF:-1,TELECINCO_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39208.m3u8
-#EXTINF:-1,TELEDEPORTE
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39207.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22328.m3u8
+#EXTINF:-1,TELEELX
+http://thepk.co:2086/live/enigma10/10enigma/36310.m3u8
+#EXTINF:-1,TELEMADRID
+http://thepk.co:2086/live/enigma10/10enigma/36309.m3u8
+#EXTINF:-1,TELEPACIFICO
+http://thepk.co:2086/live/enigma10/10enigma/36313.m3u8
+#EXTINF:-1,TELESAFOR
+http://thepk.co:2086/live/enigma10/10enigma/36308.m3u8
+#EXTINF:-1,TELESUR
+http://thepk.co:2086/live/enigma10/10enigma/22327.m3u8
+#EXTINF:-1,TELEVALENCIA
+http://thepk.co:2086/live/enigma10/10enigma/36307.m3u8
+#EXTINF:-1,TIROL TV
+http://thepk.co:2086/live/enigma10/10enigma/22387.m3u8
 #EXTINF:-1,TNT
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39206.m3u8
-#EXTINF:-1,TNT_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39205.m3u8
-#EXTINF:-1,TOROS
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39204.m3u8
-#EXTINF:-1,TOROS_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39203.m3u8
-#EXTINF:-1,VIAJAR
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39202.m3u8
-#EXTINF:-1,VIAJAR_FHD
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39201.m3u8
-#EXTINF:-1,ES::24 HORAS
-http://live.darkside-iptv.com:8080/live/1f2c5eb205b46f41/TCSIBZRf2E/39328.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/22340.m3u8
+#EXTINF:-1,TV GALICIA AMERICA
+http://thepk.co:2086/live/enigma10/10enigma/36306.m3u8
+#EXTINF:-1,TV GALICIA EUROPA
+http://thepk.co:2086/live/enigma10/10enigma/36305.m3u8
+#EXTINF:-1,TV MEDITERRANEO
+http://thepk.co:2086/live/enigma10/10enigma/36304.m3u8
+#EXTINF:-1,TV3 CATALUNYA
+http://thepk.co:2086/live/enigma10/10enigma/22339.m3u8
+#EXTINF:-1,TVE LA 1
+http://thepk.co:2086/live/enigma10/10enigma/22338.m3u8
+#EXTINF:-1,TVE LA 2
+http://thepk.co:2086/live/enigma10/10enigma/22337.m3u8
+#EXTINF:-1,VEGA BAJA TV
+http://thepk.co:2086/live/enigma10/10enigma/36303.m3u8

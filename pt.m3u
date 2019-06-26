@@ -1,279 +1,117 @@
 #EXTM3U
-#EXTINF:-1,RTP 1
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22773.m3u8
-#EXTINF:-1,RTP 2
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22772.m3u8
-#EXTINF:-1,RTP 3
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22771.m3u8
-#EXTINF:-1,SIC
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33647.m3u8
-#EXTINF:-1,SIC HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39819.m3u8
-#EXTINF:-1,SIC Mulher
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22762.m3u8
-#EXTINF:-1,SIC CARAS
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22765.m3u8
-#EXTINF:-1,SIC Notcias
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22761.m3u8
-#EXTINF:-1,SIC RADICAL
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22763.m3u8
-#EXTINF:-1,TVI
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22756.m3u8
-#EXTINF:-1,TVI HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39818.m3u8
-#EXTINF:-1,TVI Ficcao
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22755.m3u8
-#EXTINF:-1,CMTV
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22774.m3u8
-#EXTINF:-1,TVI 24
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22760.m3u8
-#EXTINF:-1,Ca?a e Pesca
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33648.m3u8
-#EXTINF:-1,Calavision
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33791.m3u8
-#EXTINF:-1,CBS Reality
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33793.m3u8
-#EXTINF:-1,TV Cancao Nova
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/40306.m3u8
-#EXTINF:-1,===== PT DESPORTO =====
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/14002.m3u8
-#EXTINF:-1,Sport TV +
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33560.m3u8
-#EXTINF:-1,Sport TV 4K UHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/37597.m3u8
-#EXTINF:-1,SPORT TV 1
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33334.m3u8
-#EXTINF:-1,Sport TV 1 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/38560.m3u8
-#EXTINF:-1,SPORT TV 1 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33561.m3u8
-#EXTINF:-1,SPORT TV 2
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33335.m3u8
-#EXTINF:-1,Sport TV 2 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/38559.m3u8
-#EXTINF:-1,SPORT TV 2 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22805.m3u8
-#EXTINF:-1,SPORT TV 3
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33336.m3u8
-#EXTINF:-1,Sport TV 3 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/38558.m3u8
-#EXTINF:-1,SPORT TV 3 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22804.m3u8
-#EXTINF:-1,SPORT TV 4
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22803.m3u8
-#EXTINF:-1,SPORT TV 5
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22802.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/34011.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/34009.m3u8
-#EXTINF:-1,ELEVEN SPORTS 3 PT
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/34007.m3u8
-#EXTINF:-1,ELEVEN SPORTS 4
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/34006.m3u8
-#EXTINF:-1,ELEVEN SPORTS 5
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/34005.m3u8
-#EXTINF:-1,ELEVEN SPORTS 6
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/34004.m3u8
-#EXTINF:-1,Benfica TV SD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39918.m3u8
-#EXTINF:-1,Benfica TV HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/38561.m3u8
-#EXTINF:-1,Benfica TV FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33646.m3u8
-#EXTINF:-1,Benfica TV 1 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33333.m3u8
-#EXTINF:-1,BENFICA TV 1 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22778.m3u8
-#EXTINF:-1,Sporting TV
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22794.m3u8
-#EXTINF:-1,Porto Canal
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22795.m3u8
-#EXTINF:-1,PFC
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22796.m3u8
-#EXTINF:-1,Real Madrid TV
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22793.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39820.m3u8
-#EXTINF:-1,EUROSPORT 1 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22800.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22801.m3u8
-#EXTINF:-1,A Bola TV
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22751.m3u8
-#EXTINF:-1,NBA TV
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22791.m3u8
-#EXTINF:-1,Motorvision
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22798.m3u8
-#EXTINF:-1,===== PT CINEMA =====
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/14001.m3u8
-#EXTINF:-1,TVCINE 1
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33570.m3u8
-#EXTINF:-1,TVCine 1 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/38557.m3u8
-#EXTINF:-1,TVCINE 1 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33767.m3u8
-#EXTINF:-1,TVCINE 2
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33571.m3u8
-#EXTINF:-1,TVCine 2 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/38556.m3u8
-#EXTINF:-1,TVCINE 2 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22788.m3u8
-#EXTINF:-1,TVCINE 3
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33572.m3u8
-#EXTINF:-1,TVCine 3 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/38563.m3u8
-#EXTINF:-1,TVCINE 3 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22787.m3u8
-#EXTINF:-1,TVCINE 4
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33573.m3u8
-#EXTINF:-1,TVCine 4 HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/38565.m3u8
-#EXTINF:-1,TVCINE 4 FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22786.m3u8
-#EXTINF:-1,TV SERIES HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39821.m3u8
-#EXTINF:-1,TV SERIES FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22724.m3u8
-#EXTINF:-1,AXN BLACK FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22781.m3u8
-#EXTINF:-1,AXN BLACK HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39831.m3u8
-#EXTINF:-1,AXN HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39832.m3u8
-#EXTINF:-1,AXN FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22780.m3u8
-#EXTINF:-1,AXN WHITE HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39833.m3u8
-#EXTINF:-1,AXN WHITE FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22779.m3u8
-#EXTINF:-1,FOX CRIME HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39822.m3u8
-#EXTINF:-1,FOX CRIME FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22713.m3u8
-#EXTINF:-1,FOX Comedy
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22775.m3u8
-#EXTINF:-1,FOX LIFE HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39823.m3u8
-#EXTINF:-1,FOX LIFE FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22712.m3u8
-#EXTINF:-1,FOX Movies
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22782.m3u8
-#EXTINF:-1,Hollywood HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39824.m3u8
-#EXTINF:-1,Hollywood FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22785.m3u8
-#EXTINF:-1,Discovery HD Showcase
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39830.m3u8
-#EXTINF:-1,Discovery FHD Showcase
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33792.m3u8
+#EXTINF:-1,24 KITCHEN HD
+http://s1.electru.biz:8080/live/christiana/christiana/100711.m3u8
+#EXTINF:-1,ABOLA
+http://s1.electru.biz:8080/live/christiana/christiana/101344.m3u8
+#EXTINF:-1,BENFICA TV
+http://s1.electru.biz:8080/live/christiana/christiana/101345.m3u8
+#EXTINF:-1,BTV
+http://s1.electru.biz:8080/live/christiana/christiana/111907.m3u8
+#EXTINF:-1,CANAL NOS
+http://s1.electru.biz:8080/live/christiana/christiana/100710.m3u8
+#EXTINF:-1,CANAL PANDA
+http://s1.electru.biz:8080/live/christiana/christiana/100709.m3u8
+#EXTINF:-1,CANAL Q
+http://s1.electru.biz:8080/live/christiana/christiana/100708.m3u8
+#EXTINF:-1,CANĿªO NOVA
+http://s1.electru.biz:8080/live/christiana/christiana/100707.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://s1.electru.biz:8080/live/christiana/christiana/100706.m3u8
 #EXTINF:-1,CINEMUNDO
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22784.m3u8
-#EXTINF:-1,GLOBO NOW
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22776.m3u8
-#EXTINF:-1,TV Record
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/27407.m3u8
-#EXTINF:-1,Globo TV
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/27406.m3u8
-#EXTINF:-1,AMC HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39825.m3u8
-#EXTINF:-1,AMC FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22749.m3u8
-#EXTINF:-1,Syfy
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22750.m3u8
-#EXTINF:-1,===== PT DOCU / REALITY =====
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/14000.m3u8
-#EXTINF:-1,Odisseia
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22743.m3u8
-#EXTINF:-1,Historia
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22738.m3u8
-#EXTINF:-1,National Geographic HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39826.m3u8
-#EXTINF:-1,National Geographic FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22739.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22740.m3u8
-#EXTINF:-1,Discovery Channel
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22736.m3u8
-#EXTINF:-1,Canal Q
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22731.m3u8
-#EXTINF:-1,TRAVEL CHANNEL HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39827.m3u8
-#EXTINF:-1,TRAVEL CHANNEL FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22711.m3u8
-#EXTINF:-1,Fuel TV
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22745.m3u8
-#EXTINF:-1,A&E
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22752.m3u8
-#EXTINF:-1,TLC
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22753.m3u8
-#EXTINF:-1,24 KITCHEN FHD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22777.m3u8
-#EXTINF:-1,E Entertainment
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22747.m3u8
-#EXTINF:-1,===== PT INFANTIL =====
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/13997.m3u8
-#EXTINF:-1,SIC K
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22764.m3u8
-#EXTINF:-1,Nick Jr.
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33559.m3u8
-#EXTINF:-1,Nickelodeon
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22727.m3u8
-#EXTINF:-1,JimJam
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22728.m3u8
-#EXTINF:-1,Disney Junior
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22729.m3u8
-#EXTINF:-1,Disney Channel
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22730.m3u8
-#EXTINF:-1,Cartoon Network
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22737.m3u8
-#EXTINF:-1,Canal Panda
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22732.m3u8
-#EXTINF:-1,Biggs
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22734.m3u8
-#EXTINF:-1,Baby First
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22735.m3u8
-#EXTINF:-1,===== PT MUSICA =====
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/13998.m3u8
-#EXTINF:-1,VH1 Classic
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22717.m3u8
-#EXTINF:-1,VH1
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22718.m3u8
-#EXTINF:-1,MTV Portugal
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22719.m3u8
-#EXTINF:-1,MCM Pop
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22721.m3u8
-#EXTINF:-1,Afro Musica
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22722.m3u8
-#EXTINF:-1,Toros TV
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22792.m3u8
-#EXTINF:-1,TVI Reality
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22754.m3u8
-#EXTINF:-1,TVI Reality
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22748.m3u8
-#EXTINF:-1,===== PT OUTROS =====
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/13999.m3u8
-#EXTINF:-1,Euronews
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22726.m3u8
-#EXTINF:-1,TVE Internacional
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22757.m3u8
-#EXTINF:-1,TVE 24h
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22758.m3u8
-#EXTINF:-1,TV Globo
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22744.m3u8
-#EXTINF:-1,TV Galicia
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22759.m3u8
-#EXTINF:-1,Canal NOS
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22733.m3u8
-#EXTINF:-1,RTP MEMORIA
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22769.m3u8
+http://s1.electru.biz:8080/live/christiana/christiana/100705.m3u8
+#EXTINF:-1,CM TV
+http://s1.electru.biz:8080/live/christiana/christiana/101622.m3u8
+#EXTINF:-1,DISNEY CHANNEL
+http://s1.electru.biz:8080/live/christiana/christiana/100704.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://s1.electru.biz:8080/live/christiana/christiana/100703.m3u8
+#EXTINF:-1,E! ENTERTAINMENT
+http://s1.electru.biz:8080/live/christiana/christiana/100702.m3u8
+#EXTINF:-1,EURONEWS
+http://s1.electru.biz:8080/live/christiana/christiana/100701.m3u8
+#EXTINF:-1,GLOBO
+http://s1.electru.biz:8080/live/christiana/christiana/100694.m3u8
+#EXTINF:-1,GLOBO PREMIUM
+http://s1.electru.biz:8080/live/christiana/christiana/100693.m3u8
+#EXTINF:-1,NICK JR.
+http://s1.electru.biz:8080/live/christiana/christiana/100692.m3u8
+#EXTINF:-1,NICKELODEON
+http://s1.electru.biz:8080/live/christiana/christiana/100691.m3u8
+#EXTINF:-1,ODISSEIA
+http://s1.electru.biz:8080/live/christiana/christiana/100690.m3u8
+#EXTINF:-1,PFC
+http://s1.electru.biz:8080/live/christiana/christiana/100689.m3u8
+#EXTINF:-1,PORTO CANAL
+http://s1.electru.biz:8080/live/christiana/christiana/100688.m3u8
+#EXTINF:-1,REAL MADRID TV
+http://s1.electru.biz:8080/live/christiana/christiana/100687.m3u8
+#EXTINF:-1,RTP 1
+http://s1.electru.biz:8080/live/christiana/christiana/100686.m3u8
+#EXTINF:-1,RTP 2
+http://s1.electru.biz:8080/live/christiana/christiana/100685.m3u8
+#EXTINF:-1,RTP 3
+http://s1.electru.biz:8080/live/christiana/christiana/100684.m3u8
+#EXTINF:-1,RTP AĿORES
+http://s1.electru.biz:8080/live/christiana/christiana/100683.m3u8
 #EXTINF:-1,RTP MADEIRA
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22770.m3u8
-#EXTINF:-1,RTP Africa
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22768.m3u8
-#EXTINF:-1,RTP Acores
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/22767.m3u8
-#EXTINF:-1,Kuriakos TV HD
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/39829.m3u8
-#EXTINF:-1,Kombat Sport
-http://live.darkside-iptv.com:8080/live/c4576ed6129f/GP6NGTvOyW/33558.m3u8
+http://s1.electru.biz:8080/live/christiana/christiana/100682.m3u8
+#EXTINF:-1,RTP MEMÐRIA
+http://s1.electru.biz:8080/live/christiana/christiana/100681.m3u8
+#EXTINF:-1,SIC
+http://s1.electru.biz:8080/live/christiana/christiana/100680.m3u8
+#EXTINF:-1,SIC CARAS
+http://s1.electru.biz:8080/live/christiana/christiana/100679.m3u8
+#EXTINF:-1,SIC K
+http://s1.electru.biz:8080/live/christiana/christiana/100678.m3u8
+#EXTINF:-1,SIC MULHER
+http://s1.electru.biz:8080/live/christiana/christiana/100677.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://s1.electru.biz:8080/live/christiana/christiana/100676.m3u8
+#EXTINF:-1,SIC RADICAL
+http://s1.electru.biz:8080/live/christiana/christiana/100675.m3u8
+#EXTINF:-1,TV RECORD
+http://s1.electru.biz:8080/live/christiana/christiana/100667.m3u8
+#EXTINF:-1,TV5 MONDE
+http://s1.electru.biz:8080/live/christiana/christiana/100666.m3u8
+#EXTINF:-1,TVCINE 1 HD
+http://s1.electru.biz:8080/live/christiana/christiana/100665.m3u8
+#EXTINF:-1,TVCINE 2
+http://s1.electru.biz:8080/live/christiana/christiana/100664.m3u8
+#EXTINF:-1,TVCINE 4
+http://s1.electru.biz:8080/live/christiana/christiana/100663.m3u8
+#EXTINF:-1,TVE 24H
+http://s1.electru.biz:8080/live/christiana/christiana/100662.m3u8
+#EXTINF:-1,TVE INTERNACIONAL
+http://s1.electru.biz:8080/live/christiana/christiana/100661.m3u8
+#EXTINF:-1,TVI
+http://s1.electru.biz:8080/live/christiana/christiana/100660.m3u8
+#EXTINF:-1,TVI 24
+http://s1.electru.biz:8080/live/christiana/christiana/100659.m3u8
+#EXTINF:-1,TVI REALITY
+http://s1.electru.biz:8080/live/christiana/christiana/100658.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1 HD
+http://s1.electru.biz:8080/live/christiana/christiana/100700.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2 HD
+http://s1.electru.biz:8080/live/christiana/christiana/100699.m3u8
+#EXTINF:-1,ELEVEN SPORTS 3
+http://s1.electru.biz:8080/live/christiana/christiana/100698.m3u8
+#EXTINF:-1,ELEVEN SPORTS 4
+http://s1.electru.biz:8080/live/christiana/christiana/100697.m3u8
+#EXTINF:-1,EUROSPORT 1
+http://s1.electru.biz:8080/live/christiana/christiana/100696.m3u8
+#EXTINF:-1,EUROSPORT 2
+http://s1.electru.biz:8080/live/christiana/christiana/100695.m3u8
+#EXTINF:-1,SPORT TV
+http://s1.electru.biz:8080/live/christiana/christiana/100674.m3u8
+#EXTINF:-1,SPORT TV 1
+http://s1.electru.biz:8080/live/christiana/christiana/100673.m3u8
+#EXTINF:-1,SPORT TV 2
+http://s1.electru.biz:8080/live/christiana/christiana/100672.m3u8
+#EXTINF:-1,SPORT TV 3
+http://s1.electru.biz:8080/live/christiana/christiana/100671.m3u8
+#EXTINF:-1,SPORT TV 4
+http://s1.electru.biz:8080/live/christiana/christiana/100670.m3u8
+#EXTINF:-1,SPORT TV 5
+http://s1.electru.biz:8080/live/christiana/christiana/100669.m3u8
+#EXTINF:-1,SPORTING TV
+http://s1.electru.biz:8080/live/christiana/christiana/100668.m3u8
