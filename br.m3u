@@ -1,171 +1,237 @@
 #EXTM3U
+#EXTINF:-1,A&E
+http://thepk.co:2086/live/enigma10/10enigma/50771.m3u8
 #EXTINF:-1,AMC
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114327.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/52910.m3u8
 #EXTINF:-1,ANIMAL PLANET
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114325.m3u8
-#EXTINF:-1,ANIMAL PLANET ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114324.m3u8
-#EXTINF:-1,BABY TV ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114320.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50770.m3u8
+#EXTINF:-1,ARTE 1
+http://thepk.co:2086/live/enigma10/10enigma/50767.m3u8
+#EXTINF:-1,AXN
+http://thepk.co:2086/live/enigma10/10enigma/50769.m3u8
+#EXTINF:-1,BABY TV
+http://thepk.co:2086/live/enigma10/10enigma/52911.m3u8
+#EXTINF:-1,BAND
+http://thepk.co:2086/live/enigma10/10enigma/50766.m3u8
+#EXTINF:-1,BAND NEWS
+http://thepk.co:2086/live/enigma10/10enigma/50765.m3u8
+#EXTINF:-1,BAND SPORTS
+http://thepk.co:2086/live/enigma10/10enigma/50764.m3u8
 #EXTINF:-1,BIS
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114315.m3u8
-#EXTINF:-1,BIS HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114314.m3u8
-#EXTINF:-1,CANAL BRASIL
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114312.m3u8
-#EXTINF:-1,CANAL BRAZIL ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114311.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50763.m3u8
+#EXTINF:-1,BOOMERANG
+http://thepk.co:2086/live/enigma10/10enigma/50762.m3u8
+#EXTINF:-1,BRAZIL 2
+http://thepk.co:2086/live/enigma10/10enigma/50761.m3u8
+#EXTINF:-1,CANAL BRAZIL
+http://thepk.co:2086/live/enigma10/10enigma/50758.m3u8
+#EXTINF:-1,CANAL DO BOI TV
+http://thepk.co:2086/live/enigma10/10enigma/50756.m3u8
+#EXTINF:-1,CANAL DO TV
+http://thepk.co:2086/live/enigma10/10enigma/50757.m3u8
+#EXTINF:-1,CANAL ESCOLA
+http://thepk.co:2086/live/enigma10/10enigma/50760.m3u8
 #EXTINF:-1,CANAL SONY
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114310.m3u8
-#EXTINF:-1,CANAL SONY ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114309.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50755.m3u8
+#EXTINF:-1,CANCAO NOVA
+http://thepk.co:2086/live/enigma10/10enigma/50754.m3u8
+#EXTINF:-1,CARTOON NETWORK
+http://thepk.co:2086/live/enigma10/10enigma/50753.m3u8
+#EXTINF:-1,CINEMAX
+http://thepk.co:2086/live/enigma10/10enigma/50759.m3u8
+#EXTINF:-1,COMBATE
+http://thepk.co:2086/live/enigma10/10enigma/50752.m3u8
+#EXTINF:-1,CONEXAOBR TV
+http://thepk.co:2086/live/enigma10/10enigma/50751.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://thepk.co:2086/live/enigma10/10enigma/50750.m3u8
 #EXTINF:-1,DISCOVERY CIVILIZATION
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114299.m3u8
-#EXTINF:-1,DISCOVERY H&H
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114298.m3u8
-#EXTINF:-1,DISCOVERY H&H ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114297.m3u8
-#EXTINF:-1,DISCOVERY THEATER ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114292.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50748.m3u8
+#EXTINF:-1,DISCOVERY HOME AND HEALTH
+http://thepk.co:2086/live/enigma10/10enigma/50747.m3u8
+#EXTINF:-1,DISCOVERY SCIENCE
+http://thepk.co:2086/live/enigma10/10enigma/50746.m3u8
+#EXTINF:-1,DISCOVERY TURBO
+http://thepk.co:2086/live/enigma10/10enigma/50745.m3u8
 #EXTINF:-1,DISNEY CHANNEL
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114289.m3u8
-#EXTINF:-1,DISNEY CHANNEL ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114287.m3u8
-#EXTINF:-1,DISNEY JUNIOR ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114296.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50744.m3u8
+#EXTINF:-1,DISNEY JUNIOR
+http://thepk.co:2086/live/enigma10/10enigma/50743.m3u8
 #EXTINF:-1,DISNEY XD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114285.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50742.m3u8
+#EXTINF:-1,DW TV
+http://thepk.co:2086/live/enigma10/10enigma/50749.m3u8
 #EXTINF:-1,E!
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114284.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50741.m3u8
+#EXTINF:-1,EI MAXX
+http://thepk.co:2086/live/enigma10/10enigma/50737.m3u8
+#EXTINF:-1,EI MAXX 2
+http://thepk.co:2086/live/enigma10/10enigma/50740.m3u8
+#EXTINF:-1,ESPN
+http://thepk.co:2086/live/enigma10/10enigma/50738.m3u8
+#EXTINF:-1,ESPN BRAZIL
+http://thepk.co:2086/live/enigma10/10enigma/50739.m3u8
 #EXTINF:-1,FISH TV
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114271.m3u8
-#EXTINF:-1,FOOD NETWORK ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114270.m3u8
-#EXTINF:-1,FOX LIFE  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114267.m3u8
-#EXTINF:-1,FOX PREMIUM 1 ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114266.m3u8
-#EXTINF:-1,FOX PREMIUM 2 ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114265.m3u8
-#EXTINF:-1,FOX SPORTS
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114264.m3u8
-#EXTINF:-1,FOX SPORTS ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114261.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50732.m3u8
+#EXTINF:-1,FOX
+http://thepk.co:2086/live/enigma10/10enigma/50736.m3u8
+#EXTINF:-1,FOX LIFE
+http://thepk.co:2086/live/enigma10/10enigma/50731.m3u8
+#EXTINF:-1,FOX SPORTS 1
+http://thepk.co:2086/live/enigma10/10enigma/50735.m3u8
+#EXTINF:-1,FOX SPORTS 2
+http://thepk.co:2086/live/enigma10/10enigma/50730.m3u8
 #EXTINF:-1,FUTURA
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114260.m3u8
-#EXTINF:-1,FX ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114258.m3u8
-#EXTINF:-1,GLOBO  BRASILLIA
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114257.m3u8
-#EXTINF:-1,GLOBO MG ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114254.m3u8
-#EXTINF:-1,GLOBO NEWS
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114253.m3u8
-#EXTINF:-1,GLOBO NEWS ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114252.m3u8
-#EXTINF:-1,GLOBO NEWS ʜᴅ *
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114251.m3u8
-#EXTINF:-1,GLOBO  RJ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114248.m3u8
-#EXTINF:-1,GLOBO RJ  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114247.m3u8
-#EXTINF:-1,GLOBO SP
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114246.m3u8
-#EXTINF:-1,GLOBO  SP (b)
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114245.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50734.m3u8
+#EXTINF:-1,FX
+http://thepk.co:2086/live/enigma10/10enigma/50733.m3u8
+#EXTINF:-1,GLOBAL TV
+http://thepk.co:2086/live/enigma10/10enigma/50729.m3u8
+#EXTINF:-1,GLOBO
+http://thepk.co:2086/live/enigma10/10enigma/50727.m3u8
 #EXTINF:-1,GLOOB
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114243.m3u8
-#EXTINF:-1,GLOOB FHD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114242.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50726.m3u8
 #EXTINF:-1,GNT
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114241.m3u8
-#EXTINF:-1,HBO  FAMILY
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114234.m3u8
-#EXTINF:-1,HBO FAMILY  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114233.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50728.m3u8
+#EXTINF:-1,H2
+http://thepk.co:2086/live/enigma10/10enigma/50725.m3u8
+#EXTINF:-1,HBO
+http://thepk.co:2086/live/enigma10/10enigma/50724.m3u8
+#EXTINF:-1,HBO 2
+http://thepk.co:2086/live/enigma10/10enigma/50723.m3u8
+#EXTINF:-1,HBO FAMILY
+http://thepk.co:2086/live/enigma10/10enigma/50722.m3u8
+#EXTINF:-1,HBO PLUS
+http://thepk.co:2086/live/enigma10/10enigma/50721.m3u8
+#EXTINF:-1,HBO SIGNATURE
+http://thepk.co:2086/live/enigma10/10enigma/50720.m3u8
 #EXTINF:-1,HISTORY CHANNEL
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114226.m3u8
-#EXTINF:-1,MAX ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114220.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50719.m3u8
+#EXTINF:-1,ID
+http://thepk.co:2086/live/enigma10/10enigma/50718.m3u8
+#EXTINF:-1,MAIS GLOBOSAT
+http://thepk.co:2086/live/enigma10/10enigma/50715.m3u8
+#EXTINF:-1,MANA SAT
+http://thepk.co:2086/live/enigma10/10enigma/50717.m3u8
+#EXTINF:-1,MAX
+http://thepk.co:2086/live/enigma10/10enigma/50714.m3u8
 #EXTINF:-1,MAX PRIME
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114219.m3u8
-#EXTINF:-1,MAX PRIME ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114218.m3u8
-#EXTINF:-1,MAX UP ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114217.m3u8
-#EXTINF:-1,MEGAPIX
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114216.m3u8
-#EXTINF:-1,Megapix ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114215.m3u8
-#EXTINF:-1,MTV ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114213.m3u8
-#EXTINF:-1,MUSIC BOX  BRAZIL
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114210.m3u8
-#EXTINF:-1,NAT GEO KIDS  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114208.m3u8
-#EXTINF:-1,NAT GEO WILD  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114209.m3u8
-#EXTINF:-1,NATGEO  Wild
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114207.m3u8
-#EXTINF:-1,NATGEO WILD ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114206.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114205.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114204.m3u8
-#EXTINF:-1,NICK JR ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114203.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50713.m3u8
+#EXTINF:-1,MAX UP
+http://thepk.co:2086/live/enigma10/10enigma/50712.m3u8
+#EXTINF:-1,MEGA PIX
+http://thepk.co:2086/live/enigma10/10enigma/50711.m3u8
+#EXTINF:-1,MTV
+http://thepk.co:2086/live/enigma10/10enigma/50716.m3u8
+#EXTINF:-1,MULTISHOW
+http://thepk.co:2086/live/enigma10/10enigma/50710.m3u8
+#EXTINF:-1,MUSIC BOX BRAZIL
+http://thepk.co:2086/live/enigma10/10enigma/50709.m3u8
+#EXTINF:-1,NAT GEOGRAPHIC
+http://thepk.co:2086/live/enigma10/10enigma/50708.m3u8
+#EXTINF:-1,NICK JUNIOR
+http://thepk.co:2086/live/enigma10/10enigma/50706.m3u8
+#EXTINF:-1,NICKELODEON
+http://thepk.co:2086/live/enigma10/10enigma/50707.m3u8
+#EXTINF:-1,NOV TEMPO
+http://thepk.co:2086/live/enigma10/10enigma/50705.m3u8
+#EXTINF:-1,OFF
+http://thepk.co:2086/live/enigma10/10enigma/50704.m3u8
 #EXTINF:-1,PARAMOUNT
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114200.m3u8
-#EXTINF:-1,PARAMOUNT ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114199.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50702.m3u8
 #EXTINF:-1,PFC
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114198.m3u8
-#EXTINF:-1,PREMIERE 1 ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114196.m3u8
-#EXTINF:-1,PREMIERE  2
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114197.m3u8
-#EXTINF:-1,PREMIERE 3
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114195.m3u8
-#EXTINF:-1,PREMIERE  3 ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114194.m3u8
-#EXTINF:-1,PREMIERE  4
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114193.m3u8
-#EXTINF:-1,PREMIERE 4  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114192.m3u8
-#EXTINF:-1,PREMIERE  5
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114191.m3u8
-#EXTINF:-1,PREMIERE CLUBES  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114184.m3u8
-#EXTINF:-1,RECORD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114182.m3u8
-#EXTINF:-1,RECORD  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114181.m3u8
-#EXTINF:-1,RECORD MG ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114255.m3u8
-#EXTINF:-1,RECORD  NEWS
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114180.m3u8
-#EXTINF:-1,RECORD NEWS  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114179.m3u8
-#EXTINF:-1,RECORD SP ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114178.m3u8
-#EXTINF:-1,SONY ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114165.m3u8
-#EXTINF:-1,SPORTV  2
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114170.m3u8
-#EXTINF:-1,SPORTV 2  ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114169.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50703.m3u8
+#EXTINF:-1,PREMIERE CLUBES
+http://thepk.co:2086/live/enigma10/10enigma/50701.m3u8
+#EXTINF:-1,PRIME BOX BRAZIL
+http://thepk.co:2086/live/enigma10/10enigma/50700.m3u8
+#EXTINF:-1,PROYECTO 40
+http://thepk.co:2086/live/enigma10/10enigma/50699.m3u8
+#EXTINF:-1,RCTV
+http://thepk.co:2086/live/enigma10/10enigma/50698.m3u8
+#EXTINF:-1,RECORD NEWS
+http://thepk.co:2086/live/enigma10/10enigma/50693.m3u8
+#EXTINF:-1,RECORD TV
+http://thepk.co:2086/live/enigma10/10enigma/50697.m3u8
+#EXTINF:-1,REDE GOSPEL
+http://thepk.co:2086/live/enigma10/10enigma/50696.m3u8
+#EXTINF:-1,REDE RECORD
+http://thepk.co:2086/live/enigma10/10enigma/50695.m3u8
+#EXTINF:-1,REDE TV
+http://thepk.co:2086/live/enigma10/10enigma/50694.m3u8
+#EXTINF:-1,SBT
+http://thepk.co:2086/live/enigma10/10enigma/50692.m3u8
+#EXTINF:-1,SBT BRAZIL
+http://thepk.co:2086/live/enigma10/10enigma/50691.m3u8
+#EXTINF:-1,SPACE
+http://thepk.co:2086/live/enigma10/10enigma/50690.m3u8
+#EXTINF:-1,SPORT TV
+http://thepk.co:2086/live/enigma10/10enigma/50689.m3u8
+#EXTINF:-1,SPORT TV 2
+http://thepk.co:2086/live/enigma10/10enigma/50688.m3u8
+#EXTINF:-1,SPORT TV 3
+http://thepk.co:2086/live/enigma10/10enigma/50687.m3u8
+#EXTINF:-1,STUDIO UNIVERSAL
+http://thepk.co:2086/live/enigma10/10enigma/50686.m3u8
 #EXTINF:-1,SYFY
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114163.m3u8
-#EXTINF:-1,TBS ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114161.m3u8
-#EXTINF:-1,TELECINE CULT ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114157.m3u8
-#EXTINF:-1,TELECINE FUN ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114156.m3u8
-#EXTINF:-1,TLC ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114151.m3u8
-#EXTINF:-1,UNIVERSAL CHANNEL ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114146.m3u8
-#EXTINF:-1,WARNER CHANNEL ʜᴅ
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/114143.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/50685.m3u8
+#EXTINF:-1,TBS
+http://thepk.co:2086/live/enigma10/10enigma/50684.m3u8
+#EXTINF:-1,TCM
+http://thepk.co:2086/live/enigma10/10enigma/50677.m3u8
+#EXTINF:-1,TELECINE ACTION
+http://thepk.co:2086/live/enigma10/10enigma/50683.m3u8
+#EXTINF:-1,TELECINE CULT
+http://thepk.co:2086/live/enigma10/10enigma/50682.m3u8
+#EXTINF:-1,TELECINE FUN
+http://thepk.co:2086/live/enigma10/10enigma/50681.m3u8
+#EXTINF:-1,TELECINE PIPOCA
+http://thepk.co:2086/live/enigma10/10enigma/50680.m3u8
+#EXTINF:-1,TELECINE PREMIUM
+http://thepk.co:2086/live/enigma10/10enigma/50679.m3u8
+#EXTINF:-1,TELECINE TOUCH
+http://thepk.co:2086/live/enigma10/10enigma/50678.m3u8
+#EXTINF:-1,TLC
+http://thepk.co:2086/live/enigma10/10enigma/50676.m3u8
+#EXTINF:-1,TNT
+http://thepk.co:2086/live/enigma10/10enigma/50675.m3u8
+#EXTINF:-1,TNT SERIES
+http://thepk.co:2086/live/enigma10/10enigma/50674.m3u8
+#EXTINF:-1,TOONCAST
+http://thepk.co:2086/live/enigma10/10enigma/50661.m3u8
+#EXTINF:-1,TRU TV
+http://thepk.co:2086/live/enigma10/10enigma/50660.m3u8
+#EXTINF:-1,TV APARCEIDA
+http://thepk.co:2086/live/enigma10/10enigma/50768.m3u8
+#EXTINF:-1,TV BRASIL
+http://thepk.co:2086/live/enigma10/10enigma/50672.m3u8
+#EXTINF:-1,TV DIARIO BRASIL
+http://thepk.co:2086/live/enigma10/10enigma/50670.m3u8
+#EXTINF:-1,TV ESCOLA
+http://thepk.co:2086/live/enigma10/10enigma/50659.m3u8
+#EXTINF:-1,TV GAZETA
+http://thepk.co:2086/live/enigma10/10enigma/50669.m3u8
+#EXTINF:-1,TV GERAL
+http://thepk.co:2086/live/enigma10/10enigma/50668.m3u8
+#EXTINF:-1,TV GLOBO
+http://thepk.co:2086/live/enigma10/10enigma/50667.m3u8
+#EXTINF:-1,TV GLOBO PREMIUM
+http://thepk.co:2086/live/enigma10/10enigma/50666.m3u8
+#EXTINF:-1,TV RECORD
+http://thepk.co:2086/live/enigma10/10enigma/50665.m3u8
+#EXTINF:-1,TV URBANA BRAZIL
+http://thepk.co:2086/live/enigma10/10enigma/50664.m3u8
+#EXTINF:-1,TVE
+http://thepk.co:2086/live/enigma10/10enigma/50663.m3u8
+#EXTINF:-1,TVI
+http://thepk.co:2086/live/enigma10/10enigma/50662.m3u8
+#EXTINF:-1,UNIVERSAL CHANNEL
+http://thepk.co:2086/live/enigma10/10enigma/50658.m3u8
+#EXTINF:-1,VH1 MEGA HITS
+http://thepk.co:2086/live/enigma10/10enigma/50657.m3u8
+#EXTINF:-1,VIVA
+http://thepk.co:2086/live/enigma10/10enigma/50656.m3u8
+#EXTINF:-1,WARNER
+http://thepk.co:2086/live/enigma10/10enigma/50655.m3u8
+#EXTINF:-1,WOOHOO
+http://thepk.co:2086/live/enigma10/10enigma/50654.m3u8
