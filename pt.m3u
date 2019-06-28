@@ -1,117 +1,189 @@
 #EXTM3U
-#EXTINF:-1,24 KITCHEN HD
-http://s1.electru.biz:8080/live/christiana/christiana/100711.m3u8
-#EXTINF:-1,ABOLA
-http://s1.electru.biz:8080/live/christiana/christiana/101344.m3u8
+#EXTINF:-1,24 KITCHEN
+http://thepk.co:2086/live/enigma10/10enigma/51493.m3u8
+#EXTINF:-1,A BOLA TV
+http://thepk.co:2086/live/enigma10/10enigma/51491.m3u8
+#EXTINF:-1,A&E
+http://thepk.co:2086/live/enigma10/10enigma/51492.m3u8
+#EXTINF:-1,AMC
+http://thepk.co:2086/live/enigma10/10enigma/51490.m3u8
+#EXTINF:-1,ARTV
+http://thepk.co:2086/live/enigma10/10enigma/51489.m3u8
+#EXTINF:-1,AXN
+http://thepk.co:2086/live/enigma10/10enigma/51488.m3u8
+#EXTINF:-1,AXN Black
+http://thepk.co:2086/live/enigma10/10enigma/51487.m3u8
+#EXTINF:-1,AXN White
+http://thepk.co:2086/live/enigma10/10enigma/51486.m3u8
+#EXTINF:-1,BABY TV
+http://thepk.co:2086/live/enigma10/10enigma/51485.m3u8
 #EXTINF:-1,BENFICA TV
-http://s1.electru.biz:8080/live/christiana/christiana/101345.m3u8
-#EXTINF:-1,BTV
-http://s1.electru.biz:8080/live/christiana/christiana/111907.m3u8
-#EXTINF:-1,CANAL NOS
-http://s1.electru.biz:8080/live/christiana/christiana/100710.m3u8
-#EXTINF:-1,CANAL PANDA
-http://s1.electru.biz:8080/live/christiana/christiana/100709.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51484.m3u8
+#EXTINF:-1,CACA E PESCA
+http://thepk.co:2086/live/enigma10/10enigma/51481.m3u8
+#EXTINF:-1,CACAVISION
+http://thepk.co:2086/live/enigma10/10enigma/51480.m3u8
 #EXTINF:-1,CANAL Q
-http://s1.electru.biz:8080/live/christiana/christiana/100708.m3u8
-#EXTINF:-1,CANĿªO NOVA
-http://s1.electru.biz:8080/live/christiana/christiana/100707.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51483.m3u8
 #EXTINF:-1,CARTOON NETWORK
-http://s1.electru.biz:8080/live/christiana/christiana/100706.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51482.m3u8
+#EXTINF:-1,CBS REALITY
+http://thepk.co:2086/live/enigma10/10enigma/51479.m3u8
 #EXTINF:-1,CINEMUNDO
-http://s1.electru.biz:8080/live/christiana/christiana/100705.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51478.m3u8
 #EXTINF:-1,CM TV
-http://s1.electru.biz:8080/live/christiana/christiana/101622.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51477.m3u8
+#EXTINF:-1,DISCOVERY CHANNEL
+http://thepk.co:2086/live/enigma10/10enigma/51476.m3u8
 #EXTINF:-1,DISNEY CHANNEL
-http://s1.electru.biz:8080/live/christiana/christiana/100704.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51475.m3u8
 #EXTINF:-1,DISNEY JUNIOR
-http://s1.electru.biz:8080/live/christiana/christiana/100703.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51474.m3u8
 #EXTINF:-1,E! ENTERTAINMENT
-http://s1.electru.biz:8080/live/christiana/christiana/100702.m3u8
-#EXTINF:-1,EURONEWS
-http://s1.electru.biz:8080/live/christiana/christiana/100701.m3u8
-#EXTINF:-1,GLOBO
-http://s1.electru.biz:8080/live/christiana/christiana/100694.m3u8
-#EXTINF:-1,GLOBO PREMIUM
-http://s1.electru.biz:8080/live/christiana/christiana/100693.m3u8
-#EXTINF:-1,NICK JR.
-http://s1.electru.biz:8080/live/christiana/christiana/100692.m3u8
-#EXTINF:-1,NICKELODEON
-http://s1.electru.biz:8080/live/christiana/christiana/100691.m3u8
-#EXTINF:-1,ODISSEIA
-http://s1.electru.biz:8080/live/christiana/christiana/100690.m3u8
-#EXTINF:-1,PFC
-http://s1.electru.biz:8080/live/christiana/christiana/100689.m3u8
-#EXTINF:-1,PORTO CANAL
-http://s1.electru.biz:8080/live/christiana/christiana/100688.m3u8
-#EXTINF:-1,REAL MADRID TV
-http://s1.electru.biz:8080/live/christiana/christiana/100687.m3u8
-#EXTINF:-1,RTP 1
-http://s1.electru.biz:8080/live/christiana/christiana/100686.m3u8
-#EXTINF:-1,RTP 2
-http://s1.electru.biz:8080/live/christiana/christiana/100685.m3u8
-#EXTINF:-1,RTP 3
-http://s1.electru.biz:8080/live/christiana/christiana/100684.m3u8
-#EXTINF:-1,RTP AĿORES
-http://s1.electru.biz:8080/live/christiana/christiana/100683.m3u8
-#EXTINF:-1,RTP MADEIRA
-http://s1.electru.biz:8080/live/christiana/christiana/100682.m3u8
-#EXTINF:-1,RTP MEMÐRIA
-http://s1.electru.biz:8080/live/christiana/christiana/100681.m3u8
-#EXTINF:-1,SIC
-http://s1.electru.biz:8080/live/christiana/christiana/100680.m3u8
-#EXTINF:-1,SIC CARAS
-http://s1.electru.biz:8080/live/christiana/christiana/100679.m3u8
-#EXTINF:-1,SIC K
-http://s1.electru.biz:8080/live/christiana/christiana/100678.m3u8
-#EXTINF:-1,SIC MULHER
-http://s1.electru.biz:8080/live/christiana/christiana/100677.m3u8
-#EXTINF:-1,SIC NOTICIAS
-http://s1.electru.biz:8080/live/christiana/christiana/100676.m3u8
-#EXTINF:-1,SIC RADICAL
-http://s1.electru.biz:8080/live/christiana/christiana/100675.m3u8
-#EXTINF:-1,TV RECORD
-http://s1.electru.biz:8080/live/christiana/christiana/100667.m3u8
-#EXTINF:-1,TV5 MONDE
-http://s1.electru.biz:8080/live/christiana/christiana/100666.m3u8
-#EXTINF:-1,TVCINE 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/100665.m3u8
-#EXTINF:-1,TVCINE 2
-http://s1.electru.biz:8080/live/christiana/christiana/100664.m3u8
-#EXTINF:-1,TVCINE 4
-http://s1.electru.biz:8080/live/christiana/christiana/100663.m3u8
-#EXTINF:-1,TVE 24H
-http://s1.electru.biz:8080/live/christiana/christiana/100662.m3u8
-#EXTINF:-1,TVE INTERNACIONAL
-http://s1.electru.biz:8080/live/christiana/christiana/100661.m3u8
-#EXTINF:-1,TVI
-http://s1.electru.biz:8080/live/christiana/christiana/100660.m3u8
-#EXTINF:-1,TVI 24
-http://s1.electru.biz:8080/live/christiana/christiana/100659.m3u8
-#EXTINF:-1,TVI REALITY
-http://s1.electru.biz:8080/live/christiana/christiana/100658.m3u8
-#EXTINF:-1,ELEVEN SPORTS 1 HD
-http://s1.electru.biz:8080/live/christiana/christiana/100700.m3u8
-#EXTINF:-1,ELEVEN SPORTS 2 HD
-http://s1.electru.biz:8080/live/christiana/christiana/100699.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51473.m3u8
+#EXTINF:-1,ELEVEN SPORTS 1
+http://thepk.co:2086/live/enigma10/10enigma/51472.m3u8
+#EXTINF:-1,ELEVEN SPORTS 2
+http://thepk.co:2086/live/enigma10/10enigma/51471.m3u8
 #EXTINF:-1,ELEVEN SPORTS 3
-http://s1.electru.biz:8080/live/christiana/christiana/100698.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51470.m3u8
 #EXTINF:-1,ELEVEN SPORTS 4
-http://s1.electru.biz:8080/live/christiana/christiana/100697.m3u8
-#EXTINF:-1,EUROSPORT 1
-http://s1.electru.biz:8080/live/christiana/christiana/100696.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://s1.electru.biz:8080/live/christiana/christiana/100695.m3u8
-#EXTINF:-1,SPORT TV
-http://s1.electru.biz:8080/live/christiana/christiana/100674.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51469.m3u8
+#EXTINF:-1,ELEVEN SPORTS 5
+http://thepk.co:2086/live/enigma10/10enigma/51468.m3u8
+#EXTINF:-1,ELEVEN SPORTS 6
+http://thepk.co:2086/live/enigma10/10enigma/51467.m3u8
+#EXTINF:-1,EUROSPORTS 1
+http://thepk.co:2086/live/enigma10/10enigma/51466.m3u8
+#EXTINF:-1,EUROSPORTS 2
+http://thepk.co:2086/live/enigma10/10enigma/51465.m3u8
+#EXTINF:-1,FASHION TV
+http://thepk.co:2086/live/enigma10/10enigma/51464.m3u8
+#EXTINF:-1,FIGHT NETWORK
+http://thepk.co:2086/live/enigma10/10enigma/51463.m3u8
+#EXTINF:-1,FINE LIVING
+http://thepk.co:2086/live/enigma10/10enigma/51456.m3u8
+#EXTINF:-1,FOX
+http://thepk.co:2086/live/enigma10/10enigma/51462.m3u8
+#EXTINF:-1,FOX COMEDY
+http://thepk.co:2086/live/enigma10/10enigma/51461.m3u8
+#EXTINF:-1,FOX CRIME
+http://thepk.co:2086/live/enigma10/10enigma/51460.m3u8
+#EXTINF:-1,FOX LIFE
+http://thepk.co:2086/live/enigma10/10enigma/51459.m3u8
+#EXTINF:-1,FOX MOVIES
+http://thepk.co:2086/live/enigma10/10enigma/51458.m3u8
+#EXTINF:-1,FUEL TV
+http://thepk.co:2086/live/enigma10/10enigma/51457.m3u8
+#EXTINF:-1,GLOBO
+http://thepk.co:2086/live/enigma10/10enigma/51455.m3u8
+#EXTINF:-1,HISTORIA
+http://thepk.co:2086/live/enigma10/10enigma/51454.m3u8
+#EXTINF:-1,HOLLYWOOD
+http://thepk.co:2086/live/enigma10/10enigma/51453.m3u8
+#EXTINF:-1,JIM JAM
+http://thepk.co:2086/live/enigma10/10enigma/51452.m3u8
+#EXTINF:-1,MOTORS TV
+http://thepk.co:2086/live/enigma10/10enigma/51451.m3u8
+#EXTINF:-1,MOTORVISION TV
+http://thepk.co:2086/live/enigma10/10enigma/51450.m3u8
+#EXTINF:-1,MOV
+http://thepk.co:2086/live/enigma10/10enigma/51449.m3u8
+#EXTINF:-1,MTV PORTUGAL
+http://thepk.co:2086/live/enigma10/10enigma/51448.m3u8
+#EXTINF:-1,NAT GEO
+http://thepk.co:2086/live/enigma10/10enigma/51446.m3u8
+#EXTINF:-1,NAT GEO WILD
+http://thepk.co:2086/live/enigma10/10enigma/51447.m3u8
+#EXTINF:-1,NICKELODEON
+http://thepk.co:2086/live/enigma10/10enigma/51445.m3u8
+#EXTINF:-1,ODISSEIA
+http://thepk.co:2086/live/enigma10/10enigma/51444.m3u8
+#EXTINF:-1,OUTDOOR CHANNEL
+http://thepk.co:2086/live/enigma10/10enigma/51443.m3u8
+#EXTINF:-1,PANDA BIGGS
+http://thepk.co:2086/live/enigma10/10enigma/51440.m3u8
+#EXTINF:-1,PFC
+http://thepk.co:2086/live/enigma10/10enigma/51442.m3u8
+#EXTINF:-1,PORTO CANAL
+http://thepk.co:2086/live/enigma10/10enigma/51441.m3u8
+#EXTINF:-1,RTP 1
+http://thepk.co:2086/live/enigma10/10enigma/51439.m3u8
+#EXTINF:-1,RTP 2
+http://thepk.co:2086/live/enigma10/10enigma/51438.m3u8
+#EXTINF:-1,RTP 3
+http://thepk.co:2086/live/enigma10/10enigma/51437.m3u8
+#EXTINF:-1,RTP AÇORES
+http://thepk.co:2086/live/enigma10/10enigma/51436.m3u8
+#EXTINF:-1,RTP AFRICA
+http://thepk.co:2086/live/enigma10/10enigma/51433.m3u8
+#EXTINF:-1,RTP MADEIRA
+http://thepk.co:2086/live/enigma10/10enigma/51435.m3u8
+#EXTINF:-1,RTP MEMORIA
+http://thepk.co:2086/live/enigma10/10enigma/51434.m3u8
+#EXTINF:-1,SIC
+http://thepk.co:2086/live/enigma10/10enigma/51432.m3u8
+#EXTINF:-1,SIC MULHER
+http://thepk.co:2086/live/enigma10/10enigma/51431.m3u8
+#EXTINF:-1,SIC NOTICIAS
+http://thepk.co:2086/live/enigma10/10enigma/51430.m3u8
+#EXTINF:-1,SIC RADICAL
+http://thepk.co:2086/live/enigma10/10enigma/51429.m3u8
 #EXTINF:-1,SPORT TV 1
-http://s1.electru.biz:8080/live/christiana/christiana/100673.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51428.m3u8
 #EXTINF:-1,SPORT TV 2
-http://s1.electru.biz:8080/live/christiana/christiana/100672.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51427.m3u8
 #EXTINF:-1,SPORT TV 3
-http://s1.electru.biz:8080/live/christiana/christiana/100671.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51426.m3u8
 #EXTINF:-1,SPORT TV 4
-http://s1.electru.biz:8080/live/christiana/christiana/100670.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51425.m3u8
 #EXTINF:-1,SPORT TV 5
-http://s1.electru.biz:8080/live/christiana/christiana/100669.m3u8
-#EXTINF:-1,SPORTING TV
-http://s1.electru.biz:8080/live/christiana/christiana/100668.m3u8
+http://thepk.co:2086/live/enigma10/10enigma/51424.m3u8
+#EXTINF:-1,SUNDANCE
+http://thepk.co:2086/live/enigma10/10enigma/51423.m3u8
+#EXTINF:-1,SYFY
+http://thepk.co:2086/live/enigma10/10enigma/51422.m3u8
+#EXTINF:-1,TLC
+http://thepk.co:2086/live/enigma10/10enigma/51421.m3u8
+#EXTINF:-1,TOUROS TV
+http://thepk.co:2086/live/enigma10/10enigma/51420.m3u8
+#EXTINF:-1,TRAVEL CHANNEL
+http://thepk.co:2086/live/enigma10/10enigma/51419.m3u8
+#EXTINF:-1,TV CINE 1
+http://thepk.co:2086/live/enigma10/10enigma/51418.m3u8
+#EXTINF:-1,TV CINE 2
+http://thepk.co:2086/live/enigma10/10enigma/51417.m3u8
+#EXTINF:-1,TV CINE 3
+http://thepk.co:2086/live/enigma10/10enigma/51416.m3u8
+#EXTINF:-1,TV CINE 4
+http://thepk.co:2086/live/enigma10/10enigma/51415.m3u8
+#EXTINF:-1,TV GLOBO NOW
+http://thepk.co:2086/live/enigma10/10enigma/51414.m3u8
+#EXTINF:-1,TV GLOBO PREMIUM
+http://thepk.co:2086/live/enigma10/10enigma/51413.m3u8
+#EXTINF:-1,TV RECORD
+http://thepk.co:2086/live/enigma10/10enigma/51412.m3u8
+#EXTINF:-1,TVC
+http://thepk.co:2086/live/enigma10/10enigma/51411.m3u8
+#EXTINF:-1,TVC SERIES
+http://thepk.co:2086/live/enigma10/10enigma/51406.m3u8
+#EXTINF:-1,TVCINE 1
+http://thepk.co:2086/live/enigma10/10enigma/51410.m3u8
+#EXTINF:-1,TVCINE 2
+http://thepk.co:2086/live/enigma10/10enigma/51409.m3u8
+#EXTINF:-1,TVCINE 3
+http://thepk.co:2086/live/enigma10/10enigma/51408.m3u8
+#EXTINF:-1,TVCINE 4
+http://thepk.co:2086/live/enigma10/10enigma/51407.m3u8
+#EXTINF:-1,TVI 24
+http://thepk.co:2086/live/enigma10/10enigma/51405.m3u8
+#EXTINF:-1,TVI FHD
+http://thepk.co:2086/live/enigma10/10enigma/51404.m3u8
+#EXTINF:-1,TVI FICCAO
+http://thepk.co:2086/live/enigma10/10enigma/51403.m3u8
+#EXTINF:-1,TVI REALITY
+http://thepk.co:2086/live/enigma10/10enigma/51402.m3u8
+#EXTINF:-1,VH1
+http://thepk.co:2086/live/enigma10/10enigma/51401.m3u8
+#EXTINF:-1,VH1 CLASSIC
+http://thepk.co:2086/live/enigma10/10enigma/51400.m3u8
