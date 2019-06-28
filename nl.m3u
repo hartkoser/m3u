@@ -1,97 +1,217 @@
 #EXTM3U
-#EXTINF:-1,192 TV
-http://s1.electru.biz:8080/live/christiana/christiana/111738.m3u8
-#EXTINF:-1,24 KITCHEN HD
-http://s1.electru.biz:8080/live/christiana/christiana/111737.m3u8
-#EXTINF:-1,ANIMAL PLANET HD
-http://s1.electru.biz:8080/live/christiana/christiana/111736.m3u8
-#EXTINF:-1,AT5 HD
-http://s1.electru.biz:8080/live/christiana/christiana/111735.m3u8
-#EXTINF:-1,BABY TV
-http://s1.electru.biz:8080/live/christiana/christiana/111734.m3u8
-#EXTINF:-1,BBC ENTERTAINMENT
-http://s1.electru.biz:8080/live/christiana/christiana/111733.m3u8
-#EXTINF:-1,BOOMERANG
-http://s1.electru.biz:8080/live/christiana/christiana/111732.m3u8
-#EXTINF:-1,CARTOON NETWORK
-http://s1.electru.biz:8080/live/christiana/christiana/111731.m3u8
-#EXTINF:-1,COMEDY CENTRAL
-http://s1.electru.biz:8080/live/christiana/christiana/111730.m3u8
-#EXTINF:-1,CRIME & INVESTIGATION
-http://s1.electru.biz:8080/live/christiana/christiana/111729.m3u8
-#EXTINF:-1,DISCOVER CHANNEL HD
-http://s1.electru.biz:8080/live/christiana/christiana/111728.m3u8
-#EXTINF:-1,DISCOVERY SHOWCASE HD
-http://s1.electru.biz:8080/live/christiana/christiana/111727.m3u8
-#EXTINF:-1,DISNEY CHANNEL
-http://s1.electru.biz:8080/live/christiana/christiana/111726.m3u8
-#EXTINF:-1,DISNEY JUNIOR
-http://s1.electru.biz:8080/live/christiana/christiana/111725.m3u8
-#EXTINF:-1,DUCK TV
-http://s1.electru.biz:8080/live/christiana/christiana/111724.m3u8
-#EXTINF:-1,E! ENTERTAINEMENT HD
-http://s1.electru.biz:8080/live/christiana/christiana/111723.m3u8
-#EXTINF:-1,EDGE SPORT HD
-http://s1.electru.biz:8080/live/christiana/christiana/111722.m3u8
-#EXTINF:-1,EUROSPORT 2
-http://s1.electru.biz:8080/live/christiana/christiana/111720.m3u8
-#EXTINF:-1,EUROSPORT HD 1080P
-http://s1.electru.biz:8080/live/christiana/christiana/111721.m3u8
-#EXTINF:-1,FILM 1 ACTION
-http://s1.electru.biz:8080/live/christiana/christiana/111719.m3u8
-#EXTINF:-1,FILM 1 DRAMA
-http://s1.electru.biz:8080/live/christiana/christiana/111718.m3u8
-#EXTINF:-1,FILM 1 FAMILY
-http://s1.electru.biz:8080/live/christiana/christiana/111717.m3u8
-#EXTINF:-1,FILM 1 PREMIERE
-http://s1.electru.biz:8080/live/christiana/christiana/111716.m3u8
-#EXTINF:-1,FOX HD 1080P
-http://s1.electru.biz:8080/live/christiana/christiana/111715.m3u8
-#EXTINF:-1,FOX SPORTS 1
-http://s1.electru.biz:8080/live/christiana/christiana/111714.m3u8
-#EXTINF:-1,FOX SPORTS 2
-http://s1.electru.biz:8080/live/christiana/christiana/111713.m3u8
-#EXTINF:-1,FOX SPORTS 3
-http://s1.electru.biz:8080/live/christiana/christiana/111712.m3u8
-#EXTINF:-1,FOX SPORTS 4
-http://s1.electru.biz:8080/live/christiana/christiana/111711.m3u8
-#EXTINF:-1,FOX SPORTS 5
-http://s1.electru.biz:8080/live/christiana/christiana/111710.m3u8
-#EXTINF:-1,FOX SPORTS 6 HD
-http://s1.electru.biz:8080/live/christiana/christiana/111709.m3u8
-#EXTINF:-1,GPTV (noordwest Friesland)
-http://s1.electru.biz:8080/live/christiana/christiana/111708.m3u8
-#EXTINF:-1,HISTORY CHANNEL NL
-http://s1.electru.biz:8080/live/christiana/christiana/111707.m3u8
-#EXTINF:-1,INVESTIGATION DISCOVERY
-http://s1.electru.biz:8080/live/christiana/christiana/111706.m3u8
-#EXTINF:-1,JIMJAM
-http://s1.electru.biz:8080/live/christiana/christiana/111705.m3u8
-#EXTINF:-1,KLIPKAR TV
-http://s1.electru.biz:8080/live/christiana/christiana/111704.m3u8
-#EXTINF:-1,L1 LIMBURG
-http://s1.electru.biz:8080/live/christiana/christiana/111703.m3u8
-#EXTINF:-1,MTV FHD
-http://s1.electru.biz:8080/live/christiana/christiana/111702.m3u8
-#EXTINF:-1,MTV MUSIC 24
-http://s1.electru.biz:8080/live/christiana/christiana/111701.m3u8
-#EXTINF:-1,NAT GEO WILD HD1080P
-http://s1.electru.biz:8080/live/christiana/christiana/111700.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD 1080P
-http://s1.electru.biz:8080/live/christiana/christiana/111699.m3u8
-#EXTINF:-1,NET5 HD
-http://s1.electru.biz:8080/live/christiana/christiana/111698.m3u8
-#EXTINF:-1,NICK JR
-http://s1.electru.biz:8080/live/christiana/christiana/111697.m3u8
-#EXTINF:-1,NICKELODEON
-http://s1.electru.biz:8080/live/christiana/christiana/111695.m3u8
-#EXTINF:-1,NICKTOONS
-http://s1.electru.biz:8080/live/christiana/christiana/111696.m3u8
-#EXTINF:-1,NPO 1HD
-http://s1.electru.biz:8080/live/christiana/christiana/111693.m3u8
-#EXTINF:-1,NPO 2HD
-http://s1.electru.biz:8080/live/christiana/christiana/111692.m3u8
-#EXTINF:-1,NPO 3HD
-http://s1.electru.biz:8080/live/christiana/christiana/111691.m3u8
-#EXTINF:-1,SPIKE HD
-http://s1.electru.biz:8080/live/christiana/christiana/111694.m3u8
+#EXTINF:0,NPO 1 FHD
+http://clientbox.tv:80/abcd123/abcd123/9607
+#EXTINF:0,NPO 1 HD
+http://clientbox.tv:80/abcd123/abcd123/1579
+#EXTINF:0,NPO 2 FHD
+http://clientbox.tv:80/abcd123/abcd123/9608
+#EXTINF:0,NPO 2 HD
+http://clientbox.tv:80/abcd123/abcd123/3410
+#EXTINF:0,NPO 3 FHD
+http://clientbox.tv:80/abcd123/abcd123/9609
+#EXTINF:0,NPO 3 HD
+http://clientbox.tv:80/abcd123/abcd123/4401
+#EXTINF:0,NPO Zappelin Xtra/Humor TV
+http://clientbox.tv:80/abcd123/abcd123/3780
+#EXTINF:0,NPO Politiek/Best
+http://clientbox.tv:80/abcd123/abcd123/6320
+#EXTINF:0,NPO Nieuws
+http://clientbox.tv:80/abcd123/abcd123/23324
+#EXTINF:0,NPO FunX
+http://clientbox.tv:80/abcd123/abcd123/7406
+#EXTINF:0,NPO 101
+http://clientbox.tv:80/abcd123/abcd123/7405
+#EXTINF:0,RTL 4 FHD
+http://clientbox.tv:80/abcd123/abcd123/9610
+#EXTINF:0,RTL 4 HD
+http://clientbox.tv:80/abcd123/abcd123/3774
+#EXTINF:0,RTL 5 FHD
+http://clientbox.tv:80/abcd123/abcd123/9611
+#EXTINF:0,RTL 5 HD
+http://clientbox.tv:80/abcd123/abcd123/3775
+#EXTINF:0,SBS 6 FHD
+http://clientbox.tv:80/abcd123/abcd123/9612
+#EXTINF:0,SBS 6 HD
+http://clientbox.tv:80/abcd123/abcd123/3772
+#EXTINF:0,RTL 7 FHD
+http://clientbox.tv:80/abcd123/abcd123/9613
+#EXTINF:0,RTL 7 HD
+http://clientbox.tv:80/abcd123/abcd123/3776
+#EXTINF:0,RTL 8 FHD
+http://clientbox.tv:80/abcd123/abcd123/9614
+#EXTINF:0,RTL 8 HD
+http://clientbox.tv:80/abcd123/abcd123/3777
+#EXTINF:0,RTL Z FHD
+http://clientbox.tv:80/abcd123/abcd123/125548
+#EXTINF:0,RTL Z
+http://clientbox.tv:80/abcd123/abcd123/5891
+#EXTINF:0,SBS 9 FHD
+http://clientbox.tv:80/abcd123/abcd123/125549
+#EXTINF:0,SBS 9
+http://clientbox.tv:80/abcd123/abcd123/5887
+#EXTINF:0,Veronica/DisneyXD FHD
+http://clientbox.tv:80/abcd123/abcd123/9615
+#EXTINF:0,Net 5 FHD
+http://clientbox.tv:80/abcd123/abcd123/14762
+#EXTINF:0,Net 5 HD
+http://clientbox.tv:80/abcd123/abcd123/3418
+#EXTINF:0,AT5 HD
+http://clientbox.tv:80/abcd123/abcd123/5895
+#EXTINF:0,ONS
+http://clientbox.tv:80/abcd123/abcd123/5888
+#EXTINF:0,WOS TV
+http://clientbox.tv:80/abcd123/abcd123/5916
+#EXTINF:0,538 TV
+http://clientbox.tv:80/abcd123/abcd123/5904
+#EXTINF:0,Slam
+http://clientbox.tv:80/abcd123/abcd123/5906
+#EXTINF:0,L1 Limburg
+http://clientbox.tv:80/abcd123/abcd123/5917
+#EXTINF:0,EDE TV
+http://clientbox.tv:80/abcd123/abcd123/5918
+#EXTINF:0,24 Kitchen
+http://clientbox.tv:80/abcd123/abcd123/5896
+#EXTINF:0,Fryslan HD
+http://clientbox.tv:80/abcd123/abcd123/3783
+#EXTINF:0,TVO
+http://clientbox.tv:80/abcd123/abcd123/1431
+#EXTINF:0,RTV Drenthe
+http://clientbox.tv:80/abcd123/abcd123/3785
+#EXTINF:0,Salto 1
+http://clientbox.tv:80/abcd123/abcd123/11740
+#EXTINF:0,Oost
+http://clientbox.tv:80/abcd123/abcd123/3786
+#EXTINF:0,Omroep Zeeland
+http://clientbox.tv:80/abcd123/abcd123/3787
+#EXTINF:0,TLC
+http://clientbox.tv:80/abcd123/abcd123/5905
+#EXTINF:0,Fox FHD
+http://clientbox.tv:80/abcd123/abcd123/125550
+#EXTINF:0,Fox HD
+http://clientbox.tv:80/abcd123/abcd123/5892
+#EXTINF:0,Spike
+http://clientbox.tv:80/abcd123/abcd123/22631
+#EXTINF:0,E! Entertainement
+http://clientbox.tv:80/abcd123/abcd123/5898
+#EXTINF:0,BBC Entertainement
+http://clientbox.tv:80/abcd123/abcd123/5915
+#EXTINF:0,Viceland FHD
+http://clientbox.tv:80/abcd123/abcd123/125552
+#EXTINF:0,Shorts TV HD
+http://clientbox.tv:80/abcd123/abcd123/5900
+#EXTINF:0,TV Oranje
+http://clientbox.tv:80/abcd123/abcd123/6350
+#EXTINF:0,BBC One HD
+http://clientbox.tv:80/abcd123/abcd123/7407
+#EXTINF:0,BBC First HD
+http://clientbox.tv:80/abcd123/abcd123/7408
+#EXTINF:0,TV West FHD
+http://clientbox.tv:80/abcd123/abcd123/125553
+#EXTINF:0,RTV Totaal voor Maas en Waal
+http://clientbox.tv:80/abcd123/abcd123/7409
+#EXTINF:0,RTV Noord
+http://clientbox.tv:80/abcd123/abcd123/7410
+#EXTINF:0,Omroep Brabant
+http://clientbox.tv:80/abcd123/abcd123/7411
+#EXTINF:0,192TV
+http://clientbox.tv:80/abcd123/abcd123/11743
+#EXTINF:0,Xite
+http://clientbox.tv:80/abcd123/abcd123/17962
+#EXTINF:0,N1 (Nijmegen)
+http://clientbox.tv:80/abcd123/abcd123/3784
+#EXTINF:0,I Concerts
+http://clientbox.tv:80/abcd123/abcd123/5911
+#EXTINF:0,--------- NL Kids ----------
+http://clientbox.tv:80/abcd123/abcd123/5126
+#EXTINF:0,Disney Junior
+http://clientbox.tv:80/abcd123/abcd123/7403
+#EXTINF:0,JimJam
+http://clientbox.tv:80/abcd123/abcd123/5913
+#EXTINF:0,Baby TV
+http://clientbox.tv:80/abcd123/abcd123/11739
+#EXTINF:0,Boomerang
+http://clientbox.tv:80/abcd123/abcd123/11737
+#EXTINF:0,Nicktoons
+http://clientbox.tv:80/abcd123/abcd123/5901
+#EXTINF:0,Nick Jr
+http://clientbox.tv:80/abcd123/abcd123/5902
+#EXTINF:0,Nickelodeon
+http://clientbox.tv:80/abcd123/abcd123/5909
+#EXTINF:0,Cartoon Network
+http://clientbox.tv:80/abcd123/abcd123/5903
+#EXTINF:0,Disney Channel HD
+http://clientbox.tv:80/abcd123/abcd123/3773
+#EXTINF:0,Veronica / Disney XD
+http://clientbox.tv:80/abcd123/abcd123/5893
+#EXTINF:0,RTL Telekids FHD
+http://clientbox.tv:80/abcd123/abcd123/125556
+#EXTINF:0,RTL Telekids
+http://clientbox.tv:80/abcd123/abcd123/3914
+#EXTINF:0,--------- NL Docu -----------
+http://clientbox.tv:80/abcd123/abcd123/5127
+#EXTINF:0,Discovery FHD
+http://clientbox.tv:80/abcd123/abcd123/9616
+#EXTINF:0,Discovery Channel
+http://clientbox.tv:80/abcd123/abcd123/4406
+#EXTINF:0,Discovery Showcase HD
+http://clientbox.tv:80/abcd123/abcd123/7412
+#EXTINF:0,Investigation Discovery
+http://clientbox.tv:80/abcd123/abcd123/5914
+#EXTINF:0,National Geographic FHD
+http://clientbox.tv:80/abcd123/abcd123/10949
+#EXTINF:0,National Geographic HD
+http://clientbox.tv:80/abcd123/abcd123/4413
+#EXTINF:0,National Geographic Wild HD
+http://clientbox.tv:80/abcd123/abcd123/5910
+#EXTINF:0,Crime & Investigation
+http://clientbox.tv:80/abcd123/abcd123/4404
+#EXTINF:0,Animal Planet HD
+http://clientbox.tv:80/abcd123/abcd123/5899
+#EXTINF:0,Travel Channel HD
+http://clientbox.tv:80/abcd123/abcd123/11736
+#EXTINF:0,History Channel
+http://clientbox.tv:80/abcd123/abcd123/7404
+#EXTINF:0,--------- NL Cinema ---------
+http://clientbox.tv:80/abcd123/abcd123/5128
+#EXTINF:0,Film 1 Premiere FHD
+http://clientbox.tv:80/abcd123/abcd123/10942
+#EXTINF:0,Film 1 Premiere HD
+http://clientbox.tv:80/abcd123/abcd123/3415
+#EXTINF:0,Film 1 Action FHD
+http://clientbox.tv:80/abcd123/abcd123/125538
+#EXTINF:0,Film 1 Action HD
+http://clientbox.tv:80/abcd123/abcd123/3416
+#EXTINF:0,Film 1 Family FHD
+http://clientbox.tv:80/abcd123/abcd123/125539
+#EXTINF:0,Film 1 Family HD
+http://clientbox.tv:80/abcd123/abcd123/3417
+#EXTINF:0,Film 1 Drama FHD
+http://clientbox.tv:80/abcd123/abcd123/125540
+#EXTINF:0,Film 1 Drama HD
+http://clientbox.tv:80/abcd123/abcd123/4409
+#EXTINF:0,Film Europe FHD
+http://clientbox.tv:80/abcd123/abcd123/125541
+#EXTINF:0,Film Europe HD
+http://clientbox.tv:80/abcd123/abcd123/4408
+#EXTINF:0,Film Cinema HD
+http://clientbox.tv:80/abcd123/abcd123/125547
+#EXTINF:0,HBO 1 HD
+http://clientbox.tv:80/abcd123/abcd123/129278
+#EXTINF:0,HBO 2 HD
+http://clientbox.tv:80/abcd123/abcd123/129279
+#EXTINF:0,HBO 3 HD
+http://clientbox.tv:80/abcd123/abcd123/129280
+#EXTINF:0,RTL Crime FHD
+http://clientbox.tv:80/abcd123/abcd123/125555
+#EXTINF:0,RTL Crime HD
+http://clientbox.tv:80/abcd123/abcd123/11738
+#EXTINF:0,RTL Lounge FHD
+http://clientbox.tv:80/abcd123/abcd123/125554
+#EXTINF:0,RTL Lounge
+http://clientbox.tv:80/abcd123/abcd123/5912
+#EXTINF:0,Comedy Central
+http://clientbox.tv:80/abcd123/abcd123/4405
+#EXTINF:0,Comedy Central Extra
+http://clientbox.tv:80/abcd123/abcd123/5907
+#EXTINF:0,Comedy Central Family
+http://clientbox.tv:80/abcd123/abcd123/9212
