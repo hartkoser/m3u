@@ -1,29 +1,303 @@
 #EXTM3U
-#EXTINF:-1,BEIN SPORT 1HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106188.m3u8
-#EXTINF:-1,BEIN SPORT 2HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106187.m3u8
-#EXTINF:-1,BEIN SPORT 3HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106186.m3u8
-#EXTINF:-1,BEIN SPORT 4HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106185.m3u8
-#EXTINF:-1,BEIN SPORT 5HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106184.m3u8
-#EXTINF:-1,BEIN SPORT 6HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106183.m3u8
-#EXTINF:-1,BEIN SPORT 7HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106182.m3u8
-#EXTINF:-1,BEIN SPORT 8HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106181.m3u8
-#EXTINF:-1,BEIN SPORT 9HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106180.m3u8
-#EXTINF:-1,BEIN SPORT 10HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106179.m3u8
-#EXTINF:-1,BEIN SPORT 11HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106178.m3u8
-#EXTINF:-1,BEIN SPORT 12HD
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/106177.m3u8
-#EXTINF:-1,BEIN SPORTS NEWS
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/111922.m3u8
-#EXTINF:-1,BEIN SPORT GLOBAL
-http://p5.giffy.be:8080/live/RghyHCIE4i/SDrQatrZkx/111921.m3u8
+#EXTINF:-1,SKY SPORT News  HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7187.m3u8
+#EXTINF:-1,SKY SPORT Sport Football HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7192.m3u8
+#EXTINF:-1,SKY SPORT Main Event HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7193.m3u8
+#EXTINF:-1,SKY SPORT Premi league  HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7194.m3u8
+#EXTINF:-1,SKY SPORT Cricket  HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7189.m3u8
+#EXTINF:-1,SKY SPORT Golf HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7188.m3u8
+#EXTINF:-1,SKY SPORT F1 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7190.m3u8
+#EXTINF:-1,SKY SPORT Action HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7191.m3u8
+#EXTINF:-1,SKY SPORT RACING
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15312.m3u8
+#EXTINF:-1,Sly Sport News
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6286.m3u8
+#EXTINF:-1,Sly Sport Football
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6284.m3u8
+#EXTINF:-1,Sly Sport Main Event
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6281.m3u8
+#EXTINF:-1,Sly Sport Prem League
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6280.m3u8
+#EXTINF:-1,Sly Sport Cricket
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6279.m3u8
+#EXTINF:-1,Sly Sport Golf
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6285.m3u8
+#EXTINF:-1,Sly Sport F/1
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6282.m3u8
+#EXTINF:-1,Sly Sport Action
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6283.m3u8
+#EXTINF:-1,Sly Sports Mix
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6287.m3u8
+#EXTINF:-1,sly sports arena
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15185.m3u8
+#EXTINF:-1,EUROSPORT 1 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4980.m3u8
+#EXTINF:-1,EUROSPORT 2 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4979.m3u8
+#EXTINF:-1,Chelsea TV
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/5179.m3u8
+#EXTINF:-1,LFC TV HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4969.m3u8
+#EXTINF:-1,MUTV HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4968.m3u8
+#EXTINF:-1,Chelsea FC
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6031.m3u8
+#EXTINF:-1,Rangers Fc Tv  (Live for Matches)
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6032.m3u8
+#EXTINF:-1,Leeds (Live for Matches)
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15010.m3u8
+#EXTINF:-1,LFC
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15009.m3u8
+#EXTINF:-1,MUTV
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15008.m3u8
+#EXTINF:-1,UK:.eir Sport 1
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4971.m3u8
+#EXTINF:-1,UK:.eirSport 2
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4970.m3u8
+#EXTINF:-1,Premier Sport HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4981.m3u8
+#EXTINF:-1,Premier Sports HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7185.m3u8
+#EXTINF:-1,Premier sports 2
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15177.m3u8
+#EXTINF:-1,Racing UK HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4972.m3u8
+#EXTINF:-1,At The Races SD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4974.m3u8
+#EXTINF:-1,At The Races /
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7186.m3u8
+#EXTINF:-1,Racing UK HD /
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7184.m3u8
+#EXTINF:-1,BoxNation SD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4973.m3u8
+#EXTINF:-1,Boxnation
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/5284.m3u8
+#EXTINF:-1,TEN Cricket
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4814.m3u8
+#EXTINF:-1,TEN Sports 2
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4813.m3u8
+#EXTINF:-1,TEN Sports 3
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4812.m3u8
+#EXTINF:-1,MotorTv
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6385.m3u8
+#EXTINF:-1,DE: DAZN 1
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/17347.m3u8
+#EXTINF:-1,DE: DAZN 2
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/17348.m3u8
+#EXTINF:-1,|INDIA| Star Sport 1 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19033.m3u8
+#EXTINF:-1,|INDIA| Star Sport 2 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19032.m3u8
+#EXTINF:-1,|INDIA| Star Sport 3 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19031.m3u8
+#EXTINF:-1,|INDIA| Star Sport 4 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19030.m3u8
+#EXTINF:-1,|INDIA| Star Sport Select 1 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19029.m3u8
+#EXTINF:-1,USA:. FOX Sport 1
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/5507.m3u8
+#EXTINF:-1,USA:. FOX Sport 2
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/5506.m3u8
+#EXTINF:-1,Le Sports FHD 1
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7151.m3u8
+#EXTINF:-1,Le Sports FHD 2
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7150.m3u8
+#EXTINF:-1,Le Sports FHD 3
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7149.m3u8
+#EXTINF:-1,Le Sports FHD 4
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7148.m3u8
+#EXTINF:-1,Le Sports FHD 5
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7147.m3u8
+#EXTINF:-1,Le Sports FHD 6
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7146.m3u8
+#EXTINF:-1,Le Sports FHD 7
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7145.m3u8
+#EXTINF:-1,Le Sports 08
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15114.m3u8
+#EXTINF:-1,Le Sports 09
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15113.m3u8
+#EXTINF:-1,Le Sports 10
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15112.m3u8
+#EXTINF:-1,EPL:  Sportsnet 360 HD   [Main]
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/12361.m3u8
+#EXTINF:-1,EPL:  Sportsnet One HD   [Main]
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/12360.m3u8
+#EXTINF:-1,EPL:  Sportsnet World HD   [Main]
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/12359.m3u8
+#EXTINF:-1,AR: BeIN Sports 11 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6198.m3u8
+#EXTINF:-1,AR: BeIN Sports 12 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6197.m3u8
+#EXTINF:-1,BEIN Sports 11. Eng
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/5511.m3u8
+#EXTINF:-1,BEIN Sports 12. Eng
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/5510.m3u8
+#EXTINF:-1,AR: BEIN SPORT 12 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7207.m3u8
+#EXTINF:-1,AR: BEIN SPORT 11 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7208.m3u8
+#EXTINF:-1,BEIN SPORT 1 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2071.m3u8
+#EXTINF:-1,BEIN SPORT 2 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2073.m3u8
+#EXTINF:-1,BEIN SPORT 3 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2074.m3u8
+#EXTINF:-1,BEIN SPORT 4 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2075.m3u8
+#EXTINF:-1,BEIN SPORT 5 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2076.m3u8
+#EXTINF:-1,BEIN SPORT 6 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2077.m3u8
+#EXTINF:-1,BEIN SPORT 7 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2078.m3u8
+#EXTINF:-1,BEIN SPORT 8 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2079.m3u8
+#EXTINF:-1,BEIN SPORT 9 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2080.m3u8
+#EXTINF:-1,BEIN SPORT 10 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/2072.m3u8
+#EXTINF:-1,AR: BEIN SPORT 1 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7218.m3u8
+#EXTINF:-1,AR: BEIN SPORT 2 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7217.m3u8
+#EXTINF:-1,AR: BEIN SPORT 3 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7216.m3u8
+#EXTINF:-1,AR: BEIN SPORT 4 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7215.m3u8
+#EXTINF:-1,AR: BEIN SPORT 5 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7214.m3u8
+#EXTINF:-1,AR: BEIN SPORT 6 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7213.m3u8
+#EXTINF:-1,AR: BEIN SPORT 7 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7212.m3u8
+#EXTINF:-1,AR: BEIN SPORT 8 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7211.m3u8
+#EXTINF:-1,AR: BEIN SPORT 9 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7210.m3u8
+#EXTINF:-1,AR: BEIN SPORT 10 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/7209.m3u8
+#EXTINF:-1,BT Sports 1 HD =
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6899.m3u8
+#EXTINF:-1,BT Sports 2 HD =
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6900.m3u8
+#EXTINF:-1,BT Sports 3 HD =
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6901.m3u8
+#EXTINF:-1,BT Sports ESPN =
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6902.m3u8
+#EXTINF:-1,BT Sports 1 HD (Backup)
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6894.m3u8
+#EXTINF:-1,BT Sports 2 HD  (Backup)
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6895.m3u8
+#EXTINF:-1,BT Sports 3 HD (Backup)
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6896.m3u8
+#EXTINF:-1,BT Sport ESPN (Backup)
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6893.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 1 SD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19125.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 2 SD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19124.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 3 SD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19123.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 4 SD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19122.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 5 SD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19121.m3u8
+#EXTINF:-1,UK: BT SPORTS EXTRA 6 SD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19120.m3u8
+#EXTINF:-1,UK: Eleven Sports 1 UK HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15018.m3u8
+#EXTINF:-1,UK: Eleven Sports 2 UK HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15017.m3u8
+#EXTINF:-1,TEN Sports 1
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15014.m3u8
+#EXTINF:-1,|EX-YU| Arena Sport 1 HR
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15218.m3u8
+#EXTINF:-1,|EX-YU| Arena Sport 2 HR
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15217.m3u8
+#EXTINF:-1,|HR| Arena Sports 1 HD Croatia
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15219.m3u8
+#EXTINF:-1,|HR| Arena Sports 2 HD Croatia
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15220.m3u8
+#EXTINF:-1,|HR| Arena Sports 3 HD Croatia
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15221.m3u8
+#EXTINF:-1,|HR| Arena Sports 5 HD Croatia
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15222.m3u8
+#EXTINF:-1,3PM | NBC Golf
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6348.m3u8
+#EXTINF:-1,NBC Golf
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6091.m3u8
+#EXTINF:-1,MLB Network
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15542.m3u8
+#EXTINF:-1,Sportsnet 360 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6673.m3u8
+#EXTINF:-1,Sportsnet 360 HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15536.m3u8
+#EXTINF:-1,Sportsnet East HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15535.m3u8
+#EXTINF:-1,Sportsnet LA HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15534.m3u8
+#EXTINF:-1,Sportsnet New York HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15533.m3u8
+#EXTINF:-1,Sportsnet One HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15532.m3u8
+#EXTINF:-1,Sportsnet Ontario HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15531.m3u8
+#EXTINF:-1,Sportsnet Pacific HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15530.m3u8
+#EXTINF:-1,Sportsnet West HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15529.m3u8
+#EXTINF:-1,WWE Network
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15961.m3u8
+#EXTINF:-1,ESPN   01
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19081.m3u8
+#EXTINF:-1,ESPN   02
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19080.m3u8
+#EXTINF:-1,ESPN   03
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19079.m3u8
+#EXTINF:-1,ESPN   04
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19078.m3u8
+#EXTINF:-1,ESPN   05
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19077.m3u8
+#EXTINF:-1,ESPN   06
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19076.m3u8
+#EXTINF:-1,ESPN   07
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19075.m3u8
+#EXTINF:-1,ESPN   08
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19074.m3u8
+#EXTINF:-1,ESPN   09
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19073.m3u8
+#EXTINF:-1,ESPN   10
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/19072.m3u8
+#EXTINF:-1,Sportsnet World HD*
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15960.m3u8
+#EXTINF:-1,UFC Network
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15962.m3u8
+#EXTINF:-1,NBA Network
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/15541.m3u8
+#EXTINF:-1,Live Events UFC 24/7 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/8375.m3u8
+#EXTINF:-1,TSN 1 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6014.m3u8
+#EXTINF:-1,TSN 2 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6013.m3u8
+#EXTINF:-1,TSN 3 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6011.m3u8
+#EXTINF:-1,TSN 4 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6010.m3u8
+#EXTINF:-1,TSN 5 HD
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6009.m3u8
+#EXTINF:-1,Sports Box Office UK Live 1  Tyson Vs Schwarz Repeat every 25 mins
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/5286.m3u8
+#EXTINF:-1,Sports Box Office UK Live 2
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/5060.m3u8
+#EXTINF:-1,Sports Box Office UFC Fight Pass Live 4
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/4985.m3u8
+#EXTINF:-1,Sports Box Office Dazn Live 3
+http://deadpool.live:8080/live/P6QCqpb3c5/frWc55Ismd/6092.m3u8
